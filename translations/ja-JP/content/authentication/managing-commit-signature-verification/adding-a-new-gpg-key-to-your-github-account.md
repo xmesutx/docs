@@ -28,9 +28,9 @@ Before adding a new GPG key to your account on {% ifversion ghae %}{% data varia
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. [**New GPG key**] をクリックします。 ![GPG キーボタン](/assets/images/help/settings/gpg-add-gpg-key.png)
-4. [Key] フィールドに、[GPG キーを生成](/articles/generating-a-new-gpg-key)したときにコピーした GPG キーを貼り付けます。 ![キーフィールド](/assets/images/help/settings/gpg-key-paste.png)
-5. [**Add GPG key**] をクリックします。 ![キーの追加ボタン](/assets/images/help/settings/gpg-add-key.png)
+3. [**New GPG key**] をクリックします。 ![GPG キーボタン](/assets/images/2021/10/help/settings/gpg-add-gpg-key.png)
+4. [Key] フィールドに、[GPG キーを生成](/articles/generating-a-new-gpg-key)したときにコピーした GPG キーを貼り付けます。 ![キーフィールド](/assets/images/2021/10/help/settings/gpg-key-paste.png)
+5. [**Add GPG key**] をクリックします。 ![キーの追加ボタン](/assets/images/2021/10/help/settings/gpg-add-key.png)
 6. 処理を確認するには、{% data variables.product.product_name %}のパスワードを入力します。
 
 ## 参考リンク

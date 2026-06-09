@@ -28,7 +28,7 @@ topics:
 
 如果文件具有代码所有者，则在打开拉取请求之前可以看到代码所有者是谁。 在仓库中，您可以找到文件并悬停于 {% octicon "shield-lock" aria-label="The edit icon" %} 上。
 
-![仓库中文件的代码所有者](/assets/images/help/repository/code-owner-for-a-file.png)
+![仓库中文件的代码所有者](/assets/images/2021/10/help/repository/code-owner-for-a-file.png)
 
 ## CODEOWNERS 文件位置
 

@@ -19,8 +19,8 @@ You can deliver deployments through {% data variables.product.prodname_actions %
 
 Para ver los despliegues actuales y pasados, da clic en **Ambientes** en la página principal de tu repositorio.
 {% ifversion ghae %}
-![Ambientes](/assets/images/enterprise/2.22/environments-sidebar.png){% else %}
-![Environments](/assets/images/environments-sidebar.png){% endif %}
+![Ambientes](/assets/images/2021/10/enterprise/2.22/environments-sidebar.png){% else %}
+![Environments](/assets/images/2021/10/environments-sidebar.png){% endif %}
 
 La página de despliegues muestra el último despliegue activo de cada ambiente para tu repositorio. Si el despliegue incluye una URL de ambiente, se mostrará junto al despliegue un botón de **Ver despliegue** que enlaza a la URL.
 

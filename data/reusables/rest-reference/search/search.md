@@ -78,7 +78,7 @@ For example, if your search query searches for the `octocat/test` and `codertoca
 
 On GitHub, you can use the context provided by code snippets and highlights in search results. The Search API offers additional metadata that allows you to highlight the matching search terms when displaying search results.
 
-![code-snippet-highlighting](/assets/images/text-match-search-api.png)
+![code-snippet-highlighting](/assets/images/2021/10/text-match-search-api.png)
 
 Requests can opt to receive those text fragments in the response, and every fragment is accompanied by numeric offsets identifying the exact location of each matching search term.
 

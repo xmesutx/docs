@@ -58,7 +58,7 @@ Antes de exigir o uso da autenticação de dois fatores, recomendamos que você 
 
 Para exibir as pessoas que foram removidas automaticamente da organização por motivo de não conformidade quando você passou a exibir a autenticação de dois fatores, você pode [pesquisar o log de auditoria da organização](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#accessing-the-audit-log) para consultar as pessoas removidas da organização. O evento do log de auditoria mostrará se uma pessoa foi removida por motivo de não conformidade com a 2FA.
 
-![Evento do log de auditoria mostrando um usuário removido por motivo de não conformidade com a 2FA](/assets/images/help/2fa/2fa_noncompliance_audit_log_search.png)
+![Evento do log de auditoria mostrando um usuário removido por motivo de não conformidade com a 2FA](/assets/images/2021/10/help/2fa/2fa_noncompliance_audit_log_search.png)
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}

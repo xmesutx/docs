@@ -46,7 +46,7 @@ For more information about introducing {% data variables.product.prodname_action
 
 You can configure a {% data variables.product.prodname_actions %} _workflow_ to be triggered when an _event_ occurs in your repository, such as a pull request being opened or an issue being created.  Your workflow contains one or more _jobs_ which can run in sequential order or in parallel.  Each job will run inside its own virtual machine _runner_, or inside a container, and has one or more _steps_ that either run a script that you define or run an _action_, which is a reusable extension that can simplify your workflow.
 
-![ワークフローの概要](/assets/images/help/images/overview-actions-simple.png)
+![ワークフローの概要](/assets/images/2021/10/help/images/overview-actions-simple.png)
 
 ### ワークフロー
 
@@ -235,18 +235,18 @@ The <code>uses</code> keyword specifies that this step will run <code>v2</code> 
 
 この図では、作成したワークフローファイルと、{% data variables.product.prodname_actions %} コンポーネントが階層にどのように整理されているかを確認できます。 Each step executes a single action or shell script. Steps 1 and 2 run actions, while steps 3 and 4 run shell scripts. ワークフローのビルド済みアクションの詳細については、「[アクションの検索とカスタマイズ](/actions/learn-github-actions/finding-and-customizing-actions)」を参照してください。
 
-![ワークフローの概要](/assets/images/help/images/overview-actions-event.png)
+![ワークフローの概要](/assets/images/2021/10/help/images/overview-actions-event.png)
 
 ## Viewing the workflow's activity
 
 Once your workflow has started running, you can see a visualization graph of the run's progress and view each step's activity on {% data variables.product.prodname_dotcom %}.
 
 {% data reusables.repositories.navigate-to-repo %}
-1. リポジトリ名の下で**Actions（アクション）**をクリックしてください。 ![リポジトリに移動](/assets/images/help/images/learn-github-actions-repository.png)
-1. 左サイドバーで、表示するワークフローをクリックします。 ![ワークフロー結果のスクリーンショット](/assets/images/help/images/learn-github-actions-workflow.png)
-1. [Workflow runs] で、表示する実行の名前をクリックします。 ![ワークフロー実行のスクリーンショット](/assets/images/help/images/learn-github-actions-run.png)
-1. [**Jobs**] または視覚化グラフで、表示するジョブをクリックします。 ![ジョブを選択](/assets/images/help/images/overview-actions-result-navigate.png)
-1. 各ステップの結果を表示します。 ![ワークフロー実行の詳細のスクリーンショット](/assets/images/help/images/overview-actions-result-updated-2.png)
+1. リポジトリ名の下で**Actions（アクション）**をクリックしてください。 ![リポジトリに移動](/assets/images/2021/10/help/images/learn-github-actions-repository.png)
+1. 左サイドバーで、表示するワークフローをクリックします。 ![ワークフロー結果のスクリーンショット](/assets/images/2021/10/help/images/learn-github-actions-workflow.png)
+1. [Workflow runs] で、表示する実行の名前をクリックします。 ![ワークフロー実行のスクリーンショット](/assets/images/2021/10/help/images/learn-github-actions-run.png)
+1. [**Jobs**] または視覚化グラフで、表示するジョブをクリックします。 ![ジョブを選択](/assets/images/2021/10/help/images/overview-actions-result-navigate.png)
+1. 各ステップの結果を表示します。 ![ワークフロー実行の詳細のスクリーンショット](/assets/images/2021/10/help/images/overview-actions-result-updated-2.png)
 
 ## 次のステップ
 

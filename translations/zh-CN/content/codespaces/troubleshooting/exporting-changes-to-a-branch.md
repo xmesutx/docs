@@ -23,6 +23,6 @@ shortTitle: 导出更改
 2. 单击要从中导出的代码空间右侧的省略号 (**...**)。
 3. 选择“**{% octicon "git-branch" aria-label="The git branch icon" %} 将更改导出到分支**”。
 
-  ![将更改导出到分支](/assets/images/help/codespaces/export-changes-to-a-branch.png)
+  ![将更改导出到分支](/assets/images/2021/10/help/codespaces/export-changes-to-a-branch.png)
 
 4. 从弹出窗口中，选择 **Create branch（创建分支）**。

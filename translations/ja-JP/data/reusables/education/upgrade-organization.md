@@ -1,1 +1,1 @@
-1. アップグレードしたいOrganizationのとなりの**Upgrade（アップグレード）**をクリックしてください。 ![アップグレードボタン](/assets/images/help/education/upgrade-org-button.png)
+1. アップグレードしたいOrganizationのとなりの**Upgrade（アップグレード）**をクリックしてください。 ![アップグレードボタン](/assets/images/2021/10/help/education/upgrade-org-button.png)

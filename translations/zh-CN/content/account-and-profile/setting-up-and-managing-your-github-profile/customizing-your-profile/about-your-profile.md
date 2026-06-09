@@ -22,7 +22,7 @@ topics:
 
 {% data reusables.profile.profile-readme %}
 
-![个人资料上显示的个人资料自述文件](/assets/images/help/repository/profile-with-readme.png)
+![个人资料上显示的个人资料自述文件](/assets/images/2021/10/help/repository/profile-with-readme.png)
 
 {% endif %}
 

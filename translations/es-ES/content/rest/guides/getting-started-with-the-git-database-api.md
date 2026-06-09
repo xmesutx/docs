@@ -17,7 +17,7 @@ Básicamente, esto te permite volver a implementar muchas de las funcionalidades
 
 La API de la Base de Datos de Git devolverá un `409 Conflict` si el repositorio de Git está vacío o no disponible.  Que un repositorio se muestre como no disponible habitualmente significa que {% data variables.product.product_name %} está en el proceso de crearlo. Para los casos de repositorios vacíos, puedes utilizar la terminal "[Crear o actualizar el contenido de un archivo](/rest/reference/repos#create-or-update-file-contents)" para crear contenido e inicializar el repositorio para que puedas utilizar la API de la Base de Datos de Git. Contacta a {% data variables.contact.contact_support %} si este estado de respuesta persiste.
 
-![resumen de la base de datos de git](/assets/images/git-database-overview.png)
+![resumen de la base de datos de git](/assets/images/2021/10/git-database-overview.png)
 
 Para obtener más información sobre la base de datos de objetos de Git, por favor lee el capítulo [Internos de Git](http://git-scm.com/book/en/v1/Git-Internals) en el libro Pro de Git.
 

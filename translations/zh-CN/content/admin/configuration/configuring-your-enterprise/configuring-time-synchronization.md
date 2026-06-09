@@ -24,9 +24,9 @@ shortTitle: 配置时间设置
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. 在左侧边栏中，单击 **Time**。 ![{% data variables.enterprise.management_console %} 边栏中的 Time 按钮](/assets/images/enterprise/management-console/sidebar-time.png)
-3. 在“Primary NTP server”下，输入主 NTP 服务器的主机名。 在“Secondary NTP server”下，输入辅助 NTP 服务器的主机名。 ![{% data variables.enterprise.management_console %} 中用于主 NTP 服务器和辅助 NTP 服务器的字段](/assets/images/enterprise/management-console/ntp-servers.png)
-4. 在页面底部，单击 **Save settings**。 ![{% data variables.enterprise.management_console %} 中的 Save settings 按钮](/assets/images/enterprise/management-console/save-settings.png)
+2. 在左侧边栏中，单击 **Time**。 ![{% data variables.enterprise.management_console %} 边栏中的 Time 按钮](/assets/images/2021/10/enterprise/management-console/sidebar-time.png)
+3. 在“Primary NTP server”下，输入主 NTP 服务器的主机名。 在“Secondary NTP server”下，输入辅助 NTP 服务器的主机名。 ![{% data variables.enterprise.management_console %} 中用于主 NTP 服务器和辅助 NTP 服务器的字段](/assets/images/2021/10/enterprise/management-console/ntp-servers.png)
+4. 在页面底部，单击 **Save settings**。 ![{% data variables.enterprise.management_console %} 中的 Save settings 按钮](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 5. 等待配置运行完毕。
 
 ## 更正较大的时间偏差

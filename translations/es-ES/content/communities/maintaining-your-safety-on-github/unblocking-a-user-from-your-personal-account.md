@@ -22,13 +22,13 @@ Puedes desbloquear un usuario en los parámetros de tu cuenta o desde la página
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. En "Blocked users" (Usuarios bloqueados), al lado del usuario que quieres desbloquear, haz clic en **Unblock** (Desbloquear). ![Botón Unblock user (Desbloquear usuario)](/assets/images/help/organizations/org-unblock-user-button.png)
+3. En "Blocked users" (Usuarios bloqueados), al lado del usuario que quieres desbloquear, haz clic en **Unblock** (Desbloquear). ![Botón Unblock user (Desbloquear usuario)](/assets/images/2021/10/help/organizations/org-unblock-user-button.png)
 
 ## Desbloquear un usuario desde su página de perfil
 
 {% data reusables.profile.user_profile_page_navigation %}
-2. En la barra lateral izquierda, debajo de la foto de perfil del usuario, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Desbloquear o reportar usuario**. ![Enlace Unblock or report user (Desbloquear o informar usuario)](/assets/images/help/profile/profile-unblock-or-report-user.png)
-3. Haz clic en **Unblock user** (Desbloquear usuario). ![Casilla modal con la opción para desbloquear un usuario o informar abuso](/assets/images/help/profile/profile-unblockuser.png)
+2. En la barra lateral izquierda, debajo de la foto de perfil del usuario, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Desbloquear o reportar usuario**. ![Enlace Unblock or report user (Desbloquear o informar usuario)](/assets/images/2021/10/help/profile/profile-unblock-or-report-user.png)
+3. Haz clic en **Unblock user** (Desbloquear usuario). ![Casilla modal con la opción para desbloquear un usuario o informar abuso](/assets/images/2021/10/help/profile/profile-unblockuser.png)
 
 {% tip %}
 

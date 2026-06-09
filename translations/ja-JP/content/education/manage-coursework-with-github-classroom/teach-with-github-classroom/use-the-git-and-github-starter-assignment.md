@@ -24,7 +24,7 @@ The Git & {% data variables.product.company_short %} starter assignment is a pre
 3. In the {% octicon "repo" aria-label="The repo icon" %} **Assignments** tab, click  **Use starter assignment**.
 
 <div class="procedural-image-wrapper">
-  <img alt="最初の課題の作成" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-create-first-assignment.png">
+  <img alt="最初の課題の作成" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-create-first-assignment.png">
 </div>
 
 ### クラスルームに既存の課題がある場合
@@ -34,7 +34,7 @@ The Git & {% data variables.product.company_short %} starter assignment is a pre
 3. In the {% octicon "repo" aria-label="The repo icon" %} **Assignments** tab, click the link on the blue banner.
 
 <div class="procedural-image-wrapper">
-  <img alt="'新しい課題'ボタン" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-new-starter-assignment-button.png">
+  <img alt="'新しい課題'ボタン" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-new-starter-assignment-button.png">
 </div>
 
 ## 課題の基本情報をセットアップする
@@ -59,7 +59,7 @@ Import the starter course into your organization, name your assignment, decide w
 You first need to import the Git & {% data variables.product.product_name %} starter assignment into your organization.
 
 <div class="procedural-image-wrapper">
-  <img alt="The `Import the assignment` button" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-import-starter-assignment.png">
+  <img alt="The `Import the assignment` button" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-import-starter-assignment.png">
 </div>
 
 ### Naming the assignment
@@ -79,7 +79,7 @@ You first need to import the Git & {% data variables.product.product_name %} sta
 When you're done, click **Continue**. {% data variables.product.prodname_classroom %} will create the assignment and bring you to the assignment page.
 
 <div class="procedural-image-wrapper">
-  <img alt="'続ける'ボタン" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-continue-button.png">
+  <img alt="'続ける'ボタン" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-continue-button.png">
 </div>
 
 ## 学生を課題に招待する
@@ -89,7 +89,7 @@ When you're done, click **Continue**. {% data variables.product.prodname_classro
 課題の [**All students**] タブで、学生がクラスルームに参加して課題を受け入れたかや、サブミットしたかを表示できます。 {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="個人課題" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-individual-hero.png">
+  <img alt="個人課題" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-individual-hero.png">
 </div>
 
 The Git & {% data variables.product.company_short %} starter assignment is only available for individual students, not for groups. Once you create the assignment, students can start work on the assignment.

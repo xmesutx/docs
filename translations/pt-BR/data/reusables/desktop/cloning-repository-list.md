@@ -3,12 +3,12 @@
 
   {% mac %}
 
-  ![Clonar uma lista de repositórios](/assets/images/help/desktop/clone-a-repository-list-mac.png)
+  ![Clonar uma lista de repositórios](/assets/images/2021/10/help/desktop/clone-a-repository-list-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Clonar uma lista de repositórios](/assets/images/help/desktop/clone-a-repository-list-win.png)
+  ![Clonar uma lista de repositórios](/assets/images/2021/10/help/desktop/clone-a-repository-list-win.png)
 
   {% endwindows %}

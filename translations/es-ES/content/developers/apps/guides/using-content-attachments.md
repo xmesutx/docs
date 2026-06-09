@@ -35,7 +35,7 @@ El flujo de los adjuntos de contenido te muestra la relación entre la URL en el
 
 **Paso 2.** Agrega la URL para el dominio que registraste a un informe de problemas o solicitud de extracción. Debes utilizar una URL totalmente calificada que comience con `http://` o con `https://`.
 
-![URL que se agregó a un informe de problemas](/assets/images/github-apps/github_apps_content_reference.png)
+![URL que se agregó a un informe de problemas](/assets/images/2021/10/github-apps/github_apps_content_reference.png)
 
 **Paso 3.** Tu app recibirá el [webhook de `content_reference`](/webhooks/event-payloads/#content_reference) con la acción `created`.
 
@@ -80,7 +80,7 @@ Para obtener más información acerca de crear un token de instalación, consult
 
 **Paso 5.** Verás como el nuevo adjunto de contenido aparece bajo el enlace en un comentario de una solicitud de extracción o informe de problemas:
 
-![Contenido adjunto a una referencia en un informe de problemas](/assets/images/github-apps/content_reference_attachment.png)
+![Contenido adjunto a una referencia en un informe de problemas](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 ## Utilizar adjuntos de contenido en GraphQL
 Proporcionamos la `node_id` en el evento de [Webhook de `content_reference` ](/webhooks/event-payloads/#content_reference) para que puedas referirte a la mutación `createContentAttachment` en la API de GraphQL.
@@ -170,11 +170,11 @@ Para crear una App de Probot, sigue estos pasos:
 
 4. [Ejecuta la GitHub App localmente](https://probot.github.io/docs/development/#running-the-app-locally). Navega hasta `http://localhost:3000`, y da clic en el botón **Registrar GitHub App**:
 
-   ![Registrar una GitHub App de Probot](/assets/images/github-apps/github_apps_probot-registration.png)
+   ![Registrar una GitHub App de Probot](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 5. Instala la app en un repositorio de prueba.
 6. Crea un informe de problemas en tu repositorio de prueba.
 7. Agrega un comentario en el informe de problemas que abriste, el cual incluya la URL que configuraste en el archivo `app.yml`.
 8. Revisa el comentario del informe de problemas y verás una actualización que se ve así:
 
-   ![Contenido adjunto a una referencia en un informe de problemas](/assets/images/github-apps/content_reference_attachment.png)
+   ![Contenido adjunto a una referencia en un informe de problemas](/assets/images/2021/10/github-apps/content_reference_attachment.png)

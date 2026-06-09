@@ -32,7 +32,7 @@ shortTitle: Change the state
 
 {% data reusables.repositories.sidebar-pr %}
 2. プルリクエストのリストで、レビューの準備ができたことを示すマークを付けたいプルリクエストクリックします。
-3. マージボックスで、[**Ready for review**] をクリックします。 ![[Ready for review] ボタン](/assets/images/help/pull_requests/ready-for-review-button.png)
+3. マージボックスで、[**Ready for review**] をクリックします。 ![[Ready for review] ボタン](/assets/images/2021/10/help/pull_requests/ready-for-review-button.png)
 
 {% ifversion fpt or ghae or ghes or ghec %}
 
@@ -42,8 +42,8 @@ shortTitle: Change the state
 
 {% data reusables.repositories.sidebar-pr %}
 2. [プルリクエスト] リストで、ドラフトに変換するプルリクエストをクリックします。
-3. 右側のサイドバーの [Reviewers] で、[**Convert to draft**] をクリックします。 ![[ドラフトに変換] リンク](/assets/images/help/pull_requests/convert-to-draft-link.png)
-4. [**Convert to draft**] をクリックします。 ![ドラフト確認に変換](/assets/images/help/pull_requests/convert-to-draft-dialog.png)
+3. 右側のサイドバーの [Reviewers] で、[**Convert to draft**] をクリックします。 ![[ドラフトに変換] リンク](/assets/images/2021/10/help/pull_requests/convert-to-draft-link.png)
+4. [**Convert to draft**] をクリックします。 ![ドラフト確認に変換](/assets/images/2021/10/help/pull_requests/convert-to-draft-dialog.png)
 
 {% endif %}
 

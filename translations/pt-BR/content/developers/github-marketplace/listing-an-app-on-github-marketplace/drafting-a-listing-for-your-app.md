@@ -41,11 +41,11 @@ Para criar uma listagem do {% data variables.product.prodname_marketplace %}:
 
   {% endnote %}
 
-  ![Seleção do tipo de aplicativo](/assets/images/settings/apps_choose_app.png)
+  ![Seleção do tipo de aplicativo](/assets/images/2021/10/settings/apps_choose_app.png)
 
-4. Selecione o aplicativo que você gostaria de adicionar ao {% data variables.product.prodname_marketplace %}. ![Seleção de aplicativo para listagem do {% data variables.product.prodname_marketplace %}](/assets/images/github-apps/github_apps_select-app.png)
+4. Selecione o aplicativo que você gostaria de adicionar ao {% data variables.product.prodname_marketplace %}. ![Seleção de aplicativo para listagem do {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.edit_marketplace_listing %}
-5. Uma vez criado um novo rascunho da listagem, você verá um resumo das seções que você precisará visitar antes da sua listagem do {% data variables.product.prodname_marketplace %} ser concluída. ![Listagem do GitHub Marketplace](/assets/images/marketplace/marketplace_listing_overview.png)
+5. Uma vez criado um novo rascunho da listagem, você verá um resumo das seções que você precisará visitar antes da sua listagem do {% data variables.product.prodname_marketplace %} ser concluída. ![Listagem do GitHub Marketplace](/assets/images/2021/10/marketplace/marketplace_listing_overview.png)
 
 
 {% note %}

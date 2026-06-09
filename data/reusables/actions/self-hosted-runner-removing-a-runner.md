@@ -1,7 +1,7 @@
 1. Under {% ifversion fpt or ghes > 3.1 or ghae or ghec %}"Runners"{% else %}"Self-hosted runners"{% endif %}, locate the runner in the list. If your runner is in a group, click {% octicon "chevron-down" aria-label="The downwards chevron" %} to expand the list.
 1. Click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} next to the runner you want to remove, then click **Remove**.
 
-    ![Removing a self-hosted runner setting](/assets/images/help/settings/actions-runner-remove.png)
+    ![Removing a self-hosted runner setting](/assets/images/2021/10/help/settings/actions-runner-remove.png)
 1. You will see instructions for removing the self-hosted runner. Complete either of the following steps to remove the runner, depending on whether it is still accessible:
 
     * **If you have access to the runner machine:** Follow the on-screen instructions for your machine's operating system to run the removal command. The instructions include the required URL and an automatically-generated, time-limited token.

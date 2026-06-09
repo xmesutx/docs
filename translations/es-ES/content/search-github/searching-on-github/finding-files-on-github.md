@@ -24,8 +24,8 @@ topics:
 {% endtip %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. Sobre la lista de archivos, da clic en **Ir al archivo**. ![Botón Buscar archivo](/assets/images/help/search/find-file-button.png)
-3. En el campo de búsqueda, escribe el nombre del archivo que deseas buscar. ![Campo de búsqueda Buscar archivo](/assets/images/help/search/find-file-search-field.png)
+2. Sobre la lista de archivos, da clic en **Ir al archivo**. ![Botón Buscar archivo](/assets/images/2021/10/help/search/find-file-button.png)
+3. En el campo de búsqueda, escribe el nombre del archivo que deseas buscar. ![Campo de búsqueda Buscar archivo](/assets/images/2021/10/help/search/find-file-search-field.png)
 4. En la lista de resultados, haz clic en el archivo que deseas buscar.
 
 ## Leer más

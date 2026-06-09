@@ -20,11 +20,11 @@ Se você é um aluno e seu instrutor configurou a avaliação automática para s
 
 A aba **Ações** mostra o histórico completo de execuções de teste.
 
-![Aba "Ações" com "Todos os fluxos de trabalho" selecionados](/assets/images/help/classroom/autograding-actions-tab.png)
+![Aba "Ações" com "Todos os fluxos de trabalho" selecionados](/assets/images/2021/10/help/classroom/autograding-actions-tab.png)
 
 Você pode clicar em uma execução de teste específico para revisar o resultado do registro, como erros de compilação e falhas de teste.
 
-![O " fluxo de trabalho de avaliação automática de {% data variables.product.prodname_classroom %}" resultados de teste em {% data variables.product.prodname_actions %} ](/assets/images/help/classroom/autograding-actions-logs.png)
+![O " fluxo de trabalho de avaliação automática de {% data variables.product.prodname_classroom %}" resultados de teste em {% data variables.product.prodname_actions %} ](/assets/images/2021/10/help/classroom/autograding-actions-logs.png)
 
 ## Leia mais
 

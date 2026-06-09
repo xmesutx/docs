@@ -27,33 +27,33 @@ Los usuarios de la India pueden contactar al funcionario encargado de las quejas
 
 {% data reusables.profile.user_profile_page_navigation %}
 {% data reusables.profile.user_profile_page_block_or_report %}
-3. Haz clic en **Report abuse** (Informar abuso). ![Cuadro de modo con opciones para bloquear a un usuario o reportar abusos](/assets/images/help/profile/profile-report-abuse.png)
+3. Haz clic en **Report abuse** (Informar abuso). ![Cuadro de modo con opciones para bloquear a un usuario o reportar abusos](/assets/images/2021/10/help/profile/profile-report-abuse.png)
 4. Completa el formulario de contacto para informarle a {% data variables.contact.contact_support %} sobre el comportamiento del usuario, luego haz clic en **Send request** (Enviar solicitud).
 
 ## Informar una propuesta o solicitud de extracción
 
 1. Navega hasta la propuesta o solicitud de extracción que quieras informar.
-2. En la esquina superior derecha del informe de problema o solicitud de extracción, da clic en{% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}, después, da clic en **Reportar contenido**. ![Botón para informar un comentario](/assets/images/help/repository/menu-report-issue-or-pr.png)
+2. En la esquina superior derecha del informe de problema o solicitud de extracción, da clic en{% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}, después, da clic en **Reportar contenido**. ![Botón para informar un comentario](/assets/images/2021/10/help/repository/menu-report-issue-or-pr.png)
 {% data reusables.community.report-content %}
 
 ## Informar un comentario
 
 1. Navega hasta el comentario que quieras informar.
-2. En la esquina superior derecha del comentario, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}, y luego da clic en **Reportar contenido**. ![Menú Kebab con opción para informar un comentario](/assets/images/help/repository/menu-report-comment.png)
+2. En la esquina superior derecha del comentario, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}, y luego da clic en **Reportar contenido**. ![Menú Kebab con opción para informar un comentario](/assets/images/2021/10/help/repository/menu-report-comment.png)
 {% data reusables.community.report-content %}
 
 ## Informar una app en {% data variables.product.prodname_marketplace %}
 
 {% data reusables.marketplace.visit-marketplace %}
 2. Navega hasta la app que quieras informar.
-3. En la barra lateral izquierda, en la sección "Developer links" (Enlaces del programador), haz clic en {% octicon "report" aria-label="The report symbol" %} **Report abuse** (Informar abuso). ![Botón para informar una app en {% data variables.product.prodname_marketplace %}](/assets/images/help/marketplace/marketplace-report-app.png)
+3. En la barra lateral izquierda, en la sección "Developer links" (Enlaces del programador), haz clic en {% octicon "report" aria-label="The report symbol" %} **Report abuse** (Informar abuso). ![Botón para informar una app en {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/help/marketplace/marketplace-report-app.png)
 4. Completa el formulario de contacto para informarle a {% data variables.contact.contact_support %} sobre el comportamiento de la app, luego haz clic en **Send request** (Enviar solicitud).
 
 ## Reportar abusos en enlaces de contacto dentro del selector de plantillas
 
 1. Navega al repositorio que contiene el enlace de contacto que deseas reportar.
 2. Debajo del nombre del repositorio, da clic en {% octicon "issue-opened" aria-label="The issues icon" %} **Problemas**.
-3. En la esquina inferior derecha del selector de plantillas, haz clic en **Report Abuse (Reportar abuso)**. ![Enlace para denunciar un abuso](/assets/images/help/repository/template-chooser-report-abuse.png)
+3. En la esquina inferior derecha del selector de plantillas, haz clic en **Report Abuse (Reportar abuso)**. ![Enlace para denunciar un abuso](/assets/images/2021/10/help/repository/template-chooser-report-abuse.png)
 4. Completa el formato de contacto para informar a {% data variables.contact.contact_support %} acerca del comportamiento del enlace, posteriormente, da clic en **Enviar solicitud**.
 
 ## Leer más

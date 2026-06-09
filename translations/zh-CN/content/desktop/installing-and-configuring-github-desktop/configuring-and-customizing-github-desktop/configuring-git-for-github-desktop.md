@@ -27,13 +27,13 @@ versions:
 {% data reusables.desktop.copy-email-git-config %}
 {% data reusables.desktop.return-to-desktop %}
 {% data reusables.desktop.mac-select-desktop-menu %}
-7. 在 Preferences（首选项）窗口中，单击 **Git**。 ![Preferences（首选项）菜单中的 Git 窗格](/assets/images/help/desktop/mac-select-git-pane.png)
+7. 在 Preferences（首选项）窗口中，单击 **Git**。 ![Preferences（首选项）菜单中的 Git 窗格](/assets/images/2021/10/help/desktop/mac-select-git-pane.png)
 {% data reusables.desktop.name-field-git-config %}
-  ![Git 配置的名称字段](/assets/images/help/desktop/mac-name-git-config.png)
+  ![Git 配置的名称字段](/assets/images/2021/10/help/desktop/mac-name-git-config.png)
 {% data reusables.desktop.paste-email-git-config %}
-  ![Git 配置字段中粘贴的电子邮件地址](/assets/images/help/desktop/mac-email-git-config.png)
+  ![Git 配置字段中粘贴的电子邮件地址](/assets/images/2021/10/help/desktop/mac-email-git-config.png)
 {% data reusables.desktop.click-save-git-config %}
-  ![Git 配置字段中的 Save（保存）按钮](/assets/images/help/desktop/mac-save-git-config.png)
+  ![Git 配置字段中的 Save（保存）按钮](/assets/images/2021/10/help/desktop/mac-save-git-config.png)
 
 {% endmac %}
 
@@ -45,13 +45,13 @@ versions:
 {% data reusables.desktop.copy-email-git-config %}
 {% data reusables.desktop.return-to-desktop %}
 {% data reusables.desktop.windows-choose-options %}
-8. 在 Options（选项）窗口中，单击 **Git**。 ![Options（选项）菜单中的 Git 窗格](/assets/images/help/desktop/windows-select-git-pane.png)
+8. 在 Options（选项）窗口中，单击 **Git**。 ![Options（选项）菜单中的 Git 窗格](/assets/images/2021/10/help/desktop/windows-select-git-pane.png)
 {% data reusables.desktop.name-field-git-config %}
-  ![Git 配置的名称字段](/assets/images/help/desktop/windows-name-git-config.png)
+  ![Git 配置的名称字段](/assets/images/2021/10/help/desktop/windows-name-git-config.png)
 {% data reusables.desktop.paste-email-git-config %}
-  ![Git 配置字段中粘贴的电子邮件地址](/assets/images/help/desktop/windows-email-git-config.png)
+  ![Git 配置字段中粘贴的电子邮件地址](/assets/images/2021/10/help/desktop/windows-email-git-config.png)
 {% data reusables.desktop.click-save-git-config %}
-  ![Git 配置字段中的 Save（保存）按钮](/assets/images/help/desktop/windows-save-git-config.png)
+  ![Git 配置字段中的 Save（保存）按钮](/assets/images/2021/10/help/desktop/windows-save-git-config.png)
 
 {% endwindows %}
 

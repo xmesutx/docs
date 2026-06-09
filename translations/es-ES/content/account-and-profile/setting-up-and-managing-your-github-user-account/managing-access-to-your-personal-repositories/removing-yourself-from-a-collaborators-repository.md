@@ -24,7 +24,7 @@ shortTitle: Eliminarte a ti mismo
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 2. En la sección de "Código, planeación y automatización" de la barra lateral, haz clic en **Repositorios {% octicon "repo" aria-label="The repo icon" %}**.
 {% else %}
-2. En la barra lateral izquierda, haz clic en **Repositories** (Repositorios). ![Pestaña Repositories (Repositorios)](/assets/images/help/settings/settings-sidebar-repositories.png)
+2. En la barra lateral izquierda, haz clic en **Repositories** (Repositorios). ![Pestaña Repositories (Repositorios)](/assets/images/2021/10/help/settings/settings-sidebar-repositories.png)
 {% endif %}
-3. Junto al repositorio que quieres abandonar, haz clic en **Leave** (Abandonar). ![Botón Leave (Abandonar)](/assets/images/help/repository/repo-leave.png)
-4. Lee la advertencia con atención, luego haz clic en "I understand, leave this repository" (Comprendo, abandonar este repositorio). ![Cuadro de diálogo con advertencia sobre el abandono](/assets/images/help/repository/repo-leave-confirmation.png)
+3. Junto al repositorio que quieres abandonar, haz clic en **Leave** (Abandonar). ![Botón Leave (Abandonar)](/assets/images/2021/10/help/repository/repo-leave.png)
+4. Lee la advertencia con atención, luego haz clic en "I understand, leave this repository" (Comprendo, abandonar este repositorio). ![Cuadro de diálogo con advertencia sobre el abandono](/assets/images/2021/10/help/repository/repo-leave-confirmation.png)

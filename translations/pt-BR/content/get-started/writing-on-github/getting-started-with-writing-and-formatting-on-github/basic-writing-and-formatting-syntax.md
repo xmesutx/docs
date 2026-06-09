@@ -23,11 +23,11 @@ Para criar um título, adicione de um a seis símbolos <kbd>#</kbd> antes do tex
 ###### O título menor
 ```
 
-![Títulos H1, H2 e H6 renderizados](/assets/images/help/writing/headings-rendered.png)
+![Títulos H1, H2 e H6 renderizados](/assets/images/2021/10/help/writing/headings-rendered.png)
 
 Ao usar dois ou mais cabeçalhos, o GitHub gera automaticamente uma tabela de conteúdo que você pode acessar clicando em {% octicon "list-unordered" aria-label="The unordered list icon" %} dentro do cabeçalho do arquivo. Cada título do cabeçalho está listado na tabela de conteúdo e você pode clicar em um título para acessar a seção selecionada.
 
-![Captura de tela que destaca o ícone da tabela de conteúdo](/assets/images/help/repository/headings_toc.png)
+![Captura de tela que destaca o ícone da tabela de conteúdo](/assets/images/2022/02/help/repository/headings_toc.png)
 
 
 ## Estilizar texto
@@ -52,7 +52,7 @@ Texto que não é uma citação
 > Texto que é uma citação
 ```
 
-![Texto citado renderizado](/assets/images/help/writing/quoted-text-rendered.png)
+![Texto citado renderizado](/assets/images/2021/10/help/writing/quoted-text-rendered.png)
 
 {% tip %}
 
@@ -68,7 +68,7 @@ Você pode chamar código ou um comando em uma frase com aspas simples. O texto 
 Use 'git status' para listar todos os arquivos novos ou modificados que ainda não receberam commit.
 ```
 
-![Bloco de código inline renderizado](/assets/images/help/writing/inline-code-rendered.png)
+![Bloco de código inline renderizado](/assets/images/2021/10/help/writing/inline-code-rendered.png)
 
 Para formatar código ou texto no próprio bloco distinto, use aspas triplas.
 
@@ -81,7 +81,7 @@ git commit
 ```
 </pre>
 
-![Bloco de código renderizado](/assets/images/help/writing/code-block-rendered.png)
+![Bloco de código renderizado](/assets/images/2021/10/help/writing/code-block-rendered.png)
 
 Para obter mais informações, consulte "[Criar e destacar blocos de código](/articles/creating-and-highlighting-code-blocks)".
 
@@ -93,7 +93,7 @@ Você pode criar um link inline colocando o texto do link entre colchetes `[ ]` 
 
 `Este site foi construído usando [GitHub Pages](https://pages.github.com/).`
 
-![Link renderizado](/assets/images/help/writing/link-rendered.png)
+![Link renderizado](/assets/images/2021/10/help/writing/link-rendered.png)
 
 {% tip %}
 
@@ -115,7 +115,7 @@ Você pode exibir uma imagem adicionando <kbd>!</kbd> e por o texto alternativo 
 
 `![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)`
 
-![Imagem interpretada](/assets/images/help/writing/image-rendered.png)
+![Imagem interpretada](/assets/images/2021/10/help/writing/image-rendered.png)
 
 {% data variables.product.product_name %} é compatível com a incorporação de imagens nos seus problemas, pull requests{% ifversion fpt or ghec %}, discussões{% endif %}, comentários e arquivos `.md`. Você pode exibir uma imagem do seu repositório, adicionar um link para uma imagem on-line ou fazer o upload de uma imagem. Para obter mais informações, consulte[Fazer o upload de ativos](#uploading-assets)".
 
@@ -129,11 +129,11 @@ Aqui estão alguns exemplos para usar links relativos para exibir uma imagem.
 
 | Contexto                                                       | Link relativo                                                          |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Em um arquivo `.md` no mesmo branch                            | `/assets/images/electrocat.png`                                        |
-| Em um arquivo `.md` em outro branch                            | `/../main/assets/images/electrocat.png`                                |
-| Em problemas, pull requests e comentários do repositório       | `../blob/main/assets/images/electrocat.png`                            |
-| Em um arquivo `.md` em outro repositório                       | `/../../../../github/docs/blob/main/assets/images/electrocat.png`      |
-| Em problemas, pull requests e comentários de outro repositório | `../../../github/docs/blob/main/assets/images/electrocat.png?raw=true` |
+| Em um arquivo `.md` no mesmo branch                            | `/assets/images/2021/10/electrocat.png`                                        |
+| Em um arquivo `.md` em outro branch                            | `/../main/assets/images/2021/10/electrocat.png`                                |
+| Em problemas, pull requests e comentários do repositório       | `../blob/main/assets/images/2021/10/electrocat.png`                            |
+| Em um arquivo `.md` em outro repositório                       | `/../../../../github/docs/blob/main/assets/images/2021/10/electrocat.png`      |
+| Em problemas, pull requests e comentários de outro repositório | `../../../github/docs/blob/main/assets/images/2021/10/electrocat.png?raw=true` |
 
 {% note %}
 
@@ -166,7 +166,7 @@ Você pode criar uma lista não ordenada precedendo uma ou mais linhas de texto 
 - Thomas Jefferson
 ```
 
-![Lista não ordenada renderizada](/assets/images/help/writing/unordered-list-rendered.png)
+![Lista não ordenada renderizada](/assets/images/2021/10/help/writing/unordered-list-rendered.png)
 
 Para ordenar a lista, coloque um número na frente de cada linha.
 
@@ -176,7 +176,7 @@ Para ordenar a lista, coloque um número na frente de cada linha.
 3. John Quincy Adams
 ```
 
-![Lista ordenada renderizada](/assets/images/help/writing/ordered-list-rendered.png)
+![Lista ordenada renderizada](/assets/images/2021/10/help/writing/ordered-list-rendered.png)
 
 ### Listas aninhadas
 
@@ -190,9 +190,9 @@ Para criar uma lista aninhada usando o editor web do {% data variables.product.p
      - Segundo item de lista aninhada
 ```
 
-![Lista aninhada com alinhamento destacado](/assets/images/help/writing/nested-list-alignment.png)
+![Lista aninhada com alinhamento destacado](/assets/images/2021/10/help/writing/nested-list-alignment.png)
 
-![Lista com dois níveis de itens aninhados](/assets/images/help/writing/nested-list-example-1.png)
+![Lista com dois níveis de itens aninhados](/assets/images/2021/10/help/writing/nested-list-example-1.png)
 
 Para criar uma lista aninhada no editor de comentários do {% data variables.product.product_name %}, que não usa uma fonte monoespaçada, você pode observar o item da lista logo acima da lista aninhada e contar o número de caracteres que aparecem antes do conteúdo do item. Em seguida, digite esse número de caracteres de espaço na fonte do item da linha aninhada.
 
@@ -203,7 +203,7 @@ Neste exemplo, você pode adicionar um item de lista aninhada abaixo do item de 
      - Primeiro item da lista aninhada
 ```
 
-![Lista com um item de lista aninhada](/assets/images/help/writing/nested-list-example-3.png)
+![Lista com um item de lista aninhada](/assets/images/2021/10/help/writing/nested-list-example-3.png)
 
 Você pode criar vários níveis de listas aninhadas usando o mesmo método. Por exemplo, como o primeiro item da lista aninhada tem sete caracteres (`␣␣␣␣␣-␣`) antes do conteúdo da lista aninhada `Primeiro item da lista aninhada`, você precisaria recuar o segundo item da lista aninhada com sete espaços.
 
@@ -213,7 +213,7 @@ Você pode criar vários níveis de listas aninhadas usando o mesmo método. Por
        - Segundo item da lista aninhada
 ```
 
-![Lista com dois níveis de itens aninhados](/assets/images/help/writing/nested-list-example-2.png)
+![Lista com dois níveis de itens aninhados](/assets/images/2021/10/help/writing/nested-list-example-2.png)
 
 Para obter mais exemplos, consulte a [Especificação de markdown em estilo GitHub](https://github.github.com/gfm/#example-265).
 
@@ -233,7 +233,7 @@ Você pode mencionar uma pessoa ou [equipe](/articles/setting-up-teams/) no {% d
 
 `@github/suporte O que você acha dessas atualizações?`
 
-![@menção renderizada](/assets/images/help/writing/mention-rendered.png)
+![@menção renderizada](/assets/images/2021/10/help/writing/mention-rendered.png)
 
 Quando você menciona uma equipe principal, os integrantes de suas equipes secundárias também recebem notificações, simplificando a comunicação com vários grupos de pessoas. Para obter mais informações, consulte "[Sobre equipes](/articles/about-teams)".
 
@@ -256,7 +256,7 @@ Para obter mais informações, consulte "[Referências e URLs vinculados automat
 
 Alguns {% data variables.product.prodname_github_apps %} fornecem informações em {% data variables.product.product_name %} para URLs vinculadas aos seus domínios registrados. O {% data variables.product.product_name %} renderiza as informações fornecidas pelo app sob o URL no texto ou comentário de um problema ou uma pull request.
 
-![Anexo de conteúdo](/assets/images/github-apps/content_reference_attachment.png)
+![Anexo de conteúdo](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 Para visualizar anexos de conteúdo, você deverá ter um {% data variables.product.prodname_github_app %} que use a API de Anexos de Conteúdo instalada no repositório.{% ifversion fpt or ghec %} Para obter mais informações, consulte "[Instalar um aplicativo na sua conta pessoal](/articles/installing-an-app-in-your-personal-account)" e "[Instalar um aplicativo na sua organização](/articles/installing-an-app-in-your-organization)".{% endif %}
 
@@ -274,7 +274,7 @@ Você pode adicionar emoji à sua escrita digitando `:EMOJICODE:`.
 
 `@octocat :+1: Este PR parece ótimo - está pronto para o merge! :shipit:`
 
-![Emoji renderizado](/assets/images/help/writing/emoji-rendered.png)
+![Emoji renderizado](/assets/images/2021/10/help/writing/emoji-rendered.png)
 
 Digitar <kbd>:</kbd> trará à tona uma lista de emojis sugeridos. A lista será filtrada à medida que você digita. Portanto, assim que encontrar o emoji que estava procurando, pressione **Tab** ou **Enter** para completar o resultado destacado.
 
@@ -306,7 +306,7 @@ Você também pode usar palavras, para se adequar melhor ao seu estilo de escrit
 
 A nota de rodapé será interpretada da seguinte forma:
 
-![Nota de rodapé interpretada](/assets/images/site/rendered-footnote.png)
+![Nota de rodapé interpretada](/assets/images/2021/10/site/rendered-footnote.png)
 
 {% tip %}
 
@@ -329,7 +329,7 @@ Você pode dizer a {% data variables.product.product_name %} para ignorar (ou sa
 
 `Vamos renomear \*our-new-project\* para \*our-old-project\*.`
 
-![Caractere com escape renderizado](/assets/images/help/writing/escaped-character-rendered.png)
+![Caractere com escape renderizado](/assets/images/2021/10/help/writing/escaped-character-rendered.png)
 
 Para obter mais informações, consulte "[Sintaxe markdown](https://daringfireball.net/projects/markdown/syntax#backslash)" de Daring Fireball.
 

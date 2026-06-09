@@ -89,11 +89,11 @@ This example is vulnerable to script injection because the `run` command execute
 
 To inject commands into this workflow, the attacker could create a pull request with a title of  `a"; ls $GITHUB_WORKSPACE"`:
 
-![Example of script injection in PR title](/assets/images/help/images/example-script-injection-pr-title.png)
+![Example of script injection in PR title](/assets/images/2021/10/help/images/example-script-injection-pr-title.png)
 
 In this example, the `"` character is used to interrupt the {% raw %}`title="${{ github.event.pull_request.title }}"`{% endraw %} statement, allowing the `ls` command to be executed on the runner. You can see the output of the `ls` command in the log:
 
-![Example result of script injection](/assets/images/help/images/example-script-injection-result.png)
+![Example result of script injection](/assets/images/2021/10/help/images/example-script-injection-result.png)
 
 ## Good practices for mitigating script injection attacks
 
@@ -135,7 +135,7 @@ The following example uses Bash to process the `github.event.pull_request.title`
 
 In this example, the attempted script injection is unsuccessful:
 
-![Example of mitigated script injection](/assets/images/help/images/example-script-injection-mitigated.png)
+![Example of mitigated script injection](/assets/images/2021/10/help/images/example-script-injection-mitigated.png)
 
 With this approach, the value of the {% raw %}`${{ github.event.issue.title }}`{% endraw %} expression is stored in memory and used as a variable, and doesn't interact with the script generation process. In addition, consider using double quote shell variables to avoid [word splitting](https://github.com/koalaman/shellcheck/wiki/SC2086), but this is [one of many](https://mywiki.wooledge.org/BashPitfalls) general recommendations for writing shell scripts, and is not specific to {% data variables.product.prodname_actions %}.
 
@@ -296,7 +296,7 @@ If you are using {% data variables.product.prodname_actions %} to deploy to a cl
 
 Organizationの管理タスクをモニタするために、監査ログを使用できます。 監査ログは、アクションの種類、実行された時刻、実行したユーザアカウントを記録します。
 
-たとえば、監査ログを使用して、Organization のシークレットへの変更を追跡する `org.update_actions_secret` イベントを追跡できます。 ![監査ログのエントリ](/assets/images/help/repository/audit-log-entries.png)
+たとえば、監査ログを使用して、Organization のシークレットへの変更を追跡する `org.update_actions_secret` イベントを追跡できます。 ![監査ログのエントリ](/assets/images/2021/10/help/repository/audit-log-entries.png)
 
 以下の表は、監査ログにある{% data variables.product.prodname_actions %}のイベントを示します。 For more information on using the audit log, see "[Reviewing the audit log for your organization](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#searching-the-audit-log)."
 

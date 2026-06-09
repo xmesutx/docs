@@ -34,7 +34,7 @@ If private mode is enabled on your enterprise, the public cannot access {% data 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
-4. **Public Pages（公開ページ）**を選択してください。 ![[Public Pages] を有効化するチェックボックス](/assets/images/enterprise/management-console/public-pages-checkbox.png)
+4. **Public Pages（公開ページ）**を選択してください。 ![[Public Pages] を有効化するチェックボックス](/assets/images/2021/10/enterprise/management-console/public-pages-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Enterprise 向けの {% data variables.product.prodname_pages %} を無効にする
@@ -44,7 +44,7 @@ If subdomain isolation is disabled for your enterprise, you should also disable 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
-4. **Enable Pages（ページの有効化）**の選択を解除してください。 ![{% data variables.product.prodname_pages %} を無効化するチェックボックス](/assets/images/enterprise/management-console/pages-select-button.png)
+4. **Enable Pages（ページの有効化）**の選択を解除してください。 ![{% data variables.product.prodname_pages %} を無効化するチェックボックス](/assets/images/2021/10/enterprise/management-console/pages-select-button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% endif %}
@@ -54,7 +54,7 @@ If subdomain isolation is disabled for your enterprise, you should also disable 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.pages-tab %}
-5. [Pages policies] で [**Enable {% data variables.product.prodname_pages %}**] を選択します。 ![{% data variables.product.prodname_pages %} を無効化するチェックボックス](/assets/images/enterprise/business-accounts/enable-github-pages-checkbox.png)
+5. [Pages policies] で [**Enable {% data variables.product.prodname_pages %}**] を選択します。 ![{% data variables.product.prodname_pages %} を無効化するチェックボックス](/assets/images/2021/10/enterprise/business-accounts/enable-github-pages-checkbox.png)
 {% data reusables.enterprise-accounts.pages-policies-save %}
 
 {% endif %}

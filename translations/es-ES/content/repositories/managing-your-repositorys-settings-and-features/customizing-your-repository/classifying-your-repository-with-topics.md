@@ -20,7 +20,7 @@ shortTitle: Clasificar con temas
 
 En el caso de los temas, puedes explorar repositorios en un área temática particular, buscar proyectos a los cuales contribuir y descubrir nuevas soluciones para un problema específico. Los temas aparecen en la página principal de un repositorio. Puedes hacer clic en el nombre de un tema para {% ifversion fpt or ghec %}ver los temas relacionados y una lista de otros repositorios clasificados con ese tema{% else %}buscar otros repositorios con ese tema{% endif %}.
 
-![Página principal del repositorio de prueba que muestra temas](/assets/images/help/repository/os-repo-with-topics.png)
+![Página principal del repositorio de prueba que muestra temas](/assets/images/2021/10/help/repository/os-repo-with-topics.png)
 
 Para explorar los temas más usados, visita https://github.com/topics/.
 
@@ -35,6 +35,6 @@ Puedes buscar los repositorios que están asociados con un tema en particular. P
 ## Agregar temas a tu repositorio
 
 {% data reusables.repositories.navigate-to-repo %}
-2. A la derecha de "Acerca de", da clic en el {% octicon "gear" aria-label="The Gear icon" %}. ![Icono de engrane en la página principal del repositorio](/assets/images/help/repository/edit-repository-details-gear.png)
-3. Debajo de "Temas", teclea el tema que quieras agregar a tu repositorio y después teclea un espacio. ![Formulario para ingresar temas](/assets/images/help/repository/add-topic-form.png)
-4. Después de que termines de agregar los temas, da clic en **Guardar cambios**. ![Botón de "Guardar cambios" en "Editar los detalles del repositorio"](/assets/images/help/repository/edit-repository-details-save-changes-button.png)
+2. A la derecha de "Acerca de", da clic en el {% octicon "gear" aria-label="The Gear icon" %}. ![Icono de engrane en la página principal del repositorio](/assets/images/2021/10/help/repository/edit-repository-details-gear.png)
+3. Debajo de "Temas", teclea el tema que quieras agregar a tu repositorio y después teclea un espacio. ![Formulario para ingresar temas](/assets/images/2021/10/help/repository/add-topic-form.png)
+4. Después de que termines de agregar los temas, da clic en **Guardar cambios**. ![Botón de "Guardar cambios" en "Editar los detalles del repositorio"](/assets/images/2021/10/help/repository/edit-repository-details-save-changes-button.png)

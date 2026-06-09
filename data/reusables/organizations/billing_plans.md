@@ -2,5 +2,5 @@
 1. In the "Access" section of the sidebar, click **{% octicon "credit-card" aria-label="The credit card icon" %} Billing and plans**.
 {% else %}
 1. In your organization's Settings sidebar, click **Billing & plans**.
-![Billing settings](/assets/images/help/billing/settings_organization_billing_plans_tab.png)
+![Billing settings](/assets/images/2021/10/help/billing/settings_organization_billing_plans_tab.png)
 {% endif %}

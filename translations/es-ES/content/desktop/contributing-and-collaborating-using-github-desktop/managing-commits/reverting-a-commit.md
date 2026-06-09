@@ -20,7 +20,7 @@ Cuando reviertes la confirmación anterior, la reversión también es una confir
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![La opción Revert (Revertir) sobre la vista diferente](/assets/images/help/desktop/commit-revert-mac.png)
+  ![La opción Revert (Revertir) sobre la vista diferente](/assets/images/2021/10/help/desktop/commit-revert-mac.png)
 
 {% endmac %}
 
@@ -28,6 +28,6 @@ Cuando reviertes la confirmación anterior, la reversión también es una confir
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![La opción Revert (Revertir) sobre la vista diferente](/assets/images/help/desktop/commit-revert-win.png)
+  ![La opción Revert (Revertir) sobre la vista diferente](/assets/images/2021/10/help/desktop/commit-revert-win.png)
 
 {% endwindows %}

@@ -21,7 +21,7 @@ shortTitle: Commit signature verification
 
 You can sign commits and tags locally, to give other people confidence about the origin of a change you have made. If a commit or tag has a GPG or S/MIME signature that is cryptographically verifiable, GitHub marks the commit or tag {% ifversion fpt or ghec %}"Verified" or "Partially verified."{% else %}"Verified."{% endif %}
 
-![Verified commit](/assets/images/help/commits/verified-commit.png)
+![Verified commit](/assets/images/2021/10/help/commits/verified-commit.png)
 
 {% ifversion fpt or ghec %}
 Commits and tags have the following verification statuses, depending on whether you have enabled vigilant mode. By default vigilant mode is not enabled. For information on how to enable vigilant mode, see "[Displaying verification statuses for all of your commits](/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits)."

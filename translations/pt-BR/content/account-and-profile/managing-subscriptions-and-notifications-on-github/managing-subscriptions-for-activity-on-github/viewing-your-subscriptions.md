@@ -34,7 +34,7 @@ Recomendamos a auditoria e o cancelamento das suas assinaturas como parte de um 
 
 Quando sua caixa de entrada tiver muitas notificações para gerenciar, considere se você se inscreveu mais de uma vez ou como você pode alterar suas configurações de notificação para reduzir as assinaturas que você tem e os tipos de notificações que está recebendo. Por exemplo, você pode considerar desabilitar as configurações para inspecionar automaticamente todos os repositórios e todas as discussões da equipe sempre que você ingressar em uma equipe ou repositório.
 
-![Inspeção automática](/assets/images/help/notifications-v2/automatic-watching-example.png)
+![Inspeção automática](/assets/images/2021/10/help/notifications-v2/automatic-watching-example.png)
 
 Para obter mais informações, consulte “[Configurando notificações](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#automatic-watching)".
 
@@ -50,11 +50,11 @@ Muitas pessoas esquecem os repositórios que eles escolheram inspecionar no pass
 ## Revisando todas as suas assinaturas
 
 {% data reusables.notifications.access_notifications %}
-1. Na barra lateral esquerda, na lista de repositórios da qual você recebe notificações, use o menu suspenso "Gerenciar notificações" para clicar em **Assinaturas**. ![Gerenciar as opções do menu suspenso notificações](/assets/images/help/notifications-v2/manage-notifications-options.png)
+1. Na barra lateral esquerda, na lista de repositórios da qual você recebe notificações, use o menu suspenso "Gerenciar notificações" para clicar em **Assinaturas**. ![Gerenciar as opções do menu suspenso notificações](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
 2. Use os filtros e classifique para limitar a lista de assinaturas e comece a cancelar as assinaturas de conversas das quais você não deseja mais receber notificações.
 
-  ![Página de assinaturas](/assets/images/help/notifications-v2/all-subscriptions.png)
+  ![Página de assinaturas](/assets/images/2021/10/help/notifications-v2/all-subscriptions.png)
 
 {% tip %}
 
@@ -67,8 +67,8 @@ Muitas pessoas esquecem os repositórios que eles escolheram inspecionar no pass
 
 ## Revisando repositórios que você está inspecionando
 
-1. Na barra lateral esquerda, na lista de repositórios, use o menu suspenso "Gerenciar notificações" e clique em **Repositórios inspecionados**. ![Gerenciar as opções do menu suspenso notificações](/assets/images/help/notifications-v2/manage-notifications-options.png)
-2. Avalie os repositórios que você está inspecionando e decida se suas atualizações ainda são relevantes e úteis. Quando você inspeciona um repositório, você será notificado de todas as conversas desse repositório. ![Página de notificações inspecionadas](/assets/images/help/notifications-v2/watched-notifications-custom.png)
+1. Na barra lateral esquerda, na lista de repositórios, use o menu suspenso "Gerenciar notificações" e clique em **Repositórios inspecionados**. ![Gerenciar as opções do menu suspenso notificações](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
+2. Avalie os repositórios que você está inspecionando e decida se suas atualizações ainda são relevantes e úteis. Quando você inspeciona um repositório, você será notificado de todas as conversas desse repositório. ![Página de notificações inspecionadas](/assets/images/2021/10/help/notifications-v2/watched-notifications-custom.png)
 
   {% tip %}
 

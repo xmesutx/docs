@@ -51,7 +51,7 @@ Organizationのメンバーと外部のコラボレータに2FAの利用を求�
 {% data reusables.audit_log.octicon_icon %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.audit_log.audit_log_sidebar_for_site_admins %}
-4. `reason:two_factor_requirement_non_compliance`を使って検索クエリを入力してください。 ![2 要素認証への非準拠で削除されたユーザを示す Staff tools audit log イベント](/assets/images/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) 検索結果を絞り込むには:
+4. `reason:two_factor_requirement_non_compliance`を使って検索クエリを入力してください。 ![2 要素認証への非準拠で削除されたユーザを示す Staff tools audit log イベント](/assets/images/2021/10/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) 検索結果を絞り込むには:
     - 削除された Organization のメンバーの場合、`action:org.remove_member AND reason:two_factor_requirement_non_compliance` と入力してください。
     - 削除された外部コラボレーターの場合、`action:org.remove_outside_collaborator AND reason:two_factor_requirement_non_compliance` と入力してください。
 

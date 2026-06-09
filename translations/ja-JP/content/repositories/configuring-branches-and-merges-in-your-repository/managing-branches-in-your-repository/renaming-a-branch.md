@@ -28,9 +28,9 @@ redirect_from:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-branches %}
-1. ブランチのリストで、名前を変更するブランチの右にある {% octicon "pencil" aria-label="The edit icon" %} をクリックします。 ![名前を変更するブランチの右にある鉛筆アイコン](/assets/images/help/branch/branch-rename-edit.png)
-1. ブランチの新しい名前を入力します。 ![新しいブランチ名を入力するためのテキストフィールド](/assets/images/help/branch/branch-rename-type.png)
-1. ローカル環境についての情報を確認し、[**Rename branch**] をクリックします。 ![ローカル環境情報と [Rename branch] ボタン](/assets/images/help/branch/branch-rename-rename.png)
+1. ブランチのリストで、名前を変更するブランチの右にある {% octicon "pencil" aria-label="The edit icon" %} をクリックします。 ![名前を変更するブランチの右にある鉛筆アイコン](/assets/images/2021/10/help/branch/branch-rename-edit.png)
+1. ブランチの新しい名前を入力します。 ![新しいブランチ名を入力するためのテキストフィールド](/assets/images/2021/10/help/branch/branch-rename-type.png)
+1. ローカル環境についての情報を確認し、[**Rename branch**] をクリックします。 ![ローカル環境情報と [Rename branch] ボタン](/assets/images/2021/10/help/branch/branch-rename-rename.png)
 
 ## ブランチ名の変更後にローカルクローンを更新する
 

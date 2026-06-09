@@ -1,1 +1,1 @@
-1. Em "Indivíduos", clique em **Obter benefícios para professores**. !["Obter benefícios para professores" na página inicial de {% data variables.product.prodname_education %}](/assets/images/help/education/click-get-teacher-benefits.png)
+1. Em "Indivíduos", clique em **Obter benefícios para professores**. !["Obter benefícios para professores" na página inicial de {% data variables.product.prodname_education %}](/assets/images/2021/10/help/education/click-get-teacher-benefits.png)

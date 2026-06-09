@@ -29,6 +29,6 @@ Los miembros de tu empresa pueden utilizar {% data variables.product.prodname_mo
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.type-management-console-password %}
-1. En la barra lateral, da clic en **Móvil**. !["Móvil" en la barra lateral izquierda para la consola de administración de {% data variables.product.prodname_ghe_server %}](/assets/images/enterprise/management-console/click-mobile.png)
-1. Under "GitHub Mobile", select or deselect **Enable GitHub Mobile Apps**. ![Casilla de verificación para "Habilitar las Apps de GitHub Móvil" en la consola de administración de {% data variables.product.prodname_ghe_server %}](/assets/images/enterprise/management-console/select-enable-github-mobile-apps.png)
+1. En la barra lateral, da clic en **Móvil**. !["Móvil" en la barra lateral izquierda para la consola de administración de {% data variables.product.prodname_ghe_server %}](/assets/images/2021/10/enterprise/management-console/click-mobile.png)
+1. Under "GitHub Mobile", select or deselect **Enable GitHub Mobile Apps**. ![Casilla de verificación para "Habilitar las Apps de GitHub Móvil" en la consola de administración de {% data variables.product.prodname_ghe_server %}](/assets/images/2021/10/enterprise/management-console/select-enable-github-mobile-apps.png)
 {% data reusables.enterprise_management_console.save-settings %}

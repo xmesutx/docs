@@ -26,7 +26,7 @@ Para administrar mejor tu proyecto, puedes [ver detalles acerca de tu hito](/art
 
 Además, puedes editar el hito desde la página del hito y crear nuevas propuesta que estén, de forma predeterminada, asociadas con el hito.
 
-![Página del hito](/assets/images/help/issues/milestone-info-page.png)
+![Página del hito](/assets/images/2021/10/help/issues/milestone-info-page.png)
 
 ## Priorizar propuestas y solicitudes de extracción en hitos
 
@@ -38,7 +38,7 @@ Puedes priorizar propuestas y solicitudes de extracción abiertas en un hito hac
 
 {% endnote %}
 
-![Hito reordenado](/assets/images/help/issues/milestone-reordered.gif)
+![Hito reordenado](/assets/images/2021/10/help/issues/milestone-reordered.gif)
 
 ## Leer más
 

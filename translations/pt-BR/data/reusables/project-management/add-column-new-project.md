@@ -1,1 +1,1 @@
-1. No seu novo quadro de projetos, para adicionar sua primeira coluna, **Adicionar uma coluna**. ![Botão para adicionar coluna em um quadro de projeto vazio](/assets/images/help/projects/add-column.png)
+1. No seu novo quadro de projetos, para adicionar sua primeira coluna, **Adicionar uma coluna**. ![Botão para adicionar coluna em um quadro de projeto vazio](/assets/images/2021/10/help/projects/add-column.png)

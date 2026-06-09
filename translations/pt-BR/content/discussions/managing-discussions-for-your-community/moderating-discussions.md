@@ -22,7 +22,7 @@ versions:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. Na lista de discussões, clique na discussão que você deseja bloquear. ![Bloquear discussão](/assets/images/help/discussions/unanswered-discussion.png)
+1. Na lista de discussões, clique na discussão que você deseja bloquear. ![Bloquear discussão](/assets/images/2021/10/help/discussions/unanswered-discussion.png)
 1. Na margem direita de uma discussão, clique em **Bloquear conversa**.
 1. Leia as informações sobre bloqueio de conversas e clique em **Bloquear conversa nesta discussão**.
 1. Quando estiver pronto para desbloquear a conversa, clique em **Desbloquear conversa** e, em seguida, clique em **desbloquear conversa nesta discussão**.

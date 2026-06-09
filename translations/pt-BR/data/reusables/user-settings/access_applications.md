@@ -1,5 +1,5 @@
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 1. In the "Integrations" section of the sidebar, click **{% octicon "apps" aria-label="The apps icon" %} Applications**.
 {% else %}
-1. Na barra lateral esquerda, clique em **Applications** (Aplicativos). ![Aba aplicativos](/assets/images/help/settings/settings-applications.png)
+1. Na barra lateral esquerda, clique em **Applications** (Aplicativos). ![Aba aplicativos](/assets/images/2021/10/help/settings/settings-applications.png)
 {% endif %}

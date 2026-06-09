@@ -35,7 +35,7 @@ shortTitle: 查看列表交易
 * **region：**帐单地址中显示的区域名称。
 * **postal_code：**帐单地址中显示的邮政编码值。
 
-![Marketplace insights](/assets/images/marketplace/marketplace_transactions.png)
+![Marketplace insights](/assets/images/2021/10/marketplace/marketplace_transactions.png)
 
 ## 访问 {% data variables.product.prodname_marketplace %} 交易
 
@@ -47,4 +47,4 @@ shortTitle: 查看列表交易
 4. 选择要查看其事务的 {% data variables.product.prodname_github_app %}。
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. 单击 **Transactions（交易）**选项卡。
-7. （可选）通过单击 Transactions（交易）页面右上角的 Period（时段）下拉列表选择不同的时间段。 ![Marketplace 时段](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. （可选）通过单击 Transactions（交易）页面右上角的 Period（时段）下拉列表选择不同的时间段。 ![Marketplace 时段](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

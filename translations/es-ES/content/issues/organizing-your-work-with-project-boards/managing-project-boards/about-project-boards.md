@@ -60,7 +60,7 @@ Puedes usar plantillas para configurar de forma rápida un nuevo tablero de proy
 
 Para obtener más información, consulta "[Acerca de la automatización para tableros de proyecto](/articles/about-automation-for-project-boards)".
 
-![Tablero de proyecto con plantilla de kanban básico](/assets/images/help/projects/project-board-basic-kanban-template.png)
+![Tablero de proyecto con plantilla de kanban básico](/assets/images/2021/10/help/projects/project-board-basic-kanban-template.png)
 
 {% data reusables.project-management.copy-project-boards %}
 

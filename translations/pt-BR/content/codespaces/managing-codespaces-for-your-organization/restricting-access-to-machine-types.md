@@ -52,23 +52,23 @@ Se você adicionar uma política para toda a organização, você deverá config
 3. Insira um nome para sua nova política.
 4. Clique **Adicionar restrição** e escolha **Tipos de máquina**.
 
-   ![Adicionar uma restrição para os tipos de máquina](/assets/images/help/codespaces/add-constraint-dropdown.png)
+   ![Adicionar uma restrição para os tipos de máquina](/assets/images/2022/01/help/codespaces/add-constraint-dropdown.png)
 
 5. Clique em {% octicon "pencil" aria-label="The edit icon" %} para editar a restrição e, em seguida, limpe a seleção de todos os tipos de máquina que você não deseja que estejam disponíveis.
 
-   ![Editar a restrição de tipo de máquina](/assets/images/help/codespaces/edit-machine-constraint.png)
+   ![Editar a restrição de tipo de máquina](/assets/images/2022/01/help/codespaces/edit-machine-constraint.png)
 
 6. Na área "Alterar destino da política", clique no botão suspenso.
 7. Selecione **Todos os repositórios** ou **Repositórios selecionados** para determinar em quais repositórios esta política será aplicada.
 8. Se você escolheu **repositórios selecionados**:
    1. Clique em {% octicon "gear" aria-label="The settings icon" %}.
 
-      ![Editar as configurações da política](/assets/images/help/codespaces/policy-edit.png)
+      ![Editar as configurações da política](/assets/images/2022/01/help/codespaces/policy-edit.png)
 
    2. Selecione os repositórios aos quais você quer que esta política seja aplicada.
    3. Na parte inferior da lista de repositórios, clique em **Selecionar repositórios**.
 
-      ![Selecionar repositórios para esta política](/assets/images/help/codespaces/policy-select-repos.png)
+      ![Selecionar repositórios para esta política](/assets/images/2022/01/help/codespaces/policy-select-repos.png)
 
 9. Clique em **Salvar**.
 
@@ -83,7 +83,7 @@ Se você adicionar uma política para toda a organização, você deverá config
 1. Exibir a página "Políticas de codespaces". Para obter mais informações, consulte "[Adicionar uma política para limitar os tipos de máquina disponíveis](#adding-a-policy-to-limit-the-available-machine-types)".
 1. Clique no botão excluir à direita da política que você deseja excluir.
 
-   ![O botão de excluir uma política](/assets/images/help/codespaces/policy-delete.png)
+   ![O botão de excluir uma política](/assets/images/2022/01/help/codespaces/policy-delete.png)
 
 ## Leia mais
 

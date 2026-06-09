@@ -29,7 +29,7 @@ shortTitle: 标签运行器
 {% data reusables.actions.self-hosted-runner-list %}
 {% data reusables.actions.self-hosted-runner-list-group %}
 {% data reusables.actions.self-hosted-runner-labels-view-assigned-labels %}
-1. 在“Filter labels（过滤标签）”字段中，键入新标签的名称，并单击 **Create new label（创建新标签）**。 ![添加运行器标签](/assets/images/help/settings/actions-add-runner-label.png)
+1. 在“Filter labels（过滤标签）”字段中，键入新标签的名称，并单击 **Create new label（创建新标签）**。 ![添加运行器标签](/assets/images/2021/10/help/settings/actions-add-runner-label.png)
 
 将创建自定义标签并分配给自托管运行器。 可以从自托管的运行器中删除自定义标签，但当前无法手动删除。 {% data reusables.actions.actions-unused-labels %}
 {% endif %}

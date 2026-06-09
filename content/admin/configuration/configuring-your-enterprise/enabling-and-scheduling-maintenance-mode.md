@@ -32,25 +32,25 @@ Some types of operations require that you take {% data variables.product.product
 
 We recommend that you schedule a maintenance window for at least 30 minutes in the future to give users time to prepare. When a maintenance window is scheduled, all users will see a banner when accessing the site.
 
-![End user banner about scheduled maintenance](/assets/images/enterprise/maintenance/maintenance-scheduled.png)
+![End user banner about scheduled maintenance](/assets/images/2021/10/enterprise/maintenance/maintenance-scheduled.png)
 
 When the instance is in maintenance mode, all normal HTTP and Git access is refused. Git fetch, clone, and push operations are also rejected with an error message indicating that the site is temporarily unavailable. GitHub Actions jobs will not be executed. Visiting the site in a browser results in a maintenance page.
 
-![The maintenance mode splash screen](/assets/images/enterprise/maintenance/maintenance-mode-maintenance-page.png)
+![The maintenance mode splash screen](/assets/images/2021/10/enterprise/maintenance/maintenance-mode-maintenance-page.png)
 
 ## Enabling maintenance mode immediately or scheduling a maintenance window for a later time
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 2. At the top of the {% data variables.enterprise.management_console %}, click **Maintenance**.
-  ![Maintenance tab](/assets/images/enterprise/management-console/maintenance-tab.png)
+  ![Maintenance tab](/assets/images/2021/10/enterprise/management-console/maintenance-tab.png)
 3. Under "Enable and schedule", decide whether to enable maintenance mode immediately or to schedule a maintenance window for a future time.
     - To enable maintenance mode immediately, use the drop-down menu and click **now**.
-    ![Drop-down menu with the option to enable maintenance mode now selected](/assets/images/enterprise/maintenance/enable-maintenance-mode-now.png)
+    ![Drop-down menu with the option to enable maintenance mode now selected](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-now.png)
     - To schedule a maintenance window for a future time, use the drop-down menu and click a start time.
-    ![Drop-down menu with the option to schedule a maintenance window in two hours selected](/assets/images/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
+    ![Drop-down menu with the option to schedule a maintenance window in two hours selected](/assets/images/2021/10/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
 4. Select **Enable maintenance mode**.
-  ![Checkbox for enabling or scheduling maintenance mode](/assets/images/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
+  ![Checkbox for enabling or scheduling maintenance mode](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Scheduling maintenance mode with {% data variables.product.prodname_enterprise_api %}

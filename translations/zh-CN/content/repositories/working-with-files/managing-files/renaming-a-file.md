@@ -32,8 +32,8 @@ topics:
 {% endtip %}
 
 1. 在仓库中浏览到您要重命名的文件。
-2. 在文件视图的右上角，单击 {% octicon "pencil" aria-label="The edit icon" %} 打开文件编辑器。 ![编辑文件图标](/assets/images/help/repository/edit-file-icon.png)
-3. 在文件名字段中，将文件名称更改为所需的新文件名。 您还可以同时更新文件的内容。 ![编辑文件名](/assets/images/help/repository/changing-file-name.png)
+2. 在文件视图的右上角，单击 {% octicon "pencil" aria-label="The edit icon" %} 打开文件编辑器。 ![编辑文件图标](/assets/images/2021/10/help/repository/edit-file-icon.png)
+3. 在文件名字段中，将文件名称更改为所需的新文件名。 您还可以同时更新文件的内容。 ![编辑文件名](/assets/images/2021/10/help/repository/changing-file-name.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_file_change %}

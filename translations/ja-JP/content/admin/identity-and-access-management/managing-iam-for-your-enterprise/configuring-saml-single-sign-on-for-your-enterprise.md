@@ -74,12 +74,12 @@ For more detailed information about how to enable SAML using Okta, see "[Configu
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 4. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. Under "SAML single sign-on", select **Require SAML authentication**. ![SAML SSO を有効化するためのチェックボックス](/assets/images/help/business-accounts/enable-saml-auth-enterprise.png)
-6. **Sign on URL**フィールドに、使用する IdP のシングルサインオンのリクエストのための HTTPS エンドポイントを入力してください。 この値は Idp の設定で使用できます。 ![メンバーがサインインする際にリダイレクトされる URL のフィールド](/assets/images/help/saml/saml_sign_on_url_business.png)
-7. 必要に応じて、[**Issuer**] フィールドに SAML 発行者の URL を入力して、送信されたメッセージの信頼性を確認します。 ![SAMl 発行者の名前のフィールド](/assets/images/help/saml/saml_issuer.png)
-8. [**Public Certificate**] で、証明書を貼り付けて SAML の応答を認証します。 ![アイデンティティプロバイダからの公開の証明書のフィールド](/assets/images/help/saml/saml_public_certificate.png)
-9. SAML 発行者からのリクエストの完全性を確認するには、{% octicon "pencil" aria-label="The edit icon" %} をクリックします。 次に、[Signature Method] および [Digest Method] ドロップダウンで、SAML 発行者が使用するハッシュアルゴリズムを選択します。 ![SAML 発行者が使用する署名方式とダイジェスト方式のハッシュアルゴリズム用のドロップダウン](/assets/images/help/saml/saml_hashing_method.png)
-10. Enterprise で SAML SSO を有効化する前に、[**Test SAML configuration**] をクリックして、入力した情報が正しいか確認します。 ![強制化の前に SAML の構成をテストするためのボタン](/assets/images/help/saml/saml_test.png)
+5. Under "SAML single sign-on", select **Require SAML authentication**. ![SAML SSO を有効化するためのチェックボックス](/assets/images/2021/10/help/business-accounts/enable-saml-auth-enterprise.png)
+6. **Sign on URL**フィールドに、使用する IdP のシングルサインオンのリクエストのための HTTPS エンドポイントを入力してください。 この値は Idp の設定で使用できます。 ![メンバーがサインインする際にリダイレクトされる URL のフィールド](/assets/images/2021/10/help/saml/saml_sign_on_url_business.png)
+7. 必要に応じて、[**Issuer**] フィールドに SAML 発行者の URL を入力して、送信されたメッセージの信頼性を確認します。 ![SAMl 発行者の名前のフィールド](/assets/images/2021/10/help/saml/saml_issuer.png)
+8. [**Public Certificate**] で、証明書を貼り付けて SAML の応答を認証します。 ![アイデンティティプロバイダからの公開の証明書のフィールド](/assets/images/2021/10/help/saml/saml_public_certificate.png)
+9. SAML 発行者からのリクエストの完全性を確認するには、{% octicon "pencil" aria-label="The edit icon" %} をクリックします。 次に、[Signature Method] および [Digest Method] ドロップダウンで、SAML 発行者が使用するハッシュアルゴリズムを選択します。 ![SAML 発行者が使用する署名方式とダイジェスト方式のハッシュアルゴリズム用のドロップダウン](/assets/images/2021/10/help/saml/saml_hashing_method.png)
+10. Enterprise で SAML SSO を有効化する前に、[**Test SAML configuration**] をクリックして、入力した情報が正しいか確認します。 ![強制化の前に SAML の構成をテストするためのボタン](/assets/images/2021/10/help/saml/saml_test.png)
 11. [**Save**] をクリックします。
 {% data reusables.enterprise-accounts.download-recovery-codes %}
 
@@ -119,12 +119,12 @@ IdP の詳細が変更された場合は、{% data variables.product.product_loc
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. [SAML single sign-on] で、IdP の新しい詳細を入力します。 ![Enterprise の SAML SSO 設定の IdP 詳細を含むテキスト入力フィールド](/assets/images/help/saml/ae-edit-idp-details.png)
-1. 必要に応じて、{% octicon "pencil" aria-label="The edit icon" %} をクリックして、新しい署名またはダイジェスト方式を設定します。 ![署名とダイジェスト方法を変更するための編集アイコン](/assets/images/help/saml/ae-edit-idp-details-edit-signature-and-digest.png)
+1. [SAML single sign-on] で、IdP の新しい詳細を入力します。 ![Enterprise の SAML SSO 設定の IdP 詳細を含むテキスト入力フィールド](/assets/images/2021/10/help/saml/ae-edit-idp-details.png)
+1. 必要に応じて、{% octicon "pencil" aria-label="The edit icon" %} をクリックして、新しい署名またはダイジェスト方式を設定します。 ![署名とダイジェスト方法を変更するための編集アイコン](/assets/images/2021/10/help/saml/ae-edit-idp-details-edit-signature-and-digest.png)
 
-    - ドロップダウンメニューを使用して、新しい署名またはダイジェスト方法を選択します。 ![新しい署名またはダイジェスト方法を選択するためのドロップダウンメニュー](/assets/images/help/saml/ae-edit-idp-details-edit-signature-and-digest-drop-down-menus.png)
-1. [**Test SAML configuration**] をクリックして、入力した情報が正しいことを確認します。 ![[Test SAML configuration] ボタン](/assets/images/help/saml/ae-edit-idp-details-test-saml-configuration.png)
-1. [**Save**] をクリックします。 ![SAML SSO 設定の [Save] ボタン](/assets/images/help/saml/ae-edit-idp-details-save.png)
+    - ドロップダウンメニューを使用して、新しい署名またはダイジェスト方法を選択します。 ![新しい署名またはダイジェスト方法を選択するためのドロップダウンメニュー](/assets/images/2021/10/help/saml/ae-edit-idp-details-edit-signature-and-digest-drop-down-menus.png)
+1. [**Test SAML configuration**] をクリックして、入力した情報が正しいことを確認します。 ![[Test SAML configuration] ボタン](/assets/images/2021/10/help/saml/ae-edit-idp-details-test-saml-configuration.png)
+1. [**Save**] をクリックします。 ![SAML SSO 設定の [Save] ボタン](/assets/images/2021/10/help/saml/ae-edit-idp-details-save.png)
 1. 必要に応じて、{% data variables.product.product_location %} のユーザアカウントを自動的にプロビジョニングおよびプロビジョニング解除するには、SCIM を使用してユーザプロビジョニングを再設定します。 詳しい情報については、「[Enterprise 向けのユーザプロビジョニングを設定する](/admin/authentication/configuring-user-provisioning-for-your-enterprise)」を参照してください。
 
 {% endif %}
@@ -148,8 +148,8 @@ IdP の詳細が変更された場合は、{% data variables.product.product_loc
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. [SAML single sign-on] の下で [**Enable SAML authentication**] を選択解除します。 ![[Enable SAML authentication] チェックボックス](/assets/images/help/saml/ae-saml-disabled.png)
-1. SAML SSO を無効にし、初期化中に作成した組み込みユーザアカウントでサインインする必要がある場合は、[**Save**] をクリックします。 ![SAML SSO 設定の [Save] ボタン](/assets/images/help/saml/ae-saml-disabled-save.png)
+1. [SAML single sign-on] の下で [**Enable SAML authentication**] を選択解除します。 ![[Enable SAML authentication] チェックボックス](/assets/images/2021/10/help/saml/ae-saml-disabled.png)
+1. SAML SSO を無効にし、初期化中に作成した組み込みユーザアカウントでサインインする必要がある場合は、[**Save**] をクリックします。 ![SAML SSO 設定の [Save] ボタン](/assets/images/2021/10/help/saml/ae-saml-disabled-save.png)
 
 {% endif %}
 

@@ -1,1 +1,1 @@
-1. Em "Team synchronization", clique em **Enable for Okta**. ![Habilitar sincronização de equipes para o botão Okta na página de configurações de segurança](/assets/images/help/teams/enable-team-synchronization-okta.png)
+1. Em "Team synchronization", clique em **Enable for Okta**. ![Habilitar sincronização de equipes para o botão Okta na página de configurações de segurança](/assets/images/2021/10/help/teams/enable-team-synchronization-okta.png)

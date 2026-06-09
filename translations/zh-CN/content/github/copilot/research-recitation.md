@@ -20,7 +20,7 @@ versions:
 
 这些都是故意过于简单化。 许多 {% data variables.product.prodname_dotcom %} Copilot 建议感觉非常具体地适应用户正在工作的特定代码基础。 通常，它看起来不像鹦鹉，更像是乌鸦在用小块<sup id="anchor3">[3](#footnote3)</sup>建造新的工具。 但不可否认，{% data variables.product.prodname_dotcom %} Copilot 有令人印象深刻的记忆：
 
-![Copilot 的影片演示](/assets/images/help/copilot/resources_recitation_example_zen.gif)
+![Copilot 的影片演示](/assets/images/2021/10/help/copilot/resources_recitation_example_zen.gif)
 
 在这里，我故意指示<sup id="anchor4">[4](#footnote4)</sup> {% data variables.product.prodname_dotcom %} Copilot 重写众所周知的文字，这显然是心知肚明的。 我心里也知道两份案文。 例如，我仍然记得我在学校学习的诗歌。 然而，不管这个题目如何，我从来都没有被诱惑掉进抑扬格四音步诗和关于水仙花的唱片。
 
@@ -48,7 +48,7 @@ r'^\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d
 
 在下列示例中，用户已开始编写非常常见的代码片段。 {% data variables.product.prodname_dotcom %} Copilot 将会完成它。 即使完成工作本身相当短，再加上现有的代码，它清除了阈值值并予以保留。
 
-![示例代码](/assets/images/help/copilot/example_last_straw.png)
+![示例代码](/assets/images/2021/10/help/copilot/example_last_straw.png)
 
 这个程序很宽松，足以让许多相对“无聊”的例子通过，如上述两个。 但它仍可将人类分析引入有趣的案例，清理出 99% 以上的 Copilot 建议。
 
@@ -57,9 +57,9 @@ r'^\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d
 过滤后还剩下 473 条建议。 但它们的表现形式非常不同：
 
 1. 有些基本上只是重复另一个通过了过滤的案例。 例如，有时 {% data variables.product.prodname_dotcom %} Copilot 提出建议，开发人员键入一个评论行，然后 {% data variables.product.prodname_dotcom %} Copilot 再次提供一个非常相似的建议。 我从分析中删除了这些作为重复项的案例。
-2. 有些是长而重复的序列。 像下面的示例一样，在培训集的某个地方当然可以找到重复的 `‘<p>’` 块 ：<br>![Example repetitions](/assets/images/help/copilot/example_repetitions.png)<br> 这样的建议可能会有所帮助（测试案例、正则表达式）或没有帮助（像本案例，我怀疑）。 但无论如何，它们并不符合我开始调查时所想到的死记硬背学习的想法。
-3. 有些是标准库存，如自然数字、质数、股市股票代码或希腊字母： <br>![希腊字母示例](/assets/images/help/copilot/example_greek.png)
-4. 有些是常见的、直接的方式，甚至是普遍的方式，以很少的自然自由度做事。 例如， 下面的中间部分触发了我使用 BeautifulSoup 包解析维基百科列表的标准方法。 事实上， 在 {% data variables.product.prodname_dotcom %} Copilot 的培训数据<sup id="anchor5">[5](#footnote5)</sup> 中找到的最佳匹配片段使用这种代码解析不同的文章，并继续根据结果做不同的事情。 <br>![Example of Beautiful Soup](/assets/images/help/copilot/example_beautiful_soup.png) <br>这也不符合我对引文的想法。 这有点像有人说“我要把垃圾拿出来；我很快就会回来的”— 这是事实陈述，不是引文，尽管这句话以前已经说过很多次了。
+2. 有些是长而重复的序列。 像下面的示例一样，在培训集的某个地方当然可以找到重复的 `‘<p>’` 块 ：<br>![Example repetitions](/assets/images/2021/10/help/copilot/example_repetitions.png)<br> 这样的建议可能会有所帮助（测试案例、正则表达式）或没有帮助（像本案例，我怀疑）。 但无论如何，它们并不符合我开始调查时所想到的死记硬背学习的想法。
+3. 有些是标准库存，如自然数字、质数、股市股票代码或希腊字母： <br>![希腊字母示例](/assets/images/2021/10/help/copilot/example_greek.png)
+4. 有些是常见的、直接的方式，甚至是普遍的方式，以很少的自然自由度做事。 例如， 下面的中间部分触发了我使用 BeautifulSoup 包解析维基百科列表的标准方法。 事实上， 在 {% data variables.product.prodname_dotcom %} Copilot 的培训数据<sup id="anchor5">[5](#footnote5)</sup> 中找到的最佳匹配片段使用这种代码解析不同的文章，并继续根据结果做不同的事情。 <br>![Example of Beautiful Soup](/assets/images/2021/10/help/copilot/example_beautiful_soup.png) <br>这也不符合我对引文的想法。 这有点像有人说“我要把垃圾拿出来；我很快就会回来的”— 这是事实陈述，不是引文，尽管这句话以前已经说过很多次了。
 5. 然后还有所有其他情况。 代码或评论中至少有一些特定重叠。 这些是我最感兴趣的，也是我从现在开始要集中精力的。
 
 此存储桶必须有一些边缘案例<sup id="anchor6">[6](#footnote6)</sup>，并且您的里程可能因您认为应分类的方式而有所不同。 也许你甚至一开始就不同意整套存储桶。
@@ -68,7 +68,7 @@ r'^\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d
 
 ## 结果
 
-![概览图](/assets/images/help/copilot/plot_buckets.png)
+![概览图](/assets/images/2021/10/help/copilot/plot_buckets.png)
 
 对于 {% data variables.product.prodname_dotcom %} Copilot 的大多数建议，我们的自动过滤器没有发现与培训使用的代码有任何明显的重叠。 但它确实提请了我们注意 473 个案例。 删除第一个存储桶（看起来与其他案例非常相似的案例）给我留下了 185 条建议。 其中 144 个被整理在存储桶 2-4。 这在最后一个存储桶中留下了 41 个案例，“背诵”- 我脑子里想着这个词的含义。
 
@@ -86,17 +86,17 @@ r'^\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d
 
 下图显示了存储桶 5 中结果的匹配文件数（每个结果底部有一个红色标记）与存储桶 2-4 中的匹配文件数。 我忽略了存储桶 1，这真的只是存储桶 2-4 案例与存储桶 5 案例重复项的组合。 推断的分布以红线显示；它在 100 到 1000 个匹配项之间达到峰值。
 
-![匹配图数](/assets/images/help/copilot/plot_copies.png)
+![匹配图数](/assets/images/2021/10/help/copilot/plot_copies.png)
 
 ### {% data variables.product.prodname_dotcom %} Copilot 大多在通用环境中引用。
 
 随着时间的推移，每个文件都变得独一无二。 但是 {% data variables.product.prodname_dotcom %} Copilot不会等待那个<sup id="anchor8">[8](#footnote8)</sup>：它会提供它的解决方案，而您的文件仍然非常笼统。 在没有任何具体的事情可做时，它更有可能从不同的地方引用。
 
-![上下文长度图](/assets/images/help/copilot/plot_context.png)
+![上下文长度图](/assets/images/2021/10/help/copilot/plot_context.png)
 
 当然，软件开发者大部分时间都用在文件内， 上下文的独特性足以保证 {% data variables.product.prodname_dotcom %} Copilot 会提供独特的建议。 相比之下，一开始的建议相当热门，因为 {% data variables.product.prodname_dotcom %} Copilot 不知道程序会是什么。 但有时，特别是在玩具项目或独立脚本中，少量的上下文可能足以危害用户想要做什么的合理猜测。 有时它仍然足够通用， 所以 {% data variables.product.prodname_dotcom %} Copilot 认为它心里知道的解决方案之一看起来很有希望：
 
-![示例代码](/assets/images/help/copilot/example_robot.png)
+![示例代码](/assets/images/2021/10/help/copilot/example_robot.png)
 
 这几乎直接取自在不同变化中上传的机器人课件<sup id="anchor9">[9](#footnote9)</sup>。
 
@@ -106,7 +106,7 @@ r'^\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d
 
 当然，没有什么是万无一失的：所以这也可以被欺骗。 有些案例很难通过我们正在构建的工具检测，但仍有明显的来源。 返回 Python 的 Zen：
 
-![Zen 变化](/assets/images/help/copilot/resources_recitation_example_zen_caw.gif)
+![Zen 变化](/assets/images/2021/10/help/copilot/resources_recitation_example_zen_caw.gif)
 
 ## 结论和后续步骤
 

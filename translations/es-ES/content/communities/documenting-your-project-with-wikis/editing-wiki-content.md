@@ -35,7 +35,7 @@ Las wikis pueden presentar imágenes PNG, JPEG y GIF.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
 3. Usando la barra lateral de la wiki, dirígete a la página que deseas cambiar y luego haz clic en **Editar**.
-4. En la barra de herramientas de la wiki, haz clic en **Imagen**. ![Botón de la wiki Agregar imagen](/assets/images/help/wiki/wiki_add_image.png)
+4. En la barra de herramientas de la wiki, haz clic en **Imagen**. ![Botón de la wiki Agregar imagen](/assets/images/2021/10/help/wiki/wiki_add_image.png)
 5. En el cuadro de diálogo "Insertar imagen", escribe la URL de la imagen y el texto alternativo (el que usan los motores de búsqueda y los lectores de pantalla).
 6. Haz clic en **OK** (aceptar).
 

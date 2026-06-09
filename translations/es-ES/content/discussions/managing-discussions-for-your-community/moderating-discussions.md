@@ -22,7 +22,7 @@ Es adecuado bloquear una conversación cuando ésta no sea constructiva o viole 
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. En la lista de debates, da clic en aquél que quieras bloquear. ![Bloquear debate](/assets/images/help/discussions/unanswered-discussion.png)
+1. En la lista de debates, da clic en aquél que quieras bloquear. ![Bloquear debate](/assets/images/2021/10/help/discussions/unanswered-discussion.png)
 1. En el margen derecho de un debate, da clic en **Bloquear conversación**.
 1. Lee la información sobre bloquear los debates y da clic en **Bloquear conversación en este debate**.
 1. Cuando estés listo para desbloquear la conversación, da clic en **Desbloquear conversación** y luego en **Desbloquear conversación en este debate**.

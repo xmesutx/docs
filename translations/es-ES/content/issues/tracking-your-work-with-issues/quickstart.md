@@ -31,7 +31,7 @@ Primero, crea una propuesta. Hay varias formas de crear una propuesta; puedes el
 {% data reusables.repositories.new_issue %}
 1. En este ejemplo, comenzaremos con una propuesta en blanco. Tu repositorio podría utilizar las plantillas de propuesta{% ifversion fpt or ghec %} y formatos de propuesta{% endif %} para exhortar a que los contribuyentes proporcionen información específica. Si tu repositorio utiliza plantillas de propuestas, {% ifversion fpt or ghes or ghec %}Haz clic en **Abrir una propuesta en blanco**{% else %}haz clic en **Abrir una propuesta normal.**{% endif %}.
 
-![propuesta en blanco](/assets/images/help/issues/blank-issue.png)
+![propuesta en blanco](/assets/images/2021/10/help/issues/blank-issue.png)
 
 ## Llenar la información
 
@@ -41,13 +41,13 @@ Agrega una descripción que explique el propósito de la propuesta, incluyendo c
 
 Puedes utilizar el lenguaje de marcado apra agregar formato, enlaces, emojis y más. Para obtener más información, consulta la sección "[Escribir en GitHub](/github/writing-on-github)".
 
-![título y cuerpo de la propuesta](/assets/images/help/issues/issue-title-body.png)
+![título y cuerpo de la propuesta](/assets/images/2021/10/help/issues/issue-title-body.png)
 
 ## Agregar una lista de tareas
 
 Puede ser útil desglosar propuestas grandes den tareas más pequeñas o rastrear varias propuestas relacionadas en una sola propuesta más grande. Agrega una lista de tareas a tu propuesta dando una breve introducción con `[ ]`. Referencia las propuestas existentes por número de propuesta o URL. Puedes utilizar texto simple para rastrear las tareas que no tengan una propuesta correspondiente y convertirlas en propuestas posteriormente. Para obtener más información, consulta "[Acerca de las listas de tareas](/issues/tracking-your-work-with-issues/about-task-lists)".
 
-![propuesta con lista de tareas](/assets/images/help/issues/issue-task-list-raw.png)
+![propuesta con lista de tareas](/assets/images/2021/10/help/issues/issue-task-list-raw.png)
 
 ## Agregar etiquetas
 
@@ -55,25 +55,25 @@ Agrega una etiqueta para categorizar tu propuesta. Por ejemplo, puedes utilizar 
 
 Puedes utilizar las etiquetas predeterminadas o puedes crear una nueva. Para obtener más información, consulta la sección "[Administrar etiquetas](/issues/using-labels-and-milestones-to-track-work/managing-labels)".
 
-![propuesta con etiquetas](/assets/images/help/issues/issue-with-label.png)
+![propuesta con etiquetas](/assets/images/2021/10/help/issues/issue-with-label.png)
 
 ## Agregar hitos
 
 Puedes agregar un hito para rastrear la propuesta como parte de un objetivo basado en una fecha. Un hito mostrará el progreso de las propeustas conforme se acerce la fecha objetivo. Para obtener más información, consulta "[Acerca de los hitos](/issues/using-labels-and-milestones-to-track-work/about-milestones)".
 
-![propuesta con hito](/assets/images/help/issues/issue-milestone.png)
+![propuesta con hito](/assets/images/2021/10/help/issues/issue-milestone.png)
 
 ## Asignar la propuesta
 
 Para comunicar la responsabilidad, puedes asignar la propeusta a un miembro de tu organización. Para obtener más informaciónm, consulta la sección "[Asignar propuestas y solicitudes de cambios a otros usuarios de GitHub](/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)".
 
-![propuesta con asignados](/assets/images/help/issues/issue-assignees.png)
+![propuesta con asignados](/assets/images/2021/10/help/issues/issue-assignees.png)
 
 ## Agregar la propuesta a un proyecto
 
 Puedes agregar la propuesta a un proyecto existente. {% ifversion fpt or ghec %}Si estás utilizando proyectos (beta), también puedes llenar los metadatos del proyecto. {% endif %} Para obtener más información sobre los proyectos, consulta las secciones {% ifversion fpt or ghec %}"[Acerca de los proyectos (beta)](/issues/trying-out-the-new-projects-experience/about-projects)" y {% endif %}"[Organizar tu trabajo con tableros de proyecto](/issues/organizing-your-work-with-project-boards)".
 
-![propuesta con proyectos](/assets/images/help/issues/issue-project.png)
+![propuesta con proyectos](/assets/images/2021/10/help/issues/issue-project.png)
 
 ## Emitir tu propuesta
 
@@ -83,7 +83,7 @@ Haz clic en **Emitir propuesta nueva** para crear tu propuesta. Puedes editar cu
 
 Después de que se crea tu propuesta, sigue la conversación agregando comentarios a ella. Puedes @mencionar a los colaboradores o equipos para que se fijen en un comentario. Para enlazar las propuestas relacionadas en el mismo repositorio, puedes teclear `#` seguido de parte del título de la propuesta y luego hacer clic en la propueta que quieras enlazar. Para obtener más información, consulta la sección "[Escribir en GitHub](/github/writing-on-github)".
 
-![comentario de una propuesta](/assets/images/help/issues/issue-comment.png)
+![comentario de una propuesta](/assets/images/2021/10/help/issues/issue-comment.png)
 
 ## Pasos siguientes
 

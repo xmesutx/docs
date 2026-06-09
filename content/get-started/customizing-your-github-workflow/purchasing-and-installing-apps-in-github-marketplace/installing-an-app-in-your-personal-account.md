@@ -26,7 +26,7 @@ If you choose a paid plan, you'll pay for your app subscription on your personal
 {% data reusables.marketplace.add-payment-method-personal %}
 {% data reusables.marketplace.complete-order-begin-installation %}
 8. Decide whether to give the app access to all of your repositories, or to certain repositories, then select **All repositories** or **Only select repositories**.
-  ![Radio buttons with options to install an app on all of your repositories or certain repositories](/assets/images/help/marketplace/marketplace-choose-repo-install-option.png)
+  ![Radio buttons with options to install an app on all of your repositories or certain repositories](/assets/images/2021/10/help/marketplace/marketplace-choose-repo-install-option.png)
 {% data reusables.marketplace.select-installation-repos %}
 {% data reusables.marketplace.review-app-perms-install %}
 

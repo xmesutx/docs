@@ -63,7 +63,7 @@ type: how_to
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. 单击 **Filters（过滤器）**以选择您感兴趣的过滤器类型。 ![使用过滤器下拉菜单](/assets/images/help/issues/issues_filter_dropdown.png)
+3. 单击 **Filters（过滤器）**以选择您感兴趣的过滤器类型。 ![使用过滤器下拉菜单](/assets/images/2021/10/help/issues/issues_filter_dropdown.png)
 
 ## 按受理人过滤议题和拉取请求
 
@@ -72,7 +72,7 @@ type: how_to
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 3. 在右上角，选择 Assignee（受理人）下拉菜单。
-4. Assignee（受理人）下拉菜单将列出对仓库有写入权限的每个人。 单击要查看项目的受理人用户名，或单击 **Assigned to nobody（未分配给任何人）**以查看未分配的议题。 ![使用受理人下拉菜单选项卡](/assets/images/help/issues/issues_assignee_dropdown.png)
+4. Assignee（受理人）下拉菜单将列出对仓库有写入权限的每个人。 单击要查看项目的受理人用户名，或单击 **Assigned to nobody（未分配给任何人）**以查看未分配的议题。 ![使用受理人下拉菜单选项卡](/assets/images/2021/10/help/issues/issues_assignee_dropdown.png)
 
 {% tip %}
 
@@ -87,7 +87,7 @@ type: how_to
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 {% data reusables.project-management.labels %}
-4. 在标签列表中，单击标签以查看应用了该标签的议题和拉取请求。 ![仓库标签列表](/assets/images/help/issues/labels-page.png)
+4. 在标签列表中，单击标签以查看应用了该标签的议题和拉取请求。 ![仓库标签列表](/assets/images/2021/10/help/issues/labels-page.png)
 
 {% tip %}
 
@@ -110,8 +110,8 @@ type: how_to
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-pr %}
-3. 在右上角，选择 Reviews（审查）下拉菜单。 ![拉取请求列表上方过滤器菜单中的审查下拉菜单](/assets/images/help/pull_requests/reviews-filter-dropdown.png)
-4. 选择一个过滤器以查找具有该过滤器状态的所有拉取请求。 ![审查下拉菜单中的过滤器列表](/assets/images/help/pull_requests/pr-review-filters.png)
+3. 在右上角，选择 Reviews（审查）下拉菜单。 ![拉取请求列表上方过滤器菜单中的审查下拉菜单](/assets/images/2021/10/help/pull_requests/reviews-filter-dropdown.png)
+4. 选择一个过滤器以查找具有该过滤器状态的所有拉取请求。 ![审查下拉菜单中的过滤器列表](/assets/images/2021/10/help/pull_requests/pr-review-filters.png)
 
 ## 使用搜索过滤议题和拉取请求
 
@@ -123,7 +123,7 @@ type: how_to
 
 议题和拉取请求搜索栏可以定义您自己的自定义过滤器并按各种标准进行排序。 您可以在每个仓库的 **Issues（议题）**和 **Pull requests（拉取请求）**选项卡上以及[议题和拉取请求仪表板](/articles/viewing-all-of-your-issues-and-pull-requests)上找到搜索栏。
 
-![议题和拉取请求搜索栏](/assets/images/help/issues/issues_search_bar.png)
+![议题和拉取请求搜索栏](/assets/images/2021/10/help/issues/issues_search_bar.png)
 
 {% tip %}
 
@@ -207,7 +207,7 @@ gh pr list --search "team:octo-org/octo-team"
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-1. 在右上角，选择 Sort（排序）下拉菜单。 ![使用排序下拉菜单选项卡](/assets/images/help/issues/issues_sort_dropdown.png)
+1. 在右上角，选择 Sort（排序）下拉菜单。 ![使用排序下拉菜单选项卡](/assets/images/2021/10/help/issues/issues_sort_dropdown.png)
 
 要清除您的排序选择，请单击 **Sort（排序）<**>**Newest（最新）**。
 

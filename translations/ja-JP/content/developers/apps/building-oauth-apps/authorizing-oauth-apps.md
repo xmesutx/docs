@@ -190,7 +190,7 @@ Name | Type | Description
 
 Your device will show the user verification code and prompt the user to enter the code at {% data variables.product.device_authorization_url %}.
 
-  ![Field to enter the user verification code displayed on your device](/assets/images/github-apps/device_authorization_page_for_user_code.png)
+  ![Field to enter the user verification code displayed on your device](/assets/images/2021/10/github-apps/device_authorization_page_for_user_code.png)
 
 ### Step 3: App polls GitHub to check if the user authorized the device
 

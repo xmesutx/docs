@@ -17,7 +17,7 @@ shortTitle: 开始 - Git 数据库 API
 
 如果 Git 仓库为空或不可用，Git 数据库 API 函数将返回 `409 Conflict`。  仓库不可用通常意味着 {% data variables.product.product_name %} 正在创建仓库。 对于空仓库，您可以使用“[创建或更新文件内容](/rest/reference/repos#create-or-update-file-contents)”端点来创建内容并初始化仓库，以便您可以使用 Git 数据库 API。 如果此响应状态仍然存在，请联系 {% data variables.contact.contact_support %}。
 
-![git 数据库概述](/assets/images/git-database-overview.png)
+![git 数据库概述](/assets/images/2021/10/git-database-overview.png)
 
 有关 Git 对象数据库的更多信息，请阅读 Pro Git 手册中的 [Git 内部](http://git-scm.com/book/en/v1/Git-Internals)章节。
 

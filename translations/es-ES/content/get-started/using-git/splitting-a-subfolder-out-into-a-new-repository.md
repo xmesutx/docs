@@ -57,7 +57,7 @@ Si creas un nuevo clon del repositorio, no perderás ninguno de tus historiales 
 
 7. En la parte superior de tu repositorio nuevo, en la página de configuración rápida de {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}, haz clic en {% octicon "clippy" aria-label="The copy to clipboard icon" %} para copiar la URL del repositorio remoto.
 
-   ![Copiar el campo de URL de repositorio remoto](/assets/images/help/repository/copy-remote-repository-url-quick-setup.png)
+   ![Copiar el campo de URL de repositorio remoto](/assets/images/2021/10/help/repository/copy-remote-repository-url-quick-setup.png)
 
    {% tip %}
 

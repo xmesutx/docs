@@ -48,8 +48,8 @@ shortTitle: 添加安全策略
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
-3. 在左侧边栏中，单击 **Security policy（安全策略）**。 ![安全策略选项卡](/assets/images/help/security/security-policy-tab.png)
-4. 单击 **Start setup（开始设置）**。 ![开始设置按钮](/assets/images/help/security/start-setup-security-policy-button.png)
+3. 在左侧边栏中，单击 **Security policy（安全策略）**。 ![安全策略选项卡](/assets/images/2021/10/help/security/security-policy-tab.png)
+4. 单击 **Start setup（开始设置）**。 ![开始设置按钮](/assets/images/2021/10/help/security/start-setup-security-policy-button.png)
 5. 在新的 _SECURITY.md_ 文件中，添加关于项目受支持版本以及如何报告漏洞的信息。
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}

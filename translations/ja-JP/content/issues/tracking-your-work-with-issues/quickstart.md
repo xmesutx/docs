@@ -31,7 +31,7 @@ Issueを作成するにはリポジトリが必要です。 書き込みアク�
 {% data reusables.repositories.new_issue %}
 1. この例では、空のIssueから始めます。 リポジトリでは、コントリビューターが特定の情報を提供することを促進するためにIssueテンプレート{% ifversion fpt or ghec %}及びIssueフォーム{% endif %}が使われるかもしれません。 リポジトリがIssueテンプレートを使うなら、{% ifversion fpt or ghes or ghec %}**Open a blank Issue（空のIssueをオープン）**をクリック{% else %}**Open a regular issue（通常のIssueをオープン）をクリック**{% endif %}してください。
 
-![空のIssue](/assets/images/help/issues/blank-issue.png)
+![空のIssue](/assets/images/2021/10/help/issues/blank-issue.png)
 
 ## 情報の記入
 
@@ -41,13 +41,13 @@ Issueを解決するのに役立つかもしれない詳細情報も含めて、
 
 フォーマット、リンク、絵文字などを追加するためにMarkdownを使うことができます。 くわしいじょうほうについては「[GitHubでの執筆](/github/writing-on-github)」を参照してください。
 
-![Issueのタイトルと本文](/assets/images/help/issues/issue-title-body.png)
+![Issueのタイトルと本文](/assets/images/2021/10/help/issues/issue-title-body.png)
 
 ## タスクリストの追加
 
 大きなIssueを小さなタスクに分割したり、複数の関連するIssueを1つの大きなIssueで追跡すると役立つことがあります。 リストアイテムの前に`[ ]`を置いて、Issueにタスクリストを追加してください。 既存のIssueは、Issue番号あるいはURLで参照してください。 対応するIssueを持たないタスクを追跡するのにプレーンテキストを使い、それらを後でIssueに変換することができます。 詳しい情報については[タスクリストについて](/issues/tracking-your-work-with-issues/about-task-lists)を参照してください。
 
-![タスクリストのあるIssue](/assets/images/help/issues/issue-task-list-raw.png)
+![タスクリストのあるIssue](/assets/images/2021/10/help/issues/issue-task-list-raw.png)
 
 ## ラベルの追加
 
@@ -55,25 +55,25 @@ Issueを分類するために、ラベルを追加してください。 たと�
 
 デフォルトのラベルを使うことも、新しいラベルを作成することもできます。 詳しい情報については、「[ラベルを管理する](/issues/using-labels-and-milestones-to-track-work/managing-labels)」を参照してください。
 
-![ラベルを持つIssue](/assets/images/help/issues/issue-with-label.png)
+![ラベルを持つIssue](/assets/images/2021/10/help/issues/issue-with-label.png)
 
 ## マイルストーンの追加
 
 マイルストーンを追加して、Issueを日付ベースのターゲットの一部として追跡できます。 マイルストーンは、ターゲットの日に近づくにつれて、Issueの進捗を示します。 詳しい情報については、「[マイルストーンについて](/issues/using-labels-and-milestones-to-track-work/about-milestones)」を参照してください。
 
-![マイルストーンを持つIssue](/assets/images/help/issues/issue-milestone.png)
+![マイルストーンを持つIssue](/assets/images/2021/10/help/issues/issue-milestone.png)
 
 ## Issueのアサイン
 
 責任をやりとりするために、IssueをOrganizatoinのメンバーにアサインできます。 詳しい情報については、「[GitHub の他のユーザに Issue およびプルリクエストをアサインする](/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)」を参照してください。
 
-![アサインされた人を持つIssue](/assets/images/help/issues/issue-assignees.png)
+![アサインされた人を持つIssue](/assets/images/2021/10/help/issues/issue-assignees.png)
 
 ## プロジェクトへのIssueの追加
 
 Issueを既存のプロジェクトに追加できます。 {% ifversion fpt or ghec %}プロジェクト（ベータ）を使っているなら、プロジェクトのメタデータを展開することもできます。 {% endif %}プロジェクトに関する詳しい情報については{% ifversion fpt or ghec %}「[プロジェクト（ベータ）について](/issues/trying-out-the-new-projects-experience/about-projects)」及び{% endif %}「[プロジェクトボードで作業を整理する](/issues/organizing-your-work-with-project-boards)」を参照してください。
 
-![プロジェクトを持つIssue](/assets/images/help/issues/issue-project.png)
+![プロジェクトを持つIssue](/assets/images/2021/10/help/issues/issue-project.png)
 
 ## Issueのサブミット
 
@@ -83,7 +83,7 @@ Issueを既存のプロジェクトに追加できます。 {% ifversion fpt or 
 
 Issueを作成した後は、そのIssueにコメントを追加して会話を続けてください。 コラボレータあるいはTeamを@メンションして、コメントに注意を惹きつけることができます。 同じリポジトリ内の関連するIssueをリンクするために、`#`につづいてIssueのタイトルの一部を続け、リンクしたいIssueをクリックできます。 くわしい情報については「[GitHubでの執筆](/github/writing-on-github)」を参照してください。
 
-![Issueのコメント](/assets/images/help/issues/issue-comment.png)
+![Issueのコメント](/assets/images/2021/10/help/issues/issue-comment.png)
 
 ## 次のステップ
 

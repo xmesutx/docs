@@ -50,10 +50,10 @@ Para actualizar a la versión más reciente {% data variables.product.prodname_e
 1. Aprovisiona una nueva instancia {% data variables.product.prodname_enterprise %} 2.1. Para obtener más información, consulta la "[Guía de aprovisionamiento e instalación](/enterprise/2.1/admin/guides/installation/provisioning-and-installation/)" para tu plataforma destino.
 2. Desde un navegador, dirígete a la nueva dirección IP del aparato réplica y carga tu licencia de {% data variables.product.prodname_enterprise %}.
 3. Configura una contraseña de administrador.
-5. Haz clic en **Migrate (Migrar)**. ![Elegir el tipo de instalación](/assets/images/enterprise/migration/migration-choose-install-type.png)
-6. Pega tu clave SSH de acceso al servidor de respaldo en "Add new SSH key (Agregar nueva clave SSH)". ![Autorizar la copia de seguridad](/assets/images/enterprise/migration/migration-authorize-backup-host.png)
+5. Haz clic en **Migrate (Migrar)**. ![Elegir el tipo de instalación](/assets/images/2021/10/enterprise/migration/migration-choose-install-type.png)
+6. Pega tu clave SSH de acceso al servidor de respaldo en "Add new SSH key (Agregar nueva clave SSH)". ![Autorizar la copia de seguridad](/assets/images/2021/10/enterprise/migration/migration-authorize-backup-host.png)
 7. Da clic en **Agregar llave** y luego en **Continuar**.
-8. Copia el comando `ghe-restore` que ejecutarás en el servidor de respaldo para migrar datos a la nueva instancia. ![Iniciar la migración](/assets/images/enterprise/migration/migration-restore-start.png)
+8. Copia el comando `ghe-restore` que ejecutarás en el servidor de respaldo para migrar datos a la nueva instancia. ![Iniciar la migración](/assets/images/2021/10/enterprise/migration/migration-restore-start.png)
 9. Habilita el modo mantenimiento en la instancia anterior y espera a que se completen todos los procesos activos. Para obtener más información, consulta "[Habilitar y programar el modo mantenimiento](/enterprise/{{ currentVersion }}/admin/guides/installation/enabling-and-scheduling-maintenance-mode)."
 
   {% note %}
@@ -84,8 +84,8 @@ Para actualizar a la versión más reciente {% data variables.product.prodname_e
   Visit https://169.254.1.1/setup/settings to review appliance configuration.
   ```
 
-12. Regresa a la pantalla de estado de restauración de la nueva instancia para ver que la restauración está completa. ![Restaurar la pantalla completa](/assets/images/enterprise/migration/migration-status-complete.png)
-13. Haz clic en **Continue to settings (Continuar a configuraciones)** para revisar y ajustar la información de configuración y los parámetros que se importaron de la instancia anterior. ![Revisar los parámetros importados](/assets/images/enterprise/migration/migration-status-complete.png)
+12. Regresa a la pantalla de estado de restauración de la nueva instancia para ver que la restauración está completa. ![Restaurar la pantalla completa](/assets/images/2021/10/enterprise/migration/migration-status-complete.png)
+13. Haz clic en **Continue to settings (Continuar a configuraciones)** para revisar y ajustar la información de configuración y los parámetros que se importaron de la instancia anterior. ![Revisar los parámetros importados](/assets/images/2021/10/enterprise/migration/migration-status-complete.png)
 14. Haz clic en **Guardar parámetros**.
 
   {% note %}

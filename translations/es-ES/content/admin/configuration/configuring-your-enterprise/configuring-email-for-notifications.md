@@ -28,43 +28,43 @@ Los propietarios de las empresas pueden configurar los correos electrónicos par
 {% ifversion ghes %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. En la parte superior de la página, haz clic en **Parámetros**. ![Pestaña Parámetros](/assets/images/enterprise/management-console/settings-tab.png)
-3. En la barra lateral de la izquierda, haz clic en **Correo electrónico**. ![Pestaña Correo electrónico](/assets/images/enterprise/management-console/email-sidebar.png)
-4. Selecciona **Activar correo electrónico**. Esto activará tanto el correo electrónico de salida como el de entrada, sin embargo para trabajar con el correo electrónico entrante también necesitarás configurar los parámetros de tu DNS como se describe a continuación en ["Configurar DNS y parámetros de firewall para permitir correos electrónicos entrantes](#configuring-dns-and-firewall-settings-to-allow-incoming-emails)". ![Activar correo electrónico de salida](/assets/images/enterprise/management-console/enable-outbound-email.png)
+2. En la parte superior de la página, haz clic en **Parámetros**. ![Pestaña Parámetros](/assets/images/2021/10/enterprise/management-console/settings-tab.png)
+3. En la barra lateral de la izquierda, haz clic en **Correo electrónico**. ![Pestaña Correo electrónico](/assets/images/2021/10/enterprise/management-console/email-sidebar.png)
+4. Selecciona **Activar correo electrónico**. Esto activará tanto el correo electrónico de salida como el de entrada, sin embargo para trabajar con el correo electrónico entrante también necesitarás configurar los parámetros de tu DNS como se describe a continuación en ["Configurar DNS y parámetros de firewall para permitir correos electrónicos entrantes](#configuring-dns-and-firewall-settings-to-allow-incoming-emails)". ![Activar correo electrónico de salida](/assets/images/2021/10/enterprise/management-console/enable-outbound-email.png)
 5. Teclea la configuración para tu servidor de SMTP.
       - En el campo **Dirección del servidor**, escribe la dirección de tu servidor SMTP.
       - En el campo **Puerto**, escribe el puerto que usa tu servidor SMTP para enviar correo electrónico.
       - En el campo **Dominio**, escribe el nombre de dominio que enviará tu servidor SMTP con una respuesta HELO, de ser el caso.
       - Selecciona el menú desplegable de **Autenticación** y elige el tipo de cifrado que utiliza tu servidor SMTP.
       - En el campo **Dirección de correo electrónico sin respuesta**, escribe la dirección de correo electrónico para usar en los campos De y Para para todos los correos electrónicos para notificaciones.
-6. Si quieres descartar todos los correos electrónicos entrantes que estén dirigidos al correo electrónico sin respuesta, selecciona **Descartar correo electrónico dirigido a la dirección de correo electrónico sin respuesta**. ![Casilla de verificación para descartar los correos electrónicos dirigidos a la dirección de correo electrónico sin respuesta](/assets/images/enterprise/management-console/discard-noreply-emails.png)
+6. Si quieres descartar todos los correos electrónicos entrantes que estén dirigidos al correo electrónico sin respuesta, selecciona **Descartar correo electrónico dirigido a la dirección de correo electrónico sin respuesta**. ![Casilla de verificación para descartar los correos electrónicos dirigidos a la dirección de correo electrónico sin respuesta](/assets/images/2021/10/enterprise/management-console/discard-noreply-emails.png)
 7. En **Soporte**, elige un tipo de enlace para ofrecer un soporte adicional a tus usuarios.
     - **Correo electrónico:** Una dirección de correo electrónico interna.
-    - **URL:** Un enlace a un sitio de soporte interno. Debes incluir tanto `http://` como `https://`. ![Correo de soporte técnico o URL](/assets/images/enterprise/management-console/support-email-url.png)
+    - **URL:** Un enlace a un sitio de soporte interno. Debes incluir tanto `http://` como `https://`. ![Correo de soporte técnico o URL](/assets/images/2021/10/enterprise/management-console/support-email-url.png)
 8. [Prueba de entrega del correo electrónico](#testing-email-delivery).
 {% elsif ghae %}
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.email-tab %}
-2. Selecciona **Activar correo electrónico**. ![Casilla de "Habilitar" para la configuración de ajustes de correo electrónico](/assets/images/enterprise/configuration/ae-enable-email-configure.png)
+2. Selecciona **Activar correo electrónico**. ![Casilla de "Habilitar" para la configuración de ajustes de correo electrónico](/assets/images/2021/10/enterprise/configuration/ae-enable-email-configure.png)
 3. Teclea la configuración para tu servidor de correo electrónico.
     - En el campo **Dirección del servidor**, escribe la dirección de tu servidor SMTP.
     - En el campo **Puerto**, escribe el puerto que usa tu servidor SMTP para enviar correo electrónico.
     - En el campo **Dominio**, escribe el nombre de dominio que enviará tu servidor SMTP con una respuesta HELO, de ser el caso.
     - Selecciona el menú desplegable de **Autenticación** y elige el tipo de cifrado que utiliza tu servidor SMTP.
     - En el campo **Dirección de correo electrónico sin respuesta**, escribe la dirección de correo electrónico para usar en los campos De y Para para todos los correos electrónicos para notificaciones.
-4. Si quieres descartar todos los correos electrónicos entrantes que estén dirigidos al correo electrónico sin respuesta, selecciona **Descartar correo electrónico dirigido a la dirección de correo electrónico sin respuesta**. ![Casilla de "Descartar" para la configuración de ajustes de correo electrónico](/assets/images/enterprise/configuration/ae-discard-email.png)
-5. Haz clic en **Probar la configuración de correo electrónico**. ![Botón de "Probar la configuración de correo electrónico" para la configuración de ajustes de correo electrónico](/assets/images/enterprise/configuration/ae-test-email.png)
-6. Debajo de "Enviar correo electrónico de pruebas a," teclea la dirección de correo electrónico a donde quieras enviar un mensaje de prueba y haz clic en **Enviar correo electrónico de pruebas**. ![Botón de "Enviar correo electrónico de pruebas" para la configuración de ajustes de correo electrónico](/assets/images/enterprise/configuration/ae-send-test-email.png)
-7. Haz clic en **Save ** (guardar). ![Botón de "Guardar" para la configuración del contacto de soporte empresarial](/assets/images/enterprise/configuration/ae-save.png)
+4. Si quieres descartar todos los correos electrónicos entrantes que estén dirigidos al correo electrónico sin respuesta, selecciona **Descartar correo electrónico dirigido a la dirección de correo electrónico sin respuesta**. ![Casilla de "Descartar" para la configuración de ajustes de correo electrónico](/assets/images/2021/10/enterprise/configuration/ae-discard-email.png)
+5. Haz clic en **Probar la configuración de correo electrónico**. ![Botón de "Probar la configuración de correo electrónico" para la configuración de ajustes de correo electrónico](/assets/images/2021/10/enterprise/configuration/ae-test-email.png)
+6. Debajo de "Enviar correo electrónico de pruebas a," teclea la dirección de correo electrónico a donde quieras enviar un mensaje de prueba y haz clic en **Enviar correo electrónico de pruebas**. ![Botón de "Enviar correo electrónico de pruebas" para la configuración de ajustes de correo electrónico](/assets/images/2021/10/enterprise/configuration/ae-send-test-email.png)
+7. Haz clic en **Save ** (guardar). ![Botón de "Guardar" para la configuración del contacto de soporte empresarial](/assets/images/2021/10/enterprise/configuration/ae-save.png)
 {% endif %}
 
 {% ifversion ghes %}
 ## Probar entrega del correo electrónico
 
-1. En la parte superior de la sección **Correo electrónico**, haz clic en **Probar parámetros del correo electrónico**. ![Probar parámetros del correo electrónico](/assets/images/enterprise/management-console/test-email.png)
-2. En el campo **Enviar correo electrónico de prueba**, escribe una dirección donde enviar el correo electrónico de prueba. ![Probar dirección de correo electrónico](/assets/images/enterprise/management-console/test-email-address.png)
-3. Haz clic en **Enviar correo electrónico de prueba**. ![Enviar correo electrónico de prueba](/assets/images/enterprise/management-console/test-email-address-send.png)
+1. En la parte superior de la sección **Correo electrónico**, haz clic en **Probar parámetros del correo electrónico**. ![Probar parámetros del correo electrónico](/assets/images/2021/10/enterprise/management-console/test-email.png)
+2. En el campo **Enviar correo electrónico de prueba**, escribe una dirección donde enviar el correo electrónico de prueba. ![Probar dirección de correo electrónico](/assets/images/2021/10/enterprise/management-console/test-email-address.png)
+3. Haz clic en **Enviar correo electrónico de prueba**. ![Enviar correo electrónico de prueba](/assets/images/2021/10/enterprise/management-console/test-email-address-send.png)
 
   {% tip %}
 
@@ -73,7 +73,7 @@ Los propietarios de las empresas pueden configurar los correos electrónicos par
   {% endtip %}
 
 4. Si el correo electrónico de prueba falla, [soluciona los problemas de los parámetros de tu correo electrónico](#troubleshooting-email-delivery).
-5. Cuando el correo electrónico de prueba es exitoso, en la parte inferior de la página, haz clic en **Guardar parámetros**. ![Botón Guardar parámetros](/assets/images/enterprise/management-console/save-settings.png)
+5. Cuando el correo electrónico de prueba es exitoso, en la parte inferior de la página, haz clic en **Guardar parámetros**. ![Botón Guardar parámetros](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 {% data reusables.enterprise_site_admin_settings.wait-for-configuration-run %}
 
 ## Configurar DNS y parámetros de firewall para permitir correos electrónicos entrantes

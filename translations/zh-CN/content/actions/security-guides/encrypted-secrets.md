@@ -202,7 +202,7 @@ gh secret list --org <em>organization-name</em>
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. 密码列表包括任何已配置的权限和策略。 例如： ![密码列表](/assets/images/help/settings/actions-org-secrets-list.png)
+1. 密码列表包括任何已配置的权限和策略。 例如： ![密码列表](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. 有关已为每个密码配置的权限的更多信息，请单击 **Update（更新）**。
 
 ## 在工作流程中使用加密密码

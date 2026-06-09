@@ -19,8 +19,8 @@ Siempre que se sube una confirmación de cambios a {% data variables.product.pro
 
 1. Visita la página de perfil de usuario.
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. En el lado izquierdo de la página, haz clic en **Administrar**. ![Pestaña Administrar](/assets/images/enterprise/site-admin-settings/admin-tab.png)
-4. En **Datos de contribuciones**, haz clic en **Reconstruir**. ![Botón Reconstruir](/assets/images/enterprise/site-admin-settings/rebuild-button.png)
+3. En el lado izquierdo de la página, haz clic en **Administrar**. ![Pestaña Administrar](/assets/images/2021/10/enterprise/site-admin-settings/admin-tab.png)
+4. En **Datos de contribuciones**, haz clic en **Reconstruir**. ![Botón Reconstruir](/assets/images/2021/10/enterprise/site-admin-settings/rebuild-button.png)
 
 {% data variables.product.prodname_enterprise %} ahora comenzará jobs en segundo plano para volver a enlazar las confirmaciones con esa cuenta de usuario.
-  ![Trabajos de reconstrucción en cola](/assets/images/enterprise/site-admin-settings/rebuild-jobs.png)
+  ![Trabajos de reconstrucción en cola](/assets/images/2021/10/enterprise/site-admin-settings/rebuild-jobs.png)

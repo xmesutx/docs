@@ -86,12 +86,12 @@ Using a predefined configuration is a great idea if you need some additional ext
 
 {% data reusables.codespaces.command-palette-container %}
 1. Click the definition you want to use.
-  ![List of predefined container definitions](/assets/images/help/codespaces/predefined-container-definitions-list.png)
+  ![List of predefined container definitions](/assets/images/2021/10/help/codespaces/predefined-container-definitions-list.png)
 1. Follow the prompts to customize your definition. For more information on the options to customize your definition, see "[Adding additional features to your `devcontainer.json` file](#adding-additional-features-to-your-devcontainerjson-file)."
 1. Click **OK**.
-  ![OK button](/assets/images/help/codespaces/prebuilt-container-ok-button.png)
+  ![OK button](/assets/images/2021/10/help/codespaces/prebuilt-container-ok-button.png)
 1. To apply the changes, in the bottom right corner of the screen, click **Rebuild now**. For more information about rebuilding your container, see "[Applying changes to your configuration](#applying-changes-to-your-configuration)."
-  !["Codespaces: Rebuild Container" in the {% data variables.product.prodname_vscode_command_palette %}](/assets/images/help/codespaces/rebuild-prompt.png)
+  !["Codespaces: Rebuild Container" in the {% data variables.product.prodname_vscode_command_palette %}](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 ### Adding additional features to your `devcontainer.json` file
 
@@ -105,15 +105,15 @@ You can add features to your predefined container configuration to customize whi
 
 You can add some of the most common features by selecting them when configuring your predefined container. For more information on the available features, see the [script library](https://github.com/microsoft/vscode-dev-containers/tree/main/script-library#scripts) in the `vscode-dev-containers` repository.
 
-![The select additional features menu during container configuration.](/assets/images/help/codespaces/select-additional-features.png)
+![The select additional features menu during container configuration.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
 
 You can also add or remove features outside of the **Add Development Container Configuration Files** workflow. 
 1. Access the Command Palette (`Shift + Command + P` / `Ctrl + Shift + P`), then start typing "configure". Select **Codespaces: Configure Devcontainer Features**.
-  ![The Configure Devcontainer Features command in the command palette](/assets/images/help/codespaces/codespaces-configure-features.png)
+  ![The Configure Devcontainer Features command in the command palette](/assets/images/2021/10/help/codespaces/codespaces-configure-features.png)
 2. Update your feature selections, then click **OK**.
-  ![The select additional features menu during container configuration.](/assets/images/help/codespaces/select-additional-features.png)
+  ![The select additional features menu during container configuration.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
 1. To apply the changes, in the bottom right corner of the screen, click **Rebuild now**. For more information about rebuilding your container, see "[Applying changes to your configuration](#applying-changes-to-your-configuration)."
-  !["Codespaces: Rebuild Container" in the command palette](/assets/images/help/codespaces/rebuild-prompt.png)
+  !["Codespaces: Rebuild Container" in the command palette](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 
 ## Creating a custom codespace configuration
@@ -167,7 +167,7 @@ For more information about the available settings for `devcontainer.json`, see [
 
 {% data reusables.codespaces.rebuild-command %}
 1. {% data reusables.codespaces.recovery-mode %} Fix the errors in the configuration.
-  ![Error message about recovery mode](/assets/images/help/codespaces/recovery-mode-error-message.png)
+  ![Error message about recovery mode](/assets/images/2021/10/help/codespaces/recovery-mode-error-message.png)
    - To diagnose the error by reviewing the creation logs, click **View creation log**.
    - To fix the errors identified in the logs, update your `devcontainer.json` file.
    - To apply the changes, rebuild your container. 

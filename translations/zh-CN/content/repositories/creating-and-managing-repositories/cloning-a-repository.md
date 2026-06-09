@@ -69,9 +69,9 @@ gh repo clone <em>https://github.com/cli/cli</em>
 空仓库不含任何文件。 如果创建仓库时不使用 README 初始化仓库，通常会出现空仓库。
 
 {% data reusables.repositories.navigate-to-repo %}
-2. 要使用 HTTPS 以命令行克隆仓库，请在“Quick setup（快速设置）”下单击 {% octicon "clippy" aria-label="The clipboard icon" %}。 要使用 SSH 密钥克隆仓库，包括组织的 SSH 认证中心颁发的证书，单击 **SSH**，然后单击 {% octicon "clippy" aria-label="The clipboard icon" %}。 ![空仓库克隆 URL 按钮](/assets/images/help/repository/empty-https-url-clone-button.png)
+2. 要使用 HTTPS 以命令行克隆仓库，请在“Quick setup（快速设置）”下单击 {% octicon "clippy" aria-label="The clipboard icon" %}。 要使用 SSH 密钥克隆仓库，包括组织的 SSH 认证中心颁发的证书，单击 **SSH**，然后单击 {% octicon "clippy" aria-label="The clipboard icon" %}。 ![空仓库克隆 URL 按钮](/assets/images/2021/10/help/repository/empty-https-url-clone-button.png)
 
-   或者，要在 Desktop 中克隆仓库，请单击 {% octicon "desktop-download" aria-label="The desktop download button" %} **Set up in Desktop（在 Desktop 中设置）**并按照提示完成克隆。 ![空仓库克隆桌面按钮](/assets/images/help/repository/empty-desktop-clone-button.png)
+   或者，要在 Desktop 中克隆仓库，请单击 {% octicon "desktop-download" aria-label="The desktop download button" %} **Set up in Desktop（在 Desktop 中设置）**并按照提示完成克隆。 ![空仓库克隆桌面按钮](/assets/images/2021/10/help/repository/empty-desktop-clone-button.png)
 
 {% data reusables.command_line.open_the_multi_os_terminal %}
 {% data reusables.command_line.change-current-directory-clone %}

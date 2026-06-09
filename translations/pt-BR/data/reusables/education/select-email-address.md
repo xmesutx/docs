@@ -1,4 +1,4 @@
-1. Selecione ou adicione o endereço de e-mail usado na escola. ![Selecione o endereço de e-mail](/assets/images/help/education/select-email-address.png)
+1. Selecione ou adicione o endereço de e-mail usado na escola. ![Selecione o endereço de e-mail](/assets/images/2021/10/help/education/select-email-address.png)
 
     {% tip %}
 

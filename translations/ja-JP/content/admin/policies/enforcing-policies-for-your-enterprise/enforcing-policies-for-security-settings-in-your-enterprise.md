@@ -51,8 +51,8 @@ Before you can require 2FA for all organizations owned by your enterprise, you m
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 4. [Two-factor authentication] で、設定変更に関する情報を確認します。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. [Two-factor authentication] で、[**Require two-factor authentication for all organizations in your business**] を選択し、[**Save**] をクリックします。 ![2 要素認証を義務化するチェックボックス](/assets/images/help/business-accounts/require-2fa-checkbox.png)
-6. If prompted, read the information about members and outside collaborators who will be removed from the organizations owned by your enterprise. To confirm the change, type your enterprise's name, then click **Remove members & require two-factor authentication**. ![2 要素の施行の確定ボックス](/assets/images/help/business-accounts/confirm-require-2fa.png)
+5. [Two-factor authentication] で、[**Require two-factor authentication for all organizations in your business**] を選択し、[**Save**] をクリックします。 ![2 要素認証を義務化するチェックボックス](/assets/images/2021/10/help/business-accounts/require-2fa-checkbox.png)
+6. If prompted, read the information about members and outside collaborators who will be removed from the organizations owned by your enterprise. To confirm the change, type your enterprise's name, then click **Remove members & require two-factor authentication**. ![2 要素の施行の確定ボックス](/assets/images/2021/10/help/business-accounts/confirm-require-2fa.png)
 7. Optionally, if any members or outside collaborators are removed from the organizations owned by your enterprise, we recommend sending them an invitation to reinstate their former privileges and access to your organization. 彼らが招待状を受け取ることができるようにするには、まず各ユーザーが 2 要素認証を有効にする必要があります。
 
 {% endif %}
@@ -93,7 +93,7 @@ Enterprise owners can restrict access to assets owned by organizations in an ent
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-3. [IP allow list] で、「**Enable IP allow list**」を選択します。 ![IP アドレスを許可するチェックボックス](/assets/images/help/security/enable-ip-allowlist-enterprise-checkbox.png)
+3. [IP allow list] で、「**Enable IP allow list**」を選択します。 ![IP アドレスを許可するチェックボックス](/assets/images/2021/10/help/security/enable-ip-allowlist-enterprise-checkbox.png)
 4. [**Save**] をクリックします。
 
 ### 許可 IP アドレスを編集する

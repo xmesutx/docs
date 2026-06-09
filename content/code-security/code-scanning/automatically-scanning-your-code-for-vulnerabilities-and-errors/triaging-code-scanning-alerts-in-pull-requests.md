@@ -44,14 +44,14 @@ For all configurations of {% data variables.product.prodname_code_scanning %}, t
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-4902 or ghec %} To see the full set of alerts for the analyzed branch, click **View all branch alerts**. This opens the full alert view where you can filter all the alerts on the branch by type, severity, tag, etc. For more information, see "[Managing code scanning alerts for your repository](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/managing-code-scanning-alerts-for-your-repository#filtering-and-searching-for-code-scanning-alerts)."
 
-![{% data variables.product.prodname_code_scanning_capc %} results check on a pull request](/assets/images/help/repository/code-scanning-results-check.png)
+![{% data variables.product.prodname_code_scanning_capc %} results check on a pull request](/assets/images/2021/10/help/repository/code-scanning-results-check.png)
 {% endif %}
 
 ### {% data variables.product.prodname_code_scanning_capc %} results check failures
 
 If the {% data variables.product.prodname_code_scanning %} results check finds any problems with a severity of `error`{% ifversion fpt or ghes > 3.1  or ghae or ghec %}, `critical`, or `high`,{% endif %} the check fails and the error is reported in the check results. If all the results found by {% data variables.product.prodname_code_scanning %} have lower severities, the alerts are treated as warnings or notes and the check succeeds.
 
-![Failed {% data variables.product.prodname_code_scanning %} check on a pull request](/assets/images/help/repository/code-scanning-check-failure.png)
+![Failed {% data variables.product.prodname_code_scanning %} check on a pull request](/assets/images/2021/10/help/repository/code-scanning-check-failure.png)
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}You can override the default behavior in your repository settings, by specifying the level of severities {% ifversion fpt or ghes > 3.1  or ghae or ghec %}and security severities {% endif %}that will cause a pull request check failure. For more information, see "[Defining the severities causing pull request check failure](/code-security/secure-coding/configuring-code-scanning#defining-the-severities-causing-pull-request-check-failure)".
 {% endif %}
@@ -68,7 +68,7 @@ As with other pull request checks, you can see full details of the check failure
 
 You can see any {% data variables.product.prodname_code_scanning %} alerts introduced in a pull request by displaying the **Files changed** tab. Each alert is shown as an annotation on the lines of code that triggered the alert. The severity of the alert is displayed in the annotation. 
 
-![Alert annotation within a pull request diff](/assets/images/help/repository/code-scanning-pr-annotation.png)
+![Alert annotation within a pull request diff](/assets/images/2021/10/help/repository/code-scanning-pr-annotation.png)
 
 If you have write permission for the repository, some annotations contain links with extra context for the alert. In the example above, from {% data variables.product.prodname_codeql %} analysis, you can click **user-provided value** to see where the untrusted data enters the data flow (this is referred to as the source). In this case you can also view the full path from the source to the code that uses the data (the sink) by clicking **Show paths**. This makes it easy to check whether the data is untrusted or if the analysis failed to recognize a data sanitization step between the source and the sink. For information about analyzing data flow using {% data variables.product.prodname_codeql %}, see "[About data flow analysis](https://codeql.github.com/docs/writing-codeql-queries/about-data-flow-analysis/)."
 
@@ -76,7 +76,7 @@ To see more information about an alert, users with write permission can click th
 
 In the detailed view for an alert, some {% data variables.product.prodname_code_scanning %} tools, like {% data variables.product.prodname_codeql %} analysis, also include a description of the problem and a **Show more** link for guidance on how to fix your code.
 
-![Alert description and link to show more information](/assets/images/help/repository/code-scanning-pr-alert.png)
+![Alert description and link to show more information](/assets/images/2021/10/help/repository/code-scanning-pr-alert.png)
 
 ## Fixing an alert on your pull request
 
@@ -86,7 +86,7 @@ Anyone with push access to a pull request can fix a {% data variables.product.pr
 
 An alternative way of closing an alert is to dismiss it. You can dismiss an alert if you don't think it needs to be fixed. {% data reusables.code-scanning.close-alert-examples %} If you have write permission for the repository, the **Dismiss** button is available in code annotations and in the alerts summary. When you click **Dismiss** you will be prompted to choose a reason for closing the alert.
 
-![Choosing a reason for dismissing an alert](/assets/images/help/repository/code-scanning-alert-close-drop-down.png)
+![Choosing a reason for dismissing an alert](/assets/images/2021/10/help/repository/code-scanning-alert-close-drop-down.png)
 
 {% data reusables.code-scanning.choose-alert-dismissal-reason %}
 

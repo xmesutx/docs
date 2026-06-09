@@ -21,7 +21,7 @@ Deprecation note: GitHub Jobs is now deprecated. The last date to post a job was
 
 [GitHub Jobs](https://jobs.github.com/) ボードは、テック業界の仕事を探す優れた方法です。 GitHub ダッシュボードにポストされた仕事を見るために選択できます。
 
-![ダッシュボードの GitHub Jobs 広告](/assets/images/help/settings/jobs-ads-on-dashboard.png)
+![ダッシュボードの GitHub Jobs 広告](/assets/images/2021/10/help/settings/jobs-ads-on-dashboard.png)
 
 {% data reusables.user-settings.access_settings %}
-2. Jobs Profile の下で、[**Available for hire**] を選択し、続いて [**Save jobs profile**] をクリックします。 ![Jobs profile の設定](/assets/images/help/settings/jobs-profile-settings.png)
+2. Jobs Profile の下で、[**Available for hire**] を選択し、続いて [**Save jobs profile**] をクリックします。 ![Jobs profile の設定](/assets/images/2021/10/help/settings/jobs-profile-settings.png)

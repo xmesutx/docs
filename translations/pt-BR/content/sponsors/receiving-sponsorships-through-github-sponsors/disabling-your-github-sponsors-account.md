@@ -22,5 +22,5 @@ Como alternativa, você pode cancelar a publicação do seu perfil de patrocinad
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.settings-tab %}
 1. Em "Desabilitar a conta do GitHub Sponsors", clique em **Desabilitar a conta**.  
-   ![Botão "Desabilitar a sua conta"](/assets/images/help/sponsors/disable-your-account-button.png)
-2. Para confirmar, clique em **Desabilitar a conta de patrocinadores do GitHub**. ![Botão "Desabilitar a conta dos Patrocinadores do GitHub"](/assets/images/help/sponsors/disable-github-sponsors-account-dialog.png)
+   ![Botão "Desabilitar a sua conta"](/assets/images/2021/10/help/sponsors/disable-your-account-button.png)
+2. Para confirmar, clique em **Desabilitar a conta de patrocinadores do GitHub**. ![Botão "Desabilitar a conta dos Patrocinadores do GitHub"](/assets/images/2021/10/help/sponsors/disable-github-sponsors-account-dialog.png)

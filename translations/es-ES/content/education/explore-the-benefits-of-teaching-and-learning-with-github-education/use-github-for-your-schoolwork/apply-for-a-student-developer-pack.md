@@ -36,7 +36,7 @@ Para obtener información sobre cómo renovar tu {% data variables.product.prodn
 ## Aplicar para un {% data variables.product.prodname_student_pack %}
 
 {% data reusables.education.benefits-page %}
-3. En "¿Qué es lo que mejor describe tu estado académico?", selecciona **Student** (Estudiante). ![Selecciona el estado académico](/assets/images/help/education/academic-status-student.png)
+3. En "¿Qué es lo que mejor describe tu estado académico?", selecciona **Student** (Estudiante). ![Selecciona el estado académico](/assets/images/2021/10/help/education/academic-status-student.png)
 {% data reusables.education.select-email-address %}
 {% data reusables.education.upload-proof-status %}
 {% data reusables.education.school-name %}
@@ -47,7 +47,7 @@ Para obtener información sobre cómo renovar tu {% data variables.product.prodn
 
 Una vez que caduca tu acceso a {% data variables.product.prodname_student_pack %}, puedes volver a aplicar si sigues siendo elegible, aunque es posible que las ofertas de algunos socios no puedan renovarse. La mayoría de las ofertas regulares de nuestros socios comiencen una vez que las configuraste. Para volver a aplicar, simplemente regresa a https://education.github.com, haz clic en tu foto de perfil y luego en **Volver a verificar tu afiliación académica**.
 
-![Opción de menú para volver a verificar tu afiliación académica](/assets/images/help/education/reverify-academic-affiliation.png)
+![Opción de menú para volver a verificar tu afiliación académica](/assets/images/2022/02/help/education/reverify-academic-affiliation.png)
 
 Para obtener más información, consulta la página [{% data variables.product.prodname_student_pack %}](https://education.github.com/pack).
 

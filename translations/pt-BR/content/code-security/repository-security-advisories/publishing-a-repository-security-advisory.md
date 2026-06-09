@@ -72,8 +72,8 @@ A publicação de uma consultor de segurança elimina a bifurcação privada tem
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. Na lista "consultoria de segurança", clique na consultoria de segurança que deseja publicar. ![Consultoria de segurança na lista](/assets/images/help/security/security-advisory-in-list.png)
-5. Na parte inferior da página, clique em **Publicar consultoria**. ![Botão Publish advisory (Publicar consultoria)](/assets/images/help/security/publish-advisory-button.png)
+4. Na lista "consultoria de segurança", clique na consultoria de segurança que deseja publicar. ![Consultoria de segurança na lista](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. Na parte inferior da página, clique em **Publicar consultoria**. ![Botão Publish advisory (Publicar consultoria)](/assets/images/2021/10/help/security/publish-advisory-button.png)
 
 ## {% data variables.product.prodname_dependabot_alerts %} para o aviso de segurança publicado
 
@@ -86,9 +86,9 @@ A publicação de uma consultor de segurança elimina a bifurcação privada tem
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. Na lista "consultoria de segurança", clique na consultoria de segurança para o qual deseja solicitar um número de identificação CVE. ![Consultoria de segurança na lista](/assets/images/help/security/security-advisory-in-list.png)
-5. Use o menu suspenso **Publicar consultoria** e clique em **Solicitar CVE**. ![Solicitar CVE no menu suspenso](/assets/images/help/security/security-advisory-drop-down-request-cve.png)
-6. Clique **Solicitar CVE**. ![Botão "Solicitar CVE"](/assets/images/help/security/security-advisory-request-cve-button.png)
+4. Na lista "consultoria de segurança", clique na consultoria de segurança para o qual deseja solicitar um número de identificação CVE. ![Consultoria de segurança na lista](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. Use o menu suspenso **Publicar consultoria** e clique em **Solicitar CVE**. ![Solicitar CVE no menu suspenso](/assets/images/2021/10/help/security/security-advisory-drop-down-request-cve.png)
+6. Clique **Solicitar CVE**. ![Botão "Solicitar CVE"](/assets/images/2021/10/help/security/security-advisory-request-cve-button.png)
 
 ## Leia mais
 

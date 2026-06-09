@@ -95,7 +95,7 @@ Este procedimento demonstra como criar um arquivo de metadados e fluxo de trabal
 
 Para adicionar outro fluxo de trabalho inicial, adicione seus arquivos ao mesmo diretório `workflow-templates`. Por exemplo:
 
-![Arquivos de fluxo de trabalho](/assets/images/help/images/workflow-template-files.png)
+![Arquivos de fluxo de trabalho](/assets/images/2021/10/help/images/workflow-template-files.png)
 
 ## Próximas etapas
 

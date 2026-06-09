@@ -7,7 +7,7 @@ Screenshots are used to help readers with the flow in articles like procedures (
 - Screenshots enhance our content but can't replace it. 
 - Include descriptive alt text for better accessibility. See our [content style guide](./content-style-guide.md#alt-text) for more information.
 
-  `![Add mandatory message button](/assets/images/enterprise/site-admin-settings/add-mandatory-message-button.png)`
+  `![Add mandatory message button](/assets/images/2021/10/enterprise/site-admin-settings/add-mandatory-message-button.png)`
 - Ensure we're publishing strong standalone content along with screenshots.
 - When replacing an existing image (such as for an updated button in the UI), best practice is to retain the image's filename. If you must change an image filename, search the help docs repository for other references to that image and update all references to the original filename. If the image is used in deprecated versions of GHES documentation, please don't change the filename.
 - Screenshots should have descriptive names to make them easier to find. For example, use the name `gist-embed-link.png` instead of `right_side_page_03.png`.
@@ -19,11 +19,11 @@ Screenshots are used to help readers with the flow in articles like procedures (
 
     Here's an example of a good cropping:
   
-    ![good cropping example](../assets/images/good-screenshot-example.png)
+    ![good cropping example](../assets/images/2021/10/good-screenshot-example.png)
 
     Here's an example of a bad cropping:
     
-    <img src="../assets/images/bad-screenshot-example.png" alt="bad cropping example" width="600"/>
+    <img src="../assets/images/2021/10/bad-screenshot-example.png" alt="bad cropping example" width="600"/>
   
 ## Versioning images in Markdown content
 

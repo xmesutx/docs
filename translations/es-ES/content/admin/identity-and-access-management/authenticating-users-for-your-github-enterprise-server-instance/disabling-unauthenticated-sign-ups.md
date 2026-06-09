@@ -20,5 +20,5 @@ shortTitle: Bloquear la creación de cuentas
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. Quita la marca de selección en **Activar registro**. ![Habilitar casilla de registro](/assets/images/enterprise/management-console/enable-sign-up.png)
+3. Quita la marca de selección en **Activar registro**. ![Habilitar casilla de registro](/assets/images/2021/10/enterprise/management-console/enable-sign-up.png)
 {% data reusables.enterprise_management_console.save-settings %}

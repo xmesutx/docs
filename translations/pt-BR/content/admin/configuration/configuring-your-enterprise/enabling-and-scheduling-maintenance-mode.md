@@ -33,21 +33,21 @@ Alguns tipos de operações requerem que a {% data variables.product.product_loc
 
 É recomendável programar um período de manutenção de no mínimo 30 minutos para que os usuários tenham tempo de se preparar. Quando houver um período de manutenção programado, todos os usuários verão um banner ao acessar o site.
 
-![Banner para usuário final sobre manutenção programada](/assets/images/enterprise/maintenance/maintenance-scheduled.png)
+![Banner para usuário final sobre manutenção programada](/assets/images/2021/10/enterprise/maintenance/maintenance-scheduled.png)
 
 Quando a instância estiver em modo de manutenção, todos os acessos regulares por HTTP e Git serão recusados. Operações de fetch, clonagem e push também são rejeitadas, e uma mensagem de erro indicará que o site está temporariamente indisponível. Os trabalhos com GitHub Actions não serão executados. O acesso ao site por navegador levará a uma página de manutenção.
 
-![Tela inicial do modo de manutenção](/assets/images/enterprise/maintenance/maintenance-mode-maintenance-page.png)
+![Tela inicial do modo de manutenção](/assets/images/2021/10/enterprise/maintenance/maintenance-mode-maintenance-page.png)
 
 ## Habilitar o modo de manutenção imediatamente ou programar um período de manutenção mais tarde
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. Na parte superior do {% data variables.enterprise.management_console %}, clique em **Maintenance** (Manutenção). ![Guia de manutenção](/assets/images/enterprise/management-console/maintenance-tab.png)
+2. Na parte superior do {% data variables.enterprise.management_console %}, clique em **Maintenance** (Manutenção). ![Guia de manutenção](/assets/images/2021/10/enterprise/management-console/maintenance-tab.png)
 3. Em "Enable and schedule" (Habilitar e programar), decida se você quer habilitar o modo de manutenção imediatamente ou programar um período de manutenção depois.
-    - Para habilitar o modo de manutenção imediatamente, use o menu suspenso e clique em **Now** (Agora). ![Menu suspenso com a opção para habilitar o modo de manutenção agora](/assets/images/enterprise/maintenance/enable-maintenance-mode-now.png)
-    - Para programar um período de manutenção depois, use o menu suspenso e clique no horário em que você pretende iniciar o período de manutenção.![Menu suspenso com a opção para habilitar o modo de manutenção em duas horas](/assets/images/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
-4. Selecione **Enable maintenance mode** (Habilitar modo de manutenção). ![Caixa de seleção para habilitar ou programar o modo de manutenção](/assets/images/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
+    - Para habilitar o modo de manutenção imediatamente, use o menu suspenso e clique em **Now** (Agora). ![Menu suspenso com a opção para habilitar o modo de manutenção agora](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-now.png)
+    - Para programar um período de manutenção depois, use o menu suspenso e clique no horário em que você pretende iniciar o período de manutenção.![Menu suspenso com a opção para habilitar o modo de manutenção em duas horas](/assets/images/2021/10/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
+4. Selecione **Enable maintenance mode** (Habilitar modo de manutenção). ![Caixa de seleção para habilitar ou programar o modo de manutenção](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Programar o modo de manutenção com a {% data variables.product.prodname_enterprise_api %}

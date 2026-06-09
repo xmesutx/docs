@@ -47,17 +47,17 @@ If your enterprise uses {% data variables.product.prodname_emus %}, enterprise o
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. 左サイドバーで [**Administrators**] をクリックします。 ![左サイドバーの [Administrators] タブ](/assets/images/help/business-accounts/administrators-tab.png)
+1. 左サイドバーで [**Administrators**] をクリックします。 ![左サイドバーの [Administrators] タブ](/assets/images/2021/10/help/business-accounts/administrators-tab.png)
 1. Above the list of administrators, click {% ifversion ghec %}**Invite admin**{% elsif ghes %}**Add owner**{% endif %}.
   {% ifversion ghec %}
-  !["Invite admin" button above the list of enterprise owners](/assets/images/help/business-accounts/invite-admin-button.png)
+  !["Invite admin" button above the list of enterprise owners](/assets/images/2021/10/help/business-accounts/invite-admin-button.png)
   {% elsif ghes %}
-  !["Add owner" button above the list of enterprise owners](/assets/images/help/business-accounts/add-owner-button.png)
+  !["Add owner" button above the list of enterprise owners](/assets/images/2021/10/help/business-accounts/add-owner-button.png)
   {% endif %}
-1. Enterprise 管理者として招待する人のユーザ名、フルネーム、またはメール アドレスを入力して、表示された結果から適切な人を選びます。 ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
-1. [**Owner**] または [**Billing Manager**] を選択します。 ![ロールの選択肢が表示されたモーダルボックス](/assets/images/help/business-accounts/invite-admins-roles.png)
-1. [**Send Invitation**] をクリックします。 ![Send invitation button](/assets/images/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
-1. [**Add**] をクリックします。 !["Add" button](/assets/images/help/business-accounts/add-administrator-add-button.png){% endif %}
+1. Enterprise 管理者として招待する人のユーザ名、フルネーム、またはメール アドレスを入力して、表示された結果から適切な人を選びます。 ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/2021/10/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
+1. [**Owner**] または [**Billing Manager**] を選択します。 ![ロールの選択肢が表示されたモーダルボックス](/assets/images/2021/10/help/business-accounts/invite-admins-roles.png)
+1. [**Send Invitation**] をクリックします。 ![Send invitation button](/assets/images/2021/10/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
+1. [**Add**] をクリックします。 !["Add" button](/assets/images/2021/10/help/business-accounts/add-administrator-add-button.png){% endif %}
 
 ## Enterprise アカウントから Enterprise 管理者を削除する
 
@@ -67,8 +67,8 @@ Enterprise アカウントから他の Enterprise 管理者を削除できるの
 {% data reusables.enterprise-accounts.people-tab %}
 1. Next to the username of the person you'd like to remove, click {% octicon "gear" aria-label="The Settings gear" %}, then click **Remove owner**{% ifversion ghec %} or **Remove billing manager**{% endif %}.
   {% ifversion ghec %}
-  ![Enterprise 管理者を削除するためのメニュー オプション付きの設定「歯車」アイコン](/assets/images/help/business-accounts/remove-admin.png)
+  ![Enterprise 管理者を削除するためのメニュー オプション付きの設定「歯車」アイコン](/assets/images/2021/10/help/business-accounts/remove-admin.png)
   {% elsif ghes %}
-  ![Enterprise 管理者を削除するためのメニュー オプション付きの設定「歯車」アイコン](/assets/images/help/business-accounts/ghes-remove-owner.png)
+  ![Enterprise 管理者を削除するためのメニュー オプション付きの設定「歯車」アイコン](/assets/images/2021/10/help/business-accounts/ghes-remove-owner.png)
   {% endif %}
 1. Read the confirmation, then click **Remove owner**{% ifversion ghec %} or **Remove billing manager**{% endif %}.

@@ -30,9 +30,9 @@ shortTitle: 查看组织见解
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
-3. 在组织名称下，单击 {% octicon "graph" aria-label="The bar graph icon" %} **Insights（洞察）**。 ![单击组织洞察选项卡](/assets/images/help/organizations/org-nav-insights-tab.png)
-4. （可选）在页面的右上角，选择查看过去 **1 周**、**1 个月**或 **1 年**的数据。 ![选择查看组织洞察的时间段](/assets/images/help/organizations/org-insights-time-period.png)
-5. （可选）在页面的右上角，选择查看最多三个仓库的数据，然后单击 **Apply（应用）**。 ![选择查看组织洞察的仓库](/assets/images/help/organizations/org-insights-repos.png)
+3. 在组织名称下，单击 {% octicon "graph" aria-label="The bar graph icon" %} **Insights（洞察）**。 ![单击组织洞察选项卡](/assets/images/2021/10/help/organizations/org-nav-insights-tab.png)
+4. （可选）在页面的右上角，选择查看过去 **1 周**、**1 个月**或 **1 年**的数据。 ![选择查看组织洞察的时间段](/assets/images/2021/10/help/organizations/org-insights-time-period.png)
+5. （可选）在页面的右上角，选择查看最多三个仓库的数据，然后单击 **Apply（应用）**。 ![选择查看组织洞察的仓库](/assets/images/2021/10/help/organizations/org-insights-repos.png)
 
 ## 查看组织依赖项洞察
 
@@ -46,11 +46,11 @@ shortTitle: 查看组织见解
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
-3. 在组织名称下，单击 {% octicon "graph" aria-label="The bar graph icon" %} **Insights（洞察）**。 ![主要组织导航栏中的洞察选项卡](/assets/images/help/organizations/org-nav-insights-tab.png)
-4. 要查看此组织的依赖项，请单击 **Dependencies（依赖项）**。 ![主要组织导航栏下的依赖项选项卡](/assets/images/help/organizations/org-insights-dependencies-tab.png)
-5. 要查看所有您的 {% data variables.product.prodname_ghe_cloud %} 组织的依赖项洞察，请单击 **My organizations（我的组织）**。 ![依赖项选项卡下的我的组织按钮](/assets/images/help/organizations/org-insights-dependencies-my-orgs-button.png)
-6. 您可以单击 **Open security advisories（未解决安全通告）**和 **Licenses（许可证）**图表中的结果，按漏洞状态、许可证或两者的组合进行过滤。 ![我的组织漏洞和许可证图表](/assets/images/help/organizations/org-insights-dependencies-graphs.png)
-7. 您可以单击每个漏洞旁边的 {% octicon "package" aria-label="The package icon" %} **dependents（从属者）**，以了解组织中的哪些从属者正在使用每个库。 ![我的组织有漏洞的从属者](/assets/images/help/organizations/org-insights-dependencies-vulnerable-item.png)
+3. 在组织名称下，单击 {% octicon "graph" aria-label="The bar graph icon" %} **Insights（洞察）**。 ![主要组织导航栏中的洞察选项卡](/assets/images/2021/10/help/organizations/org-nav-insights-tab.png)
+4. 要查看此组织的依赖项，请单击 **Dependencies（依赖项）**。 ![主要组织导航栏下的依赖项选项卡](/assets/images/2021/10/help/organizations/org-insights-dependencies-tab.png)
+5. 要查看所有您的 {% data variables.product.prodname_ghe_cloud %} 组织的依赖项洞察，请单击 **My organizations（我的组织）**。 ![依赖项选项卡下的我的组织按钮](/assets/images/2021/10/help/organizations/org-insights-dependencies-my-orgs-button.png)
+6. 您可以单击 **Open security advisories（未解决安全通告）**和 **Licenses（许可证）**图表中的结果，按漏洞状态、许可证或两者的组合进行过滤。 ![我的组织漏洞和许可证图表](/assets/images/2021/10/help/organizations/org-insights-dependencies-graphs.png)
+7. 您可以单击每个漏洞旁边的 {% octicon "package" aria-label="The package icon" %} **dependents（从属者）**，以了解组织中的哪些从属者正在使用每个库。 ![我的组织有漏洞的从属者](/assets/images/2021/10/help/organizations/org-insights-dependencies-vulnerable-item.png)
 
 ## 延伸阅读
  - "[关于组织](/organizations/collaborating-with-groups-in-organizations/about-organizations)"

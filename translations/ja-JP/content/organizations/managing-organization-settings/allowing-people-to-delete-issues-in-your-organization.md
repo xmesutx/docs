@@ -22,5 +22,5 @@ shortTitle: Issueの削除の許可
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. [Issue deletion] の下で、[**Allow members to delete issues for this organization**] (この Organization の Issue の削除をメンバーに許可する) を選択します。 ![Issue の削除を許可するチェックボックス](/assets/images/help/settings/issue-deletion.png)
+5. [Issue deletion] の下で、[**Allow members to delete issues for this organization**] (この Organization の Issue の削除をメンバーに許可する) を選択します。 ![Issue の削除を許可するチェックボックス](/assets/images/2021/10/help/settings/issue-deletion.png)
 6. [**Save**] をクリックします。

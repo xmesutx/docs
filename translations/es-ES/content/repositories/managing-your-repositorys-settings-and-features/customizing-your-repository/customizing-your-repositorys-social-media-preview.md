@@ -29,4 +29,4 @@ Tip: Tu imagen debe ser un archivo PNG, JPG o GIF de menos de 1 MB de tamaño. P
     - Para agregar una nueva imagen, haz clic en **Cargar imagen...**.
     - Para eliminar un imagen, haz clic en **Eliminar imagen**.
 
-    ![Menú desplegable de vista previa de redes sociales](/assets/images/help/repository/social-preview.png)
+    ![Menú desplegable de vista previa de redes sociales](/assets/images/2021/10/help/repository/social-preview.png)

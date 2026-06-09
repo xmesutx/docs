@@ -26,7 +26,7 @@ shortTitle: 删除和恢复分支
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.list-closed-pull-requests %}
 4. 在拉取请求列表中，单击与要删除分支关联的拉取请求。
-5. 在拉取请求底部附近，单击 **Delete branch（删除分支）**。 ![删除分支按钮](/assets/images/help/pull_requests/delete_branch_button.png)
+5. 在拉取请求底部附近，单击 **Delete branch（删除分支）**。 ![删除分支按钮](/assets/images/2021/10/help/pull_requests/delete_branch_button.png)
 
    如果此分支当前有打开的拉取请求，则不显示此按钮。
 
@@ -38,7 +38,7 @@ shortTitle: 删除和恢复分支
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.list-closed-pull-requests %}
 4. 在拉取请求列表中，单击与要回复分支关联的拉取请求。
-5. 在拉取请求底部附近，单击 **恢复分支**。 ![恢复已删除分支按钮](/assets/images/help/branches/branches-restore-deleted.png)
+5. 在拉取请求底部附近，单击 **恢复分支**。 ![恢复已删除分支按钮](/assets/images/2021/10/help/branches/branches-restore-deleted.png)
 
 ## 延伸阅读
 

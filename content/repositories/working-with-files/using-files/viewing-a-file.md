@@ -24,18 +24,18 @@ With the raw view, you can view or copy the raw content of a file without any st
 {% data reusables.repositories.navigate-to-repo %}
 1. Click the file that you want to view.
 2. In the upper-right corner of the file view, click **Raw**.
-![Screenshot of the Raw button in the file header](/assets/images/help/repository/raw-file-button.png)
+![Screenshot of the Raw button in the file header](/assets/images/2022/01/help/repository/raw-file-button.png)
 3. Optionally, to copy the raw file content, in the upper-right corner of the file view, click **{% octicon "copy" aria-label="The copy icon" %}**.
 
 ## Viewing the line-by-line revision history for a file
 
 With the blame view, you can view the line-by-line revision history for an entire file, or view the revision history of a single line within a file by clicking {% octicon "versions" aria-label="The prior blame icon" %}. Each time you click {% octicon "versions" aria-label="The prior blame icon" %}, you'll see the previous revision information for that line, including who committed the change and when.
 
-![Git blame view](/assets/images/help/repository/git_blame.png)
+![Git blame view](/assets/images/2021/10/help/repository/git_blame.png)
 
 In a file or pull request, you can also use the {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} menu to view Git blame for a selected line or range of lines.
 
-![Kebab menu with option to view Git blame for a selected line](/assets/images/help/repository/view-git-blame-specific-line.png)
+![Kebab menu with option to view Git blame for a selected line](/assets/images/2021/10/help/repository/view-git-blame-specific-line.png)
 
 {% tip %}
 
@@ -46,6 +46,6 @@ In a file or pull request, you can also use the {% octicon "kebab-horizontal" ar
 {% data reusables.repositories.navigate-to-repo %}
 2. Click to open the file whose line history you want to view.
 3. In the upper-right corner of the file view, click **Blame** to open the blame view.
-![Blame button](/assets/images/help/repository/blame-button.png)
+![Blame button](/assets/images/2021/10/help/repository/blame-button.png)
 4. To see earlier revisions of a specific line, or reblame, click {% octicon "versions" aria-label="The prior blame icon" %} until you've found the changes you're interested in viewing.
-![Prior blame button](/assets/images/help/repository/prior-blame-button.png)
+![Prior blame button](/assets/images/2021/10/help/repository/prior-blame-button.png)

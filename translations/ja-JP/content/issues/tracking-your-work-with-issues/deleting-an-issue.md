@@ -22,7 +22,7 @@ Organization が所有するリポジトリの Issue を削除するには、Org
 Issue を削除してもコラボレータには通知されません。 削除された Issue の URL にコラボレータがアクセスすると、その Issue が削除された旨のメッセージが表示されます。 リポジトリの管理者権限かオーナー権限を持っている人にはさらに、Issue を削除した人のユーザ名と、いつ削除されたのかが表示されます。
 
 1. 削除対象の Issue に移動します。
-2. 右側のバーの [Notifications] の下で、[**Delete issue**] をクリックします。 !["Delete issue" のテキストが Issue ページ右側のバーの下で強調表示されている](/assets/images/help/issues/delete-issue.png)
+2. 右側のバーの [Notifications] の下で、[**Delete issue**] をクリックします。 !["Delete issue" のテキストが Issue ページ右側のバーの下で強調表示されている](/assets/images/2021/10/help/issues/delete-issue.png)
 4. 削除を確定するには、[**Delete this issue**] をクリックします。
 
 ## 参考リンク

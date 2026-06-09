@@ -1,1 +1,1 @@
-1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja ver. ![Lista de fluxo de trabalho na barra lateral esquerda](/assets/images/help/repository/superlinter-workflow-sidebar.png)
+1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja ver. ![Lista de fluxo de trabalho na barra lateral esquerda](/assets/images/2021/10/help/repository/superlinter-workflow-sidebar.png)

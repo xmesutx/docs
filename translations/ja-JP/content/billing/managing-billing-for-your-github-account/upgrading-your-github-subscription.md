@@ -44,7 +44,7 @@ You can upgrade your personal account from {% data variables.product.prodname_fr
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
-1. "Current plan（現在のプラン）"の隣で**Upgrade（アップグレード）**をクリックしてください。 ![アップグレードボタン](/assets/images/help/billing/settings_billing_user_upgrade.png)
+1. "Current plan（現在のプラン）"の隣で**Upgrade（アップグレード）**をクリックしてください。 ![アップグレードボタン](/assets/images/2021/10/help/billing/settings_billing_user_upgrade.png)
 2. "Compare plans（プランの比較）"ページの"Pro（プロ）"の下で、**Upgrade to Pro（プロにアップグレード）**をクリックしてください。
 {% data reusables.dotcom_billing.choose-monthly-or-yearly-billing %}
 {% data reusables.dotcom_billing.show-plan-details %}
@@ -91,8 +91,8 @@ Organization を {% data variables.product.prodname_ghe_cloud %} にアップグ
 {% data reusables.dotcom_billing.switch-legacy-billing %} 詳細は「[ユーザごとの価格付けについて](/articles/about-per-user-pricing)」を参照してください。
 
 {% data reusables.organizations.billing-settings %}
-5. プラン名の右にある [**Edit**] ドロップダウンメニューで、[**Edit plan**] を選択します。 ![[Edit] ドロップダウンメニュー](/assets/images/help/billing/per-user-upgrade-button.png)
-6. [Advanced tools for teams] の右にある [**Upgrade now**] をクリックします。 ![[Upgrade now] ボタン](/assets/images/help/billing/per-user-upgrade-now-button.png)
+5. プラン名の右にある [**Edit**] ドロップダウンメニューで、[**Edit plan**] を選択します。 ![[Edit] ドロップダウンメニュー](/assets/images/2021/10/help/billing/per-user-upgrade-button.png)
+6. [Advanced tools for teams] の右にある [**Upgrade now**] をクリックします。 ![[Upgrade now] ボタン](/assets/images/2021/10/help/billing/per-user-upgrade-now-button.png)
 {% data reusables.dotcom_billing.choose_org_plan %}
 {% data reusables.dotcom_billing.choose-monthly-or-yearly-billing %}
 {% data reusables.dotcom_billing.owned_by_business %}

@@ -493,14 +493,14 @@ Para obter mais informações sobre o `GITHUB_TOKEN`, consulte "[Autenticação 
 O uso do `GITHUB_TOKEN` em vez de um PAT, que inclui o escopo do `repositório` aumenta a segurança do repositório, pois você não precisa usar um PAT de longa duração que oferece acesso desnecessário ao repositório em que o seu fluxo de trabalho é executado. Para obter mais informações sobre as melhores práticas de segurança, consulte "[Enrijecimento de segurança para o GitHub Actions](/actions/learn-github-actions/security-hardening-for-github-actions#using-secrets)".
 
 1. Acesse a página inicial do seu pacote.
-1. Na barra lateral esquerda, clique em **Acesso às ações**. ![Opção "Ações de acesso" no menu à esquerda](/assets/images/help/package-registry/organization-repo-access-for-a-package.png)
-1. Para garantir que seu pacote de contêiner tenha acesso ao seu fluxo de trabalho, você deve adicionar o repositório em que o fluxo de trabalho é armazenado no contêiner. Clique **Adicionar repositório** e pesquise o repositório que deseja adicionar. ![Botão "Adicionar repositório"](/assets/images/help/package-registry/add-repository-button.png)
+1. Na barra lateral esquerda, clique em **Acesso às ações**. ![Opção "Ações de acesso" no menu à esquerda](/assets/images/2021/10/help/package-registry/organization-repo-access-for-a-package.png)
+1. Para garantir que seu pacote de contêiner tenha acesso ao seu fluxo de trabalho, você deve adicionar o repositório em que o fluxo de trabalho é armazenado no contêiner. Clique **Adicionar repositório** e pesquise o repositório que deseja adicionar. ![Botão "Adicionar repositório"](/assets/images/2021/10/help/package-registry/add-repository-button.png)
   {% note %}
 
   **Observação:** Adicionar um repositório ao seu contêiner por meio da opção de menu **Acesso às ações** é diferente de conectar seu contêiner a um repositório. Para obter mais informações, consulte "[Garantir o acesso ao fluxo de trabalho para o seu pacote](/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility#ensuring-workflow-access-to-your-package)" "[Conectar um repositório a um pacote](/packages/learn-github-packages/connecting-a-repository-to-a-package)".
 
   {% endnote %}
-1. Opcionalmente, usando o menu suspenso "função", selecione o nível de acesso padrão que você gostaria que o repositório tivesse na imagem do seu contêiner. ![Níveis de acesso permitidos para repositórios](/assets/images/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
+1. Opcionalmente, usando o menu suspenso "função", selecione o nível de acesso padrão que você gostaria que o repositório tivesse na imagem do seu contêiner. ![Níveis de acesso permitidos para repositórios](/assets/images/2021/10/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
 1. Abra o arquivo do seu fluxo de trabalho. Na linha em que você efetua o login em `ghcr.io`, substitua seu PAT por {% raw %}`${{ secrets.GITHUB_TOKEN }}`{% endraw %}.
 
 Por exemplo, este fluxo de trabalho publica um imagem do Docker usando {% raw %}`${{ secrets.GITHUB_TOKEN }}`{% endraw %} para efetuar a autenticação.

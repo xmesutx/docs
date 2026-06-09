@@ -55,11 +55,11 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 To help GitHub send webhooks to your local machine without exposing it to the internet, you can use a tool called Smee. First, go to https://smee.io and click **Start a new channel**. If you're already comfortable with other tools that expose your local machine to the internet like [`ngrok`](https://dashboard.ngrok.com/get-started) or [`localtunnel`](https://localtunnel.github.io/www/), feel free to use those.
 
-![The Smee new channel button](/assets/images/smee-new-channel.png)
+![The Smee new channel button](/assets/images/2021/10/smee-new-channel.png)
 
 Starting a new Smee channel creates a unique domain where GitHub can send webhook payloads. You'll need to know this domain for the next step. Here is an example of a unique domain at `https://smee.io/qrfeVRbFbffd6vD`:
 
-![A Smee unique channel](/assets/images/smee-unique-domain.png)
+![A Smee unique channel](/assets/images/2021/10/smee-unique-domain.png)
 
 Next, go back to the Terminal and follow these steps to run the Smee command-line interface (CLI) client:
 
@@ -96,7 +96,7 @@ We recommend leaving this Terminal window open and keeping Smee connected while 
 
 If you don't yet have a GitHub account, now is a [great time to join](https://github.com/join). Don't forget to verify your email before continuing! To register a new app, visit the [app settings page](https://github.com/settings/apps) in your GitHub profile, and click **New GitHub App**.
 
-![GitHub website, showing the **New App**](/assets/images/new-app.png)
+![GitHub website, showing the **New App**](/assets/images/2021/10/new-app.png)
 
 You'll see a form where you can enter details about your app. See "[Creating a GitHub App](/apps/building-github-apps/creating-a-github-app/)" for general information about the fields on this page. For the purposes of this guide, you'll need to enter specific data in a few fields:
 
@@ -108,22 +108,22 @@ You'll see a form where you can enter details about your app. See "[Creating a G
 
 * For the "Homepage URL", use the domain issued by Smee. For example:
 
-    ![Form with Smee domain filled in for homepage URL](/assets/images/homepage-url.png)
+    ![Form with Smee domain filled in for homepage URL](/assets/images/2021/10/homepage-url.png)
 
 * For the "Webhook URL", again use the domain issued by Smee. For example:
 
-    ![Form with Smee domain filled in for webhook URL](/assets/images/webhook-url.png)
+    ![Form with Smee domain filled in for webhook URL](/assets/images/2021/10/webhook-url.png)
 
 * For the "Webhook secret", create a password to secure your webhook endpoints. This should be something that only you (and GitHub, via this form) know. The secret is important because you will be receiving payloads from the public internet, and you'll use this secret to verify the webhook sender. Note that the GitHub App settings say the webhook secret is optional, which is true in most cases, but for the template app code to work, you must set a webhook secret.
 
-    ![Form with webhook secret filled in](/assets/images/webhook-secret.png)
+    ![Form with webhook secret filled in](/assets/images/2021/10/webhook-secret.png)
 
 * On the Permissions & Webhooks page, you can specify a set of permissions for your app, which determines how much data your app has access to. Under the "Repository permissions"
  section, scroll down to "Metadata" and select `Access: Read-only`. If you decide to extend this template app, you can update these permissions later.
 
 * At the bottom of the Permissions & Webhooks page, specify whether this is a private app or a public app. This refers to who can install it: just you, or anyone in the world? For now, leave the app as private by selecting **Only on this account**.
 
-    ![GitHub App privacy](/assets/images/create_app.png)
+    ![GitHub App privacy](/assets/images/2021/10/create_app.png)
 
 Click **Create GitHub App** to create your app!
 
@@ -133,11 +133,11 @@ After you create your app, you'll be taken back to the [app settings page](https
 
 * **Generate a private key for your app.** This is necessary to authenticate your app later on. Scroll down on the page and click **Generate a private key**. Save the resulting `PEM` file (called something like  _`app-name`_-_`date`_-`private-key.pem`) in a directory where you can find it again.
 
-    ![The private key generation dialog](/assets/images/private_key.png)
+    ![The private key generation dialog](/assets/images/2021/10/private_key.png)
 
 * **Note the app ID GitHub has assigned your app.** You'll need this to prepare your runtime environment.
 
-    <img src="/assets/images/app_id.png" alt="Your app's ID number" width="200px"/>
+    <img src="/assets/images/2021/10/app_id.png" alt="Your app's ID number" width="200px"/>
 
 ## Step 4. Prepare the runtime environment
 
@@ -353,7 +353,7 @@ If you see an error, make sure you've created the `.env` file in the directory t
 
 Once the server is running, you can test it by going to `http://localhost:3000` in your browser. If the app works as expected, you'll see a helpful error page:
 
-<img src="/assets/images/sinatra-404.png" alt="Sinatra's 404 error page" width="500px"/>
+<img src="/assets/images/2021/10/sinatra-404.png" alt="Sinatra's 404 error page" width="500px"/>
 
 This is good! Even though it's an error page, it's a _Sinatra_ error page, which means your app is connected to the server as expected. You're seeing this message because you haven't given the app anything else to show.
 
@@ -365,7 +365,7 @@ To install the app, visit the [app settings page](https://github.com/settings/ap
 
 You'll be asked whether to install the app on all repositories or selected repositories. If you don't want to install the app on _all_ of your repositories, that's okay! You may want to create a sandbox repository for testing purposes and install your app there.
 
-<img src="/assets/images/install_permissions.png" alt="App installation permissions" width="500px"/>
+<img src="/assets/images/2021/10/install_permissions.png" alt="App installation permissions" width="500px"/>
 
 After you click **Install**, look at the output in your Terminal. You should see something like this:
 

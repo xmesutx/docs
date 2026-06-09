@@ -24,7 +24,7 @@ La tarea inicial de Git & {% data variables.product.company_short %} es un curso
 3. En la pestaña de {% octicon "repo" aria-label="The repo icon" %} **Tareas**, haz clic en **Utilizar tarea de inicio**.
 
 <div class="procedural-image-wrapper">
-  <img alt="Crear tu primera tarea" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-create-first-assignment.png">
+  <img alt="Crear tu primera tarea" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-create-first-assignment.png">
 </div>
 
 ### Si ya existen tareas en el aula
@@ -34,7 +34,7 @@ La tarea inicial de Git & {% data variables.product.company_short %} es un curso
 3. En la pestaña de {% octicon "repo" aria-label="The repo icon" %}**Tareas**, haz clic en el enlace sobre el letrero azul.
 
 <div class="procedural-image-wrapper">
-  <img alt="En el botón de 'Tarea nueva'" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-new-starter-assignment-button.png">
+  <img alt="En el botón de 'Tarea nueva'" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-new-starter-assignment-button.png">
 </div>
 
 ## Configurar lo básico para una tarea
@@ -59,7 +59,7 @@ Importa el curso de inicio en tu organización, nombra tu tarea, decide si quier
 Primero necesitas improtar la tarea inicial de Git & {% data variables.product.product_name %} en tu organización.
 
 <div class="procedural-image-wrapper">
-  <img alt="El botón de `importar la tarea`" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-import-starter-assignment.png">
+  <img alt="El botón de `importar la tarea`" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-import-starter-assignment.png">
 </div>
 
 ### Nombrar la tarea
@@ -79,7 +79,7 @@ Los repositorios de una tarea pueden ser públicos o privados. Si utilizas repos
 Cuando termines, haz clic en **Continuar**. {% data variables.product.prodname_classroom %} creará la tarea y te llevará a la su página.
 
 <div class="procedural-image-wrapper">
-  <img alt="Botón 'Continuar'" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-continue-button.png">
+  <img alt="Botón 'Continuar'" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-continue-button.png">
 </div>
 
 ## Invitar a los alumnos a una tarea
@@ -89,7 +89,7 @@ Cuando termines, haz clic en **Continuar**. {% data variables.product.prodname_c
 Puedes ver si un alumno se unió al aula y aceptó o emitió una tarea en la pestaña de **Todos los alumnos** de la misma. {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="Tarea individual" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-individual-hero.png">
+  <img alt="Tarea individual" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-individual-hero.png">
 </div>
 
 La tarea inicial de Git & {% data variables.product.company_short %} solo se encuentra disponible para alumnos individuales y no para grupos. Una vez que creas la tarea, los alumnos pueden comenzar a trabajar en ella.

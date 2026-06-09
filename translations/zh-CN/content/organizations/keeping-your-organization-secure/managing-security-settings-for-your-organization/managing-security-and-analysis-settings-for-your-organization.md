@@ -58,37 +58,37 @@ shortTitle: 管理安全和分析
 1. 转到组织的安全和分析设置。 更多信息请参阅“[显示安全和分析设置](#displaying-the-security-and-analysis-settings)”。
 2. 在“Code security and analysis（代码安全和分析）”下，单击功能右侧的 **Disable all（全部禁用）**或 **Enable all（全部启用）**。 {% ifversion ghes > 3.0 or ghec %}如果您的 {% data variables.product.prodname_GH_advanced_security %} 许可中没有可用的席位，对“{% data variables.product.prodname_GH_advanced_security %}”的控制将会禁用。{% endif %}
    {% ifversion fpt %}
-   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/help/organizations/security-and-analysis-disable-or-enable-all-fpt.png)
+   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/2022/01/help/organizations/security-and-analysis-disable-or-enable-all-fpt.png)
    {% endif %}
    {% ifversion ghec %}
-   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/help/organizations/security-and-analysis-disable-or-enable-all-ghas-ghec.png)
+   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/2022/01/help/organizations/security-and-analysis-disable-or-enable-all-ghas-ghec.png)
    {% endif %}
    {% ifversion ghes > 3.2 %}
-   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/enterprise/3.3/organizations/security-and-analysis-disable-or-enable-all-ghas.png)
+   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/2021/11/enterprise/3.3/organizations/security-and-analysis-disable-or-enable-all-ghas.png)
    {% endif %}
    {% ifversion ghes = 3.1 or ghes = 3.2 %}
-   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/enterprise/3.1/help/organizations/security-and-analysis-disable-or-enable-all-ghas.png)
+   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/2021/10/enterprise/3.1/help/organizations/security-and-analysis-disable-or-enable-all-ghas.png)
    {% endif %}
 
    {% ifversion ghae %}
-   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/enterprise/github-ae/organizations/security-and-analysis-disable-or-enable-all-ghae.png)
+   !["Configure security and analysis（配置安全性和分析）"功能的"Enable all（全部启用）"或"Disable all（全部禁用）"按钮](/assets/images/2021/10/enterprise/github-ae/organizations/security-and-analysis-disable-or-enable-all-ghae.png)
    {% endif %}
    {% ifversion fpt or ghec %}
 3. （可选）为组织中的新仓库默认启用该功能。
    {% ifversion fpt or ghec %}
-   ![新仓库的"Enable by default（默认启用）"选项](/assets/images/help/organizations/security-and-analysis-enable-by-default-in-modal.png)
+   ![新仓库的"Enable by default（默认启用）"选项](/assets/images/2021/10/help/organizations/security-and-analysis-enable-by-default-in-modal.png)
    {% endif %}
 
    {% endif %}
    {% ifversion fpt or ghec %}
 4. 单击 **Disable FEATURE（禁用功能）**或 **Enable FEATURE（启用功能）**以禁用或启用组织中所有仓库的功能。
    {% ifversion fpt or ghec %}
-   ![用于禁用或启用功能的按钮](/assets/images/help/organizations/security-and-analysis-enable-dependency-graph.png)
+   ![用于禁用或启用功能的按钮](/assets/images/2021/10/help/organizations/security-and-analysis-enable-dependency-graph.png)
    {% endif %}
 
    {% endif %}
    {% ifversion ghae or ghes %}
-3. 单击 **Enable/Disable all（全部启用/禁用）**或 **Enable/Disable for eligible repositories（对合格的仓库启用/禁用）**以确认更改。 ![用于为组织中所有符合条件的仓库启用功能的按钮](/assets/images/enterprise/github-ae/organizations/security-and-analysis-enable-secret-scanning-existing-repos-ghae.png)
+3. 单击 **Enable/Disable all（全部启用/禁用）**或 **Enable/Disable for eligible repositories（对合格的仓库启用/禁用）**以确认更改。 ![用于为组织中所有符合条件的仓库启用功能的按钮](/assets/images/2021/10/enterprise/github-ae/organizations/security-and-analysis-enable-secret-scanning-existing-repos-ghae.png)
    {% endif %}
 
    {% data reusables.security.displayed-information %}
@@ -98,19 +98,19 @@ shortTitle: 管理安全和分析
 1. 转到组织的安全和分析设置。 更多信息请参阅“[显示安全和分析设置](#displaying-the-security-and-analysis-settings)”。
 2. Under "Code security and analysis", to the right of the feature, enable or disable the feature by default for new repositories{% ifversion fpt or ghec %}, or all new private repositories,{% endif %} in your organization.
    {% ifversion fpt or ghec %}
-   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/help/organizations/security-and-analysis-enable-or-disable-feature-checkbox.png)
+   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/2022/03/help/organizations/security-and-analysis-enable-or-disable-feature-checkbox.png)
    {% endif %}
   {% ifversion ghes > 3.2 %}
-   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/enterprise/3.3/organizations/security-and-analysis-enable-or-disable-feature-checkbox.png)
+   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/2021/11/enterprise/3.3/organizations/security-and-analysis-enable-or-disable-feature-checkbox.png)
    {% endif %}
    {% ifversion ghes = 3.1 or ghes = 3.2 %}
-   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/enterprise/3.1/help/organizations/security-and-analysis-enable-or-disable-feature-checkbox.png)
+   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/2021/10/enterprise/3.1/help/organizations/security-and-analysis-enable-or-disable-feature-checkbox.png)
    {% endif %}
    {% ifversion ghes = 3.0 %}
-   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/enterprise/3.0/organizations/security-and-analysis-enable-or-disable-secret-scanning-checkbox.png)
+   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/2021/10/enterprise/3.0/organizations/security-and-analysis-enable-or-disable-secret-scanning-checkbox.png)
    {% endif %}
    {% ifversion ghae %}
-   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/enterprise/github-ae/organizations/security-and-analysis-enable-or-disable-secret-scanning-checkbox-ghae.png)
+   ![Screenshot of a checkbox for enabling a feature for new repositories](/assets/images/2021/10/enterprise/github-ae/organizations/security-and-analysis-enable-or-disable-secret-scanning-checkbox-ghae.png)
    {% endif %}
 
 {% ifversion ghec or ghes > 3.2 %}
@@ -127,11 +127,11 @@ shortTitle: 管理安全和分析
 要允许 {% data variables.product.prodname_dependabot %} 访问私有 {% data variables.product.prodname_dotcom %} 仓库：
 
 1. 转到组织的安全和分析设置。 更多信息请参阅“[显示安全和分析设置](#displaying-the-security-and-analysis-settings)”。
-1. 在“{% data variables.product.prodname_dependabot %} 私有仓库访问”下，单击 **Add private repositories（添加私有仓库）**或 **Add internal and private repositories（添加内部和私有仓库）**。 ![添加仓库按钮](/assets/images/help/organizations/dependabot-private-repository-access.png)
-1. 开始键入要允许的仓库的名称。 ![带有过滤条件下拉列表的仓库搜索字段](/assets/images/help/organizations/dependabot-private-repo-choose.png)
+1. 在“{% data variables.product.prodname_dependabot %} 私有仓库访问”下，单击 **Add private repositories（添加私有仓库）**或 **Add internal and private repositories（添加内部和私有仓库）**。 ![添加仓库按钮](/assets/images/2021/10/help/organizations/dependabot-private-repository-access.png)
+1. 开始键入要允许的仓库的名称。 ![带有过滤条件下拉列表的仓库搜索字段](/assets/images/2021/10/help/organizations/dependabot-private-repo-choose.png)
 1. 单击您想要允许的仓库。
 
-1. （可选）要从列表中删除仓库，在仓库右侧单击 {% octicon "x" aria-label="The X icon" %}。 !["X" 按钮来删除仓库。](/assets/images/help/organizations/dependabot-private-repository-list.png)
+1. （可选）要从列表中删除仓库，在仓库右侧单击 {% octicon "x" aria-label="The X icon" %}。 !["X" 按钮来删除仓库。](/assets/images/2021/10/help/organizations/dependabot-private-repository-list.png)
 {% endif %}
 
 {% ifversion ghes or ghec %}
@@ -141,7 +141,7 @@ shortTitle: 管理安全和分析
 您可以从仓库的“Settings（设置）”选项卡管理对仓库 {% data variables.product.prodname_GH_advanced_security %} 功能的访问。 更多信息请参阅“[管理仓库的安全和分析设置](/github/administering-a-repository/managing-security-and-analysis-settings-for-your-repository)”。 但您也可以从“Settings（设置）”选项卡对仓库禁用 {% data variables.product.prodname_GH_advanced_security %} 功能。
 
 1. 转到组织的安全和分析设置。 更多信息请参阅“[显示安全和分析设置](#displaying-the-security-and-analysis-settings)”。
-1. 要查看您组织中启用 {% data variables.product.prodname_GH_advanced_security %} 的所有仓库的列表，请滚动到“{% data variables.product.prodname_GH_advanced_security %} 仓库”部分。 ![{% data variables.product.prodname_GH_advanced_security %} repositories section](/assets/images/help/organizations/settings-security-analysis-ghas-repos-list.png) 表格列出了每个仓库的唯一提交者数量。 这是您可以通过移除 {% data variables.product.prodname_GH_advanced_security %} 访问权限释放的席位数。 更多信息请参阅“[关于 {% data variables.product.prodname_GH_advanced_security %} 的计费](/billing/managing-billing-for-github-advanced-security/about-billing-for-github-advanced-security)”。
+1. 要查看您组织中启用 {% data variables.product.prodname_GH_advanced_security %} 的所有仓库的列表，请滚动到“{% data variables.product.prodname_GH_advanced_security %} 仓库”部分。 ![{% data variables.product.prodname_GH_advanced_security %} repositories section](/assets/images/2021/10/help/organizations/settings-security-analysis-ghas-repos-list.png) 表格列出了每个仓库的唯一提交者数量。 这是您可以通过移除 {% data variables.product.prodname_GH_advanced_security %} 访问权限释放的席位数。 更多信息请参阅“[关于 {% data variables.product.prodname_GH_advanced_security %} 的计费](/billing/managing-billing-for-github-advanced-security/about-billing-for-github-advanced-security)”。
 1. 要从仓库删除对 {% data variables.product.prodname_GH_advanced_security %} 的访问，并释放任何提交者使用的对仓库唯一的席位，请单击相邻的 {% octicon "x" aria-label="X symbol" %}。
 1. 在确认对话框中，单击击 **Remove repository（移除仓库）** 以移除对 {% data variables.product.prodname_GH_advanced_security %} 功能的访问权限。
 

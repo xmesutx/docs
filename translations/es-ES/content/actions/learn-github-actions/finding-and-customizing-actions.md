@@ -40,8 +40,8 @@ Las acciones que utilizas en tu flujo de trabajo pueden definirse en:
 Puedes buscar acciones manualmente o por coincidencia exacta directamente en el editor de flujo de datos de tu repositorio. Desde la barra lateral, puedes buscar una acción específica, ver las acciones destacadas, y buscar manualmente las categorías destacadas. También puedes ver la cantidad de estrellas que una acción ha recibido desde la comunidad {% data variables.product.prodname_dotcom %}.
 
 1. En tu repositorio, navega hasta el archivo de flujo de trabajo que deseas editar.
-1. En el ángulo superior derecho de la vista del archivo, para abrir el editor de flujo de trabajo, haz clic en {% octicon "pencil" aria-label="The edit icon" %}.![Botón para editar un archivo de flujo de trabajo](/assets/images/help/repository/actions-edit-workflow-file.png)
-1. A la derecha del editor, utiliza la barra lateral de {% data variables.product.prodname_marketplace %} para buscar las acciones. Las acciones con la insignia de {% octicon "verified" aria-label="The verified badge" %} indican que {% data variables.product.prodname_dotcom %} verificó que el creador de la acción es una organización asociada. ![Barra lateral del flujo de trabajo de Marketplace](/assets/images/help/repository/actions-marketplace-sidebar.png)
+1. En el ángulo superior derecho de la vista del archivo, para abrir el editor de flujo de trabajo, haz clic en {% octicon "pencil" aria-label="The edit icon" %}.![Botón para editar un archivo de flujo de trabajo](/assets/images/2021/10/help/repository/actions-edit-workflow-file.png)
+1. A la derecha del editor, utiliza la barra lateral de {% data variables.product.prodname_marketplace %} para buscar las acciones. Las acciones con la insignia de {% octicon "verified" aria-label="The verified badge" %} indican que {% data variables.product.prodname_dotcom %} verificó que el creador de la acción es una organización asociada. ![Barra lateral del flujo de trabajo de Marketplace](/assets/images/2021/10/help/repository/actions-marketplace-sidebar.png)
 
 ## Agregar una acción a tu flujo de trabajo
 
@@ -64,7 +64,7 @@ Puedes ver las acciones referenciadas en tus flujos de trabajo de {% data variab
 La página de descripción de una acción incluye la versión de la acción y la sintaxis de flujo de trabajo que se necesita para usar la acción. Para mantener estable a tu flujo de trabajo, aún cuando se hagan actualizaciones en una acción, puedes referenciar la versión de la acción a utilizar si especificas el número de etiqueta de Git o de Docker en tu archivo de flujo de trabajo.
 
 1. Navega hasta la acción que deseas usar en tu flujo de trabajo.
-1. En "Installation" (Instalación), haz clic en {% octicon "clippy" aria-label="The edit icon" %} para copiar la sintaxis del flujo de trabajo. ![Ver descripción de la acción](/assets/images/help/repository/actions-sidebar-detailed-view.png)
+1. En "Installation" (Instalación), haz clic en {% octicon "clippy" aria-label="The edit icon" %} para copiar la sintaxis del flujo de trabajo. ![Ver descripción de la acción](/assets/images/2021/10/help/repository/actions-sidebar-detailed-view.png)
 1. Pega la sintaxis como un nuevo paso en tu flujo de trabajo. Para obtener más información, consulta "[Sintaxis de flujo de trabajo para {% data variables.product.prodname_actions %}](/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idsteps)."
 1. Si la accion requiere que proprociones información de entrada, configúrala en tu flujo de trabajo. Para saber más sobre la información de entrada que pudiera requerir una acción, consulta la sección "[Utilizar entradas y salidas con una acción](/actions/learn-github-actions/finding-and-customizing-actions#using-inputs-and-outputs-with-an-action)".
 

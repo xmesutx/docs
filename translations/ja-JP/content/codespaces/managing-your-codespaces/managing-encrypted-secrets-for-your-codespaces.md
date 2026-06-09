@@ -49,8 +49,8 @@ shortTitle: 暗号化されたシークレット
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. [Codespaces secrets] の右にある [**New secret**] をクリックします。 ![[New secret] ボタン](/assets/images/help/settings/codespaces-new-secret-button.png)
-1. [Name] で、シークレットの名前を入力します。 ![[Name] テキストボックス](/assets/images/help/settings/codespaces-secret-name-field.png)
+1. [Codespaces secrets] の右にある [**New secret**] をクリックします。 ![[New secret] ボタン](/assets/images/2021/10/help/settings/codespaces-new-secret-button.png)
+1. [Name] で、シークレットの名前を入力します。 ![[Name] テキストボックス](/assets/images/2021/10/help/settings/codespaces-secret-name-field.png)
 {% data reusables.user-settings.codespaces-secret-value %}
 {% data reusables.user-settings.codespaces-secret-repository-access %}
 1. [**Add secret（シークレットの追加）**] をクリックします。
@@ -61,19 +61,19 @@ shortTitle: 暗号化されたシークレット
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. [Codespaces secrets] で、編集するシークレットの右にある [**Update**] をクリックします。 ![[Update] ボタン](/assets/images/help/settings/codespaces-secret-update-button.png)
-1. [Value] にある [**enter a new value**] をクリックします。 ![[enter a new value] リンク](/assets/images/help/settings/codespaces-secret-update-value-text.png)
+1. [Codespaces secrets] で、編集するシークレットの右にある [**Update**] をクリックします。 ![[Update] ボタン](/assets/images/2021/10/help/settings/codespaces-secret-update-button.png)
+1. [Value] にある [**enter a new value**] をクリックします。 ![[enter a new value] リンク](/assets/images/2021/10/help/settings/codespaces-secret-update-value-text.png)
 {% data reusables.user-settings.codespaces-secret-value %}
 {% data reusables.user-settings.codespaces-secret-repository-access %}
-1. リポジトリへのシークレットのアクセス権を削除する場合は、リポジトリを選択解除します。 ![リポジトリへのアクセス権を削除するチェックボックス](/assets/images/help/settings/codespaces-secret-repository-checkboxes.png)
+1. リポジトリへのシークレットのアクセス権を削除する場合は、リポジトリを選択解除します。 ![リポジトリへのアクセス権を削除するチェックボックス](/assets/images/2021/10/help/settings/codespaces-secret-repository-checkboxes.png)
 1. [**Save changes**] をクリックします。
 
 ## シークレットを削除する
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. [Codespaces secrets] で、削除するシークレットの右にある [**Delete**] をクリックします。 ![[Delete] ボタン](/assets/images/help/settings/codespaces-secret-delete-button.png)
-1. 警告を読んで、**OK**をクリックしてください。 ![シークレットの削除の確認](/assets/images/help/settings/codespaces-secret-delete-warning.png)
+1. [Codespaces secrets] で、削除するシークレットの右にある [**Delete**] をクリックします。 ![[Delete] ボタン](/assets/images/2021/10/help/settings/codespaces-secret-delete-button.png)
+1. 警告を読んで、**OK**をクリックしてください。 ![シークレットの削除の確認](/assets/images/2021/10/help/settings/codespaces-secret-delete-warning.png)
 
 ## 参考リンク
 

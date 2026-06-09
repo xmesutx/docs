@@ -22,5 +22,5 @@ Team のプロフィール画像を設定しない場合、Team プロフィー�
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-5. [**Upload new picture**] をクリックして、お好みのプロフィール画像を選択してください。 ![Upload new picture](/assets/images/help/teams/org-team-profile-picture-upload.png)
-6. 必要に応じてクリック＆ドラッグで画像の縁を刈り込み、[**Set new team avatar**] をクリックします。 ![Set new team avatar](/assets/images/help/teams/org-team-set-new-team-avatar.png)
+5. [**Upload new picture**] をクリックして、お好みのプロフィール画像を選択してください。 ![Upload new picture](/assets/images/2021/10/help/teams/org-team-profile-picture-upload.png)
+6. 必要に応じてクリック＆ドラッグで画像の縁を刈り込み、[**Set new team avatar**] をクリックします。 ![Set new team avatar](/assets/images/2021/10/help/teams/org-team-set-new-team-avatar.png)

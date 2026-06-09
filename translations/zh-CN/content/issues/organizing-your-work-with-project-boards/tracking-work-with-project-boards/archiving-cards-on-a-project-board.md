@@ -21,11 +21,11 @@ shortTitle: 存档内置卡
 
 ## 存档项目板上的卡
 
-1. 在项目板中，找到要存档的卡片，然后单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![用于编辑项目板卡的选项列表](/assets/images/help/projects/select-archiving-options-project-board-card.png)
-2. 单击 **Archive（存档）**。 ![从菜单中选择存档选项](/assets/images/help/projects/archive-project-board-card.png)
+1. 在项目板中，找到要存档的卡片，然后单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![用于编辑项目板卡的选项列表](/assets/images/2021/10/help/projects/select-archiving-options-project-board-card.png)
+2. 单击 **Archive（存档）**。 ![从菜单中选择存档选项](/assets/images/2021/10/help/projects/archive-project-board-card.png)
 
 ## 从侧栏恢复项目板中的卡
 
 {% data reusables.project-management.click-menu %}
-2. 单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 **View archive（查看存档）**。 ![从菜单中选择查看存档选项](/assets/images/help/projects/select-view-archive-option-project-board-card.png)
-3. 在要取消存档的项目板卡上方，单击 **Restore（恢复）**。 ![选择恢复项目板卡](/assets/images/help/projects/restore-card.png)
+2. 单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 **View archive（查看存档）**。 ![从菜单中选择查看存档选项](/assets/images/2021/10/help/projects/select-view-archive-option-project-board-card.png)
+3. 在要取消存档的项目板卡上方，单击 **Restore（恢复）**。 ![选择恢复项目板卡](/assets/images/2021/10/help/projects/restore-card.png)

@@ -30,7 +30,7 @@ You can also enable activity limitations on all repositories owned by your user 
 {% data reusables.repositories.sidebar-settings %}
 1. In the "Access" section of the sidebar, select **{% octicon "comment-discussion" aria-label="The comment-discussion icon" %} Moderation options**, then click **Interaction limits**.
 {% data reusables.community.set-interaction-limit %}
-  ![Temporary interaction limit options](/assets/images/help/repository/temporary-interaction-limits-options.png)
+  ![Temporary interaction limit options](/assets/images/2021/10/help/repository/temporary-interaction-limits-options.png)
 
 ## Further reading
 - "[Reporting abuse or spam](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"

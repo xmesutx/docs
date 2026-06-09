@@ -75,9 +75,9 @@ Pull Requestの説明またはコミットメッセージで、サポートさ�
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-6234 %}
 4. 右のサイドバーで、"Development（開発）"セクション内で{% octicon "gear" aria-label="The Gear icon" %}をクリックしてください。
 {% else %}
-4. 右のサイドバーで、[**Linked issues**] をクリックします。 ![右サイドバーの [Linked issues]](/assets/images/help/pull_requests/linked-issues.png)
+4. 右のサイドバーで、[**Linked issues**] をクリックします。 ![右サイドバーの [Linked issues]](/assets/images/2021/10/help/pull_requests/linked-issues.png)
 {% endif %}
-5. Pull RequestにリンクするIssueをクリックします。 ![Issueをリンクするドロップダウン](/assets/images/help/pull_requests/link-issue-drop-down.png)
+5. Pull RequestにリンクするIssueをクリックします。 ![Issueをリンクするドロップダウン](/assets/images/2021/10/help/pull_requests/link-issue-drop-down.png)
 {% endif %}
 
 ## 参考リンク

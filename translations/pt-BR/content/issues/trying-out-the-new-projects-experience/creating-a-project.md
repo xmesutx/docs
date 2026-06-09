@@ -70,7 +70,7 @@ Os problemas do rascunho podem ter um título, texto, responsável e quaisquer c
 3. Selecione o projeto ao qual você deseja adicionar o problema ou pull request.
 4. Opcionalmente, preencha os campos personalizados.
 
-   ![Barra lateral do projeto](/assets/images/help/issues/project_side_bar.png)
+   ![Barra lateral do projeto](/assets/images/2021/10/help/issues/project_side_bar.png)
 
 ## Convertendo rascunhos de problemas em problemas
 
@@ -118,7 +118,7 @@ O seu projeto rastreia informações atualizadas sobre problemas e pull requests
 
 Como alternativa, você pode fazer isso na interface do usuário:
 
-1. Clique em {% octicon "plus" aria-label="the plus icon" %} no cabeçalho mais à direita. Será exibido um menu suspenso com os campos do projeto. ![Exibir ou ocultar campos](/assets/images/help/issues/projects_fields_menu.png)
+1. Clique em {% octicon "plus" aria-label="the plus icon" %} no cabeçalho mais à direita. Será exibido um menu suspenso com os campos do projeto. ![Exibir ou ocultar campos](/assets/images/2021/10/help/issues/projects_fields_menu.png)
 2. Selecione o(s) campo(s) que você deseja exibir ou ocultar. Um {% octicon "check" aria-label="check icon" %} indica quais campos serão exibidos.
 
 ### Adicionando campos personalizados
@@ -135,7 +135,7 @@ Os campos personalizados podem ser texto, número, data, seleção única ou ite
 
 1. {% data reusables.projects.open-command-palette %} Comece a digitar qualquer parte de "Criar novo campo". Quando "Criar novo campo" for exibido na paleta de comandos, selecione-o.
 2. Como alternativa, clique em {% octicon "plus" aria-label="the plus icon" %} no cabeçalho do campo mais à direita. Será exibido um menu suspenso com os campos do projeto. Clique em **Novo campo**.
-3. Uma janela pop-up irá aparecer para inserir informações sobre o novo campo. ![Novo campo](/assets/images/help/issues/projects_new_field.png)
+3. Uma janela pop-up irá aparecer para inserir informações sobre o novo campo. ![Novo campo](/assets/images/2021/10/help/issues/projects_new_field.png)
 4. Na caixa de texto, digite um nome para o novo campo.
 5. Selecione o menu suspenso e clique no tipo desejado.
 6. Se você especificou **Seleção única** como o tipo, insira as opções.

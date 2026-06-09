@@ -20,9 +20,9 @@ You can optionally choose to add a description, location, website, and email add
 {% ifversion fpt or ghec %}To confirm your organization's identity and display a "Verified" badge on your organization profile page, you must verify your organization's domains with {% data variables.product.product_name %}. For more information, see "[Verifying or approving a domain for your organization](/organizations/managing-organization-settings/verifying-or-approving-a-domain-for-your-organization)."{% endif %}
 
 {% ifversion fpt or ghes > 3.2 or ghec %}
-![Sample organization profile page](/assets/images/help/organizations/org_profile_with_overview.png)
+![Sample organization profile page](/assets/images/2021/10/help/organizations/org_profile_with_overview.png)
 {% else %}
-![Sample organization profile page](/assets/images/help/profile/org_profile.png)
+![Sample organization profile page](/assets/images/2021/10/help/profile/org_profile.png)
 {% endif %}
 
 ## Further reading

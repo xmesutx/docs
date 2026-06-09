@@ -26,7 +26,7 @@ topics:
 
 此外，您还可以从里程碑页面编辑里程碑，创建默认与里程碑关联的新议题。
 
-![里程碑页面](/assets/images/help/issues/milestone-info-page.png)
+![里程碑页面](/assets/images/2021/10/help/issues/milestone-info-page.png)
 
 ## 排列议题和拉取请求在里程碑中的优先级
 
@@ -38,7 +38,7 @@ topics:
 
 {% endnote %}
 
-![重新排序的里程碑](/assets/images/help/issues/milestone-reordered.gif)
+![重新排序的里程碑](/assets/images/2021/10/help/issues/milestone-reordered.gif)
 
 ## 延伸阅读
 

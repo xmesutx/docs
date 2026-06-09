@@ -79,11 +79,11 @@ Consulte [nosso guia sobre a criação de um token de acesso pessoal](/authentic
 #### Configuração
 
 1. [Execute o procedimento `ssh-keygen`][generating-ssh-keys] no seu servidor e lembre-se o local onde você salvou o par de chaves da chave da rsa pública e privada.
-2. No canto superior direito de qualquer página do {% data variables.product.product_name %}, clique na sua foto do perfil e, em seguida, clique em **Seu perfil**. ![Navegação para o perfil](/assets/images/profile-page.png)
-3. Na sua página de perfil, clique em **Repositórios** e, em seguida, clique no nome do seu repositório. ![Link dos repositórios](/assets/images/repos.png)
-4. No seu repositório, clique em **Configurações**. ![Configurações do repositório](/assets/images/repo-settings.png)
-5. Na barra lateral, clique em **Implantar Chaves** e, em seguida, clique em **Adicionar chave de implantação**. ![Link para adicionar chaves de implantação](/assets/images/add-deploy-key.png)
-6. Forneça um título e cole na sua chave pública.  ![Página da chave implantação](/assets/images/deploy-key.png)
+2. No canto superior direito de qualquer página do {% data variables.product.product_name %}, clique na sua foto do perfil e, em seguida, clique em **Seu perfil**. ![Navegação para o perfil](/assets/images/2021/10/profile-page.png)
+3. Na sua página de perfil, clique em **Repositórios** e, em seguida, clique no nome do seu repositório. ![Link dos repositórios](/assets/images/2021/10/repos.png)
+4. No seu repositório, clique em **Configurações**. ![Configurações do repositório](/assets/images/2021/10/repo-settings.png)
+5. Na barra lateral, clique em **Implantar Chaves** e, em seguida, clique em **Adicionar chave de implantação**. ![Link para adicionar chaves de implantação](/assets/images/2021/10/add-deploy-key.png)
+6. Forneça um título e cole na sua chave pública.  ![Página da chave implantação](/assets/images/2021/10/deploy-key.png)
 7. Selecione **Permitir acesso de gravação**, se você quiser que esta chave tenha acesso de gravação no repositório. Uma chave de implantação com acesso de gravação permite que uma implantação faça push no repositório.
 8. Clique em **Adicionar chave**.
 

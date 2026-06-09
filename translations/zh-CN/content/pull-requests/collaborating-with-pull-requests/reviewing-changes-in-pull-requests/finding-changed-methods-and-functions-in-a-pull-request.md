@@ -28,8 +28,8 @@ shortTitle: 方法和函数
 {% data reusables.repositories.sidebar-pr %}
 2. 在拉取请求列表中，单击要在其中查找已更改函数和方法的拉取请求。
 {% data reusables.repositories.changed-files %}
-4. 要查看已更改函数和方法的摘要列表，请单击 **Jump to...（跳转到...）**。 ![跳转到下拉菜单](/assets/images/help/pull_requests/jump-to-menu.png)
-5. 从下拉菜单中选择已更改的函数或方法。 也可以输入函数或方法的名称以过滤结果。 ![过滤函数和方法](/assets/images/help/pull_requests/filter-function-and-methods.png)
+4. 要查看已更改函数和方法的摘要列表，请单击 **Jump to...（跳转到...）**。 ![跳转到下拉菜单](/assets/images/2021/10/help/pull_requests/jump-to-menu.png)
+5. 从下拉菜单中选择已更改的函数或方法。 也可以输入函数或方法的名称以过滤结果。 ![过滤函数和方法](/assets/images/2021/10/help/pull_requests/filter-function-and-methods.png)
 
  {% note %}
 
@@ -37,7 +37,7 @@ shortTitle: 方法和函数
 
  {% endnote %}
 
-6. 您将被重定向到所选函数或方法的第一行。 ![查看文件中已更改的函数或方法](/assets/images/help/pull_requests/view-selected-function-or-method.png)
+6. 您将被重定向到所选函数或方法的第一行。 ![查看文件中已更改的函数或方法](/assets/images/2021/10/help/pull_requests/view-selected-function-or-method.png)
 
 ## 延伸阅读
 

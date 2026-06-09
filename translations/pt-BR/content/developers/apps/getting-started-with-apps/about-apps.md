@@ -92,7 +92,7 @@ Tenha em mente essas ideias ao usar os tokens de acesso pessoais:
 
 Antes de começar a criar integrações, você deverá determinar a melhor maneira de acessar autenticar e interagir com as APIs de {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom %}{% else %}{% data variables.product.product_name %}{% endif %}. A imagem a seguir oferece algumas perguntas de segurança ao decidir se usa tokens de acesso pessoais, {% data variables.product.prodname_github_apps %}ou {% data variables.product.prodname_oauth_apps %} para sua integração.
 
-![Introdução ao fluxo de perguntas dos aplicativos](/assets/images/intro-to-apps-flow.png)
+![Introdução ao fluxo de perguntas dos aplicativos](/assets/images/2021/10/intro-to-apps-flow.png)
 
 Considere estas perguntas sobre como sua integração deve se comportar e o que é necessário para ter acesso:
 

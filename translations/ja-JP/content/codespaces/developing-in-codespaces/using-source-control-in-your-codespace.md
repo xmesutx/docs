@@ -44,7 +44,7 @@ shortTitle: ソースコントロール
 リモートリポジトリからいつでも codespace に変更をプルできます。
 
 {% data reusables.codespaces.source-control-display-dark %}
-1. サイドバーの上部にある省略記号(**...**) をクリックします。 ![[View] および [More Actions] の省略記号ボタン](/assets/images/help/codespaces/source-control-ellipsis-button.png)
+1. サイドバーの上部にある省略記号(**...**) をクリックします。 ![[View] および [More Actions] の省略記号ボタン](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button.png)
 1. ドロップダウンメニューで、[**Pull**] をクリックします。
 
 If the dev container configuration has been changed since you created the codespace, you can apply the changes by rebuilding the container for the codespace. For more information, see "[Introduction to dev containers](/codespaces/setting-up-your-codespace/configuring-codespaces-for-your-project#applying-changes-to-your-configuration)."
@@ -55,10 +55,10 @@ If the dev container configuration has been changed since you created the codesp
 
 フェッチ操作でリモートリポジトリの新しい変更が検出されると、ステータスバーに新しいコミットの数が表示されます。 その後、変更をローカルコピーにプルできます。
 
-1. アクティビティバーの下部にある [**Manage**] ボタンをクリックします。 ![ボタンを管理する](/assets/images/help/codespaces/manage-button.png)
+1. アクティビティバーの下部にある [**Manage**] ボタンをクリックします。 ![ボタンを管理する](/assets/images/2021/10/help/codespaces/manage-button.png)
 1. メニューで [**Settings**] をクリックします。
-1. [Settings] ページで `autofetch` を検索します。 ![自動フェッチを検索する](/assets/images/help/codespaces/autofetch-search.png)
-1. 現在のリポジトリに登録されているすべてのリモートの更新の詳細をフェッチするには、**Git: Autofetch** を `all` に設定します。 ![Git 自動フェッチを有効にする](/assets/images/help/codespaces/autofetch-all.png)
+1. [Settings] ページで `autofetch` を検索します。 ![自動フェッチを検索する](/assets/images/2021/10/help/codespaces/autofetch-search.png)
+1. 現在のリポジトリに登録されているすべてのリモートの更新の詳細をフェッチするには、**Git: Autofetch** を `all` に設定します。 ![Git 自動フェッチを有効にする](/assets/images/2021/10/help/codespaces/autofetch-all.png)
 1. 各自動フェッチ間の秒数を変更する場合は、**Git: Autofetch Period** の値を編集します。
 
 ## 変更をコミットする
@@ -73,5 +73,5 @@ If the dev container configuration has been changed since you created the codesp
 
 行なった変更はプッシュできます。 それにより、変更がリモートリポジトリの上流ブランチに適用されます。 プルリクエストの作成準備が整っていない場合、または {% data variables.product.prodname_dotcom %} でプルリクエストを作成する場合は、この操作を行うことをお勧めします。
 
-1. サイドバーの上部にある省略記号(**...**) をクリックします。 ![[View] および [More Actions] の省略記号ボタン](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+1. サイドバーの上部にある省略記号(**...**) をクリックします。 ![[View] および [More Actions] の省略記号ボタン](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. ドロップダウンメニューで、[**Push**] をクリックします。

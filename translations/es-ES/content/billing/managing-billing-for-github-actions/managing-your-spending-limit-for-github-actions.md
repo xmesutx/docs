@@ -59,7 +59,7 @@ Los propietarios de la empresa y gerentes de facturación pueden administrar el 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. Sobre "uso mensual de paquetes y {% data variables.product.prodname_actions %}", haz clic en **Límite de gastos**. ![Pestaña de límite de gastos](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. Sobre "uso mensual de paquetes y {% data variables.product.prodname_actions %}", haz clic en **Límite de gastos**. ![Pestaña de límite de gastos](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 

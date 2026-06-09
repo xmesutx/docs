@@ -48,7 +48,7 @@ The Checks API sends the [`check_suite` webhook event](/webhooks/event-payloads/
 
 To get an idea of what your Checks API CI server will do when you've completed this quickstart, check out the demo below:
 
-![Demo of Checks API CI sever quickstart](/assets/images/github-apps/github_apps_checks_api_ci_server.gif)
+![Demo of Checks API CI sever quickstart](/assets/images/2021/10/github-apps/github_apps_checks_api_ci_server.gif)
 
 ## Prerequisites
 
@@ -174,7 +174,7 @@ $ ruby template_server.rb
 
 Now open a pull request in the repository where you installed your app. Your app should respond by creating a check run on your pull request. Click on the **Checks** tab, and you should see something like this:
 
-![Queued check run](/assets/images/github-apps/github_apps_queued_check_run.png)
+![Queued check run](/assets/images/2021/10/github-apps/github_apps_queued_check_run.png)
 
 If you see other apps in the Checks tab, it means you have other apps installed on your repository that have **Read & write** access to checks and are subscribed to **Check suite** and **Check run** events.
 
@@ -250,7 +250,7 @@ $ ruby template_server.rb
 
 Head over to your open pull request and click the **Checks** tab. Click the "Re-run all" button in the upper left corner. You should see the check run move from `pending` to `in_progress` and end with `success`:
 
-![Completed check run](/assets/images/github-apps/github_apps_complete_check_run.png)
+![Completed check run](/assets/images/2021/10/github-apps/github_apps_complete_check_run.png)
 
 ## Part 2. Creating the Octo RuboCop CI test
 
@@ -586,15 +586,15 @@ $ ruby template_server.rb
 
 The annotations will show up in the **Checks** tab.
 
-![Check run annotations in the checks tab](/assets/images/github-apps/github_apps_checks_annotations.png)
+![Check run annotations in the checks tab](/assets/images/2021/10/github-apps/github_apps_checks_annotations.png)
 
 Notice the "Fix this" button that you created by adding a requested action.
 
-![Check run requested action button](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+![Check run requested action button](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 If the annotations are related to a file already included in the PR, the annotations will also show up in the **Files changed** tab.
 
-![Check run annotations in the files changed tab](/assets/images/github-apps/github_apps_checks_annotation_diff.png)
+![Check run annotations in the files changed tab](/assets/images/2021/10/github-apps/github_apps_checks_annotation_diff.png)
 
 ## Step 2.6. Automatically fixing RuboCop errors
 
@@ -688,11 +688,11 @@ This time, click the "Fix this" button to automatically fix the errors RuboCop f
 
 In the **Commits** tab, you'll see a brand new commit by the username you set in your Git configuration. You may need to refresh your browser to see the update.
 
-![A new commit to automatically fix Octo RuboCop notices](/assets/images/github-apps/github_apps_new_requested_action_commit.png)
+![A new commit to automatically fix Octo RuboCop notices](/assets/images/2021/10/github-apps/github_apps_new_requested_action_commit.png)
 
 Because a new commit was pushed to the repo, you'll see a new check suite for Octo RuboCop in the **Checks** tab. But this time there are no errors because RuboCop fixed them all. 🎉
 
-![No check suite or check run errors](/assets/images/github-apps/github_apps_checks_api_success.png)
+![No check suite or check run errors](/assets/images/2021/10/github-apps/github_apps_checks_api_success.png)
 
 You can find the completed code for the app you just built in the `server.rb` file in the [Creating CI tests with the Checks API](https://github.com/github-developer/creating-ci-tests-with-the-checks-api) repository.
 

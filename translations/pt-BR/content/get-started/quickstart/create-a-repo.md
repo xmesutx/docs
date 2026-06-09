@@ -43,8 +43,8 @@ Você pode armazenar uma série de projetos em repositórios de {% data variable
 {% webui %}
 
 {% data reusables.repositories.create_new %}
-2. Digite um nome curto e fácil de memorizar para seu repositório. Por exemplo, "olá mundo". ![Campo para inserir um nome de repositório](/assets/images/help/repository/create-repository-name.png)
-3. Se desejar, adicione uma descrição do repositório. Por exemplo, "Meu primeiro repositório no {% data variables.product.product_name %}". ![Campo para inserir uma descrição do repositório](/assets/images/help/repository/create-repository-desc.png)
+2. Digite um nome curto e fácil de memorizar para seu repositório. Por exemplo, "olá mundo". ![Campo para inserir um nome de repositório](/assets/images/2021/10/help/repository/create-repository-name.png)
+3. Se desejar, adicione uma descrição do repositório. Por exemplo, "Meu primeiro repositório no {% data variables.product.product_name %}". ![Campo para inserir uma descrição do repositório](/assets/images/2021/10/help/repository/create-repository-desc.png)
 {% data reusables.repositories.choose-repo-visibility %}
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
@@ -74,11 +74,11 @@ Na criação do repositório, você o inicializou com um arquivo *README*. Os ar
 
 Vamos fazer commit de uma alteração no arquivo *README*.
 
-1. Na lista de arquivos do repositório, clique em ***README.m***. ![Arquivo README na lista de arquivos](/assets/images/help/repository/create-commit-open-readme.png)
+1. Na lista de arquivos do repositório, clique em ***README.m***. ![Arquivo README na lista de arquivos](/assets/images/2021/10/help/repository/create-commit-open-readme.png)
 2. Acima do conteúdo do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %}.
-3. Na guia **Edit file** (Editar arquivo), digite algumas informações sobre si mesmo. ![Novo conteúdo no arquivo](/assets/images/help/repository/edit-readme-light.png)
+3. Na guia **Edit file** (Editar arquivo), digite algumas informações sobre si mesmo. ![Novo conteúdo no arquivo](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
-5. Revise as alterações feitas no arquivo. Você verá o novo conteúdo em verde. ![Visualização de arquivo](/assets/images/help/repository/create-commit-review.png)
+5. Revise as alterações feitas no arquivo. Você verá o novo conteúdo em verde. ![Visualização de arquivo](/assets/images/2021/10/help/repository/create-commit-review.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_file_change %}

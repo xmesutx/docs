@@ -46,7 +46,7 @@ topics:
 
 您可以将 {% data variables.product.prodname_actions %} _工作流程_配置为在存储库中发生_事件_时触发，例如打开拉取请求或创建议题。  工作流程包含一个或多个_作业_，这些作业可以按顺序运行，也可以并行运行。  每个作业都将在其自己的虚拟机_运行器_中运行，或者在容器内运行，并且具有一个或多个_步骤_ ，这些步骤要么运行您定义的脚本，要么运行_操作_，这是一个可重用的扩展，可以简化您的工作流程。
 
-![工作流程概述](/assets/images/help/images/overview-actions-simple.png)
+![工作流程概述](/assets/images/2021/10/help/images/overview-actions-simple.png)
 
 ### 工作流程
 
@@ -235,18 +235,18 @@ _操作_是 {% data variables.product.prodname_actions %} 平台的自定义应�
 
 在此关系图中，您可以看到刚刚创建的工作流程文件，以及 {% data variables.product.prodname_actions %} 组件在层次结构中的组织方式。 每个步骤执行单个操作或 shell 脚本。 步骤 1 和 2 运行操作，步骤 3 和 4 运行 shell 脚本。 要查找更多为工作流预构建的操作，请参阅“[查找和自定义操作](/actions/learn-github-actions/finding-and-customizing-actions)”。
 
-![工作流程概述](/assets/images/help/images/overview-actions-event.png)
+![工作流程概述](/assets/images/2021/10/help/images/overview-actions-event.png)
 
 ## 查看工作流程的活动
 
 工作流程开始运行后，您可以查看运行进度的可视化图表，并在 {% data variables.product.prodname_dotcom %} 上查看每个步骤的活动。
 
 {% data reusables.repositories.navigate-to-repo %}
-1. 在仓库名称下，单击 **Actions（操作）**。 ![导航到仓库](/assets/images/help/images/learn-github-actions-repository.png)
-1. 在左侧边栏中，单击您想要查看的工作流程。 ![工作流程结果的屏幕截图](/assets/images/help/images/learn-github-actions-workflow.png)
-1. 在“Workflow runs（工作流程运行）”下，单击您想要查看的运行的名称。 ![工作流程运行的屏幕截图](/assets/images/help/images/learn-github-actions-run.png)
-1. 在 **Jobs（作业）**下或可视化图中，单击您要查看的作业。 ![选择作业](/assets/images/help/images/overview-actions-result-navigate.png)
-1. 查看每个步骤的结果。 ![工作流程运行详细信息的屏幕截图](/assets/images/help/images/overview-actions-result-updated-2.png)
+1. 在仓库名称下，单击 **Actions（操作）**。 ![导航到仓库](/assets/images/2021/10/help/images/learn-github-actions-repository.png)
+1. 在左侧边栏中，单击您想要查看的工作流程。 ![工作流程结果的屏幕截图](/assets/images/2021/10/help/images/learn-github-actions-workflow.png)
+1. 在“Workflow runs（工作流程运行）”下，单击您想要查看的运行的名称。 ![工作流程运行的屏幕截图](/assets/images/2021/10/help/images/learn-github-actions-run.png)
+1. 在 **Jobs（作业）**下或可视化图中，单击您要查看的作业。 ![选择作业](/assets/images/2021/10/help/images/overview-actions-result-navigate.png)
+1. 查看每个步骤的结果。 ![工作流程运行详细信息的屏幕截图](/assets/images/2021/10/help/images/overview-actions-result-updated-2.png)
 
 ## 后续步骤
 

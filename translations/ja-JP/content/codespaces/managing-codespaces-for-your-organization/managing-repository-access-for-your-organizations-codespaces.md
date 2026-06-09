@@ -25,8 +25,8 @@ Organization 内のどのユーザが {% data variables.product.prodname_codespa
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.click-codespaces %}
-1. [Access and security] で、あなたの Organization の設定を選択します。 ![信頼するリポジトリを管理するラジオボタン](/assets/images/help/settings/codespaces-org-access-and-security-radio-buttons.png)
-1. [Selected repositories] を選択した場合、ドロップダウンメニューを選択してから、あなたの Organization が所有するその他のリポジトリにアクセスを許可する、リポジトリのコードスペースをクリックします。 その他のリポジトリにコードスペースによるアクセスを許可したい、すべてのリポジトリについて同じ手順を繰り返します。 ![[Selected repositories]ドロップダウンメニュー](/assets/images/help/settings/codespaces-access-and-security-repository-drop-down.png)
+1. [Access and security] で、あなたの Organization の設定を選択します。 ![信頼するリポジトリを管理するラジオボタン](/assets/images/2021/10/help/settings/codespaces-org-access-and-security-radio-buttons.png)
+1. [Selected repositories] を選択した場合、ドロップダウンメニューを選択してから、あなたの Organization が所有するその他のリポジトリにアクセスを許可する、リポジトリのコードスペースをクリックします。 その他のリポジトリにコードスペースによるアクセスを許可したい、すべてのリポジトリについて同じ手順を繰り返します。 ![[Selected repositories]ドロップダウンメニュー](/assets/images/2021/10/help/settings/codespaces-access-and-security-repository-drop-down.png)
 
 ## 参考リンク
 

@@ -78,8 +78,8 @@ shortTitle: 删除和恢复包
 {% data reusables.package_registry.packages-from-code-tab %}
 {% data reusables.package_registry.package-settings-option %}
 5. 在左侧单击 **Manage versions（管理版本）**。
-5. 在要删除的版本的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} 并选择 **Delete version（删除版本）**。 ![删除包版本按钮](/assets/images/help/package-registry/delete-container-package-version.png)
-6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this version（我明白后果，删除此版本）**。 ![确认包删除按钮](/assets/images/help/package-registry/package-version-deletion-confirmation.png)
+5. 在要删除的版本的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} 并选择 **Delete version（删除版本）**。 ![删除包版本按钮](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this version（我明白后果，删除此版本）**。 ![确认包删除按钮](/assets/images/2021/10/help/package-registry/package-version-deletion-confirmation.png)
 
 {% ifversion fpt or ghec or ghes %}
 ### 使用 GraphQL 删除仓库范围包的版本
@@ -120,8 +120,8 @@ HOSTNAME/graphql
 {% data reusables.package_registry.package-settings-from-user-level %}
 {% data reusables.package_registry.package-settings-option %}
 5. 在左侧单击 **Manage versions（管理版本）**。
-5. 在要删除的版本的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} 并选择 **Delete version（删除版本）**。 ![删除包版本按钮](/assets/images/help/package-registry/delete-container-package-version.png)
-6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this version（我明白后果，删除此版本）**。 ![确认包删除按钮](/assets/images/help/package-registry/confirm-container-package-version-deletion.png)
+5. 在要删除的版本的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} 并选择 **Delete version（删除版本）**。 ![删除包版本按钮](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this version（我明白后果，删除此版本）**。 ![确认包删除按钮](/assets/images/2021/10/help/package-registry/confirm-container-package-version-deletion.png)
 
 ### 在 {% data variables.product.prodname_dotcom %} 上删除组织范围的包版本
 
@@ -132,8 +132,8 @@ HOSTNAME/graphql
 {% data reusables.package_registry.package-settings-from-org-level %}
 {% data reusables.package_registry.package-settings-option %}
 5. 在左侧单击 **Manage versions（管理版本）**。
-5. 在要删除的版本的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} 并选择 **Delete version（删除版本）**。 ![删除包版本按钮](/assets/images/help/package-registry/delete-container-package-version.png)
-6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this version（我明白后果，删除此版本）**。 ![确认包版本删除按钮](/assets/images/help/package-registry/confirm-container-package-version-deletion.png)
+5. 在要删除的版本的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} 并选择 **Delete version（删除版本）**。 ![删除包版本按钮](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this version（我明白后果，删除此版本）**。 ![确认包版本删除按钮](/assets/images/2021/10/help/package-registry/confirm-container-package-version-deletion.png)
 {% endif %}
 
 ## 删除整个包
@@ -146,7 +146,7 @@ HOSTNAME/graphql
 {% data reusables.package_registry.packages-from-code-tab %}
 {% data reusables.package_registry.package-settings-option %}
 4. 在“Danger Zone（危险区域）”下，单击**Delete this package（删除此包）**。
-5. 要确认，请查看确认消息，输入您的包名称，然后单击 **I understand, delete this package（我了解，删除此包）**。 ![确认包删除按钮](/assets/images/help/package-registry/package-version-deletion-confirmation.png)
+5. 要确认，请查看确认消息，输入您的包名称，然后单击 **I understand, delete this package（我了解，删除此包）**。 ![确认包删除按钮](/assets/images/2021/10/help/package-registry/package-version-deletion-confirmation.png)
 
 {% ifversion fpt or ghec %}
 ### 在 {% data variables.product.prodname_dotcom %} 上删除整个用户范围的包
@@ -155,9 +155,9 @@ HOSTNAME/graphql
 
 {% data reusables.package_registry.package-settings-from-user-level %}
 {% data reusables.package_registry.package-settings-option %}
-5. 在左侧，单击 **Options（选项）**。 !["选项"菜单选项](/assets/images/help/package-registry/options-for-container-settings.png)
-6. 在“Danger Zone（危险区域）”下，单击**Delete this package（删除此包）**。 ![删除包版本按钮](/assets/images/help/package-registry/delete-container-package-button.png)
-6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this package（我明白后果，删除此包）**。 ![确认包版本删除按钮](/assets/images/help/package-registry/confirm-container-package-deletion.png)
+5. 在左侧，单击 **Options（选项）**。 !["选项"菜单选项](/assets/images/2021/10/help/package-registry/options-for-container-settings.png)
+6. 在“Danger Zone（危险区域）”下，单击**Delete this package（删除此包）**。 ![删除包版本按钮](/assets/images/2021/10/help/package-registry/delete-container-package-button.png)
+6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this package（我明白后果，删除此包）**。 ![确认包版本删除按钮](/assets/images/2021/10/help/package-registry/confirm-container-package-deletion.png)
 
 ### 在 {% data variables.product.prodname_dotcom %} 上删除整个组织范围的包
 
@@ -165,9 +165,9 @@ HOSTNAME/graphql
 
 {% data reusables.package_registry.package-settings-from-org-level %}
 {% data reusables.package_registry.package-settings-option %}
-5. 在左侧，单击 **Options（选项）**。 !["选项"菜单选项](/assets/images/help/package-registry/options-for-container-settings.png)
-6. 在“Danger Zone（危险区域）”下，单击**Delete this package（删除此包）**。 ![删除包按钮](/assets/images/help/package-registry/delete-container-package-button.png)
-6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this package（我明白后果，删除此包）**。 ![确认包删除按钮](/assets/images/help/package-registry/confirm-container-package-deletion.png)
+5. 在左侧，单击 **Options（选项）**。 !["选项"菜单选项](/assets/images/2021/10/help/package-registry/options-for-container-settings.png)
+6. 在“Danger Zone（危险区域）”下，单击**Delete this package（删除此包）**。 ![删除包按钮](/assets/images/2021/10/help/package-registry/delete-container-package-button.png)
+6. 要确认删除，请输入包名称，然后单击 **I understand the consequences, delete this package（我明白后果，删除此包）**。 ![确认包删除按钮](/assets/images/2021/10/help/package-registry/confirm-container-package-deletion.png)
 {% endif %}
 
 ## 恢复包
@@ -202,8 +202,8 @@ HOSTNAME/graphql
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 3. 在左侧，单击 **Packages（包）**。
-4. 在“Deleted Packages（已删除的包）”下要恢复的包旁边，单击 **Restore（恢复）**。 ![恢复按钮](/assets/images/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
-5. 要确认，请输入包名称，然后单击**I understand the consequences, restore this package（我明白后果，恢复此包）**。 ![恢复包确认按钮](/assets/images/help/package-registry/type-package-name-and-restore-button.png)
+4. 在“Deleted Packages（已删除的包）”下要恢复的包旁边，单击 **Restore（恢复）**。 ![恢复按钮](/assets/images/2021/10/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
+5. 要确认，请输入包名称，然后单击**I understand the consequences, restore this package（我明白后果，恢复此包）**。 ![恢复包确认按钮](/assets/images/2021/10/help/package-registry/type-package-name-and-restore-button.png)
 
 {% ifversion fpt or ghec %}
 
@@ -213,8 +213,8 @@ HOSTNAME/graphql
 
 {% data reusables.user-settings.access_settings %}
 2. 在左侧，单击 **Packages（包）**。
-4. 在“Deleted Packages（已删除的包）”下要恢复的包旁边，单击 **Restore（恢复）**。 ![恢复按钮](/assets/images/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
-5. 要确认，请输入包名称，然后单击**I understand the consequences, restore this package（我明白后果，恢复此包）**。 ![恢复包确认按钮](/assets/images/help/package-registry/type-package-name-and-restore-button.png)
+4. 在“Deleted Packages（已删除的包）”下要恢复的包旁边，单击 **Restore（恢复）**。 ![恢复按钮](/assets/images/2021/10/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
+5. 要确认，请输入包名称，然后单击**I understand the consequences, restore this package（我明白后果，恢复此包）**。 ![恢复包确认按钮](/assets/images/2021/10/help/package-registry/type-package-name-and-restore-button.png)
 
 {% endif %}
 
@@ -225,6 +225,6 @@ HOSTNAME/graphql
 1. 导航到包的登录页。
 2. 在右侧单击 **Package settings（包设置）**。
 2. 在左侧单击 **Manage versions（管理版本）**。
-3. 在右上角，使用“Versions（版本）”下拉菜单选择 **Deleted（已删除）**。 ![显示已删除选项的版本下拉菜单](/assets/images/help/package-registry/versions-drop-down-menu.png)
-4. 在您要恢复的已删除包版本旁边，单击 **Restore（恢复）**。 ![已删除的包版本旁边的恢复选项](/assets/images/help/package-registry/restore-package-version.png)
-5. 要确认，请单击 **I understand the consequences, restore this version（我明白后果，恢复此版本）**。 ![确认包版本恢复](/assets/images/help/package-registry/confirm-package-version-restoration.png)
+3. 在右上角，使用“Versions（版本）”下拉菜单选择 **Deleted（已删除）**。 ![显示已删除选项的版本下拉菜单](/assets/images/2021/10/help/package-registry/versions-drop-down-menu.png)
+4. 在您要恢复的已删除包版本旁边，单击 **Restore（恢复）**。 ![已删除的包版本旁边的恢复选项](/assets/images/2021/10/help/package-registry/restore-package-version.png)
+5. 要确认，请单击 **I understand the consequences, restore this version（我明白后果，恢复此版本）**。 ![确认包版本恢复](/assets/images/2021/10/help/package-registry/confirm-package-version-restoration.png)

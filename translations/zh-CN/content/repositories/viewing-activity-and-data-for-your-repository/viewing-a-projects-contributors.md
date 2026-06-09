@@ -30,8 +30,8 @@ shortTitle: 查看项目贡献者
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 在左侧边栏中，单击 **Contributors（贡献者）**。 ![贡献者选项卡](/assets/images/help/graphs/contributors_tab.png)
-4. （可选）要查看特定时间段内的贡献者，单击然后拖动，直到选择时间段。 贡献者图在每个周日汇总每周提交数，因此您设置的时间段必须包括周日。 ![贡献者图中选择的时间范围](/assets/images/help/graphs/repo_contributors_click_drag_graph.png)
+3. 在左侧边栏中，单击 **Contributors（贡献者）**。 ![贡献者选项卡](/assets/images/2021/10/help/graphs/contributors_tab.png)
+4. （可选）要查看特定时间段内的贡献者，单击然后拖动，直到选择时间段。 贡献者图在每个周日汇总每周提交数，因此您设置的时间段必须包括周日。 ![贡献者图中选择的时间范围](/assets/images/2021/10/help/graphs/repo_contributors_click_drag_graph.png)
 
 ## 贡献者疑难解答
 

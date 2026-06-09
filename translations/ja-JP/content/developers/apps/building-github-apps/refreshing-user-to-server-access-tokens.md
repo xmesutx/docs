@@ -58,8 +58,8 @@ shortTitle: ユーザからサーバーへのアクセスの更新
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-4. 選択した{% data variables.product.prodname_github_app %}の隣の**Edit（編集）**をクリックしてください。 ![GitHub Appを編集する設定](/assets/images/github-apps/edit-test-app.png)
-5. In the left sidebar, click **Optional Features**. ![Optional features tab](/assets/images/github-apps/optional-features-option.png)
+4. 選択した{% data variables.product.prodname_github_app %}の隣の**Edit（編集）**をクリックしてください。 ![GitHub Appを編集する設定](/assets/images/2021/10/github-apps/edit-test-app.png)
+5. In the left sidebar, click **Optional Features**. ![Optional features tab](/assets/images/2021/10/github-apps/optional-features-option.png)
 6. 「User-to-server token expiration（ユーザからサーバーへのトークンの有効期限）」の隣の**Opt-in（オプトイン）**もしくは**Opt-out（オプトアウト）**をクリックしてください。 この設定が適用されるまで、数秒かかることがあります。
 
 ## 新しいGitHub Appでの期限切れになるトークンのオプトアウト
@@ -68,7 +68,7 @@ shortTitle: ユーザからサーバーへのアクセスの更新
 
 アプリケーションに期限切れにならないユーザからサーバーへのアクセストークンを使わせたい場合には、アプリケーションの設定ページで"Expire user authorization tokens（ユーザ認可トークンの期限切れ）"を選択を解除できます。
 
-![GitHub App のセットアップ中に期限付きユーザトークンをオプトインするオプション](/assets/images/github-apps/expire-user-tokens-selection.png)
+![GitHub App のセットアップ中に期限付きユーザトークンをオプトインするオプション](/assets/images/2021/10/github-apps/expire-user-tokens-selection.png)
 
 ユーザからサーバーへの認可トークンを使用する既存の{% data variables.product.prodname_github_apps %}は、アプリケーションのオーナーが期限になるユーザトークンをアプリケーションに対して有効化した場合にのみ、この新しいフローの影響を受けます。
 

@@ -26,17 +26,17 @@ Você pode atribuir até 10 pessoas a cada problema ou pull request, incluindo a
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 3. Abra o problema ou pull request que você deseja atribuir a alguém.
-4. Se ninguém for atribuído a um problema ou pull request, clique em **atribuir a você mesmo** para atribuir para você mesmo. ![O item de atribuir a si mesmo](/assets/images/help/issues/assign_yourself.png)
-5. No menu do lado direito, clique em **Responsáveis**. ![O item de menu Responsáveis](/assets/images/help/issues/assignee_menu.png)
-6. Para atribuir o problema ou pull request a um usuário, comece a digitar seu nome de usuário e clique no nome quando aparecer. É possível selecionar e adicionar até dez responsáveis a um problema ou uma pull request. ![Menu suspenso de atribuição de problemas](/assets/images/help/issues/issues_assigning_dropdown.png)
+4. Se ninguém for atribuído a um problema ou pull request, clique em **atribuir a você mesmo** para atribuir para você mesmo. ![O item de atribuir a si mesmo](/assets/images/2021/10/help/issues/assign_yourself.png)
+5. No menu do lado direito, clique em **Responsáveis**. ![O item de menu Responsáveis](/assets/images/2021/10/help/issues/assignee_menu.png)
+6. Para atribuir o problema ou pull request a um usuário, comece a digitar seu nome de usuário e clique no nome quando aparecer. É possível selecionar e adicionar até dez responsáveis a um problema ou uma pull request. ![Menu suspenso de atribuição de problemas](/assets/images/2021/10/help/issues/issues_assigning_dropdown.png)
 
 ## Atribuir múltiplos problemas ou pull requests
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. Marque a caixa de seleção ao lado dos itens que deseja atribuir a alguém. ![Caixa de seleção de metadados de problemas](/assets/images/help/issues/issues_assign_checkbox.png)
+3. Marque a caixa de seleção ao lado dos itens que deseja atribuir a alguém. ![Caixa de seleção de metadados de problemas](/assets/images/2021/10/help/issues/issues_assign_checkbox.png)
 4. No canto superior direito, clique em **Atribuir**.
-5. Para atribuir os itens a um usuário, comece a digitar o nome de usuário e clique nele quando ele aparecer. É possível selecionar e adicionar até dez responsáveis a um problema ou uma pull request. ![Menu suspenso de atribuição de problemas](/assets/images/help/issues/issues_assigning_dropdown.png)
+5. Para atribuir os itens a um usuário, comece a digitar o nome de usuário e clique nele quando ele aparecer. É possível selecionar e adicionar até dez responsáveis a um problema ou uma pull request. ![Menu suspenso de atribuição de problemas](/assets/images/2021/10/help/issues/issues_assigning_dropdown.png)
 
 ## Leia mais
 

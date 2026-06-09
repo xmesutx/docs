@@ -1,1 +1,1 @@
-1. En la barra lateral izquierda, debajo de la información de perfil del usuario, haz clic en **Bloquear o reportar**. ![Bloquear o reportar el enlace](/assets/images/help/profile/profile-block-or-report-button.png)
+1. En la barra lateral izquierda, debajo de la información de perfil del usuario, haz clic en **Bloquear o reportar**. ![Bloquear o reportar el enlace](/assets/images/2021/10/help/profile/profile-block-or-report-button.png)

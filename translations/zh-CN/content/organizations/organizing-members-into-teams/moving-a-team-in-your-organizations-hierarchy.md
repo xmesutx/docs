@@ -32,12 +32,12 @@ shortTitle: 移动团队
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. 在团队列表中，单击您要更改其父团队的团队名称。 ![组织的团队列表](/assets/images/help/teams/click-team-name.png)
+4. 在团队列表中，单击您要更改其父团队的团队名称。 ![组织的团队列表](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
-6. 使用下拉菜单选择父团队，要删除现有团队，则选择 **Clear selected value（清除所选值）**。 ![列出组织团队的下拉菜单](/assets/images/help/teams/choose-parent-team.png)
+6. 使用下拉菜单选择父团队，要删除现有团队，则选择 **Clear selected value（清除所选值）**。 ![列出组织团队的下拉菜单](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. 单击 **Update（更新）**。
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. 单击 **Confirm new parent team（确认新的父团队）**。 ![包含仓库访问权限更改相关信息的模态框](/assets/images/help/teams/confirm-new-parent-team.png)
+9. 单击 **Confirm new parent team（确认新的父团队）**。 ![包含仓库访问权限更改相关信息的模态框](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## 延伸阅读
 

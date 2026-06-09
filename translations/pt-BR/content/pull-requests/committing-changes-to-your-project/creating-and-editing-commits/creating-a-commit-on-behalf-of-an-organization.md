@@ -57,11 +57,11 @@ O novo commit, mensagem e selo aparecerão no {% data variables.product.product_
 
 Depois que fizer alterações em um arquivo usando um editor web no {% data variables.product.product_name %}, você poderá criar um commit em nome da sua organização adicionando um trailer `on-behalf-of:` à mensagem do commit.
 
-1. Depois de fazer as alterações, na parte inferior da página, digite uma mensagem de commit curta e significativa que descreve as alterações feitas. ![Mensagem do commit para sua alteração](/assets/images/help/repository/write-commit-message-quick-pull.png)
+1. Depois de fazer as alterações, na parte inferior da página, digite uma mensagem de commit curta e significativa que descreve as alterações feitas. ![Mensagem do commit para sua alteração](/assets/images/2021/10/help/repository/write-commit-message-quick-pull.png)
 
 2. Na caixa de texto abaixo da mensagem do commit, adicione `on-behalf-of: @org <name@organization.com>`.
 
-  ![Exemplo de trailer on-behalf-of da mensagem do commit na segunda caixa de texto da mensagem do commit](/assets/images/help/repository/write-commit-message-on-behalf-of-trailer.png)
+  ![Exemplo de trailer on-behalf-of da mensagem do commit na segunda caixa de texto da mensagem do commit](/assets/images/2021/10/help/repository/write-commit-message-on-behalf-of-trailer.png)
 4. Clique em **Commit changes** (Fazer commit de alterações) ou **Propose changes** (Propor alterações).
 
 O novo commit, mensagem e selo aparecerão no {% data variables.product.product_location %}.

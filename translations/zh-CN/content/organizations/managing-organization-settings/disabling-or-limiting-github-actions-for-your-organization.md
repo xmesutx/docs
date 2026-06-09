@@ -40,7 +40,7 @@ shortTitle: 禁用或限制操作
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.settings-sidebar-actions %}
-1. 在 **Policies（策略）**下，选择一个选项。 ![设置此组织的操作策略](/assets/images/help/organizations/actions-policy.png)
+1. 在 **Policies（策略）**下，选择一个选项。 ![设置此组织的操作策略](/assets/images/2021/10/help/organizations/actions-policy.png)
 1. 单击 **Save（保存）**。
 
 ## 允许特定操作运行
@@ -52,9 +52,9 @@ shortTitle: 禁用或限制操作
 {% data reusables.organizations.settings-sidebar-actions %}
 1. 在 **Policies（策略）**下，选择 **Allow select actions（允许选择操作）**并将所需操作添加到列表中。
    {%- ifversion ghes %}
-   ![添加操作到允许列表](/assets/images/help/organizations/actions-policy-allow-list.png)
+   ![添加操作到允许列表](/assets/images/2021/10/help/organizations/actions-policy-allow-list.png)
    {%- else %}
-   ![添加操作到允许列表](/assets/images/enterprise/github-ae/organizations/actions-policy-allow-list.png)
+   ![添加操作到允许列表](/assets/images/2021/10/enterprise/github-ae/organizations/actions-policy-allow-list.png)
    {%- endif %}
 1. 单击 **Save（保存）**。
 
@@ -105,6 +105,6 @@ shortTitle: 禁用或限制操作
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.settings-sidebar-actions %}
-1. 在 **Workflow permissions（工作流程权限）**下，选择您是否想要 `GITHUB_TOKENN` 读写所有范围限， 或者只读`内容`范围。 ![为此组织设置 GITHUB_TOKENN 权限](/assets/images/help/settings/actions-workflow-permissions-organization.png)
+1. 在 **Workflow permissions（工作流程权限）**下，选择您是否想要 `GITHUB_TOKENN` 读写所有范围限， 或者只读`内容`范围。 ![为此组织设置 GITHUB_TOKENN 权限](/assets/images/2021/10/help/settings/actions-workflow-permissions-organization.png)
 1. 单击 **Save（保存）**以应用设置。
 {% endif %}

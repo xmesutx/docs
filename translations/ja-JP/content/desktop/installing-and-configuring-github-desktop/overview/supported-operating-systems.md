@@ -26,8 +26,8 @@ macOS で {% data variables.product.prodname_desktop %} を使用して問題が
 このエラーのトラブルシューティングを行うには、次のステップを実行します。
 
 1. 「Keychain Access」アプリケーションを開きます。
-2. [**login**] を右クリックして、[**Lock Keychain "login"**] をクリックします。 !["Lock Keychain "login" オプション](/assets/images/help/desktop/mac-lock-keychain.png)
-3. [**login**] を右クリックして、[**Unlock Keychain "login"**] をクリックします。 画面の指示に従って、Keychain "login" のロック解除を完了します。 !["Unlock Keychain "login" オプション](/assets/images/help/desktop/mac-unlock-keychain.png)
+2. [**login**] を右クリックして、[**Lock Keychain "login"**] をクリックします。 !["Lock Keychain "login" オプション](/assets/images/2021/10/help/desktop/mac-lock-keychain.png)
+3. [**login**] を右クリックして、[**Unlock Keychain "login"**] をクリックします。 画面の指示に従って、Keychain "login" のロック解除を完了します。 !["Unlock Keychain "login" オプション](/assets/images/2021/10/help/desktop/mac-unlock-keychain.png)
 4. {% data variables.product.prodname_dotcom %} または {% data variables.product.prodname_enterprise %} でアカウントを再認証します。
 
 ### アップデート確認時のエラー：`Could not create temporary directory: Permission denied`（一時ディレクトリを作成できませんでした：権限が拒否されました）
@@ -40,7 +40,7 @@ macOS で {% data variables.product.prodname_desktop %} を使用して問題が
 2. 「Finder」を開き、`~/Library/Caches/` に移動します。
 3. `com.github.GitHubClient.ShipIt` を右クリックし、[**Get Info**] をクリックします。
 4. [Sharing & Permissions] の左にある矢印をクリックします。
-5. ユーザアカウントの右にある権限に「Read & Write」と表示されていない場合は、テキストをクリックして、[**Read & Write**] をクリックします。 !["Sharing & Permissions" オプション](/assets/images/help/desktop/mac-adjust-permissions.png)
+5. ユーザアカウントの右にある権限に「Read & Write」と表示されていない場合は、テキストをクリックして、[**Read & Write**] をクリックします。 !["Sharing & Permissions" オプション](/assets/images/2021/10/help/desktop/mac-adjust-permissions.png)
 6. {% data variables.product.prodname_desktop %} を開き、更新を確認します。
 
 ## Windows に関する問題のトラブルシューティング

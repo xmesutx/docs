@@ -240,7 +240,7 @@ jobs:
           echo The result is $value
 ```
 
-A execução do fluxo de trabalho arquivará quaisquer artefatos gerados por ele. Para obter mais informações sobre o download de artefatos arquivados, consulte "[Fazer download dos artefatos de fluxo de trabalho](/actions/managing-workflow-runs/downloading-workflow-artifacts)". ![Fluxo de trabalho que transmite dados entre trabalhos para executar cálculos matemáticos](/assets/images/help/repository/passing-data-between-jobs-in-a-workflow-updated.png)
+A execução do fluxo de trabalho arquivará quaisquer artefatos gerados por ele. Para obter mais informações sobre o download de artefatos arquivados, consulte "[Fazer download dos artefatos de fluxo de trabalho](/actions/managing-workflow-runs/downloading-workflow-artifacts)". ![Fluxo de trabalho que transmite dados entre trabalhos para executar cálculos matemáticos](/assets/images/2021/10/help/repository/passing-data-between-jobs-in-a-workflow-updated.png)
 
 {% ifversion fpt or ghec %}
 

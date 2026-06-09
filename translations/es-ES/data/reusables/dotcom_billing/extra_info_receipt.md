@@ -1,2 +1,2 @@
-1. Dentro de "Información de pago", en "Información adicional", haz clic en **Add information (Agregar información)**. ![Botón de información adicional de facturación](/assets/images/help/billing/settings_billing_add_billing_extra.png)
-1. Escribe la información adicional que deseas en tu recibo y haz clic en **Save contact information (Guardar información de contacto)**. ![Campo de información de contacto](/assets/images/help/settings/Billing-extra-info-field.png)
+1. Dentro de "Información de pago", en "Información adicional", haz clic en **Add information (Agregar información)**. ![Botón de información adicional de facturación](/assets/images/2021/10/help/billing/settings_billing_add_billing_extra.png)
+1. Escribe la información adicional que deseas en tu recibo y haz clic en **Save contact information (Guardar información de contacto)**. ![Campo de información de contacto](/assets/images/2021/10/help/settings/Billing-extra-info-field.png)

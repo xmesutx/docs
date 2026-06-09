@@ -43,7 +43,7 @@ Enterprise アカウントで Organization に対して許可される IP アド
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-1. [IP allow list] で、「**Enable IP allow list**」を選択します。 ![IP アドレスを許可するチェックボックス](/assets/images/help/security/enable-ip-allowlist-organization-checkbox.png)
+1. [IP allow list] で、「**Enable IP allow list**」を選択します。 ![IP アドレスを許可するチェックボックス](/assets/images/2021/10/help/security/enable-ip-allowlist-organization-checkbox.png)
 1. [**Save**] をクリックします。
 
 ## {% data variables.product.prodname_github_apps %}によるアクセスの許可
@@ -59,7 +59,7 @@ Enterprise アカウントで Organization に対して許可される IP アド
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-1. "IP allow list（IP許可リスト）"の下で、**Enable IP allow list configuration for installed GitHub Apps（インストールされたGitHub AppsのIP許可リスト設定の有効化）**を選択してください。 ![GitHub AppにIPアドレスを許可するチェックボックス](/assets/images/help/security/enable-ip-allowlist-githubapps-checkbox.png)
+1. "IP allow list（IP許可リスト）"の下で、**Enable IP allow list configuration for installed GitHub Apps（インストールされたGitHub AppsのIP許可リスト設定の有効化）**を選択してください。 ![GitHub AppにIPアドレスを許可するチェックボックス](/assets/images/2021/10/help/security/enable-ip-allowlist-githubapps-checkbox.png)
 1. [**Save**] をクリックします。
 
 ## 許可 IP アドレスを編集する

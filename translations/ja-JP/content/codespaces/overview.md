@@ -24,7 +24,7 @@ A codespace is a development environment that's hosted in the cloud. You can cus
 
 {% data variables.product.prodname_codespaces %} run on a variety of VM-based compute options hosted by {% data variables.product.product_location %}, which you can configure from 2 core machines up to 32 core machines. You can connect to your codespaces from the browser or locally using {% data variables.product.prodname_vscode %}.
 
-![A diagram showing how {% data variables.product.prodname_codespaces %} works](/assets/images/help/codespaces/codespaces-diagram.png)
+![A diagram showing how {% data variables.product.prodname_codespaces %} works](/assets/images/2021/10/help/codespaces/codespaces-diagram.png)
 
 ## Using Codespaces
 

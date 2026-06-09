@@ -25,7 +25,7 @@ function test() {
 ```
 </pre>
 
-![Bloco de código isolado renderizado](/assets/images/help/writing/fenced-code-block-rendered.png)
+![Bloco de código isolado renderizado](/assets/images/2021/10/help/writing/fenced-code-block-rendered.png)
 
 {% tip %}
 
@@ -44,7 +44,7 @@ Look! Você pode ver minhas aspas.
 ````
 </pre>
 
-![Código isolado interpretado como um bloco de aspas inversas](/assets/images/help/writing/fenced-code-show-backticks-rendered.png)
+![Código isolado interpretado como um bloco de aspas inversas](/assets/images/2021/10/help/writing/fenced-code-show-backticks-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -63,7 +63,7 @@ Por exemplo, para código Ruby do realce de sintaxe:
     coloca markdown.to_html
     ```
 
-![Bloco de código renderizado com realce de sintaxe Ruby](/assets/images/help/writing/code-block-syntax-highlighting-rendered.png)
+![Bloco de código renderizado com realce de sintaxe Ruby](/assets/images/2021/10/help/writing/code-block-syntax-highlighting-rendered.png)
 
 Usamos [Linguist](https://github.com/github/linguist) para executar a detecção de linguagem e selecionar [gramáticas de terceiros](https://github.com/github/linguist/blob/master/vendor/README.md) para realce de sintaxe. Você pode descobrir quais palavras-chave são válidas no [arquivo YAML de linguagem](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 

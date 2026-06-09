@@ -64,7 +64,7 @@ For more information, see the [Citation File Format](https://citation-file-forma
 
 When you add a `CITATION.cff` file to the default branch of your repository, it is automatically linked from the repository landing page. This makes it easy for other users to cite your software project, using the information you've provided.
 
-![Citation link on repository landing page](/assets/images/help/repository/citation-link.png)
+![Citation link on repository landing page](/assets/images/2021/10/help/repository/citation-link.png)
 
 ## Citing something other than software
 

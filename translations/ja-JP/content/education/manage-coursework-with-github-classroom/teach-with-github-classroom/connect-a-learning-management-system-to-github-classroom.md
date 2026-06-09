@@ -49,9 +49,9 @@ LTIは、情報の安全性と機密性を保つために役立ちます。 LTI�
 1. クラスルームに既に名簿がある場合は、その名簿を更新するか、その名簿を削除して新しい名簿を作成できます。
     - 名簿の削除や作成に関する詳細については、「[クラスルームの名簿を削除する](/education/manage-coursework-with-github-classroom/manage-classrooms#deleting-a-roster-for-a-classroom)」および「[クラスルームの名簿を作成する](/education/manage-coursework-with-github-classroom/manage-classrooms#creating-a-roster-for-your-classroom)」を参照してください。
     - 名簿の更新に関する詳細については、「[クラスルームの名簿に学生を追加する](/education/manage-coursework-with-github-classroom/manage-classrooms#adding-students-to-the-roster-for-your-classroom)」を参照してください。
-1. LMSのリストの中から、お使いのLMSをクリックします。 お使いのLMSがサポートされていない場合、[**Other LMS**] をクリックします。 ![LMSのリスト](/assets/images/help/classroom/classroom-settings-click-lms.png)
+1. LMSのリストの中から、お使いのLMSをクリックします。 お使いのLMSがサポートされていない場合、[**Other LMS**] をクリックします。 ![LMSのリスト](/assets/images/2021/10/help/classroom/classroom-settings-click-lms.png)
 1. LMSの接続について読み、[**Connect to _LMS_**] をクリックします。
-1. クラスルームへの接続に用いる、[Consumer Key]、[Shared Secret]、および [Launch URL] をコピーします。 ![認証情報のコピー](/assets/images/help/classroom/classroom-copy-credentials.png)
+1. クラスルームへの接続に用いる、[Consumer Key]、[Shared Secret]、および [Launch URL] をコピーします。 ![認証情報のコピー](/assets/images/2021/10/help/classroom/classroom-copy-credentials.png)
 
 ## 一般的なLMSを設定する
 
@@ -137,5 +137,5 @@ LMSから{% data variables.product.prodname_classroom %}への名簿のインポ
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-settings %}
-1. [Connect to a learning management system (LMS)] の下にある、[**Connection Settings**] をクリックします。 ![クラスルーム設定の [Connection settings]](/assets/images/help/classroom/classroom-settings-click-connection-settings.png)
-1. [Delete Connection to your learning management system] の下にある、[**Disconnect from your learning management system**] をクリックします。 ![クラスルームへの接続設定にある [Disconnect from your learning management system] ボタン](/assets/images/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)
+1. [Connect to a learning management system (LMS)] の下にある、[**Connection Settings**] をクリックします。 ![クラスルーム設定の [Connection settings]](/assets/images/2021/10/help/classroom/classroom-settings-click-connection-settings.png)
+1. [Delete Connection to your learning management system] の下にある、[**Disconnect from your learning management system**] をクリックします。 ![クラスルームへの接続設定にある [Disconnect from your learning management system] ボタン](/assets/images/2021/10/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)

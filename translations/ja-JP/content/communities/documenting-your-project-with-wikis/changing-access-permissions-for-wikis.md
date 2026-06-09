@@ -17,7 +17,7 @@ shortTitle: アクセス許可の変更
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Features] の下で、[**Restrict edits to collaborators only**] の選択を解除します。 ![Wiki の編集制限](/assets/images/help/wiki/wiki_restrict_editing.png)
+3. [Features] の下で、[**Restrict edits to collaborators only**] の選択を解除します。 ![Wiki の編集制限](/assets/images/2021/10/help/wiki/wiki_restrict_editing.png)
 
 ## 参考リンク
 

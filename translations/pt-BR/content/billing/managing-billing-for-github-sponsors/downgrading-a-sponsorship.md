@@ -34,5 +34,5 @@ Ao fazer o downgrade ou cancelar um patrocínio, a alteração entrará em vigor
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
 {% data reusables.sponsors.billing-switcher %}
-3. Em "{% data variables.product.prodname_sponsors %}", à direita de um colaborador de código aberto patrocinado, clique em {% octicon "triangle-down" aria-label="The down triangle octicon" %} ao lado do seu valor patrocinado e depois clique em **Cancel sponsorship** (Cancelar patrocínio). ![Botão Cancel sponsorship (Cancelar patrocínio)](/assets/images/help/billing/edit-sponsor-billing.png)
-4. Revise as informações sobre cancelamento do patrocínio e clique em **OK**. ![Caixa Cancellation confirmation (Confirmação de cancelamento)](/assets/images/help/billing/confirm-sponsorship-cancellation.png)
+3. Em "{% data variables.product.prodname_sponsors %}", à direita de um colaborador de código aberto patrocinado, clique em {% octicon "triangle-down" aria-label="The down triangle octicon" %} ao lado do seu valor patrocinado e depois clique em **Cancel sponsorship** (Cancelar patrocínio). ![Botão Cancel sponsorship (Cancelar patrocínio)](/assets/images/2021/10/help/billing/edit-sponsor-billing.png)
+4. Revise as informações sobre cancelamento do patrocínio e clique em **OK**. ![Caixa Cancellation confirmation (Confirmação de cancelamento)](/assets/images/2021/10/help/billing/confirm-sponsorship-cancellation.png)

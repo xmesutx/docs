@@ -22,5 +22,5 @@ Team の作成権限を設定しなかった場合、デフォルトでは、す
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. [Team creation rules] で、[**Allow members to create teams**] を選択または選択解除します。 ![Team の作成をメンバーに許可するためのチェックボックス](/assets/images/help/organizations/allow-members-to-create-teams.png)
+5. [Team creation rules] で、[**Allow members to create teams**] を選択または選択解除します。 ![Team の作成をメンバーに許可するためのチェックボックス](/assets/images/2021/10/help/organizations/allow-members-to-create-teams.png)
 6. [**Save**] をクリックします。

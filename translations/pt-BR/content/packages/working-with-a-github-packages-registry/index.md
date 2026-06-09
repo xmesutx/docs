@@ -27,7 +27,7 @@ children:
 {% data reusables.package_registry.packages-ghes-release-stage %}
 {% data reusables.package_registry.packages-ghae-release-stage %}
 {% ifversion fpt or ghec %}
-![Diagrama que mostra a compatibilidade dos pacotes com o Docker, registro de contêiner, RubyGems, npm, Apache Maven, NuGet e Gradle](/assets/images/help/package-registry/packages-diagram-with-container-registry.png)
+![Diagrama que mostra a compatibilidade dos pacotes com o Docker, registro de contêiner, RubyGems, npm, Apache Maven, NuGet e Gradle](/assets/images/2021/10/help/package-registry/packages-diagram-with-container-registry.png)
 {% else %}
-![Diagrama que mostra a compatibilidade de pacotes com o Docker, RubyGems, npm, Apache Maven, Gradle, NuGet e Docker](/assets/images/help/package-registry/packages-diagram-without-container-registry.png)
+![Diagrama que mostra a compatibilidade de pacotes com o Docker, RubyGems, npm, Apache Maven, Gradle, NuGet e Docker](/assets/images/2021/10/help/package-registry/packages-diagram-without-container-registry.png)
 {% endif %}

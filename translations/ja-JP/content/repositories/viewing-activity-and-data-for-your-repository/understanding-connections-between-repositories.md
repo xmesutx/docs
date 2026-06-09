@@ -28,7 +28,7 @@ shortTitle: Connections between repositories
 
 ネットワークグラフには、ルートリポジトリのブランチとネットワークに固有のコミットを含むフォークのブランチを含む、リポジトリネットワーク全体のブランチ履歴が表示されます。
 
-![リポジトリネットワークグラフ](/assets/images/help/graphs/repo_network_graph.png)
+![リポジトリネットワークグラフ](/assets/images/2021/10/help/graphs/repo_network_graph.png)
 
 {% tip %}
 
@@ -40,7 +40,7 @@ shortTitle: Connections between repositories
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 左サイドバーで [**Network**] をクリックします。 ![[Network] タブ](/assets/images/help/graphs/network_tab.png)
+3. 左サイドバーで [**Network**] をクリックします。 ![[Network] タブ](/assets/images/2021/10/help/graphs/network_tab.png)
 
 ## リポジトリのフォークをリストする
 
@@ -50,11 +50,11 @@ shortTitle: Connections between repositories
 
 {% ifversion fpt or ghec %}
 
-![リポジトリ メンバーグラフ](/assets/images/help/graphs/repo_forks_graph_dotcom.png)
+![リポジトリ メンバーグラフ](/assets/images/2021/10/help/graphs/repo_forks_graph_dotcom.png)
 
 {% else %}
 
-![リポジトリ メンバーグラフ](/assets/images/help/graphs/repo_members_graph.png)
+![リポジトリ メンバーグラフ](/assets/images/2021/10/help/graphs/repo_members_graph.png)
 
 {% endif %}
 
@@ -62,7 +62,7 @@ shortTitle: Connections between repositories
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 左サイトバーで [**Forks**] をクリックします。 ![[Forks] タブ](/assets/images/help/graphs/graphs-sidebar-forks-tab.png)
+3. 左サイトバーで [**Forks**] をクリックします。 ![[Forks] タブ](/assets/images/2021/10/help/graphs/graphs-sidebar-forks-tab.png)
 
 {% ifversion fpt or ghes or ghae-issue-4864 or ghec %}
 ## リポジトリの依存関係を表示する

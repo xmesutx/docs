@@ -17,9 +17,9 @@ topics:
 shortTitle: Fija una propuesta
 ---
 
-![Propuestas ancladas](/assets/images/help/issues/pinned-issues.png)
+![Propuestas ancladas](/assets/images/2021/10/help/issues/pinned-issues.png)
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 1. En la lista de propuestas, haz clic en la propuesta que deseas anclar.
-2. En la barra lateral derecha, haz clic **Pin issue (Anclar una propuesta)**. ![Botón para anclar una propuesta](/assets/images/help/repository/pin-issue.png)
+2. En la barra lateral derecha, haz clic **Pin issue (Anclar una propuesta)**. ![Botón para anclar una propuesta](/assets/images/2021/10/help/repository/pin-issue.png)

@@ -21,9 +21,9 @@ shortTitle: Crear un debate de equipo
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-discussions-tab %}
-6. Escribe un título para el debate del equipo y agrega un comentario para iniciar una conversación. ![Nuevo comentario de los debates del equipo](/assets/images/help/projects/team-discussions-comment.png)
-7. También puedes seleccionar si deseas que tu publicación sea privada o pública usando el menú desplegable.![Menú de parámetros de privacidad de los debates del equipo](/assets/images/help/projects/team-discussions-privacy-menu.png)
-8. Da clic en **Comentar**. ![Botón Crear nuevo comentario de los debates del equipo](/assets/images/help/projects/team-discussions-comment-button.png)
+6. Escribe un título para el debate del equipo y agrega un comentario para iniciar una conversación. ![Nuevo comentario de los debates del equipo](/assets/images/2021/10/help/projects/team-discussions-comment.png)
+7. También puedes seleccionar si deseas que tu publicación sea privada o pública usando el menú desplegable.![Menú de parámetros de privacidad de los debates del equipo](/assets/images/2021/10/help/projects/team-discussions-privacy-menu.png)
+8. Da clic en **Comentar**. ![Botón Crear nuevo comentario de los debates del equipo](/assets/images/2021/10/help/projects/team-discussions-comment-button.png)
 
 ## Leer más
 

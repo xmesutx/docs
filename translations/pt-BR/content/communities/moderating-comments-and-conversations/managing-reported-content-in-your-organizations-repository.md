@@ -28,14 +28,14 @@ Depois de terminar a moderação do conteúdo disruptivo, você pode marcar o re
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
-4. À direita do conteúdo relatado que você deseja visualizar, clique em {% octicon "kebab-horizontal" aria-label="The edit icon" %}, em seguida, clique em **Visualizar conteúdo**. !["Visualizar conteúdo" no menu suspenso Editar para conteúdo denunciado](/assets/images/help/repository/reported-content-report-view-content.png)
+4. À direita do conteúdo relatado que você deseja visualizar, clique em {% octicon "kebab-horizontal" aria-label="The edit icon" %}, em seguida, clique em **Visualizar conteúdo**. !["Visualizar conteúdo" no menu suspenso Editar para conteúdo denunciado](/assets/images/2021/10/help/repository/reported-content-report-view-content.png)
 
 ## Resolvendo um relatório
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
-4. À direita do relatório que você deseja resolver, clique em {% octicon "kebab-horizontal" aria-label="The edit icon" %}, em seguida, clique em **Marcar como resolvido**. !["Marcar como resolvido" no menu suspenso Editar para conteúdo denunciado](/assets/images/help/repository/reported-content-mark-report-as-resolved.png)
+4. À direita do relatório que você deseja resolver, clique em {% octicon "kebab-horizontal" aria-label="The edit icon" %}, em seguida, clique em **Marcar como resolvido**. !["Marcar como resolvido" no menu suspenso Editar para conteúdo denunciado](/assets/images/2021/10/help/repository/reported-content-mark-report-as-resolved.png)
 
 ## Marcando um relatório como não resolvido
 
@@ -43,7 +43,7 @@ Depois de terminar a moderação do conteúdo disruptivo, você pode marcar o re
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
 {% data reusables.repositories.reported-content-resolved-tab %}
-5. À direita do relatório que você deseja marcar como não resolvido, clique em {% octicon "kebab-horizontal" aria-label="The edit icon" %}, em seguida, clique em **Marcar como não resolvido**. !["Marcar como não resolvido" no menu suspenso Editar para conteúdo denunciado](/assets/images/help/repository/reported-content-mark-report-as-unresolved.png)
+5. À direita do relatório que você deseja marcar como não resolvido, clique em {% octicon "kebab-horizontal" aria-label="The edit icon" %}, em seguida, clique em **Marcar como não resolvido**. !["Marcar como não resolvido" no menu suspenso Editar para conteúdo denunciado](/assets/images/2021/10/help/repository/reported-content-mark-report-as-unresolved.png)
 
 ## Leia mais
 

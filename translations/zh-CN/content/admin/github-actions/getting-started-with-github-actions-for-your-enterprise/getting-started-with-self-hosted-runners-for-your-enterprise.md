@@ -55,10 +55,10 @@ First, enable {% data variables.product.prodname_actions %} for all organization
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Under "Policies", select **Enable for all organizations**.
 
-   ![Screenshot of "Enable for all organizations" policy for {% data variables.product.prodname_actions %}](/assets/images/help/settings/actions-policy-enable-for-all-organizations.png)
+   ![Screenshot of "Enable for all organizations" policy for {% data variables.product.prodname_actions %}](/assets/images/2022/03/help/settings/actions-policy-enable-for-all-organizations.png)
 1. Select **Allow select actions** and **Allow actions created by GitHub** to allow local actions and actions created by {% data variables.product.company_short %}.
 
-   ![Screenshot of "Allow select actions" and "Allow actions created by {% data variables.product.company_short %}" for {% data variables.product.prodname_actions %}](/assets/images/help/settings/actions-policy-allow-select-actions-and-actions-from-github.png)
+   ![Screenshot of "Allow select actions" and "Allow actions created by {% data variables.product.company_short %}" for {% data variables.product.prodname_actions %}](/assets/images/2022/03/help/settings/actions-policy-allow-select-actions-and-actions-from-github.png)
 1. 单击 **Save（保存）**。
 
 You can configure additional policies to restrict the actions available to {% ifversion ghec or ghae %}enterprise members{% elsif ghes %}users of {% data variables.product.product_location %}{% endif %}. 更多信息请参阅“[在企业中执行 {% data variables.product.prodname_actions %} 的策略](/admin/policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-actions-in-your-enterprise#allowing-select-actions-to-run)”。

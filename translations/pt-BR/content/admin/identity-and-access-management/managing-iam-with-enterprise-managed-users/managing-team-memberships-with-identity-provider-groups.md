@@ -41,7 +41,7 @@ Qualquer integrante de uma organização pode criar uma nova equipe e conectar a
 {% data reusables.organizations.new_team %}
 {% data reusables.organizations.team_name %}
 {% data reusables.organizations.team_description %}
-1. Para conectar uma equipe, selecione o menu suspenso "Grupos de Fornecedores de Identidade" e clique na equipe que você deseja se conectar. ![Menu suspenso para escolher grupos de provedores de identidade](/assets/images/help/teams/choose-an-idp-group.png)
+1. Para conectar uma equipe, selecione o menu suspenso "Grupos de Fornecedores de Identidade" e clique na equipe que você deseja se conectar. ![Menu suspenso para escolher grupos de provedores de identidade](/assets/images/2021/10/help/teams/choose-an-idp-group.png)
 {% data reusables.organizations.team_visibility %}
 {% data reusables.organizations.create_team %}
 
@@ -60,8 +60,8 @@ Os proprietários da organização e mantenedores de equipe podem gerenciar a co
 {% data reusables.profile.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-1. Opcionalmente, em "Grupo de Provedores de Identidade", à direita do grupo do IdP que deseja desconectar, clique em {% octicon "x" aria-label="X symbol" %}. ![Cancelar a seleção de um grupo de IdP conectado da equipe do GitHub](/assets/images/enterprise/github-ae/teams/unselect-idp-group.png)
-1. Para conectar um grupo de IdP, em "Grupo de Fornecedores de Identidade", selecione o menu suspenso e clique em um grupo de provedores de identidade da lista. ![Menu suspenso para escolher grupo de provedores de identidade](/assets/images/enterprise/github-ae/teams/choose-an-idp-group.png)
+1. Opcionalmente, em "Grupo de Provedores de Identidade", à direita do grupo do IdP que deseja desconectar, clique em {% octicon "x" aria-label="X symbol" %}. ![Cancelar a seleção de um grupo de IdP conectado da equipe do GitHub](/assets/images/2021/10/enterprise/github-ae/teams/unselect-idp-group.png)
+1. Para conectar um grupo de IdP, em "Grupo de Fornecedores de Identidade", selecione o menu suspenso e clique em um grupo de provedores de identidade da lista. ![Menu suspenso para escolher grupo de provedores de identidade](/assets/images/2021/10/enterprise/github-ae/teams/choose-an-idp-group.png)
 1. Clique em **Save changes** (Salvar alterações).
 
 ## Visualizando grupos de IdP, associações de grupo e equipes conectadas
@@ -69,6 +69,6 @@ Os proprietários da organização e mantenedores de equipe podem gerenciar a co
 Você pode revisar uma lista de grupos de IdP, ver todas as equipes conectadas a um grupo de IdP, e ver a associação de cada grupo IdP no {% data variables.product.product_name %}. Você deve editar a associação de um grupo no seu IdP.
 
 {% data reusables.enterprise-accounts.access-enterprise %}
-1. Para revisar uma lista de grupos de IdP, na barra lateral esquerda, clique em {% octicon "key" aria-label="The key icon" %} **Provedor de Identidade**. ![Captura de tela que mostra a aba "Provedor de identidade" na barra lateral da empresa](/assets/images/help/enterprises/enterprise-account-identity-provider-tab.png)
-2. Para ver os integrantes e equipes conectados a um grupo do IdP, clique no nome do grupo. ![Captura de tela que mostra a lista de grupos IdP, o nome do grupo está destacado](/assets/images/help/enterprises/select-idp-group.png)
-4. Para visualizar as equipes conectadas ao grupo do IdP, clique em **Equipes**. ![Captura de tela que mostra o botão "Equipes"](/assets/images/help/enterprises/idp-groups-team-switcher.png)
+1. Para revisar uma lista de grupos de IdP, na barra lateral esquerda, clique em {% octicon "key" aria-label="The key icon" %} **Provedor de Identidade**. ![Captura de tela que mostra a aba "Provedor de identidade" na barra lateral da empresa](/assets/images/2021/10/help/enterprises/enterprise-account-identity-provider-tab.png)
+2. Para ver os integrantes e equipes conectados a um grupo do IdP, clique no nome do grupo. ![Captura de tela que mostra a lista de grupos IdP, o nome do grupo está destacado](/assets/images/2022/01/help/enterprises/select-idp-group.png)
+4. Para visualizar as equipes conectadas ao grupo do IdP, clique em **Equipes**. ![Captura de tela que mostra o botão "Equipes"](/assets/images/2022/01/help/enterprises/idp-groups-team-switcher.png)

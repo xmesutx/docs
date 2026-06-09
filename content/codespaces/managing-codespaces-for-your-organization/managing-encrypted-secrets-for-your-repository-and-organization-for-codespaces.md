@@ -60,7 +60,7 @@ When creating a secret in an organization, you can use a policy to limit which r
 3. Type a name for your secret in the **Name** input box.
 4. Enter the **Value** for your secret.
 5. From the **Repository access** dropdown list, choose an access policy.
-    ![Repository Access list with private repositories selected](/assets/images/help/codespaces/secret-repository-access.png)
+    ![Repository Access list with private repositories selected](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 6. Click **Add secret**.
 
 ## Reviewing access to organization-level secrets
@@ -71,7 +71,7 @@ You can check which access policies are applied to a secret in your organization
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
 1. The list of secrets includes any configured permissions and policies. For example:
-![Secrets list](/assets/images/help/settings/actions-org-secrets-list.png)
+![Secrets list](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. For more details on the configured permissions for each secret, click **Update**.
 
 ## Further reading

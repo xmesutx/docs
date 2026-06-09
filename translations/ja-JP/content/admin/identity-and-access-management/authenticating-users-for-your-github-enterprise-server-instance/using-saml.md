@@ -101,13 +101,13 @@ To specify more than one value for an attribute, use multiple `<saml2:AttributeV
 {% data reusables.enterprise_management_console.authentication %}
 1. **SAML**を選択してください。
 
-   ![Screenshot of option to enable SAML authentication in management console](/assets/images/enterprise/management-console/auth-select-saml.png)
+   ![Screenshot of option to enable SAML authentication in management console](/assets/images/2021/10/enterprise/management-console/auth-select-saml.png)
 1. {% data reusables.enterprise_user_management.built-in-authentication-option %}
 
-   ![Screenshot of option to enable built-in authentication outside of SAML IdP](/assets/images/enterprise/management-console/saml-built-in-authentication.png)
+   ![Screenshot of option to enable built-in authentication outside of SAML IdP](/assets/images/2021/10/enterprise/management-console/saml-built-in-authentication.png)
 1. オプションで、未承諾応答SSOを有効化する場合は [**IdP initiated SSO**] を選択します。 デフォルトでは、{% data variables.product.prodname_ghe_server %}は未承認アイデンティティプロバイダ (IdP) 起点のリクエストに対して、IdPへの`AuthnRequest`返信で応答します。
 
-   ![Screenshot of option to enable IdP-initiated unsolicited response](/assets/images/enterprise/management-console/saml-idp-sso.png)
+   ![Screenshot of option to enable IdP-initiated unsolicited response](/assets/images/2021/10/enterprise/management-console/saml-idp-sso.png)
 
    {% tip %}
 
@@ -117,10 +117,10 @@ To specify more than one value for an attribute, use multiple `<saml2:AttributeV
 
 1. {% data variables.product.product_location %} 上のユーザの管理者権限を SAML プロバイダに決めさせたく**ない**場合、[**Disable administrator demotion/promotion**] を選択します。
 
-   ![Screenshot of option to enable option to respect the "administrator" attribute from the IdP to enable or disable administrative rights](/assets/images/enterprise/management-console/disable-admin-demotion-promotion.png)
+   ![Screenshot of option to enable option to respect the "administrator" attribute from the IdP to enable or disable administrative rights](/assets/images/2021/10/enterprise/management-console/disable-admin-demotion-promotion.png)
 1. Optionally, to allow {% data variables.product.product_location %} to send and receive encrypted assertions to and from your SAML IdP, select **Require encrypted assertions**. For more information, see "[Enabling encrypted assertions](#enabling-encrypted-assertions)."
 
-   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/help/saml/management-console-enable-encrypted-assertions.png)
+   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/2022/02/help/saml/management-console-enable-encrypted-assertions.png)
 
    {% warning %}
 
@@ -133,19 +133,19 @@ To specify more than one value for an attribute, use multiple `<saml2:AttributeV
    {% endwarning %}
 1. In the **Single sign-on URL** field, type the HTTP or HTTPS endpoint on your IdP for single sign-on requests. この値はIdpの設定によって決まります。 If the host is only available from your internal network, you may need to [configure {% data variables.product.product_location %} to use internal nameservers](/enterprise/{{ currentVersion }}/admin/guides/installation/configuring-dns-nameservers/).
 
-   ![Screenshot of text field for single sign-on URL](/assets/images/enterprise/management-console/saml-single-sign-url.png)
+   ![Screenshot of text field for single sign-on URL](/assets/images/2021/10/enterprise/management-console/saml-single-sign-url.png)
 1. Optionally, in the **Issuer** field, type your SAML issuer's name. This verifies the authenticity of messages sent to {% data variables.product.product_location %}.
 
-   ![Screenshot of text field for SAML issuer URL](/assets/images/enterprise/management-console/saml-issuer.png)
+   ![Screenshot of text field for SAML issuer URL](/assets/images/2021/10/enterprise/management-console/saml-issuer.png)
 1. In the **Signature Method** and **Digest Method** drop-down menus, choose the hashing algorithm used by your SAML issuer to verify the integrity of the requests from {% data variables.product.product_location %}. Specify the format with the **Name Identifier Format** drop-down menu.
 
-   ![Screenshot of drop-down menus to select signature and digest method](/assets/images/enterprise/management-console/saml-method.png)
+   ![Screenshot of drop-down menus to select signature and digest method](/assets/images/2021/10/enterprise/management-console/saml-method.png)
 1. [**Verification certificate**] の下で、[**Choose File**] をクリックし、IdP からの SAML のレスポンスを検証するための証明書を選択してください。
 
-   ![Screenshot of button for uploading validation certificate from IdP](/assets/images/enterprise/management-console/saml-verification-cert.png)
+   ![Screenshot of button for uploading validation certificate from IdP](/assets/images/2021/10/enterprise/management-console/saml-verification-cert.png)
 1. Modify the SAML attribute names to match your IdP if needed, or accept the default names.
 
-   ![Screenshot of fields for entering additional SAML attributes](/assets/images/enterprise/management-console/saml-attributes.png)
+   ![Screenshot of fields for entering additional SAML attributes](/assets/images/2021/10/enterprise/management-console/saml-attributes.png)
 
 {% ifversion ghes > 3.3 %}
 
@@ -174,13 +174,13 @@ To enable encrypted assertions, your SAML IdP must also support encrypted assert
 {% data reusables.enterprise_management_console.authentication %}
 1. Select **Require encrypted assertions**.
 
-   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/help/saml/management-console-enable-encrypted-assertions.png)
+   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/2022/02/help/saml/management-console-enable-encrypted-assertions.png)
 1. To the right of "Encryption Method", select the encryption method for your IdP from step 5.
 
-   ![Screenshot of "Encryption Method" for encrypted assertions](/assets/images/help/saml/management-console-encrypted-assertions-encryption-method.png)
+   ![Screenshot of "Encryption Method" for encrypted assertions](/assets/images/2022/02/help/saml/management-console-encrypted-assertions-encryption-method.png)
 1. To the right of "Key Transport Method", select the key transport method for your IdP from step 5.
 
-   ![Screenshot of "Key Transport Method" for encrypted assertions](/assets/images/help/saml/management-console-encrypted-assertions-key-transport-method.png)
+   ![Screenshot of "Key Transport Method" for encrypted assertions](/assets/images/2022/02/help/saml/management-console-encrypted-assertions-key-transport-method.png)
 1. **Save settings（設定の保存）**をクリックしてください。
 {% data reusables.enterprise_site_admin_settings.wait-for-configuration-run %}
 
@@ -189,12 +189,12 @@ To enable encrypted assertions, your SAML IdP must also support encrypted assert
 ## Updating a user's SAML `NameID`
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-2. **SAML**を選択してください。 ![サイト管理者設定の "All users" サイドバー項目](/assets/images/enterprise/site-admin-settings/all-users.png)
-3. ユーザーのリストで、`NameID` マッピングを更新するユーザ名をクリックします。 ![インスタンスユーザアカウントのリストにあるユーザ名](/assets/images/enterprise/site-admin-settings/all-users-click-username.png)
+2. **SAML**を選択してください。 ![サイト管理者設定の "All users" サイドバー項目](/assets/images/2021/10/enterprise/site-admin-settings/all-users.png)
+3. ユーザーのリストで、`NameID` マッピングを更新するユーザ名をクリックします。 ![インスタンスユーザアカウントのリストにあるユーザ名](/assets/images/2021/10/enterprise/site-admin-settings/all-users-click-username.png)
 {% data reusables.enterprise_site_admin_settings.security-tab %}
-5. [Update SAML NameID] の右にある [**Edit**] アイコンをクリックします。 ![SAML認証](/assets/images/enterprise/site-admin-settings/update-saml-nameid-edit.png)
-6. [NameID] フィールドに、ユーザの新しい `NameID` を入力します。 ![入力済みの NameID を含むモーダルダイアログの "NameID" フィールド](/assets/images/enterprise/site-admin-settings/update-saml-nameid-field-in-modal.png)
-7. [**Update NameID**] をクリックします。 ![モーダル内の更新された NameID 値の下の "Update NameID" ボタン](/assets/images/enterprise/site-admin-settings/update-saml-nameid-update.png)
+5. [Update SAML NameID] の右にある [**Edit**] アイコンをクリックします。 ![SAML認証](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-edit.png)
+6. [NameID] フィールドに、ユーザの新しい `NameID` を入力します。 ![入力済みの NameID を含むモーダルダイアログの "NameID" フィールド](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-field-in-modal.png)
+7. [**Update NameID**] をクリックします。 ![モーダル内の更新された NameID 値の下の "Update NameID" ボタン](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-update.png)
 
 ## {% data variables.product.product_location %}へのアクセスの削除
 

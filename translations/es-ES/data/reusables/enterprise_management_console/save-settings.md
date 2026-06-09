@@ -1,6 +1,6 @@
 1. Debajo de la barra lateral izquierda, da clic en **Guardar configuración**.
 
-   ![Captura de pantalla del botón para guardar los ajustes en la {% data variables.enterprise.management_console %}](/assets/images/enterprise/management-console/save-settings.png)
+   ![Captura de pantalla del botón para guardar los ajustes en la {% data variables.enterprise.management_console %}](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 
    {% note %}
 

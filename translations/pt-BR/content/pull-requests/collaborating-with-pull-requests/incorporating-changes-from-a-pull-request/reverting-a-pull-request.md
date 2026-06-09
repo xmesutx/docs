@@ -34,5 +34,5 @@ Para obter mais informações sobre como usar o Git para reverter manualmente os
 
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista "Pull Requests", clique na pull request que deseja reverter.
-3. Próximo à parte inferior da pull request, clique em **Rever** (Reverter). Se a opção **Reverter** não for exibida, você deverá perguntar ao administrador do repositório sobre as permissões de gravação. ![Link de reversão da pull request](/assets/images/help/pull_requests/revert-pull-request-link.png)
+3. Próximo à parte inferior da pull request, clique em **Rever** (Reverter). Se a opção **Reverter** não for exibida, você deverá perguntar ao administrador do repositório sobre as permissões de gravação. ![Link de reversão da pull request](/assets/images/2021/10/help/pull_requests/revert-pull-request-link.png)
 4. Faça merge da pull request resultante. Para obter mais informações, consulte "[Fazer merge de uma pull request](/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)".

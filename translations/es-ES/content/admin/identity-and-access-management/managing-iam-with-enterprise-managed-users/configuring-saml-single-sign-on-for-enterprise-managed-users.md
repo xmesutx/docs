@@ -77,17 +77,17 @@ Después de que instalas y configuras la aplicación de {% data variables.produc
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 
-1. En "Inicio de sesión único de SAML", selecciona **Requerir autenticación SAML**. ![Casilla de verificación para habilitar SAML SSO](/assets/images/help/business-accounts/enable-saml-auth-enterprise.png)
+1. En "Inicio de sesión único de SAML", selecciona **Requerir autenticación SAML**. ![Casilla de verificación para habilitar SAML SSO](/assets/images/2021/10/help/business-accounts/enable-saml-auth-enterprise.png)
 
-1. Debajo de **URL de inicio de sesión**, teclea la terminal HTTPS de tu IdP para solicitudes de inicio de sesión único que anotaste al configurar tu IdP. ![Campo para la URL a la que los miembros serán redireccionados cuando inicien sesión](/assets/images/help/saml/saml_sign_on_url_business.png)
+1. Debajo de **URL de inicio de sesión**, teclea la terminal HTTPS de tu IdP para solicitudes de inicio de sesión único que anotaste al configurar tu IdP. ![Campo para la URL a la que los miembros serán redireccionados cuando inicien sesión](/assets/images/2021/10/help/saml/saml_sign_on_url_business.png)
 
-1. Debajo de **Emisor**, teclea la URL de tu emisor de SAML, el cual anotaste al configurar tu IdP, para verificar la autenticidad de los mensajes enviados. ![Campo para el nombre del emisor SAML](/assets/images/help/saml/saml_issuer.png)
+1. Debajo de **Emisor**, teclea la URL de tu emisor de SAML, el cual anotaste al configurar tu IdP, para verificar la autenticidad de los mensajes enviados. ![Campo para el nombre del emisor SAML](/assets/images/2021/10/help/saml/saml_issuer.png)
 
-1. Debajo de **Certificado público**, pega el certificado que anotaste al configurar tu IdP, para verificar las respuestas de SAML. ![Campo para el certificado público de tu proveedor de identidad](/assets/images/help/saml/saml_public_certificate.png)
+1. Debajo de **Certificado público**, pega el certificado que anotaste al configurar tu IdP, para verificar las respuestas de SAML. ![Campo para el certificado público de tu proveedor de identidad](/assets/images/2021/10/help/saml/saml_public_certificate.png)
 
-1. Para verificar la integridad de las solicitudes de tu emisor de SAML, haz clic en {% octicon "pencil" aria-label="The edit icon" %}. Posteriormente, en los menús desplegables de "Método de firma" y "Método de resumen", elige el algoritmo de hash que utiliza tu emisor de SAML. ![Menús desplegables para los algoritmos de hash del Método de firma y del Método de resumen usados por tu emisor SAML](/assets/images/help/saml/saml_hashing_method.png)
+1. Para verificar la integridad de las solicitudes de tu emisor de SAML, haz clic en {% octicon "pencil" aria-label="The edit icon" %}. Posteriormente, en los menús desplegables de "Método de firma" y "Método de resumen", elige el algoritmo de hash que utiliza tu emisor de SAML. ![Menús desplegables para los algoritmos de hash del Método de firma y del Método de resumen usados por tu emisor SAML](/assets/images/2021/10/help/saml/saml_hashing_method.png)
 
-1. Antes de habilitar el SSO de SAML para tu empresa, para asegurarte de que la información que ingresaste es correcta, haz clic en **Probar la configuración de SAML**. ![Botón para probar la configuración de SAML antes de exigir el inicio de sesión único](/assets/images/help/saml/saml_test.png)
+1. Antes de habilitar el SSO de SAML para tu empresa, para asegurarte de que la información que ingresaste es correcta, haz clic en **Probar la configuración de SAML**. ![Botón para probar la configuración de SAML antes de exigir el inicio de sesión único](/assets/images/2021/10/help/saml/saml_test.png)
 
 1. Haz clic en **Save ** (guardar).
 

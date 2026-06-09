@@ -19,7 +19,7 @@ Los proyectos (beta) pueden ser públicos o privados. En el caso de los proyecto
 
 Solo se afecta la visibilidad del proyecto; para ver un elemento en el proyecto, alguien debe tener los permisos requeridos para el repositorio al cual pertenece este. Si tu proyecto incluye elementos de un repositorio privado, las personas que no sean colaboradores en el repositorio no podrán ver elementos de este.
 
-![Proyecto con un elemento oculto](/assets/images/help/projects/hidden-items.png)
+![Proyecto con un elemento oculto](/assets/images/2021/11/help/projects/hidden-items.png)
 
 Solo los administradores de proyecto pueden controlar la visibilidad del mismo.
 

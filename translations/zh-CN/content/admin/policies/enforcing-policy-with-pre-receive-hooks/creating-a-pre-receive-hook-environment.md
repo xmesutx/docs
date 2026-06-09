@@ -82,11 +82,11 @@ shortTitle: 预接收挂钩环境
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.hooks-tab %}
-5. 单击 **Manage environments**。 ![管理环境](/assets/images/enterprise/site-admin-settings/manage-pre-receive-environments.png)
-6. 单击 **Add environment**。 ![添加环境](/assets/images/enterprise/site-admin-settings/add-pre-receive-environment.png)
-7. 在 **Environment name** 字段中输入所需的名称。 ![环境名称](/assets/images/enterprise/site-admin-settings/pre-receive-environment-name.png)
-8. 输入包含您的环境的 `* .tar.gz` 文件的 URL。 ![从 URL 上传环境](/assets/images/enterprise/site-admin-settings/upload-environment-from-url.png)
-9. 单击 **Add environment**。 ![Add environment 按钮](/assets/images/enterprise/site-admin-settings/add-environment-button.png)
+5. 单击 **Manage environments**。 ![管理环境](/assets/images/2021/10/enterprise/site-admin-settings/manage-pre-receive-environments.png)
+6. 单击 **Add environment**。 ![添加环境](/assets/images/2021/10/enterprise/site-admin-settings/add-pre-receive-environment.png)
+7. 在 **Environment name** 字段中输入所需的名称。 ![环境名称](/assets/images/2021/10/enterprise/site-admin-settings/pre-receive-environment-name.png)
+8. 输入包含您的环境的 `* .tar.gz` 文件的 URL。 ![从 URL 上传环境](/assets/images/2021/10/enterprise/site-admin-settings/upload-environment-from-url.png)
+9. 单击 **Add environment**。 ![Add environment 按钮](/assets/images/2021/10/enterprise/site-admin-settings/add-environment-button.png)
 
 ## 通过管理 shell 上传预接收挂钩环境
 1. 将包含您的环境的可读 `* .tar.gz` 文件上传到 web 主机并复制 URL 或通过 `scp` 将文件传送到 {% data variables.product.prodname_ghe_server %} 设备。 使用 `scp` 时，您可能需要调整 `* .tar.gz` 文件权限，以使该文件全局可读。

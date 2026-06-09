@@ -24,9 +24,9 @@ shortTitle: Definir configurações de hora
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. Na barra lateral esquerda, clique em **Time** (Hora). ![Botão Time (Hora) na barra lateral do {% data variables.enterprise.management_console %}](/assets/images/enterprise/management-console/sidebar-time.png)
-3. Em "Primary NTP server" (Servidor NTP primário), digite o nome do host do servidor NTP primário. Em "Secondary NTP server" (Servidor NTP secundário), digite o nome do host do servidor NTP secundário. ![Campos de servidores NTP primário e secundário no {% data variables.enterprise.management_console %}](/assets/images/enterprise/management-console/ntp-servers.png)
-4. Na parte inferior da página, clique em **Save settings** (Salvar configurações). ![Botão Save settings (Salvar configurações) no {% data variables.enterprise.management_console %}](/assets/images/enterprise/management-console/save-settings.png)
+2. Na barra lateral esquerda, clique em **Time** (Hora). ![Botão Time (Hora) na barra lateral do {% data variables.enterprise.management_console %}](/assets/images/2021/10/enterprise/management-console/sidebar-time.png)
+3. Em "Primary NTP server" (Servidor NTP primário), digite o nome do host do servidor NTP primário. Em "Secondary NTP server" (Servidor NTP secundário), digite o nome do host do servidor NTP secundário. ![Campos de servidores NTP primário e secundário no {% data variables.enterprise.management_console %}](/assets/images/2021/10/enterprise/management-console/ntp-servers.png)
+4. Na parte inferior da página, clique em **Save settings** (Salvar configurações). ![Botão Save settings (Salvar configurações) no {% data variables.enterprise.management_console %}](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 5. Aguarde a conclusão da execução de suas configurações.
 
 ## Corrigir descompassos de tempo

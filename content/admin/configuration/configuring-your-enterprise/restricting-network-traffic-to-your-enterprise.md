@@ -47,7 +47,7 @@ For instance-level restrictions using Azure NSGs, contact {% data variables.cont
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 1. Under "IP allow list", select **Enable IP allow list**.
-  ![Checkbox to allow IP addresses](/assets/images/help/security/enable-ip-allowlist-enterprise-checkbox.png)
+  ![Checkbox to allow IP addresses](/assets/images/2021/10/help/security/enable-ip-allowlist-enterprise-checkbox.png)
 4. Click **Save**.
 
 ## Editing an allowed IP address

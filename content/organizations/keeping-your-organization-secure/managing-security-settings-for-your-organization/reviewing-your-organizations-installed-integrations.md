@@ -23,12 +23,12 @@ shortTitle: Review installed integrations
 1. In the "Integrations" section of the sidebar, click **{% octicon "apps" aria-label="The apps icon" %} {% data variables.product.prodname_github_apps %}**.
 {% else %}
 1. In the left sidebar, click **Installed {% data variables.product.prodname_github_apps %}**.
-  ![Installed {% data variables.product.prodname_github_apps %} tab in the organization settings sidebar](/assets/images/help/organizations/org-settings-installed-github-apps.png)
+  ![Installed {% data variables.product.prodname_github_apps %} tab in the organization settings sidebar](/assets/images/2021/10/help/organizations/org-settings-installed-github-apps.png)
 {% endif %}
 2. Next to the {% data variables.product.prodname_github_app %} you'd like to review, click **Configure**.
-  ![Configure button](/assets/images/help/organizations/configure-installed-integration-button.png)
+  ![Configure button](/assets/images/2021/10/help/organizations/configure-installed-integration-button.png)
 6. Review the {% data variables.product.prodname_github_app %}'s permissions and repository access.
-  ![Option to give the {% data variables.product.prodname_github_app %} access to all repositories or specific repositories](/assets/images/help/organizations/toggle-integration-repo-access.png)
+  ![Option to give the {% data variables.product.prodname_github_app %} access to all repositories or specific repositories](/assets/images/2021/10/help/organizations/toggle-integration-repo-access.png)
     - To give the {% data variables.product.prodname_github_app %} access to all of your organization's repositories, select **All repositories**.
     - To choose specific repositories to give the application access to, select **Only select repositories**, then type a repository name.
 7. Click **Save**.

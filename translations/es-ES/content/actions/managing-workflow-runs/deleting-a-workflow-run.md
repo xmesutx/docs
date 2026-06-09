@@ -18,7 +18,7 @@ versions:
 {% data reusables.repositories.navigate-to-workflow %}
 1. Para eliminar una ejecución de flujo de trabajo, utiliza el menú desplegable de {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y selecciona **Borrar una ejecución de flujo de trabajo**.
 
-    ![Borrar una ejecución de flujo de trabajo](/assets/images/help/settings/workflow-delete-run.png)
+    ![Borrar una ejecución de flujo de trabajo](/assets/images/2021/10/help/settings/workflow-delete-run.png)
 2. Revisa el mensaje de confirmación y da clic en **Sí, borrar esta ejecución de flujo de trabajo permanentemente**.
 
-    ![Borrar una confirmación de ejecución de flujo de trabajo](/assets/images/help/settings/workflow-delete-run-confirmation.png)
+    ![Borrar una confirmación de ejecución de flujo de trabajo](/assets/images/2021/10/help/settings/workflow-delete-run-confirmation.png)

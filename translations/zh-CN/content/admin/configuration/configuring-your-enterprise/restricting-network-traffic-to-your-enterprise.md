@@ -47,7 +47,7 @@ redirect_from:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. 在“IP allow list（IP 允许列表）”下，选择 **Enable IP allow list（启用 IP 允许列表）**。 ![允许 IP 地址的复选框](/assets/images/help/security/enable-ip-allowlist-enterprise-checkbox.png)
+1. 在“IP allow list（IP 允许列表）”下，选择 **Enable IP allow list（启用 IP 允许列表）**。 ![允许 IP 地址的复选框](/assets/images/2021/10/help/security/enable-ip-allowlist-enterprise-checkbox.png)
 4. 单击 **Save（保存）**。
 
 ## 编辑允许的 IP 地址

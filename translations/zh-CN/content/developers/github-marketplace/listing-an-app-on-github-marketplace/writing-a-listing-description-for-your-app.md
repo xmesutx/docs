@@ -31,7 +31,7 @@ shortTitle: 写入列表说明
 
 在 [{% data variables.product.prodname_marketplace %} 主页](https://github.com/marketplace)上，社区将会看到应用程序名称下面“非常简短”的说明。
 
-![{% data variables.product.prodname_marketplace %} 应用程序简短说明](/assets/images/marketplace/marketplace_short_description.png)
+![{% data variables.product.prodname_marketplace %} 应用程序简短说明](/assets/images/2021/10/marketplace/marketplace_short_description.png)
 
 #### 长度
 
@@ -103,11 +103,11 @@ shortTitle: 写入列表说明
 
 {% data variables.product.prodname_marketplace %} 使用圆形徽章内的方形徽标图像显示所有上架产品，以便从视觉上区分应用程序。
 
-![GitHub Marketplace 徽标和徽章图像](/assets/images/marketplace/marketplace-logo-and-badge.png)
+![GitHub Marketplace 徽标和徽章图像](/assets/images/2021/10/marketplace/marketplace-logo-and-badge.png)
 
 特征卡由应用程序的徽标、名称和自定义背景图像组成，可体现您的品牌个性。 如果您的应用程序是[主页](https://github.com/marketplace)顶部的四个随机精选应用程序之一，{% data variables.product.prodname_marketplace %} 将显示此卡。 每个应用程序的简短说明显示在其特征卡的下方。
 
-![特征卡](/assets/images/marketplace/marketplace_feature_card.png)
+![特征卡](/assets/images/2021/10/marketplace/marketplace_feature_card.png)
 
 当您上传图像和选择颜色时，{% data variables.product.prodname_marketplace %} 上架草稿将显示徽标和特征卡的预览。
 
@@ -135,11 +135,11 @@ shortTitle: 写入列表说明
 
 “Introductory description（简介）”显示在应用程序 {% data variables.product.prodname_marketplace %} 登录页面的顶部。
 
-![{% data variables.product.prodname_marketplace %} 简介](/assets/images/marketplace/marketplace_intro_description.png)
+![{% data variables.product.prodname_marketplace %} 简介](/assets/images/2021/10/marketplace/marketplace_intro_description.png)
 
 单击 **Read more（阅读更多）...**，显示“Detailed description（详细说明）”。
 
-![{% data variables.product.prodname_marketplace %} 详细说明](/assets/images/marketplace/marketplace_detailed_description.png)
+![{% data variables.product.prodname_marketplace %} 详细说明](/assets/images/2021/10/marketplace/marketplace_detailed_description.png)
 
 请遵循以下指南编写这些说明。
 
@@ -195,4 +195,4 @@ shortTitle: 写入列表说明
 - GitHub 在应用程序登录页面的图框中显示您上传的屏幕截图，因此您无需在屏幕截图周围添加图框或边框。
 - 简短明快的字幕效果最好。
 
-![GitHub Marketplace 屏幕截图](/assets/images/marketplace/marketplace-screenshots.png)
+![GitHub Marketplace 屏幕截图](/assets/images/2021/10/marketplace/marketplace-screenshots.png)

@@ -34,7 +34,7 @@ The content attachment flow shows you the relationship between the URL in the is
 
 **Step 2.** Add the URL for the domain you registered to an issue or pull request. You must use a fully qualified URL that starts with `http://` or `https://`.
 
-![URL added to an issue](/assets/images/github-apps/github_apps_content_reference.png)
+![URL added to an issue](/assets/images/2021/10/github-apps/github_apps_content_reference.png)
 
 **Step 3.** Your app will receive the [`content_reference` webhook](/webhooks/event-payloads/#content_reference) with the action `created`.
 
@@ -79,7 +79,7 @@ For more information about creating an installation token, see "[Authenticating 
 
 **Step 5.** You'll see the new content attachment appear under the link in a pull request or issue comment:
 
-![Content attached to a reference in an issue](/assets/images/github-apps/content_reference_attachment.png)
+![Content attached to a reference in an issue](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 ## Using content attachments in GraphQL
 We provide the `node_id` in the [`content_reference` webhook](/webhooks/event-payloads/#content_reference) event so you can refer to the `createContentAttachment` mutation in the GraphQL API.
@@ -169,11 +169,11 @@ To create a Probot App, follow these steps:
 
 4. [Run the GitHub App locally](https://probot.github.io/docs/development/#running-the-app-locally). Navigate to `http://localhost:3000`, and click the **Register GitHub App** button:
 
-   ![Register a Probot GitHub App](/assets/images/github-apps/github_apps_probot-registration.png)
+   ![Register a Probot GitHub App](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 5. Install the app on a test repository.
 6. Create an issue in your test repository.
 7. Add a comment to the issue you opened that includes the URL you configured in the `app.yml` file.
 8. Take a look at the issue comment and you'll see an update that looks like this:
 
-   ![Content attached to a reference in an issue](/assets/images/github-apps/content_reference_attachment.png)
+   ![Content attached to a reference in an issue](/assets/images/2021/10/github-apps/content_reference_attachment.png)

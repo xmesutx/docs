@@ -2,4 +2,4 @@
 
 要合并拉取请求，必须在仓库中拥有[写入权限](/articles/repository-permission-levels-for-an-organization/)。
 
-![standard-merge-commit-diagram](/assets/images/help/pull_requests/standard-merge-commit-diagram.png)
+![standard-merge-commit-diagram](/assets/images/2021/10/help/pull_requests/standard-merge-commit-diagram.png)

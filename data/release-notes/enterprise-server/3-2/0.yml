@@ -18,7 +18,7 @@ sections:
 
           In addition, the security overview lists all {% data variables.product.prodname_secret_scanning %} alerts at the organization level. Similar views for {% data variables.product.prodname_dependabot %} and {% data variables.product.prodname_code_scanning %} alerts are coming in future releases. For more information, see "[About the security overview](/code-security/security-overview/about-the-security-overview)."
 
-          ![Screenshot of security overview](/assets/images/enterprise/3.2/release-notes/security-overview-UI.png)
+          ![Screenshot of security overview](/assets/images/2021/10/enterprise/3.2/release-notes/security-overview-UI.png)
 
     - heading: Dependency review (beta)
       notes:
@@ -32,7 +32,7 @@ sections:
         - |
           Environments, environment protection rules, and environment secrets are now generally available for {% data variables.product.prodname_actions %} on {% data variables.product.product_name %}. For more information, see "[Environments](/actions/reference/environments)."
 
-          ![Environment protection rules](/assets/images/enterprise/3.2/release-notes/actions-environments.png)
+          ![Environment protection rules](/assets/images/2021/10/enterprise/3.2/release-notes/actions-environments.png)
 
     - heading: SSH authentication with security keys
       notes:
@@ -224,7 +224,7 @@ sections:
 
           For more information see "[Defining which alert severity levels cause pull request check failure](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning#defining-the-severities-causing-pull-request-check-failure)."
 
-          ![List of code scanning alerts with security levels](/assets/images/enterprise/3.2/release-notes/code-scanning-alerts.png)
+          ![List of code scanning alerts with security levels](/assets/images/2021/10/enterprise/3.2/release-notes/code-scanning-alerts.png)
 
         # https://github.com/github/releases/issues/1324
         - |

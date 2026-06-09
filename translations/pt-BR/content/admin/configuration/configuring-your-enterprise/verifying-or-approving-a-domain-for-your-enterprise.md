@@ -68,7 +68,7 @@ Para verificar o domínio da sua conta corporativa, você deve ter acesso para m
    ```
 1. Depois de confirmar o seu registro TXT é adicionado ao seu DNS, siga as etapas uma a quatro acima para acessar os domínios aprovados e verificados da conta corporativa.
 {% data reusables.enterprise-accounts.continue-verifying-domain %}
-1. Opcionalmente, depois que o selo "Verificado" estiver visível nos perfis da sua organização, exclua a entrada TXT do registro do DNS no seu serviço de hospedagem de domínio. ![Selo Verified (Verificado)](/assets/images/help/organizations/verified-badge.png)
+1. Opcionalmente, depois que o selo "Verificado" estiver visível nos perfis da sua organização, exclua a entrada TXT do registro do DNS no seu serviço de hospedagem de domínio. ![Selo Verified (Verificado)](/assets/images/2021/10/help/organizations/verified-badge.png)
 
 ## Aprovando um domínio para a sua conta corporativa
 
@@ -87,4 +87,4 @@ Para verificar o domínio da sua conta corporativa, você deve ter acesso para m
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.verified-domains-tab %}
-1. À direita do domínio a ser removido, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e, em seguida, clique em **Excluir**. !["Excluir" para um domínio](/assets/images/help/organizations/domains-delete.png)
+1. À direita do domínio a ser removido, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e, em seguida, clique em **Excluir**. !["Excluir" para um domínio](/assets/images/2021/10/help/organizations/domains-delete.png)

@@ -78,8 +78,8 @@ For packages that inherit their permissions and access from repositories, you ca
 {% data reusables.package_registry.packages-from-code-tab %}
 {% data reusables.package_registry.package-settings-option %}
 5. 左にある [**Manage versions**] をクリックします。
-5. 削除するバージョンの右側で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックした後、[**Delete version**] を選択します。 ![パッケージバージョンの削除ボタン](/assets/images/help/package-registry/delete-container-package-version.png)
-6. 削除を確認するために、パッケージ名を入力して**I understand the consequences, delete this version（生じることを理解したので、このバージョンを削除してください）**をクリックしてください。 ![パッケージの削除の確認ボタン](/assets/images/help/package-registry/package-version-deletion-confirmation.png)
+5. 削除するバージョンの右側で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックした後、[**Delete version**] を選択します。 ![パッケージバージョンの削除ボタン](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. 削除を確認するために、パッケージ名を入力して**I understand the consequences, delete this version（生じることを理解したので、このバージョンを削除してください）**をクリックしてください。 ![パッケージの削除の確認ボタン](/assets/images/2021/10/help/package-registry/package-version-deletion-confirmation.png)
 
 {% ifversion fpt or ghec or ghes %}
 ### GraphQLでリポジトリのスコープが付いたパッケージのバージョンを削除する
@@ -120,8 +120,8 @@ GraphQLを使用してパッケージ全体を直接削除することはでき�
 {% data reusables.package_registry.package-settings-from-user-level %}
 {% data reusables.package_registry.package-settings-option %}
 5. 左にある [**Manage versions**] をクリックします。
-5. 削除するバージョンの右側で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックした後、[**Delete version**] を選択します。 ![パッケージバージョンの削除ボタン](/assets/images/help/package-registry/delete-container-package-version.png)
-6. 削除を確認するために、パッケージ名を入力して**I understand the consequences, delete this version（生じることを理解したので、このバージョンを削除してください）**をクリックしてください。 ![パッケージの削除の確認ボタン](/assets/images/help/package-registry/confirm-container-package-version-deletion.png)
+5. 削除するバージョンの右側で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックした後、[**Delete version**] を選択します。 ![パッケージバージョンの削除ボタン](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. 削除を確認するために、パッケージ名を入力して**I understand the consequences, delete this version（生じることを理解したので、このバージョンを削除してください）**をクリックしてください。 ![パッケージの削除の確認ボタン](/assets/images/2021/10/help/package-registry/confirm-container-package-version-deletion.png)
 
 ### Deleting a version of an organization-scoped package on {% data variables.product.prodname_dotcom %}
 
@@ -132,8 +132,8 @@ To review who can delete a package version, see "[Required permissions to delete
 {% data reusables.package_registry.package-settings-from-org-level %}
 {% data reusables.package_registry.package-settings-option %}
 5. 左にある [**Manage versions**] をクリックします。
-5. 削除するバージョンの右側で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックした後、[**Delete version**] を選択します。 ![パッケージバージョンの削除ボタン](/assets/images/help/package-registry/delete-container-package-version.png)
-6. 削除を確認するために、パッケージ名を入力して**I understand the consequences, delete this version（生じることを理解したので、このバージョンを削除してください）**をクリックしてください。 ![パッケージバージョン削除の確認ボタン](/assets/images/help/package-registry/confirm-container-package-version-deletion.png)
+5. 削除するバージョンの右側で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックした後、[**Delete version**] を選択します。 ![パッケージバージョンの削除ボタン](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. 削除を確認するために、パッケージ名を入力して**I understand the consequences, delete this version（生じることを理解したので、このバージョンを削除してください）**をクリックしてください。 ![パッケージバージョン削除の確認ボタン](/assets/images/2021/10/help/package-registry/confirm-container-package-version-deletion.png)
 {% endif %}
 
 ## パッケージ全体を削除する
@@ -146,7 +146,7 @@ To review who can delete a package version, see "[Required permissions to delete
 {% data reusables.package_registry.packages-from-code-tab %}
 {% data reusables.package_registry.package-settings-option %}
 4. [Danger Zone] の下にある [**Delete this package**] をクリックします。
-5. 確認メッセージを読み、パッケージ名を入力してから、[**I understand, delete this package.**] をクリックします。 ![パッケージの削除の確認ボタン](/assets/images/help/package-registry/package-version-deletion-confirmation.png)
+5. 確認メッセージを読み、パッケージ名を入力してから、[**I understand, delete this package.**] をクリックします。 ![パッケージの削除の確認ボタン](/assets/images/2021/10/help/package-registry/package-version-deletion-confirmation.png)
 
 {% ifversion fpt or ghec %}
 ### {% data variables.product.prodname_dotcom %}上でユーザのスコープが付いたパッケージ全体を削除する
@@ -155,9 +155,9 @@ To review who can delete a package version, see "[Required permissions to delete
 
 {% data reusables.package_registry.package-settings-from-user-level %}
 {% data reusables.package_registry.package-settings-option %}
-5. 左側にある [**Options**] をクリックします。 ![[Options] メニューオプション](/assets/images/help/package-registry/options-for-container-settings.png)
-6. [Danger zone] の下にある [**Delete this package**] をクリックします。 ![パッケージバージョンの削除ボタン](/assets/images/help/package-registry/delete-container-package-button.png)
-6. 削除を確認するために、パッケージ名を入力して [**I understand the consequences, delete this package**] をクリックします。 ![パッケージバージョン削除の確認ボタン](/assets/images/help/package-registry/confirm-container-package-deletion.png)
+5. 左側にある [**Options**] をクリックします。 ![[Options] メニューオプション](/assets/images/2021/10/help/package-registry/options-for-container-settings.png)
+6. [Danger zone] の下にある [**Delete this package**] をクリックします。 ![パッケージバージョンの削除ボタン](/assets/images/2021/10/help/package-registry/delete-container-package-button.png)
+6. 削除を確認するために、パッケージ名を入力して [**I understand the consequences, delete this package**] をクリックします。 ![パッケージバージョン削除の確認ボタン](/assets/images/2021/10/help/package-registry/confirm-container-package-deletion.png)
 
 ### {% data variables.product.prodname_dotcom %}上でOrganizationのスコープが付いたパッケージ全体を削除する
 
@@ -165,9 +165,9 @@ To review who can delete a package version, see "[Required permissions to delete
 
 {% data reusables.package_registry.package-settings-from-org-level %}
 {% data reusables.package_registry.package-settings-option %}
-5. 左側にある [**Options**] をクリックします。 ![[Options] メニューオプション](/assets/images/help/package-registry/options-for-container-settings.png)
-6. [Danger zone] の下にある [**Delete this package**] をクリックします。 ![パッケージの削除ボタン](/assets/images/help/package-registry/delete-container-package-button.png)
-6. 削除を確認するために、パッケージ名を入力して [**I understand the consequences, delete this package**] をクリックします。 ![パッケージの削除の確認ボタン](/assets/images/help/package-registry/confirm-container-package-deletion.png)
+5. 左側にある [**Options**] をクリックします。 ![[Options] メニューオプション](/assets/images/2021/10/help/package-registry/options-for-container-settings.png)
+6. [Danger zone] の下にある [**Delete this package**] をクリックします。 ![パッケージの削除ボタン](/assets/images/2021/10/help/package-registry/delete-container-package-button.png)
+6. 削除を確認するために、パッケージ名を入力して [**I understand the consequences, delete this package**] をクリックします。 ![パッケージの削除の確認ボタン](/assets/images/2021/10/help/package-registry/confirm-container-package-deletion.png)
 {% endif %}
 
 ## パッケージを復元する
@@ -202,8 +202,8 @@ Organizationでパッケージを復元できるユーザを確認するには�
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 3. 左側にある [**Packages**] をクリックします。
-4. [Deleted Packages] の、復元するパッケージの隣にある [**Restore**] をクリックします。 ![リストアボタン](/assets/images/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
-5. 確認のため、パッケージ名を入力して [**I understand the consequences, restore this package**] をクリックします。 ![パッケージ復元の確認ボタン](/assets/images/help/package-registry/type-package-name-and-restore-button.png)
+4. [Deleted Packages] の、復元するパッケージの隣にある [**Restore**] をクリックします。 ![リストアボタン](/assets/images/2021/10/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
+5. 確認のため、パッケージ名を入力して [**I understand the consequences, restore this package**] をクリックします。 ![パッケージ復元の確認ボタン](/assets/images/2021/10/help/package-registry/type-package-name-and-restore-button.png)
 
 {% ifversion fpt or ghec %}
 
@@ -213,8 +213,8 @@ Organizationでパッケージを復元できるユーザを確認するには�
 
 {% data reusables.user-settings.access_settings %}
 2. 左側にある [**Packages**] をクリックします。
-4. [Deleted Packages] の、復元するパッケージの隣にある [**Restore**] をクリックします。 ![リストアボタン](/assets/images/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
-5. 確認のため、パッケージ名を入力して [**I understand the consequences, restore this package**] をクリックします。 ![パッケージ復元の確認ボタン](/assets/images/help/package-registry/type-package-name-and-restore-button.png)
+4. [Deleted Packages] の、復元するパッケージの隣にある [**Restore**] をクリックします。 ![リストアボタン](/assets/images/2021/10/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
+5. 確認のため、パッケージ名を入力して [**I understand the consequences, restore this package**] をクリックします。 ![パッケージ復元の確認ボタン](/assets/images/2021/10/help/package-registry/type-package-name-and-restore-button.png)
 
 {% endif %}
 
@@ -225,6 +225,6 @@ Organizationでパッケージを復元できるユーザを確認するには�
 1. パッケージのランディングページに移動します。
 2. 右側にある [**Package settings**] をクリックします。
 2. 左にある [**Manage versions**] をクリックします。
-3. 左上の [Versions] ドロップダウンメニューで、[**Deleted**] を選択します。 ![削除されたバージョンを表示するドロップダウンメニュー](/assets/images/help/package-registry/versions-drop-down-menu.png)
-4. 復元する削除されたパッケージの隣の、[**Restore**] をクリックします。 ![削除されたパッケージのバージョンの隣にある復元オプション](/assets/images/help/package-registry/restore-package-version.png)
-5. 確認のため、[**I understand the consequences, restore this version.**] をクリックします。 ![パッケージバージョン復元の確認](/assets/images/help/package-registry/confirm-package-version-restoration.png)
+3. 左上の [Versions] ドロップダウンメニューで、[**Deleted**] を選択します。 ![削除されたバージョンを表示するドロップダウンメニュー](/assets/images/2021/10/help/package-registry/versions-drop-down-menu.png)
+4. 復元する削除されたパッケージの隣の、[**Restore**] をクリックします。 ![削除されたパッケージのバージョンの隣にある復元オプション](/assets/images/2021/10/help/package-registry/restore-package-version.png)
+5. 確認のため、[**I understand the consequences, restore this version.**] をクリックします。 ![パッケージバージョン復元の確認](/assets/images/2021/10/help/package-registry/confirm-package-version-restoration.png)

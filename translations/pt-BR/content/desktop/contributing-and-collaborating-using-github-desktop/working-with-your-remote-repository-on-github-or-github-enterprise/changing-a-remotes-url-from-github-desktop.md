@@ -12,16 +12,16 @@ shortTitle: Alterar URL do controle remoto
 
 {% mac %}
 
-1. No menu **Repository** (Repositório), clique em **Repository Settings...** (Configurações do repositório...). ![Opção de menu Repository Settings (Configurações do repositório)](/assets/images/help/desktop/repository-settings-mac.png)
-2. No campo **Primary remote repository** (Repositório remote principal), digite a URL. ![Campo <strong>Primary remote repository</strong> (Repositório remote principal)](/assets/images/help/desktop/repository-settings-remote-mac.png)
-3. Clique em **Salvar**. ![Botão Save (Salvar)](/assets/images/help/desktop/repository-settings-save-mac.png)
+1. No menu **Repository** (Repositório), clique em **Repository Settings...** (Configurações do repositório...). ![Opção de menu Repository Settings (Configurações do repositório)](/assets/images/2021/10/help/desktop/repository-settings-mac.png)
+2. No campo **Primary remote repository** (Repositório remote principal), digite a URL. ![Campo <strong>Primary remote repository</strong> (Repositório remote principal)](/assets/images/2021/10/help/desktop/repository-settings-remote-mac.png)
+3. Clique em **Salvar**. ![Botão Save (Salvar)](/assets/images/2021/10/help/desktop/repository-settings-save-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. No menu **Repository** (Repositório), clique em **Repository Settings...** (Configurações do repositório...). ![Opção de menu Repository Settings (Configurações do repositório)](/assets/images/help/desktop/repository-settings-win.png)
-2. No campo **Primary remote repository** (Repositório remote principal), digite a URL. ![Campo <strong>Primary remote repository</strong> (Repositório remote principal)](/assets/images/help/desktop/repository-settings-remote-win.png)
-3. Clique em **Salvar**. ![Botão Save (Salvar)](/assets/images/help/desktop/repository-settings-save-win.png)
+1. No menu **Repository** (Repositório), clique em **Repository Settings...** (Configurações do repositório...). ![Opção de menu Repository Settings (Configurações do repositório)](/assets/images/2021/10/help/desktop/repository-settings-win.png)
+2. No campo **Primary remote repository** (Repositório remote principal), digite a URL. ![Campo <strong>Primary remote repository</strong> (Repositório remote principal)](/assets/images/2021/10/help/desktop/repository-settings-remote-win.png)
+3. Clique em **Salvar**. ![Botão Save (Salvar)](/assets/images/2021/10/help/desktop/repository-settings-save-win.png)
 
 {% endwindows %}

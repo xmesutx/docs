@@ -11,5 +11,5 @@
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. 在“IP allow list（IP允许列表）”下，选择 **Enable IP allow list configuration for installed GitHub Apps（启用已安装 GitHub 应用程序的 IP 允许列表配置）**。 ![允许 GitHub 应用程序 IP 地址的复选框](/assets/images/help/security/enable-ip-allowlist-githubapps-checkbox.png)
+1. 在“IP allow list（IP允许列表）”下，选择 **Enable IP allow list configuration for installed GitHub Apps（启用已安装 GitHub 应用程序的 IP 允许列表配置）**。 ![允许 GitHub 应用程序 IP 地址的复选框](/assets/images/2021/10/help/security/enable-ip-allowlist-githubapps-checkbox.png)
 1. 单击 **Save（保存）**。

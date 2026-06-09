@@ -21,9 +21,9 @@ Opcionalmente, é possível escolher adicionar uma descrição, localização, s
 {% ifversion fpt or ghec %}Para confirmar a identidade da organização e exibir um selo "Verificado" na página do perfil da organização, você deve verificar os domínios da organização com o {% data variables.product.product_name %}. Para obter mais informações, consulte "[Verificar ou aprovar um domínio para a sua organização](/organizations/managing-organization-settings/verifying-or-approving-a-domain-for-your-organization)".{% endif %}
 
 {% ifversion fpt or ghes > 3.2 or ghec %}
-![Exemplo de página de perfil da organização](/assets/images/help/organizations/org_profile_with_overview.png)
+![Exemplo de página de perfil da organização](/assets/images/2021/10/help/organizations/org_profile_with_overview.png)
 {% else %}
-![Exemplo de página de perfil da organização](/assets/images/help/profile/org_profile.png)
+![Exemplo de página de perfil da organização](/assets/images/2021/10/help/profile/org_profile.png)
 {% endif %}
 
 ## Leia mais

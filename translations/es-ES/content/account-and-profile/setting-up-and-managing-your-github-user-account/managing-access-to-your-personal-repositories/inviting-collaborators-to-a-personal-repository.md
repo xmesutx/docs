@@ -40,14 +40,14 @@ Si eres un miembro de una {% data variables.product.prodname_emu_enterprise %}, 
 {% data reusables.repositories.sidebar-settings %}
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658%}
 {% data reusables.repositories.click-collaborators-teams %}
-1. Da clic en **Invitar un colaborador**. ![botón de "invitar un colaborador"](/assets/images/help/repository/invite-a-collaborator-button.png)
-2. En el campo de búsqueda, comienza a teclear el nombre de la persona que quieres invitar, luego da clic en un nombre de la lista de resultados. ![Campo de búsqueda para teclear el nombre de una persona e invitarla al repositorio](/assets/images/help/repository/manage-access-invite-search-field-user.png)
-3. Da clic en **Añadir NOMBRE a REPOSITORIO**. ![Botón para añadir un colaborador](/assets/images/help/repository/add-collaborator-user-repo.png)
+1. Da clic en **Invitar un colaborador**. ![botón de "invitar un colaborador"](/assets/images/2021/10/help/repository/invite-a-collaborator-button.png)
+2. En el campo de búsqueda, comienza a teclear el nombre de la persona que quieres invitar, luego da clic en un nombre de la lista de resultados. ![Campo de búsqueda para teclear el nombre de una persona e invitarla al repositorio](/assets/images/2021/10/help/repository/manage-access-invite-search-field-user.png)
+3. Da clic en **Añadir NOMBRE a REPOSITORIO**. ![Botón para añadir un colaborador](/assets/images/2021/10/help/repository/add-collaborator-user-repo.png)
 {% else %}
-5. En la barra lateral izquierda, haz clic en **Collaborators** (Colaboradores). ![Barra lateral de configuraciones del repositorio con Colaboradores resaltados](/assets/images/help/repository/user-account-repo-settings-collaborators.png)
+5. En la barra lateral izquierda, haz clic en **Collaborators** (Colaboradores). ![Barra lateral de configuraciones del repositorio con Colaboradores resaltados](/assets/images/2021/10/help/repository/user-account-repo-settings-collaborators.png)
 6. En "Colaboradores", comienza a escribir el nombre de usuario del colaborador.
-7. Selecciona el nombre de usuario del colaborador del menú desplegable. ![Menú desplegable de la lista de colaboradores](/assets/images/help/repository/repo-settings-collab-autofill.png)
-8. Haz clic en **Add collaborator** (Agregar colaborador). ![Botón de "Agregar colaborador"](/assets/images/help/repository/repo-settings-collab-add.png)
+7. Selecciona el nombre de usuario del colaborador del menú desplegable. ![Menú desplegable de la lista de colaboradores](/assets/images/2021/10/help/repository/repo-settings-collab-autofill.png)
+8. Haz clic en **Add collaborator** (Agregar colaborador). ![Botón de "Agregar colaborador"](/assets/images/2021/10/help/repository/repo-settings-collab-add.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 9. El usuario recibirá un correo electrónico invitándolo al repositorio. Una vez que acepte la invitación, tendrá acceso de colaborador a tu repositorio.

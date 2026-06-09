@@ -35,10 +35,10 @@ You can provide feedback about auto-merge through a [{% data variables.product.p
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-pr %}
 1. 在“Pull Requests（拉取请求）”列表中，单击要自动合并的拉取请求。
-1. （可选）要选择合并方法，请选择 **Enable auto-merge（启用自动合并）**下拉菜单，然后单击合并方法。 更多信息请参阅“[关于拉取请求合并](/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges)”。 !["启用自动合并"下拉菜单](/assets/images/help/pull_requests/enable-auto-merge-drop-down.png)
-1. 单击 **Enable auto-merge（启用自动合并）**。 ![启用自动合并的按钮](/assets/images/help/pull_requests/enable-auto-merge-button.png)
+1. （可选）要选择合并方法，请选择 **Enable auto-merge（启用自动合并）**下拉菜单，然后单击合并方法。 更多信息请参阅“[关于拉取请求合并](/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges)”。 !["启用自动合并"下拉菜单](/assets/images/2021/10/help/pull_requests/enable-auto-merge-drop-down.png)
+1. 单击 **Enable auto-merge（启用自动合并）**。 ![启用自动合并的按钮](/assets/images/2021/10/help/pull_requests/enable-auto-merge-button.png)
   {% ifversion fpt %}
-1. 如果选择合并或压缩并合并方法，请输入提交消息和说明，然后选择要创作合并提交的电子邮件地址。 ![输入提交消息和说明并选择提交作者电子邮件的字段](/assets/images/help/pull_requests/pull-request-information-fields.png)
+1. 如果选择合并或压缩并合并方法，请输入提交消息和说明，然后选择要创作合并提交的电子邮件地址。 ![输入提交消息和说明并选择提交作者电子邮件的字段](/assets/images/2021/10/help/pull_requests/pull-request-information-fields.png)
   {% note %}
 
   **Note:** The email dropdown menu is not available if you have email privacy enabled or if you only have one verified and visible email associated with your {% data variables.product.company_short %} account.
@@ -46,7 +46,7 @@ You can provide feedback about auto-merge through a [{% data variables.product.p
   {% endnote %}
   {% endif %}
   {% ifversion ghes or ghae or ghec %}
-1. If you chose the merge or squash and merge methods, type a commit message and description. ![Fields to enter commit message and description](/assets/images/help/pull_requests/pull-request-information-fields-enterprise.png)
+1. If you chose the merge or squash and merge methods, type a commit message and description. ![Fields to enter commit message and description](/assets/images/2022/02/help/pull_requests/pull-request-information-fields-enterprise.png)
   {% endif %}
 1. 单击 **Confirm auto-merge（确认自动合并）**。
 
@@ -57,4 +57,4 @@ You can provide feedback about auto-merge through a [{% data variables.product.p
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-pr %}
 1. 在“Pull Requests（拉取请求）”列表中，单击要禁用自动合并的拉取请求。
-1. 在合并框中，单击 **Disable auto-merge（禁用自动合并）**。 ![禁用自动合并的按钮](/assets/images/help/pull_requests/disable-auto-merge-button.png)
+1. 在合并框中，单击 **Disable auto-merge（禁用自动合并）**。 ![禁用自动合并的按钮](/assets/images/2021/10/help/pull_requests/disable-auto-merge-button.png)

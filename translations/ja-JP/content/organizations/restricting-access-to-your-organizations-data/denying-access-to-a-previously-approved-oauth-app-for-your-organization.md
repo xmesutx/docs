@@ -17,5 +17,5 @@ shortTitle: OAuth Appの拒否
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. 無効化したいアプリケーションの隣にある {% octicon "pencil" aria-label="The edit icon" %} をクリックします。 ![編集アイコン](/assets/images/help/settings/settings-third-party-deny-edit.png)
-6. [**Deny access**] をクリックします。 ![拒否の確定ボタン](/assets/images/help/settings/settings-third-party-deny-confirm.png)
+5. 無効化したいアプリケーションの隣にある {% octicon "pencil" aria-label="The edit icon" %} をクリックします。 ![編集アイコン](/assets/images/2021/10/help/settings/settings-third-party-deny-edit.png)
+6. [**Deny access**] をクリックします。 ![拒否の確定ボタン](/assets/images/2021/10/help/settings/settings-third-party-deny-confirm.png)

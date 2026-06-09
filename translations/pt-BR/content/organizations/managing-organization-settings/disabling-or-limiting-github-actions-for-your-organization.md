@@ -40,7 +40,7 @@ Você pode desabilitar todos os fluxos de trabalho para uma organização ou def
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.settings-sidebar-actions %}
-1. Em **Políticas**, selecione uma opção. ![Definir política de ações para esta organização](/assets/images/help/organizations/actions-policy.png)
+1. Em **Políticas**, selecione uma opção. ![Definir política de ações para esta organização](/assets/images/2021/10/help/organizations/actions-policy.png)
 1. Clique em **Salvar**.
 
 ## Permitir a execução de ações específicas
@@ -52,9 +52,9 @@ Você pode desabilitar todos os fluxos de trabalho para uma organização ou def
 {% data reusables.organizations.settings-sidebar-actions %}
 1. Em **Políticas**, selecione **Permitir ações específicas** e adicione as suas ações necessárias à lista.
    {%- ifversion ghes %}
-   ![Adicionar ações para permitir lista](/assets/images/help/organizations/actions-policy-allow-list.png)
+   ![Adicionar ações para permitir lista](/assets/images/2021/10/help/organizations/actions-policy-allow-list.png)
    {%- else %}
-   ![Adicionar ações para permitir lista](/assets/images/enterprise/github-ae/organizations/actions-policy-allow-list.png)
+   ![Adicionar ações para permitir lista](/assets/images/2021/10/enterprise/github-ae/organizations/actions-policy-allow-list.png)
    {%- endif %}
 1. Clique em **Salvar**.
 
@@ -106,7 +106,7 @@ Você pode definir as permissões padrão para o `GITHUB_TOKEN` nas configuraç�
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.settings-sidebar-actions %}
 1. Em **permissões do fluxo de trabalho**, escolha se você quer que o `GITHUB_TOKEN` tenha acesso de leitura e gravação para todos os escopos, ou apenas acesso de leitura para o escopo do </code>conteúdo.
-<img src="/assets/images/help/settings/actions-workflow-permissions-organization.png" alt="Definir permissões do GITHUB_TOKEN para esta organização" /></p></li>
+<img src="/assets/images/2021/10/help/settings/actions-workflow-permissions-organization.png" alt="Definir permissões do GITHUB_TOKEN para esta organização" /></p></li>
 <li><p spaces-before="0">Clique em <strong x-id="1">Salvar</strong> para aplicar as configurações.
 </p>
 

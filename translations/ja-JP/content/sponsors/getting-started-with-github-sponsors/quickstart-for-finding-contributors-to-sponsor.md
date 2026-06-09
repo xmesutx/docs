@@ -16,11 +16,11 @@ shortTitle: クイックスタート
 
 ログインしている場合、スポンサーの結果は、リポジトリが依存しているパブリックの依存関係から始まります。
 
-![「4 of your repositories depend on this」という強調表示されたテキストを含む Babel オープンソースプロジェクト](/assets/images/help/sponsors/example-of-open-source-project-dependency.png)
+![「4 of your repositories depend on this」という強調表示されたテキストを含む Babel オープンソースプロジェクト](/assets/images/2021/10/help/sponsors/example-of-open-source-project-dependency.png)
 
 また、結果を表示するアカウントを切り替えて、さらにフィルタまたは検索することもできます。
 
-![スポンサーコミュニティ検索ページの検索オプション](/assets/images/help/sponsors/sponsors-search-options.png)
+![スポンサーコミュニティ検索ページの検索オプション](/assets/images/2021/10/help/sponsors/sponsors-search-options.png)
 
 ## 他の人がスポンサーしている相手を調べる
 

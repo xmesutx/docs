@@ -47,17 +47,17 @@ Si tu empresa utiliza {% data variables.product.prodname_emus %}, solo se pueden
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. En la barra lateral izquierda, haz clic en **Administrators** (Administradores). ![Pestaña Administrators (Administradores) en la barra lateral izquierda](/assets/images/help/business-accounts/administrators-tab.png)
+1. En la barra lateral izquierda, haz clic en **Administrators** (Administradores). ![Pestaña Administrators (Administradores) en la barra lateral izquierda](/assets/images/2021/10/help/business-accounts/administrators-tab.png)
 1. Sobre la lista de administradores, haz clic en {% ifversion ghec %}**Invitar administrador**{% elsif ghes %}**Agregar propietario**{% endif %}.
   {% ifversion ghec %}
-  ![botón de "invitar administrador" sobre la lista de propietarios empresariales](/assets/images/help/business-accounts/invite-admin-button.png)
+  ![botón de "invitar administrador" sobre la lista de propietarios empresariales](/assets/images/2021/10/help/business-accounts/invite-admin-button.png)
   {% elsif ghes %}
-  ![Botón de "Agregar propietario" sobre la lista de propietarios empresariales](/assets/images/help/business-accounts/add-owner-button.png)
+  ![Botón de "Agregar propietario" sobre la lista de propietarios empresariales](/assets/images/2021/10/help/business-accounts/add-owner-button.png)
   {% endif %}
-1. Escribe el nombre de usuario, el nombre completo o la dirección de correo electrónico de la persona a la que quieres invitar a que se convierta en administrador de empresa, luego selecciona la persona adecuada en los resultados. ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
-1. Selecciona **Owner** (Propietario) o **Billing Manager** (Gerente de facturación). ![Casilla modal con opciones de roles](/assets/images/help/business-accounts/invite-admins-roles.png)
-1. Haz clic en **Send Invitation** (Enviar invitación). ![Send invitation button](/assets/images/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
-1. Da clic en **Agregar**. !["Add" button](/assets/images/help/business-accounts/add-administrator-add-button.png){% endif %}
+1. Escribe el nombre de usuario, el nombre completo o la dirección de correo electrónico de la persona a la que quieres invitar a que se convierta en administrador de empresa, luego selecciona la persona adecuada en los resultados. ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/2021/10/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
+1. Selecciona **Owner** (Propietario) o **Billing Manager** (Gerente de facturación). ![Casilla modal con opciones de roles](/assets/images/2021/10/help/business-accounts/invite-admins-roles.png)
+1. Haz clic en **Send Invitation** (Enviar invitación). ![Send invitation button](/assets/images/2021/10/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
+1. Da clic en **Agregar**. !["Add" button](/assets/images/2021/10/help/business-accounts/add-administrator-add-button.png){% endif %}
 
 ## Eliminar un administrador de empresa de tu cuenta de empresa
 
@@ -67,8 +67,8 @@ Solo los propietarios de empresa pueden eliminar a otros administradores de empr
 {% data reusables.enterprise-accounts.people-tab %}
 1. Junto al nombre de usuario de la persona que te gustaría eliminar, haz clic en {% octicon "gear" aria-label="The Settings gear" %}, luego en **Eliminar propietario**{% ifversion ghec %} o **Eliminar gerente de facturación**{% endif %}.
   {% ifversion ghec %}
-  ![Parámetros con opción del menú para eliminar un administrador de empresa](/assets/images/help/business-accounts/remove-admin.png)
+  ![Parámetros con opción del menú para eliminar un administrador de empresa](/assets/images/2021/10/help/business-accounts/remove-admin.png)
   {% elsif ghes %}
-  ![Parámetros con opción del menú para eliminar un administrador de empresa](/assets/images/help/business-accounts/ghes-remove-owner.png)
+  ![Parámetros con opción del menú para eliminar un administrador de empresa](/assets/images/2021/10/help/business-accounts/ghes-remove-owner.png)
   {% endif %}
 1. Lee la confirmación y luego haz clic en **Eliminar propietario**{% ifversion ghec %} o **Eliminar gerente de facturación**{% endif %}.

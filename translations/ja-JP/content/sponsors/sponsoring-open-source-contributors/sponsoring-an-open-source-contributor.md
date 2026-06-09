@@ -57,14 +57,14 @@ You can choose whether to display your sponsorship publicly. One-time sponsorshi
 
 1. {% data variables.product.product_name %} で、スポンサーするユーザーまたは Organization のプロフィールに移動します。
 1. アカウントのスポンサーシップダッシュボードに移動します。
-   - 開発者をスポンサーする場合は、開発者の名前の下で [**Sponsor**] をクリックします。 ![[Sponsor] ボタン](/assets/images/help/profile/sponsor-button.png)
-   - Organization をスポンサーする場合は、開発者の名前の下で [**Sponsor**] をクリックします。 ![[Sponsor] ボタン](/assets/images/help/sponsors/sponsor-org-button.png)
-1. オプションとして、ページの右側で、Organization に代わってアカウントをスポンサーする場合は、[**Sponsor as**] ドロップダウンメニューを使用して Organization をクリックします。 ![スポンサーとしてのアカウントを選択するドロップダウンメニュー](/assets/images/help/sponsors/sponsor-as-drop-down-menu.png)
+   - 開発者をスポンサーする場合は、開発者の名前の下で [**Sponsor**] をクリックします。 ![[Sponsor] ボタン](/assets/images/2021/10/help/profile/sponsor-button.png)
+   - Organization をスポンサーする場合は、開発者の名前の下で [**Sponsor**] をクリックします。 ![[Sponsor] ボタン](/assets/images/2021/10/help/sponsors/sponsor-org-button.png)
+1. オプションとして、ページの右側で、Organization に代わってアカウントをスポンサーする場合は、[**Sponsor as**] ドロップダウンメニューを使用して Organization をクリックします。 ![スポンサーとしてのアカウントを選択するドロップダウンメニュー](/assets/images/2021/10/help/sponsors/sponsor-as-drop-down-menu.png)
 {% data reusables.sponsors.select-a-tier %}
 {% data reusables.sponsors.pay-prorated-amount %}
 {% data reusables.sponsors.select-sponsorship-billing %}
-  ![[Edit payment] ボタン](/assets/images/help/sponsors/edit-sponsorship-payment-button.png)
+  ![[Edit payment] ボタン](/assets/images/2021/10/help/sponsors/edit-sponsorship-payment-button.png)
 {% data reusables.sponsors.who-can-see-your-sponsorship %}
-  ![あなたのスポンサーシップを見ることができる人を選択するラジオボタン](/assets/images/help/sponsors/who-can-see-sponsorship.png)
+  ![あなたのスポンサーシップを見ることができる人を選択するラジオボタン](/assets/images/2021/10/help/sponsors/who-can-see-sponsorship.png)
 {% data reusables.sponsors.choose-updates %}
 {% data reusables.sponsors.sponsor-account %}

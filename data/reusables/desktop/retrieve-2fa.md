@@ -3,4 +3,4 @@
     - If you set up 2FA with a TOTP application, generate a 2FA code.
 
   Then enter your 2FA code in the prompt on {% data variables.product.prodname_desktop %} and click **Sign In**.
-    ![The 2FA Authentication code field](/assets/images/help/desktop/mac-2fa-code-prompt.png)
+    ![The 2FA Authentication code field](/assets/images/2021/10/help/desktop/mac-2fa-code-prompt.png)

@@ -23,7 +23,7 @@ If a project doesn't have a recommended file, you can click **Add** to draft and
 
 {% data reusables.repositories.valid-community-issues %} For more information, see "[About issue and pull request templates](/articles/about-issue-and-pull-request-templates)."
 
-![Community profile checklist with recommended community standards for maintainers](/assets/images/help/repository/add-button-community-profile.png)
+![Community profile checklist with recommended community standards for maintainers](/assets/images/2021/10/help/repository/add-button-community-profile.png)
 
 {% data reusables.repositories.security-guidelines %}
 
@@ -33,7 +33,7 @@ As a potential contributor, use the community profile checklist to see if a proj
 
 If a project doesn't have a recommended file, you can click **Propose** to draft and submit a file to the repository maintainer for approval.
 
-![Community profile checklist with recommended community standards for contributors](/assets/images/help/repository/propose-button-community-profile.png)
+![Community profile checklist with recommended community standards for contributors](/assets/images/2021/10/help/repository/propose-button-community-profile.png)
 
 ## Further reading
 

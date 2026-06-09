@@ -12,7 +12,7 @@ versions:
 
 GitHub 导入工具是一种可快速将源代码仓库（包括提交和修订记录）导入 GitHub 的工具。
 
-![导入仓库 gif](/assets/images/help/importer/github-importer.gif)
+![导入仓库 gif](/assets/images/2021/10/help/importer/github-importer.gif)
 
 在导入过程中，根据导入来源的版本控制系统，您可以向远程仓库进行身份验证，更新提交作者属性，以及导入包含大文件的仓库（如果不想使用 Git Large File Storage，也可删除大文件）。
 

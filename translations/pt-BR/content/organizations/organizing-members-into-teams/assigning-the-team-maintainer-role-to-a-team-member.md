@@ -44,6 +44,6 @@ Antes de poder promover um integrante da organização para chefe de uma equipe,
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_members_tab %}
-4. Selecione a pessoa que você gostaria de promover a mantenedor de equipe. ![Caixa de seleção ao lado de integrante de organização](/assets/images/help/teams/team-member-check-box.png)
-5. Acesse o menu suspenso que está acima da lista de integrantes da equipe e clique em **Change role...** (Alterar função). ![Menu suspenso com opção change role (alterar função)](/assets/images/help/teams/bulk-edit-drop-down.png)
-6. Selecione uma nova função e clique em **Change role** (Alterar função). ![Botão de rádio para funções de Mantendor ou Integrante](/assets/images/help/teams/team-role-modal.png)
+4. Selecione a pessoa que você gostaria de promover a mantenedor de equipe. ![Caixa de seleção ao lado de integrante de organização](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. Acesse o menu suspenso que está acima da lista de integrantes da equipe e clique em **Change role...** (Alterar função). ![Menu suspenso com opção change role (alterar função)](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)
+6. Selecione uma nova função e clique em **Change role** (Alterar função). ![Botão de rádio para funções de Mantendor ou Integrante](/assets/images/2021/10/help/teams/team-role-modal.png)

@@ -71,7 +71,7 @@ The software tools included in {% data variables.product.prodname_dotcom %}-host
 ### Preinstalled software
 
 Workflow logs include a link to the preinstalled tools on the exact runner. To find this information in the workflow log, expand the `Set up job` section. Under that section, expand the `Virtual Environment` section. The link following `Included Software` will describe the preinstalled tools on the runner that ran the workflow.
-![Installed software link](/assets/images/actions-runner-installed-software-link.png)
+![Installed software link](/assets/images/2021/10/actions-runner-installed-software-link.png)
 For more information, see "[Viewing workflow run history](/actions/managing-workflow-runs/viewing-workflow-run-history)."
 
 For the overall list of included tools for each runner operating system, see the links below:

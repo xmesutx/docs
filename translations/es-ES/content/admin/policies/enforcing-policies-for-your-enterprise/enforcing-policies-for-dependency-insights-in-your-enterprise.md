@@ -29,6 +29,6 @@ A lo largo de todas las organizaciones que pertenezcan a tu empresa, puedes cont
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. En la barra lateral izquierda, haz clic en **Organizaciones**. ![Pestaña de organizaciones en la barra lateral de la empresa](/assets/images/help/business-accounts/settings-policies-org-tab.png)
+3. En la barra lateral izquierda, haz clic en **Organizaciones**. ![Pestaña de organizaciones en la barra lateral de la empresa](/assets/images/2021/10/help/business-accounts/settings-policies-org-tab.png)
 4. En "Políticas de la organización", revisa la información sobre cómo modificar los parámetros. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. En "Políticas de la organización", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de la organización](/assets/images/help/business-accounts/organization-policy-drop-down.png)
+5. En "Políticas de la organización", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de la organización](/assets/images/2021/10/help/business-accounts/organization-policy-drop-down.png)

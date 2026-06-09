@@ -1,1 +1,1 @@
-1. Si se te solicita, teclea tu contraseña de {% data variables.enterprise.management_console %}. ![Pantalla de desbloqueo de {% data variables.enterprise.management_console %}](/assets/images/enterprise/management-console/unlock-password.png)
+1. Si se te solicita, teclea tu contraseña de {% data variables.enterprise.management_console %}. ![Pantalla de desbloqueo de {% data variables.enterprise.management_console %}](/assets/images/2021/10/enterprise/management-console/unlock-password.png)

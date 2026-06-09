@@ -21,9 +21,9 @@ shortTitle: Criar uma discussão de equipe
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-discussions-tab %}
-6. Digite um título para a discussão de equipe e um comentário para iniciar uma conversa. ![Novo comentário de discussão de equipe](/assets/images/help/projects/team-discussions-comment.png)
-7. Se desejar, selecione se deseja que sua postagem seja privada ou pública usando o menu suspenso. ![Menu de configurações de privacidade das discussões de equipe](/assets/images/help/projects/team-discussions-privacy-menu.png)
-8. Clique em **Comentário**. ![Botão Create new team discussions comment (Criar comentário de discussões de equipe)](/assets/images/help/projects/team-discussions-comment-button.png)
+6. Digite um título para a discussão de equipe e um comentário para iniciar uma conversa. ![Novo comentário de discussão de equipe](/assets/images/2021/10/help/projects/team-discussions-comment.png)
+7. Se desejar, selecione se deseja que sua postagem seja privada ou pública usando o menu suspenso. ![Menu de configurações de privacidade das discussões de equipe](/assets/images/2021/10/help/projects/team-discussions-privacy-menu.png)
+8. Clique em **Comentário**. ![Botão Create new team discussions comment (Criar comentário de discussões de equipe)](/assets/images/2021/10/help/projects/team-discussions-comment-button.png)
 
 ## Leia mais
 

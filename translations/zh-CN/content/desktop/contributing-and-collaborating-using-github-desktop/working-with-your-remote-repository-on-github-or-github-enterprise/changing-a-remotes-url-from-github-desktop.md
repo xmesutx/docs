@@ -12,16 +12,16 @@ shortTitle: 更改远程的 URL
 
 {% mac %}
 
-1. 在 **Repository（仓库）**菜单中，单击 **Repository Settings...（仓库设置...）**。 ![仓库设置菜单选项](/assets/images/help/desktop/repository-settings-mac.png)
-2. 在 **Primary remote repository（主要远程仓库）**字段中，键入所需的 URL。 ![主要远程仓库字段](/assets/images/help/desktop/repository-settings-remote-mac.png)
-3. 单击 **Save（保存）**。 ![保存按钮](/assets/images/help/desktop/repository-settings-save-mac.png)
+1. 在 **Repository（仓库）**菜单中，单击 **Repository Settings...（仓库设置...）**。 ![仓库设置菜单选项](/assets/images/2021/10/help/desktop/repository-settings-mac.png)
+2. 在 **Primary remote repository（主要远程仓库）**字段中，键入所需的 URL。 ![主要远程仓库字段](/assets/images/2021/10/help/desktop/repository-settings-remote-mac.png)
+3. 单击 **Save（保存）**。 ![保存按钮](/assets/images/2021/10/help/desktop/repository-settings-save-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. 在 **Repository（仓库）**菜单中，单击 **Repository Settings...（仓库设置...）**。 ![仓库设置菜单选项](/assets/images/help/desktop/repository-settings-win.png)
-2. 在 **Primary remote repository（主要远程仓库）**字段中，键入所需的 URL。 ![主要远程仓库字段](/assets/images/help/desktop/repository-settings-remote-win.png)
-3. 单击 **Save（保存）**。 ![保存按钮](/assets/images/help/desktop/repository-settings-save-win.png)
+1. 在 **Repository（仓库）**菜单中，单击 **Repository Settings...（仓库设置...）**。 ![仓库设置菜单选项](/assets/images/2021/10/help/desktop/repository-settings-win.png)
+2. 在 **Primary remote repository（主要远程仓库）**字段中，键入所需的 URL。 ![主要远程仓库字段](/assets/images/2021/10/help/desktop/repository-settings-remote-win.png)
+3. 单击 **Save（保存）**。 ![保存按钮](/assets/images/2021/10/help/desktop/repository-settings-save-win.png)
 
 {% endwindows %}

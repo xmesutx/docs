@@ -46,11 +46,11 @@ You cannot create a default license file. License files must be added to individ
 
 {% data reusables.repositories.create_new %}
 2. Use the **Owner** drop-down menu, and select the organization{% ifversion fpt or ghes or ghec %} or user account{% endif %} you want to create default files for.
-  ![Owner drop-down menu](/assets/images/help/repository/create-repository-owner.png)
+  ![Owner drop-down menu](/assets/images/2021/10/help/repository/create-repository-owner.png)
 3. Type **.github** as the name for your repository, and an optional description.
-  ![Create repository field](/assets/images/help/repository/default-file-repository-name.png)
+  ![Create repository field](/assets/images/2021/10/help/repository/default-file-repository-name.png)
 4. Make sure the repository status is set to **Public** (a repository for default files cannot be private).
-  ![Radio buttons to select private or public status](/assets/images/help/repository/create-repository-public-private.png)
+  ![Radio buttons to select private or public status](/assets/images/2021/10/help/repository/create-repository-public-private.png)
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
 7. In the repository, create one of the supported community health files. Issue templates{% ifversion fpt or ghes or ghec %} and their configuration file{% endif %} must be in a folder called `.github/ISSUE_TEMPLATE`. All other supported files may be in the root of the repository, the `.github` folder, or the `docs` folder. For more information, see "[Creating new files](/articles/creating-new-files/)."

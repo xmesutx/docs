@@ -19,6 +19,6 @@ Puedes elegir la cantidad de tiempo que {% data variables.product.product_locati
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-3. En la barra lateral izquierda, haz clic en **Applications** (Aplicaciones). ![Pestaña de solicitudes de la barra lateral de configuraciones](/assets/images/enterprise/management-console/sidebar-applications.png)
-4. Debajo de "Avatar image cache time (seconds)" (Tiempo de almacenamiento en caché del avatar [en segundos]), escribe la cantidad de segundos que quieres que {% data variables.product.product_location %} almacene en caché las imágenes de avatar.![Campo de formulario de almacenamiento en caché de imagen de avatar](/assets/images/enterprise/management-console/add-image-caching-value-field.png)
+3. En la barra lateral izquierda, haz clic en **Applications** (Aplicaciones). ![Pestaña de solicitudes de la barra lateral de configuraciones](/assets/images/2021/10/enterprise/management-console/sidebar-applications.png)
+4. Debajo de "Avatar image cache time (seconds)" (Tiempo de almacenamiento en caché del avatar [en segundos]), escribe la cantidad de segundos que quieres que {% data variables.product.product_location %} almacene en caché las imágenes de avatar.![Campo de formulario de almacenamiento en caché de imagen de avatar](/assets/images/2021/10/enterprise/management-console/add-image-caching-value-field.png)
 {% data reusables.enterprise_management_console.save-settings %}

@@ -23,7 +23,7 @@ redirect_from:
 
 ただし、{% data variables.product.prodname_dotcom %} 設定で警戒モードを有効にすることで、他のユーザにコミットとタグに起因するアイデンティティの信頼性を高めることができます。 警戒モードを有効にすると、すべてのコミットとタグに 3 つの検証ステータスのいずれかがマークされます。
 
-![署名の検証ステータス](/assets/images/help/commits/signature-verification-statuses.png)
+![署名の検証ステータス](/assets/images/2021/10/help/commits/signature-verification-statuses.png)
 
 {% data reusables.identity-and-permissions.vigilant-mode-verification-statuses %}
 
@@ -37,4 +37,4 @@ You should only enable vigilant mode if you sign all of your commits and tags an
 {% data reusables.user-settings.ssh %}
 3. [SSH Settings] ページの [Vigilant mode] で、[**Flag unsigned commits as unverified**] を選択します。
 
-   ![署名されていないコミットを未検証のチェックボックスとしてフラグを立てる](/assets/images/help/commits/vigilant-mode-checkbox.png)
+   ![署名されていないコミットを未検証のチェックボックスとしてフラグを立てる](/assets/images/2021/10/help/commits/vigilant-mode-checkbox.png)

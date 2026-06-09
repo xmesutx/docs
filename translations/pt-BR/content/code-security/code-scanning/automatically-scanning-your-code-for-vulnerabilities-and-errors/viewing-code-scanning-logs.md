@@ -57,13 +57,13 @@ Depois de configurar o {% data variables.product.prodname_code_scanning %} para 
 
   Você verá uma lista que inclui uma entrada para executar o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}. O texto da entrada é o título que você deu à sua mensagem de commit.
 
-  ![Lista de ações que mostram o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/help/repository/code-scanning-actions-list.png)
+  ![Lista de ações que mostram o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/help/repository/code-scanning-actions-list.png)
 
 1. Clique na entrada para o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}.
 
 2. Clique no nome do trabalho à esquerda. Por exemplo, **Analise (LANGUAGE)**.
 
-  ![Saída do log do fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/help/repository/code-scanning-logging-analyze-action.png)
+  ![Saída do log do fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/help/repository/code-scanning-logging-analyze-action.png)
 
 1. Revise a saída de log das ações deste fluxo de trabalho enquanto elas são executadas.
 
@@ -74,9 +74,9 @@ Depois de configurar o {% data variables.product.prodname_code_scanning %} para 
 **Observação:** Se você criou um pull request para adicionar o fluxo de trabalho de {% data variables.product.prodname_code_scanning %} ao repositório, os alertas desse pull request não serão exibidos diretamente na página de {% data variables.product.prodname_code_scanning_capc %} até que o pull request seja mesclado. Se algum alerta for encontrado, você poderá visualizá-los, antes do merge do pull request, clicando no link dos **_n_ alertas encontrados** no banner na página de {% data variables.product.prodname_code_scanning_capc %}.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-  ![Clique no link "n alertas encontrados"](/assets/images/help/repository/code-scanning-alerts-found-link.png)
+  ![Clique no link "n alertas encontrados"](/assets/images/2021/10/help/repository/code-scanning-alerts-found-link.png)
 {% else %}
-  ![Clique no link "n alertas encontrados"](/assets/images/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
+  ![Clique no link "n alertas encontrados"](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
 {% endif %}
 
 {% endnote %}

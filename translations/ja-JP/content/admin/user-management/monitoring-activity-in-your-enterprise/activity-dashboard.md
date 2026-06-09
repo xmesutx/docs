@@ -24,9 +24,9 @@ topics:
 - 新規 Organization
 - 新規 Team
 
-![アクティビティダッシュボード](/assets/images/enterprise/activity/activity-dashboard-yearly.png)
+![アクティビティダッシュボード](/assets/images/2021/10/enterprise/activity/activity-dashboard-yearly.png)
 
 ## アクティビティダッシュボードへのアクセス
 
-1. ページの上部で [**Explore**] をクリックします。 ![[Explore] タブ](/assets/images/enterprise/settings/ent-new-explore.png)
-2. 右上にある **Activity** をクリックする。 ![Activity ボタン](/assets/images/enterprise/activity/activity-button.png)
+1. ページの上部で [**Explore**] をクリックします。 ![[Explore] タブ](/assets/images/2021/10/enterprise/settings/ent-new-explore.png)
+2. 右上にある **Activity** をクリックする。 ![Activity ボタン](/assets/images/2021/10/enterprise/activity/activity-button.png)

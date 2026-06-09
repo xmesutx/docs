@@ -23,15 +23,15 @@ You can also give the upstream repository's maintainers permission to push commi
 1. Navigate to the original repository where you created your fork.
 {% data reusables.repositories.new-pull-request %}
 3. On the Compare page, click **compare across forks**.
-  ![Compare across forks link](/assets/images/help/pull_requests/compare-across-forks-link.png)
+  ![Compare across forks link](/assets/images/2021/10/help/pull_requests/compare-across-forks-link.png)
 4. In the "base branch" drop-down menu, select the branch of the upstream repository you'd like to merge changes into.
-  ![Drop-down menus for choosing the base fork and branch](/assets/images/help/pull_requests/choose-base-fork-and-branch.png)
+  ![Drop-down menus for choosing the base fork and branch](/assets/images/2021/10/help/pull_requests/choose-base-fork-and-branch.png)
 5. In the "head fork" drop-down menu, select your fork, then use the "compare branch" drop-down menu to select the branch you made your changes in.
-  ![Drop-down menus for choosing the head fork and compare branch](/assets/images/help/pull_requests/choose-head-fork-compare-branch.png)
+  ![Drop-down menus for choosing the head fork and compare branch](/assets/images/2021/10/help/pull_requests/choose-head-fork-compare-branch.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.allow-maintainers-user-forks %}
 
-  ![allow-maintainers-to-make-edits-checkbox](/assets/images/help/pull_requests/allow-maintainers-to-make-edits.png)
+  ![allow-maintainers-to-make-edits-checkbox](/assets/images/2021/10/help/pull_requests/allow-maintainers-to-make-edits.png)
 {% data reusables.repositories.create-pull-request %}
 
 {% data reusables.repositories.asking-for-review %}

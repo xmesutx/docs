@@ -21,8 +21,8 @@ versions:
 ## 从远程拉取到您的本地分支
 
 1. 在 {% data variables.product.prodname_desktop %} 中，使用 {% octicon "git-branch" aria-label="The branch icon" %} **Current Branch（当前分支）**下拉菜单，然后选择要更新的本地分支。
-2.  要检查远程分支上的提交，请单击 **Fetch origin（获取源)** ![提取源按钮](/assets/images/help/desktop/fetch-button.png)
-3. 要从远程分支拉取任何提交，请点击 **Pull origin（拉取来源）**或 **Pull origin with rebase（包含变基的的拉取来源）**。 ![拉取源按钮](/assets/images/help/desktop/pull-button.png)
+2.  要检查远程分支上的提交，请单击 **Fetch origin（获取源)** ![提取源按钮](/assets/images/2021/10/help/desktop/fetch-button.png)
+3. 要从远程分支拉取任何提交，请点击 **Pull origin（拉取来源）**或 **Pull origin with rebase（包含变基的的拉取来源）**。 ![拉取源按钮](/assets/images/2021/10/help/desktop/pull-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
 
 ## 将另一个分支合并到项目分支
@@ -37,35 +37,35 @@ versions:
 
    {% endnote %}
 
-   ![合并按钮](/assets/images/help/desktop/merge-branch-button.png)
+   ![合并按钮](/assets/images/2021/10/help/desktop/merge-branch-button.png)
 {% data reusables.desktop.push-origin %}
 
 ## 将项目分支变基到另一个分支
 
 {% mac %}
 
-1. 在菜单栏中，使用 **Branch（分支）**下拉菜单，并单击 **Rebase Current Branch（变基当前分支）**。 ![在分支中重新变基当前分支下拉菜单](/assets/images/help/desktop/mac-rebase-current-branch.png)
-2. 单击要变基到当前分支的分支，然后单击 **Start rebase（开始变基）**。 ![开始变基按钮](/assets/images/help/desktop/start-rebase-button.png)
-3. 如果确定要变基，请单击 **Begin rebase（开始变基）**。 ![开始变基按钮](/assets/images/help/desktop/begin-rebase-button.png)
+1. 在菜单栏中，使用 **Branch（分支）**下拉菜单，并单击 **Rebase Current Branch（变基当前分支）**。 ![在分支中重新变基当前分支下拉菜单](/assets/images/2021/10/help/desktop/mac-rebase-current-branch.png)
+2. 单击要变基到当前分支的分支，然后单击 **Start rebase（开始变基）**。 ![开始变基按钮](/assets/images/2021/10/help/desktop/start-rebase-button.png)
+3. 如果确定要变基，请单击 **Begin rebase（开始变基）**。 ![开始变基按钮](/assets/images/2021/10/help/desktop/begin-rebase-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
-4. 要推送本地更改，请单击 **Force push origin（强制推送源）**。 ![强制推送源](/assets/images/help/desktop/force-push-origin.png)
+4. 要推送本地更改，请单击 **Force push origin（强制推送源）**。 ![强制推送源](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. 使用 **Branch（分支）**下拉菜单，并单击 **Rebase Current Branch（变基当前分支）**。 ![在分支中重新变基当前分支下拉菜单](/assets/images/help/desktop/windows-rebase-current-branch.png)
-2. 单击要变基到当前分支的分支，然后单击 **Start rebase（开始变基）**。 ![开始变基按钮](/assets/images/help/desktop/start-rebase-button.png)
-3. 如果确定要变基，请单击 **Begin rebase（开始变基）**。 ![开始变基按钮](/assets/images/help/desktop/begin-rebase-button.png)
+1. 使用 **Branch（分支）**下拉菜单，并单击 **Rebase Current Branch（变基当前分支）**。 ![在分支中重新变基当前分支下拉菜单](/assets/images/2021/10/help/desktop/windows-rebase-current-branch.png)
+2. 单击要变基到当前分支的分支，然后单击 **Start rebase（开始变基）**。 ![开始变基按钮](/assets/images/2021/10/help/desktop/start-rebase-button.png)
+3. 如果确定要变基，请单击 **Begin rebase（开始变基）**。 ![开始变基按钮](/assets/images/2021/10/help/desktop/begin-rebase-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
-4. 要上推本地更改，请单击 **Force push origin（强制推送源）**。 ![强制推送源](/assets/images/help/desktop/force-push-origin.png)
+4. 要上推本地更改，请单击 **Force push origin（强制推送源）**。 ![强制推送源](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endwindows %}
 
 ## 将另一个分支压缩并合并到项目分支
 
-1. 使用 **Branch（分支）**下拉菜单，并单击 **Squash and Merge into Current Branch（压缩并合并到当前分支）**。 ![分支下拉菜单中的压缩并合并](/assets/images/help/desktop/squash-and-merge-menu.png)
-2. 单击要合并到当前分支的分支，然后单击 **Squash and merge（压缩并合并）**。 ![压缩并合并按钮](/assets/images/help/desktop/squash-and-merge-selection.png)
+1. 使用 **Branch（分支）**下拉菜单，并单击 **Squash and Merge into Current Branch（压缩并合并到当前分支）**。 ![分支下拉菜单中的压缩并合并](/assets/images/2021/10/help/desktop/squash-and-merge-menu.png)
+2. 单击要合并到当前分支的分支，然后单击 **Squash and merge（压缩并合并）**。 ![压缩并合并按钮](/assets/images/2021/10/help/desktop/squash-and-merge-selection.png)
    {% note %}
 
    **注意：**如果存在合并冲突，{% data variables.product.prodname_desktop %} 会在 **Squash and merge（压缩并合并）**按钮上方提醒您。 在解决所有冲突之前无法压缩和合并分支。

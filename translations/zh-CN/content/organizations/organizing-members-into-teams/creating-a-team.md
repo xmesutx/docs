@@ -28,7 +28,7 @@ topics:
 {% ifversion ghec %}
 1. （可选）如果您的组织或企业帐户使用团队同步或您的企业使用 {% data variables.product.prodname_emus %}，则将身份提供商组连接到您的团队。
     * 如果您的企业使用 {% data variables.product.prodname_emus %}，请使用“Identity Provider Groups（身份提供商组）”下拉菜单，并选择单个身份提供商组以连接到新团队。 更多信息请参阅“[使用身份提供商组管理团队成员](/enterprise-cloud@latest/admin/authentication/managing-your-enterprise-users-with-your-identity-provider/managing-team-memberships-with-identity-provider-groups)”。
-    * 如果您的组织或企业使用团队同步 ，请使用“Identity Provider Groups（身份提供商组）”下拉菜单，并选择五个身份提供商组以连接到新团队。 更多信息请参阅“[同步团队与身份提供程序组](/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group)”。 ![用于选择身份提供程序组的下拉菜单](/assets/images/help/teams/choose-an-idp-group.png)
+    * 如果您的组织或企业使用团队同步 ，请使用“Identity Provider Groups（身份提供商组）”下拉菜单，并选择五个身份提供商组以连接到新团队。 更多信息请参阅“[同步团队与身份提供程序组](/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group)”。 ![用于选择身份提供程序组的下拉菜单](/assets/images/2021/10/help/teams/choose-an-idp-group.png)
 {% endif %}
 {% data reusables.organizations.team_visibility %}
 {% data reusables.organizations.create_team %}

@@ -27,7 +27,7 @@ topics:
 
 每个警报都会高亮显示代码的问题以及识别该问题的工具名称。 You can see the line of code that triggered the alert, as well as properties of the alert, such as the alert severity{% ifversion fpt or ghes > 3.1 or ghae or ghec %}, security severity,{% endif %} and the nature of the problem. 警报还会告知该问题第一次被引入的时间。 对于由 {% data variables.product.prodname_codeql %} 分析确定的警报，您还会看到如何解决问题的信息。
 
-![来自 {% data variables.product.prodname_code_scanning %} 的警报示例](/assets/images/help/repository/code-scanning-alert.png)
+![来自 {% data variables.product.prodname_code_scanning %} 的警报示例](/assets/images/2021/10/help/repository/code-scanning-alert.png)
 
 If you set up {% data variables.product.prodname_code_scanning %} using {% data variables.product.prodname_codeql %}, you can also find data-flow problems in your code. 数据流分析将查找代码中的潜在安全问题，例如：不安全地使用数据、将危险参数传递给函数以及泄漏敏感信息。
 
@@ -61,11 +61,11 @@ By default, any {% data variables.product.prodname_code_scanning %} results with
 
 Here is an example from the {% data variables.product.prodname_code_scanning %} alert list of an alert marked as occurring in library code.
 
-![Code scanning library alert in list](/assets/images/help/repository/code-scanning-library-alert-index.png)
+![Code scanning library alert in list](/assets/images/2021/10/help/repository/code-scanning-library-alert-index.png)
 
 On the alert page, you can see that the filepath is marked as library code (`Library` label).
 
-![Code scanning library alert details](/assets/images/help/repository/code-scanning-library-alert-show.png)
+![Code scanning library alert details](/assets/images/2021/10/help/repository/code-scanning-library-alert-show.png)
 
 {% if codeql-ml-queries %}
 
@@ -75,7 +75,7 @@ On the alert page, you can see that the filepath is marked as library code (`Lib
 
 In repositories that run {% data variables.product.prodname_code_scanning %} using the {% data variables.product.prodname_codeql %} action, you may see some alerts that are marked as experimental. These are alerts that were found using a machine learning model to extend the capabilities of an existing {% data variables.product.prodname_codeql %} query.
 
-![Code scanning experimental alert in list](/assets/images/help/repository/code-scanning-experimental-alert-list.png)
+![Code scanning experimental alert in list](/assets/images/2022/02/help/repository/code-scanning-experimental-alert-list.png)
 
 ### Benefits of using machine learning models to extend queries
 
@@ -89,7 +89,7 @@ Each of the security queries for {% data variables.product.prodname_codeql %} id
 
 Alerts found using a machine learning model are tagged as "Experimental alerts" to show that the technology is under active development. These alerts have a higher rate of false positive results than the queries they are based on. The machine learning model will improve based on user actions such as marking a poor result as a false positive or fixing a good result.
 
-![Code scanning experimental alert details](/assets/images/help/repository/code-scanning-experimental-alert-show.png)
+![Code scanning experimental alert details](/assets/images/2022/02/help/repository/code-scanning-experimental-alert-show.png)
 
 ## Enabling experimental alerts
 

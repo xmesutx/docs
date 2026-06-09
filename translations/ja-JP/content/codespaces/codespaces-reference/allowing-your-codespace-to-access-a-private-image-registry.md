@@ -62,7 +62,7 @@ If you are accessing a container image from a registry that isn't {% data variab
 
 If you are setting the secrets at the user or organization level, make sure to assign those secrets to the repository you'll be creating the codespace in by choosing an access policy from the dropdown list.
 
-![Image registry secret example](/assets/images/help/codespaces/secret-repository-access.png)
+![Image registry secret example](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 
 ### Example secrets
 
@@ -76,7 +76,7 @@ ACR_CONTAINER_REGISTRY_PASSWORD = <PAT>
 
 For information on common image registries, see "[Common image registry servers](#common-image-registry-servers)." Note that accessing AWS Elastic Container Registry (ECR) is different.
 
-![Image registry secret example](/assets/images/help/settings/codespaces-image-registry-secret-example.png)
+![Image registry secret example](/assets/images/2021/10/help/settings/codespaces-image-registry-secret-example.png)
 
 Once you've added the secrets, you may need to stop and then start the codespace you are in for the new environment variables to be passed into the container. For more information, see "[Suspending or stopping a codespace](/codespaces/codespaces-reference/using-the-command-palette-in-codespaces#suspending-or-stopping-a-codespace)."
 

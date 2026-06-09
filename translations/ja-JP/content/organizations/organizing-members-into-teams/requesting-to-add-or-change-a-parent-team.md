@@ -24,12 +24,12 @@ Organization のオーナーである場合、または子チームと親チー�
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. Team のリストで、親の下にネストする Team の名前をクリックします。 ![Organization の Team のリスト](/assets/images/help/teams/click-team-name.png)
+4. Team のリストで、親の下にネストする Team の名前をクリックします。 ![Organization の Team のリスト](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
-6. [Parent team] で、[Select parent team] ドロップダウン メニューを使用して新しい親チームの名前をクリックします。 ![Organization の Team がリストされるドロップダウンメニュー](/assets/images/help/teams/choose-parent-team.png)
+6. [Parent team] で、[Select parent team] ドロップダウン メニューを使用して新しい親チームの名前をクリックします。 ![Organization の Team がリストされるドロップダウンメニュー](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. [**Save changes**] をクリックします。
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. [**Confirm changes**] をクリックして、 Team の親を追加または変更するための要求を送信します。 ![リポジトリアクセス権の変更に関する情報のモーダルボックス](/assets/images/help/teams/confirm-new-parent-team.png)
+9. [**Confirm changes**] をクリックして、 Team の親を追加または変更するための要求を送信します。 ![リポジトリアクセス権の変更に関する情報のモーダルボックス](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## 参考リンク
 

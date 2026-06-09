@@ -31,7 +31,7 @@ Primeiro, crie um problema. Existem várias maneiras de criar um problema. Você
 {% data reusables.repositories.new_issue %}
 1. Neste exemplo, começaremos com um problema em branco. Seu repositório pode usar os modelos de problema{% ifversion fpt or ghec %} e formulários de problema{% endif %} para incentivar os colaboradores a fornecer informações específicas. Se seu repositório usa modelos de problema, {% ifversion fpt or ghes or ghec %}clique em **Abrir um problema em branco**{% else %}clique em **Abrir um problema regular.**{% endif %}.
 
-![problema em branco](/assets/images/help/issues/blank-issue.png)
+![problema em branco](/assets/images/2021/10/help/issues/blank-issue.png)
 
 ## Preenchimento de informações
 
@@ -41,13 +41,13 @@ Adicione uma descrição que explique o propósito do problema, incluindo todos 
 
 Você pode usar o markdown para adicionar formatação, links, emojis e muito mais. Para obter mais informações, consulte "[Escrevendo no GitHub](/github/writing-on-github)".
 
-![título e texto do problema](/assets/images/help/issues/issue-title-body.png)
+![título e texto do problema](/assets/images/2021/10/help/issues/issue-title-body.png)
 
 ## Adicionando uma lista de tarefas
 
 Pode ser útil dividir problemas grandes em tarefas menores, ou rastrear vários problemas relacionados em um problema único maior. Adicione uma lista de tarefas ao seu problema, fornecendo uma breve introdução com `[ ]`. Referência de problemas existentes por número de problema ou URL. Você pode usar texto simples para acompanhar as tarefas que não têm um problema correspondente e convertê-las em problemas posteriormente. Para obter mais informações, consulte "[Sobre listas de tarefas](/issues/tracking-your-work-with-issues/about-task-lists)".
 
-![problema com lista de tarefas](/assets/images/help/issues/issue-task-list-raw.png)
+![problema com lista de tarefas](/assets/images/2021/10/help/issues/issue-task-list-raw.png)
 
 ## Adicionando etiquetas
 
@@ -55,25 +55,25 @@ Adicione uma etiqueta para categorizar o seu problema. Por exemplo, você pode u
 
 Você pode usar as etiquetas padrão ou criar uma nova. Para obter mais informações, consulte "[Gerenciar etiquetas](/issues/using-labels-and-milestones-to-track-work/managing-labels)".
 
-![problema com etiquetas](/assets/images/help/issues/issue-with-label.png)
+![problema com etiquetas](/assets/images/2021/10/help/issues/issue-with-label.png)
 
 ## Adicionar marcos
 
 Você pode adicionar um marco para acompanhar o problema como parte de um destino baseado em data. Um marco mostrará o progresso dos problemas à medida que se aproxima o prazo. Para obter mais informações, consulte "[Sobre marcos](/issues/using-labels-and-milestones-to-track-work/about-milestones)".
 
-![problema com marco](/assets/images/help/issues/issue-milestone.png)
+![problema com marco](/assets/images/2021/10/help/issues/issue-milestone.png)
 
 ## Atribuindo o problema
 
 Para comunicar-se responsabilidade, você pode atribuir o problema a um integrante da sua organização. Para obter mais informações, consulte "[Atribuir problemas e pull requests a outros usuários do GitHub](/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)".
 
-![problema com responsáveis](/assets/images/help/issues/issue-assignees.png)
+![problema com responsáveis](/assets/images/2021/10/help/issues/issue-assignees.png)
 
 ## Adicionando a problema a um projeto
 
 Você pode adicionar um problema a um projeto existente. {% ifversion fpt or ghec %}Se você usar projetos (beta), você também poderá preencher os metadados do projeto. {% endif %} Para mais informações sobre projetos, consulte {% ifversion fpt or ghec %}"[Sobre projetos (beta)](/issues/trying-out-the-new-projects-experience/about-projects)e {% endif %}"[Organizar o seu trabalho com quadros de projeto](/issues/organizing-your-work-with-project-boards)".
 
-![problema com projetos](/assets/images/help/issues/issue-project.png)
+![problema com projetos](/assets/images/2021/10/help/issues/issue-project.png)
 
 ## Enviando o seu problema
 
@@ -83,7 +83,7 @@ Clique em **Enviar novo problema** para criar o seu problema. Você pode editar 
 
 Depois que o seu problema for criado, continue a conversa adicionando comentários ao problema. Você pode @mencionar colaboradores ou equipes para chamar a atenção para um comentário. Para vincular problemas relacionados no mesmo repositório, você pode digitar `#` seguido de parte do título do problema e, em seguida, clicar no problema que você deseja vincular. Para obter mais informações, consulte "[Escrevendo no GitHub](/github/writing-on-github)".
 
-![issue comment](/assets/images/help/issues/issue-comment.png)
+![issue comment](/assets/images/2021/10/help/issues/issue-comment.png)
 
 ## Próximas etapas
 

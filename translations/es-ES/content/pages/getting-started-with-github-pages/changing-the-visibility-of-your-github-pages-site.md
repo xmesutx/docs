@@ -33,8 +33,8 @@ Para utilizar un dominio más corto y memorable para tu sitio privado de {% data
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. Debajo de "{% data variables.product.prodname_pages %}", selecciona el menú desplegable de **visibilidad de {% data variables.product.prodname_pages %}** y luego da clic en una visibilidad. ![Menú desplegable para elegir la visibilidad para tu sitio](/assets/images/help/pages/public-or-private-visibility.png)
-4. Para ver tu sitio publicado, debajo de "{% data variables.product.prodname_pages %}", da clic en la URL del mismo. ![URL de tu sitio publicado de forma privada](/assets/images/help/pages/click-private-pages-url-to-preview.png)
+3. Debajo de "{% data variables.product.prodname_pages %}", selecciona el menú desplegable de **visibilidad de {% data variables.product.prodname_pages %}** y luego da clic en una visibilidad. ![Menú desplegable para elegir la visibilidad para tu sitio](/assets/images/2021/10/help/pages/public-or-private-visibility.png)
+4. Para ver tu sitio publicado, debajo de "{% data variables.product.prodname_pages %}", da clic en la URL del mismo. ![URL de tu sitio publicado de forma privada](/assets/images/2021/10/help/pages/click-private-pages-url-to-preview.png)
 
   {% note %}
 

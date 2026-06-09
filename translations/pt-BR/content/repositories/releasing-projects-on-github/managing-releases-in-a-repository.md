@@ -48,27 +48,27 @@ Você pode escolher se objetos {% data variables.large_files.product_name_long %
 
 3. Clique em **Draft a new release** (Rascunhar uma nova versão).
    
-   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}![Releases draft button](/assets/images/help/releases/draft-release-button-with-search.png){% else %}![Releases draft button](/assets/images/help/releases/draft_release_button.png){% endif %}
+   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}![Releases draft button](/assets/images/2021/10/help/releases/draft-release-button-with-search.png){% else %}![Releases draft button](/assets/images/2021/10/help/releases/draft_release_button.png){% endif %}
 
 4. {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}Click **Escolha uma tag**, digite{% else %}Digite{% endif %} o número de uma versão para a sua versão{% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %} e pressione **Enter**{% endif %}. Como alternativa, selecione um tag existente.
    
-   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Insira uma tag](/assets/images/help/releases/releases-tag-create.png)
+   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Insira uma tag](/assets/images/2021/10/help/releases/releases-tag-create.png)
 
 5. Se você estiver criando uma nova tag, clique em **Criar nova tag**.
    
-   ![Confirme que você deseja criar uma nova tag](/assets/images/help/releases/releases-tag-create-confirm.png) 
+   ![Confirme que você deseja criar uma nova tag](/assets/images/2021/10/help/releases/releases-tag-create-confirm.png) 
    
    {% else %}
    
-   ![Versão com tag das versões](/assets/images/enterprise/releases/releases-tag-version.png) 
+   ![Versão com tag das versões](/assets/images/2021/10/enterprise/releases/releases-tag-version.png) 
    
    {% endif %}
 
 5. Se você criou uma nova tag, use o menu suspenso para selecionar o branch que contém o projeto que você deseja liberar.
    
-   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Escolha um branch](/assets/images/help/releases/releases-choose-branch.png) 
+   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Escolha um branch](/assets/images/2021/10/help/releases/releases-choose-branch.png) 
    
-   {% else %}![Releases tagged branch](/assets/images/enterprise/releases/releases-tag-branch.png){% endif %}
+   {% else %}![Releases tagged branch](/assets/images/2021/10/enterprise/releases/releases-tag-branch.png){% endif %}
 
 6. Digite um título e uma descrição para a sua versão. 
    
@@ -85,19 +85,19 @@ Você pode escolher se objetos {% data variables.large_files.product_name_long %
    
    {% endif %}
    
-   ![Descrição das versões](/assets/images/help/releases/releases_description_auto.png)
+   ![Descrição das versões](/assets/images/2021/10/help/releases/releases_description_auto.png)
 
-7. Opcionalmente, para incluir arquivos binários, como programas compilados em sua versão, arraste e solte ou selecione arquivos manualmente na caixa de binários. ![Fornecer um DMG com a versão](/assets/images/help/releases/releases_adding_binary.gif)
+7. Opcionalmente, para incluir arquivos binários, como programas compilados em sua versão, arraste e solte ou selecione arquivos manualmente na caixa de binários. ![Fornecer um DMG com a versão](/assets/images/2021/10/help/releases/releases_adding_binary.gif)
 
-8. Para notificar os usuários que a versão não está pronta para produção e pode ser instável, selecione **This is a pre-release** (Esta é uma versão prévia). ![Caixa de seleção para marcar uma versão como pré-versão](/assets/images/help/releases/prerelease_checkbox.png) 
+8. Para notificar os usuários que a versão não está pronta para produção e pode ser instável, selecione **This is a pre-release** (Esta é uma versão prévia). ![Caixa de seleção para marcar uma versão como pré-versão](/assets/images/2021/10/help/releases/prerelease_checkbox.png) 
    
    {%- ifversion fpt or ghec %}
 
-1. Opcionalmente, se {% data variables.product.prodname_discussions %} estiver habilitado no repositório, selecione **Criar uma discussão para esta versão** e, em seguida, selecione o menu suspenso **Categoria** e clique em uma categoria para a discussão de da versão. ![Caixa de seleção para criar uma discussão de versão e menu suspenso para escolher uma categoria](/assets/images/help/releases/create-release-discussion.png) 
+1. Opcionalmente, se {% data variables.product.prodname_discussions %} estiver habilitado no repositório, selecione **Criar uma discussão para esta versão** e, em seguida, selecione o menu suspenso **Categoria** e clique em uma categoria para a discussão de da versão. ![Caixa de seleção para criar uma discussão de versão e menu suspenso para escolher uma categoria](/assets/images/2021/10/help/releases/create-release-discussion.png) 
    
    {%- endif %}
 
-9. Se estiver pronto para tornar pública a sua versão, clique em **Publish release** (Publicar versão). Para trabalhar na versão posteriormente, clique em **Save draft** (Salvar rascunho). ![Botões Publish release (Publicar versão) e Draft release (Rascunhar versão)](/assets/images/help/releases/release_buttons.png)
+9. Se estiver pronto para tornar pública a sua versão, clique em **Publish release** (Publicar versão). Para trabalhar na versão posteriormente, clique em **Save draft** (Salvar rascunho). ![Botões Publish release (Publicar versão) e Draft release (Rascunhar versão)](/assets/images/2021/10/help/releases/release_buttons.png)
    
    {%- ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4972 or ghae-issue-4974 %}
 
@@ -107,11 +107,11 @@ Você pode escolher se objetos {% data variables.large_files.product_name_long %
    {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
 
    
-   ![Versão publicada com contribuidores @mencionados](/assets/images/help/releases/refreshed-releases-overview-with-contributors.png) 
+   ![Versão publicada com contribuidores @mencionados](/assets/images/2021/10/help/releases/refreshed-releases-overview-with-contributors.png) 
    
    {% else %}
    
-   ![Versão publicada com contribuidores @mencionados](/assets/images/help/releases/releases-overview-with-contributors.png) 
+   ![Versão publicada com contribuidores @mencionados](/assets/images/2021/10/help/releases/releases-overview-with-contributors.png) 
    
    {% endif %}
    
@@ -168,15 +168,15 @@ Se você @mencionar qualquer usuário de {% data variables.product.product_name 
 
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
 
-3. No lado direito da página, ao lado da versão que deseja editar, clique em {% octicon "pencil" aria-label="The edit icon" %}. ![Editar uma versão](/assets/images/help/releases/edit-release-pencil.png) 
+3. No lado direito da página, ao lado da versão que deseja editar, clique em {% octicon "pencil" aria-label="The edit icon" %}. ![Editar uma versão](/assets/images/2021/10/help/releases/edit-release-pencil.png) 
    
    {% else %}
 
-3. No lado direito da página, ao lado da versão que você deseja editar, clique em **Editar versão**. ![Editar uma versão](/assets/images/help/releases/edit-release.png) 
+3. No lado direito da página, ao lado da versão que você deseja editar, clique em **Editar versão**. ![Editar uma versão](/assets/images/2021/10/help/releases/edit-release.png) 
    
    {% endif %}
 
-4. Edite as informações da versão no formulário e, em seguida, clique em **Atualizar versão**.{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %} Se você adicionar ou remover quaisquer @menções de usuários do GitHub na descrição, esses usuários serão adicionados ou removidos da lista de avatares na seção **Colaboradores** da versão.{% endif %} ![Atualizar uma versão](/assets/images/help/releases/update-release.png)
+4. Edite as informações da versão no formulário e, em seguida, clique em **Atualizar versão**.{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %} Se você adicionar ou remover quaisquer @menções de usuários do GitHub na descrição, esses usuários serão adicionados ou removidos da lista de avatares na seção **Colaboradores** da versão.{% endif %} ![Atualizar uma versão](/assets/images/2021/10/help/releases/update-release.png)
 
 {% endwebui %}
 
@@ -202,17 +202,17 @@ As versões não podem ser editadas com {% data variables.product.prodname_cli %
 
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
 
-3. No lado direito da página, ao lado da versão que você deseja excluir, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Excluir uma versão](/assets/images/help/releases/delete-release-trash.png) 
+3. No lado direito da página, ao lado da versão que você deseja excluir, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Excluir uma versão](/assets/images/2021/10/help/releases/delete-release-trash.png) 
    
    {% else %}
 
-3. Clique no nome da versão que você deseja excluir.![Link para visualizar versão](/assets/images/help/releases/release-name-link.png)
+3. Clique no nome da versão que você deseja excluir.![Link para visualizar versão](/assets/images/2021/10/help/releases/release-name-link.png)
 
-4. No canto superior direito da página, clique em **Delete** (Excluir). ![Botão de exclusão de versão](/assets/images/help/releases/delete-release.png) 
+4. No canto superior direito da página, clique em **Delete** (Excluir). ![Botão de exclusão de versão](/assets/images/2021/10/help/releases/delete-release.png) 
    
    {% endif %}
 
-5. Clique em **Excluir esta versão**. ![Confirmar exclusão da versão](/assets/images/help/releases/confirm-delete-release.png)
+5. Clique em **Excluir esta versão**. ![Confirmar exclusão da versão](/assets/images/2021/10/help/releases/confirm-delete-release.png)
 
 {% endwebui %}
 

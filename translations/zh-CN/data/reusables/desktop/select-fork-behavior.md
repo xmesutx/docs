@@ -2,13 +2,13 @@
 
   {% mac %}
 
-  ![对 Fork Behavior（复刻行为）菜单中父仓库选项的参与](/assets/images/help/desktop/mac-fork-behavior-menu-contribute.png)
+  ![对 Fork Behavior（复刻行为）菜单中父仓库选项的参与](/assets/images/2021/10/help/desktop/mac-fork-behavior-menu-contribute.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![对 Fork Behavior（复刻行为）菜单中父仓库选项的参与](/assets/images/help/desktop/windows-fork-behavior-menu-contribute.png)
+  ![对 Fork Behavior（复刻行为）菜单中父仓库选项的参与](/assets/images/2021/10/help/desktop/windows-fork-behavior-menu-contribute.png)
 
   {% endwindows %}
 
@@ -16,13 +16,13 @@
 
   {% mac %}
 
-  ![Fork Behavior（复刻行为）菜单中的保存按钮](/assets/images/help/desktop/mac-fork-behavior-save.png)
+  ![Fork Behavior（复刻行为）菜单中的保存按钮](/assets/images/2021/10/help/desktop/mac-fork-behavior-save.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Fork Behavior（复刻行为）菜单中的保存按钮](/assets/images/help/desktop/windows-fork-behavior-save.png)
+  ![Fork Behavior（复刻行为）菜单中的保存按钮](/assets/images/2021/10/help/desktop/windows-fork-behavior-save.png)
 
   {% endwindows %}
   

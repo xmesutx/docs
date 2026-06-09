@@ -18,13 +18,13 @@ redirect_from:
 {% data reusables.repositories.releases %}
 3. ベースとして使用するリリースの横にある [**Compare**] をクリックします。
   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-  ![リリースタグの比較メニュー](/assets/images/help/releases/refreshed-compare-tags.png)
+  ![リリースタグの比較メニュー](/assets/images/2021/10/help/releases/refreshed-compare-tags.png)
   {% else %}
-  ![リリースタグの比較メニュー](/assets/images/help/releases/compare-tags-menu.png)
+  ![リリースタグの比較メニュー](/assets/images/2021/10/help/releases/compare-tags-menu.png)
   {% endif %}
 4. [Compare] ドロップダウンメニューを使用して、比較するタグを選択します。
   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-  ![リリースタグの比較メニュー](/assets/images/help/releases/refreshed-compare-tags-menu-options.png)
+  ![リリースタグの比較メニュー](/assets/images/2021/10/help/releases/refreshed-compare-tags-menu-options.png)
   {% else %}
-  ![リリースタグの比較メニューオプション](/assets/images/help/releases/compare-tags-menu-options.png)
+  ![リリースタグの比較メニューオプション](/assets/images/2021/10/help/releases/compare-tags-menu-options.png)
   {% endif %}

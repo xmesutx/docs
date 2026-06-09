@@ -20,7 +20,7 @@ shortTitle: Triage a notification
 
 保存した通知は無期限に保持され、サイドバーの [**Saved**] をクリックするか、`is:saved` クエリで表示できます。 5か月以上前に保存した通知の保存を解除すると、通知は1日以内にインボックスから消えます。
 
-  ![トリアージの保存オプション](/assets/images/help/notifications-v2/save-triaging-option.png)
+  ![トリアージの保存オプション](/assets/images/2021/10/help/notifications-v2/save-triaging-option.png)
 
 ## 通知を調査する
 
@@ -39,10 +39,10 @@ shortTitle: Triage a notification
 
 1. Issue またはプルリクエストの右側の列の [Notifications] の横にある [**Customize**] をクリックします。
 
-  ![[Notifications] の下のカスタマイズオプション](/assets/images/help/notifications-v2/customize-notifications-for-specific-thread.png)
+  ![[Notifications] の下のカスタマイズオプション](/assets/images/2021/10/help/notifications-v2/customize-notifications-for-specific-thread.png)
 
 2. [**Custom**] を選択し、このスレッドの更新通知を受信するタイミングを選択します。 たとえば、プルリクエストがマージ、クローズ、または再オープンされたときに更新を受信するように選択できます。 スレッドに参加するか、ユーザー名が @メンションされているか、メンバーである Team が @メンションされている場合は、再度サブスクライブされます。
 
-  ![通知をカスタマイズするオプション](/assets/images/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
+  ![通知をカスタマイズするオプション](/assets/images/2021/10/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
 
 3. [**Save**] をクリックします。

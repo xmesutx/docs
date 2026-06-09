@@ -30,4 +30,4 @@ shortTitle: 离开组织
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.organizations %}
-3. 在“Organizations（组织）”下，找到您想要从中删除自己的组织，然后单击 **Leave（离开）**。 ![显示角色的离开组织按钮](/assets/images/help/organizations/context-leave-organization-with-roles-shown.png)
+3. 在“Organizations（组织）”下，找到您想要从中删除自己的组织，然后单击 **Leave（离开）**。 ![显示角色的离开组织按钮](/assets/images/2021/10/help/organizations/context-leave-organization-with-roles-shown.png)

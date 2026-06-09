@@ -4,7 +4,7 @@ This repository contains the documentation website code and Markdown source file
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
-Use the table of contents icon <img src="./assets/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
+Use the table of contents icon <img src="./assets/images/2021/10/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## Contributing
 
@@ -14,7 +14,7 @@ We accept different [types of contributions](https://github.com/github/docs/blob
 
 On the GitHub Docs site, you can click the make a contribution button to open a pull request for quick fixes like typos, updates, or link fixes.
 
-<img src="./assets/images/contribution_cta.png" width="400">
+<img src="./assets/images/2021/10/contribution_cta.png" width="400">
 
 For more complex contributions, you can open an issue using the most appropriate [issue template](https://github.com/github/docs/issues/new/choose) to describe the changes you'd like to see.
 

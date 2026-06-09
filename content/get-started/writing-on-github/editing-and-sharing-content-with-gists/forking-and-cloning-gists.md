@@ -16,20 +16,20 @@ versions:
 
 Each gist indicates which forks have activity, making it easy to find interesting changes from others.
 
-![Gist forks](/assets/images/help/gist/gist_forks.png)
+![Gist forks](/assets/images/2021/10/help/gist/gist_forks.png)
 
 ## Cloning gists
 
 If you want to make local changes to a gist and push them up to the web, you can clone a gist and make commits the same as you would with any Git repository. For more information, see "[Cloning a repository](/articles/cloning-a-repository)."
 
-![Gist clone button](/assets/images/help/gist/gist_clone_btn.png)
+![Gist clone button](/assets/images/2021/10/help/gist/gist_clone_btn.png)
 
 ## Viewing gist commit history
 
 To view a gist's full commit history, click the "Revisions" tab at the top of the gist.
 
-![Gist revisions tab](/assets/images/help/gist/gist_revisions_tab.png)
+![Gist revisions tab](/assets/images/2021/10/help/gist/gist_revisions_tab.png)
 
 You will see a full commit history for the gist with diffs.
 
-![Gist revisions page](/assets/images/help/gist/gist_history.png)
+![Gist revisions page](/assets/images/2021/10/help/gist/gist_history.png)

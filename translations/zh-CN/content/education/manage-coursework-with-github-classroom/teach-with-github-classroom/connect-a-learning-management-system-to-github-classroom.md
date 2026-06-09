@@ -49,9 +49,9 @@ shortTitle: 连接 LMS
 1. 如果您的教室已有名册，您可以更新名册或删除名册并创建新的名册。
     - 有关删除和创建名册的更多信息，请参阅“[删除教室名册](/education/manage-coursework-with-github-classroom/manage-classrooms#deleting-a-roster-for-a-classroom)”和“[创建教室名册](/education/manage-coursework-with-github-classroom/manage-classrooms#creating-a-roster-for-your-classroom)”。
     - 有关更新名册的更多信息，请参阅“[将学生添加到教室的名册](/education/manage-coursework-with-github-classroom/manage-classrooms#adding-students-to-the-roster-for-your-classroom)”。
-1. 在 LMS 列表中，单击您的 LMS。 如果您的 LMS 不受支持，请单击**其他 LMS**。 ![LMS 列表](/assets/images/help/classroom/classroom-settings-click-lms.png)
+1. 在 LMS 列表中，单击您的 LMS。 如果您的 LMS 不受支持，请单击**其他 LMS**。 ![LMS 列表](/assets/images/2021/10/help/classroom/classroom-settings-click-lms.png)
 1. 阅读有关连接 LMS 的操作，然后单击 **连接到 _LMS_**。
-1. 复制用于连接到教室的“消费者密钥”、“共享密钥”和“启动 URL”。 ![复制凭据](/assets/images/help/classroom/classroom-copy-credentials.png)
+1. 复制用于连接到教室的“消费者密钥”、“共享密钥”和“启动 URL”。 ![复制凭据](/assets/images/2021/10/help/classroom/classroom-copy-credentials.png)
 
 ## 配置通用 LMS
 
@@ -137,5 +137,5 @@ shortTitle: 连接 LMS
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-settings %}
-1. 在“Connect to a learning management system (LMS)（连接到学习管理系统 [LMS]）”下，单击 **Connection Settings（连接设置）**。 ![教室设置中的"连接设置"链接](/assets/images/help/classroom/classroom-settings-click-connection-settings.png)
-1. 在“Delete Connection to your learning management system（删除与学习管理系统的连接）”下，单击 **Disconnect from your learning management system（断开与学习管理系统的连接）**。 ![教室连接设置中的"从学习管理系统断开连接"按钮](/assets/images/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)
+1. 在“Connect to a learning management system (LMS)（连接到学习管理系统 [LMS]）”下，单击 **Connection Settings（连接设置）**。 ![教室设置中的"连接设置"链接](/assets/images/2021/10/help/classroom/classroom-settings-click-connection-settings.png)
+1. 在“Delete Connection to your learning management system（删除与学习管理系统的连接）”下，单击 **Disconnect from your learning management system（断开与学习管理系统的连接）**。 ![教室连接设置中的"从学习管理系统断开连接"按钮](/assets/images/2021/10/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)

@@ -24,17 +24,17 @@ You can use the [GitHub Support Portal](https://support.github.com/) to view cur
 
 {% data reusables.support.view-open-tickets %}
 1. Under the text box, you can read the comment history. The most recent response is at the top.
-![Screenshot of support ticket comment history, with the most recent response at the top.](/assets/images/help/support/support-recent-response.png)
+![Screenshot of support ticket comment history, with the most recent response at the top.](/assets/images/2022/01/help/support/support-recent-response.png)
 
 ## Updating support tickets
 
 {% data reusables.support.view-open-tickets %}
 1. Optionally, if the issue is resolved, under the text box, click **Close ticket**.
-![Screenshot showing location of the "Close ticket" button.](/assets/images/help/support/close-ticket.png)
+![Screenshot showing location of the "Close ticket" button.](/assets/images/2022/01/help/support/close-ticket.png)
 1. To respond to GitHub Support and add a new comment to the ticket, type your response in the text box.
-![Screenshot of the "Add a comment" text field.](/assets/images/help/support/new-comment-field.png)
+![Screenshot of the "Add a comment" text field.](/assets/images/2022/01/help/support/new-comment-field.png)
 1. To add your comment to the ticket, click **Comment**.
-![Screenshot of the "Comment" button.](/assets/images/help/support/add-comment.png)
+![Screenshot of the "Comment" button.](/assets/images/2022/01/help/support/add-comment.png)
 
 {% ifversion ghec or ghes %}
 ## Collaborating on support tickets

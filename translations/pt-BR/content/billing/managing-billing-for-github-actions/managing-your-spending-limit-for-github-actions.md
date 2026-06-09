@@ -59,7 +59,7 @@ Proprietários de organizações e gestores de faturamento podem gerenciar o lim
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. Acima de "{% data variables.product.prodname_actions %} e pacotes de uso mensal", clique em **Limite de gastos**. ![Aba limite de gastos](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. Acima de "{% data variables.product.prodname_actions %} e pacotes de uso mensal", clique em **Limite de gastos**. ![Aba limite de gastos](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 

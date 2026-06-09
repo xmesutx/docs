@@ -34,7 +34,7 @@ Todos os sites do {% data variables.product.prodname_pages %}, incluindo os site
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. No "{% data variables.product.prodname_pages %}," selecione **Enforce HTTPS** (Exigir HTTPS). ![Caixa de seleção Enforce HTTPS (Exigir HTTPS)](/assets/images/help/pages/enforce-https-checkbox.png)
+3. No "{% data variables.product.prodname_pages %}," selecione **Enforce HTTPS** (Exigir HTTPS). ![Caixa de seleção Enforce HTTPS (Exigir HTTPS)](/assets/images/2021/10/help/pages/enforce-https-checkbox.png)
 
 ## Solucionar problemas de provisionamento de certificado (Erro "Certificado ainda não criado"")
 

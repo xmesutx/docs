@@ -23,19 +23,19 @@ shortTitle: Administrar las páginas de wiki
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-3. En el ángulo superior derecho de la página, haz clic en **New Page** (Página nueva) ![Botón de la nueva página wiki](/assets/images/help/wiki/wiki_new_page_button.png)
-4. Opcionalmente, para escribir en otro formato diferente a Markdown, usa el menú desplegable del modo Edit (Editar) y haz clic en un formato diferente.![Selección de markup de wiki](/assets/images/help/wiki/wiki_dropdown_markup.gif)
-5. Usa el editor de texto para agregar el contenido de tu página. ![Wiki WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. Escribe un mensaje de confirmación que describa el nuevo archivo que agregaste. ![Mensaje de confirmación de la wiki](/assets/images/help/wiki/wiki_commit_message.png)
+3. En el ángulo superior derecho de la página, haz clic en **New Page** (Página nueva) ![Botón de la nueva página wiki](/assets/images/2021/10/help/wiki/wiki_new_page_button.png)
+4. Opcionalmente, para escribir en otro formato diferente a Markdown, usa el menú desplegable del modo Edit (Editar) y haz clic en un formato diferente.![Selección de markup de wiki](/assets/images/2021/10/help/wiki/wiki_dropdown_markup.gif)
+5. Usa el editor de texto para agregar el contenido de tu página. ![Wiki WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. Escribe un mensaje de confirmación que describa el nuevo archivo que agregaste. ![Mensaje de confirmación de la wiki](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. Para confirmar tus cambios en la wiki, haz clic en **Guardar página**.
 
 ## Editar páginas wiki
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-4. Desplázate hasta la página que deseas cambiar con la ayuda de la barra lateral wiki. En el ángulo superior derecho de la página, haz clic en **Edite** (Editar). ![Botón de la página para editar wikis](/assets/images/help/wiki/wiki_edit_page_button.png)
-5. Usa el editor de texto para editar el contenido de la página. ![Wiki WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. Escribe un mensaje de confirmación que describa tus cambios. ![Mensaje de confirmación de la wiki](/assets/images/help/wiki/wiki_commit_message.png)
+4. Desplázate hasta la página que deseas cambiar con la ayuda de la barra lateral wiki. En el ángulo superior derecho de la página, haz clic en **Edite** (Editar). ![Botón de la página para editar wikis](/assets/images/2021/10/help/wiki/wiki_edit_page_button.png)
+5. Usa el editor de texto para editar el contenido de la página. ![Wiki WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. Escribe un mensaje de confirmación que describa tus cambios. ![Mensaje de confirmación de la wiki](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. Para confirmar tus cambios en la wiki, haz clic en **Guardar página**.
 
 ## Agregar o editar páginas wiki localmente

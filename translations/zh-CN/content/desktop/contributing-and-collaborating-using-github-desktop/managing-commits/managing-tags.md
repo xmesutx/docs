@@ -31,9 +31,9 @@ versions:
 
   {% endnote %}
 
-  ![查看历史记录中的标记](/assets/images/help/desktop/viewing-tags-in-history.png)
+  ![查看历史记录中的标记](/assets/images/2021/10/help/desktop/viewing-tags-in-history.png)
 
-3. 与提交相关的所有标记均在提交元数据中可见。 ![查看提交中的标记](/assets/images/help/desktop/viewing-tags-in-commit.png)
+3. 与提交相关的所有标记均在提交元数据中可见。 ![查看提交中的标记](/assets/images/2021/10/help/desktop/viewing-tags-in-commit.png)
 
 ## 删除标记
 

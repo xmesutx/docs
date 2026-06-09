@@ -42,7 +42,7 @@ Se você configurar a autenticação de dois fatores por meio de mensagens de te
 Se você tiver instalado e conectado a {% data variables.product.prodname_mobile %}, você poderá optar por efetuar a autenticação com {% data variables.product.prodname_mobile %} para autenticação de dois fatores.
 
 1. Efetue o login em {% data variables.product.product_name %} com seu navegador, usando seu nome de usuário e senha.
-2. Se você adicionou uma chave de segurança à sua conta, primeiro será solicitado que você insira e use uma chave de segurança. Para pular usando uma chave de segurança, clique em **Efetuar a autenticação com {% data variables.product.prodname_mobile %}**. ![Desafio de autenticação de dois fatores em {% data variables.product.product_name %} com "Autenticar com {% data variables.product.prodname_mobile %}" destacado](/assets/images/help/2fa/2fa-select-mobile.png)
+2. Se você adicionou uma chave de segurança à sua conta, primeiro será solicitado que você insira e use uma chave de segurança. Para pular usando uma chave de segurança, clique em **Efetuar a autenticação com {% data variables.product.prodname_mobile %}**. ![Desafio de autenticação de dois fatores em {% data variables.product.product_name %} com "Autenticar com {% data variables.product.prodname_mobile %}" destacado](/assets/images/2022/01/help/2fa/2fa-select-mobile.png)
 3. {% data variables.product.product_name %} irá enviar uma notificação por push para verificar a sua tentativa de login. Abrir a notificação push ou abrir o aplicativo de {% data variables.product.prodname_mobile %} irá exibir um aviso que pedirá que você aprove ou rejeite esta tentativa de login.
   {% note %}
 
@@ -50,7 +50,7 @@ Se você tiver instalado e conectado a {% data variables.product.prodname_mobile
 
   {% endnote %}
 
-  ![{% data variables.product.prodname_mobile %} exige uma entrada de dois dígitos em duas etapas](/assets/images/help/2fa/2fa-mobile-number-challenge.png)
+  ![{% data variables.product.prodname_mobile %} exige uma entrada de dois dígitos em duas etapas](/assets/images/2022/01/help/2fa/2fa-mobile-number-challenge.png)
 
     - Ao aprovar a tentativa de login usando {% data variables.product.prodname_mobile %}, seu navegador concluirá a tentativa de login automaticamente.
     - Rejeitar a tentativa de login na tentativa impedirá que a autenticação seja concluída. Para obter mais informações, consulte "[Mantendo sua conta e dados seguros](/authentication/keeping-your-account-and-data-secure)".

@@ -44,7 +44,7 @@ After changing your organization's name:
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 4. Near the bottom of the settings page, under "Rename organization", click **Rename Organization**.
-  ![Rename organization button](/assets/images/help/settings/settings-rename-organization.png)
+  ![Rename organization button](/assets/images/2021/10/help/settings/settings-rename-organization.png)
 
 ## Further reading
 

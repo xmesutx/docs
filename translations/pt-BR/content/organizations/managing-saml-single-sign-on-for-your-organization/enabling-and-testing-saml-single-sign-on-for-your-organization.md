@@ -31,7 +31,7 @@ Para obter mais informações sobre os provedores de identidade (IdPs) que {% da
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-5. Em "SAML single sign-on" (Logon único de SAML), selecione **Enable SAML authentication** (Habilitar autenticação SAML). ![Caixa de seleção para habilitar SAML SSO](/assets/images/help/saml/saml_enable.png)
+5. Em "SAML single sign-on" (Logon único de SAML), selecione **Enable SAML authentication** (Habilitar autenticação SAML). ![Caixa de seleção para habilitar SAML SSO](/assets/images/2021/10/help/saml/saml_enable.png)
 
   {% note %}
 
@@ -39,19 +39,19 @@ Para obter mais informações sobre os provedores de identidade (IdPs) que {% da
 
   {% endnote %}
 
-6. No campo "Sign on URL" (URL de logon), digite o ponto de extremidade HTTPS do seu IdP para solicitações de logon único. Esse valor está disponível na configuração do IdP. ![Campo referente à URL para a qual os integrantes serão encaminhados ao entrarem](/assets/images/help/saml/saml_sign_on_url.png)
-7. Como alternativa, no campo "Issuer" (Emissor), digite o nome do emissor do SAML. Isso confirma a autenticidade das mensagens enviadas. ![Campo referente ao nome do emissor de SAML](/assets/images/help/saml/saml_issuer.png)
-8. Em "Public Certificate" (Certificado público), cole um certificado para verificar as respostas de SAML. ![Campo referente ao certificado público do seu provedor de identidade](/assets/images/help/saml/saml_public_certificate.png)
-9. Clique em {% octicon "pencil" aria-label="The edit icon" %} e, nos menus suspensos Signature Method (Método de assinatura) e Digest Method (Método de compilação), escolha o algoritmo de hash usado pelo emissor de SAML para verificar a integridade das solicitações. ![Menus suspensos Signature Method (Método de assinatura) e Digest Method (Método de compilação) para os algoritmos de hash usados pelo emissor de SAML](/assets/images/help/saml/saml_hashing_method.png)
-10. Antes de habilitar o SAML SSO para sua organização, clique em **Test SAML configuration** (Testar configuração de SAML) para garantir que as informações que você digitou estão corretas. ![Botão para testar a configuração de SAML antes da aplicação](/assets/images/help/saml/saml_test.png)
+6. No campo "Sign on URL" (URL de logon), digite o ponto de extremidade HTTPS do seu IdP para solicitações de logon único. Esse valor está disponível na configuração do IdP. ![Campo referente à URL para a qual os integrantes serão encaminhados ao entrarem](/assets/images/2021/10/help/saml/saml_sign_on_url.png)
+7. Como alternativa, no campo "Issuer" (Emissor), digite o nome do emissor do SAML. Isso confirma a autenticidade das mensagens enviadas. ![Campo referente ao nome do emissor de SAML](/assets/images/2021/10/help/saml/saml_issuer.png)
+8. Em "Public Certificate" (Certificado público), cole um certificado para verificar as respostas de SAML. ![Campo referente ao certificado público do seu provedor de identidade](/assets/images/2021/10/help/saml/saml_public_certificate.png)
+9. Clique em {% octicon "pencil" aria-label="The edit icon" %} e, nos menus suspensos Signature Method (Método de assinatura) e Digest Method (Método de compilação), escolha o algoritmo de hash usado pelo emissor de SAML para verificar a integridade das solicitações. ![Menus suspensos Signature Method (Método de assinatura) e Digest Method (Método de compilação) para os algoritmos de hash usados pelo emissor de SAML](/assets/images/2021/10/help/saml/saml_hashing_method.png)
+10. Antes de habilitar o SAML SSO para sua organização, clique em **Test SAML configuration** (Testar configuração de SAML) para garantir que as informações que você digitou estão corretas. ![Botão para testar a configuração de SAML antes da aplicação](/assets/images/2021/10/help/saml/saml_test.png)
 
   {% tip %}
 
   **Dica:** {% data reusables.saml.testing-saml-sso %}
 
   {% endtip %}
-11. Para aplicar o SAML SSO e remover todos os integrantes da organização que não foram autenticados via IdP, selecione **Require SAML SSO authentication for all members of the _organization name_ organization** (Requer autenticação do SAML SSO para todos os integrantes da organização *nome da organização*). Para obter mais informações sobre a aplicação do SAML SSO, consulte "[Aplicar logon único de SAML para sua organização](/articles/enforcing-saml-single-sign-on-for-your-organization)". ![Caixa de seleção para exigir SAML SSO para sua organização ](/assets/images/help/saml/saml_require_saml_sso.png)
-12. Clique em **Salvar**. ![Botão para salvar as configurações do SAML SSO](/assets/images/help/saml/saml_save.png)
+11. Para aplicar o SAML SSO e remover todos os integrantes da organização que não foram autenticados via IdP, selecione **Require SAML SSO authentication for all members of the _organization name_ organization** (Requer autenticação do SAML SSO para todos os integrantes da organização *nome da organização*). Para obter mais informações sobre a aplicação do SAML SSO, consulte "[Aplicar logon único de SAML para sua organização](/articles/enforcing-saml-single-sign-on-for-your-organization)". ![Caixa de seleção para exigir SAML SSO para sua organização ](/assets/images/2021/10/help/saml/saml_require_saml_sso.png)
+12. Clique em **Salvar**. ![Botão para salvar as configurações do SAML SSO](/assets/images/2021/10/help/saml/saml_save.png)
 
 ## Leia mais
 

@@ -21,6 +21,6 @@ Organization が所有しているリポジトリで外部のコラボレータ�
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
 {% data reusables.organizations.people_tab_outside_collaborators %}
-5. [**X pending collaborators**] をクリックします。 ![[Pending collaborators] ボタン](/assets/images/help/organizations/pending-collaborator-list.png)
-6. 招待をキャンセルする人の隣で、[**Cancel invitations**] をクリックします。 ![[Cancel invitation] ボタン](/assets/images/help/organizations/cancel-pending-collaborators.png)
-7. [**Cancel invitations for pending collaborators**] をクリックします。 ![キャンセルの確認ボタン](/assets/images/help/organizations/confirm-cancelation-of-pending-collaborators.png)
+5. [**X pending collaborators**] をクリックします。 ![[Pending collaborators] ボタン](/assets/images/2021/10/help/organizations/pending-collaborator-list.png)
+6. 招待をキャンセルする人の隣で、[**Cancel invitations**] をクリックします。 ![[Cancel invitation] ボタン](/assets/images/2021/10/help/organizations/cancel-pending-collaborators.png)
+7. [**Cancel invitations for pending collaborators**] をクリックします。 ![キャンセルの確認ボタン](/assets/images/2021/10/help/organizations/confirm-cancelation-of-pending-collaborators.png)

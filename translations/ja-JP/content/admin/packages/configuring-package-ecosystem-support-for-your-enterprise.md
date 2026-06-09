@@ -24,8 +24,8 @@ shortTitle: Configure package ecosystems
 {% data reusables.enterprise_site_admin_settings.packages-tab %}
 1. [Ecosystem Toggles] の下で、パッケージの種類ごとに [**Enabled**]、[**Read-Only**]、または [**Disabled**] を選択します。
 {% ifversion ghes > 3.1 %}
-  ![エコシステムの切り替え](/assets/images/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
-![Ecosystem toggles](/assets/images/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
+  ![エコシステムの切り替え](/assets/images/2021/10/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
+![Ecosystem toggles](/assets/images/2022/01/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% ifversion ghes %}

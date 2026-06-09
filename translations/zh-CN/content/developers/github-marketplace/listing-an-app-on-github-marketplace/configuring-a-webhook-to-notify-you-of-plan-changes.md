@@ -42,4 +42,4 @@ shortTitle: 计划更改的 web 挂钩
 
 配置 {% data variables.product.prodname_marketplace %} web 挂钩后，您可以在应用程序的 [{% data variables.product.prodname_marketplace %} 上架信息](https://github.com/marketplace/manage)的 **Webhook（web 挂钩）**页面中检查 `POST` 请求有效负载。 GitHub 不会重新发送失败的递送尝试。 确保您的应用程序可以接收 GitHub 发送的所有 web 挂钩有效负载。
 
-![检查最近的 {% data variables.product.prodname_marketplace %} web 挂钩交付](/assets/images/marketplace/marketplace_webhook_deliveries.png)
+![检查最近的 {% data variables.product.prodname_marketplace %} web 挂钩交付](/assets/images/2021/10/marketplace/marketplace_webhook_deliveries.png)

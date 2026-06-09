@@ -28,9 +28,9 @@ shortTitle: Manage payment tiers
 1. If you are setting up tiers for the first time, we recommend you review the suggested tier examples to see how some other open source contributors have set up {% data variables.product.prodname_sponsors %}. Decide whether you want to start with some suggested draft tiers, which you can customize in the tier editor.
    - To use a suggested tier, select the rewards you'd like to include in your draft tier or tiers. Then, click **Continue to tier editor**.
    - To create tiers without using with any of the draft suggestions, click **Skip this step**.
-   !["Skip this step" option and "Continue to tier editor" button](/assets/images/help/sponsors/tier-editor-button.png)
+   !["Skip this step" option and "Continue to tier editor" button](/assets/images/2021/10/help/sponsors/tier-editor-button.png)
 1. Optionally, to edit a draft tier, find the draft tier and click **Edit**.
-  ![Edit button next to draft tier](/assets/images/help/sponsors/draft-tier-edit.png)
+  ![Edit button next to draft tier](/assets/images/2021/10/help/sponsors/draft-tier-edit.png)
 {% data reusables.sponsors.click-add-tier %}
 {% data reusables.sponsors.tier-price-description %}
 {% data reusables.sponsors.add-welcome-message %}
@@ -80,11 +80,11 @@ If you transfer a repository that has been added to a sponsorship tier, sponsors
 {% data reusables.sponsors.edit-tier %}
 1. Select **Grant sponsors access to a private repository**.
 
-   ![Screenshot of checkbox to grant sponsors access to a private repository](/assets/images/help/sponsors/grant-sponsors-access-to-repo-checkbox.png)
+   ![Screenshot of checkbox to grant sponsors access to a private repository](/assets/images/2022/02/help/sponsors/grant-sponsors-access-to-repo-checkbox.png)
 
 1. Select the dropdown menu and click the repository you want to add.
 
-   ![Screenshot of dropdown menu to choose the repository to grant sponsors access to](/assets/images/help/sponsors/grant-sponsors-access-to-repo-dropdown.png)
+   ![Screenshot of dropdown menu to choose the repository to grant sponsors access to](/assets/images/2022/02/help/sponsors/grant-sponsors-access-to-repo-dropdown.png)
 
 {% data reusables.sponsors.tier-update %}
 

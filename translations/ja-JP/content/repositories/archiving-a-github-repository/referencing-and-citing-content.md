@@ -27,11 +27,11 @@ shortTitle: Reference & cite content
 {% endtip %}
 
 1. [Zenodo](http://zenodo.org/) に移動します。
-2. 画面左上隅の [**Log in**] をクリックします。 ![Zenodo ログインボタン](/assets/images/help/repository/zenodo_login.png)
-3. [**Log in with GitHub**] をクリックします。 ![GitHub によって Zenodo へログインする](/assets/images/help/repository/zenodo_login_with_github.png)
-4. アクセス権限についての情報をレビューしてから、[**Authorize application**] をクリックします。 ![Zenodo の認証](/assets/images/help/repository/zenodo_authorize.png)
-5. [Zenodo GitHub ページ](https://zenodo.org/account/settings/github/)に移動します。 ![Zenodo GitHub ページ](/assets/images/help/repository/zenodo_github_page.png)
-6. アーカイブ化するリポジトリの名前の右にあるボタンを [**Off**] から [**On**] に切り替えて、アーカイブ化できるようにします。 ![リポジトリでの Zenodo アーカイブ化の有効化](/assets/images/help/repository/zenodo_toggle_on.png)
+2. 画面左上隅の [**Log in**] をクリックします。 ![Zenodo ログインボタン](/assets/images/2021/10/help/repository/zenodo_login.png)
+3. [**Log in with GitHub**] をクリックします。 ![GitHub によって Zenodo へログインする](/assets/images/2021/10/help/repository/zenodo_login_with_github.png)
+4. アクセス権限についての情報をレビューしてから、[**Authorize application**] をクリックします。 ![Zenodo の認証](/assets/images/2021/10/help/repository/zenodo_authorize.png)
+5. [Zenodo GitHub ページ](https://zenodo.org/account/settings/github/)に移動します。 ![Zenodo GitHub ページ](/assets/images/2021/10/help/repository/zenodo_github_page.png)
+6. アーカイブ化するリポジトリの名前の右にあるボタンを [**Off**] から [**On**] に切り替えて、アーカイブ化できるようにします。 ![リポジトリでの Zenodo アーカイブ化の有効化](/assets/images/2021/10/help/repository/zenodo_toggle_on.png)
 
 Zenodo では、新しい {% data variables.product.product_name %}[リリース](/articles/about-releases/)を作成するたびに、リポジトリがアーカイブ化されて新しい DOI が発行されます。 リリースを作成するには、「[リリースの作成](/articles/creating-releases/)」のステップに従ってください。
 

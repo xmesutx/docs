@@ -21,8 +21,8 @@ Você também pode desabilitar atualizações de contas que a sua organização 
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-1. Em "E-mail de atualização de patrocínios (Privado)", digite o endereço de e-mail em que deseja receber atualizações de contas patrocinadas pela sua organização. ![Caixa de texto para inserir o endereço de email para receber atualizações de contas patrocinadas](/assets/images/help/sponsors/organization-update-email-textbox.png)
-1. Clique em **Update profile** (Atualizar perfil). ![Botão Update profile (Atualizar perfil)](/assets/images/help/organizations/update-profile-button.png)
+1. Em "E-mail de atualização de patrocínios (Privado)", digite o endereço de e-mail em que deseja receber atualizações de contas patrocinadas pela sua organização. ![Caixa de texto para inserir o endereço de email para receber atualizações de contas patrocinadas](/assets/images/2021/10/help/sponsors/organization-update-email-textbox.png)
+1. Clique em **Update profile** (Atualizar perfil). ![Botão Update profile (Atualizar perfil)](/assets/images/2021/10/help/organizations/update-profile-button.png)
 
 ## Leia mais
 

@@ -72,4 +72,4 @@ La agrupación permite que los servicios que constituyen {% data variables.produ
 
 {% endnote %}
 
-<img src="/assets/images/enterprise/cluster/cluster-diagram.png" alt="Ejemplo de agrupamiento" style="width: 800px;border:0" />
+<img src="/assets/images/2021/10/enterprise/cluster/cluster-diagram.png" alt="Ejemplo de agrupamiento" style="width: 800px;border:0" />

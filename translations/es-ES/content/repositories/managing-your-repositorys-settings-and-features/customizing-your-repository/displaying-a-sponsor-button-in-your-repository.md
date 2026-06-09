@@ -72,9 +72,9 @@ Cualquier usuario que cuente con permisos de administración puede habilitar un 
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. En Características, selecciona **Patrocinios**. ![Casilla de verificación para habilitar Patrocinios](/assets/images/help/sponsors/sponsorships-checkbox.png)
-4. Da clic en **Configurar botón de patrocinador** o **Invalidad enlaces de financiamiento** debajo de la opción "Patrocionios". ![Botón para configurar el botón del patrocinador](/assets/images/help/sponsors/sponsor-set-up-button.png)
-5. En el editor de archivos, sigue la instrucciones en el archivo _FUNDING.yml_ para agregar enlaces a las ubicaciones de tus fuentes de financiamiento. ![Edita el archivo FUNDING para añadir enlaces a ubicaciones de fondeo](/assets/images/help/sponsors/funding-yml-file.png)
+3. En Características, selecciona **Patrocinios**. ![Casilla de verificación para habilitar Patrocinios](/assets/images/2021/10/help/sponsors/sponsorships-checkbox.png)
+4. Da clic en **Configurar botón de patrocinador** o **Invalidad enlaces de financiamiento** debajo de la opción "Patrocionios". ![Botón para configurar el botón del patrocinador](/assets/images/2021/10/help/sponsors/sponsor-set-up-button.png)
+5. En el editor de archivos, sigue la instrucciones en el archivo _FUNDING.yml_ para agregar enlaces a las ubicaciones de tus fuentes de financiamiento. ![Edita el archivo FUNDING para añadir enlaces a ubicaciones de fondeo](/assets/images/2021/10/help/sponsors/funding-yml-file.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_new_file %}

@@ -44,11 +44,11 @@ Na visão geral de segurança, tanto ao nível da organização como ao nível d
 
 {% endif %}
 
-![A visão geral de segurança de uma organização](/assets/images/help/organizations/security-overview.png)
+![A visão geral de segurança de uma organização](/assets/images/2021/10/help/organizations/security-overview.png)
 
 Para cada repositório na visão de segurança, você verá ícones para cada tipo de recurso de segurança e quantos alertas existem de cada tipo. Se um recurso de segurança não estiver habilitado para um repositório, o ícone para esse recurso será cinza. In addition, a risk score is calculated for each repository based on its code scanning, Dependabot and secret scanning alerts. This score is in beta and should be used with caution. Its algorithm and approach is subject to change.
 
-![Ícones na visão geral de segurança](/assets/images/help/organizations/security-overview-icons.png)
+![Ícones na visão geral de segurança](/assets/images/2021/10/help/organizations/security-overview-icons.png)
 
 | Ícone                                                         | Significado                                                                                                                                                                                                                           |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

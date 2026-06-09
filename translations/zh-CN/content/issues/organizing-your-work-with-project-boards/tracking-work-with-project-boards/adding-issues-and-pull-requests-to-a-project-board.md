@@ -25,7 +25,7 @@ shortTitle: 将议题和 PR 添加到板中
 
 每个项目列中最多可以输入 2,500 张卡片。 如果一列已经达到最大卡片数，则无法将卡片移入该列。
 
-![通过鼠标可将议题卡从分类侧栏移至项目板列](/assets/images/help/projects/add-card-from-sidebar.gif)
+![通过鼠标可将议题卡从分类侧栏移至项目板列](/assets/images/2021/10/help/projects/add-card-from-sidebar.gif)
 
 {% note %}
 
@@ -40,8 +40,8 @@ shortTitle: 将议题和 PR 添加到板中
 ## 添加议题和拉取请求到项目板
 
 1. 导航到您要在其中添加议题和拉取请求的项目板。
-2. 在项目板中，单击 {% octicon "plus" aria-label="The plus icon" %} **Add cards（添加卡）**。 ![添加卡按钮](/assets/images/help/projects/add-cards-button.png)
-3. 使用搜索限定符搜索要添加到项目板的议题和拉取请求。 有关您可以使用的搜索限定符的更多信息，请参阅“[搜索议题](/articles/searching-issues)”。 ![搜索议题和拉取请求](/assets/images/help/issues/issues_search_bar.png)
+2. 在项目板中，单击 {% octicon "plus" aria-label="The plus icon" %} **Add cards（添加卡）**。 ![添加卡按钮](/assets/images/2021/10/help/projects/add-cards-button.png)
+3. 使用搜索限定符搜索要添加到项目板的议题和拉取请求。 有关您可以使用的搜索限定符的更多信息，请参阅“[搜索议题](/articles/searching-issues)”。 ![搜索议题和拉取请求](/assets/images/2021/10/help/issues/issues_search_bar.png)
 
   {% tip %}
 
@@ -60,11 +60,11 @@ shortTitle: 将议题和 PR 添加到板中
 
 ## 从侧栏添加议题和拉取请求到项目板
 
-1. 在议题或拉取请求右侧单击 **Projects（项目）{% octicon "gear" aria-label="The Gear icon" %}**。 ![侧栏中的项目板按钮](/assets/images/help/projects/sidebar-project.png)
-2. 单击要添加到其中的项目板对应的 **Recent（最近）**、**Repository（仓库）**、**User（用户）**或 **Organization（组织）**选项卡。 ![最近、仓库和组织选项卡](/assets/images/help/projects/sidebar-project-tabs.png)
-3. 在 **Filter projects（过滤项目）**字段中输入项目的名称。 ![项目板搜索框](/assets/images/help/projects/sidebar-search-project.png)
-4. 选择要添加议题或拉取请求的一个或多个项目板。 ![选择的项目板](/assets/images/help/projects/sidebar-select-project.png)
-5. 单击 {% octicon "triangle-down" aria-label="The down triangle icon" %}，然后单击您希望议题或拉取请求所在的列。 该卡将移到您选择的项目板列的底部。 ![将卡移至列菜单](/assets/images/help/projects/sidebar-select-project-board-column-menu.png)
+1. 在议题或拉取请求右侧单击 **Projects（项目）{% octicon "gear" aria-label="The Gear icon" %}**。 ![侧栏中的项目板按钮](/assets/images/2021/10/help/projects/sidebar-project.png)
+2. 单击要添加到其中的项目板对应的 **Recent（最近）**、**Repository（仓库）**、**User（用户）**或 **Organization（组织）**选项卡。 ![最近、仓库和组织选项卡](/assets/images/2021/10/help/projects/sidebar-project-tabs.png)
+3. 在 **Filter projects（过滤项目）**字段中输入项目的名称。 ![项目板搜索框](/assets/images/2021/10/help/projects/sidebar-search-project.png)
+4. 选择要添加议题或拉取请求的一个或多个项目板。 ![选择的项目板](/assets/images/2021/10/help/projects/sidebar-select-project.png)
+5. 单击 {% octicon "triangle-down" aria-label="The down triangle icon" %}，然后单击您希望议题或拉取请求所在的列。 该卡将移到您选择的项目板列的底部。 ![将卡移至列菜单](/assets/images/2021/10/help/projects/sidebar-select-project-board-column-menu.png)
 
 ## 延伸阅读
 

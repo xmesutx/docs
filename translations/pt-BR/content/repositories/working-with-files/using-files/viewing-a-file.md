@@ -24,18 +24,18 @@ Com a visualização sem processamento, você pode visualizar ou copiar o conte�
 
 {% data reusables.repositories.navigate-to-repo %}
 1. Clique no arquivo que você deseja visualizar.
-2. No canto superior direito da visualização de arquivo, clique em **Sem processamento**. ![Captura de tela do botão sem processamento no cabeçalho do arquivo](/assets/images/help/repository/raw-file-button.png)
+2. No canto superior direito da visualização de arquivo, clique em **Sem processamento**. ![Captura de tela do botão sem processamento no cabeçalho do arquivo](/assets/images/2022/01/help/repository/raw-file-button.png)
 3. Opcionalmente, para copiar o conteúdo do arquivo não processado no canto superior direito da visualização do arquivo, clique em **{% octicon "copy" aria-label="The copy icon" %}**.
 
 ## Visualizando o histórico de revisão linha por linha para um arquivo
 
 Com a exibição blame, você pode ver o histórico de revisão linha por linha de um arquivo inteiro ou exibir o histórico de revisão de uma única linha dentro de um arquivo clicando em {% octicon "versions" aria-label="The prior blame icon" %}. Toda vez que você clicar em {% octicon "versions" aria-label="The prior blame icon" %}, verá as informações anteriores de revisão relativas a essa linha, inclusive quem realizou a alteração e quando.
 
-![Exibição blame do Git](/assets/images/help/repository/git_blame.png)
+![Exibição blame do Git](/assets/images/2021/10/help/repository/git_blame.png)
 
 Em um arquivo ou uma pull request, também é possível usar o menu {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} para exibir o recurso blame do Git relacionado a uma determinada linha ou um intervalo de linhas.
 
-![Menu kebab com opção para exibir o recurso blame do Git relacionado a uma determinada linha](/assets/images/help/repository/view-git-blame-specific-line.png)
+![Menu kebab com opção para exibir o recurso blame do Git relacionado a uma determinada linha](/assets/images/2021/10/help/repository/view-git-blame-specific-line.png)
 
 {% tip %}
 
@@ -45,5 +45,5 @@ Em um arquivo ou uma pull request, também é possível usar o menu {% octicon "
 
 {% data reusables.repositories.navigate-to-repo %}
 2. Clique para abrir o arquivo cujo histórico de linhas você deseja exibir.
-3. No canto superior direito da exibição do arquivo, clique em **Blame** para abrir a exibição blame. ![Botão Blame (Blame)](/assets/images/help/repository/blame-button.png)
-4. Para ver revisões anteriores de uma linha específica ou tornar a usar o recurso blame, clique em {% octicon "versions" aria-label="The prior blame icon" %} até encontrar as alterações que você deseja exibir. ![Botão Prior blame (Blame anterior)](/assets/images/help/repository/prior-blame-button.png)
+3. No canto superior direito da exibição do arquivo, clique em **Blame** para abrir a exibição blame. ![Botão Blame (Blame)](/assets/images/2021/10/help/repository/blame-button.png)
+4. Para ver revisões anteriores de uma linha específica ou tornar a usar o recurso blame, clique em {% octicon "versions" aria-label="The prior blame icon" %} até encontrar as alterações que você deseja exibir. ![Botão Prior blame (Blame anterior)](/assets/images/2021/10/help/repository/prior-blame-button.png)

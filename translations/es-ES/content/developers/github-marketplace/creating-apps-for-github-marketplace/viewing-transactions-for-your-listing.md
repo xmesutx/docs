@@ -35,7 +35,7 @@ Puedes visualizar o descargar los datos de las transacciones para dar seguimient
 * **region:** El nombre de la región presente en la dirección de facturación.
 * **postal_code:** El valor de código postal presente en la dirección de facturación.
 
-![Perspectivas de Marketplace](/assets/images/marketplace/marketplace_transactions.png)
+![Perspectivas de Marketplace](/assets/images/2021/10/marketplace/marketplace_transactions.png)
 
 ## Acceder a las transacciones de {% data variables.product.prodname_marketplace %}
 
@@ -47,4 +47,4 @@ Para acceder a las transacciones de {% data variables.product.prodname_marketpla
 4. Selecciona la {% data variables.product.prodname_github_app %} para la cual quieras visualizar las transacciones.
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. Da clic en la pestaña de **Transacciones**.
-7. Opcionalmente, selecciona un periodo de tiempo diferente dando clic en el menú desplegable de "Periodo" en la esquina superior derecha de la página de Transacciones. ![Periodo de tiempo de Marketplace](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. Opcionalmente, selecciona un periodo de tiempo diferente dando clic en el menú desplegable de "Periodo" en la esquina superior derecha de la página de Transacciones. ![Periodo de tiempo de Marketplace](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

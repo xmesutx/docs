@@ -40,7 +40,7 @@ Puedes inhabilitar todos los flujos de trabajo para una organización o configur
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.settings-sidebar-actions %}
-1. Debajo de **Políticas**, selecciona una opción. ![Configurar la política de acciones para esta organización](/assets/images/help/organizations/actions-policy.png)
+1. Debajo de **Políticas**, selecciona una opción. ![Configurar la política de acciones para esta organización](/assets/images/2021/10/help/organizations/actions-policy.png)
 1. Haz clic en **Save ** (guardar).
 
 ## Permitir que se ejecuten acciones específicas
@@ -52,9 +52,9 @@ Puedes inhabilitar todos los flujos de trabajo para una organización o configur
 {% data reusables.organizations.settings-sidebar-actions %}
 1. Debajo de **Políticas**, selecciona **Permitir las acciones seleccionadas** y agrega tus acciones requeridas a la lista.
    {%- ifversion ghes %}
-   ![Agregar acciones a la lista de permitidos](/assets/images/help/organizations/actions-policy-allow-list.png)
+   ![Agregar acciones a la lista de permitidos](/assets/images/2021/10/help/organizations/actions-policy-allow-list.png)
    {%- else %}
-   ![Agregar acciones a la lista de permitidos](/assets/images/enterprise/github-ae/organizations/actions-policy-allow-list.png)
+   ![Agregar acciones a la lista de permitidos](/assets/images/2021/10/enterprise/github-ae/organizations/actions-policy-allow-list.png)
    {%- endif %}
 1. Haz clic en **Save ** (guardar).
 
@@ -105,6 +105,6 @@ Puedes configurar los permisos predeterminados para el `GITHUB_TOKEN` en la conf
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.settings-sidebar-actions %}
-1. Debajo de **Permisos del flujo de trabajo**, elige si quieres que el `GITHUB_TOKEN` tenga permisos de lectura y escritura para todos los alcances o solo acceso de lectura para el alcance `contents`. ![Configurar los permisos del GITHUB_TOKEN para esta organización](/assets/images/help/settings/actions-workflow-permissions-organization.png)
+1. Debajo de **Permisos del flujo de trabajo**, elige si quieres que el `GITHUB_TOKEN` tenga permisos de lectura y escritura para todos los alcances o solo acceso de lectura para el alcance `contents`. ![Configurar los permisos del GITHUB_TOKEN para esta organización](/assets/images/2021/10/help/settings/actions-workflow-permissions-organization.png)
 1. Da clic en **Guardar** para aplicar la configuración.
 {% endif %}

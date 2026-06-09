@@ -50,7 +50,7 @@ end
 
 このサーバーが機能するには、webhookでリポジトリを設定する必要があります。 プルリクエストが作成やマージされるたびに、webhookが起動するよう設定すべきです。 なんでも好きにして構わないようなリポジトリを作成しましょう。 [@octocat's Spoon/Knifeリポジトリ](https://github.com/octocat/Spoon-Knife)などはどうでしょうか。 その後、リポジトリ内に新しいwebhookを作成し、ngrokが提供したURLを指定し、コンテンツタイプとして`application/x-www-form-urlencoded`を選択します。
 
-![新しいngrok URL](/assets/images/webhook_sample_url.png)
+![新しいngrok URL](/assets/images/2021/10/webhook_sample_url.png)
 
 **Update webhook（webhookの更新）**をクリックしてください。 本文に`Well, it worked!`というレスポンスが表示されるはずです。 これでうまくいきました。 [**Let me select individual events**]をクリックし、以下を選択します。
 

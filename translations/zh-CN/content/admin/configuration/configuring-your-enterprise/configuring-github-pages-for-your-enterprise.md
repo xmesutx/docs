@@ -35,7 +35,7 @@ If private mode is enabled on your enterprise, the public cannot access {% data 
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
 4. Select **Public Pages**.
-  ![Checkbox to enable Public Pages](/assets/images/enterprise/management-console/public-pages-checkbox.png)
+  ![Checkbox to enable Public Pages](/assets/images/2021/10/enterprise/management-console/public-pages-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Disabling {% data variables.product.prodname_pages %} for your enterprise
@@ -46,7 +46,7 @@ If subdomain isolation is disabled for your enterprise, you should also disable 
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
 4. Unselect **Enable Pages**.
-  ![Checkbox to disable {% data variables.product.prodname_pages %}](/assets/images/enterprise/management-console/pages-select-button.png)
+  ![Checkbox to disable {% data variables.product.prodname_pages %}](/assets/images/2021/10/enterprise/management-console/pages-select-button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% endif %}
@@ -57,7 +57,7 @@ If subdomain isolation is disabled for your enterprise, you should also disable 
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.pages-tab %}
 5. Under "Pages policies", deselect **Enable {% data variables.product.prodname_pages %}**.
-  ![Checkbox to disable {% data variables.product.prodname_pages %}](/assets/images/enterprise/business-accounts/enable-github-pages-checkbox.png)
+  ![Checkbox to disable {% data variables.product.prodname_pages %}](/assets/images/2021/10/enterprise/business-accounts/enable-github-pages-checkbox.png)
 {% data reusables.enterprise-accounts.pages-policies-save %}
 
 {% endif %}

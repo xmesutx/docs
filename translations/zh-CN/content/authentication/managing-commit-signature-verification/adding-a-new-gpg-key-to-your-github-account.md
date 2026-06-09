@@ -28,9 +28,9 @@ Before adding a new GPG key to your account on {% ifversion ghae %}{% data varia
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. 单击 **New GPG key（新 GPG 密钥）**。 ![GPG 密钥按钮](/assets/images/help/settings/gpg-add-gpg-key.png)
-4. 在 "Key"（密钥）字段中，粘贴在[生成 GPG 密钥](/articles/generating-a-new-gpg-key)时复制的 GPG 密钥。 ![密钥字段](/assets/images/help/settings/gpg-key-paste.png)
-5. 单击 **Add GPG key（添加 GPG 密钥）**。 ![添加密钥按钮](/assets/images/help/settings/gpg-add-key.png)
+3. 单击 **New GPG key（新 GPG 密钥）**。 ![GPG 密钥按钮](/assets/images/2021/10/help/settings/gpg-add-gpg-key.png)
+4. 在 "Key"（密钥）字段中，粘贴在[生成 GPG 密钥](/articles/generating-a-new-gpg-key)时复制的 GPG 密钥。 ![密钥字段](/assets/images/2021/10/help/settings/gpg-key-paste.png)
+5. 单击 **Add GPG key（添加 GPG 密钥）**。 ![添加密钥按钮](/assets/images/2021/10/help/settings/gpg-add-key.png)
 6. 要确认操作，请输入您的 {% data variables.product.product_name %} 密码。
 
 ## 延伸阅读

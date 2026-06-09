@@ -25,7 +25,7 @@ shortTitle: View branches
 
 4. 必要に応じて、右上の検索フィールドを使用します。 このフィールドでは単純に、大文字と小文字を区別しない、ブランチ名の部分一致検索を行うことができます。 その他のクエリ構文はサポートしていません。
 
-![Atom リポジトリのブランチページ](/assets/images/help/branches/branches-overview-atom.png)
+![Atom リポジトリのブランチページ](/assets/images/2021/10/help/branches/branches-overview-atom.png)
 
 ## 参考リンク
 

@@ -44,7 +44,7 @@ Puedes mejorar tu cuenta personal desde {% data variables.product.prodname_free_
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
-1. Junto a "Plan actual", haz clic en **Mejorar**. ![Botón para actualizar](/assets/images/help/billing/settings_billing_user_upgrade.png)
+1. Junto a "Plan actual", haz clic en **Mejorar**. ![Botón para actualizar](/assets/images/2021/10/help/billing/settings_billing_user_upgrade.png)
 2. Debajo de "Pro" en la página de "Comparar planes", haz clic en **Actualizar a Pro**.
 {% data reusables.dotcom_billing.choose-monthly-or-yearly-billing %}
 {% data reusables.dotcom_billing.show-plan-details %}
@@ -91,8 +91,8 @@ Si quisieras que usuarios adicionales tengan acceso a los repositorios privados 
 {% data reusables.dotcom_billing.switch-legacy-billing %}Para obtener más información, consulta "[Acerca de los precios por usuario](/articles/about-per-user-pricing)".
 
 {% data reusables.organizations.billing-settings %}
-5. A la derecha de tu nombre de plan, utiliza el menú desplegable de **Editar** y selecciona **Editar plan**. ![Menú desplegable de editar](/assets/images/help/billing/per-user-upgrade-button.png)
-6. A la derecha de "Herramientas avanzadas para equipos", da clic en **Mejorar ahora**. ![Botón de mejorar ahora](/assets/images/help/billing/per-user-upgrade-now-button.png)
+5. A la derecha de tu nombre de plan, utiliza el menú desplegable de **Editar** y selecciona **Editar plan**. ![Menú desplegable de editar](/assets/images/2021/10/help/billing/per-user-upgrade-button.png)
+6. A la derecha de "Herramientas avanzadas para equipos", da clic en **Mejorar ahora**. ![Botón de mejorar ahora](/assets/images/2021/10/help/billing/per-user-upgrade-now-button.png)
 {% data reusables.dotcom_billing.choose_org_plan %}
 {% data reusables.dotcom_billing.choose-monthly-or-yearly-billing %}
 {% data reusables.dotcom_billing.owned_by_business %}

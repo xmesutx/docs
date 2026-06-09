@@ -166,7 +166,7 @@ The new view is automatically saved.
 
 When you make changes to a view - for example, sorting, reordering, filtering, or grouping the data in a view - a dot is displayed next to the view name to indicate that there are unsaved changes. 
 
-![Unsaved changes indicator](/assets/images/help/projects/unsaved-changes.png)
+![Unsaved changes indicator](/assets/images/2021/11/help/projects/unsaved-changes.png)
 
 If you don't want to save the changes, you can ignore this indicator. No one else will see your changes.
 

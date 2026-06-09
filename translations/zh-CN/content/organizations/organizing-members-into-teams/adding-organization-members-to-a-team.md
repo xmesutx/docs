@@ -22,7 +22,7 @@ shortTitle: 将成员添加到团队
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_members_tab %}
-6. 在团队成员列表上方，单击 **Add a member（添加成员）**。 ![添加成员按钮](/assets/images/help/teams/add-member-button.png)
+6. 在团队成员列表上方，单击 **Add a member（添加成员）**。 ![添加成员按钮](/assets/images/2021/10/help/teams/add-member-button.png)
 {% data reusables.organizations.invite_to_team %}
 {% data reusables.organizations.review-team-repository-access %}
 

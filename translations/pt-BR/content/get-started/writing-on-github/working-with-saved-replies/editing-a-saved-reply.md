@@ -16,9 +16,9 @@ versions:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.saved_replies %}
 3. Em "Saved replies" (Respostas salvas), ao lado da resposta salva que deseja editar, clique em {% octicon "pencil" aria-label="The pencil" %}.  
-   ![Editar resposta salva](/assets/images/help/settings/saved-replies-edit-existing.png)
-4. Em "Edit saved reply" (Editar resposta salva), é possível editar o título e o conteúdo da resposta salva. ![Editar título e conteúdo](/assets/images/help/settings/saved-replies-edit-existing-content.png)
-5. Clique em **Update saved reply** (Atualizar resposta salva). ![Atualizar resposta salva](/assets/images/help/settings/saved-replies-save-edit.png)
+   ![Editar resposta salva](/assets/images/2021/10/help/settings/saved-replies-edit-existing.png)
+4. Em "Edit saved reply" (Editar resposta salva), é possível editar o título e o conteúdo da resposta salva. ![Editar título e conteúdo](/assets/images/2021/10/help/settings/saved-replies-edit-existing-content.png)
+5. Clique em **Update saved reply** (Atualizar resposta salva). ![Atualizar resposta salva](/assets/images/2021/10/help/settings/saved-replies-save-edit.png)
 
 ## Leia mais
 

@@ -15,7 +15,7 @@ topics:
   - Fundamentals
 ---
 To access the dashboard, in the upper-right corner of any page, click {% octicon "rocket" aria-label="The rocket ship" %}.
-![Rocket ship icon for accessing site admin settings](/assets/images/enterprise/site-admin-settings/access-new-settings.png)
+![Rocket ship icon for accessing site admin settings](/assets/images/2021/10/enterprise/site-admin-settings/access-new-settings.png)
 
 {% ifversion ghes or ghae %}
 

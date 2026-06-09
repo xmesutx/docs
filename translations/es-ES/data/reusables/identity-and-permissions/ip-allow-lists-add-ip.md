@@ -1,1 +1,1 @@
-1. En la parte inferior de la sección "lista de direcciones IP permitidas", ingresa una dirección IP o un rango de direcciones en notación CIDR. ![Campo clave para agregar una dirección IP](/assets/images/help/security/ip-address-field.png)
+1. En la parte inferior de la sección "lista de direcciones IP permitidas", ingresa una dirección IP o un rango de direcciones en notación CIDR. ![Campo clave para agregar una dirección IP](/assets/images/2021/10/help/security/ip-address-field.png)

@@ -20,5 +20,5 @@ shortTitle: 匿名Git 读取权限
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 3. 在“Enable anonymous Git read access”（启用匿名 Git 读取权限）旁边，单击 **Enable**（启用）。 !["Anonymous Git read access"（匿名 Git 读取权限）下的
- "Enabled"（启用）按钮](/assets/images/help/repository/enable-git-read-access-for-a-repo.png)
+ "Enabled"（启用）按钮](/assets/images/2021/10/help/repository/enable-git-read-access-for-a-repo.png)
 4. 审查更改。 如需确认，请输入仓库名称，然后单击 **I understand, enable anonymous Git read access（我理解，启用匿名 Git 读取权限）**。

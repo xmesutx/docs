@@ -66,7 +66,7 @@ If an enterprise owner disallows members from creating certain types of reposito
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
 1. Under "Default repository visibility", use the drop-down menu and select a default visibility.
-  ![Drop-down menu to choose the default repository visibility for your enterprise](/assets/images/enterprise/site-admin-settings/default-repository-visibility-settings.png)
+  ![Drop-down menu to choose the default repository visibility for your enterprise](/assets/images/2021/10/enterprise/site-admin-settings/default-repository-visibility-settings.png)
 
 {% data reusables.enterprise_installation.image-urls-viewable-warning %}
 
@@ -82,9 +82,9 @@ Across all organizations owned by your enterprise, you can set a {% ifversion gh
 4. Under "{% ifversion ghec or ghes > 3.1 or ghae %}Base{% else %}Default{% endif %} permissions", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 5. Under "{% ifversion ghec or ghes > 3.1 or ghae %}Base{% else %}Default{% endif %} permissions", use the drop-down menu and choose a policy.
   {% ifversion ghec or ghes > 3.1 or ghae %}
-  ![Drop-down menu with repository permissions policy options](/assets/images/help/business-accounts/repository-permissions-policy-drop-down.png)
+  ![Drop-down menu with repository permissions policy options](/assets/images/2021/10/help/business-accounts/repository-permissions-policy-drop-down.png)
   {% else %}
-  ![Drop-down menu with repository permissions policy options](/assets/images/enterprise/business-accounts/repository-permissions-policy-drop-down.png)  
+  ![Drop-down menu with repository permissions policy options](/assets/images/2021/10/enterprise/business-accounts/repository-permissions-policy-drop-down.png)  
   {% endif %}
 
 ## Enforcing a policy for repository creation
@@ -102,7 +102,7 @@ Across all organizations owned by your enterprise, you can allow members to crea
 {% data reusables.enterprise-accounts.repo-creation-types %}
 {% else %}
 6. Under "Repository creation", use the drop-down menu and choose a policy.
-  ![Drop-down menu with repository creation policies](/assets/images/enterprise/site-admin-settings/repository-creation-drop-down.png)
+  ![Drop-down menu with repository creation policies](/assets/images/2021/10/enterprise/site-admin-settings/repository-creation-drop-down.png)
 {% endif %}
 
 ## Enforcing a policy for forking private or internal repositories
@@ -114,7 +114,7 @@ Across all organizations owned by your enterprise, you can allow people with acc
 {% data reusables.enterprise-accounts.repositories-tab %}
 3. Under "Repository forking", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 4. Under "Repository forking", use the drop-down menu and choose a policy.
-  ![Drop-down menu with repository forking policy options](/assets/images/help/business-accounts/repository-forking-policy-drop-down.png)
+  ![Drop-down menu with repository forking policy options](/assets/images/2021/10/help/business-accounts/repository-forking-policy-drop-down.png)
   
 ## Enforcing a policy for inviting{% ifversion ghec %} outside{% endif %} collaborators to repositories
 
@@ -126,9 +126,9 @@ Across all organizations owned by your enterprise, you can allow members to invi
 3. Under "Repository {% ifversion ghec %}outside collaborators{% elsif ghes or ghae %}invitations{% endif %}", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 4. Under "Repository {% ifversion ghec %}outside collaborators{% elsif ghes or ghae %}invitations{% endif %}", use the drop-down menu and choose a policy.
   {% ifversion ghec %}
-  ![Drop-down menu with outside collaborator invitation policy options](/assets/images/help/business-accounts/repository-invitation-policy-drop-down.png)
+  ![Drop-down menu with outside collaborator invitation policy options](/assets/images/2021/10/help/business-accounts/repository-invitation-policy-drop-down.png)
   {% elsif ghes or ghae %}
-  ![Drop-down menu with invitation policy options](/assets/images/enterprise/business-accounts/repository-invitation-policy-drop-down.png)  
+  ![Drop-down menu with invitation policy options](/assets/images/2021/10/enterprise/business-accounts/repository-invitation-policy-drop-down.png)  
   {% endif %}
   
 {% ifversion ghec or ghes or ghae %}
@@ -140,11 +140,11 @@ Across all organizations owned by your enterprise, you can set the default branc
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 3. On the **Repository policies** tab, under "Default branch name", enter the default branch name that new repositories should use.
-    ![Text box for entering default branch name](/assets/images/help/business-accounts/default-branch-name-text.png)
+    ![Text box for entering default branch name](/assets/images/2021/10/help/business-accounts/default-branch-name-text.png)
 4. Optionally, to enforce the default branch name for all organizations in the enterprise, select **Enforce across this enterprise**.
-    ![Enforcement checkbox](/assets/images/help/business-accounts/default-branch-name-enforce.png)
+    ![Enforcement checkbox](/assets/images/2021/10/help/business-accounts/default-branch-name-enforce.png)
 5. Click **Update**.
-    ![Update button](/assets/images/help/business-accounts/default-branch-name-update.png)
+    ![Update button](/assets/images/2021/10/help/business-accounts/default-branch-name-update.png)
 
 {% endif %}
 
@@ -180,7 +180,7 @@ Across all organizations owned by your enterprise, you can allow members with ad
 {% data reusables.enterprise-accounts.policies-tab %}
 3. On the **Repository policies** tab, under "Repository issue deletion", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 4. Under "Repository issue deletion", use the drop-down menu and choose a policy.
-  ![Drop-down menu with issue deletion policy options](/assets/images/help/business-accounts/repository-issue-deletion-policy-drop-down.png)
+  ![Drop-down menu with issue deletion policy options](/assets/images/2021/10/help/business-accounts/repository-issue-deletion-policy-drop-down.png)
 
 {% ifversion ghes or ghae %}
 
@@ -194,9 +194,9 @@ By default, when you enforce repository upload limits, people cannot add or upda
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
 4. Under "Repository upload limit", use the drop-down menu and click a maximum object size.
-![Drop-down menu with maximum object size options](/assets/images/enterprise/site-admin-settings/repo-upload-limit-dropdown.png)
+![Drop-down menu with maximum object size options](/assets/images/2021/10/enterprise/site-admin-settings/repo-upload-limit-dropdown.png)
 5. Optionally, to enforce a maximum upload limit for all repositories in your enterprise, select **Enforce on all repositories**
-![Enforce maximum object size on all repositories option](/assets/images/enterprise/site-admin-settings/all-repo-upload-limit-option.png)
+![Enforce maximum object size on all repositories option](/assets/images/2021/10/enterprise/site-admin-settings/all-repo-upload-limit-option.png)
 
 ## Configuring the merge conflict editor for pull requests between repositories
 
@@ -210,7 +210,7 @@ Requiring users to resolve merge conflicts locally on their computer can prevent
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
 1. Under "Conflict editor for pull requests between repositories", use the drop-down menu, and click **Disabled**.
- ![Drop-down menu with option to disable the merge conflict editor](/assets/images/enterprise/settings/conflict-editor-settings.png)
+ ![Drop-down menu with option to disable the merge conflict editor](/assets/images/2021/10/enterprise/settings/conflict-editor-settings.png)
 
 ## Configuring force pushes
 
@@ -222,7 +222,7 @@ Each repository inherits a default force push setting from the settings of the u
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
 4. Under "Force pushes", use the drop-down menu, and click **Allow**, **Block** or **Block to the default branch**.
-![Force pushes dropdown](/assets/images/enterprise/site-admin-settings/force-pushes-dropdown.png)
+![Force pushes dropdown](/assets/images/2021/10/enterprise/site-admin-settings/force-pushes-dropdown.png)
 5. Optionally, select **Enforce on all repositories**, which will override organization and repository level settings for force pushes.
 
 ### Blocking force pushes to a specific repository
@@ -236,7 +236,7 @@ Each repository inherits a default force push setting from the settings of the u
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
 4. Select **Block** or **Block to the default branch** under **Push and Pull**.
-   ![Block force pushes](/assets/images/enterprise/site-admin-settings/repo/repo-block-force-pushes.png)
+   ![Block force pushes](/assets/images/2021/10/enterprise/site-admin-settings/repo/repo-block-force-pushes.png)
 
 ### Blocking force pushes to repositories owned by a user account or organization
 
@@ -253,9 +253,9 @@ You can override the default inherited settings by configuring the settings for 
 5. Under "Repository default settings" in the "Force pushes" section, select
     - **Block** to block force pushes to all branches.
     - **Block to the default branch** to only block force pushes to the default branch.
-  ![Block force pushes](/assets/images/enterprise/site-admin-settings/user/user-block-force-pushes.png)
+  ![Block force pushes](/assets/images/2021/10/enterprise/site-admin-settings/user/user-block-force-pushes.png)
 6. Optionally, select **Enforce on all repositories** to override repository-specific settings. Note that this will **not** override an enterprise-wide policy.
-   ![Block force pushes](/assets/images/enterprise/site-admin-settings/user/user-block-all-force-pushes.png)
+   ![Block force pushes](/assets/images/2021/10/enterprise/site-admin-settings/user/user-block-all-force-pushes.png)
 
 {% endif %}
 
@@ -285,9 +285,9 @@ If necessary, you can prevent repository administrators from changing anonymous 
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
 4. Under "Anonymous Git read access", use the drop-down menu, and click **Enabled**.
-![Anonymous Git read access drop-down menu showing menu options "Enabled" and "Disabled"](/assets/images/enterprise/site-admin-settings/enable-anonymous-git-read-access.png)
+![Anonymous Git read access drop-down menu showing menu options "Enabled" and "Disabled"](/assets/images/2021/10/enterprise/site-admin-settings/enable-anonymous-git-read-access.png)
 3. Optionally, to prevent repository admins from changing anonymous Git read access settings in all repositories on your enterprise, select **Prevent repository admins from changing anonymous Git read access**.
-![Select checkbox to prevent repository admins from changing anonymous Git read access settings for all repositories on your enterprise](/assets/images/enterprise/site-admin-settings/globally-lock-repos-from-changing-anonymous-git-read-access.png)
+![Select checkbox to prevent repository admins from changing anonymous Git read access settings for all repositories on your enterprise](/assets/images/2021/10/enterprise/site-admin-settings/globally-lock-repos-from-changing-anonymous-git-read-access.png)
 
 ### Setting anonymous Git read access for a specific repository
 
@@ -297,10 +297,10 @@ If necessary, you can prevent repository administrators from changing anonymous 
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
 6. Under "Danger Zone", next to "Enable Anonymous Git read access", click **Enable**.
-!["Enabled" button under "Enable anonymous Git read access" in danger zone of a repository's site admin settings ](/assets/images/enterprise/site-admin-settings/site-admin-enable-anonymous-git-read-access.png)
+!["Enabled" button under "Enable anonymous Git read access" in danger zone of a repository's site admin settings ](/assets/images/2021/10/enterprise/site-admin-settings/site-admin-enable-anonymous-git-read-access.png)
 7. Review the changes. To confirm, click **Yes, enable anonymous Git read access.**
-![Confirm anonymous Git read access setting in pop-up window](/assets/images/enterprise/site-admin-settings/confirm-anonymous-git-read-access-for-specific-repo-as-site-admin.png)
+![Confirm anonymous Git read access setting in pop-up window](/assets/images/2021/10/enterprise/site-admin-settings/confirm-anonymous-git-read-access-for-specific-repo-as-site-admin.png)
 8. Optionally, to prevent repository admins from changing this setting for this repository, select **Prevent repository admins from changing anonymous Git read access**.
-![Select checkbox to prevent repository admins from changing anonymous Git read access for this repository](/assets/images/enterprise/site-admin-settings/lock_anonymous_git_access_for_specific_repo.png)
+![Select checkbox to prevent repository admins from changing anonymous Git read access for this repository](/assets/images/2021/10/enterprise/site-admin-settings/lock_anonymous_git_access_for_specific_repo.png)
 
 {% endif %}

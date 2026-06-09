@@ -1,7 +1,7 @@
 1. Em {% ifversion fpt or ghes > 3.1 or ghae or ghec %}"Executores"{% else %}"Executores auto-hospedados"{% endif %}, localize o executor na lista. Se o seu runner estiver em um grupo, clique em {% octicon "chevron-down" aria-label="The downwards chevron" %} para expandir a lista.
 1. Clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} ao lado do runner que deseja remover, depois clique em **Remover**.
 
-    ![Removendo uma configuração do executor auto-hospedado](/assets/images/help/settings/actions-runner-remove.png)
+    ![Removendo uma configuração do executor auto-hospedado](/assets/images/2021/10/help/settings/actions-runner-remove.png)
 1. Você verá instruções para remover o executor auto-hospedado. Complete qualquer um dos seguintes passos para remover o executor, dependendo se ele ainda está acessível:
 
     * **If you have access to the runner machine:** (Se você tiver acesso à máquina do executor:) Siga as instruções na tela para que o sistema operacional da sua máquina execute o comando de remoção. As instruções incluem a URL necessária e um token gerado automaticamente, limitado por tempo.

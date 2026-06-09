@@ -32,4 +32,4 @@ También puedes acceder a la bitácora de auditoría de tu empresa desde la API 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
-1. Opcionalmente, sobre la lista de eventos, selecciona el menú desplegable de **Exportar Eventos de Git** o de **Exportar** para elegir las opciones de exportación de eventos de la bitácora de auditoría. ![Menús desplegables de "Exportar Eventos de Git" y "Exportar" para la bitácora de auditoría de la empresa](/assets/images/help/enterprises/audit-log-export-drop-down-menus.png)
+1. Opcionalmente, sobre la lista de eventos, selecciona el menú desplegable de **Exportar Eventos de Git** o de **Exportar** para elegir las opciones de exportación de eventos de la bitácora de auditoría. ![Menús desplegables de "Exportar Eventos de Git" y "Exportar" para la bitácora de auditoría de la empresa](/assets/images/2021/10/help/enterprises/audit-log-export-drop-down-menus.png)

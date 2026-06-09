@@ -58,7 +58,7 @@ Antes de que requieras el uso de autenticación de dos factores, recomendamos qu
 
 Para ver las personas que se eliminaron automáticamente de tu organización por no cumplir cuando les requeriste la autenticación de dos factores, puedes [buscar el registro de auditoría de tu organización](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#accessing-the-audit-log) para las personas eliminadas de tu organización. El evento de registro de auditoría mostrará si se eliminó a una persona por no cumplir con la 2FA.
 
-![Evento de registro de auditoría que muestra un usuario eliminado por no cumplir con la 2FA](/assets/images/help/2fa/2fa_noncompliance_audit_log_search.png)
+![Evento de registro de auditoría que muestra un usuario eliminado por no cumplir con la 2FA](/assets/images/2021/10/help/2fa/2fa_noncompliance_audit_log_search.png)
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}

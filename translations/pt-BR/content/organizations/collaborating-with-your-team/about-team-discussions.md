@@ -18,11 +18,11 @@ topics:
 
 Qualquer integrante da organização pode postar na página da equipe ou participar de uma discussão pública. {% data reusables.organizations.team-discussions-permissions %}
 
-![Guia Discussions (Discussões) da página de equipe com discussões públicas e privadas](/assets/images/help/organizations/team-page-discussions-tab.png)
+![Guia Discussions (Discussões) da página de equipe com discussões públicas e privadas](/assets/images/2021/10/help/organizations/team-page-discussions-tab.png)
 
 Você pode se vincular a qualquer discussão de equipe para fazer referência a ela em qualquer lugar. É possível fixar postagens importantes na página da equipe para referência rápida posterior. Para obter mais informações, consulte "[Fixar uma discussão de equipe](/organizations/collaborating-with-your-team/pinning-a-team-discussion)".
 
-![Guia de discussões fixada da página de equipe com discussão fixada](/assets/images/help/organizations/team-discussions-pinned.png)
+![Guia de discussões fixada da página de equipe com discussão fixada](/assets/images/2021/10/help/organizations/team-discussions-pinned.png)
 
 {% data reusables.organizations.team-discussions-default %} Os proprietários podem desabilitar as discussões de equipe para a organização inteira. Para obter mais informações, consulte "[Desabilitar discussões de equipe para sua organização](/articles/disabling-team-discussions-for-your-organization)".
 

@@ -38,9 +38,9 @@ shortTitle: 用于推送的电子邮件通知
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-notifications %}
-5. 输入最多两个您希望通知发送到的电子邮件地址，用空格分隔。 如果要将电子邮件发送到两个以上的帐户，请将其中一个电子邮件地址设为群组电子邮件地址。 ![电子邮件地址文本框](/assets/images/help/settings/email_services_addresses.png)
-1. 如果您操作自己的服务器，可通过 **Approved 标头**验证电子邮件的真实性。 **Approved 标头**是您在此字段中输入的令牌或密码，它将随电子邮件一起发送。 如果电子邮件的 `Approved` 标头与令牌匹配，则可以信任该电子邮件来自 {% data variables.product.product_name %}。 ![电子邮件已批准标头文本框](/assets/images/help/settings/email_services_approved_header.png)
-7. 单击 **Setup notifications（设置通知）**。 ![设置通知按钮](/assets/images/help/settings/setup_notifications_settings.png)
+5. 输入最多两个您希望通知发送到的电子邮件地址，用空格分隔。 如果要将电子邮件发送到两个以上的帐户，请将其中一个电子邮件地址设为群组电子邮件地址。 ![电子邮件地址文本框](/assets/images/2021/10/help/settings/email_services_addresses.png)
+1. 如果您操作自己的服务器，可通过 **Approved 标头**验证电子邮件的真实性。 **Approved 标头**是您在此字段中输入的令牌或密码，它将随电子邮件一起发送。 如果电子邮件的 `Approved` 标头与令牌匹配，则可以信任该电子邮件来自 {% data variables.product.product_name %}。 ![电子邮件已批准标头文本框](/assets/images/2021/10/help/settings/email_services_approved_header.png)
+7. 单击 **Setup notifications（设置通知）**。 ![设置通知按钮](/assets/images/2021/10/help/settings/setup_notifications_settings.png)
 
 ## 延伸阅读
 {% ifversion fpt or ghae or ghes or ghec %}

@@ -1,1 +1,1 @@
-1. Em "Configurações de {% octicon "gear" aria-label="The Settings gear" %}", clique em **Hooks**. ![Aba Hooks na barra lateral de configurações da conta corporativa](/assets/images/help/business-accounts/settings-hooks-tab.png)
+1. Em "Configurações de {% octicon "gear" aria-label="The Settings gear" %}", clique em **Hooks**. ![Aba Hooks na barra lateral de configurações da conta corporativa](/assets/images/2021/10/help/business-accounts/settings-hooks-tab.png)

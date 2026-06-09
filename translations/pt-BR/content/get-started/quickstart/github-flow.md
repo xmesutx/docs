@@ -71,11 +71,11 @@ Crie um pull request para pedir aos colaboradores feedback sobre suas alteraçõ
 
 Ao criar uma pull request, inclua um resumo das alterações e qual o problema que elas resolvem. Você pode incluir imagens, links e tabelas para ajudar a transmitir estas informações. Se o seu pull request resolve um problema, vincule o problema para que os interessados no problema estejam cientes do pull request e vice-versa. Se você vincular com uma palavra-chave, o problema será fechado automaticamente quando o pull request for mesclado. Para obter mais informações, consulte "[Sintaxe de escrita e formatação básica](/github/writing-on-github/basic-writing-and-formatting-syntax)" e "[Vincular um pull request a um problema](/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)".
 
-![texto do pull request](/assets/images/help/pull_requests/pull-request-body.png)
+![texto do pull request](/assets/images/2021/10/help/pull_requests/pull-request-body.png)
 
 Além de preencher o texto do pull request, você pode adicionar comentários em linhas específicas do pull request para apontar algo explicitamente para os revisores.
 
-![comentário do pull request](/assets/images/help/pull_requests/pull-request-comment.png)
+![comentário do pull request](/assets/images/2021/10/help/pull_requests/pull-request-comment.png)
 
 Seu repositório pode ser configurado para solicitar uma revisão automaticamente de equipes específicas ou usuários quando um pull request for criado. Você também pode @mencionar ou solicitar manualmente uma avaliação de pessoas ou equipes específicas.
 

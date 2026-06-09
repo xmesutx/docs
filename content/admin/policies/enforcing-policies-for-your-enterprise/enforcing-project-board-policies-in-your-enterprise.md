@@ -34,7 +34,7 @@ Across all organizations owned by your enterprise, you can enable or disable org
 {% data reusables.enterprise-accounts.projects-tab %}
 4. Under "Organization projects", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 5. Under "Organization projects", use the drop-down menu and choose a policy.
-  ![Drop-down menu with organization project board policy options](/assets/images/help/business-accounts/organization-projects-policy-drop-down.png)
+  ![Drop-down menu with organization project board policy options](/assets/images/2021/10/help/business-accounts/organization-projects-policy-drop-down.png)
 
 ## Enforcing a policy for repository project boards
 
@@ -45,4 +45,4 @@ Across all organizations owned by your enterprise, you can enable or disable rep
 {% data reusables.enterprise-accounts.projects-tab %}
 4. Under "Repository projects", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 5. Under "Repository projects", use the drop-down menu and choose a policy.
-  ![Drop-down menu with repository project board policy options](/assets/images/help/business-accounts/repository-projects-policy-drop-down.png)
+  ![Drop-down menu with repository project board policy options](/assets/images/2021/10/help/business-accounts/repository-projects-policy-drop-down.png)

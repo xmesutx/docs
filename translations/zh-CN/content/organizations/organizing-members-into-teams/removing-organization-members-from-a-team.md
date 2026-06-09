@@ -21,5 +21,5 @@ shortTitle: 删除成员
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-4. 选择您想要删除的一个或多个人员。 ![组织成员旁的复选框](/assets/images/help/teams/team-member-check-box.png)
-5. 在团队成员列表上方，使用下拉菜单，然后单击 **Remove from team（从团队中删除）**。 ![包含更改角色选项的下拉菜单](/assets/images/help/teams/bulk-edit-drop-down.png)
+4. 选择您想要删除的一个或多个人员。 ![组织成员旁的复选框](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. 在团队成员列表上方，使用下拉菜单，然后单击 **Remove from team（从团队中删除）**。 ![包含更改角色选项的下拉菜单](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)

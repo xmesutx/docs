@@ -16,11 +16,11 @@ shortTitle: Cancelar o editar la invitación
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. En la pestaña (People) Personas, haz clic en **Pending invitation** (Invitación pendiente). ![Enlace a invitación pendiente](/assets/images/help/organizations/pending-invitation-link.png)
-5. Junto al nombre de usuario o la dirección de correo electrónico de la persona cuya invitación deseas editar o cancelar, haz clic en **Edit invitation** (Editar invitación). ![Botón Edit invitation (Editar invitación)](/assets/images/help/organizations/edit-invitation-button.png)
+4. En la pestaña (People) Personas, haz clic en **Pending invitation** (Invitación pendiente). ![Enlace a invitación pendiente](/assets/images/2021/10/help/organizations/pending-invitation-link.png)
+5. Junto al nombre de usuario o la dirección de correo electrónico de la persona cuya invitación deseas editar o cancelar, haz clic en **Edit invitation** (Editar invitación). ![Botón Edit invitation (Editar invitación)](/assets/images/2021/10/help/organizations/edit-invitation-button.png)
 
  Es posible que necesites hacer clic en **View all invitations** (Ver todas las invitaciones) en la parte inferior de la ventana para encontrar a la persona que estás buscando.
-6. Decide si deseas edita o cancelar la invitación del usuario para unirse a tu organización. ![Botones Update invitation (Actualizar invitación) y Cancel invitation (Cancelar invitación)](/assets/images/help/organizations/update-cancel-invitation-buttons-for-dotcom-and-2.8.png)
+6. Decide si deseas edita o cancelar la invitación del usuario para unirse a tu organización. ![Botones Update invitation (Actualizar invitación) y Cancel invitation (Cancelar invitación)](/assets/images/2021/10/help/organizations/update-cancel-invitation-buttons-for-dotcom-and-2.8.png)
     - Para editar la invitación del usuario, selecciona un rol o equipo diferente, luego haz clic en **Update invitation** (Actualizar invitación).
     - Para cancelar la invitación del usuario para unirte a tu organización, haz clic en **Cancel invitation** (Cancelar invitación).
 

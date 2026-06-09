@@ -49,7 +49,7 @@ shortTitle: Working with non-code files
 
 You can directly browse and view images in your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}:
 
-![inline image](/assets/images/help/images/view.png)
+![inline image](/assets/images/2021/10/help/images/view.png)
 
 SVGs don't currently support inline scripting or animation.
 
@@ -61,19 +61,19 @@ You can visually compare images in three different modes: [2-up](#2-up), [swipe]
 
 **2-up** is the default mode; it gives you a quick glimpse of both images. In addition, if the image has changed size between versions, the actual dimension change is displayed. This should make it very apparent when things are resized, such as when assets are upgraded to higher resolutions.
 
-![2-up](/assets/images/help/repository/images-2up-view.png)
+![2-up](/assets/images/2021/10/help/repository/images-2up-view.png)
 
 #### Swipe
 
 **Swipe** lets you view portions of your image side by side. Not sure if colors shifted between different versions? Drag the swipe slider over the area in question and compare the pixels for yourself.
 
-![Swipe](/assets/images/help/repository/images-swipe-view.png)
+![Swipe](/assets/images/2021/10/help/repository/images-swipe-view.png)
 
 #### Onion skin
 
 **Onion Skin** really comes in handy when elements move around by small, hard to notice amounts. Did an icon shift two pixels to the left? Drag the opacity slider back a bit and notice if things move around.
 
-![Onion skin](/assets/images/help/repository/images-onion-view.gif)
+![Onion skin](/assets/images/2021/10/help/repository/images-onion-view.gif)
 
 ## 3D File Viewer
 
@@ -92,7 +92,7 @@ When looking at a commit or set of changes which includes an STL file, you'll be
 
 By default, you'll get a view where everything unchanged is in wireframe. Additions are colored in green, and removed parts are colored in red.
 
-![wireframe](/assets/images/help/repository/stl_wireframe.png)
+![wireframe](/assets/images/2021/10/help/repository/stl_wireframe.png)
 
 You can also select the **Revision Slider** option, which lets you use a slider at the top of the file to transition between the current and previous revisions.
 
@@ -100,7 +100,7 @@ You can also select the **Revision Slider** option, which lets you use a slider 
 
 If you see this icon in the corner of the viewer, then the WebGL technology is not available on your browser:
 
-![WebGL pop error](/assets/images/help/repository/render_webgl_error.png)
+![WebGL pop error](/assets/images/2021/10/help/repository/render_webgl_error.png)
 
 WebGL is necessary to take advantage of your computer's hardware to its fullest. We recommend you try browsers like [Chrome](https://www.google.com/intl/en/chrome/browser/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/), which ship with WebGL enabled.
 
@@ -134,7 +134,7 @@ By default, the embedded renderer is 420 pixels wide by 620 pixels high, but you
 
 GitHub supports rendering tabular data in the form of *.csv* (comma-separated) and .*tsv* (tab-separated) files.
 
-![Rendered CSV sample](/assets/images/help/repository/rendered_csv.png)
+![Rendered CSV sample](/assets/images/2021/10/help/repository/rendered_csv.png)
 
 When viewed, any _.csv_ or _.tsv_ file committed to a repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} automatically renders as an interactive table, complete with headers and row numbering. By default, we'll always assume the first row is your header row.
 
@@ -144,13 +144,13 @@ You can link to a particular row by clicking the row number, or select multiple 
 
 If you want to find a certain value in your dataset, you can start typing in the search bar directly above the file. The rows will filter automatically:
 
-![Searching for values](/assets/images/help/repository/searching_csvs.gif)
+![Searching for values](/assets/images/2021/10/help/repository/searching_csvs.gif)
 
 ### Handling errors
 
 Occasionally, you may discover that your CSV or TSV file isn't rendering. In those instances, an error box appears at the bottom of your raw text, suggesting what the error may be.
 
-![CSV render error message](/assets/images/help/repository/csv_render_error.png)
+![CSV render error message](/assets/images/2021/10/help/repository/csv_render_error.png)
 
 Common errors include:
 
@@ -161,7 +161,7 @@ Common errors include:
 
 GitHub supports rendering of PDF documents.
 
-![Rendered PDF Document](/assets/images/help/repository/rendered-pdf.png)
+![Rendered PDF Document](/assets/images/2021/10/help/repository/rendered-pdf.png)
 
 Currently, links within PDFs are ignored.
 
@@ -185,11 +185,11 @@ Prose rendering is supported for rendered documents supported by [github/markup]
 * MediaWiki
 * Pod
 
-![Paper icon to view rendered prose document](/assets/images/help/repository/rendered_prose_diff.png)
+![Paper icon to view rendered prose document](/assets/images/2021/10/help/repository/rendered_prose_diff.png)
 
 You can click {% octicon "file" aria-label="The paper icon" %} to see the changes made to the document as part of a commit.
 
-![Rendered Prose changes](/assets/images/help/repository/rendered_prose_changes.png)
+![Rendered Prose changes](/assets/images/2021/10/help/repository/rendered_prose_changes.png)
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-5232 or ghec %}
 
@@ -205,7 +205,7 @@ We provide a tooltip
 describing changes to attributes that, unlike words, would not otherwise be visible in the rendered document. For example, if a link URL changes from one website to
 another, we'd show a tooltip like this:
 
-![Rendered Prose attribute changes](/assets/images/help/repository/prose_diff_attributes.png)
+![Rendered Prose attribute changes](/assets/images/2021/10/help/repository/prose_diff_attributes.png)
 
 ### Commenting on changes
 
@@ -222,7 +222,7 @@ of your rendered prose diff to specific sections.
 
 Some pull requests involve a large number of changes with large, complex documents. When the changes take too long to analyze, {% data variables.product.product_name %} can't always produce a rendered view of the changes. If this happens, you'll see an error message when you click the rendered button.
 
-![Message when view can't be rendered](/assets/images/help/repository/prose_diff_rendering.png)
+![Message when view can't be rendered](/assets/images/2021/10/help/repository/prose_diff_rendering.png)
 
 You can still use the source view to analyze and comment on changes.
 
@@ -238,7 +238,7 @@ In general, rendered views of changes to a document containing embedded HTML wil
 
 When you click the paper icon on the right, you'll also see the changes made to that file as part of a commit.
 
-![Source Render toggle screenshot](/assets/images/help/repository/source-render-toggle-geojson.png)
+![Source Render toggle screenshot](/assets/images/2021/10/help/repository/source-render-toggle-geojson.png)
 
 ### Geometry Types
 
@@ -295,7 +295,7 @@ If you're having trouble rendering geoJSON files, ensure you have a valid geoJSO
 
 Additionally, if your `.geojson` file is especially large (over 10 MB), it is not possible to render within the browser. If that's the case, you'll generally see a message that looks something like this:
 
-![Large file](/assets/images/help/repository/view_raw.png)
+![Large file](/assets/images/2021/10/help/repository/view_raw.png)
 
 It may still be possible to render the data by converting the `.geojson` file to [TopoJSON](https://github.com/mbostock/topojson), a compression format that, in some cases, can reduce filesize by up to 80%. Of course, you can always break the file into smaller chunks (such as by state or by year), and store the data as multiple files within the repository.
 

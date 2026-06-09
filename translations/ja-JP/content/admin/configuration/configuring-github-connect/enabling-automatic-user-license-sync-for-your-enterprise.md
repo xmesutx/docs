@@ -38,4 +38,4 @@ Before enabling license synchronization on {% data variables.product.product_loc
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.github-connect-tab %}
-1. [Server can sync user license count and usage] で、ドロップダウンメニューを使って [**Enabled**] を選択します。 ![自動ユーザライセンス同期を有効化するドロップダウンメニュー](/assets/images/enterprise/site-admin-settings/enable-user-license-drop-down.png)
+1. [Server can sync user license count and usage] で、ドロップダウンメニューを使って [**Enabled**] を選択します。 ![自動ユーザライセンス同期を有効化するドロップダウンメニュー](/assets/images/2021/10/enterprise/site-admin-settings/enable-user-license-drop-down.png)

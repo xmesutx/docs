@@ -60,7 +60,7 @@ You can use templates to quickly set up a new project board. When you use a temp
 
 For more information on automation for project boards, see "[About automation for project boards](/articles/about-automation-for-project-boards)."
 
-![Project board with basic kanban template](/assets/images/help/projects/project-board-basic-kanban-template.png)
+![Project board with basic kanban template](/assets/images/2021/10/help/projects/project-board-basic-kanban-template.png)
 
 {% data reusables.project-management.copy-project-boards %}
 

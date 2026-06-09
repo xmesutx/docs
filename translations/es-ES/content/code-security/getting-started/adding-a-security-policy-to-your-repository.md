@@ -48,8 +48,8 @@ Cuando pones las instrucciones de reporte de seguridad claramente disponibles, f
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
-3. En la barra lateral iziquierda, haz clic en **Política de seguridad**. ![Pestaña de política de seguridad](/assets/images/help/security/security-policy-tab.png)
-4. Haz clic en **Start setup** (Iniciar configuración). ![Botón Start setup (Iniciar configuración)](/assets/images/help/security/start-setup-security-policy-button.png)
+3. En la barra lateral iziquierda, haz clic en **Política de seguridad**. ![Pestaña de política de seguridad](/assets/images/2021/10/help/security/security-policy-tab.png)
+4. Haz clic en **Start setup** (Iniciar configuración). ![Botón Start setup (Iniciar configuración)](/assets/images/2021/10/help/security/start-setup-security-policy-button.png)
 5. En el archivo _SECURITY.md_ nuevo, agrega información sobre las versiones compatibles de tu proyecto y cómo informar una vulnerabilidad.
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}

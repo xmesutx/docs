@@ -31,7 +31,7 @@ shortTitle: リストの説明を書く
 
 コミュニティには、[{% data variables.product.prodname_marketplace %}ホームページ](https://github.com/marketplace)のアプリケーション名の下に「ごく短い」説明が表示されます。
 
-![{% data variables.product.prodname_marketplace %}アプリケーションの短い説明](/assets/images/marketplace/marketplace_short_description.png)
+![{% data variables.product.prodname_marketplace %}アプリケーションの短い説明](/assets/images/2021/10/marketplace/marketplace_short_description.png)
 
 #### 長さ
 
@@ -103,11 +103,11 @@ shortTitle: リストの説明を書く
 
 {% data variables.product.prodname_marketplace %}には、アプリケーションを視覚的に区別するために、円形のバッジの中に四角いロゴ画像の付いたリストが表示されます。
 
-![GitHub Marketplaceのロゴおよびバッジ画像](/assets/images/marketplace/marketplace-logo-and-badge.png)
+![GitHub Marketplaceのロゴおよびバッジ画像](/assets/images/2021/10/marketplace/marketplace-logo-and-badge.png)
 
 機能カードは、アプリケーションのロゴ、名前、およびブランドの個性を捉えた顧客の背景画像で構成されます。 アプリケーションが、ランダムに選択されて[ホームページ](https://github.com/marketplace)の上部に表示されているアプリケーションの1つである場合、{% data variables.product.prodname_marketplace %}には、このカードが表示されます。 各アプリケーションのごく短い説明が、機能カードの下に表示されます。
 
-![機能カード](/assets/images/marketplace/marketplace_feature_card.png)
+![機能カード](/assets/images/2021/10/marketplace/marketplace_feature_card.png)
 
 画像をアップロードして色を選択すると、{% data variables.product.prodname_marketplace %}のドラフトリストに、ロゴと機能カードのプレビューが表示されます。
 
@@ -135,11 +135,11 @@ shortTitle: リストの説明を書く
 
 「概要説明」は、アプリケーションの{% data variables.product.prodname_marketplace %}ランディングページの上部に表示されます。
 
-![{% data variables.product.prodname_marketplace %}の概要説明](/assets/images/marketplace/marketplace_intro_description.png)
+![{% data variables.product.prodname_marketplace %}の概要説明](/assets/images/2021/10/marketplace/marketplace_intro_description.png)
 
 [**Read more...**] をクリックすると、「詳細説明」が表示されます。
 
-![{% data variables.product.prodname_marketplace %}の詳細説明](/assets/images/marketplace/marketplace_detailed_description.png)
+![{% data variables.product.prodname_marketplace %}の詳細説明](/assets/images/2021/10/marketplace/marketplace_detailed_description.png)
 
 説明の記述は、以下のガイドラインに従ってください。
 
@@ -195,4 +195,4 @@ shortTitle: リストの説明を書く
 - アップロードしたスクリーンショットは、アプリケーションのランディングページにあるボックスに表示されるので、スクリーンショットの周囲にボックスや枠線は必要ありません。
 - キャプションは、短く簡潔なほうが効果があります。
 
-![GitHub Marketplaceのスクリーンショット画像](/assets/images/marketplace/marketplace-screenshots.png)
+![GitHub Marketplaceのスクリーンショット画像](/assets/images/2021/10/marketplace/marketplace-screenshots.png)

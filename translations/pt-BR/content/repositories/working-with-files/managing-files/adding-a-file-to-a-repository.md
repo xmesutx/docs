@@ -32,11 +32,11 @@ Os arquivos que você adiciona a um repositório por meio do navegador são limi
 {% endtip %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. Acima da lista de arquivos, usando o menu suspenso **Adicionar arquivo** clique em **Fazer upload de arquivos**. !["Fazer upload de arquivos" no menu suspenso "Adicionar arquivo"](/assets/images/help/repository/upload-files-button.png)
-3. Arraste e solte o arquivo ou a pasta que deseja fazer upload no repositório na árvore de arquivos. ![Área arrastar e soltar](/assets/images/help/repository/upload-files-drag-and-drop.png)
+2. Acima da lista de arquivos, usando o menu suspenso **Adicionar arquivo** clique em **Fazer upload de arquivos**. !["Fazer upload de arquivos" no menu suspenso "Adicionar arquivo"](/assets/images/2021/10/help/repository/upload-files-button.png)
+3. Arraste e solte o arquivo ou a pasta que deseja fazer upload no repositório na árvore de arquivos. ![Área arrastar e soltar](/assets/images/2021/10/help/repository/upload-files-drag-and-drop.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
-6. Clique em **Commit changes** (Fazer commit das alterações). ![Botão Commit changes (Fazer commit de alterações)](/assets/images/help/repository/commit-changes-button.png)
+6. Clique em **Commit changes** (Fazer commit das alterações). ![Botão Commit changes (Fazer commit de alterações)](/assets/images/2021/10/help/repository/commit-changes-button.png)
 
 ## Adicionar um arquivo a um repositório usando a linha de comando
 

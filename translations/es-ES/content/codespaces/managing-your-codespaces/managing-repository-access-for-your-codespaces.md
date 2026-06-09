@@ -19,8 +19,8 @@ Cuando habilitas el acceso y la seguridad de un repositorio que pertenezca a tu 
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. Debajo de "Acceso y seguridad"; selecciona la configuración que quieras para tu cuenta de usurio. ![Botones radiales para adminsitrar los repositorios confiables](/assets/images/help/settings/codespaces-access-and-security-radio-buttons.png)
-1. Si eliges "Repositorios seleccionados", selecciona el menú desplegable y luego da clic en un repositorio para permitir que los codespaces de éste accedan al resto de los repositorios que te pertenecen. Repite esto para todos los repositorios cuyos codespaces quieras que accedan al resto de tus repositorios. ![Menú desplegable de "Repositorios seleccionados"](/assets/images/help/settings/codespaces-access-and-security-repository-drop-down.png)
+1. Debajo de "Acceso y seguridad"; selecciona la configuración que quieras para tu cuenta de usurio. ![Botones radiales para adminsitrar los repositorios confiables](/assets/images/2021/10/help/settings/codespaces-access-and-security-radio-buttons.png)
+1. Si eliges "Repositorios seleccionados", selecciona el menú desplegable y luego da clic en un repositorio para permitir que los codespaces de éste accedan al resto de los repositorios que te pertenecen. Repite esto para todos los repositorios cuyos codespaces quieras que accedan al resto de tus repositorios. ![Menú desplegable de "Repositorios seleccionados"](/assets/images/2021/10/help/settings/codespaces-access-and-security-repository-drop-down.png)
 
 ## Leer más
 

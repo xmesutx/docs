@@ -52,7 +52,7 @@ Debes incluir los [Parámetros del Manifiesto de la GitHub App](#github-app-mani
 
 Se redirigirá al creador de la app a una página de GitHub en donde encontrará un campo de entrada y ahí podrá editar el nombre de la app que incluiste en el parámetro de `manifest`. Si no incluyes un `name` en el `manifest`, podrán configurar un nombre de su elección para la app en este campo.
 
-![Crear un Manifiesto de una GitHub App](/assets/images/github-apps/create-github-app-manifest.png)
+![Crear un Manifiesto de una GitHub App](/assets/images/2021/10/github-apps/create-github-app-manifest.png)
 
 #### Parámetros del Manifiesto de la GitHub App
 
@@ -192,7 +192,7 @@ Para crear una App de Probot que puedas compartir, sigue estos pasos:
 1. Agrega el código personalizado de tu aplicación.
 1. [Ejecuta la GitHub App localmente](https://probot.github.io/docs/development/#running-the-app-locally) u [hospédala en donde quieras](#hosting-your-app-with-glitch). Cuando navegues a la URL de la app hospedada, encontrarás una página web con un botón de **Registrar GitHub App** en el que as personas podrán dar clic para crear una app preconfigurada. La siguiente página web es la implementación del Probot para el [paso 1](#1-you-redirect-people-to-github-to-create-a-new-github-app) en el flujo del Manifiesto de la GitHub App:
 
-![Registrar una GitHub App de Probot](/assets/images/github-apps/github_apps_probot-registration.png)
+![Registrar una GitHub App de Probot](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 Al utilizar [dotenv](https://github.com/bkeepers/dotenv), el Probot crea un archivo de tipo `.env` y configura las variables de ambiente para la `APP_ID`, `PRIVATE_KEY`, y el `WEBHOOK_SECRET` con los valores que [recupera de la configuración de la app](#3-you-exchange-the-temporary-code-to-retrieve-the-app-configuration).
 

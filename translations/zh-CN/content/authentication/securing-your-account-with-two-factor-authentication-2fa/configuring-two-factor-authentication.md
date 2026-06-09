@@ -57,20 +57,20 @@ If you're a member of an {% data variables.product.prodname_emu_enterprise %}, y
 5. 在“Two-factor authentication（双重身份验证）”下选择 **Set up using an app（使用应用程序设置）**并点击 **Continue（继续）**。
 6. 在“Authentication verification（身份验证）”下，执行以下操作之一：
     - 使用移动设备的应用程序扫描 QR 码。 扫描完成后，应用程序会显示六位数代码，您可以在 {% data variables.product.product_name %} 输入该代码。
-    - 如果无法扫描 QR 码，请单击 **enter this text code（输入此文本代码）**以查看可复制的代码，然后在 TOTP app 上手动输入。 ![单击输入此代码](/assets/images/help/2fa/2fa_wizard_app_click_code.png)
-7. The TOTP mobile application saves your account on {% data variables.product.product_location %} and generates a new authentication code every few seconds. 在 {% data variables.product.product_name %} 上，请在“Enter the six-digit code from the application（从应用程序输入六位数代码）”下的字段中输入代码。 如果您的恢复代码未自动显示，请单击 **Continue（继续）**。 ![TOTP 输入代码字段](/assets/images/help/2fa/2fa_wizard_app_enter_code.png)
+    - 如果无法扫描 QR 码，请单击 **enter this text code（输入此文本代码）**以查看可复制的代码，然后在 TOTP app 上手动输入。 ![单击输入此代码](/assets/images/2021/10/help/2fa/2fa_wizard_app_click_code.png)
+7. The TOTP mobile application saves your account on {% data variables.product.product_location %} and generates a new authentication code every few seconds. 在 {% data variables.product.product_name %} 上，请在“Enter the six-digit code from the application（从应用程序输入六位数代码）”下的字段中输入代码。 如果您的恢复代码未自动显示，请单击 **Continue（继续）**。 ![TOTP 输入代码字段](/assets/images/2021/10/help/2fa/2fa_wizard_app_enter_code.png)
 {% data reusables.two_fa.save_your_recovery_codes_during_2fa_setup %}
 {%- else %}
 5. 在双重身份验证页面上，单击 **Set up using an app（使用应用程序设置）**。
 6. 将恢复代码保存在安全的位置。 在失去访问权限时，恢复代码可帮助您恢复帐户登录。
     - 要在设备上保存恢复代码，请单击 **Download（下载）**。
     - 要保存恢复代码的硬拷贝，请单击 **Print（打印）**。
-    - 要复制恢复代码以存储在密码管理器中，请单击**复制**。 ![可选择下载、打印或复制代码的恢复代码列表](/assets/images/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
+    - 要复制恢复代码以存储在密码管理器中，请单击**复制**。 ![可选择下载、打印或复制代码的恢复代码列表](/assets/images/2021/10/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
 7. 保存双重身份验证恢复代码后，单击 **Next（下一步）**。
 8. 在双重身份验证页面上，执行以下操作之一：
     - 使用移动设备的应用程序扫描 QR 码。 扫描完成后，应用程序会显示六位数代码，您可以在 {% data variables.product.product_name %} 输入该代码。
-    - 如果无法扫描 QR 码，请单击 **enter this text code（输入此文本代码）**以查看可复制的代码，然后在 {% data variables.product.product_name %} 上手动输入。 ![单击输入此代码](/assets/images/help/2fa/totp-click-enter-code.png)
-9. The TOTP mobile application saves your account on {% data variables.product.product_location %} and generates a new authentication code every few seconds. 在 {% data variables.product.product_name %} 中的 2FA 页面上，键入代码并单击 **Enable（启用）**。 ![TOTP 启用字段](/assets/images/help/2fa/totp-enter-code.png)
+    - 如果无法扫描 QR 码，请单击 **enter this text code（输入此文本代码）**以查看可复制的代码，然后在 {% data variables.product.product_name %} 上手动输入。 ![单击输入此代码](/assets/images/2021/10/help/2fa/totp-click-enter-code.png)
+9. The TOTP mobile application saves your account on {% data variables.product.product_location %} and generates a new authentication code every few seconds. 在 {% data variables.product.product_name %} 中的 2FA 页面上，键入代码并单击 **Enable（启用）**。 ![TOTP 启用字段](/assets/images/2021/10/help/2fa/totp-enter-code.png)
 {%- endif %}
 {% data reusables.two_fa.test_2fa_immediately %}
 
@@ -94,11 +94,11 @@ If you're a member of an {% data variables.product.prodname_emu_enterprise %}, y
 4. 在“Two-factor authentication（双重身份验证）”下选择 **Set up using SMS（使用 SMS 设置）**并点击 **Continue（继续）**。
 5. 在“Authentication verification（身份验证）”下，选择您的国家/地区代码并键入您的手机号码，包括区号。 确认信息无误后，单击 **Send authentication code（发送验证码）**。
 
-  ![2FA SMS 屏幕](/assets/images/help/2fa/2fa_wizard_sms_send.png)
+  ![2FA SMS 屏幕](/assets/images/2021/10/help/2fa/2fa_wizard_sms_send.png)
 
 6. 您将收到含安全码的短信。 在 {% data variables.product.product_name %} 上，请在“Enter the six-digit code sent to your phone（输入发送到手机的六位数代码）”下的字段中输入代码，然后单击 **Continue（继续）**。
 
-  ![2FA SMS 继续字段](/assets/images/help/2fa/2fa_wizard_sms_enter_code.png)
+  ![2FA SMS 继续字段](/assets/images/2021/10/help/2fa/2fa_wizard_sms_enter_code.png)
 {% data reusables.two_fa.save_your_recovery_codes_during_2fa_setup %}
 {% data reusables.two_fa.test_2fa_immediately %}
 
@@ -116,11 +116,11 @@ If you're a member of an {% data variables.product.prodname_emu_enterprise %}, y
 2. 确保您的计算机中已插入 WebAuthn 兼容安全密钥。
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-5. 在“Security keys（安全密钥）”旁边，单击 **添加**。 ![添加安全密钥选项](/assets/images/help/2fa/add-security-keys-option.png)
-6. 在“Security keys（安全密钥）”下，单击 **Register new security key（注册新安全密钥）**。 ![注册新安全密钥](/assets/images/help/2fa/security-key-register.png)
-7. 键入安全密钥的昵称，然后单击 **Add（添加）**。 ![为安全密钥提供昵称](/assets/images/help/2fa/security-key-nickname.png)
-8. 按照安全密钥的文档激活安全密钥。 ![提示安全密钥](/assets/images/help/2fa/security-key-prompt.png)
-9.  确认您已下载并且能够访问恢复代码。 如果尚未下载，或者要生成另一组代码，请下载代码并将其保存在安全位置。 如果无法访问自己的帐户，您可以使用恢复代码来恢复帐户访问。 更多信息请参阅“[丢失 2FA 凭据时恢复帐户](/articles/recovering-your-account-if-you-lose-your-2fa-credentials)”。 ![下载恢复代码按钮](/assets/images/help/2fa/2fa-recover-during-setup.png)
+5. 在“Security keys（安全密钥）”旁边，单击 **添加**。 ![添加安全密钥选项](/assets/images/2021/10/help/2fa/add-security-keys-option.png)
+6. 在“Security keys（安全密钥）”下，单击 **Register new security key（注册新安全密钥）**。 ![注册新安全密钥](/assets/images/2021/10/help/2fa/security-key-register.png)
+7. 键入安全密钥的昵称，然后单击 **Add（添加）**。 ![为安全密钥提供昵称](/assets/images/2021/10/help/2fa/security-key-nickname.png)
+8. 按照安全密钥的文档激活安全密钥。 ![提示安全密钥](/assets/images/2021/10/help/2fa/security-key-prompt.png)
+9.  确认您已下载并且能够访问恢复代码。 如果尚未下载，或者要生成另一组代码，请下载代码并将其保存在安全位置。 如果无法访问自己的帐户，您可以使用恢复代码来恢复帐户访问。 更多信息请参阅“[丢失 2FA 凭据时恢复帐户](/articles/recovering-your-account-if-you-lose-your-2fa-credentials)”。 ![下载恢复代码按钮](/assets/images/2021/10/help/2fa/2fa-recover-during-setup.png)
 {% data reusables.two_fa.test_2fa_immediately %}
 
 {% ifversion fpt or ghec %}

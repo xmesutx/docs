@@ -25,7 +25,7 @@ shortTitle: Develop in a codespace
 
 {% data reusables.codespaces.links-to-get-started %}
 
-![Codespace overview with annotations](/assets/images/help/codespaces/codespace-overview-annotated.png)
+![Codespace overview with annotations](/assets/images/2021/10/help/codespaces/codespace-overview-annotated.png)
 
 1. Side Bar - By default, this area shows your project files in the Explorer.
 2. Activity Bar - This displays the Views and provides you with a way to switch between them. You can reorder the Views by dragging and dropping them.
@@ -60,6 +60,6 @@ The {% data variables.product.prodname_vscode_command_palette %} allows you to a
 
 1. {% data reusables.codespaces.you-can-see-all-your-codespaces %}
 2. Click the name of the codespace you want to develop in.
-  ![Name of codespace](/assets/images/help/codespaces/click-name-codespace.png)
+  ![Name of codespace](/assets/images/2021/10/help/codespaces/click-name-codespace.png)
 
 Alternatively, you can see any active codespaces for a repository by navigating to that repository and selecting **{% octicon "code" aria-label="The code icon" %} Code**. The drop-down menu will display all active codespaces for a repository.

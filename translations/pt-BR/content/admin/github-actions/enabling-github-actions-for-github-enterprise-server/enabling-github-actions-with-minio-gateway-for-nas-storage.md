@@ -40,8 +40,8 @@ Antes de habilitar {% data variables.product.prodname_actions %}, certifique-se 
    * **Balde S3 AWS**: O nome do seu bucket S3.
    * **Chave de AWS S3 Access** e **Chave de AWS S3 Secret**: A `MINIO_ACCESS_KEY` e `MINIO_SECRET_KEY` utilizada para a sua instância do MinIO. Para obter mais informações, consulte a [Documentação do MinIO](https://docs.min.io/docs/minio-gateway-for-nas.html).
 
-   ![Botão de opção para selecionar o Amazon S3 Storage e os campos para a configuração do MinIO](/assets/images/enterprise/management-console/actions-minio-s3-storage.png)
-1. Em "Armazenamento de artefatos& registro", selecione **Forçar o estilo do caminho**. ![Caixa de seleção para forçar estilo de caminho](/assets/images/enterprise/management-console/actions-minio-force-path-style.png)
+   ![Botão de opção para selecionar o Amazon S3 Storage e os campos para a configuração do MinIO](/assets/images/2021/10/enterprise/management-console/actions-minio-s3-storage.png)
+1. Em "Armazenamento de artefatos& registro", selecione **Forçar o estilo do caminho**. ![Caixa de seleção para forçar estilo de caminho](/assets/images/2021/10/enterprise/management-console/actions-minio-force-path-style.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.actions.enterprise-postinstall-nextsteps %}

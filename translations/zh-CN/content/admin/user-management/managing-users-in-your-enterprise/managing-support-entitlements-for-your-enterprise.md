@@ -27,9 +27,9 @@ shortTitle: 管理支持权利
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. 在“Settings（设置）”下，单击 **Support（支持）**。 ![支持菜单项](/assets/images/help/enterprises/settings-support.png)
-4. 在“Add support member（添加支持成员）”下，开始键入要提供支持权利的人员的名称或用户名。 在匹配列表中单击其名称。 ![Add support entitlement search](/assets/images/help/enterprises/settings-support-entitlement-search.png)
-5. 单击 **Add support entitlement（添加支持权利）**。 ![Add support entitlement button](/assets/images/help/enterprises/settings-support-add-entitlement.png)
+3. 在“Settings（设置）”下，单击 **Support（支持）**。 ![支持菜单项](/assets/images/2021/10/help/enterprises/settings-support.png)
+4. 在“Add support member（添加支持成员）”下，开始键入要提供支持权利的人员的名称或用户名。 在匹配列表中单击其名称。 ![Add support entitlement search](/assets/images/2021/10/help/enterprises/settings-support-entitlement-search.png)
+5. 单击 **Add support entitlement（添加支持权利）**。 ![Add support entitlement button](/assets/images/2021/10/help/enterprises/settings-support-add-entitlement.png)
 
 ## 从企业成员删除支持权利
 
@@ -37,8 +37,8 @@ shortTitle: 管理支持权利
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. 在“Settings（设置）”下的边栏中，单击 **Support（支持）**。 ![支持菜单项](/assets/images/help/enterprises/settings-support.png)
-4. 在“Support members（支持成员）”下，在您想要删除支持权利的人员右侧，单击 {% octicon "trash" aria-label="The trash icon" %}。 ![删除支持权利](/assets/images/help/enterprises/settings-support-remove-entitlement.png)
+3. 在“Settings（设置）”下的边栏中，单击 **Support（支持）**。 ![支持菜单项](/assets/images/2021/10/help/enterprises/settings-support.png)
+4. 在“Support members（支持成员）”下，在您想要删除支持权利的人员右侧，单击 {% octicon "trash" aria-label="The trash icon" %}。 ![删除支持权利](/assets/images/2021/10/help/enterprises/settings-support-remove-entitlement.png)
 
 ## 延伸阅读
 

@@ -24,9 +24,9 @@ Ao criar um arquivo no {% data variables.product.product_name %}, lembre-se do s
 {% data reusables.repositories.navigate-to-repo %}
 2. No seu repositório, navegue até a pasta em que deseja criar um arquivo.
 {% data reusables.files.add-file %}
-4. No campo de nome do arquivo, digite o nome e a extensão do arquivo. Para criar subdiretórios, digite o separador de diretório `/`. ![Nome do novo arquivo](/assets/images/help/repository/new-file-name.png)
-5. Na guia **Edit new file** (Editar novo arquivo), adicione conteúdo ao arquivo. ![Conteúdo no novo arquivo](/assets/images/help/repository/new-file-content.png)
-6. Para revisar o novo conteúdo, clique em **Preview** (Visualizar). ![Botão New file preview (Visualização de novo arquivo)](/assets/images/help/repository/new-file-preview.png)
+4. No campo de nome do arquivo, digite o nome e a extensão do arquivo. Para criar subdiretórios, digite o separador de diretório `/`. ![Nome do novo arquivo](/assets/images/2021/10/help/repository/new-file-name.png)
+5. Na guia **Edit new file** (Editar novo arquivo), adicione conteúdo ao arquivo. ![Conteúdo no novo arquivo](/assets/images/2021/10/help/repository/new-file-content.png)
+6. Para revisar o novo conteúdo, clique em **Preview** (Visualizar). ![Botão New file preview (Visualização de novo arquivo)](/assets/images/2021/10/help/repository/new-file-preview.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}

@@ -22,7 +22,7 @@ shortTitle: Compare branches
 {% endnote %}
 
 You can view proposed changes in a pull request in the Files changed tab.
-![Pull Request Files changed tab](/assets/images/help/pull_requests/pull-request-tabs-changed-files.png)
+![Pull Request Files changed tab](/assets/images/2021/10/help/pull_requests/pull-request-tabs-changed-files.png)
 
 Rather than viewing the commits themselves, you can view the proposed changes as they'll appear in the files once the pull request is merged. The files appear in alphabetical order within the Files changed tab. Additions to the files appear in green and are prefaced by a `+` sign while content that has been removed appears in red and is prefaced by a `-` sign.
 
@@ -42,11 +42,11 @@ You have several options for viewing a diff:
 
 You can also choose to ignore whitespace changes to get a more accurate view of the substantial changes in a pull request.
 
-![Diff viewing options menu](/assets/images/help/pull_requests/diff-settings-menu.png)
+![Diff viewing options menu](/assets/images/2021/10/help/pull_requests/diff-settings-menu.png)
 
 To simplify reviewing changes in a large pull request, you can filter the diff to only show selected file types, show files you are a CODEOWNER of, hide files you have already viewed, or hide deleted files. For more information, see "[Filtering files in a pull request by file type](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/filtering-files-in-a-pull-request)."
 
-  ![File filter drop-down menu](/assets/images/help/pull_requests/file-filter-menu.png)
+  ![File filter drop-down menu](/assets/images/2021/10/help/pull_requests/file-filter-menu.png)
 
 ## Three-dot and two-dot Git diff comparisons
 

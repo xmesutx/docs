@@ -24,7 +24,7 @@ shortTitle: Remove yourself
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 2. In the "Code, planning, and automation" section of the sidebar, click **{% octicon "repo" aria-label="The repo icon" %} Repositories**.
 {% else %}
-2. 左のサイドバーで [**Repositories**] をクリックします。 ![[Repositories] タブ](/assets/images/help/settings/settings-sidebar-repositories.png)
+2. 左のサイドバーで [**Repositories**] をクリックします。 ![[Repositories] タブ](/assets/images/2021/10/help/settings/settings-sidebar-repositories.png)
 {% endif %}
-3. 離脱するリポジトリの横にある [**Leave**] をクリックします。 ![[Leave] ボタン](/assets/images/help/repository/repo-leave.png)
-4. 警告をよく読んでから [I understand, leave this repository.] をクリックします。 ![本当に離脱してよいか確認を促すダイアログボックス](/assets/images/help/repository/repo-leave-confirmation.png)
+3. 離脱するリポジトリの横にある [**Leave**] をクリックします。 ![[Leave] ボタン](/assets/images/2021/10/help/repository/repo-leave.png)
+4. 警告をよく読んでから [I understand, leave this repository.] をクリックします。 ![本当に離脱してよいか確認を促すダイアログボックス](/assets/images/2021/10/help/repository/repo-leave-confirmation.png)

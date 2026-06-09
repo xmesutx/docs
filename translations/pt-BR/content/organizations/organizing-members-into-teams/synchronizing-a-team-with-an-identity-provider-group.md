@@ -81,8 +81,8 @@ Ao conectar um grupo de IdP a uma equipe de {% data variables.product.product_na
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
-6. Em "Grupos de provedores de identidade", use o menu suspenso e selecione até 5 grupos de provedores de identidade. ![Drop-down menu to choose identity provider groups](/assets/images/help/teams/choose-an-idp-group.png){% elsif ghae %}
-6. No "Grupo de Provedores de Identidade", use o menu suspenso e selecione um grupo de provedores de identidade na lista. ![Drop-down menu to choose identity provider group](/assets/images/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
+6. Em "Grupos de provedores de identidade", use o menu suspenso e selecione até 5 grupos de provedores de identidade. ![Drop-down menu to choose identity provider groups](/assets/images/2021/10/help/teams/choose-an-idp-group.png){% elsif ghae %}
+6. No "Grupo de Provedores de Identidade", use o menu suspenso e selecione um grupo de provedores de identidade na lista. ![Drop-down menu to choose identity provider group](/assets/images/2021/10/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
 7. Clique em **Save changes** (Salvar alterações).
 
 ## Desconectar um grupo de IdP de uma equipe
@@ -94,6 +94,6 @@ Se desconectar um grupo de IdP de uma equipe do {% data variables.product.prodna
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
-6. Em "Grupos de provedores de identidade", à direita do grupo de IdP que você deseja desconectar, clique em {% octicon "x" aria-label="X symbol" %}. ![Unselect a connected IdP group from the GitHub team](/assets/images/help/teams/unselect-idp-group.png){% elsif ghae %}
-6. Em "Grupo de Provedores de Identidade", à direita do grupo de IdP que você deseja desconectar, clique em {% octicon "x" aria-label="X symbol" %}. ![Unselect a connected IdP group from the GitHub team](/assets/images/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
+6. Em "Grupos de provedores de identidade", à direita do grupo de IdP que você deseja desconectar, clique em {% octicon "x" aria-label="X symbol" %}. ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/help/teams/unselect-idp-group.png){% elsif ghae %}
+6. Em "Grupo de Provedores de Identidade", à direita do grupo de IdP que você deseja desconectar, clique em {% octicon "x" aria-label="X symbol" %}. ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
 7. Clique em **Save changes** (Salvar alterações).

@@ -23,7 +23,7 @@ Después de que migraste las imágenes al {% data variables.product.prodname_con
 * El icono ahora es el logo del {% data variables.product.prodname_container_registry %}, previamente, era un logo de Docker.
 * El dominio en la URL de extracción ahora es `ghcr.io`, anteriormente, fue `docker.pkg.github.com`.
 
-![Página de detalles del {% data variables.product.prodname_container_registry %}](/assets/images/help/package-registry/container-registry-details-page.png)
+![Página de detalles del {% data variables.product.prodname_container_registry %}](/assets/images/2021/10/help/package-registry/container-registry-details-page.png)
 
 ## Diferencias clave entre el {% data variables.product.prodname_container_registry %} y el registro de Docker
 

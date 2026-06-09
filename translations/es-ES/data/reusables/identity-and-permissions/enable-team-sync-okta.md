@@ -1,1 +1,1 @@
-1. Debajo de "Sincronización de equipo", da clic en **Habilitar para Okta**. ![Botón de habilitar sincronización de equipo para Okta en la página de configuraciones de seguridad](/assets/images/help/teams/enable-team-synchronization-okta.png)
+1. Debajo de "Sincronización de equipo", da clic en **Habilitar para Okta**. ![Botón de habilitar sincronización de equipo para Okta en la página de configuraciones de seguridad](/assets/images/2021/10/help/teams/enable-team-synchronization-okta.png)

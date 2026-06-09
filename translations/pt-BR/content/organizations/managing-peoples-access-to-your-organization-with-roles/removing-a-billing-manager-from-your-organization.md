@@ -21,4 +21,4 @@ shortTitle: Remover gerente de cobrança
 {% endwarning %}
 
 {% data reusables.organizations.billing-settings %}
-1. Na lista "Gerentes de cobrança" em "Gerenciamento de corbrança", ao lado do nome da pessoa que deseja remover, clique em **Remover**. ![Remover gerente de cobrança](/assets/images/help/billing/settings_billing_managers_remove_manager.png)
+1. Na lista "Gerentes de cobrança" em "Gerenciamento de corbrança", ao lado do nome da pessoa que deseja remover, clique em **Remover**. ![Remover gerente de cobrança](/assets/images/2021/10/help/billing/settings_billing_managers_remove_manager.png)

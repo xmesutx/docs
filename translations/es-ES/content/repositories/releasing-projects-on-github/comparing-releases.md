@@ -18,13 +18,13 @@ redirect_from:
 {% data reusables.repositories.releases %}
 3. Da clic en **Comparar** a un costado del lanzamiento que deseas utilizar como tu base.
   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-  ![Menú de comparación de etiquetas de lanzamiento](/assets/images/help/releases/refreshed-compare-tags.png)
+  ![Menú de comparación de etiquetas de lanzamiento](/assets/images/2021/10/help/releases/refreshed-compare-tags.png)
   {% else %}
-  ![Menú de comparación de etiquetas de lanzamiento](/assets/images/help/releases/compare-tags-menu.png)
+  ![Menú de comparación de etiquetas de lanzamiento](/assets/images/2021/10/help/releases/compare-tags-menu.png)
   {% endif %}
 4. Utiliza el menú desplegable "Comparar" y selecciona las etiquetas que quieras comparar.
   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-  ![Menú de comparación de etiquetas de lanzamiento](/assets/images/help/releases/refreshed-compare-tags-menu-options.png)
+  ![Menú de comparación de etiquetas de lanzamiento](/assets/images/2021/10/help/releases/refreshed-compare-tags-menu-options.png)
   {% else %}
-  ![Opciones del menú de comparación de etiquetas de lanzamiento](/assets/images/help/releases/compare-tags-menu-options.png)
+  ![Opciones del menú de comparación de etiquetas de lanzamiento](/assets/images/2021/10/help/releases/compare-tags-menu-options.png)
   {% endif %}

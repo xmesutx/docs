@@ -23,11 +23,11 @@ Este guia irá orientar você com relação à criação de um site em `username
 ## Criando seu site
 
 {% data reusables.repositories.create_new %}
-1. Digite `username.github.io` como nome do repositório. Substitua `nome de usuário` pelo seu nome de usuário de {% data variables.product.prodname_dotcom %}. Por exemplo, se seu nome de usuário for `octocat`, o nome do repositório deverá ser `octocat.github.io`. ![Campo nome do repositório](/assets/images/help/pages/create-repository-name-pages.png)
+1. Digite `username.github.io` como nome do repositório. Substitua `nome de usuário` pelo seu nome de usuário de {% data variables.product.prodname_dotcom %}. Por exemplo, se seu nome de usuário for `octocat`, o nome do repositório deverá ser `octocat.github.io`. ![Campo nome do repositório](/assets/images/2021/10/help/pages/create-repository-name-pages.png)
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-1. Clique **Escolher um tema**. ![Botão Choose a theme (Escolher um tema)](/assets/images/help/pages/choose-theme.png)
-2. O seletor de temas será aberto. Pesquise os temas disponíveis e, em seguida, clique em **Selecionar tema** para selecionar um tema. É fácil mudar seu tema mais tarde. Portanto, se você não tiver certeza, basta escolher um por enquanto. ![Opções de tema e botão Select theme (Selecionar tema)](/assets/images/help/pages/select-theme.png)
+1. Clique **Escolher um tema**. ![Botão Choose a theme (Escolher um tema)](/assets/images/2021/10/help/pages/choose-theme.png)
+2. O seletor de temas será aberto. Pesquise os temas disponíveis e, em seguida, clique em **Selecionar tema** para selecionar um tema. É fácil mudar seu tema mais tarde. Portanto, se você não tiver certeza, basta escolher um por enquanto. ![Opções de tema e botão Select theme (Selecionar tema)](/assets/images/2021/10/help/pages/select-theme.png)
 3. Depois de selecionar um tema, o arquivo `README.md` do repositório será aberto no editor do arquivo. O arquivo `README.md` é onde você escreverá o conteúdo do seu site. Você pode editar o arquivo ou manter o conteúdo padrão por enquanto.
 4. Ao terminar de editar o arquivo, clique em **Aplicar as alterações**.
 5. Acesse `username.github.io` para ver seu novo site. **Observação:** podem ser necessários até 20 minutos para que as alterações no site sejam publicadas após o push delas no {% data variables.product.product_name %}.

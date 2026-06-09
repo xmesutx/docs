@@ -20,6 +20,6 @@ shortTitle: プロジェクトボードの無効化
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Features] の下で、[**Projects**] チェックボックスの選択を解除します。 ![[Projects] チェックボックスの選択を解除する](/assets/images/help/projects/disable-projects-checkbox.png)
+3. [Features] の下で、[**Projects**] チェックボックスの選択を解除します。 ![[Projects] チェックボックスの選択を解除する](/assets/images/2021/10/help/projects/disable-projects-checkbox.png)
 
 プロジェクトボードが無効化されると、既存のプロジェクトボードはそれまでの URL でアクセスできなくなります。 {% data reusables.organizations.disable_project_board_results %}

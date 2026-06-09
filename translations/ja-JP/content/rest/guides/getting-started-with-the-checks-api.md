@@ -21,7 +21,7 @@ GitHub Appは、単に合格/不合格の二択ではない、情報量の多い
 
 誰かがリポジトリにコードをプッシュすると、その直近のコミットについてGitHubはチェックスイートを作成します。 チェックスイートとは、特定のコミットに対して一つのGitHub Appにより作成された[チェック実行](/rest/reference/checks#check-runs)の集合のことです。 チェックスイートは、スイートに含まれるチェックを実行し、ステータスとチェック結果をまとめます。
 
-![チェックスイートのワークフロー](/assets/images/check_suites.png)
+![チェックスイートのワークフロー](/assets/images/2021/10/check_suites.png)
 
 チェックスイートは、チェックスイートの`conclusion`において、実行したチェックの中で最も優先度が高い`conclusion`を報告します。 たとえば、3つのチェックを実行した際に`timed_out`、`success`、`neutral`の結果が出た場合、チェックスイートの結果は`timed_out`となります。
 
@@ -39,7 +39,7 @@ GitHub Appは、単に合格/不合格の二択ではない、情報量の多い
 
 チェックの実行は、個別のテストであり、チェックスイートの一機能です。 各実行にステータスと結果が含まれます。
 
-![チェック実行のワークフロー](/assets/images/check_runs.png)
+![チェック実行のワークフロー](/assets/images/2021/10/check_runs.png)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 チェック実行が15日以上にわたり不完全な状態である場合は、チェック実行の`conclusion`が`stale`になり、に状態が
@@ -48,7 +48,7 @@ GitHub Appは、単に合格/不合格の二択ではない、情報量の多い
 
 [`check_suite`](/webhooks/event-payloads/#check_suite) webhookを受け取ったら、チェックが完了していなくてもすぐにチェック実行を作成できます。 チェック実行の`status`は、`queued`、`in_progress`、または`completed`の値で更新でき、より詳細を明らかにして`output`を更新できます。 チェック実行にはタイムスタンプ、詳細情報が記載された外部サイトへのリンク、コードの特定の行に対するアノテーション、および実行した分析についての情報を含めることができます。
 
-![チェック実行のアノテーション](/assets/images/check_run_annotations.png)
+![チェック実行のアノテーション](/assets/images/2021/10/check_run_annotations.png)
 
 チェック実行は、GitHub UIで手動で再実行することも可能です。 詳細は「[ステータスチェックについて](/articles/about-status-checks#checks)」を参照してください。 この場合、チェック実行を作成したGitHub Appは、新たなチェック実行を要求する[`check_run`](/webhooks/event-payloads/#check_run) webhookを受け取ります。 チェックスイートを作成せずにチェック実行を作成した場合、GitHubは自動的にチェックスイートを作成します。
 
@@ -72,7 +72,7 @@ Check Runs APIを使用するには、GitHub Appは`checks:write`権限が必要
     }]
   ```
 
-  ![チェック実行のリクエストされたアクションのボタン](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+  ![チェック実行のリクエストされたアクションのボタン](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 ユーザがボタンをクリックすると、{% data variables.product.prodname_dotcom %}は[`check_run.requested_action` webhook](/webhooks/event-payloads/#check_run)をアプリケーションに送信します。 アプリケーションが`check_run.requested_action` webhookイベントを受信すると、webhookペイロードから`requested_action.identifier`キーを探し、どのボタンがクリックされたかを判断してリクエストされたタスクを実行することができます。
 

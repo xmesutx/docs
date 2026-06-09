@@ -44,14 +44,14 @@ topics:
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-4902 or ghec %} 要查看所分析分支的完整警报集，请单击“**查看所有分支警报**”。 这将打开完整的警报视图，您可以在其中按类型、严重性、标记等筛选分支上的所有警报。 更多信息请参阅“[管理仓库的代码扫描警报](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/managing-code-scanning-alerts-for-your-repository#filtering-and-searching-for-code-scanning-alerts)”。
 
-![拉取请求的 {% data variables.product.prodname_code_scanning_capc %} 结果检查](/assets/images/help/repository/code-scanning-results-check.png)
+![拉取请求的 {% data variables.product.prodname_code_scanning_capc %} 结果检查](/assets/images/2021/10/help/repository/code-scanning-results-check.png)
 {% endif %}
 
 ### {% data variables.product.prodname_code_scanning_capc %} 结果检查失败
 
 如果 {% data variables.product.prodname_code_scanning %} 结果检查发现严重性为`错误`{% ifversion fpt or ghes > 3.1  or ghae or ghec %}、`严重`或`高`的问题，{% endif %} 检查将失败并在检查结果中报告错误。 如果 {% data variables.product.prodname_code_scanning %} 发现的所有结果的严重性都较低，则警报将被视为警告或通知，检查成功。
 
-![拉取请求上失败的 {% data variables.product.prodname_code_scanning %} 检查](/assets/images/help/repository/code-scanning-check-failure.png)
+![拉取请求上失败的 {% data variables.product.prodname_code_scanning %} 检查](/assets/images/2021/10/help/repository/code-scanning-check-failure.png)
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}您可以通过指定会导致拉取请求检查失败的严重程度{% ifversion fpt or ghes > 3.1  or ghae or ghec %}和安全严重性{% endif %}来覆盖仓库设置中的默认行为。 更多信息请参阅“[定义导致拉取请求检查失败的严重程度](/code-security/secure-coding/configuring-code-scanning#defining-the-severities-causing-pull-request-check-failure)”。
 {% endif %}
@@ -68,7 +68,7 @@ topics:
 
 您可以通过显示 **Files changed（已更改的文件）**选项卡来查看拉取请求中引入的任何 {% data variables.product.prodname_code_scanning %} 警报。 每个警报都显示为触发警报的代码行上的注释。 警报的严重性显示在注释中。
 
-![拉取请求差异中的警报注释](/assets/images/help/repository/code-scanning-pr-annotation.png)
+![拉取请求差异中的警报注释](/assets/images/2021/10/help/repository/code-scanning-pr-annotation.png)
 
 如果您拥有仓库的写入权限，则某些注释将包含警报额外上下文的链接。 在上例中，您可以在 {% data variables.product.prodname_codeql %} 分析中单击 **user-provided value（用户提供的值）**，以查看不受信任的数据进入数据流的位置（这被称为源）。 在此例中，您还可以通过单击 **Show paths（显示路径）**来查看从源到使用数据的代码（池）的完整路径。 这样就很容易检查数据是否不受信任，或者分析是否无法识别源与池之间的数据净化步骤。 有关使用 {% data variables.product.prodname_codeql %} 分析数据流的信息，请参阅“[关于数据流分析](https://codeql.github.com/docs/writing-codeql-queries/about-data-flow-analysis/)”。
 
@@ -76,7 +76,7 @@ topics:
 
 在警报的详细视图中，有些 {% data variables.product.prodname_code_scanning %} 工具，例如 {% data variables.product.prodname_codeql %} 分析，还包括问题描述和 **Show more（显示更多）**链接以指导您如何修复代码。
 
-![显示更多信息的警报说明和链接](/assets/images/help/repository/code-scanning-pr-alert.png)
+![显示更多信息的警报说明和链接](/assets/images/2021/10/help/repository/code-scanning-pr-alert.png)
 
 ## 修复拉取请求上的警报
 
@@ -86,7 +86,7 @@ topics:
 
 关闭警报的另一种办法是忽略它。 您可以忽略您认为不需要修复的警报。 {% data reusables.code-scanning.close-alert-examples %} 如果您对仓库有写入权限，则 **Dismiss（忽略）**按钮在代码注释和警报摘要中可用。 单击 **Dismiss（忽略）**时，您将被提示选择关闭警报的原因。
 
-![选择忽略警报的原因](/assets/images/help/repository/code-scanning-alert-close-drop-down.png)
+![选择忽略警报的原因](/assets/images/2021/10/help/repository/code-scanning-alert-close-drop-down.png)
 
 {% data reusables.code-scanning.choose-alert-dismissal-reason %}
 

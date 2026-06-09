@@ -47,5 +47,5 @@ Before you can enable {% data variables.product.prodname_unified_search %}, you 
 {% data reusables.enterprise-accounts.github-connect-tab %}{% else %}
 1. Sign into {% data variables.product.product_location %} and {% data variables.product.prodname_dotcom_the_website %}.
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
-1. 在“Users can search {% data variables.product.prodname_dotcom_the_website %}”下，使用下拉菜单，然后单击 **Enabled**。 ![在搜索 GitHub.com 下拉菜单中启用搜索选项](/assets/images/enterprise/site-admin-settings/github-dotcom-enable-search.png)
-1. （可选）在“用户可以在 {% data variables.product.prodname_dotcom_the_website %} 上搜索私有仓库”下，使用下拉菜单并单击 **Enabled（启用）**。 ![在搜索 GitHub.com 下拉菜单中启用私有仓库搜索选项](/assets/images/enterprise/site-admin-settings/enable-private-search.png)
+1. 在“Users can search {% data variables.product.prodname_dotcom_the_website %}”下，使用下拉菜单，然后单击 **Enabled**。 ![在搜索 GitHub.com 下拉菜单中启用搜索选项](/assets/images/2021/10/enterprise/site-admin-settings/github-dotcom-enable-search.png)
+1. （可选）在“用户可以在 {% data variables.product.prodname_dotcom_the_website %} 上搜索私有仓库”下，使用下拉菜单并单击 **Enabled（启用）**。 ![在搜索 GitHub.com 下拉菜单中启用私有仓库搜索选项](/assets/images/2021/10/enterprise/site-admin-settings/enable-private-search.png)

@@ -26,7 +26,7 @@ SNMP 是一种用于通过网络监视设备的公共标准。 强烈建议启�
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.access-monitoring %}
 {% data reusables.enterprise_management_console.enable-snmp %}
-4. 在 **Community string** 字段中，输入新的社区字符串。 如果留空，此字段将默认为 `public`。 ![添加社区字符串的字段](/assets/images/enterprise/management-console/community-string.png)
+4. 在 **Community string** 字段中，输入新的社区字符串。 如果留空，此字段将默认为 `public`。 ![添加社区字符串的字段](/assets/images/2021/10/enterprise/management-console/community-string.png)
 {% data reusables.enterprise_management_console.save-settings %}
 5. 要测试 SNMP 配置，请在网络中支持 SNMP 的单独工作站上运行以下命令：
   ```shell
@@ -50,18 +50,18 @@ SNMP 是一种用于通过网络监视设备的公共标准。 强烈建议启�
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.access-monitoring %}
 {% data reusables.enterprise_management_console.enable-snmp %}
-4. 选择 **SNMP v3**。 ![启用 SNMP v3 的按钮](/assets/images/enterprise/management-console/enable-snmpv3.png)
-5. 在“Username（用户名）”中，输入 SNMP v3 用户的唯一用户名。 ![SNMP v3 用户名输入字段](/assets/images/enterprise/management-console/snmpv3-username.png)
-6. 在 **Security Level（安全等级）**下拉菜单中，单击 SNMP v3 用户的安全等级。 ![SNMP v3 用户安全等级下拉菜单](/assets/images/enterprise/management-console/snmpv3-securitylevel.png)
-7. 对于拥有 `authnopriv` 安全等级的 SNMP v3 用户： ![Authnopriv 安全等级设置](/assets/images/enterprise/management-console/snmpv3-authnopriv.png)
+4. 选择 **SNMP v3**。 ![启用 SNMP v3 的按钮](/assets/images/2021/10/enterprise/management-console/enable-snmpv3.png)
+5. 在“Username（用户名）”中，输入 SNMP v3 用户的唯一用户名。 ![SNMP v3 用户名输入字段](/assets/images/2021/10/enterprise/management-console/snmpv3-username.png)
+6. 在 **Security Level（安全等级）**下拉菜单中，单击 SNMP v3 用户的安全等级。 ![SNMP v3 用户安全等级下拉菜单](/assets/images/2021/10/enterprise/management-console/snmpv3-securitylevel.png)
+7. 对于拥有 `authnopriv` 安全等级的 SNMP v3 用户： ![Authnopriv 安全等级设置](/assets/images/2021/10/enterprise/management-console/snmpv3-authnopriv.png)
     - {% data reusables.enterprise_management_console.authentication-password %}
     - {% data reusables.enterprise_management_console.authentication-protocol %}
-8. 对于拥有 `authpriv` 安全等级的 SNMP v3 用户： ![Authpriv 安全等级设置](/assets/images/enterprise/management-console/snmpv3-authpriv.png)
+8. 对于拥有 `authpriv` 安全等级的 SNMP v3 用户： ![Authpriv 安全等级设置](/assets/images/2021/10/enterprise/management-console/snmpv3-authpriv.png)
     - {% data reusables.enterprise_management_console.authentication-password %}
     - {% data reusables.enterprise_management_console.authentication-protocol %}
     - （可选）在“Privacy password（隐私密码）”中输入隐私保护密码。
     - 在“Privacy password（隐私密码）”右侧，在 **Protocol（协议）** 下拉菜单中，单击您要使用的隐私协议方法。
-9. 单击 **Add user（添加用户）**。 ![用于添加 SNMP v3 用户的按钮](/assets/images/enterprise/management-console/snmpv3-adduser.png)
+9. 单击 **Add user（添加用户）**。 ![用于添加 SNMP v3 用户的按钮](/assets/images/2021/10/enterprise/management-console/snmpv3-adduser.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 #### 查询 SNMP 数据

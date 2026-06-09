@@ -25,7 +25,7 @@ function test() {
 ```
 </pre>
 
-![渲染的围栏代码块](/assets/images/help/writing/fenced-code-block-rendered.png)
+![渲染的围栏代码块](/assets/images/2021/10/help/writing/fenced-code-block-rendered.png)
 
 {% tip %}
 
@@ -44,7 +44,7 @@ Look! You can see my backticks.
 ````
 </pre>
 
-![使用倒引号块呈现的围栏代码](/assets/images/help/writing/fenced-code-show-backticks-rendered.png)
+![使用倒引号块呈现的围栏代码](/assets/images/2021/10/help/writing/fenced-code-show-backticks-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -63,7 +63,7 @@ Look! You can see my backticks.
     puts markdown.to_html
     ```
 
-![渲染的启用 Ruby 语法突显的代码块](/assets/images/help/writing/code-block-syntax-highlighting-rendered.png)
+![渲染的启用 Ruby 语法突显的代码块](/assets/images/2021/10/help/writing/code-block-syntax-highlighting-rendered.png)
 
 我们使用 [Linguist](https://github.com/github/linguist) 来执行语言检测并选择[第三方语法](https://github.com/github/linguist/blob/master/vendor/README.md)进行语法突显。 您可以在[语言 YAML 文件](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)中找出哪些关键词有效。
 

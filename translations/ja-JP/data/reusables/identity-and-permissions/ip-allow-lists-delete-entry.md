@@ -1,1 +1,1 @@
-1. "IP allow list（IP許可リスト）"の下で、削除したいエントリの右で**Delete（削除）**をクリックしてください。 ![[Delete allowed IP address] ボタン](/assets/images/help/security/ip-address-delete-button.png)
+1. "IP allow list（IP許可リスト）"の下で、削除したいエントリの右で**Delete（削除）**をクリックしてください。 ![[Delete allowed IP address] ボタン](/assets/images/2021/10/help/security/ip-address-delete-button.png)

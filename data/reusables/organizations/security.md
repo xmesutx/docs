@@ -3,5 +3,5 @@
 {% else  %}
 1. In the left sidebar, click **Organization security**.
 
- ![Organization security settings](/assets/images/help/organizations/org-security-settings-tab.png)
+ ![Organization security settings](/assets/images/2021/10/help/organizations/org-security-settings-tab.png)
 {% endif %}

@@ -120,4 +120,4 @@ admin@ghe-data-node-0:~$ <em>status-ghe-cluster | grep erro</em>
 
 Depois de adicionar a definição ao Nagios, a verificação de serviço será executada conforme a sua configuração. Você deve conseguir ver o serviço recém-configurado na interface da web do Nagios.
 
-![Exemplo Nagios](/assets/images/enterprise/cluster/nagios-example.png)
+![Exemplo Nagios](/assets/images/2021/10/enterprise/cluster/nagios-example.png)

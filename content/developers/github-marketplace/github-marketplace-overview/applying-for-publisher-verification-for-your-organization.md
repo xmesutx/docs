@@ -22,15 +22,15 @@ To offer paid plans for your app, the app must be owned by an organization and y
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 1. In the left sidebar, click **Developer settings**.
-  ![Developer settings option in the organization settings sidebar](/assets/images/marketplace/developer-settings-in-org-settings.png)
+  ![Developer settings option in the organization settings sidebar](/assets/images/2021/10/marketplace/developer-settings-in-org-settings.png)
 1. Under "Developer settings", click **Publisher Verification**.
-  ![Publisher verification option in the organization settings sidebar](/assets/images/marketplace/publisher-verification-settings-option.png)
+  ![Publisher verification option in the organization settings sidebar](/assets/images/2021/10/marketplace/publisher-verification-settings-option.png)
 1. Under "Publisher Verification", complete the information in the checklist:
    - Ensure that your basic profile information is present and accurate. Also, make sure that you've included the best email address for support and updates from {% data variables.product.company_short %}.
    - Ensure that Two-factor authentication is enabled for your organization. For more information, see "[Requiring two-factor authentication in your organization](/organizations/keeping-your-organization-secure/requiring-two-factor-authentication-in-your-organization)."
    - Submit a verified domain and ensure that a "Verified" badge displays on your organization's profile page. For related information, see "[Verifying or approving a domain for your organization](/organizations/managing-organization-settings/verifying-or-approving-a-domain-for-your-organization)."
 
-  ![Publisher Verification checklist](/assets/images/marketplace/publisher-verification-checklist.png)
+  ![Publisher Verification checklist](/assets/images/2021/10/marketplace/publisher-verification-checklist.png)
 
 2. Click **Request Verification**. {% data variables.product.company_short %} will review your details and let you know once your publisher verification is complete.
 

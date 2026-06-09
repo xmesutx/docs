@@ -23,11 +23,11 @@ shortTitle: Basic formatting syntax
 ###### The smallest heading (最も小さいヘッディング)
 ```
 
-![表示された H1、H2、H6 のヘッディング](/assets/images/help/writing/headings-rendered.png)
+![表示された H1、H2、H6 のヘッディング](/assets/images/2021/10/help/writing/headings-rendered.png)
 
 When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking {% octicon "list-unordered" aria-label="The unordered list icon" %} within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
 
-![Screenshot highlighting the table of contents icon](/assets/images/help/repository/headings_toc.png)
+![Screenshot highlighting the table of contents icon](/assets/images/2022/02/help/repository/headings_toc.png)
 
 
 ## スタイル付きテキスト
@@ -52,7 +52,7 @@ Text that is not a quote
 > Text that is a quote
 ```
 
-![表示された引用テキスト](/assets/images/help/writing/quoted-text-rendered.png)
+![表示された引用テキスト](/assets/images/2021/10/help/writing/quoted-text-rendered.png)
 
 {% tip %}
 
@@ -68,7 +68,7 @@ Text that is not a quote
 コミットされていない新しいもしくは修正されたすべてのファイルをリストするには `git status` を使ってください。
 ```
 
-![表示されたインラインのコードブロック](/assets/images/help/writing/inline-code-rendered.png)
+![表示されたインラインのコードブロック](/assets/images/2021/10/help/writing/inline-code-rendered.png)
 
 独立したブロック内にコードあるいはテキストをフォーマットするには、3 重のバッククォートを使用します。
 
@@ -81,7 +81,7 @@ git commit
 ```
 </pre>
 
-![表示されたコードブロック](/assets/images/help/writing/code-block-rendered.png)
+![表示されたコードブロック](/assets/images/2021/10/help/writing/code-block-rendered.png)
 
 詳しい情報については[コードブロックの作成とハイライト](/articles/creating-and-highlighting-code-blocks)を参照してください。
 
@@ -93,7 +93,7 @@ git commit
 
 `このサイトは [GitHub Pages](https://pages.github.com/) を使って構築されています。`
 
-![表示されたリンク](/assets/images/help/writing/link-rendered.png)
+![表示されたリンク](/assets/images/2021/10/help/writing/link-rendered.png)
 
 {% tip %}
 
@@ -115,7 +115,7 @@ You can display an image by adding <kbd>!</kbd> and wrapping the alt text in `[ 
 
 `![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)`
 
-![Rendered Image](/assets/images/help/writing/image-rendered.png)
+![Rendered Image](/assets/images/2021/10/help/writing/image-rendered.png)
 
 {% data variables.product.product_name %} supports embedding images into your issues, pull requests{% ifversion fpt or ghec %}, discussions{% endif %}, comments  and `.md` files. You can display an image from your repository, add a link to an online image, or upload an image. For more information, see "[Uploading assets](#uploading-assets)."
 
@@ -129,11 +129,11 @@ Here are some examples for using relative links to display an image.
 
 | コンテキスト                                                      | Relative Link                                                          |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
-| In a `.md` file on the same branch                          | `/assets/images/electrocat.png`                                        |
-| In a `.md` file on another branch                           | `/../main/assets/images/electrocat.png`                                |
-| In issues, pull requests and comments of the repository     | `../blob/main/assets/images/electrocat.png`                            |
-| In a `.md` file in another repository                       | `/../../../../github/docs/blob/main/assets/images/electrocat.png`      |
-| In issues, pull requests and comments of another repository | `../../../github/docs/blob/main/assets/images/electrocat.png?raw=true` |
+| In a `.md` file on the same branch                          | `/assets/images/2021/10/electrocat.png`                                        |
+| In a `.md` file on another branch                           | `/../main/assets/images/2021/10/electrocat.png`                                |
+| In issues, pull requests and comments of the repository     | `../blob/main/assets/images/2021/10/electrocat.png`                            |
+| In a `.md` file in another repository                       | `/../../../../github/docs/blob/main/assets/images/2021/10/electrocat.png`      |
+| In issues, pull requests and comments of another repository | `../../../github/docs/blob/main/assets/images/2021/10/electrocat.png?raw=true` |
 
 {% note %}
 
@@ -166,7 +166,7 @@ We distinguish between light and dark color modes, so there are two options avai
 - Thomas Jefferson
 ```
 
-![表示された順序なしリスト](/assets/images/help/writing/unordered-list-rendered.png)
+![表示された順序なしリスト](/assets/images/2021/10/help/writing/unordered-list-rendered.png)
 
 リストを順序付けするには、各行の前に数字を置きます。
 
@@ -176,7 +176,7 @@ We distinguish between light and dark color modes, so there are two options avai
 3. John Quincy Adams
 ```
 
-![表示された順序付きリスト](/assets/images/help/writing/ordered-list-rendered.png)
+![表示された順序付きリスト](/assets/images/2021/10/help/writing/ordered-list-rendered.png)
 
 ### 入れ子になったリスト
 
@@ -190,9 +190,9 @@ We distinguish between light and dark color modes, so there are two options avai
      - 2 番目の入れ子になったリストアイテム
 ```
 
-![並びがハイライトされた入れ子になったリスト](/assets/images/help/writing/nested-list-alignment.png)
+![並びがハイライトされた入れ子になったリスト](/assets/images/2021/10/help/writing/nested-list-alignment.png)
 
-![2 レベルの入れ子になったアイテムを持つリスト](/assets/images/help/writing/nested-list-example-1.png)
+![2 レベルの入れ子になったアイテムを持つリスト](/assets/images/2021/10/help/writing/nested-list-example-1.png)
 
 モノスペースフォントを使っていない {% data variables.product.product_name %}のコメントエディタで入れ子になったリストを作成するには、入れ子になったリストのすぐ上にあるリストアイテムを見て、そのアイテムの内容の前にある文字数を数えます。 そして、その数だけ空白を入れ子になったリストアイテムの前に入力します。
 
@@ -203,7 +203,7 @@ We distinguish between light and dark color modes, so there are two options avai
      - 最初の入れ子になったリストアイテム
 ```
 
-![入れ子になったリストアイテムを持つリスト](/assets/images/help/writing/nested-list-example-3.png)
+![入れ子になったリストアイテムを持つリスト](/assets/images/2021/10/help/writing/nested-list-example-3.png)
 
 同じ方法で、複数レベルの入れ子になったリストを作成できます。 For example, because the first nested list item has seven characters (`␣␣␣␣␣-␣`) before the nested list content `First nested list item`, you would need to indent the second nested list item by seven spaces.
 
@@ -213,7 +213,7 @@ We distinguish between light and dark color modes, so there are two options avai
        - 2 番目の入れ子になったリストアイテム
 ```
 
-![2 レベルの入れ子になったアイテムを持つリスト](/assets/images/help/writing/nested-list-example-2.png)
+![2 レベルの入れ子になったアイテムを持つリスト](/assets/images/2021/10/help/writing/nested-list-example-2.png)
 
 [GitHub Flavored Markdown の仕様](https://github.github.com/gfm/#example-265)には、もっと多くのサンプルがあります。
 
@@ -233,7 +233,7 @@ If a task list item description begins with a parenthesis, you'll need to escape
 
 `@github/support これらのアップデートについてどう思いますか？`
 
-![表示された @メンション](/assets/images/help/writing/mention-rendered.png)
+![表示された @メンション](/assets/images/2021/10/help/writing/mention-rendered.png)
 
 親チームにメンションすると、その子チームのメンバーも通知を受けることになり、複数のグループの人々とのコミュニケーションがシンプルになります。 詳しい情報については[Team について](/articles/about-teams)を参照してください。
 
@@ -256,7 +256,7 @@ If a task list item description begins with a parenthesis, you'll need to escape
 
 Some {% data variables.product.prodname_github_apps %} provide information in {% data variables.product.product_name %} for URLs that link to their registered domains. {% data variables.product.product_name %} は、アプリケーションが提供した情報を Issue あるいはプルリクエストのボディもしくはコメント中の URL の下に表示します。
 
-![コンテンツの添付](/assets/images/github-apps/content_reference_attachment.png)
+![コンテンツの添付](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 コンテンツの添付を見るには、リポジトリにインストールされた Content Attachments API を使う {% data variables.product.prodname_github_app %} が必要です。{% ifversion fpt or ghec %}詳細は「[個人アカウントでアプリケーションをインストールする](/articles/installing-an-app-in-your-personal-account)」および「[Organization でアプリケーションをインストールする](/articles/installing-an-app-in-your-organization)」を参照してください。{% endif %}
 
@@ -274,7 +274,7 @@ For more information about building a {% data variables.product.prodname_github_
 
 `@octocat :+1: このPRは素晴らしいです - マージできますね！ :shipit:`
 
-![表示された絵文字](/assets/images/help/writing/emoji-rendered.png)
+![表示された絵文字](/assets/images/2021/10/help/writing/emoji-rendered.png)
 
 <kbd>:</kbd> を入力すると、絵文字のサジェストリストが表示されます。 このリストは、入力を進めるにつれて絞り込まれていくので、探している絵文字が見つかったら、**Tab** または **Enter** を押すと、ハイライトされているものが入力されます。
 
@@ -306,7 +306,7 @@ You can also use words, to fit your writing style more closely[^note].
 
 The footnote will render like this:
 
-![Rendered footnote](/assets/images/site/rendered-footnote.png)
+![Rendered footnote](/assets/images/2021/10/site/rendered-footnote.png)
 
 {% tip %}
 
@@ -329,7 +329,7 @@ You can tell {% data variables.product.product_name %} to ignore (or escape) Mar
 
 `\*新しいプロジェクト\* を \*古いプロジェクト\* にリネームしましょう`
 
-![表示されたエスケープキャラクタ](/assets/images/help/writing/escaped-character-rendered.png)
+![表示されたエスケープキャラクタ](/assets/images/2021/10/help/writing/escaped-character-rendered.png)
 
 詳しい情報については Daring Fireball の [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax#backslash) を参照してください。
 

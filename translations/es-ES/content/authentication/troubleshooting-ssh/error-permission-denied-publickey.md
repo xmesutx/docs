@@ -156,7 +156,7 @@ Debes indicarle tu llave privada a {% data variables.product.product_name %} par
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-6. Compara la lista de claves SSH con el resultado que arroja el comando `ssh-add`. ![Lista de claves SSH en {% data variables.product.product_name %}](/assets/images/help/settings/ssh_key_listing.png)
+6. Compara la lista de claves SSH con el resultado que arroja el comando `ssh-add`. ![Lista de claves SSH en {% data variables.product.product_name %}](/assets/images/2021/10/help/settings/ssh_key_listing.png)
 
 {% endmac %}
 
@@ -176,7 +176,7 @@ Debes indicarle tu llave privada a {% data variables.product.product_name %} par
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-6. Compara la lista de claves SSH con el resultado que arroja el comando `ssh-add`. ![Lista de claves SSH en {% data variables.product.product_name %}](/assets/images/help/settings/ssh_key_listing.png)
+6. Compara la lista de claves SSH con el resultado que arroja el comando `ssh-add`. ![Lista de claves SSH en {% data variables.product.product_name %}](/assets/images/2021/10/help/settings/ssh_key_listing.png)
 
 {% endwindows %}
 
@@ -202,7 +202,7 @@ Debes indicarle tu llave privada a {% data variables.product.product_name %} par
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-6. Compara la lista de claves SSH con el resultado que arroja el comando `ssh-add`. ![Lista de claves SSH en {% data variables.product.product_name %}](/assets/images/help/settings/ssh_key_listing.png)
+6. Compara la lista de claves SSH con el resultado que arroja el comando `ssh-add`. ![Lista de claves SSH en {% data variables.product.product_name %}](/assets/images/2021/10/help/settings/ssh_key_listing.png)
 
 {% endlinux %}
 

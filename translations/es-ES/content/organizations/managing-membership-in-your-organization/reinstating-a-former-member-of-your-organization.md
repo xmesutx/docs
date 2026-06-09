@@ -60,14 +60,14 @@ Si tu organización tiene una suscripción de pago por usuario, debes de contar 
 {% data reusables.organizations.invite_member_from_people_tab %}
 {% data reusables.organizations.reinstate-user-type-username %}
 {% ifversion fpt or ghec %}
-6. Decide si quieres restaurar los privilegios antiguos de esa persona en la organización o eliminar sus privilegios antiguos y establecer nuevos permisos de acceso, luego haz clic en **Invite and reinstate** (Invitar y reinstalar) o **Invite and start fresh** (Invitar e iniciar de nuevo). ![Decide si quieres restaurar la información o no](/assets/images/help/organizations/choose_whether_to_restore_org_member_info.png)
+6. Decide si quieres restaurar los privilegios antiguos de esa persona en la organización o eliminar sus privilegios antiguos y establecer nuevos permisos de acceso, luego haz clic en **Invite and reinstate** (Invitar y reinstalar) o **Invite and start fresh** (Invitar e iniciar de nuevo). ![Decide si quieres restaurar la información o no](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info.png)
 {% else %}
-6. Decide si quieres restaurar los privilegios antiguos de esa persona en la organización o eliminar sus privilegios antiguos y establecer nuevos permisos de acceso, luego haz clic en **Add and reinstate** (Agregar y reinstalar) o **Add and start fresh** (Agregar e iniciar de nuevo). ![Decide si quieres restaurar los privilegios](/assets/images/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
+6. Decide si quieres restaurar los privilegios antiguos de esa persona en la organización o eliminar sus privilegios antiguos y establecer nuevos permisos de acceso, luego haz clic en **Add and reinstate** (Agregar y reinstalar) o **Add and start fresh** (Agregar e iniciar de nuevo). ![Decide si quieres restaurar los privilegios](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
 {% endif %}
 {% ifversion fpt or ghec %}
-7. Si eliminaste los privilegios anteriores de un miembro anterior de la organización, elige un rol para el usuario, y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Enviar invitación**. ![Opciones de rol y equipo y botón para enviar invitación](/assets/images/help/organizations/add-role-send-invitation.png)
+7. Si eliminaste los privilegios anteriores de un miembro anterior de la organización, elige un rol para el usuario, y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Enviar invitación**. ![Opciones de rol y equipo y botón para enviar invitación](/assets/images/2021/10/help/organizations/add-role-send-invitation.png)
 {% else %}
-7. Si eliminaste los privilegios anteriores de un miembro anterior de la organización, elige un rol para el usuario y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Agregar miembro**. ![Opciones de rol y equipo y botón para agregar miembros](/assets/images/help/organizations/add-role-add-member.png)
+7. Si eliminaste los privilegios anteriores de un miembro anterior de la organización, elige un rol para el usuario y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Agregar miembro**. ![Opciones de rol y equipo y botón para agregar miembros](/assets/images/2021/10/help/organizations/add-role-add-member.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 {% data reusables.organizations.user_must_accept_invite_email %} {% data reusables.organizations.cancel_org_invite %}

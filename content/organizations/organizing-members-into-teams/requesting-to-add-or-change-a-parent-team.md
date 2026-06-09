@@ -25,14 +25,14 @@ If you're an organization owner or you have team maintainer permissions in the c
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
 4. In the list of teams, click the name of the team you'd like to nest under a parent.
-  ![List of the organization's teams](/assets/images/help/teams/click-team-name.png)
+  ![List of the organization's teams](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
 6. Under "Parent team", use the "Select parent team" drop-down menu and click the name of the new parent team.
-  ![Drop-down menu listing the organization's teams](/assets/images/help/teams/choose-parent-team.png)
+  ![Drop-down menu listing the organization's teams](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. Click **Save changes**.
 {% data reusables.repositories.changed-repository-access-permissions %}
 9. Click **Confirm changes** to send a request to add or change your team's parent.
-  ![Modal box with information about the changes in repository access permissions](/assets/images/help/teams/confirm-new-parent-team.png)
+  ![Modal box with information about the changes in repository access permissions](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## Further reading
 

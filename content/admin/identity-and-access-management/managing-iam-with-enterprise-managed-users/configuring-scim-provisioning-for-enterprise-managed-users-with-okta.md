@@ -51,7 +51,7 @@ After your {% data variables.product.prodname_emu_enterprise %} has been created
 1. Click the **Sign On** tab.
 1. To make changes, click **Edit**.
 1. Under "Advanced Sign-on Settings", in the "Enterprise Name" text box, type your enterprise name. For example, if you access your enterprise at `https://github.com/enterprises/octoinc`, your enterprise name would be "octoinc".
-![Screenshot of the Enterprise Name field on Okta](/assets/images/help/enterprises/okta-emu-enterprise-name.png)
+![Screenshot of the Enterprise Name field on Okta](/assets/images/2021/10/help/enterprises/okta-emu-enterprise-name.png)
 1. To save your enterprise name, click **Save**.
 
 ## Configuring provisioning
@@ -66,14 +66,14 @@ To configure provisioning, the setup user with the **@<em>SHORT-CODE</em>_admin*
 1. To make changes, click **Edit**.
 1. Select **Enable API integration**.
 1. In the "API Token" field, enter the personal access token with the **admin:enterprise** scope belonging to the setup user.
-![Screenshot showing the API Token field on Okta](/assets/images/help/enterprises/okta-emu-token.png)
+![Screenshot showing the API Token field on Okta](/assets/images/2021/10/help/enterprises/okta-emu-token.png)
 1. Click **Test API Credentials**. If the test is successful, a verification message will appear at the top of the screen.
 1. To save the token, click **Save**.
 1. In the settings menu, click **To App**.
-![Screenshot showing the To App menu item on Okta](/assets/images/help/enterprises/okta-emu-to-app-menu.png)
+![Screenshot showing the To App menu item on Okta](/assets/images/2021/10/help/enterprises/okta-emu-to-app-menu.png)
 1. To the right of "Provisioning to App", to allow changes to be made, click **Edit**.
 1. Select **Enable** for **Create Users**, **Update User Attributes**, and **Deactivate Users**.
-![Screenshot showing provisioning options on Okta](/assets/images/help/enterprises/okta-emu-provisioning-to-app.png)
+![Screenshot showing provisioning options on Okta](/assets/images/2021/10/help/enterprises/okta-emu-provisioning-to-app.png)
 1. To finish configuring provisioning, click **Save**.
 
 ## Assigning users and groups
@@ -86,4 +86,4 @@ You can also automatically manage organization membership by assigning groups to
 
 When assigning users, you can use the "Roles" attribute in the {% data variables.product.prodname_emu_idp_application %} application to set a user's role in your enterprise on {% data variables.product.product_name %}. For more information on roles, see "[Roles in an enterprise](/github/setting-up-and-managing-your-enterprise/managing-users-in-your-enterprise/roles-in-an-enterprise)."
 
-![Screenshot showing the role options for provisioned user on Okta](/assets/images/help/enterprises/okta-emu-user-role.png)
+![Screenshot showing the role options for provisioned user on Okta](/assets/images/2021/10/help/enterprises/okta-emu-user-role.png)

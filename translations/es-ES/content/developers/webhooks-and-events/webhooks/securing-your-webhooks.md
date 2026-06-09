@@ -24,7 +24,7 @@ Necesitarás configurar tu token secreto en dos lugares: GitHub y tu servidor.
 Para configurar tu token en GitHub:
 
 1. Navega al repositorio en donde configuraste tu webhook.
-2. Llena la caja de texto del secreto. Utiliza una secuencia aleatoria con entropía alta (por ejemplo, tomando la salida de `ruby -rsecurerandom -e 'puts SecureRandom.hex(20)'` en la terminal). ![Campo de webhook y de token secreto](/assets/images/webhook_secret_token.png)
+2. Llena la caja de texto del secreto. Utiliza una secuencia aleatoria con entropía alta (por ejemplo, tomando la salida de `ruby -rsecurerandom -e 'puts SecureRandom.hex(20)'` en la terminal). ![Campo de webhook y de token secreto](/assets/images/2021/10/webhook_secret_token.png)
 3. Da clic en **Actualizar Webhook**.
 
 Después, configura una variable de ambiente en tu servidor, la cual almacene este token. Por lo general, esto es tan simple como el ejecutar:

@@ -70,7 +70,7 @@ Draft issues can have a title, text body, assignees, and any custom fields from 
 3. Select the project that you want to add the issue or pull request to.
 4. Optionally, populate the custom fields.
 
-   ![Project sidebar](/assets/images/help/issues/project_side_bar.png)
+   ![Project sidebar](/assets/images/2021/10/help/issues/project_side_bar.png)
 
 ## Converting draft issues to issues
 
@@ -119,7 +119,7 @@ Your project tracks up-to-date information about issues and pull requests, inclu
 Alternatively, you can do this in the UI:
 
 1. Click {% octicon "plus" aria-label="the plus icon" %} in the rightmost field header. A drop-down menu with the project fields will appear.
-   ![Show or hide fields](/assets/images/help/issues/projects_fields_menu.png)
+   ![Show or hide fields](/assets/images/2021/10/help/issues/projects_fields_menu.png)
 2. Select the field(s) that you want to display or hide. A {% octicon "check" aria-label="check icon" %} indicates which fields are displayed.
 
 ### Adding custom fields
@@ -137,7 +137,7 @@ Custom fields can be text, number, date, single select, or iteration:
 1. {% data reusables.projects.open-command-palette %} Start typing any part of "Create new field". When "Create new field" displays in the command palette, select it.
 2. Alternatively, click {% octicon "plus" aria-label="the plus icon" %} in the rightmost field header. A drop-down menu with the project fields will appear. Click **New field**.
 3. A popup will appear for you to enter information about the new field.
-   ![New field](/assets/images/help/issues/projects_new_field.png)
+   ![New field](/assets/images/2021/10/help/issues/projects_new_field.png)
 4. In the text box, enter a name for the new field.
 5. Select the dropdown menu and click the desired type.
 6. If you specified **Single select** as the type, enter the options.

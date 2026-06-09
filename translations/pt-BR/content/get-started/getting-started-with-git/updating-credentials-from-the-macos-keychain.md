@@ -27,7 +27,7 @@ Recomendamos que você [configure o SSH](/articles/generating-an-ssh-key) ou fa�
 
 ## Atualizar credenciais pelo Keychain Access
 
-1. Clique no ícone do Spotlight (lente ampliada) no lado direito da barra de menu. Digite `Acesso da Keychain` e, em seguida, pressione a chave Enter para iniciar o aplicativo. ![Barra de pesquisa do Spotlight](/assets/images/help/setup/keychain-access.png)
+1. Clique no ícone do Spotlight (lente ampliada) no lado direito da barra de menu. Digite `Acesso da Keychain` e, em seguida, pressione a chave Enter para iniciar o aplicativo. ![Barra de pesquisa do Spotlight](/assets/images/2021/10/help/setup/keychain-access.png)
 2. No Keychain Access, procure por **{% data variables.command_line.backticks %}**.
 3. Localize a entrada "internet password" (senha da internet) referente a `{% data variables.command_line.backticks %}`.
 4. Edite ou exclua a entrada de acordo.

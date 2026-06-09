@@ -31,9 +31,9 @@ Las entradas de registro de subida muestran:
 
 1. Inicia sesión en {% data variables.product.prodname_ghe_server %} como administrador de sitio.
 1. Navegar a un repositorio.
-1. En la esquina superior derecha de la página del repositorio, haz clic en {% octicon "rocket" aria-label="The rocket ship" %}. ![Ícono de cohete para acceder a las configuraciones de administrador del sitio](/assets/images/enterprise/site-admin-settings/access-new-settings.png)
+1. En la esquina superior derecha de la página del repositorio, haz clic en {% octicon "rocket" aria-label="The rocket ship" %}. ![Ícono de cohete para acceder a las configuraciones de administrador del sitio](/assets/images/2021/10/enterprise/site-admin-settings/access-new-settings.png)
 {% data reusables.enterprise_site_admin_settings.security-tab %}
-4. En la barra lateral izquierda, haz clic en **Push Log (Registro de subida)**. ![Pestaña de registro de subida](/assets/images/enterprise/site-admin-settings/push-log-tab.png)
+4. En la barra lateral izquierda, haz clic en **Push Log (Registro de subida)**. ![Pestaña de registro de subida](/assets/images/2021/10/enterprise/site-admin-settings/push-log-tab.png)
 
 {% ifversion ghes %}
 ## Ver registros de subida de un repositorio en la línea de comando

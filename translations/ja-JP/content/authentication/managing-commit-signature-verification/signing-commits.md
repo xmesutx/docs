@@ -48,7 +48,7 @@ Git バージョン 2.0.0 以降で、ローカルリポジトリでデフォル
   ```
 4. {% data variables.product.product_name %}上で、プルリクエストに移動します。
 {% data reusables.repositories.review-pr-commits %}
-5. ベリファイされた署名の詳しい情報を見るには、Verifiedをクリックします。 ![署名されたコミット](/assets/images/help/commits/gpg-signed-commit-verified-without-details.png)
+5. ベリファイされた署名の詳しい情報を見るには、Verifiedをクリックします。 ![署名されたコミット](/assets/images/2021/10/help/commits/gpg-signed-commit-verified-without-details.png)
 
 ## 参考リンク
 

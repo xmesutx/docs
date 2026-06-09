@@ -37,7 +37,7 @@ Em caso de geração de novos códigos de recuperação ou desabilitação e rea
 4. Salve os códigos de recuperação em um local seguro. Seus códigos de recuperação podem ajudar você a ter acesso novamente à sua conta no caso de perda do acesso.
     - Para salvar os códigos de recuperação no dispositivo, clique em **Download** (Baixar).
     - Para salvar uma cópia impressa dos códigos de recuperação, clique em **Print** (Imprimir).
-    - Para copiar os códigos de recuperação para armazenamento em um gerenciador de senhas, clique em **Copy** (Copiar). ![Lista de códigos de recuperação com opção para baixar, imprimir ou copiar os códigos](/assets/images/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
+    - Para copiar os códigos de recuperação para armazenamento em um gerenciador de senhas, clique em **Copy** (Copiar). ![Lista de códigos de recuperação com opção para baixar, imprimir ou copiar os códigos](/assets/images/2021/10/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
 
 ## Gerar um conjunto de códigos de recuperação
 
@@ -46,7 +46,7 @@ Depois que você usa um código de recuperação para voltar a ter acesso à sua
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 {% data reusables.two_fa.show-recovery-codes %}
-3. Para criar outro branch de códigos de recuperação, clique em **Generate new recovery codes** (Gerar novos códigos de recuperação). ![Botão Generate new recovery codes (Gerar novos códigos de recuperação)](/assets/images/help/2fa/generate-new-recovery-codes.png)
+3. Para criar outro branch de códigos de recuperação, clique em **Generate new recovery codes** (Gerar novos códigos de recuperação). ![Botão Generate new recovery codes (Gerar novos códigos de recuperação)](/assets/images/2021/10/help/2fa/generate-new-recovery-codes.png)
 
 ## Configurar uma chave de segurança como um método adicional da autenticação de dois fatores
 
@@ -70,9 +70,9 @@ Você pode usar um número de fallback, independentemente de ter configurado a a
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. Ao lado de "Fallback SMS number" (Número para SMS do fallback), clique em **Add** (Adicionar). ![Botão Add fallback SMS number (Adicionar número para SMS do fallback)](/assets/images/help/2fa/add-fallback-sms-number-button.png)
-4. Em "Fallback SMS number" (Número para SMS do fallback), clique em **Add fallback SMS number** (Adicionar número para SMS do fallback). ![Texto Adicionar número para SMS do fallback](/assets/images/help/2fa/add_fallback_sms_number_text.png)
-5. Selecione o código do seu país e digite o número do celular, incluindo o código de área. Confirme se as informações estão corretas e clique em **Set fallback** (Definir fallback). ![Definir número para SMS do fallback](/assets/images/help/2fa/2fa-fallback-number.png)
+3. Ao lado de "Fallback SMS number" (Número para SMS do fallback), clique em **Add** (Adicionar). ![Botão Add fallback SMS number (Adicionar número para SMS do fallback)](/assets/images/2021/10/help/2fa/add-fallback-sms-number-button.png)
+4. Em "Fallback SMS number" (Número para SMS do fallback), clique em **Add fallback SMS number** (Adicionar número para SMS do fallback). ![Texto Adicionar número para SMS do fallback](/assets/images/2021/10/help/2fa/add_fallback_sms_number_text.png)
+5. Selecione o código do seu país e digite o número do celular, incluindo o código de área. Confirme se as informações estão corretas e clique em **Set fallback** (Definir fallback). ![Definir número para SMS do fallback](/assets/images/2021/10/help/2fa/2fa-fallback-number.png)
 
 Após a configuração, o dispositivo de backup receberá um SMS de confirmação.
 

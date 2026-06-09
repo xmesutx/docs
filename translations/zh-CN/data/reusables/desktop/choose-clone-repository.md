@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![Mac 应用程序中的克隆菜单选项](/assets/images/help/desktop/clone-file-menu-mac.png)
+  ![Mac 应用程序中的克隆菜单选项](/assets/images/2021/10/help/desktop/clone-file-menu-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Windows 应用程序中的克隆菜单选项](/assets/images/help/desktop/clone-file-menu-windows.png)
+  ![Windows 应用程序中的克隆菜单选项](/assets/images/2021/10/help/desktop/clone-file-menu-windows.png)
 
   {% endwindows %}

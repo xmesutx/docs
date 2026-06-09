@@ -21,4 +21,4 @@ shortTitle: 在 IDE 中运行代码
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-assignment-in-list %}
-1. 在提交的右侧，请单击 **View IDE（查看 IDE）**。 ![使用在线 IDE 提交的"查看 IDE"按钮](/assets/images/help/classroom/assignments-click-view-ide.png)
+1. 在提交的右侧，请单击 **View IDE（查看 IDE）**。 ![使用在线 IDE 提交的"查看 IDE"按钮](/assets/images/2021/10/help/classroom/assignments-click-view-ide.png)

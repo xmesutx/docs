@@ -58,8 +58,8 @@ Você pode habilitar ou desabilitar a expiração de tokens de autorização usu
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-4. Clique em **Editar** próximo à sua escolha {% data variables.product.prodname_github_app %}. ![Configurações para edição de um aplicativo GitHub](/assets/images/github-apps/edit-test-app.png)
-5. In the left sidebar, click **Optional Features**. ![Optional features tab](/assets/images/github-apps/optional-features-option.png)
+4. Clique em **Editar** próximo à sua escolha {% data variables.product.prodname_github_app %}. ![Configurações para edição de um aplicativo GitHub](/assets/images/2021/10/github-apps/edit-test-app.png)
+5. In the left sidebar, click **Optional Features**. ![Optional features tab](/assets/images/2021/10/github-apps/optional-features-option.png)
 6. Ao lado de "Expiração do token do usuário para o servidor", clique em **Participar** ou **Não participar**. Esta configuração pode levar alguns segundos para ser aplicada.
 
 ## Não participar dos tokens expirados para novos aplicativos do GitHub
@@ -68,7 +68,7 @@ Quando você cria um novo {% data variables.product.prodname_github_app %}, por 
 
 Se você desejar que o seu aplicativo use tokens de acesso do usuário para servidor que não expiram, você pode desmarcar a opção "Expirar tokens de autorização do usuário" na página de configurações do aplicativo.
 
-![Opção para expirar os tokens dos usuários durante a configuração dos aplicativos GitHub](/assets/images/github-apps/expire-user-tokens-selection.png)
+![Opção para expirar os tokens dos usuários durante a configuração dos aplicativos GitHub](/assets/images/2021/10/github-apps/expire-user-tokens-selection.png)
 
 Os {% data variables.product.prodname_github_apps %} existentes que usa tokens de autorização de usuário para servidor só são afetados por este novo fluxo quando o proprietário do aplicativo habilita o vencimento de tokens de usuário para seu aplicativo.
 

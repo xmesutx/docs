@@ -72,9 +72,9 @@ Qualquer pessoa com permissões de administrador pode habilitar um botão de pat
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em Features (Recursos), desmarque **Sponsorships** (Patrocínios). ![Caixa de seleção para habilitar patrocínios](/assets/images/help/sponsors/sponsorships-checkbox.png)
-4. Em "Patrocínios", clique em **Configurar botão de patrocinador** ou **Substituir links de financiamento**. ![Botão para configurar o botão de patrocinador](/assets/images/help/sponsors/sponsor-set-up-button.png)
-5. No editor de arquivos, siga as instruções descritas no arquivo _FUNDING.yml_ para adicionar links aos locais de financiamento. ![Editar o arquivo FUNDING para adicionar links aos locais de financiamento](/assets/images/help/sponsors/funding-yml-file.png)
+3. Em Features (Recursos), desmarque **Sponsorships** (Patrocínios). ![Caixa de seleção para habilitar patrocínios](/assets/images/2021/10/help/sponsors/sponsorships-checkbox.png)
+4. Em "Patrocínios", clique em **Configurar botão de patrocinador** ou **Substituir links de financiamento**. ![Botão para configurar o botão de patrocinador](/assets/images/2021/10/help/sponsors/sponsor-set-up-button.png)
+5. No editor de arquivos, siga as instruções descritas no arquivo _FUNDING.yml_ para adicionar links aos locais de financiamento. ![Editar o arquivo FUNDING para adicionar links aos locais de financiamento](/assets/images/2021/10/help/sponsors/funding-yml-file.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_new_file %}

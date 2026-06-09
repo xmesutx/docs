@@ -32,13 +32,13 @@ People with admin permissions to a repository security advisory can edit the sec
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. 在“Security Advisories（安全通告）”列表中，单击您要编辑的安全通告。
-5. 在安全通告详细信息的右上角单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![安全通告的编辑按钮](/assets/images/help/security/security-advisory-edit-button.png)
+5. 在安全通告详细信息的右上角单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![安全通告的编辑按钮](/assets/images/2021/10/help/security/security-advisory-edit-button.png)
 {% data reusables.repositories.security-advisory-edit-details %}
 {% data reusables.repositories.security-advisory-edit-severity %}
 {% data reusables.repositories.security-advisory-edit-cwe-cve %}
 {% data reusables.repositories.security-advisory-edit-description %}
-11. （可选）编辑安全通告的“Credits（积分）”。 ![安全通告的积分](/assets/images/help/security/security-advisory-credits.png)
-12. 单击 **Update security advisory（更新安全通告）**。 !["更新安全通告" 按钮](/assets/images/help/security/update-advisory-button.png)
+11. （可选）编辑安全通告的“Credits（积分）”。 ![安全通告的积分](/assets/images/2021/10/help/security/security-advisory-credits.png)
+12. 单击 **Update security advisory（更新安全通告）**。 !["更新安全通告" 按钮](/assets/images/2021/10/help/security/update-advisory-button.png)
 13. “Credits（积分）”部分列出的人员将会收到邀请他们接受积分的电子邮件或 web 通知。 如果某人接受，则其用户名将在安全通告发布后公开可见。
 
 ## 延伸阅读

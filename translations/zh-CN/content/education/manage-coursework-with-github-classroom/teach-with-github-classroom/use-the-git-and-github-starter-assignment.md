@@ -24,7 +24,7 @@ Git 和 {% data variables.product.company_short %} 起始作业是一个预制�
 3. 在 {% octicon "repo" aria-label="The repo icon" %} **作业** 选项卡中，单击 **Use starter assignment（使用起始作业）**。
 
 <div class="procedural-image-wrapper">
-  <img alt="创建第一次作业" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-create-first-assignment.png">
+  <img alt="创建第一次作业" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-create-first-assignment.png">
 </div>
 
 ### 如果在课堂中已经有现有作业
@@ -34,7 +34,7 @@ Git 和 {% data variables.product.company_short %} 起始作业是一个预制�
 3. 在 {% octicon "repo" aria-label="The repo icon" %} **作业** 选项卡中，单击蓝色横幅上的链接。
 
 <div class="procedural-image-wrapper">
-  <img alt="“New assignment（新作业）”按钮" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-new-starter-assignment-button.png">
+  <img alt="“New assignment（新作业）”按钮" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-new-starter-assignment-button.png">
 </div>
 
 ## 设置作业的基本信息
@@ -59,7 +59,7 @@ Git 和 {% data variables.product.company_short %} 起始作业是一个预制�
 您首先需要将 Git 和 {% data variables.product.product_name %} 起始作业导入您的组织。
 
 <div class="procedural-image-wrapper">
-  <img alt="“导入作业”按钮" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-import-starter-assignment.png">
+  <img alt="“导入作业”按钮" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-import-starter-assignment.png">
 </div>
 
 ### 命名作业
@@ -79,7 +79,7 @@ Git 和 {% data variables.product.company_short %} 起始作业是一个预制�
 完成后，单击 **Continue（继续）**。 {% data variables.product.prodname_classroom %} 将创建作业并将您带到作业页面。
 
 <div class="procedural-image-wrapper">
-  <img alt="“Continue（继续）”按钮" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-continue-button.png">
+  <img alt="“Continue（继续）”按钮" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-continue-button.png">
 </div>
 
 ## 邀请学生参加作业
@@ -89,7 +89,7 @@ Git 和 {% data variables.product.company_short %} 起始作业是一个预制�
 您可以在作业的 **All students（所有学生）**选项卡中查看学生是否已进入教室或提交作业。 {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="个人作业" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-individual-hero.png">
+  <img alt="个人作业" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-individual-hero.png">
 </div>
 
 Git 和 {% data variables.product.company_short %} 起始作业只适用于个别学生，不适用于组。 一旦您创建作业，学生可以开始做作业。

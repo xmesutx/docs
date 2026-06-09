@@ -60,7 +60,7 @@ Você pode pesquisar {% data variables.product.product_name %} usando o {% data 
 
 A {% data variables.search.advanced_url %} fornece uma interface visual para construção de consultas de pesquisa. Você pode filtrar as pesquisas por diversos fatores, como o número de estrelas ou o número de bifurcações que um repositório tem. À medida que você preenche os campos de pesquisa avançada, sua consulta é automaticamente construída na barra de pesquisa superior.
 
-![Pesquisa avançada](/assets/images/help/search/advanced_search_demo.gif)
+![Pesquisa avançada](/assets/images/2021/10/help/search/advanced_search_demo.gif)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 

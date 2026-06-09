@@ -32,8 +32,8 @@ Renaming a file also gives you the opportunity to [move the file to a new locati
 {% endtip %}
 
 1. リポジトリで、名前を変更するファイルを見つけます。
-2. ファイルビューの右上の隅で、{% octicon "pencil" aria-label="The edit icon" %} をクリックしてファイルエディタを開きます。 ![ファイル編集アイコン](/assets/images/help/repository/edit-file-icon.png)
-3. ファイル名フィールドで、ファイルの名前を新しいファイル名に変更します。 ファイルのコンテンツも同時に更新できます。 ![ファイル名を編集する](/assets/images/help/repository/changing-file-name.png)
+2. ファイルビューの右上の隅で、{% octicon "pencil" aria-label="The edit icon" %} をクリックしてファイルエディタを開きます。 ![ファイル編集アイコン](/assets/images/2021/10/help/repository/edit-file-icon.png)
+3. ファイル名フィールドで、ファイルの名前を新しいファイル名に変更します。 ファイルのコンテンツも同時に更新できます。 ![ファイル名を編集する](/assets/images/2021/10/help/repository/changing-file-name.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_file_change %}

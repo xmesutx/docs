@@ -32,13 +32,13 @@ People with admin permissions to a repository security advisory can edit the sec
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. [Security Advisories] のリストから、編集するセキュリティアドバイザリをクリックします。
-5. セキュリティアドバイザリの詳細の右上隅で、{% octicon "pencil" aria-label="The edit icon" %} をクリックします。 ![セキュリティアドバイザリの [Edit] ボタン](/assets/images/help/security/security-advisory-edit-button.png)
+5. セキュリティアドバイザリの詳細の右上隅で、{% octicon "pencil" aria-label="The edit icon" %} をクリックします。 ![セキュリティアドバイザリの [Edit] ボタン](/assets/images/2021/10/help/security/security-advisory-edit-button.png)
 {% data reusables.repositories.security-advisory-edit-details %}
 {% data reusables.repositories.security-advisory-edit-severity %}
 {% data reusables.repositories.security-advisory-edit-cwe-cve %}
 {% data reusables.repositories.security-advisory-edit-description %}
-11. 必要に応じて、セキュリティアドバイザリの [Credits] を編集します。 ![セキュリティアドバイザリのクレジット](/assets/images/help/security/security-advisory-credits.png)
-12. [**Update security advisory**] をクリックします。 !["Update security advisory" button](/assets/images/help/security/update-advisory-button.png)
+11. 必要に応じて、セキュリティアドバイザリの [Credits] を編集します。 ![セキュリティアドバイザリのクレジット](/assets/images/2021/10/help/security/security-advisory-credits.png)
+12. [**Update security advisory**] をクリックします。 !["Update security advisory" button](/assets/images/2021/10/help/security/update-advisory-button.png)
 13. [Credits] セクションに記載されているユーザは、クレジットを受け入れるように勧めるメールまたは Web 通知を受信します。 受け入れた場合、セキュリティアドバイザリが公開されると、そのユーザ名が公開されます。
 
 ## 参考リンク

@@ -29,11 +29,11 @@ shortTitle: 在 GitHub 上编写和格式化
 
 You can enable a fixed-width font in every comment field on {% data variables.product.product_name %}. Each character in a fixed-width, or monospace, font occupies the same horizontal space which can make it easier to edit advanced Markdown structures such as tables and code snippets.
 
-![Screenshot showing the {% data variables.product.product_name %} comment field with fixed-width fonts enabled](/assets/images/help/writing/fixed-width-example.png)
+![Screenshot showing the {% data variables.product.product_name %} comment field with fixed-width fonts enabled](/assets/images/2022/01/help/writing/fixed-width-example.png)
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.appearance-settings %}
-1. Under "Markdown editor font preference", select **Use a fixed-width (monospace) font when editing Markdown**. ![Screenshot showing the {% data variables.product.product_name %} comment field with fixed width fonts enabled](/assets/images/help/writing/enable-fixed-width.png)
+1. Under "Markdown editor font preference", select **Use a fixed-width (monospace) font when editing Markdown**. ![Screenshot showing the {% data variables.product.product_name %} comment field with fixed width fonts enabled](/assets/images/2022/01/help/writing/enable-fixed-width.png)
 
 {% endif %}
 

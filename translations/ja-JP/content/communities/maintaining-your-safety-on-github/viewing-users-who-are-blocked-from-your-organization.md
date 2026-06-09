@@ -16,7 +16,7 @@ shortTitle: Organization でブロックされたユーザの表示
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.block_users %}
-5. [Blocked users] の下で、Organization からブロックしたユーザの一覧を確認します。 ![ブロックされたユーザの一覧](/assets/images/help/settings/list-of-blocked-users-for-org.png)
+5. [Blocked users] の下で、Organization からブロックしたユーザの一覧を確認します。 ![ブロックされたユーザの一覧](/assets/images/2021/10/help/settings/list-of-blocked-users-for-org.png)
 
 ## 参考リンク
 

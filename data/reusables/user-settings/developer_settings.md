@@ -2,5 +2,5 @@
 1. In the left sidebar, click **{% octicon "code" aria-label="The code icon" %} Developer settings**.
 {% else %} 
 1. In the left sidebar, click **Developer settings**.
-   ![Developer settings](/assets/images/help/settings/developer-settings.png)
+   ![Developer settings](/assets/images/2021/10/help/settings/developer-settings.png)
 {% endif %}

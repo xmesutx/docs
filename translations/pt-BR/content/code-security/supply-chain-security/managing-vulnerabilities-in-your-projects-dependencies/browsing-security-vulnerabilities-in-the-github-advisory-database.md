@@ -61,7 +61,7 @@ O {% data variables.product.prodname_advisory_database %} usa os níveis de CVSS
 ## Acessar uma consultoria no {% data variables.product.prodname_advisory_database %}
 
 1. Navegue até https://github.com/advisories.
-2. Opcionalmente, para filtrar a lista, use qualquer um dos menus suspensos. ![Filtros do menu suspenso](/assets/images/help/security/advisory-database-dropdown-filters.png)
+2. Opcionalmente, para filtrar a lista, use qualquer um dos menus suspensos. ![Filtros do menu suspenso](/assets/images/2021/10/help/security/advisory-database-dropdown-filters.png)
    {% tip %}
 
    **Dica:** Você pode usar a barra lateral à esquerda para explorar as consultorias revisadas por {% data variables.product.company_short %} e as consultorias não revisadas separadamente.
@@ -111,8 +111,8 @@ Para qualquer consultoria revisada por {% data variables.product.company_short %
 
 1. Navegue até https://github.com/advisories.
 2. Clique em uma consultoria.
-3. Na parte superior da página da consultoria, clique em **Alertas do dependabot**. ![Alertas do Dependabot](/assets/images/help/security/advisory-database-dependabot-alerts.png)
-4. Opcionalmente, para filtrar a lista, use a barra de pesquisa ou os menus suspensos. O menu suspenso "Organização" permite filtrar {% data variables.product.prodname_dependabot_alerts %} por proprietário (organização ou usuário). ![Barra de pesquisa e menus suspensos para filtrar alertas](/assets/images/help/security/advisory-database-dependabot-alerts-filters.png)
+3. Na parte superior da página da consultoria, clique em **Alertas do dependabot**. ![Alertas do Dependabot](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts.png)
+4. Opcionalmente, para filtrar a lista, use a barra de pesquisa ou os menus suspensos. O menu suspenso "Organização" permite filtrar {% data variables.product.prodname_dependabot_alerts %} por proprietário (organização ou usuário). ![Barra de pesquisa e menus suspensos para filtrar alertas](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts-filters.png)
 5. Para mais detalhes sobre a vulnerabilidade e para aconselhamento sobre como corrigir o repositório vulnerável clique no nome do repositório.
 
 ## Leia mais

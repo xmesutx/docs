@@ -17,9 +17,9 @@ shortTitle: Visualizar a las personas con acceso
 
 Los administradores pueden utilizar esta información para ayudar a personas externas, reunir datos de cumplimiento y otras verificaciones generales de seguridad.
 {% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-5974 %}
-![Resumen de gestión de accesos](/assets/images/help/repository/manage-access-overview.png)
+![Resumen de gestión de accesos](/assets/images/2021/10/help/repository/manage-access-overview.png)
 {% else %}
-![Lista de permisos de personas a un repositorio](/assets/images/help/repository/repository-permissions-list.png)
+![Lista de permisos de personas a un repositorio](/assets/images/2021/10/help/repository/repository-permissions-list.png)
 {% endif %}
 ## Ver personas con acceso a tu repositorio
 
@@ -37,4 +37,4 @@ Los propietario de organizaciones en {% data variables.product.prodname_ghe_clou
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.accessing-repository-people %}
-4. Haz clic en **Export CSV (Exportar CSV)**. ![Pestaña de personas en la barra lateral del repositorio](/assets/images/help/repository/export-repository-permissions.png)
+4. Haz clic en **Export CSV (Exportar CSV)**. ![Pestaña de personas en la barra lateral del repositorio](/assets/images/2021/10/help/repository/export-repository-permissions.png)

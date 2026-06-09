@@ -20,8 +20,8 @@ Você pode autorizar um token de acesso pessoal existente ou [criar um](/github/
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.personal_access_tokens %}
-3. Ao lado do token que você gostaria de autorizar, clique em **Configurar SSO**. ![Captura de tela do menu suspenso para configurar o SSO para um token de acesso pessoal](/assets/images/help/settings/sso-allowlist-button.png)
-4. À direita da organização para autorizar o token, clique em **Autorizar**. ![Botão de autorização do token](/assets/images/help/settings/token-authorize-button.png)
+3. Ao lado do token que você gostaria de autorizar, clique em **Configurar SSO**. ![Captura de tela do menu suspenso para configurar o SSO para um token de acesso pessoal](/assets/images/2021/10/help/settings/sso-allowlist-button.png)
+4. À direita da organização para autorizar o token, clique em **Autorizar**. ![Botão de autorização do token](/assets/images/2021/10/help/settings/token-authorize-button.png)
 
 ## Leia mais
 

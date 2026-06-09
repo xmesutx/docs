@@ -82,6 +82,6 @@ Antes de se tornar um desenvolvedor patrocinado, você deve habilitar a 2FA para
 ## Enviar seu aplicativo ao {% data variables.product.prodname_dotcom %} para aprovação
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
-4. Clique em **Request approval** (Solicitar aprovação). ![Botão Request approval (Solicitar aprovação)](/assets/images/help/sponsors/request-approval-button.png)
+4. Clique em **Request approval** (Solicitar aprovação). ![Botão Request approval (Solicitar aprovação)](/assets/images/2021/10/help/sponsors/request-approval-button.png)
 
 {% data reusables.sponsors.github-review-app %}

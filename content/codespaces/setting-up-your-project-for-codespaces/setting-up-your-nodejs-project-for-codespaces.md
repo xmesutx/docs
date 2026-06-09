@@ -33,7 +33,7 @@ This guide shows you how to set up your JavaScript, Node.js, or TypeScript proje
 
 1. Under the repository name, use the **{% octicon "code" aria-label="The code icon" %} Code** drop-down menu, and in the **Codespaces** tab, click {% octicon "plus" aria-label="The plus icon" %} **New codespace**.
 
-  ![New codespace button](/assets/images/help/codespaces/new-codespace-button.png)
+  ![New codespace button](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   If you don’t see this option, {% data variables.product.prodname_codespaces %} isn't available for your project. See [Access to {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) for more information.
 
@@ -52,9 +52,9 @@ To set up your project with a custom container, you will need to use a `devconta
 
 {% data reusables.codespaces.command-palette-container %}
 3. For this example, click **Node.js**.  If you need additional features you can select any container that’s specific to Node or a combination of tools such as Node and MongoDB.
-  ![Select Node option from the list](/assets/images/help/codespaces/add-node-prebuilt-container.png)
+  ![Select Node option from the list](/assets/images/2021/10/help/codespaces/add-node-prebuilt-container.png)
 4. Click the recommended version of Node.js.
-  ![Node.js version selection](/assets/images/help/codespaces/add-node-version.png)
+  ![Node.js version selection](/assets/images/2021/10/help/codespaces/add-node-version.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### Anatomy of your dev container
@@ -140,7 +140,7 @@ With your dev container added and a basic understanding of what everything does,
 
 1. In the Explorer, select the `devcontainer.json` file from the tree to open it. You might have to expand the `.devcontainer` folder to see it.
 
-  ![devcontainer.json file in the Explorer](/assets/images/help/codespaces/devcontainers-options.png)
+  ![devcontainer.json file in the Explorer](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. Add the following lines to your `devcontainer.json` file after `extensions`:
 
@@ -162,11 +162,11 @@ In the previous section, you used the `postCreateCommand` to installing a set of
 
 1. Run your start command in the terminal with`npm start`.
 
-  ![npm start in terminal](/assets/images/help/codespaces/codespaces-npmstart.png)
+  ![npm start in terminal](/assets/images/2021/10/help/codespaces/codespaces-npmstart.png)
 
 2. When your project starts, you should see a toast in the bottom right corner with a prompt to connect to the port your project uses.
 
-  ![Port forwarding toast](/assets/images/help/codespaces/codespaces-port-toast.png)
+  ![Port forwarding toast](/assets/images/2021/10/help/codespaces/codespaces-port-toast.png)
 
 ## Step 5: Commit your changes
 

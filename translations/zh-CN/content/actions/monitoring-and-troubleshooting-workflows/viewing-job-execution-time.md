@@ -18,7 +18,7 @@ shortTitle: 查看作业执行时间
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
-1. 在作业摘要下，您可以查看作业的执行时间。 要查看有关计费作业执行时间的详细信息，请单击 **Billable time（计费时间）**下的时间。 ![运行和可计费时间详细信息链接](/assets/images/help/repository/view-run-billable-time.png)
+1. 在作业摘要下，您可以查看作业的执行时间。 要查看有关计费作业执行时间的详细信息，请单击 **Billable time（计费时间）**下的时间。 ![运行和可计费时间详细信息链接](/assets/images/2021/10/help/repository/view-run-billable-time.png)
 
    {% note %}
 

@@ -51,7 +51,7 @@ shortTitle: 快速入门
 
     ```
     {% endraw %}
-3. 滚动到页面底部，然后选择 **Create a new branch for this commit and start a pull request（为此提交创建一个新分支并开始拉取请求）**。 然后，若要创建拉取请求，请单击 **Propose new file（提议新文件）**。 ![提交工作流程文件](/assets/images/help/repository/actions-quickstart-commit-new-file.png)
+3. 滚动到页面底部，然后选择 **Create a new branch for this commit and start a pull request（为此提交创建一个新分支并开始拉取请求）**。 然后，若要创建拉取请求，请单击 **Propose new file（提议新文件）**。 ![提交工作流程文件](/assets/images/2021/10/help/repository/actions-quickstart-commit-new-file.png)
 
 向仓库的分支提交工作流程文件会触发 `push` 事件并运行工作流程。
 
@@ -61,18 +61,18 @@ shortTitle: 快速入门
 {% data reusables.repositories.actions-tab %}
 1. 在左侧边栏中，单击您想要查看的工作流程。
 
-   ![左侧边栏中的工作流程列表](/assets/images/help/repository/actions-quickstart-workflow-sidebar.png)
+   ![左侧边栏中的工作流程列表](/assets/images/2021/10/help/repository/actions-quickstart-workflow-sidebar.png)
 1. 从工作流程运行列表中，单击要查看的运行的名称。
 
-   ![工作流程运行的名称](/assets/images/help/repository/actions-quickstart-run-name.png)
+   ![工作流程运行的名称](/assets/images/2021/10/help/repository/actions-quickstart-run-name.png)
 1. 在 **Jobs（作业）**下，单击 **Explore-GitHub-Actions** 作业。
 
-   ![查找作业](/assets/images/help/repository/actions-quickstart-job.png)
+   ![查找作业](/assets/images/2021/10/help/repository/actions-quickstart-job.png)
 1. 日志显示每个步骤的处理方式。 展开任何步骤以查看其细节。
 
-   ![示例工作流程结果](/assets/images/help/repository/actions-quickstart-logs.png)
+   ![示例工作流程结果](/assets/images/2021/10/help/repository/actions-quickstart-logs.png)
 
-   例如，您可以在仓库中看到文件列表： ![示例操作详细信息](/assets/images/help/repository/actions-quickstart-log-detail.png)
+   例如，您可以在仓库中看到文件列表： ![示例操作详细信息](/assets/images/2021/10/help/repository/actions-quickstart-log-detail.png)
 
 ## 更多入门工作流程
 

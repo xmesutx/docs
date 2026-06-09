@@ -24,9 +24,9 @@ shortTitle: 手动运行工作流程
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. 在左侧边栏中，单击您想要运行的工作流程。 ![操作选择工作流程](/assets/images/actions-select-workflow.png)
-1. 在工作流程运行列表上方选择 **Run workflow（运行工作流程）**。 ![操作工作流程调度](/assets/images/actions-workflow-dispatch.png)
-1. 使用 **Branch（分支）**下拉菜单选择工作流程的分支，并键入输入参数。 单击 **Run workflow（运行工作流程）**。 ![操作手动运行工作流程](/assets/images/actions-manually-run-workflow.png)
+1. 在左侧边栏中，单击您想要运行的工作流程。 ![操作选择工作流程](/assets/images/2021/10/actions-select-workflow.png)
+1. 在工作流程运行列表上方选择 **Run workflow（运行工作流程）**。 ![操作工作流程调度](/assets/images/2021/10/actions-workflow-dispatch.png)
+1. 使用 **Branch（分支）**下拉菜单选择工作流程的分支，并键入输入参数。 单击 **Run workflow（运行工作流程）**。 ![操作手动运行工作流程](/assets/images/2021/10/actions-manually-run-workflow.png)
 
 {% endwebui %}
 

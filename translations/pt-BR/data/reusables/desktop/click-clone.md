@@ -2,13 +2,13 @@
 
   {% mac %}
 
-  ![Botão Clone (Clonar)](/assets/images/help/desktop/clone-button-mac.png)
+  ![Botão Clone (Clonar)](/assets/images/2021/10/help/desktop/clone-button-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Botão Clone (Clonar)](/assets/images/help/desktop/clone-button-win.png)
+  ![Botão Clone (Clonar)](/assets/images/2021/10/help/desktop/clone-button-win.png)
 
   {% endwindows %}
   

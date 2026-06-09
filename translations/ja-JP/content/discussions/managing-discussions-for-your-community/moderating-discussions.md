@@ -22,7 +22,7 @@ versions:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. ディスカッションのリストで、ロックするディスカッションをクリックします。 ![ディスカッションのロック](/assets/images/help/discussions/unanswered-discussion.png)
+1. ディスカッションのリストで、ロックするディスカッションをクリックします。 ![ディスカッションのロック](/assets/images/2021/10/help/discussions/unanswered-discussion.png)
 1. ディスカッションの右マージンで、[**Lock conversation**] をクリックします。
 1. 会話のロックに関する情報を確認し、[**Lock conversation on this discussion**] をクリックします。
 1. 会話のロックを解除する準備ができたら、[**Unlock conversation**] をクリックしてから、[**Unlock conversation on this discussion**] をクリックします。

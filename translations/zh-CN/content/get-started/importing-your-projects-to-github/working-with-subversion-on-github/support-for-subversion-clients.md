@@ -69,7 +69,7 @@ $ svn commit -m 'Added more_awesome topic branch'
 
 您可以在仓库的分支下拉菜单中确认存在新分支：
 
-![分支快照](/assets/images/help/branch/svnflow-branch-snapshot.png)
+![分支快照](/assets/images/2021/10/help/branch/svnflow-branch-snapshot.png)
 
 您还可以通过命令行确认新分支：
 

@@ -16,7 +16,7 @@ topics:
 
 sudoでプロテクトされたアクションを実行したあとは、数時間アクションがない場合に限り、再認証を要求されます。 Sudo でプロテクトされたアクションを行った場合、このタイマーはリセットされます。
 
-![Sudo モードダイアログ](/assets/images/help/settings/sudo_mode_popup.png)
+![Sudo モードダイアログ](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 ## 参考リンク
 

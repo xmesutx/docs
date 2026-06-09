@@ -27,10 +27,10 @@ shortTitle: Incorporate feedback
 {% data reusables.repositories.sidebar-pr %}
 2. プルリクエストのリストで、提案された変更を適用する対象のプルリクエストをクリックします。
 3. 適用する最初の変更提案に移動します。
-    - それ自体のコミットで変更を適用する場合は、[**Commit suggestion**] をクリックします。 ![[Commit suggestion] ボタン](/assets/images/help/pull_requests/commit-suggestion-button.png)
-    - 変更のバッチに提案を追加するには、[**Add suggestion to batch**] をクリックします。 これを繰り返して、1 つのコミットに取り込む変更を追加します。 提案された変更の追加が終わったら、[**Commit suggestions**] をクリックします。 ![[Add suggestion to batch] ボタン](/assets/images/help/pull_requests/add-suggestion-to-batch.png)
-4. コミットメッセージのフィールドに、ファイルに対する変更内容を説明する、短くわかりやすいコミットメッセージを入力します。 ![Commit messageフィールド](/assets/images/help/pull_requests/suggested-change-commit-message-field.png)
-5. [**Commit changes**] をクリックします。 ![[Commit changes] ボタン](/assets/images/help/pull_requests/commit-changes-button.png)
+    - それ自体のコミットで変更を適用する場合は、[**Commit suggestion**] をクリックします。 ![[Commit suggestion] ボタン](/assets/images/2021/10/help/pull_requests/commit-suggestion-button.png)
+    - 変更のバッチに提案を追加するには、[**Add suggestion to batch**] をクリックします。 これを繰り返して、1 つのコミットに取り込む変更を追加します。 提案された変更の追加が終わったら、[**Commit suggestions**] をクリックします。 ![[Add suggestion to batch] ボタン](/assets/images/2021/10/help/pull_requests/add-suggestion-to-batch.png)
+4. コミットメッセージのフィールドに、ファイルに対する変更内容を説明する、短くわかりやすいコミットメッセージを入力します。 ![Commit messageフィールド](/assets/images/2021/10/help/pull_requests/suggested-change-commit-message-field.png)
+5. [**Commit changes**] をクリックします。 ![[Commit changes] ボタン](/assets/images/2021/10/help/pull_requests/commit-changes-button.png)
 
 ## レビューを再リクエストする
 

@@ -29,7 +29,7 @@ Para generar una llave privada:
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-5. En "Llaves privadas", da clic en **Generar una llave privada**. ![Generar llave privada](/assets/images/github-apps/github_apps_generate_private_keys.png)
+5. En "Llaves privadas", da clic en **Generar una llave privada**. ![Generar llave privada](/assets/images/2021/10/github-apps/github_apps_generate_private_keys.png)
 6. Verás una llave privada en formato PEM que se descarga en tu ordenador. Asegúrate de almacenar este archivo, ya que GitHub solo almacena la porción pública de la llave.
 
 {% note %}
@@ -43,7 +43,7 @@ Para generar una llave privada:
 
 Para verificar una llave privada:
 
-1. Encuentra la huella digital del par de llaves pública y privada que quieras verificar en la sección "Llaves privadas" de tu página de configuración de desarrollador de {% data variables.product.prodname_github_app %}. Para obtener más información, consulta la sección [Generar una llave privada](#generating-a-private-key). ![Huella digital de llave privada](/assets/images/github-apps/github_apps_private_key_fingerprint.png)
+1. Encuentra la huella digital del par de llaves pública y privada que quieras verificar en la sección "Llaves privadas" de tu página de configuración de desarrollador de {% data variables.product.prodname_github_app %}. Para obtener más información, consulta la sección [Generar una llave privada](#generating-a-private-key). ![Huella digital de llave privada](/assets/images/2021/10/github-apps/github_apps_private_key_fingerprint.png)
 2. Genera la huella digital de tu llave privada (PEM) localmente utilizando el siguiente comando:
     ```shell
     $ openssl rsa -in <em>PATH_TO_PEM_FILE</em> -pubout -outform DER | openssl sha256 -binary | openssl base64
@@ -51,7 +51,7 @@ Para verificar una llave privada:
 3. Compara los resultados de la huella digital generada localmente con aquella que ves en {% data variables.product.product_name %}.
 
 ## Borra las llaves privadas
-Puedes eliminar una llave privada que se haya perdido o puesto en riesgo si la borras, pero debes de tener por lo menos una llave privada. Cuando solo tienes una llave, necesitas generar una nueva antes de borrar la anterior. ![Borrar la última llave privada](/assets/images/github-apps/github_apps_delete_key.png)
+Puedes eliminar una llave privada que se haya perdido o puesto en riesgo si la borras, pero debes de tener por lo menos una llave privada. Cuando solo tienes una llave, necesitas generar una nueva antes de borrar la anterior. ![Borrar la última llave privada](/assets/images/2021/10/github-apps/github_apps_delete_key.png)
 
 ## Autenticarse como una {% data variables.product.prodname_github_app %}
 

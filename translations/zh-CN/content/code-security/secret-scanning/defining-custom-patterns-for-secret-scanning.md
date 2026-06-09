@@ -69,7 +69,7 @@ topics:
 {% data reusables.advanced-security.secret-scanning-new-custom-pattern %}
 {% data reusables.advanced-security.secret-scanning-add-custom-pattern-details %}{% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5499 %}
 1. 当您准备好测试新的自定义模式时，要识别存储库中的匹配项而不创建警报，请单击 **Save and dry run（保存并空运行）**。
-1. 空运行完成后，您将看到存储库中的结果示例（最多 1000 个）。 查看结果并确定任何误报结果。 ![显示空运行结果的屏幕截图](/assets/images/help/repository/secret-scanning-publish-pattern.png)
+1. 空运行完成后，您将看到存储库中的结果示例（最多 1000 个）。 查看结果并确定任何误报结果。 ![显示空运行结果的屏幕截图](/assets/images/2022/02/help/repository/secret-scanning-publish-pattern.png)
 1. 编辑新的自定义模式以修复结果的任何问题，然后单击 **Save and dry run（保存并空运行）**以测试更改。
 {% indented_data_reference reusables.secret-scanning.beta-dry-runs spaces=3 %}
 {% endif %}
@@ -172,7 +172,7 @@ aAAAe9
 1. 查看确认，并选择一种方法来处理与自定义模式相关的任何打开的警报。
 1. 单击 **Yes, delete this pattern（是，删除此模式）**。
 
-   ![确认删除自定义 {% data variables.product.prodname_secret_scanning %} 模式 ](/assets/images/help/repository/secret-scanning-confirm-deletion-custom-pattern.png)
+   ![确认删除自定义 {% data variables.product.prodname_secret_scanning %} 模式 ](/assets/images/2021/10/help/repository/secret-scanning-confirm-deletion-custom-pattern.png)
 {%- elsif ghes = 3.2 %}
 1. 在要删除的自定义模式的右侧，单击 **Remove（删除）**。
 1. 查看确认并单击 **Remove custom pattern（删除自定义模式）**。

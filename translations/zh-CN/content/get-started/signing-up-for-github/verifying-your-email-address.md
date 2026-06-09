@@ -45,9 +45,9 @@ If you do not verify your email address, you will not be able to:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
 1. Under your email address, click **Resend verification email**.
-  ![Resend verification email link](/assets/images/help/settings/email-verify-button.png)
+  ![Resend verification email link](/assets/images/2021/10/help/settings/email-verify-button.png)
 4. {% data variables.product.prodname_dotcom %} will send you an email with a link in it. After you click that link, you'll be taken to your {% data variables.product.prodname_dotcom %} dashboard and see a confirmation banner.
-  ![Banner confirming that your email was verified](/assets/images/help/settings/email-verification-confirmation-banner.png)
+  ![Banner confirming that your email was verified](/assets/images/2021/10/help/settings/email-verification-confirmation-banner.png)
 
 ## Troubleshooting email verification
 

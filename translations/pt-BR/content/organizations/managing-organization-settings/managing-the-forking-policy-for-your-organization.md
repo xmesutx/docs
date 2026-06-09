@@ -27,9 +27,9 @@ Se você permitir a bifurcação de repositórios privados{% ifversion ghes or g
 1. Em "Bifurcação de repositório", selecione **Permitir bifurcação de repositórios {% ifversion ghec or ghes or ghae %}privados e {% endif %}internos**.
 
    {%- ifversion fpt %}
-   ![Caixa de seleção para permitir ou proibir a bifurcação na organização](/assets/images/help/repository/allow-disable-forking-fpt.png)
+   ![Caixa de seleção para permitir ou proibir a bifurcação na organização](/assets/images/2021/12/help/repository/allow-disable-forking-fpt.png)
    {%- elsif ghes or ghec or ghae %}
-   ![Caixa de seleção para permitir ou proibir a bifurcação na organização](/assets/images/help/repository/allow-disable-forking-organization.png)
+   ![Caixa de seleção para permitir ou proibir a bifurcação na organização](/assets/images/2021/10/help/repository/allow-disable-forking-organization.png)
    {%- endif %}
 6. Clique em **Salvar**.
 

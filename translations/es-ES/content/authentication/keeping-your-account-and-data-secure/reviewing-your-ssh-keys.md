@@ -23,7 +23,7 @@ You can delete unauthorized (or possibly compromised) SSH keys to ensure that an
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 3. On the SSH Settings page, take note of the SSH keys associated with your account. For those that you don't recognize, or that are out-of-date, click **Delete**. If there are valid SSH keys you'd like to keep, click **Approve**.
-	![SSH key list](/assets/images/help/settings/settings-ssh-key-review.png)
+	![SSH key list](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 
@@ -50,7 +50,7 @@ You can delete unauthorized (or possibly compromised) SSH keys to ensure that an
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 3. On the SSH Settings page, take note of the SSH keys associated with your account. For those that you don't recognize, or that are out-of-date, click **Delete**. If there are valid SSH keys you'd like to keep, click **Approve**.
-	![SSH key list](/assets/images/help/settings/settings-ssh-key-review.png)
+	![SSH key list](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 
@@ -79,7 +79,7 @@ You can delete unauthorized (or possibly compromised) SSH keys to ensure that an
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 3. On the SSH Settings page, take note of the SSH keys associated with your account. For those that you don't recognize, or that are out-of-date, click **Delete**. If there are valid SSH keys you'd like to keep, click **Approve**.
-	![SSH key list](/assets/images/help/settings/settings-ssh-key-review.png)
+	![SSH key list](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 

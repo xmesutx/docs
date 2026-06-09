@@ -36,13 +36,13 @@ When you enable log forwarding, you must upload a CA certificate to encrypt comm
 {% elsif ghae %}
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-1. {% octicon "gear" aria-label="The Settings gear" %} [**Settings**] の下で、[**Log forwarding**] をクリックします。 ![[Log forwarding] タブ](/assets/images/enterprise/business-accounts/log-forwarding-tab.png)
-1. [Log forwarding] の下で、[**Enable log forwarding**] を選択します。 ![ログ転送を有効にするチェックボックス](/assets/images/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
-1. [Server address] の下に、ログを転送するサーバーのアドレスを入力します。 ![[Server address] フィールド](/assets/images/enterprise/business-accounts/server-address-field.png)
-1. [Protocol] ドロップダウンメニューを使用して、プロトコルを選択します。 ![[Protocol] ドロップダウンメニュー](/assets/images/enterprise/business-accounts/protocol-drop-down-menu.png)
-1. 必要に応じて、syslog エンドポイント間の TLS 暗号化通信を有効にするには、[**Enable TLS**] を選択します。 ![TLS を有効にするチェックボックス](/assets/images/enterprise/business-accounts/enable-tls-checkbox.png)
-1. [Public certificate] の下に、x509 証明書を貼り付けます。 ![公開証明書のテキストボックス](/assets/images/enterprise/business-accounts/public-certificate-text-box.png)
-1. [**Save**] をクリックします。 ![ログ転送用の [Save] ボタン](/assets/images/enterprise/business-accounts/save-button-log-forwarding.png)
+1. {% octicon "gear" aria-label="The Settings gear" %} [**Settings**] の下で、[**Log forwarding**] をクリックします。 ![[Log forwarding] タブ](/assets/images/2021/10/enterprise/business-accounts/log-forwarding-tab.png)
+1. [Log forwarding] の下で、[**Enable log forwarding**] を選択します。 ![ログ転送を有効にするチェックボックス](/assets/images/2021/10/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
+1. [Server address] の下に、ログを転送するサーバーのアドレスを入力します。 ![[Server address] フィールド](/assets/images/2021/10/enterprise/business-accounts/server-address-field.png)
+1. [Protocol] ドロップダウンメニューを使用して、プロトコルを選択します。 ![[Protocol] ドロップダウンメニュー](/assets/images/2021/10/enterprise/business-accounts/protocol-drop-down-menu.png)
+1. 必要に応じて、syslog エンドポイント間の TLS 暗号化通信を有効にするには、[**Enable TLS**] を選択します。 ![TLS を有効にするチェックボックス](/assets/images/2021/10/enterprise/business-accounts/enable-tls-checkbox.png)
+1. [Public certificate] の下に、x509 証明書を貼り付けます。 ![公開証明書のテキストボックス](/assets/images/2021/10/enterprise/business-accounts/public-certificate-text-box.png)
+1. [**Save**] をクリックします。 ![ログ転送用の [Save] ボタン](/assets/images/2021/10/enterprise/business-accounts/save-button-log-forwarding.png)
 {% endif %}
 
 {% ifversion ghes %}

@@ -35,9 +35,9 @@ Também é possível desabilitar e habilitar um fluxo de trabalho usando a API R
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja desabilitar. ![ações selecionam fluxo de trabalho](/assets/images/actions-select-workflow.png)
-1. Clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}. ![menu de ações kebab](/assets/images/help/repository/actions-workflow-menu-kebab.png)
-1. Clique **Desabilitar fluxo de trabalho**. ![actions disable workflow](/assets/images/help/repository/actions-disable-workflow.png) O fluxo de trabalho desabilitado está marcado {% octicon "stop" aria-label="The stop icon" %} para indicar seu status. ![lista de ações desabilitada no fluxo de trabalho](/assets/images/help/repository/actions-find-disabled-workflow.png)
+1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja desabilitar. ![ações selecionam fluxo de trabalho](/assets/images/2021/10/actions-select-workflow.png)
+1. Clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}. ![menu de ações kebab](/assets/images/2021/10/help/repository/actions-workflow-menu-kebab.png)
+1. Clique **Desabilitar fluxo de trabalho**. ![actions disable workflow](/assets/images/2021/10/help/repository/actions-disable-workflow.png) O fluxo de trabalho desabilitado está marcado {% octicon "stop" aria-label="The stop icon" %} para indicar seu status. ![lista de ações desabilitada no fluxo de trabalho](/assets/images/2021/10/help/repository/actions-find-disabled-workflow.png)
 
 {% endwebui %}
 
@@ -61,8 +61,8 @@ Você pode habilitar novamente um fluxo de trabalho que foi desabilitado anterio
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja habilitar. ![ações selecionam um fluxo de trabalho desativado](/assets/images/help/repository/actions-select-disabled-workflow.png)
-1. Clique em **Habilitar o fluxo de trabalho**. ![ações habilitam fluxo de trabalho](/assets/images/help/repository/actions-enable-workflow.png)
+1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja habilitar. ![ações selecionam um fluxo de trabalho desativado](/assets/images/2021/10/help/repository/actions-select-disabled-workflow.png)
+1. Clique em **Habilitar o fluxo de trabalho**. ![ações habilitam fluxo de trabalho](/assets/images/2021/10/help/repository/actions-enable-workflow.png)
 
 {% endwebui %}
 

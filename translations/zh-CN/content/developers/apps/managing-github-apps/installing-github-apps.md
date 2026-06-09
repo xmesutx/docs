@@ -26,7 +26,7 @@ topics:
 1. 从 [GitHub 应用程序设置页面](https://github.com/settings/apps)，选择您的应用程序。
 2. 在左边栏中，单击 **Install App（安装应用程序）**。
 3. 单击包含适当仓库的组织或用户帐户旁边的 **Install（安装）**。
-4. 将应用程序安装在所有仓库或所选仓库中。 ![应用程序安装权限](/assets/images/install_permissions.png)
+4. 将应用程序安装在所有仓库或所选仓库中。 ![应用程序安装权限](/assets/images/2021/10/install_permissions.png)
 5. 安装后，您将在所选帐户上看到应用程序的配置选项。 您可以在这里进行更改，或重复前面的步骤将应用程序安装到其他帐户上。
 
 {% ifversion fpt or ghec %}
@@ -49,8 +49,8 @@ topics:
 这些步骤假定您已[构建 {% data variables.product.prodname_github_app %}](/apps/building-github-apps/)：
 
 1. 从 [GitHub应用程序设置页面](https://github.com/settings/apps)，选择要配置以供他人安装的公共应用程序。
-2. 在“Homepage URL（主页 URL）”中，输入应用程序主页的 URL，然后单击 **Save changes（保存更改）**。 ![主页 URL](/assets/images/github-apps/github_apps_homepageURL.png)
-3. GitHub 为您的应用程序提供一个登录页面，其中包含指向应用程序“Homepage URL（主页 URL）”的链接。 要访问 GitHub 上的登录页面，请从“Public link（公共链接）”复制 URL 并将其粘贴到浏览器中。 ![公共链接](/assets/images/github-apps/github_apps_public_link.png)
+2. 在“Homepage URL（主页 URL）”中，输入应用程序主页的 URL，然后单击 **Save changes（保存更改）**。 ![主页 URL](/assets/images/2021/10/github-apps/github_apps_homepageURL.png)
+3. GitHub 为您的应用程序提供一个登录页面，其中包含指向应用程序“Homepage URL（主页 URL）”的链接。 要访问 GitHub 上的登录页面，请从“Public link（公共链接）”复制 URL 并将其粘贴到浏览器中。 ![公共链接](/assets/images/2021/10/github-apps/github_apps_public_link.png)
 4. 为您的应用程序创建一个包含应用程序安装 URL 的主页：`{% data variables.product.oauth_host_code %}/apps/<app name>/installations/new`。
 
 ## 在安装过程中授权用户

@@ -69,7 +69,7 @@ $ svn commit -m 'Branch de tópico more_awesome adicionado'
 
 É possível confirmar a existência do novo branch na lista suspensa de branches do repositório:
 
-![branch-snapshot](/assets/images/help/branch/svnflow-branch-snapshot.png)
+![branch-snapshot](/assets/images/2021/10/help/branch/svnflow-branch-snapshot.png)
 
 Você também pode confirmar o novo branch por meio da linha de comando:
 

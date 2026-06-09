@@ -35,8 +35,8 @@ Você tem algumas opções para converter sua equipe de proprietários legada:
 {% data reusables.organizations.convert-owners-team-confirm %}
 5. No campo de nome da equipe, escolha um novo nome para a equipe de proprietários. Por exemplo:
     - Se apenas alguns integrantes da organização forem integrantes da equipe de proprietários, você poderá dar à equipe o nome de "Principal".
-    - Se todos os integrantes da organização forem integrantes da equipe de proprietários, de modo que eles podem [@mencionar equipes](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams), você pode dar à equipe o nome de "Funcionários". ![O campo de nome da equipe, com a equipe de proprietários renomeada para Principal](/assets/images/help/teams/owners-team-new-name.png)
-6. Abaixo da descrição da equipe, clique em **Save and continue** (Salvar e continuar). ![O botão Save and continue (Salvar e continuar)](/assets/images/help/teams/owners-team-save-and-continue.png)
+    - Se todos os integrantes da organização forem integrantes da equipe de proprietários, de modo que eles podem [@mencionar equipes](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams), você pode dar à equipe o nome de "Funcionários". ![O campo de nome da equipe, com a equipe de proprietários renomeada para Principal](/assets/images/2021/10/help/teams/owners-team-new-name.png)
+6. Abaixo da descrição da equipe, clique em **Save and continue** (Salvar e continuar). ![O botão Save and continue (Salvar e continuar)](/assets/images/2021/10/help/teams/owners-team-save-and-continue.png)
 7. Como opção, [torne a equipe *pública*](/articles/changing-team-visibility).
 
 ## Excluir a equipe de proprietários legada
@@ -51,4 +51,4 @@ Você tem algumas opções para converter sua equipe de proprietários legada:
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.owners-team %}
 {% data reusables.organizations.convert-owners-team-confirm %}
-5. Na parte inferior da página, revise o aviso e clique em **Delete the Owners team** (Excluir a equipe de proprietários). ![Link para excluir a equipe de proprietários](/assets/images/help/teams/owners-team-delete.png)
+5. Na parte inferior da página, revise o aviso e clique em **Delete the Owners team** (Excluir a equipe de proprietários). ![Link para excluir a equipe de proprietários](/assets/images/2021/10/help/teams/owners-team-delete.png)

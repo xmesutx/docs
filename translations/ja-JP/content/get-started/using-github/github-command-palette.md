@@ -16,13 +16,13 @@ You can navigate, search, and run commands on {% data variables.product.product_
 
 When you open the command palette, the suggestions are optimized to give you easy access from anywhere in a repository, user account, or organization to top-level pages like the Issues page. If the location you want isn't listed, start entering the name or number for the location to refine the suggestions.
 
-![Command palette repository suggestions](/assets/images/help/command-palette/command-palette-navigation-repo-default.png)
+![Command palette repository suggestions](/assets/images/2021/11/help/command-palette/command-palette-navigation-repo-default.png)
 
 ### Easy access to commands
 
 The ability to run commands directly from your keyboard, without navigating through a series of menus, may change the way you use {% data variables.product.prodname_dotcom %}. For example, you can switch themes with a few keystrokes, making it easy to toggle between themes as your needs change.
 
-![Command palette change theme](/assets/images/help/command-palette/command-palette-command-change-theme.png)
+![Command palette change theme](/assets/images/2021/11/help/command-palette/command-palette-command-change-theme.png)
 
 ## Opening the {% data variables.product.prodname_command_palette %}
 
@@ -34,7 +34,7 @@ You can customize the keyboard shortcuts you use to open the command palette in 
 
 When you open the command palette, it shows your location at the top left and uses it as the scope for suggestions (for example, the `mashed-avocado` organization).
 
-![Command palette launch](/assets/images/help/command-palette/command-palette-launch.png)
+![Command palette launch](/assets/images/2021/11/help/command-palette/command-palette-launch.png)
 
 {% note %}
 
@@ -49,7 +49,7 @@ When you open the command palette, it shows your location at the top left and us
 
 The default keyboard shortcuts used to open the command palette may conflict with your default OS and browser keyboard shortcuts. You have the option to customize your keyboard shortcuts in the [Accessibility section](https://github.com/settings/accessibility) of your account settings. In the command palette settings, you can customize the keyboard shortcuts for opening the command palette in both search mode and command mode.
 
-![Command palette keyboard shortcut settings](/assets/images/help/command-palette/command-palette-keyboard-shortcut-settings.png)
+![Command palette keyboard shortcut settings](/assets/images/2022/02/help/command-palette/command-palette-keyboard-shortcut-settings.png)
 ## Navigating with the {% data variables.product.prodname_command_palette %}
 
 You can use the command palette to navigate to any page that you have access to on {% data variables.product.product_name %}.
@@ -58,7 +58,7 @@ You can use the command palette to navigate to any page that you have access to 
 
 2. Start typing the path you want to navigate to. The suggestions in the command palette change to match your text.
 
-   ![Command palette navigation current scope](/assets/images/help/command-palette/command-palette-navigation-current-scope.png)
+   ![Command palette navigation current scope](/assets/images/2021/11/help/command-palette/command-palette-navigation-current-scope.png)
 
 {% data reusables.command-palette.change-scope %}
 
@@ -83,7 +83,7 @@ You can use the command palette to search for anything on {% data variables.prod
    - <kbd>@</kbd> Search for users, organizations, and repositories
    - <kbd>/</kbd> Search for files within a repository scope
 
-   ![Command palette search files](/assets/images/help/command-palette/command-palette-search-files.png)
+   ![Command palette search files](/assets/images/2021/11/help/command-palette/command-palette-search-files.png)
 
 4. Begin entering your search terms. The command palette will offer you a range of suggested searches based on your search scope.
 
@@ -106,7 +106,7 @@ For a full list of supported commands, see "[{% data variables.product.prodname_
 
 1. The default keyboard shortcuts to open the command palette in command mode are <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (Windows and Linux) or <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (Mac). If you already have the command palette open, press <kbd>></kbd> to switch to command mode. {% data variables.product.prodname_dotcom %} suggests commands based on your location.
 
-   ![Command palette command mode](/assets/images/help/command-palette/command-palette-command-mode.png)
+   ![Command palette command mode](/assets/images/2021/11/help/command-palette/command-palette-command-mode.png)
 
 {% data reusables.command-palette.change-scope %}
 

@@ -40,6 +40,6 @@ OrganizationがEnterpriseアカウントに所有されている場合、Enterpr
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. オーナーに昇格させる人 (一人または複数人) を選択します。 ![2 人のメンバーを選択した状態のメンバーリスト](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. Team のメンバー一覧の上にあるドロップダウンメニューで [**Change role**] をクリックします。 ![メンバーを削除するオプションのあるドロップダウンメニュー](/assets/images/help/teams/user-bulk-management-options.png)
-6. 新しいロールを選択して、[**Change role**] をクリックします。 ![[Owner] ラジオボタン、[Member] ラジオボタン、[Change role] ボタン](/assets/images/help/teams/select-and-confirm-new-role-bulk.png)
+4. オーナーに昇格させる人 (一人または複数人) を選択します。 ![2 人のメンバーを選択した状態のメンバーリスト](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. Team のメンバー一覧の上にあるドロップダウンメニューで [**Change role**] をクリックします。 ![メンバーを削除するオプションのあるドロップダウンメニュー](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. 新しいロールを選択して、[**Change role**] をクリックします。 ![[Owner] ラジオボタン、[Member] ラジオボタン、[Change role] ボタン](/assets/images/2021/10/help/teams/select-and-confirm-new-role-bulk.png)

@@ -16,8 +16,8 @@ shortTitle: Show an overview
 ---
 {% data reusables.profile.activity-overview-summary %} For more information, see "[Viewing contributions on your profile](/articles/viewing-contributions-on-your-profile)."
 
-![Activity overview section on profile](/assets/images/help/profile/activity-overview-section.png)
+![Activity overview section on profile](/assets/images/2021/10/help/profile/activity-overview-section.png)
 
 {% data reusables.profile.access_profile %}
 2. Above your contributions graph, use the **Contribution settings** drop-down menu, and select or unselect **Activity overview**.
- ![Enable activity overview from contribution settings drop-down menu](/assets/images/help/profile/activity-overview.png)
+ ![Enable activity overview from contribution settings drop-down menu](/assets/images/2021/10/help/profile/activity-overview.png)

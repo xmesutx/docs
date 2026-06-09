@@ -20,7 +20,7 @@ Qual é a relação direta entre o código sugerido e o código que o informou? 
 
 Trata-se de uma simplificação excessiva. Muitas sugestões do Copilot de {% data variables.product.prodname_dotcom %} parecem bastante adaptadas para a base de código em que o usuário está trabalhando. Muitas vezes, ele se parece menos com um papagaio e mais com um corvo que cria ferramentas novas a partir de blocos pequenos<sup id="anchor3">[3](#footnote3)</sup>. Mas não há como negar que o Copilot de {% data variables.product.prodname_dotcom %} tem uma memória impressionante:
 
-![A demonstração de um filme do Copilot](/assets/images/help/copilot/resources_recitation_example_zen.gif)
+![A demonstração de um filme do Copilot](/assets/images/2021/10/help/copilot/resources_recitation_example_zen.gif)
 
 Aqui, eu direcionei intencionalmente<sup id="anchor4">[4](#footnote4)</sup> o Copilit de {% data variables.product.prodname_dotcom %} para recitar um texto bem conhecido que obviamente sabe de cor. Eu também sei alguns textos de cor. Por exemplo, ainda me lembro de alguns poemas que aprendi na escola. No entanto, não importa o tópico , uma vez me senti tentado a fazer sair de uma conversa, falando de tetrâmetro iâmbico e com emoção sobre os narcisos.
 
@@ -48,7 +48,7 @@ Se a sobreposição se estender ao que o usuário já escreveu, isso também con
 
 No exemplo a seguir, o usuário começou a escrever um trecho muito comum. O Copilot de {% data variables.product.prodname_dotcom %} o completa. Embora a conclusão em si seja um pouco curta, junto com o código já existente, ela abre o limite e é mantida.
 
-![Código de exemplo](/assets/images/help/copilot/example_last_straw.png)
+![Código de exemplo](/assets/images/2021/10/help/copilot/example_last_straw.png)
 
 Este procedimento é permissivo o suficiente para deixar muitos exemplos relativamente "enfadonhos", como os dois acima. Mas ainda é eficaz em fazer as análises humanas para os casos interessantes, resolvendo mais de 99% das sugestões do Copilot.
 
@@ -57,9 +57,9 @@ Este procedimento é permissivo o suficiente para deixar muitos exemplos relativ
 Depois da filtragem, restavam 473 sugestões. Mas elas surgiram em formas muito diferentes:
 
 1. Alguns eram, basicamente, apenas repetições de outro caso que passou pela filtragem. Por exemplo, às vezes, o Copilot de {% data variables.product.prodname_dotcom %} faz uma sugestão, o desenvolvedor digita uma linha de comentário e o Copilot de {% data variables.product.prodname_dotcom %} oferece uma sugestão muito semelhante novamente. Retirei estes casos da análise como duplicados.
-2. Algumas eram sequências longas e repetitivas. Como o exemplo a seguir, em que os blocos repetidos do `‘<p>` são, é claro, encontrados em algum lugar no conjunto de treinamento: <br>![Example repetitions](/assets/images/help/copilot/example_repetitions.png)<br> Essas sugestões podem ser úteis (casos de teste, expressões regulares) ou inúteis (como suspeito que seja o caso). Seja como for, eles não se coadunam com a ideia de uma aprendizagem isolada que tive em mente quando iniciei esta investigação.
-3. Alguns eram inventários padrão, como números naturais, números primos do mercado ou marcadores do mercado de ações, ou o alfabeto grego: <br>![Exemplo do alfabeto grego](/assets/images/help/copilot/example_greek.png)
-4. Alguns eram formas comuns, simples, talvez mesmo universais, de fazer coisas com um nível muito baixo natural de liberdade. Por exemplo, a parte central do disposto a seguir me parece ser a forma normal de utilizar o pacote BeautifulSoup para analisar uma lista da Wikipédia. Na verdade, o melhor trecho correspondente encontrado nos dados de treinamento do Copilot de {% data variables.product.prodname_dotcom %} <sup id="anchor5">[5](#footnote5)</sup> usa esse código para analisar um artigo diferente e faz coisas diferentes com os resultados. <br>![Example of Beautiful Soup](/assets/images/help/copilot/example_beautiful_soup.png) <br>Isso também não corresponde à minha ideia de uma cotação. É como se alguém dissesse "Estou tirando o lixo e voltarei em breve" -- isso é uma afirmação de fato, não uma citação, mesmo que essa frase em particular tenha sido pronunciada muitas vezes antes.
+2. Algumas eram sequências longas e repetitivas. Como o exemplo a seguir, em que os blocos repetidos do `‘<p>` são, é claro, encontrados em algum lugar no conjunto de treinamento: <br>![Example repetitions](/assets/images/2021/10/help/copilot/example_repetitions.png)<br> Essas sugestões podem ser úteis (casos de teste, expressões regulares) ou inúteis (como suspeito que seja o caso). Seja como for, eles não se coadunam com a ideia de uma aprendizagem isolada que tive em mente quando iniciei esta investigação.
+3. Alguns eram inventários padrão, como números naturais, números primos do mercado ou marcadores do mercado de ações, ou o alfabeto grego: <br>![Exemplo do alfabeto grego](/assets/images/2021/10/help/copilot/example_greek.png)
+4. Alguns eram formas comuns, simples, talvez mesmo universais, de fazer coisas com um nível muito baixo natural de liberdade. Por exemplo, a parte central do disposto a seguir me parece ser a forma normal de utilizar o pacote BeautifulSoup para analisar uma lista da Wikipédia. Na verdade, o melhor trecho correspondente encontrado nos dados de treinamento do Copilot de {% data variables.product.prodname_dotcom %} <sup id="anchor5">[5](#footnote5)</sup> usa esse código para analisar um artigo diferente e faz coisas diferentes com os resultados. <br>![Example of Beautiful Soup](/assets/images/2021/10/help/copilot/example_beautiful_soup.png) <br>Isso também não corresponde à minha ideia de uma cotação. É como se alguém dissesse "Estou tirando o lixo e voltarei em breve" -- isso é uma afirmação de fato, não uma citação, mesmo que essa frase em particular tenha sido pronunciada muitas vezes antes.
 5. E, além disso, há todos os outros casos. Aqueles que têm pelo menos alguma sobreposição específica em códigos ou comentários. Isso é o que mais me interessa mais e em que vou me concentrar a partir de agora.
 
 Este bucket necessariamente tem alguns casos de borda<sup id="anchor6">[6](#footnote6)</sup>, e sua quilometragem pode variar em como você acha que ele deve ser classificado. Talvez você até discorde de todo o conjunto de buckets.
@@ -68,7 +68,7 @@ Este bucket necessariamente tem alguns casos de borda<sup id="anchor6">[6](#foot
 
 ## Resultados
 
-![Gráfico de visão geral](/assets/images/help/copilot/plot_buckets.png)
+![Gráfico de visão geral](/assets/images/2021/10/help/copilot/plot_buckets.png)
 
 Para a maioria das sugestões do Copilot de {% data variables.product.prodname_dotcom %}, o nosso filtro automático não encontrou nenhuma sobreposição significativa com o código usado para o treinamento. Mas chamou a nossa atenção para 473 casos. Remover o primeiro bucket (casos muito parecidos com outros casos) me deixou com 185 sugestões. Do total, 144 foram organizados em buckets de 2 a 4. Este deixou 41 casos no último bucket, as “receitas”, no sentido do termo que tenho em mente.
 
@@ -86,17 +86,17 @@ Dos 41 casos principais que destacamos durante a etiquetagem manual, nenhum apar
 
 O gráfico a seguir mostra o número de arquivos correspondentes dos resultados no bucket 5 (uma marca vermelha na parte inferior para cada resultado) em comparação com 2 a 4 buckets. Deixei de fora o balde 1, que, na verdade, não passa de uma mistura de duplicações de 2 a 4 casos de bucket e de duplicações de casos de balde 5. A distribuição inferida é exibida como uma linha vermelha; ela atinge entre 100 e 1000 correspondências.
 
-![Gráfico do gráfico de correspondências](/assets/images/help/copilot/plot_copies.png)
+![Gráfico do gráfico de correspondências](/assets/images/2021/10/help/copilot/plot_copies.png)
 
 ### O Copilot de {% data variables.product.prodname_dotcom %} faz citações, principalmente, principalmente em contextos genéricos
 
 Quando o tempo passa, cada arquivo torna-se único. Mas o Copilot de {% data variables.product.prodname_dotcom %} não espera por isso<sup id="anchor8">[8](#footnote8)</sup>: vai oferecer suas soluções, enquanto seu arquivo ainda for extremamente genérico. E na ausência de algo específico para continuar, é muito mais provável que faça citação de outro lugar do que seria caso contrário.
 
-![Gráfico de comprimento do contexto](/assets/images/help/copilot/plot_context.png)
+![Gráfico de comprimento do contexto](/assets/images/2021/10/help/copilot/plot_context.png)
 
 É claro que os desenvolvedores de software gastam a maior parte do seu tempo dentro dos arquivos, onde o contexto é único o suficiente para que o Copilot de {% data variables.product.prodname_dotcom %} ofereça sugestões exclusivas. Em contrapartida, as sugestões no início são um pouco acertadas e falhas, já que o Copilot de {% data variables.product.prodname_dotcom %} não pode saber qual será o programa. Mas, às vezes, especialmente em projetos de brinquedo ou scripts independentes, uma quantidade modesta de contexto pode ser suficiente para arriscar uma estimativa razoável do que o usuário queria fazer. Às vezes, ainda é genérico o suficiente para que o Copilot de {% data variables.product.prodname_dotcom %} pense que uma das soluções que ele conhece de coração é promissora:
 
-![Código de exemplo](/assets/images/help/copilot/example_robot.png)
+![Código de exemplo](/assets/images/2021/10/help/copilot/example_robot.png)
 
 Isto é praticamente tirado diretamente de um trabalho de classe de robótica enviada em diferentes variações<sup id="anchor9">[9](#footnote9)</sup>.
 
@@ -106,7 +106,7 @@ Na sua forma atual, o filtro retornará um bom número de casos sem interesse qu
 
 E, obviamente, nada é sempre infalível: isso também pode ter falhas. Alguns casos são um pouco difíceis de detectar pela ferramenta que estamos criando, mas ainda temos uma fonte óbvia. Para retornar para o Zen de Python:
 
-![Variação Zen](/assets/images/help/copilot/resources_recitation_example_zen_caw.gif)
+![Variação Zen](/assets/images/2021/10/help/copilot/resources_recitation_example_zen_caw.gif)
 
 ## Conclusão e próximos passos
 

@@ -22,5 +22,5 @@ shortTitle: 允许议题删除
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. 在 "Issue deletion"（删除议题）下，选择 **Allow members to delete issues for this organization（允许成员删除此组织的议题）**。 ![允许人们删除议题的复选框](/assets/images/help/settings/issue-deletion.png)
+5. 在 "Issue deletion"（删除议题）下，选择 **Allow members to delete issues for this organization（允许成员删除此组织的议题）**。 ![允许人们删除议题的复选框](/assets/images/2021/10/help/settings/issue-deletion.png)
 6. 单击 **Save（保存）**。

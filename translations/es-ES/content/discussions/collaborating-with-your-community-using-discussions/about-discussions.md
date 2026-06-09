@@ -15,7 +15,7 @@ Con los {% data variables.product.prodname_discussions %}, la comunidad de tu pr
 - Haz preguntas, debate y respóndelas, y marca los debates como respondidos
 - Fomenta un ambiente amigable para los visitantes y contribuyentes para que se debatan las metas, el desarrollo, la administración y los flujos de trabajo
 
-![Pestaña de debates en un repositorio](/assets/images/help/discussions/hero.png)
+![Pestaña de debates en un repositorio](/assets/images/2021/10/help/discussions/hero.png)
 
 No necesitas cerrar un debate de la misma forma en que cierras una propuesta o una solicitud de cambios.
 

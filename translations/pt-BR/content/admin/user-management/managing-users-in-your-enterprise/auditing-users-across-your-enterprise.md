@@ -23,7 +23,7 @@ shortTitle: Auditoria de usuários
 
 O painel de log de auditoria oferece uma exibição visual de dados de auditoria na sua empresa.
 
-![Painel de log de auditoria da instância](/assets/images/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
+![Painel de log de auditoria da instância](/assets/images/2021/10/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}

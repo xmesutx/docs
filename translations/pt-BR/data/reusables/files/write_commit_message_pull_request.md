@@ -1,1 +1,1 @@
-1. Se solicitado, digite uma mensagem de commit ou aceite a mensagem padrão. ![Campo Commit message (Mensagem do commit)](/assets/images/help/pull_requests/merge_box/pullrequest-commitmessage.png)
+1. Se solicitado, digite uma mensagem de commit ou aceite a mensagem padrão. ![Campo Commit message (Mensagem do commit)](/assets/images/2021/10/help/pull_requests/merge_box/pullrequest-commitmessage.png)

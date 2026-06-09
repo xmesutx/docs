@@ -9,4 +9,4 @@
 
   {% endnote %}
   {% endif %}
-  ![Habilita, desabilita ou limita ações para esta conta corporativa](/assets/images/help/organizations/enterprise-actions-policy.png)
+  ![Habilita, desabilita ou limita ações para esta conta corporativa](/assets/images/2021/10/help/organizations/enterprise-actions-policy.png)

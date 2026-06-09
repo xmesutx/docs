@@ -45,7 +45,7 @@ For more information, see "[About {% data variables.large_files.product_name_lon
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
 4. Under "{% data variables.large_files.product_name_short %} access", use the drop-down menu, and click **Enabled** or **Disabled**.
-![Git LFS Access](/assets/images/enterprise/site-admin-settings/git-lfs-admin-center.png)
+![Git LFS Access](/assets/images/2021/10/enterprise/site-admin-settings/git-lfs-admin-center.png)
 
 ## Configuring {% data variables.large_files.product_name_long %} for an individual repository
 

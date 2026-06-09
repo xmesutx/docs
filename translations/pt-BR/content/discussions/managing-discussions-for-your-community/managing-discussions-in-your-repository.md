@@ -36,8 +36,8 @@ Você também pode mover a discussão para uma categoria diferente.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. Na barra lateral direita, à direita da "Categoria", clique em {% octicon "gear" aria-label="The gear icon" %}. !["Categoria" com ícone de engrenagem](/assets/images/help/discussions/category-in-sidebar.png)
-1. Clique em uma categoria. ![Menu suspenso "Alterar categoria"](/assets/images/help/discussions/change-category-drop-down.png)
+1. Na barra lateral direita, à direita da "Categoria", clique em {% octicon "gear" aria-label="The gear icon" %}. !["Categoria" com ícone de engrenagem](/assets/images/2021/10/help/discussions/category-in-sidebar.png)
+1. Clique em uma categoria. ![Menu suspenso "Alterar categoria"](/assets/images/2021/10/help/discussions/change-category-drop-down.png)
 
 ## Fixar uma discussão
 
@@ -46,9 +46,9 @@ Você pode fixar até quatro discussões importantes acima da lista de discussõ
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. Na barra lateral direita, clique em {% octicon "pin" aria-label="The pin icon" %} **Fixar discussão**. !["Fixar discussão" na barra lateral direita para discussão](/assets/images/help/discussions/click-pin-discussion.png)
-1. Opcionalmente, personalize a aparência da discussão fixada. ![Opções de personalização para uma discussão fixada](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. Clique em **Fixar discussão**. ![Botão "Fixar discussão" nas opções de personalização para discussão fixada](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. Na barra lateral direita, clique em {% octicon "pin" aria-label="The pin icon" %} **Fixar discussão**. !["Fixar discussão" na barra lateral direita para discussão](/assets/images/2021/10/help/discussions/click-pin-discussion.png)
+1. Opcionalmente, personalize a aparência da discussão fixada. ![Opções de personalização para uma discussão fixada](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. Clique em **Fixar discussão**. ![Botão "Fixar discussão" nas opções de personalização para discussão fixada](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## Editar uma discussão fixada
 
@@ -57,17 +57,17 @@ Editar uma discussão fixada não irá alterar a categoria da discussão. Para o
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. Na barra lateral direita, clique em {% octicon "pencil" aria-label="The pencil icon" %} **Editar discussão fixada**. !["Editar discussão fixada" na barra lateral direita para discussão](/assets/images/help/discussions/click-edit-pinned-discussion.png)
-1. Personalize a aparência da discussão fixada. ![Opções de personalização para uma discussão fixada](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. Clique em **Fixar discussão**. ![Botão "Fixar discussão" nas opções de personalização para discussão fixada](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. Na barra lateral direita, clique em {% octicon "pencil" aria-label="The pencil icon" %} **Editar discussão fixada**. !["Editar discussão fixada" na barra lateral direita para discussão](/assets/images/2021/10/help/discussions/click-edit-pinned-discussion.png)
+1. Personalize a aparência da discussão fixada. ![Opções de personalização para uma discussão fixada](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. Clique em **Fixar discussão**. ![Botão "Fixar discussão" nas opções de personalização para discussão fixada](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## Desafixar uma discussão
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. Na barra lateral direita, clique em {% octicon "pin" aria-label="The pin icon" %} **Desafixar discussão**. !["Desafixar discussão" na barra lateral direita para discussão](/assets/images/help/discussions/click-unpin-discussion.png)
-1. Leia o aviso e clique em **desafixar discussão**. ![Botão "Desafixar discussão" abaixo do aviso em modal](/assets/images/help/discussions/click-unpin-discussion-button.png)
+1. Na barra lateral direita, clique em {% octicon "pin" aria-label="The pin icon" %} **Desafixar discussão**. !["Desafixar discussão" na barra lateral direita para discussão](/assets/images/2021/10/help/discussions/click-unpin-discussion.png)
+1. Leia o aviso e clique em **desafixar discussão**. ![Botão "Desafixar discussão" abaixo do aviso em modal](/assets/images/2021/10/help/discussions/click-unpin-discussion-button.png)
 
 ## Transferir uma discussão
 
@@ -76,17 +76,17 @@ Para transferir uma discussão, você precisa ter permissão de criar discussõe
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. Na barra lateral direita, clique em {% octicon "arrow-right" aria-label="The right arrow icon" %} **Transferir discussão**. !["Transferir discussão" na barra lateral direita para discussão](/assets/images/help/discussions/click-transfer-discussion.png)
-1. Selecione a lista suspensa **Escolher um repositório** e clique no repositório para o qual deseja transferir a discussão. ![Menu suspenso "Selecionar um repositório" Campo de pesquisar "Encontrar um repositório" e repositório na lista](/assets/images/help/discussions/use-choose-a-repository-drop-down.png)
-1. Clique em **Transferir discussão**. ![Botão "Transferir discussão"](/assets/images/help/discussions/click-transfer-discussion-button.png)
+1. Na barra lateral direita, clique em {% octicon "arrow-right" aria-label="The right arrow icon" %} **Transferir discussão**. !["Transferir discussão" na barra lateral direita para discussão](/assets/images/2021/10/help/discussions/click-transfer-discussion.png)
+1. Selecione a lista suspensa **Escolher um repositório** e clique no repositório para o qual deseja transferir a discussão. ![Menu suspenso "Selecionar um repositório" Campo de pesquisar "Encontrar um repositório" e repositório na lista](/assets/images/2021/10/help/discussions/use-choose-a-repository-drop-down.png)
+1. Clique em **Transferir discussão**. ![Botão "Transferir discussão"](/assets/images/2021/10/help/discussions/click-transfer-discussion-button.png)
 
 ## Excluir uma discussão
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. Na barra lateral direita, clique em {% octicon "trash" aria-label="The trash arrow icon" %} **Excluir discussão**. !["Excluir discussão" na barra lateral direita para discussão](/assets/images/help/discussions/click-delete-discussion.png)
-1. Leia o aviso e clique **Excluir esta discussão**. ![Botão "Excluir esta discussão" abaixo do aviso em modal](/assets/images/help/discussions/click-delete-this-discussion-button.png)
+1. Na barra lateral direita, clique em {% octicon "trash" aria-label="The trash arrow icon" %} **Excluir discussão**. !["Excluir discussão" na barra lateral direita para discussão](/assets/images/2021/10/help/discussions/click-delete-discussion.png)
+1. Leia o aviso e clique **Excluir esta discussão**. ![Botão "Excluir esta discussão" abaixo do aviso em modal](/assets/images/2021/10/help/discussions/click-delete-this-discussion-button.png)
 
 ## Converter problemas com base em etiquetas
 

@@ -8,7 +8,7 @@ Por ejemplo, un flujo de trabajo de integración continua para un proyecto Java 
 
 Ahora, cuando revises una solicitud de extracción, podrás ver la ejecución del flujo de trabajo y descargar el artefacto que se produjo.
 
-![Menú desplegable Download artifact (Descargar artefacto)](/assets/images/help/repository/artifact-drop-down-updated.png)
+![Menú desplegable Download artifact (Descargar artefacto)](/assets/images/2021/10/help/repository/artifact-drop-down-updated.png)
 
 Esto te permitirá ejecutar el código en la solicitud de extracción en tu máquina, lo que puede ayudar con la depuración o la prueba de la solicitud de extracción.
 

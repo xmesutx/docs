@@ -40,7 +40,7 @@ To use the GraphiQL app, download and install it from https://github.com/skevy/g
 1. Launch GraphiQL.
 1. In the upper-right corner of GraphiQL, click **Edit HTTP Headers**.
 1. In the **Key** field, enter `Authorization`. In the **Value** field, enter `Bearer <token>`, where `<token>` is your generated OAuth token.
-![graphiql headers](/assets/images/developer/graphiql-headers.png)
+![graphiql headers](/assets/images/2021/10/developer/graphiql-headers.png)
 1. Click the checkmark to the right of the token to save it.
 1. To return to the editor, click outside of the **Edit HTTP Headers** modal.
 1. In the **GraphQL Endpoint** field, enter `{% data variables.product.graphql_url_pre %}`.

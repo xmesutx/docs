@@ -43,7 +43,7 @@ En tu página de perfil, determinadas acciones cuentan como contribuciones:
 
 Esta sección muestra tus repositorios con la mayor cantidad de observadores. {% ifversion fpt or ghes or ghec %}Una vez que [anclas los repositorios a tu perfil](/articles/pinning-repositories-to-your-profile), esta sección cambiará a "Repositorios anclados".{% endif %}
 
-![Repositorios populares](/assets/images/help/profile/profile_popular_repositories.png)
+![Repositorios populares](/assets/images/2021/10/help/profile/profile_popular_repositories.png)
 
 {% ifversion fpt or ghes or ghec %}
 
@@ -51,7 +51,7 @@ Esta sección muestra tus repositorios con la mayor cantidad de observadores. {%
 
 Esta sección muestra hasta seis repositorios públicos y puede incluir tus repositorios y los repositorios a los que has contribuidos. Para ver fácilmente detalles importantes sobre los repositorios que has seleccionado para mostrar, cada repositorio en esta sección incluye un resumen del trabajo que se está realizando, la cantidad de [estrellas](/articles/saving-repositories-with-stars/) que el repositorio ha recibido y el lenguaje de programación principal utilizado en el repositorio. Para obtener más información, consulta "[Anclar repositorios en tu perfil](/articles/pinning-repositories-to-your-profile)."
 
-![Repositorios anclados](/assets/images/help/profile/profile_pinned_repositories.png)
+![Repositorios anclados](/assets/images/2021/10/help/profile/profile_pinned_repositories.png)
 
 {% endif %}
 
@@ -70,7 +70,7 @@ Tu calendario de contribuciones muestra tu actividad de contribuciones.
 
 {% endnote %}
 
-![Tu gráfico de contribuciones](/assets/images/help/profile/contributions_graph.png)
+![Tu gráfico de contribuciones](/assets/images/2021/10/help/profile/contributions_graph.png)
 
 ### Cómo se calculan los momentos de los eventos de las contribuciones
 
@@ -82,7 +82,7 @@ Las marcas horarias se calculan de forma diferente para las confirmaciones y las
 
 {% data reusables.profile.activity-overview-summary %} Para obtener más información, consulta "[Mostrar un resumen de tu actividad en tu perfil](/articles/showing-an-overview-of-your-activity-on-your-profile)."
 
-![Sección de resumen de actividad en el perfil](/assets/images/help/profile/activity-overview-section.png)
+![Sección de resumen de actividad en el perfil](/assets/images/2021/10/help/profile/activity-overview-section.png)
 
 Las organizaciones que se muestran en el resumen de la actividad se priorizan de acuerdo con qué tan activo estés en la organización. Si mencionas una organización en tu biografía de perfil y eres miembro de una organización, entonces esa organización se prioriza en el resumen de la actividad. Para obtener más información, consulta la sección “[Mencionar personas y equipos](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams)” o "[Agregar una biografía en tu perfil](/articles/adding-a-bio-to-your-profile/)".
 
@@ -90,7 +90,7 @@ Las organizaciones que se muestran en el resumen de la actividad se priorizan de
 
 La sección de actividad de contribuciones incluye una cronología detallada de tu trabajo, incluyendo confirmaciones que has realizado o de las que eres coautor, solicitudes de extracción que propusiste y propuestas que abriste. Puedes ver tus contribuciones en el tiempo al hacer clic en **Show more activity (Mostrar más actividad)** en la parte inferior de tu actividad de contribuciones o al hacer clic en el año que te interesa ver hacia la derecha de la página. Momentos importantes, como la fecha en que te uniste a una organización, propusiste tu primera solicitud de extracción o abriste una propuesta de alto perfil, se resaltan en tu actividad de contribuciones. Si no puedes ver determinados eventos en tu cronología, asegúrate de que todavía tengas acceso a la organización o al repositorio donde ocurrió el evento.
 
-![Filtro de tiempo de actividad de contribuciones](/assets/images/help/profile/contributions_activity_time_filter.png)
+![Filtro de tiempo de actividad de contribuciones](/assets/images/2021/10/help/profile/contributions_activity_time_filter.png)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 

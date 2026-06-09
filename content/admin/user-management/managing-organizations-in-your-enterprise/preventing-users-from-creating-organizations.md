@@ -24,4 +24,4 @@ shortTitle: Prevent organization creation
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
 4. Under "Users can create organizations", use the drop-down menu and click **Enabled** or **Disabled**.
-![Users can create organizations drop-down](/assets/images/enterprise/site-admin-settings/users-create-orgs-dropdown.png)
+![Users can create organizations drop-down](/assets/images/2021/10/enterprise/site-admin-settings/users-create-orgs-dropdown.png)

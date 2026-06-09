@@ -20,7 +20,7 @@ sections:
 
           Além disso, a visão geral de segurança lista todos os alertas de {% data variables.product.prodname_secret_scanning %} no nível da organização. As visualizações similares para os alertas de {% data variables.product.prodname_dependabot %} e {% data variables.product.prodname_code_scanning %} serão implementadas em versões futuras. Para obter mais informações, consulte "[Sobre a visão geral de segurança](/code-security/security-overview/about-the-security-overview).
 
-          ![Screenshot of security overview](/assets/images/enterprise/3.2/release-notes/security-overview-UI.png)
+          ![Screenshot of security overview](/assets/images/2021/10/enterprise/3.2/release-notes/security-overview-UI.png)
     - 
       heading: Revisão de dependências (beta)
       notes:
@@ -32,7 +32,7 @@ sections:
         - |
           As ambientes, regras de proteção do ambiente e segredos de ambiente agora estão geralmente disponíveis para {% data variables.product.prodname_actions %} em {% data variables.product.product_name %}. Para obter mais informações, consulte "[Environments](/actions/reference/environments)."
 
-          ![Regras de proteção do ambiente](/assets/images/enterprise/3.2/release-notes/actions-environments.png)
+          ![Regras de proteção do ambiente](/assets/images/2021/10/enterprise/3.2/release-notes/actions-environments.png)
     - 
       heading: Autenticação SSH com chaves de segurança
       notes:
@@ -149,7 +149,7 @@ sections:
 
           For more information see "[Defining which alert severity levels cause pull request check failure](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning#defining-the-severities-causing-pull-request-check-failure)."
 
-          ![List of code scanning alerts with security levels](/assets/images/enterprise/3.2/release-notes/code-scanning-alerts.png)
+          ![List of code scanning alerts with security levels](/assets/images/2021/10/enterprise/3.2/release-notes/code-scanning-alerts.png)
         - |
           Improvements to the branch filter for {% data variables.product.prodname_code_scanning %} alerts make it clearer which {% data variables.product.prodname_code_scanning %} alerts are being displayed on the alerts page. By default, {% data variables.product.prodname_code_scanning %} alerts are filtered to show alerts for the default branch of the repository only. You can use the branch filter to display the alerts on any of the non-default branches. Any branch filter that has been applied is shown in the search bar.
 

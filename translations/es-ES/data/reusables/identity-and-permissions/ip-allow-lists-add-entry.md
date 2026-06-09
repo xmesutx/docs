@@ -1,1 +1,1 @@
-1. Haz clic en {% octicon "plus" aria-label="The plus icon" %} **Add** (Agregar). ![Botón Add allowed ip address (Agregar dirección ip permitida)](/assets/images/help/security/new-allowlist-entry-button.png)
+1. Haz clic en {% octicon "plus" aria-label="The plus icon" %} **Add** (Agregar). ![Botón Add allowed ip address (Agregar dirección ip permitida)](/assets/images/2021/10/help/security/new-allowlist-entry-button.png)

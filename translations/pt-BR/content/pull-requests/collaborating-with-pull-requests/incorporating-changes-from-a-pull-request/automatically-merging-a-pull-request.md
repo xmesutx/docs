@@ -35,10 +35,10 @@ Pessoas com permissões de gravação em um repositório podem habilitar o merge
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-pr %}
 1. Na lista "Pull Requests", clique no pull request para o qual você deseja fazer o merge automático.
-1. Opcionalmente, para escolher um método de merge, selecione o menu suspenso **Habilitar merge automático** e, em seguida, clique em um método de merge. Para obter mais informações, consulte "[Sobre merges da pull request](/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges)". ![Menu suspenso "Habilitar merge automático"](/assets/images/help/pull_requests/enable-auto-merge-drop-down.png)
-1. Clique **Habilitar merge automático**. ![Botão para habilitar merge automático](/assets/images/help/pull_requests/enable-auto-merge-button.png)
+1. Opcionalmente, para escolher um método de merge, selecione o menu suspenso **Habilitar merge automático** e, em seguida, clique em um método de merge. Para obter mais informações, consulte "[Sobre merges da pull request](/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges)". ![Menu suspenso "Habilitar merge automático"](/assets/images/2021/10/help/pull_requests/enable-auto-merge-drop-down.png)
+1. Clique **Habilitar merge automático**. ![Botão para habilitar merge automático](/assets/images/2021/10/help/pull_requests/enable-auto-merge-button.png)
   {% ifversion fpt %}
-1. Se você escolheu os métodos de merge ou combinação por squash, digite uma mensagem de commit e a descrição e escolha o endereço de e-mail que você deseja criar o commimt de merge.![Campos para inserir mensagem de commit e descrição e escolher o e-mail do autor do commit](/assets/images/help/pull_requests/pull-request-information-fields.png)
+1. Se você escolheu os métodos de merge ou combinação por squash, digite uma mensagem de commit e a descrição e escolha o endereço de e-mail que você deseja criar o commimt de merge.![Campos para inserir mensagem de commit e descrição e escolher o e-mail do autor do commit](/assets/images/2021/10/help/pull_requests/pull-request-information-fields.png)
   {% note %}
 
   **Observação:** O menu suspenso de e-mail não está disponível se você tiver a privacidade do e-mail habilitada ou se você tiver apenas um e-mail verificado e visível associado à sua conta do {% data variables.product.company_short %}.
@@ -46,7 +46,7 @@ Pessoas com permissões de gravação em um repositório podem habilitar o merge
   {% endnote %}
   {% endif %}
   {% ifversion ghes or ghae or ghec %}
-1. Se você escolheu os métodos de merge ou combinação por squash e merge, digite uma mensagem de commit e descrição. ![Campos para inserir a mensagem e a descrição do commit](/assets/images/help/pull_requests/pull-request-information-fields-enterprise.png)
+1. Se você escolheu os métodos de merge ou combinação por squash e merge, digite uma mensagem de commit e descrição. ![Campos para inserir a mensagem e a descrição do commit](/assets/images/2022/02/help/pull_requests/pull-request-information-fields-enterprise.png)
   {% endif %}
 1. Clique em **Confirmar merge automático**.
 
@@ -57,4 +57,4 @@ As pessoas com permissões de gravação em um repositório e autores de pull re
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-pr %}
 1. Na lista "Pull Requests", clique no pull request para o qual você deseja desabilitar o merge automático.
-1. Na caixa de merge, clique em **Desabilitar o merge automático**. ![Botão para desabilitar o merge automático](/assets/images/help/pull_requests/disable-auto-merge-button.png)
+1. Na caixa de merge, clique em **Desabilitar o merge automático**. ![Botão para desabilitar o merge automático](/assets/images/2021/10/help/pull_requests/disable-auto-merge-button.png)

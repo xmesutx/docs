@@ -24,9 +24,9 @@ shortTitle: 编辑权限
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-4. 选择要更改其权限的 GitHub 应用程序。 ![应用程序选择](/assets/images/github-apps/github_apps_select-app.png)
-5. 在左侧栏中，单击 **Permissions & webhooks（权限和 web 挂钩）**。 ![权限和 web 挂钩](/assets/images/github-apps/github_apps_permissions_and_webhooks.png)
-6. 修改要更改的权限。 对于每种类型的权限，从下拉列表中选择“Read-only（只读）”、“Read & write（读写）”或“No access（无访问权限）”。 ![GitHub 应用程序的权限选择](/assets/images/github-apps/github_apps_permissions_post2dot13.png)
-7. 在“Subscribe to events（订阅事件）”中，选择应用程序要订阅的任何事件。 ![GitHub 应用程序订阅事件的权限选择](/assets/images/github-apps/github_apps_permissions_subscribe_to_events.png)
-8. （可选）在“Add a note to users（向用户添加注释）”中，添加注释，告诉用户为什么要更改 GitHub 应用程序请求的权限。 ![用于向用户添加注释以解释 GitHub 应用程序权限更改原因的输入框](/assets/images/github-apps/github_apps_permissions_note_to_users.png)
-9. 单击 **Save changes（保存更改）**。 ![保存权限更改的按钮](/assets/images/github-apps/github_apps_save_changes.png)
+4. 选择要更改其权限的 GitHub 应用程序。 ![应用程序选择](/assets/images/2021/10/github-apps/github_apps_select-app.png)
+5. 在左侧栏中，单击 **Permissions & webhooks（权限和 web 挂钩）**。 ![权限和 web 挂钩](/assets/images/2021/10/github-apps/github_apps_permissions_and_webhooks.png)
+6. 修改要更改的权限。 对于每种类型的权限，从下拉列表中选择“Read-only（只读）”、“Read & write（读写）”或“No access（无访问权限）”。 ![GitHub 应用程序的权限选择](/assets/images/2021/10/github-apps/github_apps_permissions_post2dot13.png)
+7. 在“Subscribe to events（订阅事件）”中，选择应用程序要订阅的任何事件。 ![GitHub 应用程序订阅事件的权限选择](/assets/images/2021/10/github-apps/github_apps_permissions_subscribe_to_events.png)
+8. （可选）在“Add a note to users（向用户添加注释）”中，添加注释，告诉用户为什么要更改 GitHub 应用程序请求的权限。 ![用于向用户添加注释以解释 GitHub 应用程序权限更改原因的输入框](/assets/images/2021/10/github-apps/github_apps_permissions_note_to_users.png)
+9. 单击 **Save changes（保存更改）**。 ![保存权限更改的按钮](/assets/images/2021/10/github-apps/github_apps_save_changes.png)

@@ -18,8 +18,8 @@ versions:
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
-1. Desde la lista de ejecuciones de flujo de trabajo, da clic en el nombre de la ejecución en estado de `queued` o `in progress` que quieras cancelar. ![Nombre de la ejecución de flujo de trabajo](/assets/images/help/repository/in-progress-run.png)
-1. En la esquina superior derecha del flujo de trabajo, da clic en **Cancelar flujo de trabajo**. ![Botón de cancelar el conjunto de verificaciones](/assets/images/help/repository/cancel-check-suite-updated.png)
+1. Desde la lista de ejecuciones de flujo de trabajo, da clic en el nombre de la ejecución en estado de `queued` o `in progress` que quieras cancelar. ![Nombre de la ejecución de flujo de trabajo](/assets/images/2021/10/help/repository/in-progress-run.png)
+1. En la esquina superior derecha del flujo de trabajo, da clic en **Cancelar flujo de trabajo**. ![Botón de cancelar el conjunto de verificaciones](/assets/images/2021/10/help/repository/cancel-check-suite-updated.png)
 
 ## Pasos que toma {% data variables.product.prodname_dotcom %} para cancelar una ejecución de flujo de trabajo
 

@@ -51,7 +51,7 @@ Para ver as pessoas que foram removidas automaticamente da organização por mot
 {% data reusables.audit_log.octicon_icon %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.audit_log.audit_log_sidebar_for_site_admins %}
-4. Faça a consulta da pesquisa usando `reason:two_factor_requirement_non_compliance`. ![Evento de log de auditoria de ferramentas de equipe mostrando usuário removido por motivo de não conformidade com 2FA](/assets/images/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) Para limitar sua pesquisa por:
+4. Faça a consulta da pesquisa usando `reason:two_factor_requirement_non_compliance`. ![Evento de log de auditoria de ferramentas de equipe mostrando usuário removido por motivo de não conformidade com 2FA](/assets/images/2021/10/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) Para limitar sua pesquisa por:
     - Integrantes da organização removidos, insira `action:org.remove_member AND reason:two_factor_requirement_non_compliance`
     - Colaboradores externos removidos, insira `action:org.remove_outside_collaborator AND reason:two_factor_requirement_non_compliance`
 

@@ -25,9 +25,9 @@ shortTitle: Manage access project boards
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
 {% data reusables.project-management.collaborator-option %}
-5. [Search by username, full name or email address] で、コラボレーターの名前、ユーザ名、または {% data variables.product.prodname_dotcom %} メールを入力します。 ![Octocat のユーザ名が検索フィールドに入力されているコラボレーターセクション](/assets/images/help/projects/org-project-collaborators-find-name.png)
+5. [Search by username, full name or email address] で、コラボレーターの名前、ユーザ名、または {% data variables.product.prodname_dotcom %} メールを入力します。 ![Octocat のユーザ名が検索フィールドに入力されているコラボレーターセクション](/assets/images/2021/10/help/projects/org-project-collaborators-find-name.png)
 {% data reusables.project-management.add-collaborator %}
-7. 新しいコラボレーターは、デフォルトで読み取り権限を持ちます。 オプションで、新しいコラボレータの名前の隣にあるドロップダウン メニューを使って、権限レベルを変更することもできます。 ![[Collaborators] セクションで [Permissions] ドロップダウン メニューを選択](/assets/images/help/projects/user-project-collaborators-edit-permissions.png)
+7. 新しいコラボレーターは、デフォルトで読み取り権限を持ちます。 オプションで、新しいコラボレータの名前の隣にあるドロップダウン メニューを使って、権限レベルを変更することもできます。 ![[Collaborators] セクションで [Permissions] ドロップダウン メニューを選択](/assets/images/2021/10/help/projects/user-project-collaborators-edit-permissions.png)
 
 ## ユーザ所有のプロジェクトボードからコラボレーターを削除する
 

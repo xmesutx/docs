@@ -21,7 +21,7 @@ Pode usar uma estrutura de teste, executar um comando personalizado, escrever te
 
 Você pode ter uma visão geral dos alunos que estão passando testes de avaliação automática acessando a atividade em {% data variables.product.prodname_classroom %}. Uma marca de verificação verde significa que todos os testes estão passando para o aluno, e um X vermelho significa que alguns ou todos os testes estão falhando para o aluno. Se você ganhou pontos para um ou mais testes, uma bolha irá mostrar a pontuação para os testes da pontuação máxima possível para a atividade.
 
-![Visão geral de uma atividade com resultados de avaliação automática](/assets/images/help/classroom/assignment-individual-hero.png)
+![Visão geral de uma atividade com resultados de avaliação automática](/assets/images/2021/10/help/classroom/assignment-individual-hero.png)
 
 ## Métodos de avaliação
 
@@ -65,12 +65,12 @@ Você pode adicionar, editar ou excluir testes de avaliação automática para u
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.assignments-click-pencil %}
-1. Na barra lateral esquerda, clique em **Avaliações e feedback**. !["Avaliações e feedback" à esquerda dos fundamentos da aitivdade](/assets/images/help/classroom/assignments-click-grading-and-feedback.png)
+1. Na barra lateral esquerda, clique em **Avaliações e feedback**. !["Avaliações e feedback" à esquerda dos fundamentos da aitivdade](/assets/images/2021/10/help/classroom/assignments-click-grading-and-feedback.png)
 1. Adicionar, editar ou excluir um teste de avaliação automática.
-    - Para adicionar um teste, em "Adicionar testes de avaliação automática", selecione o menu suspenso **Adicionar teste** e, em seguida, clique no método de avaliação que você deseja usar. ![Using the "Add test" drop-down menu to click a grading method](/assets/images/help/classroom/autograding-click-grading-method.png) Configure o teste e, em seguida, clique em **Salvar caso de teste**. ![Botão "Salvar caso de teste" para um teste de avaliação automática](/assets/images/help/classroom/assignments-click-save-test-case-button.png)
-    - Para editar um teste, à direita do nome do teste, clique em {% octicon "pencil" aria-label="The pencil icon" %}. ![Pencil icon for editing an autograding test](/assets/images/help/classroom/autograding-click-pencil.png) Configure o teste e, em seguida, clique em **Salvar caso de teste**. ![Botão "Salvar caso de teste" para um teste de avaliação automática](/assets/images/help/classroom/assignments-click-save-test-case-button.png)
-    - Para excluir um teste, à direita do nome do teste, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Ícone da lixeira para excluir um teste de avaliação automática](/assets/images/help/classroom/autograding-click-trash.png)
-1. Na parte inferior da página, clique em **Atualizar atividade**. ![Botão "Atualizar a atividade" na parte inferior da página](/assets/images/help/classroom/assignments-click-update-assignment.png)
+    - Para adicionar um teste, em "Adicionar testes de avaliação automática", selecione o menu suspenso **Adicionar teste** e, em seguida, clique no método de avaliação que você deseja usar. ![Using the "Add test" drop-down menu to click a grading method](/assets/images/2021/10/help/classroom/autograding-click-grading-method.png) Configure o teste e, em seguida, clique em **Salvar caso de teste**. ![Botão "Salvar caso de teste" para um teste de avaliação automática](/assets/images/2021/10/help/classroom/assignments-click-save-test-case-button.png)
+    - Para editar um teste, à direita do nome do teste, clique em {% octicon "pencil" aria-label="The pencil icon" %}. ![Pencil icon for editing an autograding test](/assets/images/2021/10/help/classroom/autograding-click-pencil.png) Configure o teste e, em seguida, clique em **Salvar caso de teste**. ![Botão "Salvar caso de teste" para um teste de avaliação automática](/assets/images/2021/10/help/classroom/assignments-click-save-test-case-button.png)
+    - Para excluir um teste, à direita do nome do teste, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Ícone da lixeira para excluir um teste de avaliação automática](/assets/images/2021/10/help/classroom/autograding-click-trash.png)
+1. Na parte inferior da página, clique em **Atualizar atividade**. ![Botão "Atualizar a atividade" na parte inferior da página](/assets/images/2021/10/help/classroom/assignments-click-update-assignment.png)
 
 ## Visualizar e fazer o download de resultados de testes de autoavaliação
 
@@ -78,13 +78,13 @@ Você pode adicionar, editar ou excluir testes de avaliação automática para u
 
 Você também pode fazer o download do CSV da pontuação da autoavaliação dos seus alunos por meio do botão "Download". Isso irá gerar e fazer o download de um CSV que contém um link para o repositório do aluno, seu gerenciador de {% data variables.product.prodname_dotcom %}, identificador da lista de participantes, registro de hora de envio e pontuação de da autoavaliação.
 
-![O botão "Download" selecionado que mostra "Fazer o download de notas destacadas" e uma opção adicional para "Fazer o download dos repositórios"](/assets/images/help/classroom/download-grades.png)
+![O botão "Download" selecionado que mostra "Fazer o download de notas destacadas" e uma opção adicional para "Fazer o download dos repositórios"](/assets/images/2021/10/help/classroom/download-grades.png)
 
 ### Ver registros individuais
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-assignment-in-list %}
-1. À direita de um envio, clique em **Visualizar teste**. ![Botão "Visualizar teste" para envio de uma atividade](/assets/images/help/classroom/assignments-click-view-test.png)
+1. À direita de um envio, clique em **Visualizar teste**. ![Botão "Visualizar teste" para envio de uma atividade](/assets/images/2021/10/help/classroom/assignments-click-view-test.png)
 1. Revise a saída de teste. Para obter mais informações, consulte "[Usar registros de execução do fluxo de trabalho](/actions/managing-workflow-runs/using-workflow-run-logs)".
 
 ## Leia mais

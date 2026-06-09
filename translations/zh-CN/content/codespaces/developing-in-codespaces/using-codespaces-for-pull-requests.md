@@ -27,7 +27,7 @@ topics:
 
 2. 在拉取请求列表中，单击要在 {% data variables.product.prodname_codespaces %} 中打开的拉取请求。
 3. 在屏幕右侧，单击 **{% octicon "code" aria-label="The code icon" %} 代码**。
-4. 从 {% data variables.product.prodname_codespaces %} 选项卡中，单击 **New codespace（新建代码空间）**。 ![用于在代码空间中打开 PR 的选项](/assets/images/help/codespaces/open-with-codespaces-pr.png)
+4. 从 {% data variables.product.prodname_codespaces %} 选项卡中，单击 **New codespace（新建代码空间）**。 ![用于在代码空间中打开 PR 的选项](/assets/images/2021/10/help/codespaces/open-with-codespaces-pr.png)
 
 ## 在 {% data variables.product.prodname_codespaces %} 中审阅拉取请求
 
@@ -39,4 +39,4 @@ topics:
 
 收到有关拉取请求的反馈后，您可以[在代码空间中将其打开](#opening-a-pull-request-in-codespaces)，以查看[审阅注释](#reviewing-a-pull-request-in-codespaces)。 从那里，您可以回复评论、添加回复或关闭评论。
 
-  ![用于在代码空间中打开 PR 的选项](/assets/images/help/codespaces/incorporating-codespaces.png)
+  ![用于在代码空间中打开 PR 的选项](/assets/images/2021/10/help/codespaces/incorporating-codespaces.png)

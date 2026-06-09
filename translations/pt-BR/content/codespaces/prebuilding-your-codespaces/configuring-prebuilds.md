@@ -34,11 +34,11 @@ Antes de configurar as pré-compilações para seu projeto, os pontos a seguir d
 1. Na seção "Código & automação" da barra lateral, clique em **{% octicon "codespaces" aria-label="The Codespaces icon" %} {% data variables.product.prodname_codespaces %}**.
 1. Em "Configuração de pré-compilação", clique em **Configurar pré-compilação**.
 
-   ![O botão "Configurar pré-compilações"](/assets/images/help/codespaces/prebuilds-set-up.png)
+   ![O botão "Configurar pré-compilações"](/assets/images/2022/02/help/codespaces/prebuilds-set-up.png)
 
 1. Escolha o branch para o qual você deseja configurar uma pré-compilação.
 
-   ![Menu suspenso Branch](/assets/images/help/codespaces/prebuilds-choose-branch.png)
+   ![Menu suspenso Branch](/assets/images/2022/02/help/codespaces/prebuilds-choose-branch.png)
 
    {% note %}
 
@@ -48,7 +48,7 @@ Antes de configurar as pré-compilações para seu projeto, os pontos a seguir d
 
 1. Escolha as regiões nas quais você deseja configurar uma pré-construção. Os desenvolvedores devem estar localizados em uma região selecionada para poderem criar codespaces a partir de uma pré-compilação. Como alternativa, selecione **Todas as regiões**.
 
-   ![Opções de seleção de região](/assets/images/help/codespaces/prebuilds-regions.png)
+   ![Opções de seleção de região](/assets/images/2022/02/help/codespaces/prebuilds-regions.png)
 
    {% note %}
 

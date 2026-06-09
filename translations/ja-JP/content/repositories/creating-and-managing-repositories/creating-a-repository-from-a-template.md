@@ -41,10 +41,10 @@ shortTitle: Create from a template
 ## テンプレートからリポジトリを作成する
 
 {% data reusables.repositories.navigate-to-repo %}
-2. ファイルの一覧の上にある [**Use this template**] をクリックします。 ![[Use this template] ボタン](/assets/images/help/repository/use-this-template-button.png)
+2. ファイルの一覧の上にある [**Use this template**] をクリックします。 ![[Use this template] ボタン](/assets/images/2021/10/help/repository/use-this-template-button.png)
 {% data reusables.repositories.owner-drop-down %}
 {% data reusables.repositories.repo-name %}
 {% data reusables.repositories.choose-repo-visibility %}{% ifversion fpt or ghae or ghes or ghec %}
-6. 必要に応じて、デフォルトのブランチだけでなく、テンプレートのすべてのブランチのディレクトリ構造とファイルを含めるには、[**Include all branches**] を選択します。 ![Include all branches checkbox](/assets/images/help/repository/include-all-branches.png){% endif %}
+6. 必要に応じて、デフォルトのブランチだけでなく、テンプレートのすべてのブランチのディレクトリ構造とファイルを含めるには、[**Include all branches**] を選択します。 ![Include all branches checkbox](/assets/images/2021/10/help/repository/include-all-branches.png){% endif %}
 {% data reusables.repositories.select-marketplace-apps %}
 8. [**Create repository from template**] をクリックします。

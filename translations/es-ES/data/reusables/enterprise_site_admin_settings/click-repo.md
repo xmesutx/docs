@@ -1,1 +1,1 @@
-1. En los resultados de búsqueda, da clic en el nombre del repositorio. ![Opciones de búsqueda de la configuración de administrador para el sitio](/assets/images/enterprise/site-admin-settings/click-repo.png)
+1. En los resultados de búsqueda, da clic en el nombre del repositorio. ![Opciones de búsqueda de la configuración de administrador para el sitio](/assets/images/2021/10/enterprise/site-admin-settings/click-repo.png)

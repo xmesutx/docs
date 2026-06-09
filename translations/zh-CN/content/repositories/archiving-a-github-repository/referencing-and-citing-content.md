@@ -27,11 +27,11 @@ shortTitle: 参考和引用内容
 {% endtip %}
 
 1. 导航到 [Zenodo](http://zenodo.org/)。
-2. 在屏幕的左上角，单击 **Log in（登录）**。 ![Zenodo 登录按钮](/assets/images/help/repository/zenodo_login.png)
-3. 单击 **Log in with GitHub（使用 GitHub 登录）**。 ![使用 GitHub 登录 Zenodo](/assets/images/help/repository/zenodo_login_with_github.png)
-4. 检查有关访问权限的信息，然后单击 **Authorize application（授权应用程序）**。 ![授权 Zenodo](/assets/images/help/repository/zenodo_authorize.png)
-5. 导航到 [Zenodo GitHub 页面](https://zenodo.org/account/settings/github/)。 ![Zenodo GitHub 页面](/assets/images/help/repository/zenodo_github_page.png)
-6. 在您想要存档的仓库名称右侧，将按钮从 **Off（关）**切换为 **On（开）**可启用存档。 ![启用 Zenodo 仓库存档](/assets/images/help/repository/zenodo_toggle_on.png)
+2. 在屏幕的左上角，单击 **Log in（登录）**。 ![Zenodo 登录按钮](/assets/images/2021/10/help/repository/zenodo_login.png)
+3. 单击 **Log in with GitHub（使用 GitHub 登录）**。 ![使用 GitHub 登录 Zenodo](/assets/images/2021/10/help/repository/zenodo_login_with_github.png)
+4. 检查有关访问权限的信息，然后单击 **Authorize application（授权应用程序）**。 ![授权 Zenodo](/assets/images/2021/10/help/repository/zenodo_authorize.png)
+5. 导航到 [Zenodo GitHub 页面](https://zenodo.org/account/settings/github/)。 ![Zenodo GitHub 页面](/assets/images/2021/10/help/repository/zenodo_github_page.png)
+6. 在您想要存档的仓库名称右侧，将按钮从 **Off（关）**切换为 **On（开）**可启用存档。 ![启用 Zenodo 仓库存档](/assets/images/2021/10/help/repository/zenodo_toggle_on.png)
 
 每次创建新 {% data variables.product.product_name %} [发行版](/articles/about-releases/)时，Zenodo 都会存档您的仓库并发出一个新 DOI。 按照“[创建发行版](/articles/creating-releases/)”中的步骤操作，创建新的发行版。
 

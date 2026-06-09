@@ -25,14 +25,14 @@ topics:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
-4. 单击 **New OAuth App（新建 OAuth 应用程序）**。 ![创建新 OAuth 应用程序的按钮](/assets/images/oauth-apps/oauth_apps_new_app.png)
+4. 单击 **New OAuth App（新建 OAuth 应用程序）**。 ![创建新 OAuth 应用程序的按钮](/assets/images/2021/10/oauth-apps/oauth_apps_new_app.png)
 
   {% note %}
 
   **注：**如果您以前没有创建过应用程序，该按钮将显示 **Register a new application（注册新应用程序）**。
 
   {% endnote %}
-6. 在“Application name（应用程序名称）”中，输入应用程序的名称。 ![应用程序名称字段](/assets/images/oauth-apps/oauth_apps_application_name.png)
+6. 在“Application name（应用程序名称）”中，输入应用程序的名称。 ![应用程序名称字段](/assets/images/2021/10/oauth-apps/oauth_apps_application_name.png)
 
   {% warning %}
 
@@ -40,9 +40,9 @@ topics:
 
   {% endwarning %}
 
-7. 在“Homepage URL（主页 URL）”中，输入应用程序网站的完整 URL。 ![应用程序主页 URL 字段](/assets/images/oauth-apps/oauth_apps_homepage_url.png)
-8. （可选）在“Application description（应用程序说明）”中，输入用户将看到的应用程序说明。 ![应用程序说明字段](/assets/images/oauth-apps/oauth_apps_application_description.png)
-9. 在“Authorization callback URL（授权回调 URL）”中，输入应用程序的回调 URL。 ![应用程序的授权回调 URL 字段](/assets/images/oauth-apps/oauth_apps_authorization_callback_url.png)
+7. 在“Homepage URL（主页 URL）”中，输入应用程序网站的完整 URL。 ![应用程序主页 URL 字段](/assets/images/2021/10/oauth-apps/oauth_apps_homepage_url.png)
+8. （可选）在“Application description（应用程序说明）”中，输入用户将看到的应用程序说明。 ![应用程序说明字段](/assets/images/2021/10/oauth-apps/oauth_apps_application_description.png)
+9. 在“Authorization callback URL（授权回调 URL）”中，输入应用程序的回调 URL。 ![应用程序的授权回调 URL 字段](/assets/images/2021/10/oauth-apps/oauth_apps_authorization_callback_url.png)
 {% ifversion fpt or ghes or ghec %}
    {% note %}
 
@@ -50,4 +50,4 @@ topics:
 
    {% endnote %}
 {% endif %}
-10. 单击 **Register application（注册应用程序）**。 ![注册应用程序的按钮](/assets/images/oauth-apps/oauth_apps_register_application.png)
+10. 单击 **Register application（注册应用程序）**。 ![注册应用程序的按钮](/assets/images/2021/10/oauth-apps/oauth_apps_register_application.png)

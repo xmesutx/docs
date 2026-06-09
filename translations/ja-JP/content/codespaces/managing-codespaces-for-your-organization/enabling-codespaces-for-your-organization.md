@@ -41,7 +41,7 @@ By default, a codespace can only access the repository from which it was created
    * **Allow for all members** to allow all your organization members to use {% data variables.product.prodname_codespaces %}.
    * **Allow for all members and outside collaborators** to allow all your organization members as well as outside collaborators to use {% data variables.product.prodname_codespaces %}.
 
-   !["User permissions" のラジオボタン](/assets/images/help/codespaces/org-user-permission-settings-outside-collaborators.png)
+   !["User permissions" のラジオボタン](/assets/images/2021/12/help/codespaces/org-user-permission-settings-outside-collaborators.png)
 
    {% note %}
 

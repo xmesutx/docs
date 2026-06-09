@@ -34,8 +34,8 @@ shortTitle: 帐单邮箱
 {% data reusables.dotcom_billing.org-billing-perms %}
 
 {% data reusables.organizations.billing-settings %}
-1. 在“Billing management（帐单管理）”下帐单邮箱地址的右侧，单击 **Edit（编辑）**。 ![当前帐单邮箱](/assets/images/help/billing/billing-change-email.png)
-2. 输入一个有效的电子邮件地址，然后点击 **Update（更新）**。 ![更改帐单邮箱地址模式](/assets/images/help/billing/billing-change-email-modal.png)
+1. 在“Billing management（帐单管理）”下帐单邮箱地址的右侧，单击 **Edit（编辑）**。 ![当前帐单邮箱](/assets/images/2021/10/help/billing/billing-change-email.png)
+2. 输入一个有效的电子邮件地址，然后点击 **Update（更新）**。 ![更改帐单邮箱地址模式](/assets/images/2021/10/help/billing/billing-change-email-modal.png)
 
 ## 管理组织帐单邮箱的其他收件人
 
@@ -46,8 +46,8 @@ shortTitle: 帐单邮箱
 ### 添加帐单通知的收件人
 
 {% data reusables.organizations.billing-settings %}
-1. 在“Billing management（帐单管理）”下，在“Email recipients（电子邮件收件人）”的右侧，单击 **Add（添加）**。 ![添加收件人](/assets/images/help/billing/billing-add-email-recipient.png)
-1. 输入收件人的电子邮件地址，然后单击 **Add（添加）**。 ![添加收件人模式](/assets/images/help/billing/billing-add-email-recipient-modal.png)
+1. 在“Billing management（帐单管理）”下，在“Email recipients（电子邮件收件人）”的右侧，单击 **Add（添加）**。 ![添加收件人](/assets/images/2021/10/help/billing/billing-add-email-recipient.png)
+1. 输入收件人的电子邮件地址，然后单击 **Add（添加）**。 ![添加收件人模式](/assets/images/2021/10/help/billing/billing-add-email-recipient-modal.png)
 
 ### 更改帐单通知的主要收件人
 
@@ -55,14 +55,14 @@ shortTitle: 帐单邮箱
 
 {% data reusables.organizations.billing-settings %}
 1. 在“Billing management（帐单管理）”下，找到要设置为主要收件人的电子邮件地址。
-1. 在电子邮件地址的右侧，使用“Edit（编辑）”下拉菜单，然后单击 **Mark as primary（标记为主要收件人）**。 ![标记主要收件人](/assets/images/help/billing/billing-change-primary-email-recipient.png)
+1. 在电子邮件地址的右侧，使用“Edit（编辑）”下拉菜单，然后单击 **Mark as primary（标记为主要收件人）**。 ![标记主要收件人](/assets/images/2021/10/help/billing/billing-change-primary-email-recipient.png)
 
 ### 从帐单通知中删除收件人
 
 {% data reusables.organizations.billing-settings %}
 1. 在“Email recipients（电子邮件收件人）”下，找到要删除的电子邮件地址。
-1. 针对列表中的用户条目，单击 **Edit（编辑）**。 ![编辑收件人](/assets/images/help/billing/billing-edit-email-recipient.png)
-1. 在电子邮件地址的右侧，使用“Edit（编辑）”下拉菜单，然后单击 **Remove（删除）**。 ![删除收件人](/assets/images/help/billing/billing-remove-email-recipient.png)
+1. 针对列表中的用户条目，单击 **Edit（编辑）**。 ![编辑收件人](/assets/images/2021/10/help/billing/billing-edit-email-recipient.png)
+1. 在电子邮件地址的右侧，使用“Edit（编辑）”下拉菜单，然后单击 **Remove（删除）**。 ![删除收件人](/assets/images/2021/10/help/billing/billing-remove-email-recipient.png)
 1. 查看确认提示，然后单击 **Remove（删除）**。
 
 {% ifversion ghec %}
@@ -76,8 +76,8 @@ shortTitle: 帐单邮箱
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. 单击 **Billing emails（帐单电子邮件）**。
-2. 在帐单电子邮件地址右侧的“Email recipients（电子邮件收件人）”下，单击 **Edit（编辑）**。 ![突出显示了编辑按钮的当前帐单电子邮件的屏幕截图](/assets/images/help/billing/billing-change-email.png)
-2. 输入一个有效的电子邮件地址，然后点击 **Update（更新）**。 ![输入了示例电子邮件地址的编辑帐单电子邮件地址模式窗口的屏幕截图](/assets/images/help/billing/billing-change-email-modal.png)
+2. 在帐单电子邮件地址右侧的“Email recipients（电子邮件收件人）”下，单击 **Edit（编辑）**。 ![突出显示了编辑按钮的当前帐单电子邮件的屏幕截图](/assets/images/2021/10/help/billing/billing-change-email.png)
+2. 输入一个有效的电子邮件地址，然后点击 **Update（更新）**。 ![输入了示例电子邮件地址的编辑帐单电子邮件地址模式窗口的屏幕截图](/assets/images/2021/10/help/billing/billing-change-email-modal.png)
 
 ## 管理企业帐单邮箱的其他收件人
 
@@ -91,8 +91,8 @@ shortTitle: 帐单邮箱
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. 单击 **Billing emails（帐单电子邮件）**。
-2. 在帐单电子邮件地址右侧的“Email recipients（电子邮件收件人）”下，单击 **Add（添加）**。 ![突出显示了添加按钮的当前帐单电子邮件的屏幕截图](/assets/images/help/billing/billing-add-email-recipient.png)
-3. 输入收件人的电子邮件地址，然后单击 **Add（添加）**。 ![未输入示例电子邮件地址的添加帐单电子邮件地址模式窗口的屏幕截图](/assets/images/help/billing/billing-add-email-recipient-modal.png)
+2. 在帐单电子邮件地址右侧的“Email recipients（电子邮件收件人）”下，单击 **Add（添加）**。 ![突出显示了添加按钮的当前帐单电子邮件的屏幕截图](/assets/images/2021/10/help/billing/billing-add-email-recipient.png)
+3. 输入收件人的电子邮件地址，然后单击 **Add（添加）**。 ![未输入示例电子邮件地址的添加帐单电子邮件地址模式窗口的屏幕截图](/assets/images/2021/10/help/billing/billing-add-email-recipient-modal.png)
 
 ### 从帐单通知中删除收件人
 
@@ -101,7 +101,7 @@ shortTitle: 帐单邮箱
 {% data reusables.enterprise-accounts.billing-tab %}
 1. 单击 **Billing emails（帐单电子邮件）**。
 2. 在“Email recipients（电子邮件收件人）”下，找到要删除的电子邮件地址。
-3. 针对列表中的用户条目，单击 **Edit（编辑）**。 ![突出显示了编辑按钮的收件人电子邮件的屏幕截图](/assets/images/help/billing/billing-edit-email-recipient.png)
-4. 在电子邮件地址的右侧，使用“Edit（编辑）”下拉菜单，然后单击 **Remove（删除）**。 ![突出显示了删除按钮的收件人电子邮件的屏幕截图](/assets/images/help/billing/billing-remove-email-recipient.png)
+3. 针对列表中的用户条目，单击 **Edit（编辑）**。 ![突出显示了编辑按钮的收件人电子邮件的屏幕截图](/assets/images/2021/10/help/billing/billing-edit-email-recipient.png)
+4. 在电子邮件地址的右侧，使用“Edit（编辑）”下拉菜单，然后单击 **Remove（删除）**。 ![突出显示了删除按钮的收件人电子邮件的屏幕截图](/assets/images/2021/10/help/billing/billing-remove-email-recipient.png)
 5. 查看确认提示，然后单击 **Remove（删除）**。
 {% endif %}

@@ -34,18 +34,18 @@ Você pode dar a uma pessoa acesso a um repositório ou alterar o nível de aces
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-manage-access %}
 {% data reusables.organizations.invite-teams-or-people %}
-1. No campo de busca, comece a digitar o nome da pessoa para convidar e, em seguida, clique em um nome na lista de correspondências. ![Campo de pesquisa para digitar o nome de uma equipe ou pessoa para convidar ao repositório](/assets/images/help/repository/manage-access-invite-search-field.png)
-6. Em "Escolher uma função ", selecione a função do repositório para atribuir a pessoa e, em seguida, clique em **Adicionar NOME ao REPOSITÓRIO**. ![Selecionando permissões para a equipe ou pessoa](/assets/images/help/repository/manage-access-invite-choose-role-add.png)
+1. No campo de busca, comece a digitar o nome da pessoa para convidar e, em seguida, clique em um nome na lista de correspondências. ![Campo de pesquisa para digitar o nome de uma equipe ou pessoa para convidar ao repositório](/assets/images/2021/10/help/repository/manage-access-invite-search-field.png)
+6. Em "Escolher uma função ", selecione a função do repositório para atribuir a pessoa e, em seguida, clique em **Adicionar NOME ao REPOSITÓRIO**. ![Selecionando permissões para a equipe ou pessoa](/assets/images/2021/10/help/repository/manage-access-invite-choose-role-add.png)
 
 ## Gerenciar o acesso de um indivíduo a um repositório da organização
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Cloque em **Members** (Integrantes) ou **Outside collaborators** (Colaboradores externos) para gerenciar pessoas com tipos diferentes de acessos. ![Botão para invite (convidar) members (colaboradores) ou outside collaborators (colaboradores externos) para uma organização](/assets/images/help/organizations/select-outside-collaborators.png)
-5. À direita do nome do colaborador que deseja remover, use o menu suspenso {% octicon "gear" aria-label="The Settings gear" %} e clique em **Manage** (Gerenciar). ![Link para manage access (gerenciar acesso)](/assets/images/help/organizations/member-manage-access.png)
-6. Na página "Manage access" (Gerenciar acesso), ao lado do repositório clique em **Manage access** (Gerenciar acesso). ![Botão Manage access (Gerenciar acesso) em um repositório](/assets/images/help/organizations/repository-manage-access.png)
-7. Revise o acesso da pessoa em determinado repositório, por exemplo, se a pessoa é um colaborador ou tem acesso ao repositório como integrante de equipe. ![Matriz de acesso a repositório para o usuário](/assets/images/help/organizations/repository-access-matrix-for-user.png)
+4. Cloque em **Members** (Integrantes) ou **Outside collaborators** (Colaboradores externos) para gerenciar pessoas com tipos diferentes de acessos. ![Botão para invite (convidar) members (colaboradores) ou outside collaborators (colaboradores externos) para uma organização](/assets/images/2021/10/help/organizations/select-outside-collaborators.png)
+5. À direita do nome do colaborador que deseja remover, use o menu suspenso {% octicon "gear" aria-label="The Settings gear" %} e clique em **Manage** (Gerenciar). ![Link para manage access (gerenciar acesso)](/assets/images/2021/10/help/organizations/member-manage-access.png)
+6. Na página "Manage access" (Gerenciar acesso), ao lado do repositório clique em **Manage access** (Gerenciar acesso). ![Botão Manage access (Gerenciar acesso) em um repositório](/assets/images/2021/10/help/organizations/repository-manage-access.png)
+7. Revise o acesso da pessoa em determinado repositório, por exemplo, se a pessoa é um colaborador ou tem acesso ao repositório como integrante de equipe. ![Matriz de acesso a repositório para o usuário](/assets/images/2021/10/help/organizations/repository-access-matrix-for-user.png)
 {% endif %}
 ## Leia mais
 

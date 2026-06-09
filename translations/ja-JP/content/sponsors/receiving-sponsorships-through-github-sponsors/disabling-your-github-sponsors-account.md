@@ -22,5 +22,5 @@ shortTitle: Disable your account
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.settings-tab %}
 1. [Disable GitHub Sponsors account] で [**Disable account**] をクリックします。  
-   ![[Disable your account] ボタン](/assets/images/help/sponsors/disable-your-account-button.png)
-2. 確認するには、[**Disable GitHub Sponsors account**] をクリックします。 ![[Disable GitHub Sponsors account] ボタン](/assets/images/help/sponsors/disable-github-sponsors-account-dialog.png)
+   ![[Disable your account] ボタン](/assets/images/2021/10/help/sponsors/disable-your-account-button.png)
+2. 確認するには、[**Disable GitHub Sponsors account**] をクリックします。 ![[Disable GitHub Sponsors account] ボタン](/assets/images/2021/10/help/sponsors/disable-github-sponsors-account-dialog.png)

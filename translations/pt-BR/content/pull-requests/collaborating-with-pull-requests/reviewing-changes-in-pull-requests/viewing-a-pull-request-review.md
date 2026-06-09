@@ -22,7 +22,7 @@ Quando você exibe uma revisão completa, vê a mesma versão da pull request qu
 
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.choose-pr-review %}
-3. Na guia "Conversation" (Conversa), role até a revisão que deseja ver e clique em **View changes** (Exibir alterações). ![Header de revisão com link para revisão completa](/assets/images/help/pull_requests/view-full-review-view-changes.png)
+3. Na guia "Conversation" (Conversa), role até a revisão que deseja ver e clique em **View changes** (Exibir alterações). ![Header de revisão com link para revisão completa](/assets/images/2021/10/help/pull_requests/view-full-review-view-changes.png)
 
 ## Leia mais
 

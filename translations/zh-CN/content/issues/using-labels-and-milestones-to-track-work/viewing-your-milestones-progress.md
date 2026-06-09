@@ -18,10 +18,10 @@ shortTitle: 查看到里程碑的进度
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. 在左上角单击 **Milestones（里程碑）**。 ![议题里程碑按钮](/assets/images/help/issues/issues_milestone_button.png)
+3. 在左上角单击 **Milestones（里程碑）**。 ![议题里程碑按钮](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. 选择您想要查看更多相关信息的里程碑。
 
-![议题里程碑概览](/assets/images/help/issues/issues_milestone_overview.png)
+![议题里程碑概览](/assets/images/2021/10/help/issues/issues_milestone_overview.png)
 
 为了更好地管理项目，您可以在里程碑内确定议题或拉取请求的优先级。 更多信息请参阅“[关于里程碑](/articles/about-milestones#prioritizing-issues-and-pull-requests-in-milestones)”。
 

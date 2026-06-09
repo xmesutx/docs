@@ -20,7 +20,7 @@ Ao reverter para um commit anterior, a reversão também passa a ser um commit. 
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![Opção Revert (Reverter) acima da exibição diff](/assets/images/help/desktop/commit-revert-mac.png)
+  ![Opção Revert (Reverter) acima da exibição diff](/assets/images/2021/10/help/desktop/commit-revert-mac.png)
 
 {% endmac %}
 
@@ -28,6 +28,6 @@ Ao reverter para um commit anterior, a reversão também passa a ser um commit. 
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![Opção Revert (Reverter) acima da exibição diff](/assets/images/help/desktop/commit-revert-win.png)
+  ![Opção Revert (Reverter) acima da exibição diff](/assets/images/2021/10/help/desktop/commit-revert-win.png)
 
 {% endwindows %}

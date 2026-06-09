@@ -2,13 +2,13 @@
 
   {% mac %}
 
-  ![親プロジェクトへのコントリビュートメニューオプション](/assets/images/help/desktop/windows-forking-continue.png)
+  ![親プロジェクトへのコントリビュートメニューオプション](/assets/images/2021/10/help/desktop/windows-forking-continue.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![親プロジェクトへのコントリビュートメニューオプション](/assets/images/help/desktop/windows-fork-options-prompt.png)
+  ![親プロジェクトへのコントリビュートメニューオプション](/assets/images/2021/10/help/desktop/windows-fork-options-prompt.png)
 
   {% endwindows %}
 
@@ -16,13 +16,13 @@
 
   {% mac %}
 
-  ![独立したプロジェクトへのコントリビュートメニューオプション](/assets/images/help/desktop/mac-fork-own-purposes.png)
+  ![独立したプロジェクトへのコントリビュートメニューオプション](/assets/images/2021/10/help/desktop/mac-fork-own-purposes.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![独立したプロジェクトへのコントリビュートメニューオプション](/assets/images/help/desktop/windows-fork-own-purposes.png)
+  ![独立したプロジェクトへのコントリビュートメニューオプション](/assets/images/2021/10/help/desktop/windows-fork-own-purposes.png)
 
   {% endwindows %}
 
@@ -30,13 +30,13 @@
 
   {% mac %}
 
-  ![継続ボタン](/assets/images/help/desktop/mac-forking-continue.png)
+  ![継続ボタン](/assets/images/2021/10/help/desktop/mac-forking-continue.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![継続ボタン](/assets/images/help/desktop/windows-forking-continue.png)
+  ![継続ボタン](/assets/images/2021/10/help/desktop/windows-forking-continue.png)
 
   {% endwindows %}
   

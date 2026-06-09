@@ -17,7 +17,7 @@ Isso basicamente permite que você reimplemente uma série de funcionalidades do
 
 Funções da API do Banco de Dados do Git retornará um `409 Conflict` se o repositório do Git estiver vazio ou indisponível.  Um repositório indisponível normalmente significa que o {% data variables.product.product_name %} está no processo de criação do repositório. Para um repositório vazio, você pode usar o ponto de extremidade "[Criar ou atualizar o conteúdo do arquivo](/rest/reference/repos#create-or-update-file-contents)" para criar conteúdo e inicializar o repositório para que você possa usar a API de banco de dados do Git. Entre em contato com {% data variables.contact.contact_support %} se esse status de resposta persistir.
 
-![Visão geral do banco de dados Git](/assets/images/git-database-overview.png)
+![Visão geral do banco de dados Git](/assets/images/2021/10/git-database-overview.png)
 
 Para obter mais informações sobre a base de dados de objetos do Git, leia o capítulo [Internos do Git](http://git-scm.com/book/en/v1/Git-Internals) no livro Pro do Git.
 

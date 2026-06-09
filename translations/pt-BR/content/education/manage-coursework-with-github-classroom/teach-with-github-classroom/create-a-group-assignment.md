@@ -69,7 +69,7 @@ Se você já criou uma atividade em grupo para a sala de aula, você pode reutil
 
 {% endtip %}
 
-![Parâmetros para as equipes que participam de uma atividade em grupo](/assets/images/help/classroom/assignments-define-teams.png)
+![Parâmetros para as equipes que participam de uma atividade em grupo](/assets/images/2021/10/help/classroom/assignments-define-teams.png)
 
 ### Escolher uma visibilidade para repositórios de atividades
 
@@ -124,7 +124,7 @@ Opcionalmente, você pode classificar automaticamente as atividades e criar um e
 Você pode ver as equipes que estão trabalhando ou que enviaram uma atividade na aba **Equipes** para a atividade. {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="Atividade em grupo" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-group-hero.png">
+  <img alt="Atividade em grupo" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-group-hero.png">
 </div>
 
 ## Monitorando o progresso dos alunos

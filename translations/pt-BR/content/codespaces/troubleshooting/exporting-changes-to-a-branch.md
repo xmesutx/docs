@@ -23,6 +23,6 @@ Para exportar suas alterações:
 2. Clique nas reticências (**...**) à direita do codespace a partir do qual que você deseja exportar.
 3. Selecione **{% octicon "git-branch" aria-label="The git branch icon" %} Alterações de exportação para o branch**.
 
-  ![Exportar alterações para um branch](/assets/images/help/codespaces/export-changes-to-a-branch.png)
+  ![Exportar alterações para um branch](/assets/images/2021/10/help/codespaces/export-changes-to-a-branch.png)
 
 4. No anúncio emergente, selecione **Criar branch**.

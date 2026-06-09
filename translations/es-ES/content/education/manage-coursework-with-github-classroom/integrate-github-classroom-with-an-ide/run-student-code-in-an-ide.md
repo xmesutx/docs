@@ -21,4 +21,4 @@ Para obtener más información sobre los IDE, consulta la sección "[Integrar a 
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-assignment-in-list %}
-1. A la derecha de la emisión, da clic en **Ver IDE**. ![Botón de "Ver IDE" en una emisión que utiliza un IDE en línea](/assets/images/help/classroom/assignments-click-view-ide.png)
+1. A la derecha de la emisión, da clic en **Ver IDE**. ![Botón de "Ver IDE" en una emisión que utiliza un IDE en línea](/assets/images/2021/10/help/classroom/assignments-click-view-ide.png)

@@ -29,6 +29,6 @@ shortTitle: Enable OAuth App
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
 5. Under "Third-party application access policy," click **Setup application access restrictions**.
-  ![Set up restrictions button](/assets/images/help/settings/settings-third-party-set-up-restrictions.png)
+  ![Set up restrictions button](/assets/images/2021/10/help/settings/settings-third-party-set-up-restrictions.png)
 6. After you review the information about third-party access restrictions, click **Restrict third-party application access**.
-  ![Restriction confirmation button](/assets/images/help/settings/settings-third-party-restrict-confirm.png)
+  ![Restriction confirmation button](/assets/images/2021/10/help/settings/settings-third-party-restrict-confirm.png)

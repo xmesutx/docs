@@ -28,11 +28,11 @@ When verifying a signature, we extract the signature and attempt to parse its ke
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 3. Click **New GPG key**.
-   ![GPG Key button](/assets/images/help/settings/gpg-add-gpg-key.png)
+   ![GPG Key button](/assets/images/2021/10/help/settings/gpg-add-gpg-key.png)
 4. In the "Key" field, paste the GPG key you copied when you [generated your GPG key](/articles/generating-a-new-gpg-key).
-   ![The key field](/assets/images/help/settings/gpg-key-paste.png)
+   ![The key field](/assets/images/2021/10/help/settings/gpg-key-paste.png)
 5. Click **Add GPG key**.
-   ![The Add key button](/assets/images/help/settings/gpg-add-key.png)
+   ![The Add key button](/assets/images/2021/10/help/settings/gpg-add-key.png)
 6. To confirm the action, enter your {% data variables.product.product_name %} password.
 
 ## Further reading

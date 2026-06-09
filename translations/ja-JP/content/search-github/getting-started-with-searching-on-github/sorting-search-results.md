@@ -16,7 +16,7 @@ topics:
 
 [Sort] メニューを使用して、関連性、Star の数、フォークの数、およびアイテムの更新の頻度で検索結果をソートできます。
 
-  ![検索結果ソートのオプション付きメニュー](/assets/images/help/search/repo-search-sort.png)
+  ![検索結果ソートのオプション付きメニュー](/assets/images/2021/10/help/search/repo-search-sort.png)
 
 インタラクション、リアクション、作者日付、コミッター日付、またはアイテム更新頻度でソートするには、検索クエリに `sort` 修飾子を追加します。
 

@@ -19,7 +19,7 @@ shortTitle: Crear una página personalizada de error 404
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.pages.navigate-publishing-source %}
 {% data reusables.files.add-file %}
-3. En el campo para el nombre de archivo, escribe `404.html` o `404.md`. ![Campo File name (Nombre de archivo)](/assets/images/help/pages/404-file-name.png)
+3. En el campo para el nombre de archivo, escribe `404.html` o `404.md`. ![Campo File name (Nombre de archivo)](/assets/images/2021/10/help/pages/404-file-name.png)
 4. Si denominaste tu archivo `404.md`, agrega el siguiente texto preliminar de YAML al comienzo del archivo:
   ```yaml
   ---

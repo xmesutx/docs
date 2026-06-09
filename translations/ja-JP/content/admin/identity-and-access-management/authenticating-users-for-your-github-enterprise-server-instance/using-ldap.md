@@ -58,8 +58,8 @@ LDAPを設定した後、ユーザは自分のLDAPクレデンシャルでイン
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-3. "Authentication（認証）"の下で**LDAP**を選択してください。 ![LDAP の選択](/assets/images/enterprise/management-console/ldap-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![LDAP のビルトイン認証の選択チェックボックス](/assets/images/enterprise/management-console/ldap-built-in-authentication.png)
+3. "Authentication（認証）"の下で**LDAP**を選択してください。 ![LDAP の選択](/assets/images/2021/10/enterprise/management-console/ldap-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![LDAP のビルトイン認証の選択チェックボックス](/assets/images/2021/10/enterprise/management-console/ldap-built-in-authentication.png)
 5. 設定を追加してください。
 
 ## LDAPの属性
@@ -88,7 +88,7 @@ LDAPを設定した後、ユーザは自分のLDAPクレデンシャルでイン
 
 LDAP 設定中の [**Disable username and password authentication for Git operations（Git の操作でのユーザ名およびパスワード認証の無効化）**] を選択し、Git アクセスでの個人アクセストークンあるいは SSH キーの使用を強制してください。そうすれば、サーバーが LDAP 認証のリクエストで過負荷になるのを防ぐのに役に立ちます。 特にポーリングによる大量のリクエストと組み合わさると、レスポンスの遅いLDAPサーバーは頻繁にパフォーマンス問題や障害の原因となるので、この設定をおすすめします。
 
-![GItチェックボックスのためのLDAPパスワード認証の無効化](/assets/images/enterprise/management-console/ldap-disable-password-auth-for-git.png)
+![GItチェックボックスのためのLDAPパスワード認証の無効化](/assets/images/2021/10/enterprise/management-console/ldap-disable-password-auth-for-git.png)
 
 このオプションが選択されると、ユーザがコマンドライン経由のGitの操作でパスワードを使おうとすると、次のようなエラーメッセージが返されます。`Password authentication is not allowed for Git operations. You must use a personal access token.`
 
@@ -96,7 +96,7 @@ LDAP 設定中の [**Disable username and password authentication for Git operat
 
 TLSと共に使うLDAPサーバの証明書を検証するには、LDAPの設定で**Enable LDAP certificate verification（LDAPの証明書検証の有効化）**を選択してください。
 
-![LDAP証明書の検証ボックス](/assets/images/enterprise/management-console/ldap-enable-certificate-verification.png)
+![LDAP証明書の検証ボックス](/assets/images/2021/10/enterprise/management-console/ldap-enable-certificate-verification.png)
 
 このオプションが選択されると、以下のことを確実にするために証明書が検証されます:
 - 証明書にAlternative Name (SAN) が少なくとも1つ含まれている場合には、SANの1つがLDAPホスト名に一致し、 そうでない場合はコモンネーム (CN) がLDAPホスト名に一致すること。
@@ -115,7 +115,7 @@ LDAP Sync を使うと、{% data variables.product.prodname_ghe_server %} のユ
 
 LDAP Sync を有効化するには、[**Synchronize Emails**]、[**Synchronize SSH Keys**]、または [**Synchronize GPG Keys**] を選択します。
 
-![同期チェックボックス](/assets/images/enterprise/management-console/ldap-synchronize.png)
+![同期チェックボックス](/assets/images/2021/10/enterprise/management-console/ldap-synchronize.png)
 
 LDAP Sync を有効化すると、同期のジョブが指定された間隔で動作し、各ユーザアカウントに対して以下の操作を行います:
 
@@ -177,8 +177,8 @@ LDAP Sync が有効化されると、サイト管理者と Organization のオ�
 
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. 左のサイドバーで**LDAP users（LDAPユーザ）**をクリックしてください。 ![LDAP ユーザタブ](/assets/images/enterprise/site-admin-settings/ldap-users-tab.png)
-4. ユーザを検索するには、完全なユーザ名もしくはユーザ名の一部を入力し、**Search（検索）**をクリックしてください。 検索結果に該当するユーザが表示されます。 該当するユーザがいなければ、**Create（作成）**をクリックして新しいユーザアカウントをプロビジョニングできます。 ![LDAP検索](/assets/images/enterprise/site-admin-settings/ldap-users-search.jpg)
+3. 左のサイドバーで**LDAP users（LDAPユーザ）**をクリックしてください。 ![LDAP ユーザタブ](/assets/images/2021/10/enterprise/site-admin-settings/ldap-users-tab.png)
+4. ユーザを検索するには、完全なユーザ名もしくはユーザ名の一部を入力し、**Search（検索）**をクリックしてください。 検索結果に該当するユーザが表示されます。 該当するユーザがいなければ、**Create（作成）**をクリックして新しいユーザアカウントをプロビジョニングできます。 ![LDAP検索](/assets/images/2022/02/enterprise/site-admin-settings/ldap-users-search.jpg)
 
 ## LDAPアカウントの更新
 
@@ -196,7 +196,7 @@ LDAP Sync が有効化されると、サイト管理者と Organization のオ�
 {% data reusables.enterprise_site_admin_settings.click-user %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-5. "LDAP"の下で**Sync now（即時同期）**をクリックして、LDAPサーバからのデータでアカウントを手動更新してください。 ![LDAPの即時同期ボタン](/assets/images/enterprise/site-admin-settings/ldap-sync-now-button.png)
+5. "LDAP"の下で**Sync now（即時同期）**をクリックして、LDAPサーバからのデータでアカウントを手動更新してください。 ![LDAPの即時同期ボタン](/assets/images/2021/10/enterprise/site-admin-settings/ldap-sync-now-button.png)
 
 [API を使用して手動同期をトリガー](/enterprise/{{ currentVersion }}/user/rest/reference/enterprise-admin#ldap)することもできます。
 

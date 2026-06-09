@@ -23,7 +23,7 @@ shortTitle: Audit users
 
 Audit log ダッシュボードには、Enterprise 全体の監査データが表示されます。
 
-![インスタンスにわたるAudit logのダッシュボード](/assets/images/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
+![インスタンスにわたるAudit logのダッシュボード](/assets/images/2021/10/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}

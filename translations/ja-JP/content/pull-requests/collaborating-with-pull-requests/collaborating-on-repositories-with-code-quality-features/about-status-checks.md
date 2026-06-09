@@ -18,7 +18,7 @@ topics:
 
 ステータスチェックは、リポジトリにプッシュをするたびに実行される継続的インテグレーションのビルドのような、外部のプロセスに基づいています。 プルリクエスト中の個々のコミットの隣に、* pending*、*passing*、 *failing* などの、ステータスチェックのステータスが表示されます。
 
-![コミットとステータスのリスト](/assets/images/help/pull_requests/commit-list-statuses.png)
+![コミットとステータスのリスト](/assets/images/2021/10/help/pull_requests/commit-list-statuses.png)
 
 書き込み権限があるユーザまたはインテグレーションなら誰でも、リポジトリのステータスチェックを任意のステータスに設定できます。
 
@@ -41,7 +41,7 @@ Organization オーナー、およびリポジトリにプッシュアクセス�
 
 リポジトリで_チェック_が設定されている場合、プルリクエストには [**Checks**] タブがあり、そこからステータスチェックからの詳細なビルドの出力を表示して、失敗したチェックを再実行できます。
 
-![プルリクエスト中のステータスチェック](/assets/images/help/pull_requests/checks.png)
+![プルリクエスト中のステータスチェック](/assets/images/2021/10/help/pull_requests/checks.png)
 
 {% note %}
 
@@ -51,11 +51,11 @@ Organization オーナー、およびリポジトリにプッシュアクセス�
 
 コミットの特定の行でチェックが失敗している場合、その失敗、警告、注意に関する詳細がプルリクエストの [**Files**] タブの関連するコードの横に表示されます。
 
-![失敗したステータスチェックの詳細](/assets/images/help/pull_requests/checks-detailed.png)
+![失敗したステータスチェックの詳細](/assets/images/2021/10/help/pull_requests/checks-detailed.png)
 
 [**Conversation**] タブの下のコミットドロップダウンメニューを使って、プルリクエスト中のさまざまなコミットのチェックのサマリー間を行き来できます。
 
-![ドロップダウンメニュー中でのさまざまなコミットのチェックのサマリー](/assets/images/help/pull_requests/checks-summary-for-various-commits.png)
+![ドロップダウンメニュー中でのさまざまなコミットのチェックのサマリー](/assets/images/2021/10/help/pull_requests/checks-summary-for-various-commits.png)
 
 ### 個々のコミットに関するチェックのスキップとリクエスト
 

@@ -46,9 +46,9 @@ Before suspending site administrators, you must demote them to regular users. Fo
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
 5. Under "Account suspension," in the red Danger Zone box, click **Suspend**.
-![Suspend button](/assets/images/enterprise/site-admin-settings/suspend.png)
+![Suspend button](/assets/images/2021/10/enterprise/site-admin-settings/suspend.png)
 6. Provide a reason to suspend the user.
-![Suspend reason](/assets/images/enterprise/site-admin-settings/suspend-reason.png)
+![Suspend reason](/assets/images/2021/10/enterprise/site-admin-settings/suspend-reason.png)
 
 ## Unsuspending a user from the user admin dashboard
 
@@ -56,15 +56,15 @@ As when suspending a user, unsuspending a user takes effect immediately. The use
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 3. In the left sidebar, click **Suspended users**.
-![Suspended users tab](/assets/images/enterprise/site-admin-settings/user/suspended-users-tab.png)
+![Suspended users tab](/assets/images/2021/10/enterprise/site-admin-settings/user/suspended-users-tab.png)
 2. Click the name of the user account that you would like to unsuspend.
-![Suspended user](/assets/images/enterprise/site-admin-settings/user/suspended-user.png)
+![Suspended user](/assets/images/2021/10/enterprise/site-admin-settings/user/suspended-user.png)
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
 4. Under "Account suspension," in the red Danger Zone box, click **Unsuspend**.
-![Unsuspend button](/assets/images/enterprise/site-admin-settings/unsuspend.png)
+![Unsuspend button](/assets/images/2021/10/enterprise/site-admin-settings/unsuspend.png)
 5. Provide a reason to unsuspend the user.
-![Unsuspend reason](/assets/images/enterprise/site-admin-settings/unsuspend-reason.png)
+![Unsuspend reason](/assets/images/2021/10/enterprise/site-admin-settings/unsuspend-reason.png)
 
 ## Suspending a user from the command line
 
@@ -82,13 +82,13 @@ You can create a custom message that suspended users will see when attempting to
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
 5. Click **Add message**.
-![Add message](/assets/images/enterprise/site-admin-settings/add-message.png)
+![Add message](/assets/images/2021/10/enterprise/site-admin-settings/add-message.png)
 6. Type your message into the **Suspended user message** box. You can type Markdown, or use the Markdown toolbar to style your message.
-![Suspended user message](/assets/images/enterprise/site-admin-settings/suspended-user-message.png)
+![Suspended user message](/assets/images/2021/10/enterprise/site-admin-settings/suspended-user-message.png)
 7. Click the **Preview** button under the **Suspended user message** field to see the rendered message.
-![Preview button](/assets/images/enterprise/site-admin-settings/suspended-user-message-preview-button.png)
+![Preview button](/assets/images/2021/10/enterprise/site-admin-settings/suspended-user-message-preview-button.png)
 8. Review the rendered message.
-![Suspended user message rendered](/assets/images/enterprise/site-admin-settings/suspended-user-message-rendered.png)
+![Suspended user message rendered](/assets/images/2021/10/enterprise/site-admin-settings/suspended-user-message-rendered.png)
 {% data reusables.enterprise_site_admin_settings.save-changes %}
 
 ## Unsuspending a user from the command line

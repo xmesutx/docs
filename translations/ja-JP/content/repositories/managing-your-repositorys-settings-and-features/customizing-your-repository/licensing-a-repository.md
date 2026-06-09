@@ -86,7 +86,7 @@ topics:
 
 ライセンスを選択できるのは、GitHub で新しいプロジェクトを作成するときだけです。 ブラウザを使って、手動でライセンスを追加できます。 リポジトリへのライセンスの追加についての詳しい情報は、「[リポジトリにライセンスを追加する](/articles/adding-a-license-to-a-repository)」を参照してください。
 
-![GitHub.com でのライセンス選択のスクリーンショット](/assets/images/help/repository/repository-license-picker.png)
+![GitHub.com でのライセンス選択のスクリーンショット](/assets/images/2021/10/help/repository/repository-license-picker.png)
 
 ## 免責事項
 

@@ -2,4 +2,4 @@
 2. Clique em {% octicon "table" aria-label="The project icon" %} **Projetos**.
 3. Selecione o menu suspenso **Novo projeto** e clique em **Novo projeto (Beta)**.
 
-   ![Novo projeto](/assets/images/help/issues/new_project_beta.png)
+   ![Novo projeto](/assets/images/2021/10/help/issues/new_project_beta.png)

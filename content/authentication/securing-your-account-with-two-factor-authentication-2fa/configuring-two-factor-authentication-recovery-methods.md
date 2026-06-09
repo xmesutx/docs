@@ -37,7 +37,7 @@ If you generate new recovery codes or disable and re-enable 2FA, the recovery co
     - To save your recovery codes on your device, click **Download**.
     - To save a hard copy of your recovery codes, click **Print**.
     - To copy your recovery codes for storage in a password manager, click **Copy**.
-  ![List of recovery codes with option to download, print, or copy the codes](/assets/images/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
+  ![List of recovery codes with option to download, print, or copy the codes](/assets/images/2021/10/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
 
 ## Generating a new set of recovery codes
 
@@ -47,7 +47,7 @@ Once you use a recovery code to regain access to your account, it cannot be reus
 {% data reusables.user-settings.security %}
 {% data reusables.two_fa.show-recovery-codes %}
 3. To create another batch of recovery codes, click **Generate new recovery codes**.
-	![Generate new recovery codes button](/assets/images/help/2fa/generate-new-recovery-codes.png)
+	![Generate new recovery codes button](/assets/images/2021/10/help/2fa/generate-new-recovery-codes.png)
 
 ## Configuring a security key as an additional two-factor authentication method
 
@@ -72,11 +72,11 @@ You can use a fallback number regardless of whether you've configured authentica
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 3. Next to "Fallback SMS number", click **Add**.
-![Add fallback SMS number button](/assets/images/help/2fa/add-fallback-sms-number-button.png)
+![Add fallback SMS number button](/assets/images/2021/10/help/2fa/add-fallback-sms-number-button.png)
 4. Under "Fallback SMS number", click **Add fallback SMS number**.
-![Add fallback SMS number text](/assets/images/help/2fa/add_fallback_sms_number_text.png)
+![Add fallback SMS number text](/assets/images/2021/10/help/2fa/add_fallback_sms_number_text.png)
 5. Select your country code and type your mobile phone number, including the area code. When your information is correct, click **Set fallback**.
-	![Set fallback SMS number](/assets/images/help/2fa/2fa-fallback-number.png)
+	![Set fallback SMS number](/assets/images/2021/10/help/2fa/2fa-fallback-number.png)
 
 After setup, the backup device will receive a confirmation SMS.
 

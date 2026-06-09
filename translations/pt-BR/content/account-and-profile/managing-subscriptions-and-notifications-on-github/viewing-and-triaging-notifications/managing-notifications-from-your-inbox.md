@@ -28,15 +28,15 @@ shortTitle: Gerenciar a partir de sua caixa de entrada
 
 Para acessar sua caixa de entrada de notificações, no canto superior direito de qualquer página, clique em {% octicon "bell" aria-label="The notifications bell" %}.
 
-  ![Notificação indicando qualquer mensagem não lida](/assets/images/help/notifications/notifications_general_existence_indicator.png)
+  ![Notificação indicando qualquer mensagem não lida](/assets/images/2021/10/help/notifications/notifications_general_existence_indicator.png)
 
 Sua caixa de entrada mostra todas as notificações que você não cancelou sua inscrição ou marcou como **Concluído.** Você pode personalizar sua caixa de entrada para melhor se adequar ao seu fluxo de trabalho usando filtros, visualizando todas ou apenas notificações não lidas e agrupando suas notificações para obter uma visão geral.
 
-  ![visualização da caixa de entrada](/assets/images/help/notifications-v2/inbox-view.png)
+  ![visualização da caixa de entrada](/assets/images/2021/10/help/notifications-v2/inbox-view.png)
 
 Por padrão, sua caixa de entrada mostrará notificações lidas e não lidas. Para ver apenas notificações não lidas, clique em **Não lidas** ou use a consulta `is:unread`.
 
-  ![visualização da caixa de entrada não lida](/assets/images/help/notifications-v2/unread-inbox-view.png)
+  ![visualização da caixa de entrada não lida](/assets/images/2021/10/help/notifications-v2/unread-inbox-view.png)
 
 ## Opções de triagem
 
@@ -58,13 +58,13 @@ Antes de escolher uma opção de triagem, primeiro você pode pré-visualizar os
 
 Para fazer triagem de várias notificações de uma só vez, selecione as notificações relevantes e use o menu suspenso {% octicon "kebab-horizontal" aria-label="The edit icon" %} para escolher uma opção de triagem.
 
-![Menu suspenso com opções de triagem e notificações selecionadas](/assets/images/help/notifications-v2/triage-multiple-notifications-together.png)
+![Menu suspenso com opções de triagem e notificações selecionadas](/assets/images/2021/10/help/notifications-v2/triage-multiple-notifications-together.png)
 
 ## Filtros de notificação padrão
 
 Por padrão, sua caixa de entrada tem filtros para quando você é responsável, participa de um thread, é solicitado a rever uma pull request ou quando seu nome de usuário for @mencionado diretamente ou quando uma equipe da qual você é integrante é @mencionada.
 
-  ![Filtros personalizados padrão](/assets/images/help/notifications-v2/default-filters.png)
+  ![Filtros personalizados padrão](/assets/images/2021/10/help/notifications-v2/default-filters.png)
 
 ## Personalizando sua caixa de entrada com filtros personalizados
 
@@ -81,7 +81,7 @@ Você pode adicionar até 15 dos seus próprios filtros personalizados.
 
 3. Adicione um nome para seu filtro e uma consulta de filtro. Por exemplo, para ver apenas notificações para um repositório específico, é possível criar um filtro usando a consulta `repo:octocat/open-source-project-name reason:participating`. Você também pode adicionar emojis com um teclado de emojis nativo. Para obter uma lista de consultas de pesquisa compatíveis, consulte "[Consultas suportadas para filtros personalizados](#supported-queries-for-custom-filters)".
 
-  ![Exemplo de filtro personalizado](/assets/images/help/notifications-v2/custom-filter-example.png)
+  ![Exemplo de filtro personalizado](/assets/images/2021/10/help/notifications-v2/custom-filter-example.png)
 
 4. Clique em **Criar**.
 

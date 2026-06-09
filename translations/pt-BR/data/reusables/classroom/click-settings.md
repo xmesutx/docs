@@ -1,1 +1,1 @@
-1. No nome da sala de aula, clique em {% octicon "gear" aria-label="The gear icon" %} **Configurações**. ![Aba "Configurações" da sala de aula](/assets/images/help/classroom/click-settings.png)
+1. No nome da sala de aula, clique em {% octicon "gear" aria-label="The gear icon" %} **Configurações**. ![Aba "Configurações" da sala de aula](/assets/images/2021/10/help/classroom/click-settings.png)

@@ -39,41 +39,41 @@ You can create new releases with release notes, @mentions of contributors, and l
 {% data reusables.repositories.releases %}
 3. [**Draft a new release**] をクリックします。
 
-   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}![Releases draft button](/assets/images/help/releases/draft-release-button-with-search.png){% else %}![Releases draft button](/assets/images/help/releases/draft_release_button.png){% endif %}
+   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}![Releases draft button](/assets/images/2021/10/help/releases/draft-release-button-with-search.png){% else %}![Releases draft button](/assets/images/2021/10/help/releases/draft_release_button.png){% endif %}
 4. {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}Click **Choose a tag**, type{% else %}Type{% endif %} a version number for your release{% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}, and press **Enter**{% endif %}. Alternatively, select an existing tag.
 
-   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Enter a tag](/assets/images/help/releases/releases-tag-create.png)
+   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Enter a tag](/assets/images/2021/10/help/releases/releases-tag-create.png)
 5. If you are creating a new tag, click **Create new tag**.
 
-   ![Confirm you want to create a new tag](/assets/images/help/releases/releases-tag-create-confirm.png)
+   ![Confirm you want to create a new tag](/assets/images/2021/10/help/releases/releases-tag-create-confirm.png)
    {% else %}
-   ![タグ付きバージョンのリリース](/assets/images/enterprise/releases/releases-tag-version.png)
+   ![タグ付きバージョンのリリース](/assets/images/2021/10/enterprise/releases/releases-tag-version.png)
 {% endif %}
 5. If you have created a new tag, use the drop-down menu to select the branch that contains the project you want to release.
 
-   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Choose a branch](/assets/images/help/releases/releases-choose-branch.png)
-   {% else %}![Releases tagged branch](/assets/images/enterprise/releases/releases-tag-branch.png){% endif %}
+   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Choose a branch](/assets/images/2021/10/help/releases/releases-choose-branch.png)
+   {% else %}![Releases tagged branch](/assets/images/2021/10/enterprise/releases/releases-tag-branch.png){% endif %}
 6. リリースのタイトルと説明を入力します。
    {%- ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %}
    If you @mention any {% data variables.product.product_name %} users in the description, the published release will include a **Contributors** section with an avatar list of all the mentioned users.
    {%- endif %}
    {% ifversion fpt or ghec %} Alternatively, you can automatically generate your release notes by clicking **Auto-generate release notes**.
    {% endif %}
-   ![リリースの説明](/assets/images/help/releases/releases_description_auto.png)
-7. オプションで、コンパイルされたプログラムなどのバイナリファイルをリリースに含めるには、ドラッグアンドドロップするかバイナリボックスで手動で選択します。 ![リリースに DMG ファイルを含める](/assets/images/help/releases/releases_adding_binary.gif)
-8. リリースが不安定であり、運用準備ができていないことをユーザに通知するには、[**This is a pre-release**] を選択します。 ![リリースをプレリリースとしてマークするチェックボックス](/assets/images/help/releases/prerelease_checkbox.png)
+   ![リリースの説明](/assets/images/2021/10/help/releases/releases_description_auto.png)
+7. オプションで、コンパイルされたプログラムなどのバイナリファイルをリリースに含めるには、ドラッグアンドドロップするかバイナリボックスで手動で選択します。 ![リリースに DMG ファイルを含める](/assets/images/2021/10/help/releases/releases_adding_binary.gif)
+8. リリースが不安定であり、運用準備ができていないことをユーザに通知するには、[**This is a pre-release**] を選択します。 ![リリースをプレリリースとしてマークするチェックボックス](/assets/images/2021/10/help/releases/prerelease_checkbox.png)
 {%- ifversion fpt or ghec %}
-1. Optionally, if {% data variables.product.prodname_discussions %} are enabled in the repository, select **Create a discussion for this release**, then select the **Category** drop-down menu and click a category for the release discussion. ![リリースディスカッションを作成するためのチェックボックスと、カテゴリを選択するドロップダウンメニュー](/assets/images/help/releases/create-release-discussion.png)
+1. Optionally, if {% data variables.product.prodname_discussions %} are enabled in the repository, select **Create a discussion for this release**, then select the **Category** drop-down menu and click a category for the release discussion. ![リリースディスカッションを作成するためのチェックボックスと、カテゴリを選択するドロップダウンメニュー](/assets/images/2021/10/help/releases/create-release-discussion.png)
 {%- endif %}
-9. リリースを公開する準備ができている場合は、[**Publish release**] をクリックします。 リリースの作業を後でする場合は、[**Save draft**] をクリックします。 ![[Publish release] と [Save draft] ボタン](/assets/images/help/releases/release_buttons.png)
+9. リリースを公開する準備ができている場合は、[**Publish release**] をクリックします。 リリースの作業を後でする場合は、[**Save draft**] をクリックします。 ![[Publish release] と [Save draft] ボタン](/assets/images/2021/10/help/releases/release_buttons.png)
 
    {%- ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4972 or ghae-issue-4974 %}
    You can then view your published or draft releases in the releases feed for your repository. For more information, see "[Viewing your repository's releases and tags](/github/administering-a-repository/releasing-projects-on-github/viewing-your-repositorys-releases-and-tags)."
 
    {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-   ![Published release with @mentioned contributors](/assets/images/help/releases/refreshed-releases-overview-with-contributors.png)
+   ![Published release with @mentioned contributors](/assets/images/2021/10/help/releases/refreshed-releases-overview-with-contributors.png)
    {% else %}
-   ![Published release with @mentioned contributors](/assets/images/help/releases/releases-overview-with-contributors.png)
+   ![Published release with @mentioned contributors](/assets/images/2021/10/help/releases/releases-overview-with-contributors.png)
    {% endif %}
    {%- endif %}
 
@@ -107,11 +107,11 @@ If you @mention any {% data variables.product.product_name %} users in the notes
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-3. On the right side of the page, next to the release you want to edit, click {% octicon "pencil" aria-label="The edit icon" %}. ![リリースの編集](/assets/images/help/releases/edit-release-pencil.png)
+3. On the right side of the page, next to the release you want to edit, click {% octicon "pencil" aria-label="The edit icon" %}. ![リリースの編集](/assets/images/2021/10/help/releases/edit-release-pencil.png)
 {% else %}
-3. ページの右側で、編集するリリースの横にある [**Edit release**] をクリックします。 ![リリースの編集](/assets/images/help/releases/edit-release.png)
+3. ページの右側で、編集するリリースの横にある [**Edit release**] をクリックします。 ![リリースの編集](/assets/images/2021/10/help/releases/edit-release.png)
 {% endif %}
-4. Edit the details for the release in the form, then click **Update release**.{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %} If you add or remove any @mentions of GitHub users in the description, those users will be added or removed from the avatar list in the **Contributors** section of the release.{% endif %} ![リリースの更新](/assets/images/help/releases/update-release.png)
+4. Edit the details for the release in the form, then click **Update release**.{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %} If you add or remove any @mentions of GitHub users in the description, those users will be added or removed from the avatar list in the **Contributors** section of the release.{% endif %} ![リリースの更新](/assets/images/2021/10/help/releases/update-release.png)
 
 {% endwebui %}
 
@@ -128,12 +128,12 @@ Releases cannot currently be edited with {% data variables.product.prodname_cli 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-3. On the right side of the page, next to the release you want to delete, click {% octicon "trash" aria-label="The trash icon" %}. ![リリースの削除](/assets/images/help/releases/delete-release-trash.png)
+3. On the right side of the page, next to the release you want to delete, click {% octicon "trash" aria-label="The trash icon" %}. ![リリースの削除](/assets/images/2021/10/help/releases/delete-release-trash.png)
 {% else %}
-3. 削除するリリースの名前をクリックします。 ![リリースを表示するリンク](/assets/images/help/releases/release-name-link.png)
-4. ページの右上にある [**Delete**] をクリックします。 ![リリースの削除ボタン](/assets/images/help/releases/delete-release.png)
+3. 削除するリリースの名前をクリックします。 ![リリースを表示するリンク](/assets/images/2021/10/help/releases/release-name-link.png)
+4. ページの右上にある [**Delete**] をクリックします。 ![リリースの削除ボタン](/assets/images/2021/10/help/releases/delete-release.png)
 {% endif %}
-5. [**Delete this release**] をクリックします。 ![リリースの削除を確認](/assets/images/help/releases/confirm-delete-release.png)
+5. [**Delete this release**] をクリックします。 ![リリースの削除を確認](/assets/images/2021/10/help/releases/confirm-delete-release.png)
 
 {% endwebui %}
 

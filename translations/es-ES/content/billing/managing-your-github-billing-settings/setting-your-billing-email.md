@@ -34,8 +34,8 @@ El correo electrónico de facturación de tu organización es donde {% data vari
 {% data reusables.dotcom_billing.org-billing-perms %}
 
 {% data reusables.organizations.billing-settings %}
-1. Debabjo de "Administración de facturación", a la derecha de la dirección de correo electrónico para facturación, haz clic en **Editar**. ![Correos electrónicos de facturación actuales](/assets/images/help/billing/billing-change-email.png)
-2. Teclea una dirección de correo electrónico válida y luego haz clic en **Actualizar**. ![Cambiar el modo de la dirección de correo electrónico para facturación](/assets/images/help/billing/billing-change-email-modal.png)
+1. Debabjo de "Administración de facturación", a la derecha de la dirección de correo electrónico para facturación, haz clic en **Editar**. ![Correos electrónicos de facturación actuales](/assets/images/2021/10/help/billing/billing-change-email.png)
+2. Teclea una dirección de correo electrónico válida y luego haz clic en **Actualizar**. ![Cambiar el modo de la dirección de correo electrónico para facturación](/assets/images/2021/10/help/billing/billing-change-email-modal.png)
 
 ## Administrar los destinatarios adicionales para tu correo electrónico de facturación de la organización
 
@@ -46,8 +46,8 @@ Si tienes usuarios que quieran recibir reportes de facturación, puedes agregar 
 ### Agregar un destinatario para las notificaciones de facturación
 
 {% data reusables.organizations.billing-settings %}
-1. Debajo de "Administración de facturación", a la derecha de "Destinatarios de correo electrónico", da clic en **Agregar**. ![Agregar destinatario](/assets/images/help/billing/billing-add-email-recipient.png)
-1. Teclea la dirección de correo electrónico del destinatario y luego da clic en **Agregar**. ![Agregar modal de destinatario](/assets/images/help/billing/billing-add-email-recipient-modal.png)
+1. Debajo de "Administración de facturación", a la derecha de "Destinatarios de correo electrónico", da clic en **Agregar**. ![Agregar destinatario](/assets/images/2021/10/help/billing/billing-add-email-recipient.png)
+1. Teclea la dirección de correo electrónico del destinatario y luego da clic en **Agregar**. ![Agregar modal de destinatario](/assets/images/2021/10/help/billing/billing-add-email-recipient-modal.png)
 
 ### Cambiar el destinatario principal de las notificaciones de facturación
 
@@ -55,14 +55,14 @@ Siempre debe existir una dirección designada como el destinatario principal. La
 
 {% data reusables.organizations.billing-settings %}
 1. Debajo de "Administración de facturación", encuentra la dirección de correo electrónico que quieras configurar como el destinatario principal.
-1. A la derecha de la dirección de correo electrónico, utiliza el menú desplegable de "Editar", y da clic en **Marcar como principal**. ![Marcar destinatario principal](/assets/images/help/billing/billing-change-primary-email-recipient.png)
+1. A la derecha de la dirección de correo electrónico, utiliza el menú desplegable de "Editar", y da clic en **Marcar como principal**. ![Marcar destinatario principal](/assets/images/2021/10/help/billing/billing-change-primary-email-recipient.png)
 
 ### Eliminar un destinatario de las notificaciones de facturación
 
 {% data reusables.organizations.billing-settings %}
 1. Debajo de "Destinatarios de correo electrónico", encuentra la dirección de correo electrónico que quieres eliminar.
-1. Para la entrada del usuario en la lista, da clic en **Editar**. ![Editar destinatario](/assets/images/help/billing/billing-edit-email-recipient.png)
-1. A la derecha de la dirección de correo electrónico, utiliza el menú desplegable "Editar" y haz clic en **Eliminar**. ![Eliminar destinatario](/assets/images/help/billing/billing-remove-email-recipient.png)
+1. Para la entrada del usuario en la lista, da clic en **Editar**. ![Editar destinatario](/assets/images/2021/10/help/billing/billing-edit-email-recipient.png)
+1. A la derecha de la dirección de correo electrónico, utiliza el menú desplegable "Editar" y haz clic en **Eliminar**. ![Eliminar destinatario](/assets/images/2021/10/help/billing/billing-remove-email-recipient.png)
 1. Revisa el mensaje de confirmación y luego da clic en **Eliminar**.
 
 {% ifversion ghec %}
@@ -76,8 +76,8 @@ Only enterprise members with the owner or billing manager role can access or cha
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Click **Billing emails**.
-2. Under "Email recipients", to the right of the billing email address, click **Edit**. ![Screenshot of the current billing email with the edit button emphasized](/assets/images/help/billing/billing-change-email.png)
-2. Teclea una dirección de correo electrónico válida y luego haz clic en **Actualizar**. ![Screenshot of the edit billing email address modal window with a sample email address entered](/assets/images/help/billing/billing-change-email-modal.png)
+2. Under "Email recipients", to the right of the billing email address, click **Edit**. ![Screenshot of the current billing email with the edit button emphasized](/assets/images/2021/10/help/billing/billing-change-email.png)
+2. Teclea una dirección de correo electrónico válida y luego haz clic en **Actualizar**. ![Screenshot of the edit billing email address modal window with a sample email address entered](/assets/images/2021/10/help/billing/billing-change-email-modal.png)
 
 ## Managing additional recipients for your enterprise's billing email
 
@@ -91,8 +91,8 @@ Only enterprise members with the owner or billing manager role can access or cha
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Click **Billing emails**.
-2. Under "Email recipients", to the right of the billing email address, click **Add**. ![Screenshot of the current billing email with the add button emphasized](/assets/images/help/billing/billing-add-email-recipient.png)
-3. Teclea la dirección de correo electrónico del destinatario y luego da clic en **Agregar**. ![Screenshot of the add billing email address modal window without a sample email address entered](/assets/images/help/billing/billing-add-email-recipient-modal.png)
+2. Under "Email recipients", to the right of the billing email address, click **Add**. ![Screenshot of the current billing email with the add button emphasized](/assets/images/2021/10/help/billing/billing-add-email-recipient.png)
+3. Teclea la dirección de correo electrónico del destinatario y luego da clic en **Agregar**. ![Screenshot of the add billing email address modal window without a sample email address entered](/assets/images/2021/10/help/billing/billing-add-email-recipient-modal.png)
 
 ### Eliminar un destinatario de las notificaciones de facturación
 
@@ -101,7 +101,7 @@ Only enterprise members with the owner or billing manager role can access or cha
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Click **Billing emails**.
 2. Debajo de "Destinatarios de correo electrónico", encuentra la dirección de correo electrónico que quieres eliminar.
-3. Para la entrada del usuario en la lista, da clic en **Editar**. ![Screenshot of the recipient's email with the edit button emphasized](/assets/images/help/billing/billing-edit-email-recipient.png)
-4. A la derecha de la dirección de correo electrónico, utiliza el menú desplegable "Editar" y haz clic en **Eliminar**. ![Screenshot of the recipient's email with the remove button emphasized](/assets/images/help/billing/billing-remove-email-recipient.png)
+3. Para la entrada del usuario en la lista, da clic en **Editar**. ![Screenshot of the recipient's email with the edit button emphasized](/assets/images/2021/10/help/billing/billing-edit-email-recipient.png)
+4. A la derecha de la dirección de correo electrónico, utiliza el menú desplegable "Editar" y haz clic en **Eliminar**. ![Screenshot of the recipient's email with the remove button emphasized](/assets/images/2021/10/help/billing/billing-remove-email-recipient.png)
 5. Revisa el mensaje de confirmación y luego da clic en **Eliminar**.
 {% endif %}

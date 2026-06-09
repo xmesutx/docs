@@ -31,4 +31,4 @@ shortTitle: 查看仓库活动
 
 默认情况下，Pulse 显示过去七天的仓库活动。 要选择不同的时间段，请单击 Pulse 概览右上角中的 **Period（周期）**下拉列表。
 
-![按时间过滤 Pulse 活动](/assets/images/help/pulse/pulse_time_filter_dropdown.png)
+![按时间过滤 Pulse 活动](/assets/images/2021/10/help/pulse/pulse_time_filter_dropdown.png)

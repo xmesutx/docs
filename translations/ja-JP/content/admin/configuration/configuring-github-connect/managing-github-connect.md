@@ -60,10 +60,10 @@ If you're connecting {% data variables.product.product_location %} to an organiz
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
 1. 「{% data variables.product.prodname_github_connect %} is not enabled yet」の下で、「**Enable{% data variables.product.prodname_github_connect %}**」をクリックします。 By clicking **Enable {% data variables.product.prodname_github_connect %}**, you agree to the "<a href="/github/site-policy/github-terms-for-additional-products-and-features#connect" class="dotcom-only">{% data variables.product.prodname_dotcom %} Terms for Additional Products and Features</a>."
 {% ifversion ghes %}
-![Enable GitHub Connect button](/assets/images/enterprise/business-accounts/enable-github-connect-button.png){% else %}
-![Enable GitHub Connect button](/assets/images/enterprise/github-ae/enable-github-connect-button.png)
+![Enable GitHub Connect button](/assets/images/2021/10/enterprise/business-accounts/enable-github-connect-button.png){% else %}
+![Enable GitHub Connect button](/assets/images/2021/10/enterprise/github-ae/enable-github-connect-button.png)
 {% endif %}
-1. 接続したいEnterpriseアカウントまたはOrganizationの横にある「**Connect**」をクリックします。 ![Enterprise アカウントまたはビジネスアカウントの横にある [Connect] ボタン](/assets/images/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
+1. 接続したいEnterpriseアカウントまたはOrganizationの横にある「**Connect**」をクリックします。 ![Enterprise アカウントまたはビジネスアカウントの横にある [Connect] ボタン](/assets/images/2021/10/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
 
 ## {% data variables.product.prodname_github_connect %} を無効にする
 
@@ -75,9 +75,9 @@ Enterprise owners can disable {% data variables.product.prodname_github_connect 
 {% data reusables.enterprise-accounts.github-connect-tab %}
 1. 切断しようとするEnterpriseアカウントまたはOrganizationの横にある「**Disable {% data variables.product.prodname_github_connect %}**」をクリックします。
 {% ifversion ghes %}
-  ![EnterpriseアカウントまたはOrganization名の横にある「Disable GitHub Connect」ボタン](/assets/images/enterprise/business-accounts/disable-github-connect-button.png)
-1. 切断に関する情報を読み、「 **Disable {% data variables.product.prodname_github_connect %}**」をクリックします。 ![切断に関する警告情報が表示され確定ボタンがあるモーダル](/assets/images/enterprise/business-accounts/confirm-disable-github-connect.png)
+  ![EnterpriseアカウントまたはOrganization名の横にある「Disable GitHub Connect」ボタン](/assets/images/2021/10/enterprise/business-accounts/disable-github-connect-button.png)
+1. 切断に関する情報を読み、「 **Disable {% data variables.product.prodname_github_connect %}**」をクリックします。 ![切断に関する警告情報が表示され確定ボタンがあるモーダル](/assets/images/2021/10/enterprise/business-accounts/confirm-disable-github-connect.png)
 {% else %}
-  ![EnterpriseアカウントまたはOrganization名の横にある「Disable GitHub Connect」ボタン](/assets/images/enterprise/github-ae/disable-github-connect-button.png)
-1. 切断に関する情報を読み、「 **Disable {% data variables.product.prodname_github_connect %}**」をクリックします。 ![切断に関する警告情報が表示され確定ボタンがあるモーダル](/assets/images/enterprise/github-ae/confirm-disable-github-connect.png)
+  ![EnterpriseアカウントまたはOrganization名の横にある「Disable GitHub Connect」ボタン](/assets/images/2021/10/enterprise/github-ae/disable-github-connect-button.png)
+1. 切断に関する情報を読み、「 **Disable {% data variables.product.prodname_github_connect %}**」をクリックします。 ![切断に関する警告情報が表示され確定ボタンがあるモーダル](/assets/images/2021/10/enterprise/github-ae/confirm-disable-github-connect.png)
 {% endif %} 

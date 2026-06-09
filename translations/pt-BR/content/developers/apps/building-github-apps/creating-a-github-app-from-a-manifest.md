@@ -52,7 +52,7 @@ Você deve incluir os [parâmetros do manifesto do aplicativo GitHub](#github-ap
 
 A pessoa que está criando o aplicativo será redirecionada para uma página do GitHub com um campo de entrada em que poderá editar o nome do aplicativo que você incluiu no parâmetro do `manifesto`. Se você não incluir um `nome` no `manifesto`, será possível definir seu próprio nome para o aplicativo neste campo.
 
-![Criar um manifesto do aplicativo GitHub](/assets/images/github-apps/create-github-app-manifest.png)
+![Criar um manifesto do aplicativo GitHub](/assets/images/2021/10/github-apps/create-github-app-manifest.png)
 
 #### Parâmetros do manifesto do aplicativo GitHub
 
@@ -192,7 +192,7 @@ Para criar um aplicativo Probot que você pode compartilhar, siga estas etapas:
 1. Adicione o código personalizado do seu aplicativo.
 1. [Execute o aplicativo GitHub localmente](https://probot.github.io/docs/development/#running-the-app-locally) ou [hospede-o em qualquer lugar que desejar](#hosting-your-app-with-glitch). Ao acessar a URL do aplicativo hospedado, você encontrará uma página web com o botão de **Registrar o aplicativo GitHub**, em que as pessoas podem clicar para criar um aplicativo pré-configurado. A página abaixo é a implementação do Probot da [etapa 1](#1-you-redirect-people-to-github-to-create-a-new-github-app) no fluxo do manifesto do aplicativo GitHub:
 
-![Registrar um aplicativo GitHub do Probot](/assets/images/github-apps/github_apps_probot-registration.png)
+![Registrar um aplicativo GitHub do Probot](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 Ao usar [dotenv](https://github.com/bkeepers/dotenv), o Probot cria um arquivo `.env` e define o `APP_ID`, a `PRIVATE_KEY`, e as variáveis de ambiente `WEBHOOK_SECRET` com os valores [recuperados da configuração do aplicativo](#3-you-exchange-the-temporary-code-to-retrieve-the-app-configuration).
 

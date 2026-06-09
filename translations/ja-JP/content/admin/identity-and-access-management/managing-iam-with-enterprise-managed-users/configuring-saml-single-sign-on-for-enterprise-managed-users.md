@@ -77,17 +77,17 @@ After you install and configure the {% data variables.product.prodname_emu_idp_a
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 
-1. Under "SAML single sign-on", select **Require SAML authentication**. ![SAML SSO を有効化するためのチェックボックス](/assets/images/help/business-accounts/enable-saml-auth-enterprise.png)
+1. Under "SAML single sign-on", select **Require SAML authentication**. ![SAML SSO を有効化するためのチェックボックス](/assets/images/2021/10/help/business-accounts/enable-saml-auth-enterprise.png)
 
-1. Under **Sign on URL**, type the HTTPS endpoint of your IdP for single sign-on requests that you noted while configuring your IdP. ![メンバーがサインインする際にリダイレクトされる URL のフィールド](/assets/images/help/saml/saml_sign_on_url_business.png)
+1. Under **Sign on URL**, type the HTTPS endpoint of your IdP for single sign-on requests that you noted while configuring your IdP. ![メンバーがサインインする際にリダイレクトされる URL のフィールド](/assets/images/2021/10/help/saml/saml_sign_on_url_business.png)
 
-1. Under **Issuer**, type your SAML issuer URL that you noted while configuring your IdP, to verify the authenticity of sent messages. ![SAMl 発行者の名前のフィールド](/assets/images/help/saml/saml_issuer.png)
+1. Under **Issuer**, type your SAML issuer URL that you noted while configuring your IdP, to verify the authenticity of sent messages. ![SAMl 発行者の名前のフィールド](/assets/images/2021/10/help/saml/saml_issuer.png)
 
-1. Under **Public Certificate**, paste the certificate that you noted while configuring your IdP, to verify SAML responses. ![アイデンティティプロバイダからの公開の証明書のフィールド](/assets/images/help/saml/saml_public_certificate.png)
+1. Under **Public Certificate**, paste the certificate that you noted while configuring your IdP, to verify SAML responses. ![アイデンティティプロバイダからの公開の証明書のフィールド](/assets/images/2021/10/help/saml/saml_public_certificate.png)
 
-1. SAML 発行者からのリクエストの完全性を確認するには、{% octicon "pencil" aria-label="The edit icon" %} をクリックします。 Then, in the "Signature Method" and "Digest Method" drop-downs, choose the hashing algorithm used by your SAML issuer. ![SAML 発行者が使用する署名方式とダイジェスト方式のハッシュアルゴリズム用のドロップダウン](/assets/images/help/saml/saml_hashing_method.png)
+1. SAML 発行者からのリクエストの完全性を確認するには、{% octicon "pencil" aria-label="The edit icon" %} をクリックします。 Then, in the "Signature Method" and "Digest Method" drop-downs, choose the hashing algorithm used by your SAML issuer. ![SAML 発行者が使用する署名方式とダイジェスト方式のハッシュアルゴリズム用のドロップダウン](/assets/images/2021/10/help/saml/saml_hashing_method.png)
 
-1. Before enabling SAML SSO for your enterprise, to ensure that the information you've entered is correct, click **Test SAML configuration**. ![強制化の前に SAML の構成をテストするためのボタン](/assets/images/help/saml/saml_test.png)
+1. Before enabling SAML SSO for your enterprise, to ensure that the information you've entered is correct, click **Test SAML configuration**. ![強制化の前に SAML の構成をテストするためのボタン](/assets/images/2021/10/help/saml/saml_test.png)
 
 1. [**Save**] をクリックします。
 

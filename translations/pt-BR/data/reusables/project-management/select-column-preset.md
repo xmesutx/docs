@@ -1,1 +1,1 @@
-1. Opcionalmente, em "Automação", selecione uma pré-configuração de automação usando o menu suspenso. ![Selecionar automação predefinida no menu](/assets/images/help/projects/select-automation.png)
+1. Opcionalmente, em "Automação", selecione uma pré-configuração de automação usando o menu suspenso. ![Selecionar automação predefinida no menu](/assets/images/2021/10/help/projects/select-automation.png)

@@ -40,4 +40,4 @@ shortTitle: Delete organization
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-4. Junto a la parte inferior de la página de configuración de la organización, haz clic en **Eliminar esta organización**. ![Botón Eliminar esta organización](/assets/images/help/settings/settings-organization-delete.png)
+4. Junto a la parte inferior de la página de configuración de la organización, haz clic en **Eliminar esta organización**. ![Botón Eliminar esta organización](/assets/images/2021/10/help/settings/settings-organization-delete.png)

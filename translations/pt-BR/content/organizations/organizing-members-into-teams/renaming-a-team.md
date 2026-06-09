@@ -18,5 +18,5 @@ topics:
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-5. Insira um novo nome ou descrição para a equipe. ![Campos de nome e descrição da equipe](/assets/images/help/teams/team-name-description.png)
+5. Insira um novo nome ou descrição para a equipe. ![Campos de nome e descrição da equipe](/assets/images/2021/10/help/teams/team-name-description.png)
 6. Clique em **Atualizar**.

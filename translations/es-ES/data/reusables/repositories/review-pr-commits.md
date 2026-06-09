@@ -1,1 +1,1 @@
-1. En la solicitud de extracción, da clic en {% octicon "git-commit" aria-label="The commit icon" %}**Confirmaciones**. ![Pestaña de confirmaciones en una solicitud de extracción](/assets/images/help/pull_requests/pull-request-tabs-commits.png)
+1. En la solicitud de extracción, da clic en {% octicon "git-commit" aria-label="The commit icon" %}**Confirmaciones**. ![Pestaña de confirmaciones en una solicitud de extracción](/assets/images/2021/10/help/pull_requests/pull-request-tabs-commits.png)

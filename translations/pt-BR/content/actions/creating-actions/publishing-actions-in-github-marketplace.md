@@ -38,13 +38,13 @@ Você pode adicionar a ação que você criou em {% data variables.product.prodn
 Para compartilhar uma nova versão e publicar a ação em {% data variables.product.prodname_marketplace %}, siga essas instruções:
 
 {% data reusables.repositories.navigate-to-repo %}
-1. Se um repositório contiver um arquivo de metadados da ação (`action.yml` ou `action.yaml`), você verá um banner para publicar a ação em {% data variables.product.prodname_marketplace %}. Clique em **Elaborar uma versão**. ![Publique esta ação no botão marketplace](/assets/images/help/repository/publish-github-action-to-markeplace-button.png)
-1. Selecione **Publicar esta ação em {% data variables.product.prodname_marketplace %}**. Se não for possível marcar a caixa de seleção **Publicar esta ação em {% data variables.product.prodname_marketplace %}**, você deverá ler e aceitar o Contrato {% data variables.product.prodname_marketplace %} primeiro. ![Selecione publicar no "Marketplace"](/assets/images/help/repository/marketplace_actions_publish.png)
-1. Se as etiquetas do seu arquivo de metadados tiverem algum problema, você receberá uma mensagem de erro. ![Veja a notificação](/assets/images/help/repository/marketplace_actions_fixerrors.png)
-1. Se você ver alguma sugestão na tela, resolva-as atualizando o arquivo de metadados. Após a conclusão, você receberá a mensagem "Tudo está OK". ![Corrigir erros](/assets/images/help/repository/marketplace_actions_looksgood.png)
-1. Escolha uma "categoria primária" e, opcionalmente, "outra categoria", que ajudará as pessoas a encontrar a sua ação em {% data variables.product.prodname_marketplace %}. ![Escolha a categoria](/assets/images/help/repository/marketplace_actions_categories.png)
-1. Marque a sua Ação com uma versão e adicione um título de versão. Isso ajuda as pessoas a saber quais alterações ou recursos estão incluídos na versão. As pessoas verão a versão na página dedicada da ação {% data variables.product.prodname_marketplace %}. ![Marque uma versão](/assets/images/help/repository/marketplace_actions_version.png)
-1. Preencha todos os outros campos e clique em **Publicar versão**. A publicação exige a utilização de uma autenticação de dois fatores. Para obter mais informações, consulte "[Configurar a autenticação de dois fatores](/articles/configuring-two-factor-authentication/)". ![Publique a versão](/assets/images/help/repository/marketplace_actions_publishrelease.png)
+1. Se um repositório contiver um arquivo de metadados da ação (`action.yml` ou `action.yaml`), você verá um banner para publicar a ação em {% data variables.product.prodname_marketplace %}. Clique em **Elaborar uma versão**. ![Publique esta ação no botão marketplace](/assets/images/2021/10/help/repository/publish-github-action-to-markeplace-button.png)
+1. Selecione **Publicar esta ação em {% data variables.product.prodname_marketplace %}**. Se não for possível marcar a caixa de seleção **Publicar esta ação em {% data variables.product.prodname_marketplace %}**, você deverá ler e aceitar o Contrato {% data variables.product.prodname_marketplace %} primeiro. ![Selecione publicar no "Marketplace"](/assets/images/2021/10/help/repository/marketplace_actions_publish.png)
+1. Se as etiquetas do seu arquivo de metadados tiverem algum problema, você receberá uma mensagem de erro. ![Veja a notificação](/assets/images/2021/10/help/repository/marketplace_actions_fixerrors.png)
+1. Se você ver alguma sugestão na tela, resolva-as atualizando o arquivo de metadados. Após a conclusão, você receberá a mensagem "Tudo está OK". ![Corrigir erros](/assets/images/2021/10/help/repository/marketplace_actions_looksgood.png)
+1. Escolha uma "categoria primária" e, opcionalmente, "outra categoria", que ajudará as pessoas a encontrar a sua ação em {% data variables.product.prodname_marketplace %}. ![Escolha a categoria](/assets/images/2021/10/help/repository/marketplace_actions_categories.png)
+1. Marque a sua Ação com uma versão e adicione um título de versão. Isso ajuda as pessoas a saber quais alterações ou recursos estão incluídos na versão. As pessoas verão a versão na página dedicada da ação {% data variables.product.prodname_marketplace %}. ![Marque uma versão](/assets/images/2021/10/help/repository/marketplace_actions_version.png)
+1. Preencha todos os outros campos e clique em **Publicar versão**. A publicação exige a utilização de uma autenticação de dois fatores. Para obter mais informações, consulte "[Configurar a autenticação de dois fatores](/articles/configuring-two-factor-authentication/)". ![Publique a versão](/assets/images/2021/10/help/repository/marketplace_actions_publishrelease.png)
 
 ## Remover uma ação de {% data variables.product.prodname_marketplace %}
 
@@ -52,6 +52,6 @@ Para remover uma ação publicada de {% data variables.product.prodname_marketpl
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-3. Na página Releases (Versões), à direita da versão que deseja editar, clique em **Edit** (Editar). ![Botão Release edit (Edição de versão)](/assets/images/help/releases/release-edit-btn.png)
-4. Selecione **Publicar esta ação em {% data variables.product.prodname_marketplace %}** para remover a seleção da caixa. ![Botão "publicar esta ação"](/assets/images/help/repository/actions-marketplace-unpublish.png)
-5. Clique em **Atualizar versão** na parte inferior da página. ![Atualize o botão da versão](/assets/images/help/repository/actions-marketplace-update-release.png)
+3. Na página Releases (Versões), à direita da versão que deseja editar, clique em **Edit** (Editar). ![Botão Release edit (Edição de versão)](/assets/images/2021/10/help/releases/release-edit-btn.png)
+4. Selecione **Publicar esta ação em {% data variables.product.prodname_marketplace %}** para remover a seleção da caixa. ![Botão "publicar esta ação"](/assets/images/2021/10/help/repository/actions-marketplace-unpublish.png)
+5. Clique em **Atualizar versão** na parte inferior da página. ![Atualize o botão da versão](/assets/images/2021/10/help/repository/actions-marketplace-update-release.png)

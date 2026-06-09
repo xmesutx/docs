@@ -40,7 +40,7 @@ Dependency review allows you to "shift left". You can use the provided predictiv
 
 1. If the pull request contains many files, use the **File filter** drop-down menu to collapse all files that don't record dependencies. This will make it easier to focus your review on the dependency changes.
 
-   ![The file filter menu](/assets/images/help/pull_requests/file-filter-menu-json.png)
+   ![The file filter menu](/assets/images/2021/10/help/pull_requests/file-filter-menu-json.png)
    The dependency review provides a clearer view of what has changed in large lock files, where the source diff is not rendered by default.
 
   {% note %}
@@ -51,11 +51,11 @@ Dependency review allows you to "shift left". You can use the provided predictiv
 
 1. On the right of the header for a manifest or lock file, display the dependency review by clicking the **{% octicon "file" aria-label="The rich diff icon" %}** rich diff button.
 
-   ![The rich diff button](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![The rich diff button](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 2. Check the dependencies listed in the dependency review.
 
-   ![Vulnerability warnings in a dependency review](/assets/images/help/pull_requests/dependency-review-vulnerability.png)
+   ![Vulnerability warnings in a dependency review](/assets/images/2021/10/help/pull_requests/dependency-review-vulnerability.png)
 
    Any added or changed dependencies that have vulnerabilities are listed first, ordered by severity and then by dependency name. This means that the highest severity dependencies are always at the top of a dependency review. Other dependencies are listed alphabetically by dependency name.
 

@@ -1,3 +1,3 @@
 1. ランナーがグループ内にあるなら、そのランナーグループを見つけて{% octicon "chevron-down" aria-label="The downward chevron" %}をクリックし、ランナーのリストを表示させてください。
 
-    ![ランナーグループをリスト](/assets/images/help/settings/actions-hosted-runner-group-members.png)
+    ![ランナーグループをリスト](/assets/images/2021/10/help/settings/actions-hosted-runner-group-members.png)

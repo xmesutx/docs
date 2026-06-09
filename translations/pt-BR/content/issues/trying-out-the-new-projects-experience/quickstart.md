@@ -70,12 +70,12 @@ Agora, crie um campo personalizado denominado `Prioridade` para conter os valore
 3. Selecione **Criar novo campo**.
 4. Na janela de pop-up resultante, digite `Prioridade` na caixa de texto.
 5. Na lista de seleção, selecione **Seleção única**.
-6. Adicionar opções para `Alto`, `Médio` e `Baixo`. Você também pode incluir emojis nas suas opções. ![Novo exemplo de campo de seleção única](/assets/images/help/projects/new-single-select-field.png)
+6. Adicionar opções para `Alto`, `Médio` e `Baixo`. Você também pode incluir emojis nas suas opções. ![Novo exemplo de campo de seleção única](/assets/images/2021/10/help/projects/new-single-select-field.png)
 7. Clique em **Salvar**.
 
 Especifique uma prioridade para todos os problemas no seu projeto.
 
-![Prioridades de exemplo](/assets/images/help/projects/priority_example.png)
+![Prioridades de exemplo](/assets/images/2021/10/help/projects/priority_example.png)
 
 ## Agrupar problemas por prioridade
 
@@ -90,7 +90,7 @@ Agora, transfira os problemas entre grupos para mudar a sua prioridade.
 1. Escolha um problema.
 2. Arraste e solte o problema em um grupo de prioridade diferente. Ao fazer isso, a prioridade do problema passará a ser a prioridade do seu novo grupo.
 
-![Transferir problemas entre grupos](/assets/images/help/projects/move_between_group.gif)
+![Transferir problemas entre grupos](/assets/images/2021/10/help/projects/move_between_group.gif)
 
 ## Salvando a visualização da prioridade
 
@@ -114,7 +114,7 @@ Para ver o progresso dos problemas do seu projeto, você pode alternar para o la
 
 O layout do quadro é baseado no campo de status. Portanto, especifique um status para cada problema no seu projeto.
 
-![Status do exemplo](/assets/images/help/projects/status_example.png)
+![Status do exemplo](/assets/images/2021/10/help/projects/status_example.png)
 
 Em seguida, crie uma nova visualização.
 
@@ -124,7 +124,7 @@ Em seguida, mude para o layout do quadro.
 
 1. {% data reusables.projects.open-command-palette %}
 2. Comece a digitar qualquer parte de "Layout Switch: Board".
-3. Selecione **Mudar layout: Board**. ![Prioridades de exemplo](/assets/images/help/projects/example_board.png)
+3. Selecione **Mudar layout: Board**. ![Prioridades de exemplo](/assets/images/2021/10/help/projects/example_board.png)
 
 Quando você alterou o layout, o projeto exibiu um indicador para mostrar que a visualização foi modificada. Salve esta visualização para que você e seus colaboradores possam acessá-la facilmente no futuro.
 
@@ -136,7 +136,7 @@ Para indicar o propósito da visão, dê um nome descritivo.
 1. Coloque o cursor no nome atual da visualização, **Visualização2**.
 2. Substitua o texto existente pelo novo nome, `Progresso`.
 
-![Prioridades de exemplo](/assets/images/help/projects/project-view-switch.gif)
+![Prioridades de exemplo](/assets/images/2021/10/help/projects/project-view-switch.gif)
 
 ## Configure a automação integrada
 

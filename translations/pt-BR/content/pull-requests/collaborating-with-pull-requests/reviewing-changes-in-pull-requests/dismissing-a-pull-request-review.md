@@ -23,9 +23,9 @@ Isso altera o status da revisão para um comentário de revisão. Quando você i
 
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.choose-pr-review %}
-3. Na guia "Conversation" (Conversa), role até a revisão a ser ignorada e clique em {% octicon "chevron-down" aria-label="The down button" %}. ![Ícone de divisa na caixa de merge](/assets/images/help/pull_requests/merge_box/pull-request-open-menu.png)
-4. Clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e depois em **Dismiss review** (Ignorar revisão). ![Ícone de kebab na caixa de merge](/assets/images/help/pull_requests/merge_box/pull-request-dismiss-review.png)
-5. Digite o motivo para ignorá-la e clique em **Dismiss review** (Ignorar revisão). ![Botão Dismiss review (Ignorar revisão)](/assets/images/help/pull_requests/merge_box/pull-request-dismiss-review-button.png)
+3. Na guia "Conversation" (Conversa), role até a revisão a ser ignorada e clique em {% octicon "chevron-down" aria-label="The down button" %}. ![Ícone de divisa na caixa de merge](/assets/images/2021/10/help/pull_requests/merge_box/pull-request-open-menu.png)
+4. Clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e depois em **Dismiss review** (Ignorar revisão). ![Ícone de kebab na caixa de merge](/assets/images/2021/10/help/pull_requests/merge_box/pull-request-dismiss-review.png)
+5. Digite o motivo para ignorá-la e clique em **Dismiss review** (Ignorar revisão). ![Botão Dismiss review (Ignorar revisão)](/assets/images/2021/10/help/pull_requests/merge_box/pull-request-dismiss-review-button.png)
 
 ## Leia mais
 

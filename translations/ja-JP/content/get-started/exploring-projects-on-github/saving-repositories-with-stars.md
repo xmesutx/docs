@@ -36,8 +36,8 @@ Star を付けることで、リポジトリやトピックが後で見つけや
 Starring a repository is a simple two-step process.
 
 {% data reusables.repositories.navigate-to-repo %}
-1. In the top-right corner of the page, click **Star**. ![Starring a repository](/assets/images/help/stars/starring-a-repository.png)
-1. Optionally, to unstar a previously starred repository, click **Unstar**. ![Untarring a repository](/assets/images/help/stars/unstarring-a-repository.png)
+1. In the top-right corner of the page, click **Star**. ![Starring a repository](/assets/images/2021/10/help/stars/starring-a-repository.png)
+1. Optionally, to unstar a previously starred repository, click **Unstar**. ![Untarring a repository](/assets/images/2021/10/help/stars/unstarring-a-repository.png)
 
 {% ifversion fpt or ghec %}
 ## Organizing starred repositories with lists
@@ -52,44 +52,44 @@ Curate repositories that you've starred with public lists. You can create public
 
 If you add a private repository to a list, then the private repository will only appear in your list for people with `read` access to the repository.
 
-![Screenshot of lists on stars page](/assets/images/help/stars/lists-overview-on-stars-page.png)
+![Screenshot of lists on stars page](/assets/images/2021/12/help/stars/lists-overview-on-stars-page.png)
 
 You can add a repository to an existing or new list wherever you see a repository's **Star** or **Starred** dropdown menu, whether on a repository page or in a list of starred repositories.
 
-![Screenshot of "Star" dropdown menu with list options featured from the repository page](/assets/images/help/stars/stars-dropdown-on-repo.png)
+![Screenshot of "Star" dropdown menu with list options featured from the repository page](/assets/images/2021/12/help/stars/stars-dropdown-on-repo.png)
 
-![Screenshot of "Starred" dropdown menu with list options featured from a starred repository list](/assets/images/help/stars/add-repo-to-list.png)
+![Screenshot of "Starred" dropdown menu with list options featured from a starred repository list](/assets/images/2021/12/help/stars/add-repo-to-list.png)
 
 ### Creating a list
 
 {% data reusables.stars.stars-page-navigation %}
-2. Next to "Lists", click **Create list**. ![Screenshot of "Create list" button](/assets/images/help/stars/create-list.png)
-3. Enter a name and description for your list and click **Create**. ![Screenshot of modal showing where you enter a name and description with the "Create" button.](/assets/images/help/stars/create-list-with-description.png)
+2. Next to "Lists", click **Create list**. ![Screenshot of "Create list" button](/assets/images/2021/12/help/stars/create-list.png)
+3. Enter a name and description for your list and click **Create**. ![Screenshot of modal showing where you enter a name and description with the "Create" button.](/assets/images/2021/12/help/stars/create-list-with-description.png)
 
 ### Adding a repository to a list
 
 {% data reusables.stars.stars-page-navigation %}
-2. Find the repository you want to add to your list. ![Screenshot of starred repos search bar](/assets/images/help/stars/search-bar-for-starred-repos.png)
-3. Next to the repository you want to add, use the **Starred** dropdown menu and select your list. ![Screenshot of dropdown showing a list checkboxes](/assets/images/help/stars/add-repo-to-list.png)
+2. Find the repository you want to add to your list. ![Screenshot of starred repos search bar](/assets/images/2021/12/help/stars/search-bar-for-starred-repos.png)
+3. Next to the repository you want to add, use the **Starred** dropdown menu and select your list. ![Screenshot of dropdown showing a list checkboxes](/assets/images/2021/12/help/stars/add-repo-to-list.png)
 
 ### Removing a repository from your list
 
 {% data reusables.stars.stars-page-navigation %}
 2. Select your list.
-3. Next to the repository you want to remove, use the **Starred** dropdown menu and deselect your list. ![Screenshot of dropdown showing list checkboxes](/assets/images/help/stars/add-repo-to-list.png)
+3. Next to the repository you want to remove, use the **Starred** dropdown menu and deselect your list. ![Screenshot of dropdown showing list checkboxes](/assets/images/2021/12/help/stars/add-repo-to-list.png)
 
 ### Editing a list name or description
 
 {% data reusables.stars.stars-page-navigation %}
 1. Select the list you want to edit.
 2. Click **Edit list**.
-3. Update the name or description and click **Save list**. ![Screenshot of modal showing "Save list" button](/assets/images/help/stars/edit-list-options.png)
+3. Update the name or description and click **Save list**. ![Screenshot of modal showing "Save list" button](/assets/images/2021/12/help/stars/edit-list-options.png)
 
 ### Deleting a list
 
 {% data reusables.stars.stars-page-navigation %}
 2. Select the list you want to delete.
-3. Click **Delete list**. ![Screenshot of modal showing "Delete list" button](/assets/images/help/stars/edit-list-options.png)
+3. Click **Delete list**. ![Screenshot of modal showing "Delete list" button](/assets/images/2021/12/help/stars/edit-list-options.png)
 4. To confirm, click **Delete**.
 
 {% endif %}
@@ -99,7 +99,7 @@ You can add a repository to an existing or new list wherever you see a repositor
 You can use the search bar on your {% data variables.explore.your_stars_page %} to quickly find repositories and topics you've starred.
 
 1. Go to your {% data variables.explore.your_stars_page %}.
-1. Use the search bar to find your starred repositories or topics by their name. ![Star で検索する](/assets/images/help/stars/stars_search_bar.png)
+1. Use the search bar to find your starred repositories or topics by their name. ![Star で検索する](/assets/images/2021/10/help/stars/stars_search_bar.png)
 
 検索バーは、リポジトリまたはトピックの名前に基づいて検索するだけで、他の条件 (リポジトリのサイズ、最終更新日時など) は使われません。
 
@@ -108,9 +108,9 @@ You can use the search bar on your {% data variables.explore.your_stars_page %} 
 You can use sorting or filtering to customize how you see starred repositories and topics on your stars page.
 
 1. Go to your {% data variables.explore.your_stars_page %}.
-1. To sort stars, select the **Sort** drop-down menu, then select **Recently starred**, **Recently active**, or **Most stars**. ![Star のソート](/assets/images/help/stars/stars_sort_menu.png)
-1. To filter your list of stars based on their language, click on the desired language under **Filter by languages**. ![Star を言語別にフィルタリング](/assets/images/help/stars/stars_filter_language.png)
-1. To filter your list of stars based on repository or topic, click on the desired option. ![Filter stars by topic](/assets/images/help/stars/stars_filter_topic.png)
+1. To sort stars, select the **Sort** drop-down menu, then select **Recently starred**, **Recently active**, or **Most stars**. ![Star のソート](/assets/images/2021/10/help/stars/stars_sort_menu.png)
+1. To filter your list of stars based on their language, click on the desired language under **Filter by languages**. ![Star を言語別にフィルタリング](/assets/images/2021/10/help/stars/stars_filter_language.png)
+1. To filter your list of stars based on repository or topic, click on the desired option. ![Filter stars by topic](/assets/images/2021/10/help/stars/stars_filter_topic.png)
 
 ## 参考リンク
 

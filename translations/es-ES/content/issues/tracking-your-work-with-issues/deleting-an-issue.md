@@ -22,7 +22,7 @@ Para eliminar una propuesta en un repositorio que sea propiedad de una organizac
 Los colaboradores no reciben una notificación cuando eliminas una propuesta. Cuando visiten la URL de una propuesta que ha sido eliminada, los colaboradores verán un mensaje que dice que la propuesta se ha eliminado. Los usuarios con permisos de propietario o de administración en el repositorio verán también el nombre de usuario de la persona que eliminó la propuesta y la fecha en que se la eliminó.
 
 1. Dirígete a la propuesta que deseas eliminar.
-2. En la barra lateral derecha, debajo de "Notificaciones", da clic en **Borrar informe de problemas**. ![Texto de "Borrar informe de problemas" resaltado al final de la barra lateral derecha de la página del informe de problemas](/assets/images/help/issues/delete-issue.png)
+2. En la barra lateral derecha, debajo de "Notificaciones", da clic en **Borrar informe de problemas**. ![Texto de "Borrar informe de problemas" resaltado al final de la barra lateral derecha de la página del informe de problemas](/assets/images/2021/10/help/issues/delete-issue.png)
 4. Para confirmar la eliminación, haz clic en **Eliminar esta propuesta**.
 
 ## Leer más

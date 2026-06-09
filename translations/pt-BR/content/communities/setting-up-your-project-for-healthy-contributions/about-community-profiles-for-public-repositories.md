@@ -23,7 +23,7 @@ Se um projeto não tiver um arquivo recomendado, você poderá clicar em **Adici
 
 {% data reusables.repositories.valid-community-issues %}Para obter mais informações, consulte "[Sobre modelos de problema e pull request](/articles/about-issue-and-pull-request-templates)".
 
-![Checklist do perfil de comunidade com padrões recomendados da comunidade para mantenedores](/assets/images/help/repository/add-button-community-profile.png)
+![Checklist do perfil de comunidade com padrões recomendados da comunidade para mantenedores](/assets/images/2021/10/help/repository/add-button-community-profile.png)
 
 {% data reusables.repositories.security-guidelines %}
 
@@ -33,7 +33,7 @@ Como um contribuidor potencial, use a checklist do perfil de comunidade para ver
 
 Se um projeto não tiver um arquivo recomendado, você poderá clicar em **Propor** para rascunhar e enviar um arquivo ao mantenedor de repositório para aprovação.
 
-![Checklist do perfil de comunidade com padrões recomendados da comunidade para contribuidores](/assets/images/help/repository/propose-button-community-profile.png)
+![Checklist do perfil de comunidade com padrões recomendados da comunidade para contribuidores](/assets/images/2021/10/help/repository/propose-button-community-profile.png)
 
 ## Leia mais
 

@@ -41,11 +41,11 @@ For more information about forks, see "[About forks](/pull-requests/collaboratin
 
 {% data reusables.repositories.navigate-to-repo %}
 2. Above the file list, click **Use this template**.
-  ![Use this template button](/assets/images/help/repository/use-this-template-button.png)
+  ![Use this template button](/assets/images/2021/10/help/repository/use-this-template-button.png)
 {% data reusables.repositories.owner-drop-down %}
 {% data reusables.repositories.repo-name %}
 {% data reusables.repositories.choose-repo-visibility %}{% ifversion fpt or ghae or ghes or ghec %}
 6. Optionally, to include the directory structure and files from all branches in the template, and not just the default branch, select **Include all branches**.
-  ![Include all branches checkbox](/assets/images/help/repository/include-all-branches.png){% endif %}
+  ![Include all branches checkbox](/assets/images/2021/10/help/repository/include-all-branches.png){% endif %}
 {% data reusables.repositories.select-marketplace-apps %}
 8. Click **Create repository from template**.

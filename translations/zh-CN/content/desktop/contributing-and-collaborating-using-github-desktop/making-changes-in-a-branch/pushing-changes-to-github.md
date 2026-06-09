@@ -32,8 +32,8 @@ versions:
 {% endnote %}
 
 {% data reusables.desktop.push-origin %}
-2. 如果 {% data variables.product.prodname_desktop %} 提示您从远程提取新的提交，请单击 **Fetch（提取）**。 ![提取按钮](/assets/images/help/desktop/fetch-newer-commits.png)
-3. （可选）单击 **Create Pull Request（创建拉取请求）**来打开拉取请求并协作进行您的更改。 更多信息请参阅“[创建议题或拉取请求](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)”。 ![创建拉取请求按钮](/assets/images/help/desktop/create-pull-request.png)
+2. 如果 {% data variables.product.prodname_desktop %} 提示您从远程提取新的提交，请单击 **Fetch（提取）**。 ![提取按钮](/assets/images/2021/10/help/desktop/fetch-newer-commits.png)
+3. （可选）单击 **Create Pull Request（创建拉取请求）**来打开拉取请求并协作进行您的更改。 更多信息请参阅“[创建议题或拉取请求](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)”。 ![创建拉取请求按钮](/assets/images/2021/10/help/desktop/create-pull-request.png)
 
 ## 延伸阅读
 - {% data variables.product.prodname_dotcom %} 词汇表中的“[推送](/github/getting-started-with-github/github-glossary/#push)”

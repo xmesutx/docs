@@ -20,8 +20,8 @@ type: how_to
 
 Issue およびPull Requestダッシュボードは、すべてのページの上部にもあります。 各ダッシュボードで、リストをフィルタリングして、自分に割り当てられている、または自分がメンションしている Issue またはPull Requestを検索することができます。 レビューを依頼されたPull Requestを検索することもできます。
 
-1. ページの上部にある [**Pull requests**] または [**Issues**] をクリックします。 ![グローバルPull Requestと Issue ダッシュボード](/assets/images/help/overview/issues_and_pr_dashboard.png)
-2. 必要に応じて、フィルターを選択するか、[検索バーを使用してより具体的な結果をフィルタリングします](/articles/using-search-to-filter-issues-and-pull-requests)。 ![選択された "Created" フィルターによるPull Requestのリスト](/assets/images/help/overview/pr_dashboard_created.png)
+1. ページの上部にある [**Pull requests**] または [**Issues**] をクリックします。 ![グローバルPull Requestと Issue ダッシュボード](/assets/images/2021/10/help/overview/issues_and_pr_dashboard.png)
+2. 必要に応じて、フィルターを選択するか、[検索バーを使用してより具体的な結果をフィルタリングします](/articles/using-search-to-filter-issues-and-pull-requests)。 ![選択された "Created" フィルターによるPull Requestのリスト](/assets/images/2021/10/help/overview/pr_dashboard_created.png)
 
 ## 参考リンク
 

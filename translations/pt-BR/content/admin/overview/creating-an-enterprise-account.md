@@ -29,19 +29,19 @@ Para criar uma conta corporativa em {% data variables.product.prodname_dotcom %}
 {% data reusables.organizations.billing-settings %}
 1. Clique **- Atualizar para a conta corporativa**.
 
-   ![Captura de tela do botão "Atualizar para uma conta corporativa"](/assets/images/help/business-accounts/upgrade-to-enterprise-account.png)
+   ![Captura de tela do botão "Atualizar para uma conta corporativa"](/assets/images/2021/11/help/business-accounts/upgrade-to-enterprise-account.png)
 1. Em "Nome da empresa", digite um nome para a sua conta corporativa.
 
-   ![Captura de tela do campo "Nome da empresa"](/assets/images/help/business-accounts/enterprise-name-field.png)
+   ![Captura de tela do campo "Nome da empresa"](/assets/images/2021/11/help/business-accounts/enterprise-name-field.png)
 1. Em "Slug da URL da empresa", digite um slug para a conta da sua empresa. Esse slug será usado na URL da sua empresa. Por exemplo, se você escolher `octo-business`, a URL da sua empresa será `https://github.com/enterprises/octo-enterprise`.
 
-   ![Captura de tela do campo do "Slug da URL da empresa"](/assets/images/help/business-accounts/enterprise-slug-field.png)
+   ![Captura de tela do campo do "Slug da URL da empresa"](/assets/images/2021/11/help/business-accounts/enterprise-slug-field.png)
 1. Clique em **Confirmar e atualizar**.
 
-   ![Captura de tela do botão "Confirmar e atualizar"](/assets/images/help/business-accounts/confirm-and-upgrade-button.png)
+   ![Captura de tela do botão "Confirmar e atualizar"](/assets/images/2021/11/help/business-accounts/confirm-and-upgrade-button.png)
 1. Leia os avisos e clique em **Criar conta corporativa**.
 
-   ![Captura de tela do botão "Criar conta corporativa"](/assets/images/help/business-accounts/create-enterprise-account-button.png)
+   ![Captura de tela do botão "Criar conta corporativa"](/assets/images/2021/11/help/business-accounts/create-enterprise-account-button.png)
 
 ## Próximas etapas
 

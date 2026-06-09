@@ -29,7 +29,7 @@ hidden: true
 
 1. Under the repository name, use the **{% octicon "code" aria-label="The code icon" %} Code** drop-down menu, and in the **Codespaces** tab, click {% octicon "plus" aria-label="The plus icon" %} **New codespace**.
 
-  ![[New codespace] ボタン](/assets/images/help/codespaces/new-codespace-button.png)
+  ![[New codespace] ボタン](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   If you don’t see this option, {% data variables.product.prodname_codespaces %} isn't available for your project. See [Access to {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) for more information.
 
@@ -48,8 +48,8 @@ vCPU と RAM の量を調整したり、[ドットファイルを追加して環
 
 
 {% data reusables.codespaces.command-palette-container %}
-3. この例では、[**Java**] をクリックします。 実際には、Java に固有の任意のコンテナ、または Java と Azure Functions などのツールの組み合わせを選択できます。 ![リストから Java オプションを選択](/assets/images/help/codespaces/add-java-prebuilt-container.png)
-4. Java の推奨バージョンをクリックします。 ![Java バージョンを選択](/assets/images/help/codespaces/add-java-version.png)
+3. この例では、[**Java**] をクリックします。 実際には、Java に固有の任意のコンテナ、または Java と Azure Functions などのツールの組み合わせを選択できます。 ![リストから Java オプションを選択](/assets/images/2021/10/help/codespaces/add-java-prebuilt-container.png)
+4. Java の推奨バージョンをクリックします。 ![Java バージョンを選択](/assets/images/2021/10/help/codespaces/add-java-version.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### 開発コンテナの構造
@@ -153,7 +153,7 @@ Dockerfile を使用して、コンテナレイヤーを追加し、Dockerfile �
 
 1. Explorer で、ツリーから `devcontainer.json` ファイルを選択して開きます。 表示するには、`.devcontainer` フォルダを展開する必要がある場合があります。
 
-  ![devcontainer.json file in the Explorer](/assets/images/help/codespaces/devcontainers-options.png)
+  ![devcontainer.json file in the Explorer](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. `extensions` の後に、`devcontainer.json` ファイルに次の行を追加します。
 
@@ -177,7 +177,7 @@ Dockerfile を使用して、コンテナレイヤーを追加し、Dockerfile �
 
 2. プロジェクトが開始されると、プロジェクトが使用するポートに接続するためのプロンプトが表示されたトーストが右下隅に表示されます。
 
-  ![ポートフォワーディングトースト](/assets/images/help/codespaces/codespaces-port-toast.png)
+  ![ポートフォワーディングトースト](/assets/images/2021/10/help/codespaces/codespaces-port-toast.png)
 
 ## ステップ 5: 変更をコミットする
 

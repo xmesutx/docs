@@ -14,7 +14,7 @@ Você pode continuar alterando um commit até que ele seja enviado para o reposi
 ## Alterando um commit
 
 {% data reusables.desktop.history-tab %}
-2. Clique com o botão direito no commit mais recente e selecione **Alterar commit**. ![Menu alterar o contexto do commit](/assets/images/help/desktop/amend-commit-context-menu.png)
+2. Clique com o botão direito no commit mais recente e selecione **Alterar commit**. ![Menu alterar o contexto do commit](/assets/images/2021/10/help/desktop/amend-commit-context-menu.png)
 3. Clique no campo **Resumo** para modificar a mensagem de commit. Opcionalmente, você pode modificar ou adicionar informações sobre o commit no campo **Descrição**.
 4. Selecione qualquer alteração não confirmada que você gostaria de adicionar ao commit. Para obter mais informações sobre a seleção de alterações, consulte "[Fazendo commit e revisando as alterações no seu projeto](/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit)".
-5. Depois de finalizar as alterações, clique **Alterar o último commit**. ![Alterar resumo do último commit](/assets/images/help/desktop/amend-last-commit-overview.png)
+5. Depois de finalizar as alterações, clique **Alterar o último commit**. ![Alterar resumo do último commit](/assets/images/2021/10/help/desktop/amend-last-commit-overview.png)

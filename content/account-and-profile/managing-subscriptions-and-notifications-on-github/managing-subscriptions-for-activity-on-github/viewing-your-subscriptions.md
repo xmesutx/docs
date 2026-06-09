@@ -33,7 +33,7 @@ We recommend auditing and unsubscribing from your subscriptions as a part of a h
 
 When your inbox has too many notifications to manage, consider whether you have oversubscribed or how you can change your notification settings to reduce the subscriptions you have and the types of notifications you're receiving. For example, you may consider disabling the settings to automatically watch all repositories and all team discussions whenever you've joined a team or repository.
 
-![Automatic watching](/assets/images/help/notifications-v2/automatic-watching-example.png)
+![Automatic watching](/assets/images/2021/10/help/notifications-v2/automatic-watching-example.png)
 
 For more information, see "[Configuring notifications](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#automatic-watching)."
 
@@ -50,11 +50,11 @@ Many people forget about repositories that they've chosen to watch in the past. 
 
 {% data reusables.notifications.access_notifications %}
 1. In the left sidebar, under the list of repositories that you have notifications from, use the "Manage notifications" drop-down to click **Subscriptions**.
-  ![Manage notifications drop down menu options](/assets/images/help/notifications-v2/manage-notifications-options.png)
+  ![Manage notifications drop down menu options](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
 2. Use the filters and sort to narrow the list of subscriptions and begin unsubscribing to conversations you no longer want to receive notifications for.
 
-  ![Subscriptions page](/assets/images/help/notifications-v2/all-subscriptions.png)
+  ![Subscriptions page](/assets/images/2021/10/help/notifications-v2/all-subscriptions.png)
 
 {% tip %}
 
@@ -68,9 +68,9 @@ Many people forget about repositories that they've chosen to watch in the past. 
 ## Reviewing repositories that you're watching
 
 1. In the left sidebar, under the list of repositories, use the "Manage notifications" drop-down menu and click **Watched repositories**.
-  ![Manage notifications drop down menu options](/assets/images/help/notifications-v2/manage-notifications-options.png)
+  ![Manage notifications drop down menu options](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 2. Evaluate the repositories that you are watching and decide if their updates are still relevant and helpful. When you watch a repository, you will be notified of all conversations for that repository.
-![Watched notifications page](/assets/images/help/notifications-v2/watched-notifications-custom.png)
+![Watched notifications page](/assets/images/2021/10/help/notifications-v2/watched-notifications-custom.png)
 
   {% tip %}
 

@@ -33,7 +33,7 @@ Na seção "Recent activity" (Atividade recente) do feed de notícias, você pod
 
 Na barra lateral esquerda do painel, é possível acessar os repositórios e equipes principais que usa.
 
-![lista de repositórios e equipes de diferentes organizações](/assets/images/help/dashboard/repositories-and-teams-from-personal-dashboard.png)
+![lista de repositórios e equipes de diferentes organizações](/assets/images/2021/10/help/dashboard/repositories-and-teams-from-personal-dashboard.png)
 
 A lista dos principais repositórios é gerada automaticamente e pode incluir qualquer repositório com o qual você interagiu, independentemente de pertencer diretamente à sua conta. As interações incluem criação commits, abrir ou comentar em problemas e pull requests. A lista dos principais repositórios não pode ser editada, mas os repositórios serão excluídos da lista 4 meses após a última vez que você interagir com eles.
 

@@ -52,6 +52,6 @@ You must authenticate to your enterprise account using SAML SSO and the supporte
 {% data reusables.identity-and-permissions.enable-team-sync-azure %}
 {% data reusables.identity-and-permissions.team-sync-confirm %}
 7. Review the details for the IdP tenant you want to connect to your enterprise account, then click **Approve**.
-  ![Pending request to enable team synchronization to a specific IdP tenant with option to approve or cancel request](/assets/images/help/teams/approve-team-synchronization.png)
+  ![Pending request to enable team synchronization to a specific IdP tenant with option to approve or cancel request](/assets/images/2021/10/help/teams/approve-team-synchronization.png)
 8. To disable team synchronization, click **Disable team synchronization**.
-  ![Disable team synchronization](/assets/images/help/teams/disable-team-synchronization.png)
+  ![Disable team synchronization](/assets/images/2021/10/help/teams/disable-team-synchronization.png)

@@ -22,7 +22,7 @@ shortTitle: Compare branches
 
 {% endnote %}
 
-You can view proposed changes in a pull request in the Files changed tab. ![プルリクエストの変更されたファイルタブ](/assets/images/help/pull_requests/pull-request-tabs-changed-files.png)
+You can view proposed changes in a pull request in the Files changed tab. ![プルリクエストの変更されたファイルタブ](/assets/images/2021/10/help/pull_requests/pull-request-tabs-changed-files.png)
 
 コミットそのものを見るよりは、プルリクエストがマージされた際に提案された変更がファイルに現れるのを見ることができます。 Files changed（変更されたファイル）タブ内では、ファイルはアルファベット順に表示されます。 ファイルへの追加は緑で表示され、先頭に`+`サインが付きます。削除されたコンテンツは赤で表示され、先頭に`-`サインが付きます。
 
@@ -42,11 +42,11 @@ diff の見方には複数の選択肢があります。
 
 プルリクエスト中の大きな変更をもっと正確に表示するために、空白の変更を無視するよう選択することもできます。
 
-![Diff の表示のオプションメニュー](/assets/images/help/pull_requests/diff-settings-menu.png)
+![Diff の表示のオプションメニュー](/assets/images/2021/10/help/pull_requests/diff-settings-menu.png)
 
 大規模なプルリクエスト中の変更のレビューを簡素化するために、選択されたファイルタイプだけを表示、CODEOWNERS であるファイルを表示、表示したことのあるファイルを非表示、または削除されたファイルを非表示にするように diff をフィルタリングできます。 詳しい情報については、「[プルリクエスト内のファイルをファイルタイプでフィルタリングする](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/filtering-files-in-a-pull-request)」を参照してください。
 
-  ![ファイルフィルタのドロップダウンメニュー](/assets/images/help/pull_requests/file-filter-menu.png)
+  ![ファイルフィルタのドロップダウンメニュー](/assets/images/2021/10/help/pull_requests/file-filter-menu.png)
 
 ## スリードットおよびツードット Git diff での比較
 

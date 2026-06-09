@@ -49,7 +49,7 @@ Embora o MinIO atualmente não apareça na interface do usuário em "Armazenamen
     - **Bucket do S3 AWS**: O nome do bucket do seu MinIO compatível com S3 e dedicado a {% data variables.product.prodname_registry %}.
     - **Chave de Acesso do AWS S3** e **Chave secreta do AWS S3**: Digite a chave de acesso do MinIO e a chave secreta para acessar seu bucket.
 
-    ![Caixas de entrada para detalhes do seu bucket do AWS S3](/assets/images/help/package-registry/s3-aws-storage-bucket-details.png)
+    ![Caixas de entrada para detalhes do seu bucket do AWS S3](/assets/images/2021/10/help/package-registry/s3-aws-storage-bucket-details.png)
 {% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 

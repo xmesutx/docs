@@ -29,7 +29,7 @@ Para obter informações sobre como usar etiquetas para encaminhar trabalhos par
 {% data reusables.actions.self-hosted-runner-list %}
 {% data reusables.actions.self-hosted-runner-list-group %}
 {% data reusables.actions.self-hosted-runner-labels-view-assigned-labels %}
-1. No campo "Filtrar etiquetas", digite o nome da sua nova etiqueta e clique em **Criar nova etiqueta**. ![Adicionar etiqueta do executor](/assets/images/help/settings/actions-add-runner-label.png)
+1. No campo "Filtrar etiquetas", digite o nome da sua nova etiqueta e clique em **Criar nova etiqueta**. ![Adicionar etiqueta do executor](/assets/images/2021/10/help/settings/actions-add-runner-label.png)
 
 O rótulo personalizado é criado e atribuído ao executor auto-hospedado. É possível remover as etiquetas personalizadas dos executores auto-hospedados, mas não é possível excluí-las manualmente. {% data reusables.actions.actions-unused-labels %}
 {% endif %}

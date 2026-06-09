@@ -16,7 +16,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-1. Para buscar los lanzamientos del repositorio, en el campo de búsqueda de la parte superior de la página de lanzamientos, teclea tu consulta y presiona **Enter**. ![Campo de búsqueda de lanzamientos](/assets/images/help/releases/search-releases.png)
+1. Para buscar los lanzamientos del repositorio, en el campo de búsqueda de la parte superior de la página de lanzamientos, teclea tu consulta y presiona **Enter**. ![Campo de búsqueda de lanzamientos](/assets/images/2021/10/help/releases/search-releases.png)
 
 ## Sintaxis de búsqueda para buscar lanzamientos en un repositorio
 

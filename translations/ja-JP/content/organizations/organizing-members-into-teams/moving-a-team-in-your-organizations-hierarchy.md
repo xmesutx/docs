@@ -32,12 +32,12 @@ Organization のオーナーは、Team の親を変更できます。 チーム�
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. Team のリストで、親を変更する Team の名前をクリックします。 ![Organization の Team のリスト](/assets/images/help/teams/click-team-name.png)
+4. Team のリストで、親を変更する Team の名前をクリックします。 ![Organization の Team のリスト](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
-6. ドロップダウンメニューを使って親チームを選択するか、既存の親を削除して [**Clear selected value**] を選択します。 ![Organization の Team がリストされるドロップダウンメニュー](/assets/images/help/teams/choose-parent-team.png)
+6. ドロップダウンメニューを使って親チームを選択するか、既存の親を削除して [**Clear selected value**] を選択します。 ![Organization の Team がリストされるドロップダウンメニュー](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. [**Update**] をクリックします。
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. [**Confirm new parent team**] をクリックします。 ![リポジトリアクセス権の変更に関する情報のモーダルボックス](/assets/images/help/teams/confirm-new-parent-team.png)
+9. [**Confirm new parent team**] をクリックします。 ![リポジトリアクセス権の変更に関する情報のモーダルボックス](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## 参考リンク
 

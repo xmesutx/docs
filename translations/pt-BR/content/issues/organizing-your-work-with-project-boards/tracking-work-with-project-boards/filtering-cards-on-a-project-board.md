@@ -34,7 +34,7 @@ Também é possível usar a barra de pesquisa "Filter cards" (Fitrar cartões) q
 - Filtrar cartões por repositório em um quadro de projetos de toda a organização usando `repo:ORGANIZATION/REPOSITORY`{% endif %}
 
 1. Navegue até o quadro de projetos que contém os cartões que você deseja filtrar.
-2. Acima da coluna cartão de projeto, clique na barra de pesquisa "Filter cards" (Filtrar cartões) e digite uma consulta para filtrar os cartões. ![Barra de pesquisa Filter card (Filtrar cartões)](/assets/images/help/projects/filter-card-search-bar.png)
+2. Acima da coluna cartão de projeto, clique na barra de pesquisa "Filter cards" (Filtrar cartões) e digite uma consulta para filtrar os cartões. ![Barra de pesquisa Filter card (Filtrar cartões)](/assets/images/2021/10/help/projects/filter-card-search-bar.png)
 
 {% tip %}
 

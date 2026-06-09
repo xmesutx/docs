@@ -35,10 +35,10 @@ Jekyll テーマをリポジトリに手動で追加したことがある場合�
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. [{% data variables.product.prodname_pages %}] で、[**Choose a theme**] または [**Change theme**] をクリックします。 ![[Choose a theme] ボタン](/assets/images/help/pages/choose-a-theme.png)
-4. ページ上部の、選択したいテーマをクリックし、[**Select theme**] をクリックします。 ![テーマのオプションおよび [Select theme] ボタン](/assets/images/help/pages/select-theme.png)
+3. [{% data variables.product.prodname_pages %}] で、[**Choose a theme**] または [**Change theme**] をクリックします。 ![[Choose a theme] ボタン](/assets/images/2021/10/help/pages/choose-a-theme.png)
+4. ページ上部の、選択したいテーマをクリックし、[**Select theme**] をクリックします。 ![テーマのオプションおよび [Select theme] ボタン](/assets/images/2021/10/help/pages/select-theme.png)
 5. サイトの *README.md* ファイルを編集するようプロンプトが表示される場合があります。
-   - ファイルを後で編集する場合、[**Cancel**] をクリックします。 ![ファイルを編集する際の [Cancel] リンク](/assets/images/help/pages/cancel-edit.png)
+   - ファイルを後で編集する場合、[**Cancel**] をクリックします。 ![ファイルを編集する際の [Cancel] リンク](/assets/images/2021/10/help/pages/cancel-edit.png)
    - To edit the file now, see "[Editing files](/repositories/working-with-files/managing-files/editing-files)."
 
 選択したテーマは、リポジトリの Markdown ファイルに自動的に適用されます。 テーマをリポジトリの HTML ファイルに適用するには、各ファイルのレイアウトを指定する YAML front matter を追加する必要があります。 詳しい情報については、Jekyll サイトの「[Front Matter](https://jekyllrb.com/docs/front-matter/)」を参照してください。

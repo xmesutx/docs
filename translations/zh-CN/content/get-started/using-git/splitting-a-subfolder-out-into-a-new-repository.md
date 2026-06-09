@@ -57,7 +57,7 @@ shortTitle: 拆分子文件夹
 
 7. 在新仓库顶部 {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} 的快速设置页面，点击 {% octicon "clippy" aria-label="The copy to clipboard icon" %} 以复制远程仓库 URL。
 
-   ![创建远程仓库 URL 字段](/assets/images/help/repository/copy-remote-repository-url-quick-setup.png)
+   ![创建远程仓库 URL 字段](/assets/images/2021/10/help/repository/copy-remote-repository-url-quick-setup.png)
 
    {% tip %}
 

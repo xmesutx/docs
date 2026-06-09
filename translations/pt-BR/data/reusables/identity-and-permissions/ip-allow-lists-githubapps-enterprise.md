@@ -11,5 +11,5 @@ Para habilitar a adição automática de endereço IP para {% data variables.pro
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. Em "Lista de permissão do IP", selecione **Habilitar o IP para a configuração da lista de aplicativos instalados no GitHub**. ![Caixa de seleção para permitir endereços IP do aplicativo GitHub](/assets/images/help/security/enable-ip-allowlist-githubapps-checkbox.png)
+1. Em "Lista de permissão do IP", selecione **Habilitar o IP para a configuração da lista de aplicativos instalados no GitHub**. ![Caixa de seleção para permitir endereços IP do aplicativo GitHub](/assets/images/2021/10/help/security/enable-ip-allowlist-githubapps-checkbox.png)
 1. Clique em **Salvar**.

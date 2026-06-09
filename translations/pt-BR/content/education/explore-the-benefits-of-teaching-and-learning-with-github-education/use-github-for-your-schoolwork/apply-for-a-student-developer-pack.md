@@ -36,7 +36,7 @@ Para obter informações sobre como renovar seu {% data variables.product.prodna
 ## Candidatar-se a um {% data variables.product.prodname_student_pack %}
 
 {% data reusables.education.benefits-page %}
-3. Em "Which best describes your academic status?" (Qual opção melhor descreve seu status acadêmico?), selecione **Student** (Estudante). ![Selecione o status acadêmico](/assets/images/help/education/academic-status-student.png)
+3. Em "Which best describes your academic status?" (Qual opção melhor descreve seu status acadêmico?), selecione **Student** (Estudante). ![Selecione o status acadêmico](/assets/images/2021/10/help/education/academic-status-student.png)
 {% data reusables.education.select-email-address %}
 {% data reusables.education.upload-proof-status %}
 {% data reusables.education.school-name %}
@@ -47,7 +47,7 @@ Para obter informações sobre como renovar seu {% data variables.product.prodna
 
 Assim que seu acesso ao {% data variables.product.prodname_student_pack %} expirar, você poderá se recandidatar se ainda estiver qualificado, embora algumas das nossas ofertas de parceiro não possam ser renovadas. A maioria das ofertas com tempo limitado de nossos parceiros entra em vigor assim que você as configura. To reapply, simply return to https://education.github.com, click your profile picture, then click **Reverify your academic affiliation**.
 
-![Menu option to reverify your academic affiliation](/assets/images/help/education/reverify-academic-affiliation.png)
+![Menu option to reverify your academic affiliation](/assets/images/2022/02/help/education/reverify-academic-affiliation.png)
 
 Para obter mais informações, consulte a página do [{% data variables.product.prodname_student_pack %}](https://education.github.com/pack).
 

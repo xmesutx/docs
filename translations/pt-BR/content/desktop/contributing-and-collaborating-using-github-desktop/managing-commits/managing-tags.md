@@ -31,9 +31,9 @@ O {% data variables.product.prodname_desktop %} permite que você crie tags anot
 
   {% endnote %}
 
-  ![Visualizar uma tag no histórico](/assets/images/help/desktop/viewing-tags-in-history.png)
+  ![Visualizar uma tag no histórico](/assets/images/2021/10/help/desktop/viewing-tags-in-history.png)
 
-3. Todas as tags associadas ao commit são visíveis nos metadados desse commit. ![Visualizar uma tag no commit](/assets/images/help/desktop/viewing-tags-in-commit.png)
+3. Todas as tags associadas ao commit são visíveis nos metadados desse commit. ![Visualizar uma tag no commit](/assets/images/2021/10/help/desktop/viewing-tags-in-commit.png)
 
 ## Excluir tags
 

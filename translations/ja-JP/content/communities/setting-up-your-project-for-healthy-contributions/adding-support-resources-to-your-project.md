@@ -16,7 +16,7 @@ shortTitle: サポートリソースの追加
 
 人々を特定のサポートリソースに向かせるために、リポジトリのルート、`docs`、`.github` フォルダに SUPPORT ファイルを追加できます。 誰かがリポジトリに Issue を作成すると、その人はプロジェクトの SUPPORT ファイルへのリンクを見ることになります。
 
-![サポートガイドライン](/assets/images/help/issues/support_guidelines_in_issue.png)
+![サポートガイドライン](/assets/images/2021/10/help/issues/support_guidelines_in_issue.png)
 
 {% ifversion fpt or ghes or ghec %}
 

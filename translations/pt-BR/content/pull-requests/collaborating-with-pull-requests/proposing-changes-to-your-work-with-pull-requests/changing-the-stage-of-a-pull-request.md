@@ -32,7 +32,7 @@ shortTitle: Alterar o estado
 
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista "Pull requests", clique na pull request que deseja marcar como pronta para revisão.
-3. Na caixa de merge, clique em **Pronto para revisar**. ![Botão Ready for review (Pronta para revisão)](/assets/images/help/pull_requests/ready-for-review-button.png)
+3. Na caixa de merge, clique em **Pronto para revisar**. ![Botão Ready for review (Pronta para revisão)](/assets/images/2021/10/help/pull_requests/ready-for-review-button.png)
 
 {% ifversion fpt or ghae or ghes or ghec %}
 
@@ -42,8 +42,8 @@ Você pode converter uma pull request em rascunho a qualquer momento. Por exempl
 
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista "Pull Requests", clique na pull request que deseja converter em rascunho.
-3. Na barra lateral direita, em "Revisores", clique em **Converter para rascunho**. ![Converter para link de rascunho](/assets/images/help/pull_requests/convert-to-draft-link.png)
-4. Clique em **Converter para rascunho**. ![Converter para confirmação de rascunho](/assets/images/help/pull_requests/convert-to-draft-dialog.png)
+3. Na barra lateral direita, em "Revisores", clique em **Converter para rascunho**. ![Converter para link de rascunho](/assets/images/2021/10/help/pull_requests/convert-to-draft-link.png)
+4. Clique em **Converter para rascunho**. ![Converter para confirmação de rascunho](/assets/images/2021/10/help/pull_requests/convert-to-draft-dialog.png)
 
 {% endif %}
 

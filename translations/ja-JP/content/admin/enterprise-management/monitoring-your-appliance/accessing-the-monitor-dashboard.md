@@ -21,7 +21,7 @@ shortTitle: Access the monitor dashboard
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. ページの上部で**Monitor（モニター）**をクリックしてください。 ![モニターダッシュボードのリンク](/assets/images/enterprise/management-console/monitor-dash-link.png)
+2. ページの上部で**Monitor（モニター）**をクリックしてください。 ![モニターダッシュボードのリンク](/assets/images/2021/10/enterprise/management-console/monitor-dash-link.png)
 
 ## アプライアンスにおける一般的なリソース割り当ての問題のトラブルシューティング
 

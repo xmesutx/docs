@@ -35,7 +35,7 @@ shortTitle: リストの取引の表示
 * **region:** The name of the region present in billing address.
 * **postal_code:** The postal code value present in billing address.
 
-![Marketplace insights](/assets/images/marketplace/marketplace_transactions.png)
+![Marketplace insights](/assets/images/2021/10/marketplace/marketplace_transactions.png)
 
 ## {% data variables.product.prodname_marketplace %}の取引へのアクセス
 
@@ -47,4 +47,4 @@ shortTitle: リストの取引の表示
 4. 取引を表示する{% data variables.product.prodname_github_app %}を選択します
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. **Transactions（取引）**タブをクリックしてください。
-7. 取引ページの右上にあるPeriod（期間）ドロップダウンをクリックして、異なる期間を選択することもできます。 ![Marketplaceの期間](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. 取引ページの右上にあるPeriod（期間）ドロップダウンをクリックして、異なる期間を選択することもできます。 ![Marketplaceの期間](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

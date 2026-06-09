@@ -28,4 +28,4 @@ Los productos y características de {% data variables.product.prodname_dotcom %}
 Puedes ver una lista de características disponibles en beta y una breve descripción de cada característica. Cada característica incluye un enlace para proporcionar retroalimentación.
 
 {% data reusables.feature-preview.feature-preview-setting  %}
-2. Opcionalmente, a la derecha de una función, haz clic en **Enable** (Habilitar) o **Disable** (Inhabilitar). ![Activar el botón en la vista previa de la característica](/assets/images/help/settings/enable-feature-button.png)
+2. Opcionalmente, a la derecha de una función, haz clic en **Enable** (Habilitar) o **Disable** (Inhabilitar). ![Activar el botón en la vista previa de la característica](/assets/images/2021/10/help/settings/enable-feature-button.png)

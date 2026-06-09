@@ -24,7 +24,7 @@ shortTitle: 下载工作流程构件
 {% data reusables.repositories.view-run %}
 1. 在**构件**下，单击您想要下载的构件。
 
-    ![下载构件下拉菜单](/assets/images/help/repository/artifact-drop-down-updated.png)
+    ![下载构件下拉菜单](/assets/images/2021/10/help/repository/artifact-drop-down-updated.png)
 
 
 {% endwebui %}

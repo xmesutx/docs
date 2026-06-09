@@ -50,10 +50,10 @@ Para atualizar para a versão mais recente do {% data variables.product.prodname
 1. Provisione uma nova instância do {% data variables.product.prodname_enterprise %} 2.1. Para obter mais informações, consulte o guia "[Provisionar e instalar](/enterprise/2.1/admin/guides/installation/provisioning-and-installation/)" da plataforma de destino.
 2. Em um navegador, vá até o novo endereço IP do appliance réplica e faça o upload da sua licença do {% data variables.product.prodname_enterprise %}.
 3. Defina uma senha de administrador.
-5. Clique em **Migrate** (Migrar). ![Escolher o tipo de instalação](/assets/images/enterprise/migration/migration-choose-install-type.png)
-6. Cole a chave SSH de acesso ao host de backup em "Add new SSH key" (Adicionar nova chave SSH). ![Autorizar o backup](/assets/images/enterprise/migration/migration-authorize-backup-host.png)
+5. Clique em **Migrate** (Migrar). ![Escolher o tipo de instalação](/assets/images/2021/10/enterprise/migration/migration-choose-install-type.png)
+6. Cole a chave SSH de acesso ao host de backup em "Add new SSH key" (Adicionar nova chave SSH). ![Autorizar o backup](/assets/images/2021/10/enterprise/migration/migration-authorize-backup-host.png)
 7. Clique em **Adicionar chave** e, em seguida, clique em **Continuar**.
-8. Copie o comando `ghe-restore` a ser executado no host do backup para migrar os dados para a nova instância. ![Iniciar a migração](/assets/images/enterprise/migration/migration-restore-start.png)
+8. Copie o comando `ghe-restore` a ser executado no host do backup para migrar os dados para a nova instância. ![Iniciar a migração](/assets/images/2021/10/enterprise/migration/migration-restore-start.png)
 9. Habilite o modo de manutenção na instância antiga e aguarde a conclusão de todos os processos ativos. Para obter mais informações, consulte "[Habilitar e programar o modo de manutenção](/enterprise/{{ currentVersion }}/admin/guides/installation/enabling-and-scheduling-maintenance-mode)".
 
   {% note %}
@@ -84,8 +84,8 @@ Para atualizar para a versão mais recente do {% data variables.product.prodname
   Visit https://169.254.1.1/setup/settings to review appliance configuration.
   ```
 
-12. Volte à tela de status de restauração da nova instância para confirmar a conclusão da restauração. ![Tela de restauração concluída](/assets/images/enterprise/migration/migration-status-complete.png)
-13. Clique em **Continue to settings** (Continuar em configurações) para revisar e ajustar as informações de configuração importadas da instância anterior. ![Revisar configurações importadas](/assets/images/enterprise/migration/migration-status-complete.png)
+12. Volte à tela de status de restauração da nova instância para confirmar a conclusão da restauração. ![Tela de restauração concluída](/assets/images/2021/10/enterprise/migration/migration-status-complete.png)
+13. Clique em **Continue to settings** (Continuar em configurações) para revisar e ajustar as informações de configuração importadas da instância anterior. ![Revisar configurações importadas](/assets/images/2021/10/enterprise/migration/migration-status-complete.png)
 14. Clique em **Save settings** (Salvar configurações).
 
   {% note %}

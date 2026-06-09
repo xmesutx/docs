@@ -32,9 +32,9 @@ If you configure {% data variables.large_files.product_name_long %} to track you
 
 {% data reusables.desktop.push-origin %}
 2. If {% data variables.product.prodname_desktop %} prompts you to fetch new commits from the remote, click **Fetch**.
-  ![The Fetch button](/assets/images/help/desktop/fetch-newer-commits.png)
+  ![The Fetch button](/assets/images/2021/10/help/desktop/fetch-newer-commits.png)
 3. Optionally, click **Create Pull Request** to open a pull request and collaborate on your changes. For more information, see "[Creating an issue or pull request](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)"
-  ![The Create Pull Request button](/assets/images/help/desktop/create-pull-request.png)
+  ![The Create Pull Request button](/assets/images/2021/10/help/desktop/create-pull-request.png)
 
 ## Further reading
 - "[Push](/github/getting-started-with-github/github-glossary/#push)" in the {% data variables.product.prodname_dotcom %} glossary

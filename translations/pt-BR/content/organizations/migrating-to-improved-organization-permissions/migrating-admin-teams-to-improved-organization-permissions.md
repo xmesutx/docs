@@ -34,12 +34,12 @@ Para obter mais informações, consulte "[Funções do repositório para uma org
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.teams_sidebar %}
-1. Revise as equipes de administradores legadas da organização e clique em **Migrate all teams** (Migrar todas as equipes). ![Botão Migrate all teams (Migrar todas as equipes)](/assets/images/help/teams/migrate-all-legacy-admin-teams.png)
-1. Leia as informações sobre possíveis alterações de permissões para integrantes dessas equipes e clique em **Migrate all teams** (Migrar todas as equipes). ![Botão Confirm migration (Confirmar migração)](/assets/images/help/teams/confirm-migrate-all-legacy-admin-teams.png)
+1. Revise as equipes de administradores legadas da organização e clique em **Migrate all teams** (Migrar todas as equipes). ![Botão Migrate all teams (Migrar todas as equipes)](/assets/images/2021/10/help/teams/migrate-all-legacy-admin-teams.png)
+1. Leia as informações sobre possíveis alterações de permissões para integrantes dessas equipes e clique em **Migrate all teams** (Migrar todas as equipes). ![Botão Confirm migration (Confirmar migração)](/assets/images/2021/10/help/teams/confirm-migrate-all-legacy-admin-teams.png)
 
 ## Migrar uma única equipe de administradores
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-1. Na caixa de descrição de equipe, clique em **Migrate team** (Migrar equipe). ![Botão Migrate team (Migrar equipe)](/assets/images/help/teams/migrate-a-legacy-admin-team.png)
+1. Na caixa de descrição de equipe, clique em **Migrate team** (Migrar equipe). ![Botão Migrate team (Migrar equipe)](/assets/images/2021/10/help/teams/migrate-a-legacy-admin-team.png)

@@ -56,9 +56,9 @@ Para auxiliar a transição e garantir a exclusão das informações confidencia
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Selecione um ou mais integrantes que deseja remover da organização. ![Lista de integrantes com dois integrantes selecionados](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. Acima da lista de integrantes, use o menu suspenso e clique **Remove from organization** (Remover da organização). ![Menu suspenso com opção de remover integrantes](/assets/images/help/teams/user-bulk-management-options.png)
-6. Revise os integrantes que serão removidos da organização e clique em **Remove members** (Remover integrantes). ![Lista de integrantes que serão removidos e botão Remove members (Remover integrantes)](/assets/images/help/teams/confirm-remove-members-bulk.png)
+4. Selecione um ou mais integrantes que deseja remover da organização. ![Lista de integrantes com dois integrantes selecionados](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. Acima da lista de integrantes, use o menu suspenso e clique **Remove from organization** (Remover da organização). ![Menu suspenso com opção de remover integrantes](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. Revise os integrantes que serão removidos da organização e clique em **Remove members** (Remover integrantes). ![Lista de integrantes que serão removidos e botão Remove members (Remover integrantes)](/assets/images/2021/10/help/teams/confirm-remove-members-bulk.png)
 
 ## Leia mais
 

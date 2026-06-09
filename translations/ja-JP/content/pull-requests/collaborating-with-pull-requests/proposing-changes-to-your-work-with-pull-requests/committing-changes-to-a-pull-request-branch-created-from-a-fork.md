@@ -64,7 +64,7 @@ shortTitle: Commit to PR branch from fork
   ```shell
   $ cd <em>FORK-OF-THE-REPOSITORY</em>
   ```
-7. 元の変更が行われた、プルリクエストの比較ブランチに切り替えます。 元のプルリクエストに移動すると、比較ブランチがプルリクエストの上部に表示されます。 ![比較ブランチの例](/assets/images/help/pull_requests/compare-branch-example.png) 以下の例では、比較ブランチは `test-branch` です。
+7. 元の変更が行われた、プルリクエストの比較ブランチに切り替えます。 元のプルリクエストに移動すると、比較ブランチがプルリクエストの上部に表示されます。 ![比較ブランチの例](/assets/images/2021/10/help/pull_requests/compare-branch-example.png) 以下の例では、比較ブランチは `test-branch` です。
   ```shell
   $ git checkout <em>test-branch</em>
   ```

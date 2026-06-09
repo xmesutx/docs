@@ -19,6 +19,6 @@ shortTitle: 使用可视化图表
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 
-1. 图表显示每个工作流程中的作业。 作业名称左侧的图标指示作业的状态。 作业之间的线表示依赖项。 ![工作流程图表](/assets/images/help/images/workflow-graph.png)
+1. 图表显示每个工作流程中的作业。 作业名称左侧的图标指示作业的状态。 作业之间的线表示依赖项。 ![工作流程图表](/assets/images/2021/10/help/images/workflow-graph.png)
 
-2. 单击作业可查看作业日志。 ![工作流程图表](/assets/images/help/images/workflow-graph-job.png)
+2. 单击作业可查看作业日志。 ![工作流程图表](/assets/images/2021/10/help/images/workflow-graph-job.png)

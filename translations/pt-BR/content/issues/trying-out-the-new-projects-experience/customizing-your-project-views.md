@@ -166,7 +166,7 @@ A nova visualização é salva automaticamente.
 
 Ao fazer alterações a uma visualização como, por exemplo, ordenação, reordenação, filtragem ou agrupamento de dados em uma visualização, será exibido um ponto ao lado do nome da visualização para indicar que existem alterações não salvas.
 
-![Indicador de alterações não salvas](/assets/images/help/projects/unsaved-changes.png)
+![Indicador de alterações não salvas](/assets/images/2021/11/help/projects/unsaved-changes.png)
 
 Se você não desejar salvar as alterações, você poderá ignorar este indicador. Ninguém mais verá as suas alterações.
 

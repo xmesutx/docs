@@ -49,7 +49,7 @@ shortTitle: 使用非代码文件
 
 You can directly browse and view images in your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}:
 
-![内联图像](/assets/images/help/images/view.png)
+![内联图像](/assets/images/2021/10/help/images/view.png)
 
 SVG 目前不支持内联脚本或动画。
 
@@ -61,19 +61,19 @@ SVG 目前不支持内联脚本或动画。
 
 **两张图**是默认模式；它让您可以快速浏览两张图像。 此外，如果图像在不同版本之间更改了大小，则会显示实际的尺寸更改。 这应在内容调整大小时变得非常明显，例如前端资源升级到更高分辨率时。
 
-![两张图](/assets/images/help/repository/images-2up-view.png)
+![两张图](/assets/images/2021/10/help/repository/images-2up-view.png)
 
 #### 滑动
 
 **滑动**可让您并排查看图像的各个部分。 不确定不同版本之间颜色是否发生变化？ 将滑动滑块拖动到相关区域上并自行比较像素。
 
-![滑动](/assets/images/help/repository/images-swipe-view.png)
+![滑动](/assets/images/2021/10/help/repository/images-swipe-view.png)
 
 #### 多层皮肤
 
 当元素以很小而难以察觉的量移动时，**多层皮肤**真的很方便。 图标是否向左移动了两个像素？ 稍微向后拖动不透明度滑块，注意内容是否移动。
 
-![多层皮肤](/assets/images/help/repository/images-onion-view.gif)
+![多层皮肤](/assets/images/2021/10/help/repository/images-onion-view.gif)
 
 ## 3D 文件查看器
 
@@ -92,7 +92,7 @@ SVG 目前不支持内联脚本或动画。
 
 默认情况下，您会在线框图中获取一切尚未更改时的视图。 添加的内容为绿色，删除的部分为红色。
 
-![线框图](/assets/images/help/repository/stl_wireframe.png)
+![线框图](/assets/images/2021/10/help/repository/stl_wireframe.png)
 
 也可选择 **Revision Slider（版本滑块）**选项，使用文件顶部的滑块在当前版本与之前的版本之间切换。
 
@@ -100,7 +100,7 @@ SVG 目前不支持内联脚本或动画。
 
 如果在查看器的角上看到此图标，则表示您的浏览器无法使用 WebGL 技术：
 
-![WebGL 弹出错误](/assets/images/help/repository/render_webgl_error.png)
+![WebGL 弹出错误](/assets/images/2021/10/help/repository/render_webgl_error.png)
 
 为最大程度利用计算机的硬件，必须具有 WebGL。 建议尝试 [Chrome](https://www.google.com/intl/en/chrome/browser/) 或 [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等默认启用 WebGL 的浏览器。
 
@@ -134,7 +134,7 @@ For example, if your model's URL is [`github.com/skalnik/secret-bear-clip/blob/m
 
 GitHub 支持以 *.csv*（逗号分隔）和 .*tsv*（制表符分隔）文件的形式呈现表格数据。
 
-![呈现的 CSV 示例](/assets/images/help/repository/rendered_csv.png)
+![呈现的 CSV 示例](/assets/images/2021/10/help/repository/rendered_csv.png)
 
 When viewed, any _.csv_ or _.tsv_ file committed to a repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} automatically renders as an interactive table, complete with headers and row numbering. 默认情况下，我们始终假设第一行是标题行。
 
@@ -144,13 +144,13 @@ When viewed, any _.csv_ or _.tsv_ file committed to a repository on {% ifversion
 
 如果想要在数据集中查找特定值，可以在文件正上方的搜索栏中开始输入内容。 行将自动过滤：
 
-![搜索值](/assets/images/help/repository/searching_csvs.gif)
+![搜索值](/assets/images/2021/10/help/repository/searching_csvs.gif)
 
 ### 处理错误
 
 有时，您可能会发现您的 CSV 或 TSV 文件未呈现。 在这些情况下，原始文本底部会出现一个错误框，提示错误可能是什么。
 
-![CSV 呈现错误消息](/assets/images/help/repository/csv_render_error.png)
+![CSV 呈现错误消息](/assets/images/2021/10/help/repository/csv_render_error.png)
 
 常见错误包括：
 
@@ -161,7 +161,7 @@ When viewed, any _.csv_ or _.tsv_ file committed to a repository on {% ifversion
 
 GitHub 支持呈现 PDF 文档。
 
-![呈现的 PDF 文档](/assets/images/help/repository/rendered-pdf.png)
+![呈现的 PDF 文档](/assets/images/2021/10/help/repository/rendered-pdf.png)
 
 目前，PDF 中的链接将被忽略。
 
@@ -183,11 +183,11 @@ GitHub 支持呈现 PDF 文档。
 * MediaWiki
 * Pod
 
-![用于查看渲染的散文文档的纸张图标](/assets/images/help/repository/rendered_prose_diff.png)
+![用于查看渲染的散文文档的纸张图标](/assets/images/2021/10/help/repository/rendered_prose_diff.png)
 
 您可以单击 {% octicon "file" aria-label="The paper icon" %} 查看在提交过程中对文档的更改。
 
-![呈现的散文更改](/assets/images/help/repository/rendered_prose_changes.png)
+![呈现的散文更改](/assets/images/2021/10/help/repository/rendered_prose_changes.png)
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-5232 or ghec %}
 
@@ -201,7 +201,7 @@ GitHub 支持呈现 PDF 文档。
 
 我们提供一个描述属性更改的工具提示，与字词不同的是，这些更改在呈现的文档中不可见。 例如，如果链接 URL 从一个网站更改为另一个，我们将显示类似如下的工具提示：
 
-![呈现的散文属性更改](/assets/images/help/repository/prose_diff_attributes.png)
+![呈现的散文属性更改](/assets/images/2021/10/help/repository/prose_diff_attributes.png)
 
 ### 对更改的评论
 
@@ -215,7 +215,7 @@ GitHub 支持呈现 PDF 文档。
 
 一些拉取请求涉及大型复杂文档的大量更改。 当更改需要太长时间来分析时，{% data variables.product.product_name %} 不能总是生成更改的渲染视图。 如果发生这种情况，当您单击渲染按钮时，将会看到错误消息。
 
-![无法渲染视图时的消息](/assets/images/help/repository/prose_diff_rendering.png)
+![无法渲染视图时的消息](/assets/images/2021/10/help/repository/prose_diff_rendering.png)
 
 您仍可使用源视图来分析和评论更改。
 
@@ -231,7 +231,7 @@ GitHub 支持呈现 PDF 文档。
 
 单击右侧的纸张图标时，您还会看到在提交时对该文件的更改。
 
-![源渲染切换屏幕截图](/assets/images/help/repository/source-render-toggle-geojson.png)
+![源渲染切换屏幕截图](/assets/images/2021/10/help/repository/source-render-toggle-geojson.png)
 
 ### 几何类型
 
@@ -288,7 +288,7 @@ GitHub 支持呈现 PDF 文档。
 
 此外，如果您的 `.geojson` 文件特别大（超过 10 MB），则无法在浏览器中渲染。 在这种情况下，您一般会看到一条类似以下的消息：
 
-![大文件](/assets/images/help/repository/view_raw.png)
+![大文件](/assets/images/2021/10/help/repository/view_raw.png)
 
 如果将 `.geojson` 文件转换为 [TopoJSON](https://github.com/mbostock/topojson)，可能还是能够渲染数据，TopoJSON 是一种压缩格式，有时能将文件减小 80%。 当然，您始终可以将文件分解为更小的数据块（例如按州或年分解），并将数据在仓库中存储为多个文件。
 

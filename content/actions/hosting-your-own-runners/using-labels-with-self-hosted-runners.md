@@ -31,7 +31,7 @@ For information on how to use labels to route jobs to specific types of self-hos
 {% data reusables.actions.self-hosted-runner-list-group %}
 {% data reusables.actions.self-hosted-runner-labels-view-assigned-labels %}
 1. In the "Filter labels" field, type the name of your new label, and click **Create new label**.
-    ![Add runner label](/assets/images/help/settings/actions-add-runner-label.png)
+    ![Add runner label](/assets/images/2021/10/help/settings/actions-add-runner-label.png)
     
 The custom label is created and assigned to the self-hosted runner. Custom labels can be removed from self-hosted runners, but they currently can't be manually deleted. {% data reusables.actions.actions-unused-labels %}
 {% endif %}

@@ -1,1 +1,1 @@
-1. Em "Monthly spending limit" (Limite mensal de gastos), escolha para limitar gastos ou permitir gastos ilimitados. ![Botões de rádio para limitar gastos ou permitir gastos ilimitados](/assets/images/help/billing/limit-or-unlimited.png)
+1. Em "Monthly spending limit" (Limite mensal de gastos), escolha para limitar gastos ou permitir gastos ilimitados. ![Botões de rádio para limitar gastos ou permitir gastos ilimitados](/assets/images/2021/10/help/billing/limit-or-unlimited.png)

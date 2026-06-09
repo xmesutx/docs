@@ -21,9 +21,9 @@ shortTitle: Llaves de implementación
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 3. En la acción de "Seguridad" de la barra lateral, haz clic en**Desplegar llaves {% octicon "key" aria-label="The key icon" %}**.
 {% else %}
-3. En la barra lateral izquierda, haz clic en **Deploy keys** (Llaves de implementación). ![Parámetro de llaves de implementación](/assets/images/help/settings/settings-sidebar-deploy-keys.png)
+3. En la barra lateral izquierda, haz clic en **Deploy keys** (Llaves de implementación). ![Parámetro de llaves de implementación](/assets/images/2021/10/help/settings/settings-sidebar-deploy-keys.png)
 {% endif %}
-4. En la página de Llaves de implementación, anota las llaves de implementación asociadas a tu cuenta. Para las que no reconozcas o que estén desactualizadas, haz clic en **Delete** (Eliminar). Si hay llaves de implementación válidas que quieres conservar, haz clic en **Approve** (Aprobar). ![Lista de llaves de implementación](/assets/images/help/settings/settings-deploy-key-review.png)
+4. En la página de Llaves de implementación, anota las llaves de implementación asociadas a tu cuenta. Para las que no reconozcas o que estén desactualizadas, haz clic en **Delete** (Eliminar). Si hay llaves de implementación válidas que quieres conservar, haz clic en **Approve** (Aprobar). ![Lista de llaves de implementación](/assets/images/2021/10/help/settings/settings-deploy-key-review.png)
 
 Para obtener más información, consulta la sección "[Administrar las llaves de despliegue](/guides/managing-deploy-keys)".
 

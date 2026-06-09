@@ -38,7 +38,7 @@ To enable administrative SSH access, you must add your SSH public key to your in
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 3. Under "SSH access", paste your key into the text box, then click **Add key**.
-  ![Text box and button for adding an SSH key](/assets/images/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
+  ![Text box and button for adding an SSH key](/assets/images/2021/10/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Connecting to the administrative shell over SSH

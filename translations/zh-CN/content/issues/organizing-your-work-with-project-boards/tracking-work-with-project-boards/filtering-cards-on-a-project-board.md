@@ -34,7 +34,7 @@ shortTitle: 在板上筛选卡
 - 使用 `repo:ORGANIZATION/REPOSITORY` 在组织范围的项目板中按仓库过滤卡{% endif %}
 
 1. 导航到包含要过滤的卡的项目板。
-2. 在项目卡列上方，单击“Filter cards（过滤卡）”搜索栏并键入搜索查询以过滤卡。 ![过滤卡搜索栏](/assets/images/help/projects/filter-card-search-bar.png)
+2. 在项目卡列上方，单击“Filter cards（过滤卡）”搜索栏并键入搜索查询以过滤卡。 ![过滤卡搜索栏](/assets/images/2021/10/help/projects/filter-card-search-bar.png)
 
 {% tip %}
 

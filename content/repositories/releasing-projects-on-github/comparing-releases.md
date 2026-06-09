@@ -17,13 +17,13 @@ redirect_from:
 {% data reusables.repositories.releases %}
 3. Next to the release you want to use as your base, click **Compare**.
   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-  ![Compare release tags menu](/assets/images/help/releases/refreshed-compare-tags.png)
+  ![Compare release tags menu](/assets/images/2021/10/help/releases/refreshed-compare-tags.png)
   {% else %}
-  ![Compare release tags menu](/assets/images/help/releases/compare-tags-menu.png)
+  ![Compare release tags menu](/assets/images/2021/10/help/releases/compare-tags-menu.png)
   {% endif %}
 4. Use the "Compare" drop-down menu and select the tags you want to compare.
   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-  ![Compare release tags menu](/assets/images/help/releases/refreshed-compare-tags-menu-options.png)
+  ![Compare release tags menu](/assets/images/2021/10/help/releases/refreshed-compare-tags-menu-options.png)
   {% else %}
-  ![Compare release tags menu options](/assets/images/help/releases/compare-tags-menu-options.png)
+  ![Compare release tags menu options](/assets/images/2021/10/help/releases/compare-tags-menu-options.png)
   {% endif %}

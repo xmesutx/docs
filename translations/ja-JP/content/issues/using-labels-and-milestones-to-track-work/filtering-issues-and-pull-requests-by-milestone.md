@@ -27,7 +27,7 @@ shortTitle: マイルストーンでフィルタ
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. [**Milestones**] を選択して、リポジトリで使用可能なすべてのマイルストーンのリストを表示します。 ![[Milestones] ボタン](/assets/images/help/issues/issues_milestone_button.png)
+3. [**Milestones**] を選択して、リポジトリで使用可能なすべてのマイルストーンのリストを表示します。 ![[Milestones] ボタン](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. 対象のマイルストーンをリストから選択します。 関連付けられたすべての Issue やPull Requestなどのマイルストーンの関連情報を、マイルストーンのページで確認できます。 詳しい情報については、「[マイルストーンについて](/articles/about-milestones)」を参照してください。
 
 ## 参考リンク

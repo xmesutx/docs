@@ -28,20 +28,20 @@ shortTitle: About PR reviews
 
 {% ifversion fpt or ghec %}レビューが必要なプルリクエストのリマインダーをスケジュールできます。 詳しい情報については、「[プルリクエストのスケジュールされたリマインダーを管理する](/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests)」を参照してください。{% endif %}
 
-![凝固メント付きの変更をリクエストするレビューのヘッダ](/assets/images/help/pull_requests/review-header-with-line-comment.png)
+![凝固メント付きの変更をリクエストするレビューのヘッダ](/assets/images/2021/10/help/pull_requests/review-header-with-line-comment.png)
 
 レビューには 3 つのステータスがあります:
 - **Comment**: 明示的に変更を承認したり追加の変更をリクエストしたりすることなく、一般的なフィードバックをサブミットします。
 - **Approve**: フィードバックをサブミットし、プルリクエスト中で提案された変更のマージを承認します。
 - **Request changes**: プルリクエストをマージする前に対処しなければならないフィードバックをサブミットします。
 
-![レビューステータスの画像](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+![レビューステータスの画像](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
 {% data reusables.repositories.request-changes-tips %}
 
 プルリクエストが受けたすべてのレビューは、Conversationタイムラインで見ることができ、リポジトリオーナー及びコラボレーターによるレビューは、プルリクエストのマージボックスで見ることができます。
 
-![マージボックス中のレビューの画像](/assets/images/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
+![マージボックス中のレビューの画像](/assets/images/2021/10/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
 
 {% data reusables.search.requested_reviews_search_tip %}
 

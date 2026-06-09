@@ -2,5 +2,5 @@
 1. In the "Integrations" section of the sidebar, click **{% octicon "mail" aria-label="The mail icon" %} Email notifications**.
 {% else %}
 1. Click **Notifications**.
-![Notifications button in sidebar](/assets/images/help/settings/notifications_menu.png)
+![Notifications button in sidebar](/assets/images/2021/10/help/settings/notifications_menu.png)
 {% endif %}

@@ -21,7 +21,7 @@ shortTitle: 可用于租用复选框
 
 [GitHub Jobs](https://jobs.github.com/) 版块是在技术领域求职的一种绝佳途径。 您可选择查看在 GitHub 仪表板上发布的职位。
 
-![仪表板上的 GitHub Jobs 广告](/assets/images/help/settings/jobs-ads-on-dashboard.png)
+![仪表板上的 GitHub Jobs 广告](/assets/images/2021/10/help/settings/jobs-ads-on-dashboard.png)
 
 {% data reusables.user-settings.access_settings %}
-2. 在 Jobs Profile（职位资料）下，选择 **Available for hire（招聘职位）**，然后单击 **Save jobs profile（保存职位资料）**。 ![职位资料设置](/assets/images/help/settings/jobs-profile-settings.png)
+2. 在 Jobs Profile（职位资料）下，选择 **Available for hire（招聘职位）**，然后单击 **Save jobs profile（保存职位资料）**。 ![职位资料设置](/assets/images/2021/10/help/settings/jobs-profile-settings.png)

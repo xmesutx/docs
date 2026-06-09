@@ -59,7 +59,7 @@ Cuando creas un secreto en una organización, puedes utilizar una política para
 2. En la parte superior de la página, haz clic en **Nuego secreto de organización**.
 3. Teclea un nombre para tu secreto en el cuadro de entrada **Name**.
 4. Ingresa el **Valor** para tu secreto.
-5. Desde la lista desplegable **Acceso de los repositorios**, elige una política de acceso. ![Lista de acceso a los repositorios con los repositorios privados seleccionados](/assets/images/help/codespaces/secret-repository-access.png)
+5. Desde la lista desplegable **Acceso de los repositorios**, elige una política de acceso. ![Lista de acceso a los repositorios con los repositorios privados seleccionados](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 6. Haz clic en **Agregar secreto** (Agregar secreto).
 
 ## Revisar el acceso a los secretos de nivel organizacional
@@ -69,7 +69,7 @@ Puedes revisar qué políticas de acceso se aplican a un secreto en tu organizac
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. La lista de secretos incluye cualquier política y permiso configurado. Por ejemplo: ![Lista de secretos](/assets/images/help/settings/actions-org-secrets-list.png)
+1. La lista de secretos incluye cualquier política y permiso configurado. Por ejemplo: ![Lista de secretos](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. Para encontrar más detalles sobre los permisos configurados para cada secreto, da clic en **Actualizar**.
 
 ## Leer más

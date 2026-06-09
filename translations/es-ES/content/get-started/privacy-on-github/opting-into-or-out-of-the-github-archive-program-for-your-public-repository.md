@@ -19,7 +19,7 @@ Si rechazas el ingreso de un repositorio al {% data variables.product.prodname_a
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Debajo de "Características", selecciona o deselecciona **Preservar este repositorio**. ![Casilla para permitir a {% data variables.product.prodname_dotcom %} incluir tu código en el {% data variables.product.prodname_archive %}](/assets/images/help/repository/github-archive-program-checkbox.png)
+3. Debajo de "Características", selecciona o deselecciona **Preservar este repositorio**. ![Casilla para permitir a {% data variables.product.prodname_dotcom %} incluir tu código en el {% data variables.product.prodname_archive %}](/assets/images/2021/10/help/repository/github-archive-program-checkbox.png)
 
 ## Leer más
 - [{% data variables.product.prodname_archive %} Preguntas Frecuentes](https://archiveprogram.github.com/faq/)

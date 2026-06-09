@@ -21,10 +21,10 @@ shortTitle: Deploy keys
 3. In the "Security" section of the sidebar, click **{% octicon "key" aria-label="The key icon" %} Deploy keys**.
 {% else %}
 3. In the left sidebar, click **Deploy keys**.
-![Deploy keys setting](/assets/images/help/settings/settings-sidebar-deploy-keys.png)
+![Deploy keys setting](/assets/images/2021/10/help/settings/settings-sidebar-deploy-keys.png)
 {% endif %}
 4. On the Deploy keys page, take note of the deploy keys associated with your account. For those that you don't recognize, or that are out-of-date, click **Delete**. If there are valid deploy keys you'd like to keep, click **Approve**.
-	![Deploy key list](/assets/images/help/settings/settings-deploy-key-review.png)
+	![Deploy key list](/assets/images/2021/10/help/settings/settings-deploy-key-review.png)
 
 For more information, see "[Managing deploy keys](/guides/managing-deploy-keys)."
 

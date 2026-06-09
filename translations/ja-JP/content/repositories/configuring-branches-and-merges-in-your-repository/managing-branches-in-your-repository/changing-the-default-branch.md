@@ -42,8 +42,8 @@ shortTitle: Change the default branch
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.repository-branches %}
-1. [Default branch] の下にある、デフォルトブランチ名の右側の、{% octicon "arrow-switch" aria-label="The switch icon with two arrows" %} をクリックします。 ![現在のデフォルトブランチ名の右側にある、2 つの矢印がついた切り替えアイコン](/assets/images/help/repository/repository-options-defaultbranch-change.png)
-1. ドロップダウンメニューで、ブランチ名をクリックします。 ![新しいデフォルトブランチを選択するドロップダウン](/assets/images/help/repository/repository-options-defaultbranch-drop-down.png)
-1. [**Update**] をクリックします。 ![新しいブランチを選択後の [Update] ボタン](/assets/images/help/repository/repository-options-defaultbranch-update.png)
-1. 警告を読んでから、[**I understand, update the default branch.**] (わかりました。デフォルトのブランチを更新してください) をクリックします。 !["I understand, update the default branch." button to perform the update](/assets/images/help/repository/repository-options-defaultbranch-i-understand.png)
+1. [Default branch] の下にある、デフォルトブランチ名の右側の、{% octicon "arrow-switch" aria-label="The switch icon with two arrows" %} をクリックします。 ![現在のデフォルトブランチ名の右側にある、2 つの矢印がついた切り替えアイコン](/assets/images/2021/10/help/repository/repository-options-defaultbranch-change.png)
+1. ドロップダウンメニューで、ブランチ名をクリックします。 ![新しいデフォルトブランチを選択するドロップダウン](/assets/images/2021/10/help/repository/repository-options-defaultbranch-drop-down.png)
+1. [**Update**] をクリックします。 ![新しいブランチを選択後の [Update] ボタン](/assets/images/2021/10/help/repository/repository-options-defaultbranch-update.png)
+1. 警告を読んでから、[**I understand, update the default branch.**] (わかりました。デフォルトのブランチを更新してください) をクリックします。 !["I understand, update the default branch." button to perform the update](/assets/images/2021/10/help/repository/repository-options-defaultbranch-i-understand.png)
 

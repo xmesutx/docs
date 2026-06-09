@@ -21,4 +21,4 @@ If you enable the setting to always suggest updating pull request branches in yo
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 3. Under "Pull Requests", select or unselect **Always suggest updating pull request branches**.
-  ![Checkbox to enable or disable always suggest updating branch](/assets/images/help/repository/always-suggest-updating-branches.png)
+  ![Checkbox to enable or disable always suggest updating branch](/assets/images/2022/02/help/repository/always-suggest-updating-branches.png)

@@ -40,8 +40,8 @@ topics:
 您可以直接在仓库的工作流程编辑器中搜索和浏览操作。 从边栏可以搜索特定的操作、查看特色操作和浏览特色类别。 您也可以查看操作从 {% data variables.product.prodname_dotcom %} 社区获得的星标数。
 
 1. 在仓库中，浏览至要编辑的工作流程文件。
-1. 要打开工作流程编辑器，在文件视图右上角单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![编辑工作流程文件按钮](/assets/images/help/repository/actions-edit-workflow-file.png)
-1. 在编辑器右侧，使用 {% data variables.product.prodname_marketplace %} 边栏浏览操作。 带有 {% octicon "verified" aria-label="The verified badge" %} 徽章的操作表示 {% data variables.product.prodname_dotcom %} 已验证操作的创建者为合作伙伴组织。 ![Marketplace 工作流程边栏](/assets/images/help/repository/actions-marketplace-sidebar.png)
+1. 要打开工作流程编辑器，在文件视图右上角单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![编辑工作流程文件按钮](/assets/images/2021/10/help/repository/actions-edit-workflow-file.png)
+1. 在编辑器右侧，使用 {% data variables.product.prodname_marketplace %} 边栏浏览操作。 带有 {% octicon "verified" aria-label="The verified badge" %} 徽章的操作表示 {% data variables.product.prodname_dotcom %} 已验证操作的创建者为合作伙伴组织。 ![Marketplace 工作流程边栏](/assets/images/2021/10/help/repository/actions-marketplace-sidebar.png)
 
 ## 添加操作到工作流程
 
@@ -64,7 +64,7 @@ topics:
 操作的列表页包括操作的版本以及使用操作所需的工作流程语法。 为使工作流程在操作有更新时也保持稳定，您可以在工作流程文件中指定 Git 或 Docker 标记号以引用所用操作的版本。
 
 1. 导航到要在工作流程中使用的操作。
-1. 在“Installation（安装）”下，单击 {% octicon "clippy" aria-label="The edit icon" %} 复制工作流程语法。 ![查看操作列表](/assets/images/help/repository/actions-sidebar-detailed-view.png)
+1. 在“Installation（安装）”下，单击 {% octicon "clippy" aria-label="The edit icon" %} 复制工作流程语法。 ![查看操作列表](/assets/images/2021/10/help/repository/actions-sidebar-detailed-view.png)
 1. 将语法粘贴为工作流程中的新步骤。 更多信息请参阅“[{% data variables.product.prodname_actions %} 的工作流程语法](/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idsteps)”。
 1. 如果操作要求您提供输入，请将其设置在工作流程中。 有关操作可能需要的输入的更多信息，请参阅“[对操作使用输入和输出](/actions/learn-github-actions/finding-and-customizing-actions#using-inputs-and-outputs-with-an-action)”。
 

@@ -25,4 +25,4 @@ shortTitle: 批准公共复刻运行
 1. 检查拉取请求中的拟议更改，确保您在拉取请求分支上自由运行您的工作流程。 您应该特别注意 `.github/workflows/` 目录中影响工作流程文件的任何拟议更改。
 1. 如果您能自由在拉取请求分支上运行工作流程，请返回 {% octicon "comment-discussion" aria-label="The discussion icon" %} **Conversation（转换）**选项卡，在“Workflow(s) awaiting approval（等待批准的工作流程）”下单击 **Approve and run（批准并运行）**。
 
-   ![批准并运行工作流程](/assets/images/help/pull_requests/actions-approve-and-run-workflows-from-fork.png)
+   ![批准并运行工作流程](/assets/images/2021/10/help/pull_requests/actions-approve-and-run-workflows-from-fork.png)

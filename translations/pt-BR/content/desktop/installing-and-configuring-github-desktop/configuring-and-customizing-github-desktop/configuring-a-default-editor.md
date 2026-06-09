@@ -60,8 +60,8 @@ O {% data variables.product.prodname_desktop %} é compatível com os seguintes 
 {% mac %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
-3. Na janela preferências, selecione **Integrações**. ![O painel integrações na janela preferências](/assets/images/help/desktop/mac-select-integrations-pane.png)
-4. Use o menu suspenso "Editor externo" e escolha o editor que deseja definir como padrão. ![Menu External editor (Editor externo) na barra de menus Preferences (Preferências)](/assets/images/help/desktop/mac-editor-menu.png)
+3. Na janela preferências, selecione **Integrações**. ![O painel integrações na janela preferências](/assets/images/2021/10/help/desktop/mac-select-integrations-pane.png)
+4. Use o menu suspenso "Editor externo" e escolha o editor que deseja definir como padrão. ![Menu External editor (Editor externo) na barra de menus Preferences (Preferências)](/assets/images/2021/10/help/desktop/mac-editor-menu.png)
 5. Clique em **Salvar**.
 
 {% endmac %}
@@ -69,8 +69,8 @@ O {% data variables.product.prodname_desktop %} é compatível com os seguintes 
 {% windows %}
 
 {% data reusables.desktop.windows-choose-options %}
-3. Na janela opções, selecione **Integrações**. ![O painel de integrações na janela opções](/assets/images/help/desktop/windows-select-integrations-pane.png)
-4. Use o menu suspenso "Editor externo" e escolha o editor que deseja definir como padrão. ![Menu External editor (Editor externo) na barra de menus Options (Opções)](/assets/images/help/desktop/windows-editor-menu.png)
+3. Na janela opções, selecione **Integrações**. ![O painel de integrações na janela opções](/assets/images/2021/10/help/desktop/windows-select-integrations-pane.png)
+4. Use o menu suspenso "Editor externo" e escolha o editor que deseja definir como padrão. ![Menu External editor (Editor externo) na barra de menus Options (Opções)](/assets/images/2021/10/help/desktop/windows-editor-menu.png)
 5. Clique em **Salvar**.
 
 {% endwindows %}

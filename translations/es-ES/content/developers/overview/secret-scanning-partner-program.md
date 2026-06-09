@@ -28,7 +28,7 @@ Este artículo describe la forma en la que puedes asociarte con {% data variable
 
 El siguiente diagrama resume el proceso del {% data variables.product.prodname_secret_scanning %} para los repositorios públicos y muestra como cualquier coincidencia se envía a la terminal de verificación de un proveedor de servicios.
 
-![Diagrama de flujo que muestra el proceso de escaneo para un secreto y el envío de coincidencias a una terminal de verificación del proveedor de servicios](/assets/images/secret-scanning-flow.png "Flujo del {% data variables.product.prodname_secret_scanning_caps %}")
+![Diagrama de flujo que muestra el proceso de escaneo para un secreto y el envío de coincidencias a una terminal de verificación del proveedor de servicios](/assets/images/2021/10/secret-scanning-flow.png "Flujo del {% data variables.product.prodname_secret_scanning_caps %}")
 
 ## Unirse al programa del {% data variables.product.prodname_secret_scanning %} en {% data variables.product.prodname_dotcom %}
 

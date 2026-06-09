@@ -26,7 +26,7 @@ Para gerenciar melhor seu projeto, você pode [exibir detalhes sobre seus marcos
 
 Além disso, você pode editar o marco na página de marcos e criar problemas que são, por padrão, associados ao marco.
 
-![Página de marcos](/assets/images/help/issues/milestone-info-page.png)
+![Página de marcos](/assets/images/2021/10/help/issues/milestone-info-page.png)
 
 ## Priorizar problemas e pull requests em marcos
 
@@ -38,7 +38,7 @@ Você pode priorizar problemas e pull requests em aberto em um marco clicando à
 
 {% endnote %}
 
-![Marcos reordenados](/assets/images/help/issues/milestone-reordered.gif)
+![Marcos reordenados](/assets/images/2021/10/help/issues/milestone-reordered.gif)
 
 ## Leia mais
 

@@ -36,8 +36,8 @@ shortTitle: IdP 以外的身份验证
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-4. 选择身份提供程序。![选择身份提供程序选项](/assets/images/enterprise/management-console/identity-provider-select.gif)
-5. 选择 **Allow creation of accounts with built-in authentication**。 ![选择内置身份验证选项](/assets/images/enterprise/management-console/built-in-auth-identity-provider-select.png)
+4. 选择身份提供程序。![选择身份提供程序选项](/assets/images/2021/10/enterprise/management-console/identity-provider-select.gif)
+5. 选择 **Allow creation of accounts with built-in authentication**。 ![选择内置身份验证选项](/assets/images/2021/10/enterprise/management-console/built-in-auth-identity-provider-select.png)
 6. 阅读警告，然后单击 **Ok**。
 
 {% data reusables.enterprise_user_management.two_factor_auth_header %}

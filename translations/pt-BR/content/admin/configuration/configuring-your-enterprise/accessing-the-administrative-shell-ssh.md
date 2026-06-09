@@ -38,7 +38,7 @@ Para habilitar o acesso a SSH administrativa, você deve adicionar sua chave pú
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-3. Em "SSH access" (Acesso SSH), cole a chave no campo de texto e clique em **Add key** (Adicionar chave). ![Caixa de texto e botão para adicionar uma chave SSH](/assets/images/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
+3. Em "SSH access" (Acesso SSH), cole a chave no campo de texto e clique em **Add key** (Adicionar chave). ![Caixa de texto e botão para adicionar uma chave SSH](/assets/images/2021/10/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Conectar-se ao shell administrativo por SSH

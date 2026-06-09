@@ -17,9 +17,9 @@ topics:
 shortTitle: Fixar um problema
 ---
 
-![Problemas fixos](/assets/images/help/issues/pinned-issues.png)
+![Problemas fixos](/assets/images/2021/10/help/issues/pinned-issues.png)
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 1. Na lista de problemas, clique no problema que deseja fixar.
-2. Na barra lateral direita, clique em **Pin issue** (Fixar problema). ![Botão para fixar problema](/assets/images/help/repository/pin-issue.png)
+2. Na barra lateral direita, clique em **Pin issue** (Fixar problema). ![Botão para fixar problema](/assets/images/2021/10/help/repository/pin-issue.png)

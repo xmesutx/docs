@@ -23,19 +23,19 @@ shortTitle: Gerenciar páginas wiki
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-3. No canto superior direito da página, clique em **New Page** (Nova página). ![Botão Wiki new page (Nova página wiki)](/assets/images/help/wiki/wiki_new_page_button.png)
-4. Se preferir escrever em um formato diferente do markdown, use o menu suspenso Edite mode (Editar modo) e clique em outro formato. ![Seleção de markup do wiki](/assets/images/help/wiki/wiki_dropdown_markup.gif)
-5. Use o editor de texto para adicionar o conteúdo da página. ![WYSIWYG do wiki](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. Digite uma mensagem do commit descrevendo o novo arquivo que você está adicionando. ![Mensagem do commit do wiki](/assets/images/help/wiki/wiki_commit_message.png)
+3. No canto superior direito da página, clique em **New Page** (Nova página). ![Botão Wiki new page (Nova página wiki)](/assets/images/2021/10/help/wiki/wiki_new_page_button.png)
+4. Se preferir escrever em um formato diferente do markdown, use o menu suspenso Edite mode (Editar modo) e clique em outro formato. ![Seleção de markup do wiki](/assets/images/2021/10/help/wiki/wiki_dropdown_markup.gif)
+5. Use o editor de texto para adicionar o conteúdo da página. ![WYSIWYG do wiki](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. Digite uma mensagem do commit descrevendo o novo arquivo que você está adicionando. ![Mensagem do commit do wiki](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. Para fazer commit das alterações no wiki, clique em **Save Page** (Salvar página).
 
 ## Editar páginas wiki
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-4. Usando a barra lateral do wiki, navegue até a página que deseja alterar. No canto superior direito da página, clique em **Edit** (Editar). ![Botão Wiki edit page (Editar página wiki)](/assets/images/help/wiki/wiki_edit_page_button.png)
-5. Use o editor de texto para editar o conteúdo da página. ![WYSIWYG do wiki](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. Digite uma mensagem do commit descrevendo as alterações. ![Mensagem do commit do wiki](/assets/images/help/wiki/wiki_commit_message.png)
+4. Usando a barra lateral do wiki, navegue até a página que deseja alterar. No canto superior direito da página, clique em **Edit** (Editar). ![Botão Wiki edit page (Editar página wiki)](/assets/images/2021/10/help/wiki/wiki_edit_page_button.png)
+5. Use o editor de texto para editar o conteúdo da página. ![WYSIWYG do wiki](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. Digite uma mensagem do commit descrevendo as alterações. ![Mensagem do commit do wiki](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. Para fazer commit das alterações no wiki, clique em **Save Page** (Salvar página).
 
 ## Adicionar ou editar páginas wiki localmente

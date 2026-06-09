@@ -17,8 +17,8 @@ shortTitle: 查看分支历史记录
  - 提交的 SHA-1 哈希（唯一 ID）
 
 {% data reusables.desktop.history-tab %}
-2. 在 **History（历史记录）**选项卡中，单击要审查的提交。 ![历史记录选项卡中的提交](/assets/images/help/desktop/branch-history-commit.png)
-3. 如果提交中有多个文件，单击个别文件可查看提交中对该文件的更改。 ![提交中的文件](/assets/images/help/desktop/branch-history-file.png)
+2. 在 **History（历史记录）**选项卡中，单击要审查的提交。 ![历史记录选项卡中的提交](/assets/images/2021/10/help/desktop/branch-history-commit.png)
+3. 如果提交中有多个文件，单击个别文件可查看提交中对该文件的更改。 ![提交中的文件](/assets/images/2021/10/help/desktop/branch-history-file.png)
 
 ## 延伸阅读
 

@@ -19,5 +19,5 @@ Los administradores de repositorios pueden cambiar el acceso de lectura Git anó
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Junto a "Habilitar el acceso de lectura Git anónimo", haz clic en **Habilitar**. ![Botón "Habilitado" en "Acceso de lectura Git anónimo"](/assets/images/help/repository/enable-git-read-access-for-a-repo.png)
+3. Junto a "Habilitar el acceso de lectura Git anónimo", haz clic en **Habilitar**. ![Botón "Habilitado" en "Acceso de lectura Git anónimo"](/assets/images/2021/10/help/repository/enable-git-read-access-for-a-repo.png)
 4. Revisa los cambios. Para confirmar, escribe el nombre del repositorio y haz clic en **Comprendo. Habilitar el acceso de lectura Git.**

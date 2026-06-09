@@ -39,7 +39,7 @@ GraphiQLアプリケーションを使うには、https://github.com/skevy/graph
 1. [OAuthトークン](/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql)を取得してください。
 1. GraphiQLを起動してください。
 1. GraphiQLの右上で、**Edit HTTP Headers（HTTPヘッダの編集）**をクリックしてください。
-1. **Key**フィールドに、`Authorization`と入力してください。 **Value**フィールドには`Bearer <token>`と入力してください。ここで、`<token>`は生成したOAuthトークンです。 ![graphiqlのヘッダー](/assets/images/developer/graphiql-headers.png)
+1. **Key**フィールドに、`Authorization`と入力してください。 **Value**フィールドには`Bearer <token>`と入力してください。ここで、`<token>`は生成したOAuthトークンです。 ![graphiqlのヘッダー](/assets/images/2021/10/developer/graphiql-headers.png)
 1. トークンの右のチェックマークをクリックして保存してください。
 1. エディタに戻るには、**Edit HTTP Headers（HTTPヘッダの編集）**モーダルの外をクリックしてください。
 1. **GraphQL Endpoint**フィールドに、`{% data variables.product.graphql_url_pre %}`を入力してください。

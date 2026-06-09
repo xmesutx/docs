@@ -57,11 +57,11 @@ Organizations can use the `name@organization.com` email as a public point of con
 
 {% data variables.product.product_name %} のウェブエディタでファイルを変更してから、コミットのメッセージに `on-behalf-of:` トレーラーを追加することで、Organization の代理でコミットを作成できます。
 
-1. 変更を行った後は、ページの下部に、変更について説明する、短くて意味のあるコミットメッセージを入力します。 ![変更のコミットメッセージ](/assets/images/help/repository/write-commit-message-quick-pull.png)
+1. 変更を行った後は、ページの下部に、変更について説明する、短くて意味のあるコミットメッセージを入力します。 ![変更のコミットメッセージ](/assets/images/2021/10/help/repository/write-commit-message-quick-pull.png)
 
 2. コミットメッセージの下にあるテキストボックスに、`on-behalf-of: @org <name@organization.com>` を追加します。
 
-  ![2 つ目のコミットメッセージテキストボックスにある、代理コミットメッセージのトレーラー例](/assets/images/help/repository/write-commit-message-on-behalf-of-trailer.png)
+  ![2 つ目のコミットメッセージテキストボックスにある、代理コミットメッセージのトレーラー例](/assets/images/2021/10/help/repository/write-commit-message-on-behalf-of-trailer.png)
 4. [**Commit changes**] または [**Propose changes**] をクリックします。
 
 {% data variables.product.product_location %} に新たなコミット、メッセージ、およびバッジが表示されます。

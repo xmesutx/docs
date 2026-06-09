@@ -26,10 +26,10 @@ A reexecução de um fluxo de trabalho usa o mesmo `GITHUB_SHA` (commit SHA) e `
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 {% ifversion fpt or ghes > 3.2 or ghae-issue-4721 or ghec %}
-1. No canto superior direito do fluxo de trabalho, use o menu suspenso **Reexecutar trabalhos** e selecione **Reexecutar todos os trabalhos** ![Menu suspenso reexecutar](/assets/images/help/repository/rerun-checks-drop-down.png)
+1. No canto superior direito do fluxo de trabalho, use o menu suspenso **Reexecutar trabalhos** e selecione **Reexecutar todos os trabalhos** ![Menu suspenso reexecutar](/assets/images/2021/10/help/repository/rerun-checks-drop-down.png)
 {% endif %}
 {% ifversion ghes < 3.3 or ghae %}
-1. No canto superior direito do fluxo de trabalho, use o menu suspenso **Reexecutar trabalhos** e selecione **Reexecutar todos os trabalhos**. ![Menu suspenso Re-run checks (Executar verificações novamente)](/assets/images/help/repository/rerun-checks-drop-down-updated.png)
+1. No canto superior direito do fluxo de trabalho, use o menu suspenso **Reexecutar trabalhos** e selecione **Reexecutar todos os trabalhos**. ![Menu suspenso Re-run checks (Executar verificações novamente)](/assets/images/2021/10/help/repository/rerun-checks-drop-down-updated.png)
 {% endif %}
 
 {% endwebui %}
@@ -61,7 +61,7 @@ Você pode ver os resultados de suas tentativas anteriores de executar um fluxo 
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
-1. Todas as tentativas anteriores de execução são mostradas no painel esquerdo. ![Reexecutar fluxo de trabalho](/assets/images/help/settings/actions-review-workflow-rerun.png)
+1. Todas as tentativas anteriores de execução são mostradas no painel esquerdo. ![Reexecutar fluxo de trabalho](/assets/images/2021/10/help/settings/actions-review-workflow-rerun.png)
 1. Clique em uma entrada para visualizar os resultados.
 
 {% endif %}

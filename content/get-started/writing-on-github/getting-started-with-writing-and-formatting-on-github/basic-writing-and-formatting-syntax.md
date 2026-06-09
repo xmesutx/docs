@@ -22,11 +22,11 @@ To create a heading, add one to six <kbd>#</kbd> symbols before your heading tex
 ###### The smallest heading
 ```
 
-![Rendered H1, H2, and H6 headings](/assets/images/help/writing/headings-rendered.png)
+![Rendered H1, H2, and H6 headings](/assets/images/2021/10/help/writing/headings-rendered.png)
 
 When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking {% octicon "list-unordered" aria-label="The unordered list icon" %} within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section. 
 
-![Screenshot highlighting the table of contents icon](/assets/images/help/repository/headings_toc.png)
+![Screenshot highlighting the table of contents icon](/assets/images/2022/02/help/repository/headings_toc.png)
 
 
 ## Styling text
@@ -51,7 +51,7 @@ Text that is not a quote
 > Text that is a quote
 ```
 
-![Rendered quoted text](/assets/images/help/writing/quoted-text-rendered.png)
+![Rendered quoted text](/assets/images/2021/10/help/writing/quoted-text-rendered.png)
 
 {% tip %}
 
@@ -67,7 +67,7 @@ You can call out code or a command within a sentence with single backticks. The 
 Use `git status` to list all new or modified files that haven't yet been committed.
 ```
 
-![Rendered inline code block](/assets/images/help/writing/inline-code-rendered.png)
+![Rendered inline code block](/assets/images/2021/10/help/writing/inline-code-rendered.png)
 
 To format code or text into its own distinct block, use triple backticks.
 
@@ -80,7 +80,7 @@ git commit
 ```
 </pre>
 
-![Rendered code block](/assets/images/help/writing/code-block-rendered.png)
+![Rendered code block](/assets/images/2021/10/help/writing/code-block-rendered.png)
 
 For more information, see "[Creating and highlighting code blocks](/articles/creating-and-highlighting-code-blocks)."
 
@@ -92,7 +92,7 @@ You can create an inline link by wrapping link text in brackets `[ ]`, and then 
 
 `This site was built using [GitHub Pages](https://pages.github.com/).`
 
-![Rendered link](/assets/images/help/writing/link-rendered.png)
+![Rendered link](/assets/images/2021/10/help/writing/link-rendered.png)
 
 {% tip %}
 
@@ -114,7 +114,7 @@ You can display an image by adding <kbd>!</kbd> and wrapping the alt text in `[ 
 
 `![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)`
 
-![Rendered Image](/assets/images/help/writing/image-rendered.png)
+![Rendered Image](/assets/images/2021/10/help/writing/image-rendered.png)
 
 {% data variables.product.product_name %} supports embedding images into your issues, pull requests{% ifversion fpt or ghec %}, discussions{% endif %}, comments  and `.md` files. You can display an image from your repository, add a link to an online image, or upload an image. For more information, see "[Uploading assets](#uploading-assets)."
 
@@ -128,11 +128,11 @@ Here are some examples for using relative links to display an image.
 
 | Context | Relative Link |
 | ------ | -------- |
-| In a `.md` file on the same branch | `/assets/images/electrocat.png` |
-| In a `.md` file on another branch | `/../main/assets/images/electrocat.png` |
-| In issues, pull requests and comments of the repository | `../blob/main/assets/images/electrocat.png` |
-| In a `.md` file in another repository | `/../../../../github/docs/blob/main/assets/images/electrocat.png` |
-| In issues, pull requests and comments of another repository | `../../../github/docs/blob/main/assets/images/electrocat.png?raw=true` |
+| In a `.md` file on the same branch | `/assets/images/2021/10/electrocat.png` |
+| In a `.md` file on another branch | `/../main/assets/images/2021/10/electrocat.png` |
+| In issues, pull requests and comments of the repository | `../blob/main/assets/images/2021/10/electrocat.png` |
+| In a `.md` file in another repository | `/../../../../github/docs/blob/main/assets/images/2021/10/electrocat.png` |
+| In issues, pull requests and comments of another repository | `../../../github/docs/blob/main/assets/images/2021/10/electrocat.png?raw=true` |
 
 {% note %}
 
@@ -165,7 +165,7 @@ You can make an unordered list by preceding one or more lines of text with <kbd>
 - Thomas Jefferson
 ```
 
-![Rendered unordered list](/assets/images/help/writing/unordered-list-rendered.png)
+![Rendered unordered list](/assets/images/2021/10/help/writing/unordered-list-rendered.png)
 
 To order your list, precede each line with a number.
 
@@ -175,7 +175,7 @@ To order your list, precede each line with a number.
 3. John Quincy Adams
 ```
 
-![Rendered ordered list](/assets/images/help/writing/ordered-list-rendered.png)
+![Rendered ordered list](/assets/images/2021/10/help/writing/ordered-list-rendered.png)
 
 ### Nested Lists
 
@@ -189,9 +189,9 @@ To create a nested list using the web editor on {% data variables.product.produc
      - Second nested list item
 ```
 
-![Nested list with alignment highlighted](/assets/images/help/writing/nested-list-alignment.png)
+![Nested list with alignment highlighted](/assets/images/2021/10/help/writing/nested-list-alignment.png)
 
-![List with two levels of nested items](/assets/images/help/writing/nested-list-example-1.png)
+![List with two levels of nested items](/assets/images/2021/10/help/writing/nested-list-example-1.png)
 
 To create a nested list in the comment editor on {% data variables.product.product_name %}, which doesn't use a monospaced font, you can look at the list item immediately above the nested list and count the number of characters that appear before the content of the item. Then type that number of space characters in front of the nested list item.
 
@@ -202,7 +202,7 @@ In this example, you could add a nested list item under the list item `100. Firs
      - First nested list item
 ```
 
-![List with a nested list item](/assets/images/help/writing/nested-list-example-3.png)   
+![List with a nested list item](/assets/images/2021/10/help/writing/nested-list-example-3.png)   
 
 You can create multiple levels of nested lists using the same method. For example, because the first nested list item has seven characters (`␣␣␣␣␣-␣`) before the nested list content `First nested list item`, you would need to indent the second nested list item by seven spaces.
 
@@ -212,7 +212,7 @@ You can create multiple levels of nested lists using the same method. For exampl
        - Second nested list item
 ```
 
-![List with two levels of nested items](/assets/images/help/writing/nested-list-example-2.png)    
+![List with two levels of nested items](/assets/images/2021/10/help/writing/nested-list-example-2.png)    
 
 For more examples, see the [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#example-265).
 
@@ -232,7 +232,7 @@ You can mention a person or [team](/articles/setting-up-teams/) on {% data varia
 
 `@github/support What do you think about these updates?`
 
-![Rendered @mention](/assets/images/help/writing/mention-rendered.png)
+![Rendered @mention](/assets/images/2021/10/help/writing/mention-rendered.png)
 
 When you mention a parent team, members of its child teams also receive notifications, simplifying communication with multiple groups of people. For more information, see "[About teams](/articles/about-teams)."
 
@@ -255,7 +255,7 @@ For more information, see "[Autolinked references and URLs](/articles/autolinked
 
 Some {% data variables.product.prodname_github_apps %} provide information in {% data variables.product.product_name %} for URLs that link to their registered domains. {% data variables.product.product_name %} renders the information provided by the app under the URL in the body or comment of an issue or pull request.
 
-![Content attachment](/assets/images/github-apps/content_reference_attachment.png)
+![Content attachment](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 To see content attachments, you must have a {% data variables.product.prodname_github_app %} that uses the Content Attachments API installed on the repository.{% ifversion fpt or ghec %} For more information, see "[Installing an app in your personal account](/articles/installing-an-app-in-your-personal-account)" and "[Installing an app in your organization](/articles/installing-an-app-in-your-organization)."{% endif %}
 
@@ -273,7 +273,7 @@ You can add emoji to your writing by typing `:EMOJICODE:`.
 
 `@octocat :+1: This PR looks great - it's ready to merge! :shipit:`
 
-![Rendered emoji](/assets/images/help/writing/emoji-rendered.png)
+![Rendered emoji](/assets/images/2021/10/help/writing/emoji-rendered.png)
 
 Typing <kbd>:</kbd> will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press **Tab** or **Enter** to complete the highlighted result.
 
@@ -305,7 +305,7 @@ You can also use words, to fit your writing style more closely[^note].
 
 The footnote will render like this:
 
-![Rendered footnote](/assets/images/site/rendered-footnote.png)
+![Rendered footnote](/assets/images/2021/10/site/rendered-footnote.png)
 
 {% tip %}
 
@@ -328,7 +328,7 @@ You can tell {% data variables.product.product_name %} to ignore (or escape) Mar
 
 `Let's rename \*our-new-project\* to \*our-old-project\*.`
 
-![Rendered escaped character](/assets/images/help/writing/escaped-character-rendered.png)
+![Rendered escaped character](/assets/images/2021/10/help/writing/escaped-character-rendered.png)
 
 For more information, see Daring Fireball's "[Markdown Syntax](https://daringfireball.net/projects/markdown/syntax#backslash)."
 

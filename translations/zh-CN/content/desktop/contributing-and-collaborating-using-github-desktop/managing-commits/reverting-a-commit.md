@@ -20,7 +20,7 @@ versions:
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![差异视图上方的还原选项](/assets/images/help/desktop/commit-revert-mac.png)
+  ![差异视图上方的还原选项](/assets/images/2021/10/help/desktop/commit-revert-mac.png)
 
 {% endmac %}
 
@@ -28,6 +28,6 @@ versions:
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![差异视图上方的还原选项](/assets/images/help/desktop/commit-revert-win.png)
+  ![差异视图上方的还原选项](/assets/images/2021/10/help/desktop/commit-revert-win.png)
 
 {% endwindows %}

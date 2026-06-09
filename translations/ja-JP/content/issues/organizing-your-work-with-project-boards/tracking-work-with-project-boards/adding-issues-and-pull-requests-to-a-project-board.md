@@ -25,7 +25,7 @@ shortTitle: ボードへのIssueとPRの追加
 
 各プロジェクト列には最大 2,500 のカードを置くことができます。 列のカード数が最大に達すると、その列にカードを移動させることはできません。
 
-![トリアージサイドバーからプロジェクトボードの列へ Issue カードを移動させるカーソル](/assets/images/help/projects/add-card-from-sidebar.gif)
+![トリアージサイドバーからプロジェクトボードの列へ Issue カードを移動させるカーソル](/assets/images/2021/10/help/projects/add-card-from-sidebar.gif)
 
 {% note %}
 
@@ -40,8 +40,8 @@ shortTitle: ボードへのIssueとPRの追加
 ## プロジェクトボードへの Issue およびプルリクエストの追加
 
 1. Issue およびプルリクエストを追加するプロジェクトボードに移動します。
-2. プロジェクトボードで {% octicon "plus" aria-label="The plus icon" %} [**Add cards**] をクリックします。 ![カードの追加ボタン](/assets/images/help/projects/add-cards-button.png)
-3. 検索条件を使って、プロジェクトボードに追加したい Issue と Pull Request を検索してください。 利用できる検索条件に関する詳しい情報については「[Issue を検索する](/articles/searching-issues)」を参照してください。 ![Issue およびプルリクエストを検索](/assets/images/help/issues/issues_search_bar.png)
+2. プロジェクトボードで {% octicon "plus" aria-label="The plus icon" %} [**Add cards**] をクリックします。 ![カードの追加ボタン](/assets/images/2021/10/help/projects/add-cards-button.png)
+3. 検索条件を使って、プロジェクトボードに追加したい Issue と Pull Request を検索してください。 利用できる検索条件に関する詳しい情報については「[Issue を検索する](/articles/searching-issues)」を参照してください。 ![Issue およびプルリクエストを検索](/assets/images/2021/10/help/issues/issues_search_bar.png)
 
   {% tip %}
 
@@ -60,11 +60,11 @@ shortTitle: ボードへのIssueとPRの追加
 
 ## サイドバーからのプロジェクトボードへの Issue およびプルリクエストの追加
 
-1. Issue あるいはプルリクエストの右側で、[**Projects {% octicon "gear" aria-label="The Gear icon" %}**] をクリックします。 ![サイドバーのプロジェクトボードボタン](/assets/images/help/projects/sidebar-project.png)
-2. 追加したいプロジェクトボードの [**Recent**]、[**Repository**]、[**User**]、[**Organization**] タブをクリックします。 ![Recent、Repository、Organization タブ](/assets/images/help/projects/sidebar-project-tabs.png)
-3. [**Filter projects**] フィールドにプロジェクト名を入力します。 ![プロジェクトボードの検索ボックス](/assets/images/help/projects/sidebar-search-project.png)
-4. Issueまたはプルリクエストを追加する1つ以上のプロジェクトボードを選択します。 ![選択されたプロジェクトボード](/assets/images/help/projects/sidebar-select-project.png)
-5. {% octicon "triangle-down" aria-label="The down triangle icon" %} をクリックし、Issueまたはプルリクエストが必要な列をクリックします。 カードが、選択したプロジェクトボードの列の下部に移動します。 ![[Move card to column] メニュー](/assets/images/help/projects/sidebar-select-project-board-column-menu.png)
+1. Issue あるいはプルリクエストの右側で、[**Projects {% octicon "gear" aria-label="The Gear icon" %}**] をクリックします。 ![サイドバーのプロジェクトボードボタン](/assets/images/2021/10/help/projects/sidebar-project.png)
+2. 追加したいプロジェクトボードの [**Recent**]、[**Repository**]、[**User**]、[**Organization**] タブをクリックします。 ![Recent、Repository、Organization タブ](/assets/images/2021/10/help/projects/sidebar-project-tabs.png)
+3. [**Filter projects**] フィールドにプロジェクト名を入力します。 ![プロジェクトボードの検索ボックス](/assets/images/2021/10/help/projects/sidebar-search-project.png)
+4. Issueまたはプルリクエストを追加する1つ以上のプロジェクトボードを選択します。 ![選択されたプロジェクトボード](/assets/images/2021/10/help/projects/sidebar-select-project.png)
+5. {% octicon "triangle-down" aria-label="The down triangle icon" %} をクリックし、Issueまたはプルリクエストが必要な列をクリックします。 カードが、選択したプロジェクトボードの列の下部に移動します。 ![[Move card to column] メニュー](/assets/images/2021/10/help/projects/sidebar-select-project-board-column-menu.png)
 
 ## 参考リンク
 

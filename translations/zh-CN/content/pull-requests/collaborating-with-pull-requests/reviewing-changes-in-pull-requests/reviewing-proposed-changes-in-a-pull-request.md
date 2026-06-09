@@ -33,7 +33,7 @@ shortTitle: 审核建议的更改
 
    You can change the format of the diff view in this tab by clicking {% octicon "gear" aria-label="The Settings gear" %} and choosing the unified or split view. The choice you make will apply when you view the diff for other pull requests.
 
-   ![Diff view settings](/assets/images/help/pull_requests/diff-view-settings.png)
+   ![Diff view settings](/assets/images/2021/11/help/pull_requests/diff-view-settings.png)
 
    You can also choose to hide whitespace differences. The choice you make only applies to this pull request and will be remembered the next time you visit this page.
 {% endif %}
@@ -43,11 +43,11 @@ shortTitle: 审核建议的更改
 {% data reusables.repositories.suggest-changes %}
 1. 完成后，单击 **Start a review（开始审查）**。 如果已开始审查，您可以单击 **Add review comment（添加审查注释）**。
 
-   ![开始审查按钮](/assets/images/help/pull_requests/start-a-review-button.png)
+   ![开始审查按钮](/assets/images/2021/10/help/pull_requests/start-a-review-button.png)
 
 提交审查之前，您的行注释为_待处理_状态并且仅对您可见。 您可以在提交审查之前随时编辑待处理的注释。 要取消待处理的审查（包括所有其待处理的注释），请在 Conversation（对话）选项卡中向下滚动到时间表的末尾，然后单击 **Cancel review（取消审查）**。
 
-![取消审查按钮](/assets/images/help/pull_requests/cancel-review-button.png)
+![取消审查按钮](/assets/images/2021/10/help/pull_requests/cancel-review-button.png)
 {% endwebui %}
 
 {% ifversion fpt or ghec %}
@@ -74,7 +74,7 @@ You can use [{% data variables.product.prodname_codespaces %}](/codespaces/overv
 
 1. 在清单或锁定文件标头的右侧，单击 **{% octicon "file" aria-label="The rich diff icon" %}** 多差异按钮以显示依赖项审查。
 
-   ![多差异按钮](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![多差异按钮](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 {% data reusables.repositories.return-to-source-diff %}
 {% endif %}
@@ -86,7 +86,7 @@ You can use [{% data variables.product.prodname_codespaces %}](/codespaces/overv
 {% data reusables.repositories.changed-files %}
 2. 在完成审查的文件的标头右侧，选择**已查看**。
 
-   ![已查看复选框](/assets/images/help/pull_requests/viewed-checkbox.png)
+   ![已查看复选框](/assets/images/2021/10/help/pull_requests/viewed-checkbox.png)
 
 ## 提交审查
 
@@ -97,7 +97,7 @@ You can use [{% data variables.product.prodname_codespaces %}](/codespaces/overv
 {% data reusables.repositories.review-summary-comment %}
 4. 选择您想要留下的审查类型：
 
-   ![具有审查选项的单选按钮](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+   ![具有审查选项的单选按钮](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
     - 选择 **Comment（注释）**留下一般反馈而不明确批准更改或请求其他更改。
     - 选择 **Approve（批准）**提交反馈并批准合并拉取请求中提议的更改。

@@ -68,7 +68,7 @@ redirect_from:
    ```
 1. 确认您的 TXT 记录已添加到 DNS 后，请按照上面的步骤 1 至 4 导航到您企业帐户的已批准和已验证域。
 {% data reusables.enterprise-accounts.continue-verifying-domain %}
-1. （可选）组织的资料上显示“Verified（已验证）”徽章后，从域托管服务的 DNS 记录中删除 TXT 条目。 ![已验证徽章](/assets/images/help/organizations/verified-badge.png)
+1. （可选）组织的资料上显示“Verified（已验证）”徽章后，从域托管服务的 DNS 记录中删除 TXT 条目。 ![已验证徽章](/assets/images/2021/10/help/organizations/verified-badge.png)
 
 ## 批准企业帐户的域名
 
@@ -87,4 +87,4 @@ redirect_from:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.verified-domains-tab %}
-1. 在要删除的域的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 ** Delete（删除）**。 ![域的"删除"](/assets/images/help/organizations/domains-delete.png)
+1. 在要删除的域的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 ** Delete（删除）**。 ![域的"删除"](/assets/images/2021/10/help/organizations/domains-delete.png)

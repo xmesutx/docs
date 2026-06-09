@@ -28,9 +28,9 @@ redirect_from:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-branches %}
-1. 在分支列表中，在要重命名的分支的右侧，单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![要重命名的分支右侧的铅笔图标](/assets/images/help/branch/branch-rename-edit.png)
-1. 为分支输入新名称。 ![输入新分支名称的文本字段](/assets/images/help/branch/branch-rename-type.png)
-1. 查看有关本地环境的信息，然后单击 **Rename branch（重命名分支）**。 ![本地环境信息和"重命名分支"按钮](/assets/images/help/branch/branch-rename-rename.png)
+1. 在分支列表中，在要重命名的分支的右侧，单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![要重命名的分支右侧的铅笔图标](/assets/images/2021/10/help/branch/branch-rename-edit.png)
+1. 为分支输入新名称。 ![输入新分支名称的文本字段](/assets/images/2021/10/help/branch/branch-rename-type.png)
+1. 查看有关本地环境的信息，然后单击 **Rename branch（重命名分支）**。 ![本地环境信息和"重命名分支"按钮](/assets/images/2021/10/help/branch/branch-rename-rename.png)
 
 ## 在分支名称更改后更新本地克隆
 

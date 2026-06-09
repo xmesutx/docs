@@ -29,6 +29,6 @@ Across all organizations owned by your enterprise, you can control whether organ
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. In the left sidebar, click **Organizations**. ![Organizations tab in the enterprise sidebar](/assets/images/help/business-accounts/settings-policies-org-tab.png)
+3. In the left sidebar, click **Organizations**. ![Organizations tab in the enterprise sidebar](/assets/images/2021/10/help/business-accounts/settings-policies-org-tab.png)
 4. [Organization projects] で、設定変更についての情報を確認します。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. [Organization policies] で、ドロップダウンメニューを使用してポリシーを選択します。 ![Organization ポリシーオプションのドロップダウンメニュー](/assets/images/help/business-accounts/organization-policy-drop-down.png)
+5. [Organization policies] で、ドロップダウンメニューを使用してポリシーを選択します。 ![Organization ポリシーオプションのドロップダウンメニュー](/assets/images/2021/10/help/business-accounts/organization-policy-drop-down.png)

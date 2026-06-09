@@ -28,15 +28,15 @@ shortTitle: Add notes to board
 
 When you add a URL for an issue, pull request, or another project board to a note, you'll see a preview in a summary card below your text.
 
-![Project board cards showing a preview of an issue and another project board](/assets/images/help/projects/note-with-summary-card.png)
+![Project board cards showing a preview of an issue and another project board](/assets/images/2021/10/help/projects/note-with-summary-card.png)
 
 ## Adding notes to a project board
 
 1. Navigate to the project board where you want to add notes.
 2. In the column you want to add a note to, click {% octicon "plus" aria-label="The plus icon" %}.
-![Plus icon in the column header](/assets/images/help/projects/add-note-button.png)
+![Plus icon in the column header](/assets/images/2021/10/help/projects/add-note-button.png)
 3. Type your note, then click **Add**.
-![Field for typing a note and Add card button](/assets/images/help/projects/create-and-add-note-button.png)
+![Field for typing a note and Add card button](/assets/images/2021/10/help/projects/create-and-add-note-button.png)
 
   {% tip %}
 
@@ -59,11 +59,11 @@ When you convert a note to an issue, the issue is automatically created using th
 1. Navigate to the note that you want to convert to an issue.
 {% data reusables.project-management.project-note-more-options %}
 3. Click **Convert to issue**.
-  ![Convert to issue button](/assets/images/help/projects/convert-to-issue.png)
+  ![Convert to issue button](/assets/images/2021/10/help/projects/convert-to-issue.png)
 4. If the card is on an organization-wide project board, in the drop-down menu, choose the repository you want to add the issue to.
-  ![Drop-down menu listing repositories where you can create the issue](/assets/images/help/projects/convert-note-choose-repository.png)
+  ![Drop-down menu listing repositories where you can create the issue](/assets/images/2021/10/help/projects/convert-note-choose-repository.png)
 5. Optionally, edit the pre-filled issue title, and type an issue body.
-  ![Fields for issue title and body](/assets/images/help/projects/convert-note-issue-title-body.png)
+  ![Fields for issue title and body](/assets/images/2021/10/help/projects/convert-note-issue-title-body.png)
 6. Click **Convert to issue**.
 7. The note is automatically converted to an issue. In the project board, the new issue card will be in the same location as the previous note.
 
@@ -72,9 +72,9 @@ When you convert a note to an issue, the issue is automatically created using th
 1. Navigate to the note that you want to edit or remove.
 {% data reusables.project-management.project-note-more-options %}
 3. To edit the contents of the note, click **Edit note**.
-  ![Edit note button](/assets/images/help/projects/edit-note.png)
+  ![Edit note button](/assets/images/2021/10/help/projects/edit-note.png)
 4. To delete the contents of the notes, click **Delete note**.
-  ![Delete note button](/assets/images/help/projects/delete-note.png)
+  ![Delete note button](/assets/images/2021/10/help/projects/delete-note.png)
 
 ## Further reading
 

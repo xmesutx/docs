@@ -1,1 +1,1 @@
-1. Na barra lateral esquerda, clique em **App managers** (Gerenciador de aplicativos). ![Botão sidebar gerenciador de aplicativos](/assets/images/help/organizations/app-managers-sidebar-button.png)
+1. Na barra lateral esquerda, clique em **App managers** (Gerenciador de aplicativos). ![Botão sidebar gerenciador de aplicativos](/assets/images/2021/10/help/organizations/app-managers-sidebar-button.png)

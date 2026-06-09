@@ -21,18 +21,18 @@ shortTitle: Criar rodapé ou barra lateral
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-3. Na parte inferior da página, clique em **Add a custom footer** (Adicionar um footer personalizado). ![Seção wiki e footer](/assets/images/help/wiki/wiki_add_footer.png)
-4. Use o editor de texto para digitar o conteúdo que deseja ter no footer. ![WYSIWYG do wiki](/assets/images/help/wiki/wiki-footer.png)
-5. Insira uma mensagem do commit descrevendo o footer que você está adicionando. ![Mensagem do commit do wiki](/assets/images/help/wiki/wiki_commit_message.png)
+3. Na parte inferior da página, clique em **Add a custom footer** (Adicionar um footer personalizado). ![Seção wiki e footer](/assets/images/2021/10/help/wiki/wiki_add_footer.png)
+4. Use o editor de texto para digitar o conteúdo que deseja ter no footer. ![WYSIWYG do wiki](/assets/images/2021/10/help/wiki/wiki-footer.png)
+5. Insira uma mensagem do commit descrevendo o footer que você está adicionando. ![Mensagem do commit do wiki](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 6. Para fazer commit das alterações no wiki, clique em **Save Page** (Salvar página).
 
 ## Criar uma barra lateral
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-3. Clique em **Add a custom sidebar** (Adicionar uma barra lateral personalizada). ![Seção de adição da barra lateral do wiki](/assets/images/help/wiki/wiki_add_sidebar.png)
-4. Use o editor de texto para adicionar o conteúdo da página. ![WYSIWYG do wiki](/assets/images/help/wiki/wiki-sidebar.png)
-5. Insira uma mensagem do commit descrevendo a barra lateral que você está adicionando. ![Mensagem do commit do wiki](/assets/images/help/wiki/wiki_commit_message.png)
+3. Clique em **Add a custom sidebar** (Adicionar uma barra lateral personalizada). ![Seção de adição da barra lateral do wiki](/assets/images/2021/10/help/wiki/wiki_add_sidebar.png)
+4. Use o editor de texto para adicionar o conteúdo da página. ![WYSIWYG do wiki](/assets/images/2021/10/help/wiki/wiki-sidebar.png)
+5. Insira uma mensagem do commit descrevendo a barra lateral que você está adicionando. ![Mensagem do commit do wiki](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 6. Para fazer commit das alterações no wiki, clique em **Save Page** (Salvar página).
 
 ## Criar um footer ou uma barra lateral localmente

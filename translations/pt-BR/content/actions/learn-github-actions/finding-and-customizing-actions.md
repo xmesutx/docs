@@ -40,8 +40,8 @@ As ações que você usa no seu fluxo de trabalho podem ser definidas em:
 Você pode pesquisar ações diretamente no seu editor do seu fluxo de trabalho do repositório. Na barra lateral, você pode pesquisar uma ação específica, visualizar ações em destaque e pesquisar categorias em destaque. Você também pode visualizar o número de estrelas que uma ação recebeu da comunidade {% data variables.product.prodname_dotcom %}.
 
 1. No seu repositório, pesquise o arquivo do fluxo de trabalho que você deseja editar.
-1. No canto superior direito da vista do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor do fluxo de trabalho. ![Edite o botão do arquivo do fluxo de trabalho](/assets/images/help/repository/actions-edit-workflow-file.png)
-1. No lado direito do editor, use a barra lateral {% data variables.product.prodname_marketplace %} para procurar ações. As ações com o selo de {% octicon "verified" aria-label="The verified badge" %} indicam que {% data variables.product.prodname_dotcom %} verificou o criador da ação como uma organização parceira. ![Barra lateral do fluxo de trabalho do Marketplace](/assets/images/help/repository/actions-marketplace-sidebar.png)
+1. No canto superior direito da vista do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor do fluxo de trabalho. ![Edite o botão do arquivo do fluxo de trabalho](/assets/images/2021/10/help/repository/actions-edit-workflow-file.png)
+1. No lado direito do editor, use a barra lateral {% data variables.product.prodname_marketplace %} para procurar ações. As ações com o selo de {% octicon "verified" aria-label="The verified badge" %} indicam que {% data variables.product.prodname_dotcom %} verificou o criador da ação como uma organização parceira. ![Barra lateral do fluxo de trabalho do Marketplace](/assets/images/2021/10/help/repository/actions-marketplace-sidebar.png)
 
 ## Adicionar uma ação ao seu fluxo de trabalho
 
@@ -64,7 +64,7 @@ Você pode visualizar as ações referenciadas em seus fluxos de trabalho de {% 
 Uma página de lista de ações incluem a versão da ação e a sintaxe do fluxo de trabalho necessárias para usar a ação. Para manter seu fluxo de trabalho estável mesmo quando atualizações são feitas em uma ação, você pode fazer referência à versão da ação a ser usada especificando o Git ou da tag do Docker no arquivo de fluxo de trabalho.
 
 1. Navegue para a ação que você deseja usar no seu fluxo de trabalho.
-1. Em "Instalação", clique em {% octicon "clippy" aria-label="The edit icon" %} para copiar a sintaxe do fluxo de trabalho. ![Visualizar lista de ação](/assets/images/help/repository/actions-sidebar-detailed-view.png)
+1. Em "Instalação", clique em {% octicon "clippy" aria-label="The edit icon" %} para copiar a sintaxe do fluxo de trabalho. ![Visualizar lista de ação](/assets/images/2021/10/help/repository/actions-sidebar-detailed-view.png)
 1. Cole a sintaxe como uma nova etapa no seu fluxo de trabalho. Para obter mais informações, consulte a sintaxe "[ para {% data variables.product.prodname_actions %}](/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idsteps)."
 1. Se a ação exigir que você forneça entradas, defina-as no seu fluxo de trabalho. Para obter informações sobre entradas uma ação pode exigir, consulte "[Usar entradas e saídas com uma ação](/actions/learn-github-actions/finding-and-customizing-actions#using-inputs-and-outputs-with-an-action)".
 

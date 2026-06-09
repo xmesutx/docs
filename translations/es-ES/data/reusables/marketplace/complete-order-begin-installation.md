@@ -1,1 +1,1 @@
-1. Da clic en "**Completar orden y comenzar instalación**. ![Botón para completar orden y comenzar instalación](/assets/images/help/marketplace/marketplace-complete-order-begin-installation-button.png)
+1. Da clic en "**Completar orden y comenzar instalación**. ![Botón para completar orden y comenzar instalación](/assets/images/2021/10/help/marketplace/marketplace-complete-order-begin-installation-button.png)

@@ -25,7 +25,7 @@ shortTitle: Visualizar branches
 
 4. Opcionalmente, use o campo de pesquisa no canto superior direito. Ele fornece uma pesquisa simples, que não diferencia a maiúsculas e minúsculas no nome do branch. Ele não é compatível com nenhuma sintaxe de consulta adicional.
 
-![A página de branches do repositório Atom](/assets/images/help/branches/branches-overview-atom.png)
+![A página de branches do repositório Atom](/assets/images/2021/10/help/branches/branches-overview-atom.png)
 
 ## Leia mais
 

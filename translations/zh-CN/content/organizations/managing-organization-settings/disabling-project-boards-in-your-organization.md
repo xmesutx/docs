@@ -29,7 +29,7 @@ shortTitle: 禁用项目板
 {% endif %}
 1. 决定是否禁用组织范围的项目板，禁用组织中的仓库项目板，或两者均禁用。 然后，在“项目”（项目）下：
     - 要禁用组织范围的项目板，请取消选择 **Enable projects for the organization（启用组织的项目）**。
-    - 要在组织中禁用仓库项目板，请取消选择 **Enable projects for all repositories（启用所有仓库的项目）**。 ![用于禁用单个组织或单个组织所有仓库的项目的复选框](/assets/images/help/projects/disable-org-projects-checkbox.png)
+    - 要在组织中禁用仓库项目板，请取消选择 **Enable projects for all repositories（启用所有仓库的项目）**。 ![用于禁用单个组织或单个组织所有仓库的项目的复选框](/assets/images/2021/10/help/projects/disable-org-projects-checkbox.png)
 1. 单击 **Save（保存）**。
 
 {% data reusables.organizations.disable_project_board_results %}

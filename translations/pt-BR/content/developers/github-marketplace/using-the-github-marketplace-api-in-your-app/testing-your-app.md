@@ -35,7 +35,7 @@ Não faça compras de teste com um app que está ativo em {% data variables.prod
 
 Seus cenários de teste podem exigir a definição de planos de listagem que oferecem testes grátis e alternância de assinaturas grátis e pagas. Uma vez que os downgrades e os cancelamentos não entram em vigor antes do próximo ciclo de cobrança, o GitHub fornece um recurso apenas para o desenvolvedor "Aplicar alteração Pendente" para fazer com que as ações `alterado` e `cancelado` do plano entrem em vigor imediatamente. Você pode acessar **Aplicar alteração pendente** para aplicativos de listagens do Marketplace com o status _rascunho_ em https://github.com/settings/billing#pending-cycle:
 
-![Aplicar alterações pendentes](/assets/images/github-apps/github-apps-apply-pending-changes.png)
+![Aplicar alterações pendentes](/assets/images/2021/10/github-apps/github-apps-apply-pending-changes.png)
 
 ## Testar APIs
 

@@ -19,7 +19,7 @@ shortTitle: GitHub 存档计划
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在“Features（功能）”下，选择或取消选择 **Preserve this repository（保存此仓库）**。 ![允许 {% data variables.product.prodname_dotcom %} 在 {% data variables.product.prodname_archive %} 中包含您的代码的复选框](/assets/images/help/repository/github-archive-program-checkbox.png)
+3. 在“Features（功能）”下，选择或取消选择 **Preserve this repository（保存此仓库）**。 ![允许 {% data variables.product.prodname_dotcom %} 在 {% data variables.product.prodname_archive %} 中包含您的代码的复选框](/assets/images/2021/10/help/repository/github-archive-program-checkbox.png)
 
 ## 延伸阅读
 - [{% data variables.product.prodname_archive %} 常见问题](https://archiveprogram.github.com/faq/)

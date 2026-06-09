@@ -55,10 +55,10 @@ assignees: octocat
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
 3. 在文件名字段中：
-    -  要使议题模板显示在仓库的根目录中，请输入 *issue_template* 的名称。 例如 `issue_template.md`。 ![根目录中的新议题模板名称](/assets/images/help/repository/issue-template-file-name.png)
-    - 要使议题模板显示在仓库的 `docs` 目录中，请输入 *docs/*，后接 *issue_template* 的名称。 例如 `docs/issue_template.md`。 ![Docs 目录中的新议题模板](/assets/images/help/repository/issue-template-file-name-docs.png)
-    - 要将文件存储在隐藏的目录中，请输入 *.github/*，后接 *issue_template* 的名称。 例如 `.github/issue_template.md`。 ![隐藏目录中的新议题模板](/assets/images/help/repository/issue-template-hidden-directory.png)
-    - 要创建多个议题模板，并使用 `template` 查询参数指定填充议题正文的模板，请输入 *.github/ISSUE_TEMPLATE/*，后接议题模板的名称。 例如 `.github/ISSUE_TEMPLATE/issue_template.md`。 您也可以在根目录或 `docs/` 目录的 `ISSUE_TEMPLATE` 子目录中存储多个议题模板。 更多信息请参阅“[关于使用查询参数自动化议题和拉取请求](/articles/about-automation-for-issues-and-pull-requests-with-query-parameters)”。 ![隐藏目录中新的多议题模板](/assets/images/help/repository/issue-template-multiple-hidden-directory.png)
+    -  要使议题模板显示在仓库的根目录中，请输入 *issue_template* 的名称。 例如 `issue_template.md`。 ![根目录中的新议题模板名称](/assets/images/2021/10/help/repository/issue-template-file-name.png)
+    - 要使议题模板显示在仓库的 `docs` 目录中，请输入 *docs/*，后接 *issue_template* 的名称。 例如 `docs/issue_template.md`。 ![Docs 目录中的新议题模板](/assets/images/2021/10/help/repository/issue-template-file-name-docs.png)
+    - 要将文件存储在隐藏的目录中，请输入 *.github/*，后接 *issue_template* 的名称。 例如 `.github/issue_template.md`。 ![隐藏目录中的新议题模板](/assets/images/2021/10/help/repository/issue-template-hidden-directory.png)
+    - 要创建多个议题模板，并使用 `template` 查询参数指定填充议题正文的模板，请输入 *.github/ISSUE_TEMPLATE/*，后接议题模板的名称。 例如 `.github/ISSUE_TEMPLATE/issue_template.md`。 您也可以在根目录或 `docs/` 目录的 `ISSUE_TEMPLATE` 子目录中存储多个议题模板。 更多信息请参阅“[关于使用查询参数自动化议题和拉取请求](/articles/about-automation-for-issues-and-pull-requests-with-query-parameters)”。 ![隐藏目录中新的多议题模板](/assets/images/2021/10/help/repository/issue-template-multiple-hidden-directory.png)
 4. 在新文件的正文中，添加您的议题模板。 这可能包括：
     - YAML 前页
     - 预期行为和实际行为

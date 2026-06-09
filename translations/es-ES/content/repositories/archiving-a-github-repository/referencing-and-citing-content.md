@@ -27,11 +27,11 @@ Para hacer que sea más sencillo referenciar tus repositorios en la literatura a
 {% endtip %}
 
 1. Navega hasta [Zenodo](http://zenodo.org/).
-2. En la esquina superior izquierda de la pantalla, haz clic en **Log in** (Registrarse). ![Botón Zenodo log in (Registrarse en Zenodo)](/assets/images/help/repository/zenodo_login.png)
-3. Haz clic en **Log in with GitHub** (Registrarse con GitHub). ![Registrarse en Zenodo con GitHub](/assets/images/help/repository/zenodo_login_with_github.png)
-4. Revisa la información acerca de los permisos de acceso, luego haz clic en **Authorize application** (Autorizar aplicación). ![Autorizar Zenodo](/assets/images/help/repository/zenodo_authorize.png)
-5. Navega hasta la [Página de GitHub de Zenodo](https://zenodo.org/account/settings/github/). ![Página de GitHub de Zenodo](/assets/images/help/repository/zenodo_github_page.png)
-6. A la derecha del nombre del repositorio que quieras archivar, cambia el botón de **Off** (Apagado) a **On** (Encendido) para habilitarlo para el archivo. ![Habilitar que Zenodo archive en el repositorio](/assets/images/help/repository/zenodo_toggle_on.png)
+2. En la esquina superior izquierda de la pantalla, haz clic en **Log in** (Registrarse). ![Botón Zenodo log in (Registrarse en Zenodo)](/assets/images/2021/10/help/repository/zenodo_login.png)
+3. Haz clic en **Log in with GitHub** (Registrarse con GitHub). ![Registrarse en Zenodo con GitHub](/assets/images/2021/10/help/repository/zenodo_login_with_github.png)
+4. Revisa la información acerca de los permisos de acceso, luego haz clic en **Authorize application** (Autorizar aplicación). ![Autorizar Zenodo](/assets/images/2021/10/help/repository/zenodo_authorize.png)
+5. Navega hasta la [Página de GitHub de Zenodo](https://zenodo.org/account/settings/github/). ![Página de GitHub de Zenodo](/assets/images/2021/10/help/repository/zenodo_github_page.png)
+6. A la derecha del nombre del repositorio que quieras archivar, cambia el botón de **Off** (Apagado) a **On** (Encendido) para habilitarlo para el archivo. ![Habilitar que Zenodo archive en el repositorio](/assets/images/2021/10/help/repository/zenodo_toggle_on.png)
 
 Zenodo archiva tu repositorio y emite un DOI nuevo cada vez que creas un {% data variables.product.product_name %} [lanzamiento](/articles/about-releases/) nuevo. Sigue los pasos en "[Creating releases](/articles/creating-releases/)" (Crear lanzamientos) para crear uno nuevo.
 

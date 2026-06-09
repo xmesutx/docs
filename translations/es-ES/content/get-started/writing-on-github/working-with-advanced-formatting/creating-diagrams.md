@@ -24,7 +24,7 @@ graph TD;
 ```
 </pre>
 
-![Rendered Mermaid flow chart](/assets/images/help/writing/mermaid-flow-chart.png)
+![Rendered Mermaid flow chart](/assets/images/2022/02/help/writing/mermaid-flow-chart.png)
 
 {% note %}
 

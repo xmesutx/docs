@@ -23,5 +23,5 @@ shortTitle: OAuth Appの無効化
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. [**Remove restrictions**] をクリックします。 ![[Remove restrictions] ボタン](/assets/images/help/settings/settings-third-party-remove-restrictions.png)
-6. サードパーティアプリケーション制限の無効化に関する情報を確認したら、[**Yes, remove application restrictions**] (はい、アプリケーション制限を削除します) をクリックします。 ![[Remove confirmation] ボタン](/assets/images/help/settings/settings-third-party-confirm-disable.png)
+5. [**Remove restrictions**] をクリックします。 ![[Remove restrictions] ボタン](/assets/images/2021/10/help/settings/settings-third-party-remove-restrictions.png)
+6. サードパーティアプリケーション制限の無効化に関する情報を確認したら、[**Yes, remove application restrictions**] (はい、アプリケーション制限を削除します) をクリックします。 ![[Remove confirmation] ボタン](/assets/images/2021/10/help/settings/settings-third-party-confirm-disable.png)

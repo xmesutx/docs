@@ -1,1 +1,1 @@
-1. Debajo de "{% data variables.large_files.product_name_short %}", da clic en **Habilitar** o **Inhabilitar**. ![Botón de inhabilitar](/assets/images/enterprise/management-console/git-lfs-toggle.png)
+1. Debajo de "{% data variables.large_files.product_name_short %}", da clic en **Habilitar** o **Inhabilitar**. ![Botón de inhabilitar](/assets/images/2021/10/enterprise/management-console/git-lfs-toggle.png)

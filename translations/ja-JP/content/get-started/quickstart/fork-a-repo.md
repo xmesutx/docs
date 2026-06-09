@@ -57,7 +57,7 @@ topics:
 上流または元のリポジトリへの変更を提案するために、プロジェクトをフォークする場合があります。 この場合、自分のフォークを上流のリポジトリと定期的に同期させるとよいでしょう。 これには、コマンドラインで Git を使用する必要があります。 先程フォークした同じ [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) リポジトリを使用して、上流リポジトリの設定を練習できます。
 
 1. On {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom_the_website %}{% else %}{% data variables.product.product_location %}{% endif %}, navigate to the [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) repository.
-2. ページの右上にある [**Fork**] をクリックします。 ![[Fork] ボタン](/assets/images/help/repository/fork_button.jpg)
+2. ページの右上にある [**Fork**] をクリックします。 ![[Fork] ボタン](/assets/images/2021/10/help/repository/fork_button.jpg)
 
 {% endwebui %}
 

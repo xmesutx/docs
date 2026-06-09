@@ -59,7 +59,7 @@ Ao criar um segredo em uma organização, você pode usar uma política para lim
 2. Na parte superior da página, clique em **Novo segredo de organização**.
 3. Digite um nome para o seu segredo na caixa de entrada **Nome**.
 4. Insira o **Valor** para o seu segredo.
-5. Na lista suspensa **Acesso do repositório**, escolha uma política de acesso. ![Lista de Acesso ao Repositório com repositórios privados selecionados](/assets/images/help/codespaces/secret-repository-access.png)
+5. Na lista suspensa **Acesso do repositório**, escolha uma política de acesso. ![Lista de Acesso ao Repositório com repositórios privados selecionados](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 6. Clique em **Add secret** (Adicionar segredo).
 
 ## Rever o acesso para os segredos do nível da organização
@@ -69,7 +69,7 @@ Você pode verificar quais políticas de acesso são aplicadas a um segredo na s
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. A lista de segredos inclui quaisquer permissões e políticas configuradas. Por exemplo: ![Lista de segredos](/assets/images/help/settings/actions-org-secrets-list.png)
+1. A lista de segredos inclui quaisquer permissões e políticas configuradas. Por exemplo: ![Lista de segredos](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. Para obter mais detalhes sobre as permissões configuradas para cada segredo, clique em **Atualizar**.
 
 ## Leia mais

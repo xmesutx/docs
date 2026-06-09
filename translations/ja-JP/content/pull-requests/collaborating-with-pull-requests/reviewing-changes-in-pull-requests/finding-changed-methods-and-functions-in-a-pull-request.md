@@ -28,8 +28,8 @@ shortTitle: Methods & functions
 {% data reusables.repositories.sidebar-pr %}
 2. プルリクエストのリストで、変更された機能とメソッドを検索したいプルリクエストをクリックします。
 {% data reusables.repositories.changed-files %}
-4. 変更された機能とメソッドのサマリーリストを確認するには、[**Jump to...**] をクリックします。 ![[Jump to] ドロップダウンメニュー](/assets/images/help/pull_requests/jump-to-menu.png)
-5. ドロップダウンメニューから、変更された機能やメソッドを選択します。 機能やメソッドの名前を入力して結果をフィルタリングすることもできます。 ![機能とメソッドのフィルタリング](/assets/images/help/pull_requests/filter-function-and-methods.png)
+4. 変更された機能とメソッドのサマリーリストを確認するには、[**Jump to...**] をクリックします。 ![[Jump to] ドロップダウンメニュー](/assets/images/2021/10/help/pull_requests/jump-to-menu.png)
+5. ドロップダウンメニューから、変更された機能やメソッドを選択します。 機能やメソッドの名前を入力して結果をフィルタリングすることもできます。 ![機能とメソッドのフィルタリング](/assets/images/2021/10/help/pull_requests/filter-function-and-methods.png)
 
  {% note %}
 
@@ -37,7 +37,7 @@ shortTitle: Methods & functions
 
  {% endnote %}
 
-6. 選択した機能やメソッドの最初の行にリダイレクトされます。 ![変更されたファイル内の機能とメソッドの表示](/assets/images/help/pull_requests/view-selected-function-or-method.png)
+6. 選択した機能やメソッドの最初の行にリダイレクトされます。 ![変更されたファイル内の機能とメソッドの表示](/assets/images/2021/10/help/pull_requests/view-selected-function-or-method.png)
 
 ## 参考リンク
 

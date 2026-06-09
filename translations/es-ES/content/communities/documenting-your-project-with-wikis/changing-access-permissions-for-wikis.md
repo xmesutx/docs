@@ -17,7 +17,7 @@ shortTitle: Cambiar los permisos de acceso
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. En Features (Características), quita la marca de selección de **Restrict edits to collaborators only** (Restringir ediciones a colaboradores solamente). ![Edición de restricción de wikis](/assets/images/help/wiki/wiki_restrict_editing.png)
+3. En Features (Características), quita la marca de selección de **Restrict edits to collaborators only** (Restringir ediciones a colaboradores solamente). ![Edición de restricción de wikis](/assets/images/2021/10/help/wiki/wiki_restrict_editing.png)
 
 ## Leer más
 

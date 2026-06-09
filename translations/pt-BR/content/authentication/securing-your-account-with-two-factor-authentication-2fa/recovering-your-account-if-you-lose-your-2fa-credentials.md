@@ -38,14 +38,14 @@ Use um dos códigos de recuperação para obter acesso automaticamente à sua co
 {% ifversion fpt or ghec %}
 1. Em "Encontrou algum problema?", clique em **Use um código de recuperação ou solicite a redefinição**.
 
-   ![Captura de tela do link para usar um código de recuperação](/assets/images/help/2fa/2fa-recovery-code-link.png)
+   ![Captura de tela do link para usar um código de recuperação](/assets/images/2021/10/help/2fa/2fa-recovery-code-link.png)
 {%- else %}
 1. Na página da 2FA, em "Don't have your phone?" (Não está com seu telefone?), clique em **Enter a two-factor recovery code** (Digite um código de recuperação de dois fatores).
 
-   ![Captura de tela do link para usar um código de recuperação](/assets/images/help/2fa/2fa_recovery_dialog_box.png){% endif %}
+   ![Captura de tela do link para usar um código de recuperação](/assets/images/2021/10/help/2fa/2fa_recovery_dialog_box.png){% endif %}
 1. Digite um dos seus códigos de recuperação e clique em **Verify** (Verificar).
 
-   ![Campo para digitar um código de recuperação e botão Verify (Verificar)](/assets/images/help/2fa/2fa-type-verify-recovery-code.png)
+   ![Campo para digitar um código de recuperação e botão Verify (Verificar)](/assets/images/2021/10/help/2fa/2fa-type-verify-recovery-code.png)
 
 {% ifversion fpt or ghec %}
 ## Autenticar com um número de telefone alternativo
@@ -79,28 +79,28 @@ Você pode usar as suas credenciais de autenticação de dois fatores ou os cód
     {% endwarning %}
 1. Em "Encontrou algum problema?", clique em **Use um código de recuperação ou solicite a redefinição**.
 
-   ![Captura de tela do link se você não tiver seu dispositivo 2FA ou códigos de recuperação](/assets/images/help/2fa/no-access-link.png)
+   ![Captura de tela do link se você não tiver seu dispositivo 2FA ou códigos de recuperação](/assets/images/2021/10/help/2fa/no-access-link.png)
 1. À direita de "Bloqueado?", clique em **Tente recuperar sua conta**.
 
-   ![Captura de tela do link para tentar recuperar sua conta](/assets/images/help/2fa/try-recovering-your-account-link.png)
+   ![Captura de tela do link para tentar recuperar sua conta](/assets/images/2022/02/help/2fa/try-recovering-your-account-link.png)
 1. Clique em **Eu entendo, começar** para solicitar uma redefinição das suas configurações de autenticação.
 
-    ![Captura de tela do botão para iniciar a redefinição das configurações de autenticação](/assets/images/help/2fa/reset-auth-settings.png)
+    ![Captura de tela do botão para iniciar a redefinição das configurações de autenticação](/assets/images/2021/10/help/2fa/reset-auth-settings.png)
 1. Clique em **Enviar senha de uso único** para enviar uma senha de uso único para todos os endereços de e-mail elegível associados à sua conta. Apenas e-mails verificados são elegíveis para a recuperação de conta. Se você restringiu as redefinições de senha para seus endereços primários e/ou de backup, esses endereços são os únicos elegíveis para a recuperação de conta.
 
-   ![Captura de tela do botão para enviar uma senha única](/assets/images/help/2fa/send-one-time-password.png)
+   ![Captura de tela do botão para enviar uma senha única](/assets/images/2021/10/help/2fa/send-one-time-password.png)
 1. Em "Única senha", digite a senha temporária do endereço e-mail de recuperação {% data variables.product.prodname_dotcom %} enviada.
 
-   ![Captura de tela do campo para digitar senha única](/assets/images/help/2fa/one-time-password-field.png)
+   ![Captura de tela do campo para digitar senha única](/assets/images/2021/10/help/2fa/one-time-password-field.png)
 1. Clique **Verificar endereço de e-mail**.
 
-   ![Captura de tela do botão para verificar o endereço de e-mail](/assets/images/help/2fa/verify-email-address.png)
+   ![Captura de tela do botão para verificar o endereço de e-mail](/assets/images/2022/02/help/2fa/verify-email-address.png)
 1. Escolha um fator de verificação alternativo.
     - Se você usou seu dispositivo atual para acessar essa conta antes e gostaria de usar o dispositivo para verificação, clique em **Verificar com este dispositivo**.
     - Se você já configurou uma chave SSH nesta conta e gostaria de usar a chave SSH para verificação, clique na **chave SSH**.
     - Se você já configurou um token de acesso pessoal anteriormente e gostaria de usar o token de acesso pessoal para verificação, clique em **Token de acesso pessoal**.
 
-   ![Captura de tela de botões para verificação alternativa](/assets/images/help/2fa/alt-verifications.png)
+   ![Captura de tela de botões para verificação alternativa](/assets/images/2021/10/help/2fa/alt-verifications.png)
 1. Um integrante de {% data variables.contact.github_support %} irá revisar a sua solicitação e enviar um e-mail para você em três dias úteis. Se a sua solicitação for aprovada, você receberá um link para concluir o processo de recuperação de conta. Se sua solicitação for negada, o e-mail incluirá uma forma de entrar em contato com o suporte para esclarecer outras dúvidas.
 
 {% endif %}

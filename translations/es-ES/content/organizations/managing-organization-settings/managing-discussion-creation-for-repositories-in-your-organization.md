@@ -21,8 +21,8 @@ Predeterminadamente, los miembros de la organización que tengan acceso de lectu
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. Debajo de "Debates del repositorio", selecciona o deselecciona **Permitir que los usuarios con acceso de lectura creen debates**. ![Casilla de verificación para permitir que las personas con acceso de lectura creen debates](/assets/images/help/discussions/toggle-allow-users-with-read-access-checkbox.png)
-6. Haz clic en **Save ** (guardar). ![Botón de "Guardar" para la configuración de debates](/assets/images/help/discussions/click-save.png)
+5. Debajo de "Debates del repositorio", selecciona o deselecciona **Permitir que los usuarios con acceso de lectura creen debates**. ![Casilla de verificación para permitir que las personas con acceso de lectura creen debates](/assets/images/2021/10/help/discussions/toggle-allow-users-with-read-access-checkbox.png)
+6. Haz clic en **Save ** (guardar). ![Botón de "Guardar" para la configuración de debates](/assets/images/2021/10/help/discussions/click-save.png)
 
 ## Leer más
 

@@ -1,1 +1,1 @@
-1. {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて** Settings（設定）**をクリックしてください。 ![プロジェクトボードサイドバーのドロップダウンメニュー内の設定オプション](/assets/images/help/projects/project-board-settings.png)
+1. {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて** Settings（設定）**をクリックしてください。 ![プロジェクトボードサイドバーのドロップダウンメニュー内の設定オプション](/assets/images/2021/10/help/projects/project-board-settings.png)

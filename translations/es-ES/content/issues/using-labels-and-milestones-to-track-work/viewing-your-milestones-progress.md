@@ -18,10 +18,10 @@ shortTitle: Visualizar el progreso a un hito
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. En el ángulo superior izquierdo, haz clic en **Milestones (Hitos)**. ![Botón de propuestas del hito](/assets/images/help/issues/issues_milestone_button.png)
+3. En el ángulo superior izquierdo, haz clic en **Milestones (Hitos)**. ![Botón de propuestas del hito](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. Selecciona el hito sobre el que deseas ver más información.
 
-![Resumen de propuestas del hito](/assets/images/help/issues/issues_milestone_overview.png)
+![Resumen de propuestas del hito](/assets/images/2021/10/help/issues/issues_milestone_overview.png)
 
 Para administrar mejor tu proyecto, puedes priorizar propuestas o solicitudes de extracción dentro de un hito. Para obtener más información, consulta "[Acerca de los hitos](/articles/about-milestones#prioritizing-issues-and-pull-requests-in-milestones)."
 

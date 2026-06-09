@@ -49,7 +49,7 @@ shortTitle: Trabajar con archivos sin código
 
 Puedes buscar y ver imágenes directamente en tu repositorio de {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}:
 
-![imagen alineada](/assets/images/help/images/view.png)
+![imagen alineada](/assets/images/2021/10/help/images/view.png)
 
 Los SVG actualmente no admiten scripting alineado o animación.
 
@@ -61,19 +61,19 @@ Puedes comparar visualmente las imágenes de tres modos diferentes: [2-up](#2-up
 
 **2-up** es el modo predeterminado; te muestra una descripción rápida de ambas imágenes. Asimismo, si la imagen cambió de tamaño entre las versiones, se muestra el cambio de dimensión real. Esto debería ser muy evidente cuando las cosas cambian de tamaño, como cuando los activos se suben de categoría a resoluciones más altas.
 
-![2-up](/assets/images/help/repository/images-2up-view.png)
+![2-up](/assets/images/2021/10/help/repository/images-2up-view.png)
 
 #### Deslizar
 
 **Deslizar**te deja ver partes de tus imágenes. ¿No estás seguro de si cambiaron los colores en las diferentes versiones? Arrastra el control deslizante de deslizamiento sobre el área en cuestión y compara los píxeles tú mismo.
 
-![Deslizar](/assets/images/help/repository/images-swipe-view.png)
+![Deslizar](/assets/images/2021/10/help/repository/images-swipe-view.png)
 
 #### Papel cebolla
 
 **Papel cebolla** realmente ayuda cuando los elementos apenas se desplazan y cuesta percibir el cambio. ¿Un icono se corrió dos píxeles a la izquierda? Arrastra el control deslizante de opacidad hacia atrás un poco y comprueba si las cosas se desplazaron.
 
-![Papel cebolla](/assets/images/help/repository/images-onion-view.gif)
+![Papel cebolla](/assets/images/2021/10/help/repository/images-onion-view.gif)
 
 ## Visualizador de archivos 3D
 
@@ -92,7 +92,7 @@ Cuando miras una confirmación de cambios o un conjunto de cambios que incluyen 
 
 Por defecto, obtendrás una vista donde todo lo que no ha cambiado está en el esquema de página. Las adiciones aparecen en verde y las partes eliminadas aparecen en rojo.
 
-![esquema de página](/assets/images/help/repository/stl_wireframe.png)
+![esquema de página](/assets/images/2021/10/help/repository/stl_wireframe.png)
 
 También puedes seleccionar la opción **Control deslizante de la revisión**, que te permite usar un control deslizante en la parte superior del archivo para cambiar entre las revisiones actuales y las anteriores.
 
@@ -100,7 +100,7 @@ También puedes seleccionar la opción **Control deslizante de la revisión**, q
 
 Si ves este ícono en la esquina del visualizador, entonces la tecnología WebGL no está disponible en tu navegador:
 
-![error emergente de WebGL](/assets/images/help/repository/render_webgl_error.png)
+![error emergente de WebGL](/assets/images/2021/10/help/repository/render_webgl_error.png)
 
 WebGL es necesario para aprovechar el hardware de tu equipo al máximo. Te recomendamos que intentes con navegadores como [Chrome](https://www.google.com/intl/en/chrome/browser/) o [Firefox](https://www.mozilla.org/en-US/firefox/new/), que vienen con WebGL activado.
 
@@ -134,7 +134,7 @@ Por defecto, la representación insertada es de 420 píxeles de ancho por 620 de
 
 GitHub admite la representación de datos tabulares en la forma de archivos *.csv* (separados por coma) y .*tsv* (separados por pestaña).
 
-![Muestra de CSV representado](/assets/images/help/repository/rendered_csv.png)
+![Muestra de CSV representado](/assets/images/2021/10/help/repository/rendered_csv.png)
 
 Cuando se visualiza, cualquier archivo _.csv_ o _.tsv_ que se haya confirmado en un repositorio de {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} se interpretará automáticamente como una tabla interactiva completa con encabezados y números de fila. Por defecto, siempre asumimos que la primera fila es tu fila de encabezados.
 
@@ -144,13 +144,13 @@ Puedes generar un enlace a una fila particular haciendo clic en el número de fi
 
 Si quieres encontrar un valor determinado en tu conjunto de datos, puedes comenzar escribiendo en la barra de búsqueda directamente arriba del archivo. Las filas se filtrarán automáticamente:
 
-![Buscar valores](/assets/images/help/repository/searching_csvs.gif)
+![Buscar valores](/assets/images/2021/10/help/repository/searching_csvs.gif)
 
 ### Manejar errores
 
 De manera ocasional, puede que descubras que tu archivo CSV o TSV no se representa. En esas instancias, aparece un cuadro de error al pie del texto original que sugiere cuál puede ser el error.
 
-![Mensaje de error de representación de CSV](/assets/images/help/repository/csv_render_error.png)
+![Mensaje de error de representación de CSV](/assets/images/2021/10/help/repository/csv_render_error.png)
 
 Los errores comunes incluyen los siguientes:
 
@@ -161,7 +161,7 @@ Los errores comunes incluyen los siguientes:
 
 GitHub admite la representación de documentos PDF.
 
-![Documento PDF representado](/assets/images/help/repository/rendered-pdf.png)
+![Documento PDF representado](/assets/images/2021/10/help/repository/rendered-pdf.png)
 
 Actualmente, se ignoran los enlaces dentro de los PDF.
 
@@ -183,11 +183,11 @@ Se admite la representación en prosa para documentos representados compatibles 
 * MediaWiki
 * Pod
 
-![Icono Paper (Papel) para ver el documento en prosa representado](/assets/images/help/repository/rendered_prose_diff.png)
+![Icono Paper (Papel) para ver el documento en prosa representado](/assets/images/2021/10/help/repository/rendered_prose_diff.png)
 
 Puedes hacer clic en {% octicon "file" aria-label="The paper icon" %} para ver los cambios hechos al documento como parte de una confirmación.
 
-![Cambios en prosa representados](/assets/images/help/repository/rendered_prose_changes.png)
+![Cambios en prosa representados](/assets/images/2021/10/help/repository/rendered_prose_changes.png)
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-5232 or ghec %}
 
@@ -201,7 +201,7 @@ Puedes hacer clic en {% octicon "file" aria-label="The paper icon" %} para ver l
 
 Proporcionamos una información de herramienta que describe los cambios en los atributos que, a diferencia de las palabras, no serían visibles en el documento representado. Por ejemplo, si la URL de un enlace cambia de un sitio web a otro, mostraríamos una información de herramienta como la siguiente:
 
-![Cambios en atributos de la prosa representados](/assets/images/help/repository/prose_diff_attributes.png)
+![Cambios en atributos de la prosa representados](/assets/images/2021/10/help/repository/prose_diff_attributes.png)
 
 ### Comentar cambios
 
@@ -215,7 +215,7 @@ Como con [otros documentos en prosa representados](/articles/about-readmes), des
 
 Algunas solicitudes de extracción incluyen una gran cantidad de cambios con documentos grandes y complejos. Cuando los cambios toman demasiado tiempo en su análisis, {% data variables.product.product_name %} no siempre puede producir una vista renderizada de los cambios. Si esto pasa, verás un mensaje de error cuando das clic en el botón renderizado.
 
-![Mensaje cuando la vista no se puede renderizar](/assets/images/help/repository/prose_diff_rendering.png)
+![Mensaje cuando la vista no se puede renderizar](/assets/images/2021/10/help/repository/prose_diff_rendering.png)
 
 Aún puedes utilizar la vista de origen para analizar y comentar cambios.
 
@@ -231,7 +231,7 @@ En general, las vistas representadas de los cambios en un documento que contiene
 
 Cuando haces clic en el ícono de papel a la derecha, también verás los cambios realizados a ese archivo como parte de una confirmación de cambios.
 
-![Captura de pantalla de conmutación de representación de fuente](/assets/images/help/repository/source-render-toggle-geojson.png)
+![Captura de pantalla de conmutación de representación de fuente](/assets/images/2021/10/help/repository/source-render-toggle-geojson.png)
 
 ### Tipos de Geometry
 
@@ -288,7 +288,7 @@ Si estás teniendo problemas al representar archivos geoJSON, asegúrate que tie
 
 Por otra parte, si tu archivo `.geojson` es particularmente grande (superior a 10 MB), no es posible representarlo dentro del navegador. Si ese es el caso, por lo general verás un mensaje similar a este:
 
-![Archivo de gran tamaño](/assets/images/help/repository/view_raw.png)
+![Archivo de gran tamaño](/assets/images/2021/10/help/repository/view_raw.png)
 
 Todavía se podrían representar los datos al convertir el archivo `.geojson` a [TopoJSON](https://github.com/mbostock/topojson), un formato de compresión que, en algunos casos, puede reducir el tamaño del archivo hasta un 80 %. Por supuesto, siempre puedes partir el archivo en fragmentos más pequeños (como por estado o por año), y almacenar los datos como archivos múltiples dentro del repositorio.
 

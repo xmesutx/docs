@@ -18,7 +18,7 @@ topics:
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-discussions-tab %}
-5. ピン止めする Team ディスカッションの横にある {% octicon "pin" aria-label="The pin icon" %} をクリックします。 アイコンをクリックしてディスカッションのピン止めを解除することもできます。 ![ディスカッションをピン止めする](/assets/images/help/projects/pin-discussion-button.png)
+5. ピン止めする Team ディスカッションの横にある {% octicon "pin" aria-label="The pin icon" %} をクリックします。 アイコンをクリックしてディスカッションのピン止めを解除することもできます。 ![ディスカッションをピン止めする](/assets/images/2021/10/help/projects/pin-discussion-button.png)
 
 ## 参考リンク
 

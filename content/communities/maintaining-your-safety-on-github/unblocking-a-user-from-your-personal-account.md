@@ -23,15 +23,15 @@ You can unblock a user in your account settings or from the user's profile page.
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
 3. Under "Blocked users", next to the user you'd like to unblock, click **Unblock**.
-![Unblock user button](/assets/images/help/organizations/org-unblock-user-button.png)
+![Unblock user button](/assets/images/2021/10/help/organizations/org-unblock-user-button.png)
 
 ## Unblocking a user from their profile page
 
 {% data reusables.profile.user_profile_page_navigation %}
 2. In the left sidebar, under the user's profile picture, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, then click  **Unblock or report user**.
-![Unblock or report user link](/assets/images/help/profile/profile-unblock-or-report-user.png)
+![Unblock or report user link](/assets/images/2021/10/help/profile/profile-unblock-or-report-user.png)
 3. Click **Unblock user**.
-  ![Modal box with option to unblock user or report abuse](/assets/images/help/profile/profile-unblockuser.png)
+  ![Modal box with option to unblock user or report abuse](/assets/images/2021/10/help/profile/profile-unblockuser.png)
 
 {% tip %}
 

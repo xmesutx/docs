@@ -23,7 +23,7 @@ Você pode excluir chaves SSH não autorizadas (ou potencialmente comprometidas)
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. Na página das chaves SSH, anote as chaves SSH associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves SSH válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves SSH](/assets/images/help/settings/settings-ssh-key-review.png)
+3. Na página das chaves SSH, anote as chaves SSH associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves SSH válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves SSH](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 
@@ -49,7 +49,7 @@ Você pode excluir chaves SSH não autorizadas (ou potencialmente comprometidas)
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. Na página das chaves SSH, anote as chaves SSH associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves SSH válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves SSH](/assets/images/help/settings/settings-ssh-key-review.png)
+3. Na página das chaves SSH, anote as chaves SSH associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves SSH válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves SSH](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 
@@ -77,7 +77,7 @@ Você pode excluir chaves SSH não autorizadas (ou potencialmente comprometidas)
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. Na página das chaves SSH, anote as chaves SSH associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves SSH válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves SSH](/assets/images/help/settings/settings-ssh-key-review.png)
+3. Na página das chaves SSH, anote as chaves SSH associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves SSH válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves SSH](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 

@@ -30,10 +30,10 @@ Organization またはユーザアカウント用にデフォルトの行動規�
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
 3. ファイル名のフィールドに *CODE_OF_CONDUCT.md* と入力します。
-4. [**Choose a code of conduct template**] をクリックします。 ![行動規範テンプレートを選択するボタン](/assets/images/help/repository/code-of-conduct-tool.png)
-5. ページの左側でプレビューしたい行動規範を選択し、プロジェクトに追加してください。 ![行動規範テンプレートの選択](/assets/images/help/repository/code-of-conduct-tool-picker.png)
+4. [**Choose a code of conduct template**] をクリックします。 ![行動規範テンプレートを選択するボタン](/assets/images/2021/10/help/repository/code-of-conduct-tool.png)
+5. ページの左側でプレビューしたい行動規範を選択し、プロジェクトに追加してください。 ![行動規範テンプレートの選択](/assets/images/2021/10/help/repository/code-of-conduct-tool-picker.png)
 6. ページの右側でフィールドに記入し、適切な情報と共に選択した行動規範を作成してください。
-7. [**Review and submit**] をクリックします。 ![行動規範のレビューとプロジェクトへのサブミット](/assets/images/help/repository/code-of-conduct-tool-review.png)
+7. [**Review and submit**] をクリックします。 ![行動規範のレビューとプロジェクトへのサブミット](/assets/images/2021/10/help/repository/code-of-conduct-tool-review.png)
 8. テキスト領域内にある行動規範の内容をレビューしてください。
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
@@ -45,7 +45,7 @@ Organization またはユーザアカウント用にデフォルトの行動規�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
-3. ファイル名フィールドに、ファイルの名前と拡張子を入力します。 ![新しい行動規範ファイル名](/assets/images/help/repository/new-code-of-conduct-file-name.png)
+3. ファイル名フィールドに、ファイルの名前と拡張子を入力します。 ![新しい行動規範ファイル名](/assets/images/2021/10/help/repository/new-code-of-conduct-file-name.png)
     - 行動規範をリポジトリのルートディレクトリに表示するには、ファイル名フィールドに *CODE_OF_CONDUCT* と入力します。
     - 行動規範をリポジトリの `docs` ディレクトリに表示するには、*docs/CODE_OF_CONDUCT* と入力します。
     - 行動規範をリポジトリの `.github` ディレクトリに表示するには、 *.github/CODE_OF_CONDUCT* と入力します。

@@ -30,7 +30,7 @@ To generate a private key:
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
 5. In "Private keys", click **Generate a private key**.
-![Generate private key](/assets/images/github-apps/github_apps_generate_private_keys.png)
+![Generate private key](/assets/images/2021/10/github-apps/github_apps_generate_private_keys.png)
 6. You will see a private key in PEM format downloaded to your computer. Make sure to store this file because GitHub only stores the public portion of the key.
 
 {% note %}
@@ -45,7 +45,7 @@ To generate a private key:
 To verify a private key:
 
 1. Find the fingerprint for the private and public key pair you want to verify in the "Private keys" section of your {% data variables.product.prodname_github_app %}'s developer settings page. For more information, see [Generating a private key](#generating-a-private-key).
-![Private key fingerprint](/assets/images/github-apps/github_apps_private_key_fingerprint.png)
+![Private key fingerprint](/assets/images/2021/10/github-apps/github_apps_private_key_fingerprint.png)
 2. Generate the fingerprint of your private key (PEM) locally by using the following command:
     ```shell
     $ openssl rsa -in <em>PATH_TO_PEM_FILE</em> -pubout -outform DER | openssl sha256 -binary | openssl base64
@@ -54,7 +54,7 @@ To verify a private key:
 
 ## Deleting private keys
 You can remove a lost or compromised private key by deleting it, but you must have at least one private key. When you only have one key, you will need to generate a new one before deleting the old one.
-![Deleting last private key](/assets/images/github-apps/github_apps_delete_key.png)
+![Deleting last private key](/assets/images/2021/10/github-apps/github_apps_delete_key.png)
 
 ## Authenticating as a {% data variables.product.prodname_github_app %}
 

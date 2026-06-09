@@ -28,4 +28,4 @@ Os produtos e recursos do {% data variables.product.prodname_dotcom %} podem pas
 Você pode ver uma lista de recursos disponíveis na versão beta e uma breve descrição de cada um deles. Cada recurso inclui um link para dar feedback.
 
 {% data reusables.feature-preview.feature-preview-setting  %}
-2. Outra opção é clicar em **Enable** (Habilitar) ou **Disable** (Desabilitar) à direita de um recurso. ![Botão Enable (Habilitar) na visualização de recursos](/assets/images/help/settings/enable-feature-button.png)
+2. Outra opção é clicar em **Enable** (Habilitar) ou **Disable** (Desabilitar) à direita de um recurso. ![Botão Enable (Habilitar) na visualização de recursos](/assets/images/2021/10/help/settings/enable-feature-button.png)

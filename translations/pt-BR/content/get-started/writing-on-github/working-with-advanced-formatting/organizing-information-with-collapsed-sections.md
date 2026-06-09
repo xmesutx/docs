@@ -31,11 +31,11 @@ Qualquer Markdown dentro do bloco `<details>` estará recolhido até que o leito
 
 O Markdown irá recolher-se por defeito.
 
-![Renderizado recolhido](/assets/images/help/writing/collapsed-section-view.png)
+![Renderizado recolhido](/assets/images/2021/11/help/writing/collapsed-section-view.png)
 
 Depois que um leitor clicar em {% octicon "triangle-right" aria-label="The right triange icon" %}, os detalhes serão expandidos.
 
-![Renderizado aberto](/assets/images/help/writing/open-collapsed-section.png)
+![Renderizado aberto](/assets/images/2021/11/help/writing/open-collapsed-section.png)
 
 ## Leia mais
 

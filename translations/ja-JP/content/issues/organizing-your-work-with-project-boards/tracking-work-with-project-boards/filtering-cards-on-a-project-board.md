@@ -34,7 +34,7 @@ shortTitle: ボード上のカードのフィルタ
 - `repo:ORGANIZATION/REPOSITORY` を使用して、Organization 全体のプロジェクトボード内のリポジトリでカードをフィルタリングする{% endif %}
 
 1. フィルタリングしたいカードが含まれるプロジェクトボードに移動します。
-2. プロジェクトのカード列の上で、[Filter cards] 検索バーをクリックして検索クエリを入力し、カードをフィルタリングします。 ![カードのフィルタリング検索バー](/assets/images/help/projects/filter-card-search-bar.png)
+2. プロジェクトのカード列の上で、[Filter cards] 検索バーをクリックして検索クエリを入力し、カードをフィルタリングします。 ![カードのフィルタリング検索バー](/assets/images/2021/10/help/projects/filter-card-search-bar.png)
 
 {% tip %}
 

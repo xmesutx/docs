@@ -51,5 +51,5 @@ $ git remote set-url origin <em>new_url</em>
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在 **Repository Name（仓库名称）**标题下，输入仓库的新名称。 ![仓库重命名](/assets/images/help/repository/repository-name-change.png)
+3. 在 **Repository Name（仓库名称）**标题下，输入仓库的新名称。 ![仓库重命名](/assets/images/2021/10/help/repository/repository-name-change.png)
 4. 单击 **Rename（重命名）**。 您已完成！

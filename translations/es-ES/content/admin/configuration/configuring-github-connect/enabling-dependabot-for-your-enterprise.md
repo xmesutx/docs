@@ -81,10 +81,10 @@ Before you can enable {% data variables.product.prodname_dependabot_alerts %}:
 {%- if dependabot-updates-github-connect %}
 1. Under "{% data variables.product.prodname_dependabot %}", to the right of "Users can receive vulnerability alerts for open source code dependencies", select the dropdown menu and click **Enabled without notifications**. Opcionalmente, para habilitar las alertas con notificaciones, haz clic en **Habilitado con notificaciones**.
 
-   ![Screenshot of the dropdown menu to enable scanning repositories for vulnerabilities](/assets/images/enterprise/site-admin-settings/dependabot-alerts-dropdown.png)
+   ![Screenshot of the dropdown menu to enable scanning repositories for vulnerabilities](/assets/images/2022/02/enterprise/site-admin-settings/dependabot-alerts-dropdown.png)
 
 {%- else %}
-1. Dabjo de "Se pueden escanear los repositorios para encontrar vulnerabilidades", selecciona el menú desplegable y haz clic en **Habilitado sin notificaciones**. Opcionalmente, para habilitar las alertas con notificaciones, haz clic en **Habilitado con notificaciones**. ![Menú desplegable para habilitar el escaneo de repositorios para buscar vulnerabilidades](/assets/images/enterprise/site-admin-settings/enable-vulnerability-scanning-in-repositories.png)
+1. Dabjo de "Se pueden escanear los repositorios para encontrar vulnerabilidades", selecciona el menú desplegable y haz clic en **Habilitado sin notificaciones**. Opcionalmente, para habilitar las alertas con notificaciones, haz clic en **Habilitado con notificaciones**. ![Menú desplegable para habilitar el escaneo de repositorios para buscar vulnerabilidades](/assets/images/2021/10/enterprise/site-admin-settings/enable-vulnerability-scanning-in-repositories.png)
 {%- endif %}
    {% tip %}
 
@@ -109,7 +109,7 @@ Before you enable {% data variables.product.prodname_dependabot_updates %}, you 
 {% data reusables.enterprise_management_console.advanced-security-tab %}
 1. Under "Security", select **{% data variables.product.prodname_dependabot_security_updates %}**.
 
-   ![Screenshot of the checkbox to enable or disable {% data variables.product.prodname_dependabot_security_updates %}](/assets/images/enterprise/management-console/enable-dependabot-updates.png)
+   ![Screenshot of the checkbox to enable or disable {% data variables.product.prodname_dependabot_security_updates %}](/assets/images/2022/02/enterprise/management-console/enable-dependabot-updates.png)
 
 {% data reusables.enterprise_management_console.save-settings %}
 1. Da clic en **Visitar tu instancia**.
@@ -118,7 +118,7 @@ Before you enable {% data variables.product.prodname_dependabot_updates %}, you 
 {% data reusables.enterprise-accounts.github-connect-tab %}
 1. Under "{% data variables.product.prodname_dependabot %}", to the right of "Users can easily upgrade to non-vulnerable open source code dependencies", click **Enable**.
 
-   ![Screenshot of the dropdown menu to enable updating vulnerable dependencies](/assets/images/enterprise/site-admin-settings/dependabot-updates-button.png)
+   ![Screenshot of the dropdown menu to enable updating vulnerable dependencies](/assets/images/2022/02/enterprise/site-admin-settings/dependabot-updates-button.png)
 
 {% elsif ghes > 3.2 %}
 Cuando habilitas las {% data variables.product.prodname_dependabot_alerts %}, deberías considerar también configurar las {% data variables.product.prodname_actions %} para {% data variables.product.prodname_dependabot_security_updates %}. Esta característica permite que los desarrolladores arreglen las vulnerabilidades en sus dependencias. Para obtener más información, consulta la sección "[Administrar los ejecutores auto-hospedados para las {% data variables.product.prodname_dependabot_updates %} en tu empresa](/admin/github-actions/enabling-github-actions-for-github-enterprise-server/managing-self-hosted-runners-for-dependabot-updates)".

@@ -17,16 +17,16 @@ shortTitle: 添加仓库
 
 {% mac %}
 
-1. 在 **File（文件）**菜单中，单击 **Add Local Repository（添加本地仓库）**。 ![添加本地仓库菜单选项](/assets/images/help/desktop/add-local-repository-mac.png)
-2. 单击 **Choose...（选择...）**，并使用 Finder 窗口找到要添加的本地仓库。 ![Mac 应用程序中的“本地路径”字段](/assets/images/help/desktop/add-repo-choose-button-mac.png)
-4. 单击 **Add Repository（添加仓库）**。 ![Mac 应用程序中的“添加仓库”按钮](/assets/images/help/desktop/add-repository-button-mac.png)
+1. 在 **File（文件）**菜单中，单击 **Add Local Repository（添加本地仓库）**。 ![添加本地仓库菜单选项](/assets/images/2021/10/help/desktop/add-local-repository-mac.png)
+2. 单击 **Choose...（选择...）**，并使用 Finder 窗口找到要添加的本地仓库。 ![Mac 应用程序中的“本地路径”字段](/assets/images/2021/10/help/desktop/add-repo-choose-button-mac.png)
+4. 单击 **Add Repository（添加仓库）**。 ![Mac 应用程序中的“添加仓库”按钮](/assets/images/2021/10/help/desktop/add-repository-button-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. 在 **File（文件）**菜单中，单击 **Add Local Repository（添加本地仓库）**。 ![添加本地仓库菜单选项](/assets/images/help/desktop/add-local-repository-windows.png)
-2. 单击 **Choose...（选择...）**，并使用 Windows 资源管理器找到要添加的本地仓库。 ![Windows 应用程序中的“本地路径”字段](/assets/images/help/desktop/add-repo-choose-button-win.png)
-4. 单击 **Add Repository（添加仓库）**。 ![Windows 应用程序中的“添加仓库”按钮](/assets/images/help/desktop/add-repository-button-windows.png)
+1. 在 **File（文件）**菜单中，单击 **Add Local Repository（添加本地仓库）**。 ![添加本地仓库菜单选项](/assets/images/2021/10/help/desktop/add-local-repository-windows.png)
+2. 单击 **Choose...（选择...）**，并使用 Windows 资源管理器找到要添加的本地仓库。 ![Windows 应用程序中的“本地路径”字段](/assets/images/2021/10/help/desktop/add-repo-choose-button-win.png)
+4. 单击 **Add Repository（添加仓库）**。 ![Windows 应用程序中的“添加仓库”按钮](/assets/images/2021/10/help/desktop/add-repository-button-windows.png)
 
 {% endwindows %}

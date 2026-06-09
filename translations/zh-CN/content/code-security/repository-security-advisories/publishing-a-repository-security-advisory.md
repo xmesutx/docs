@@ -72,8 +72,8 @@ shortTitle: Publish repository advisories
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. 在“Security Advisories（安全通告）”列表中，单击您要发布的安全通告。 ![列表中的安全通告](/assets/images/help/security/security-advisory-in-list.png)
-5. 在页面底部，单击 **Publish advisory（发布通告）**。 ![发布通告按钮](/assets/images/help/security/publish-advisory-button.png)
+4. 在“Security Advisories（安全通告）”列表中，单击您要发布的安全通告。 ![列表中的安全通告](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. 在页面底部，单击 **Publish advisory（发布通告）**。 ![发布通告按钮](/assets/images/2021/10/help/security/publish-advisory-button.png)
 
 ## 对于发布的安全通告的 {% data variables.product.prodname_dependabot_alerts %}
 
@@ -86,9 +86,9 @@ shortTitle: Publish repository advisories
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. 在“Security Advisories（安全通告）”列表中，单击要为其申请 CVE 识别号的安全通告。 ![列表中的安全通告](/assets/images/help/security/security-advisory-in-list.png)
-5. 使用 **Publish advisory（发布通告）**下拉菜单，然后单击 **Request CVE（申请 CVE）**。 ![下拉列表中的“申请 CVE”](/assets/images/help/security/security-advisory-drop-down-request-cve.png)
-6. 单击 **Request CVE（申请 CVE）**。 ![申请 CVE 按钮](/assets/images/help/security/security-advisory-request-cve-button.png)
+4. 在“Security Advisories（安全通告）”列表中，单击要为其申请 CVE 识别号的安全通告。 ![列表中的安全通告](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. 使用 **Publish advisory（发布通告）**下拉菜单，然后单击 **Request CVE（申请 CVE）**。 ![下拉列表中的“申请 CVE”](/assets/images/2021/10/help/security/security-advisory-drop-down-request-cve.png)
+6. 单击 **Request CVE（申请 CVE）**。 ![申请 CVE 按钮](/assets/images/2021/10/help/security/security-advisory-request-cve-button.png)
 
 ## 延伸阅读
 

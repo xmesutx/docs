@@ -26,7 +26,7 @@ Depois de criar um aplicativo GitHub privado, é possível instalá-lo em um dos
 1. Na [página de configurações dos aplicativos GitHub](https://github.com/settings/apps), selecione seu aplicativo.
 2. Na barra lateral esquerda, clique em **Instalar aplicativo**.
 3. Clique em **Instalar** ao lado de organização ou conta de usuário que contém o repositório correto.
-4. Instale o aplicativo em todos os repositórios ou repositórios selecionados. ![Permissões de instalação do aplicativo](/assets/images/install_permissions.png)
+4. Instale o aplicativo em todos os repositórios ou repositórios selecionados. ![Permissões de instalação do aplicativo](/assets/images/2021/10/install_permissions.png)
 5. Uma vez instalado, você verá as opções de configuração para o aplicativo na conta selecionada. Você pode fazer alterações aqui ou pode repetir as etapas anteriores para instalar o aplicativo em outra conta.
 
 {% ifversion fpt or ghec %}
@@ -49,8 +49,8 @@ Você pode habilitar outros para instalar seu aplicativo público, fornecendo a 
 Essas etapas pressupõem que você [criou um {% data variables.product.prodname_github_app %}](/apps/building-github-apps/):
 
 1. Na [página de configurações dos aplicativos GitHub](https://github.com/settings/apps), selecione o aplicativo público que você deseja configurar para que outras pessoas instalem.
-2. Em "URL da página inicial", digite a URL para a página inicial do seu aplicativo e clique em **Salvar as alterações**. ![URL da página inicial](/assets/images/github-apps/github_apps_homepageURL.png)
-3. O GitHub fornece uma página inicial para o seu aplicativo que inclui um link para a "URL da página inicial" do seu aplicativo. Para visitar a página inicial no GitHub, copie a URL do "Link público" e cole-a em um navegador. ![Link público](/assets/images/github-apps/github_apps_public_link.png)
+2. Em "URL da página inicial", digite a URL para a página inicial do seu aplicativo e clique em **Salvar as alterações**. ![URL da página inicial](/assets/images/2021/10/github-apps/github_apps_homepageURL.png)
+3. O GitHub fornece uma página inicial para o seu aplicativo que inclui um link para a "URL da página inicial" do seu aplicativo. Para visitar a página inicial no GitHub, copie a URL do "Link público" e cole-a em um navegador. ![Link público](/assets/images/2021/10/github-apps/github_apps_public_link.png)
 4. Crie uma página inicial para o seu aplicativo que inclui a URL de instalação do aplicativo: `{% data variables.product.oauth_host_code %}/apps/<app name>/installations/new`.
 
 ## Autorizar usuários durante a instalação

@@ -50,18 +50,18 @@ If your enterprise uses {% data variables.product.prodname_emus %}, enterprise o
 {% data reusables.enterprise-accounts.administrators-tab %}
 1. Above the list of administrators, click {% ifversion ghec %}**Invite admin**{% elsif ghes %}**Add owner**{% endif %}.
   {% ifversion ghec %}
-  !["Invite admin" button above the list of enterprise owners](/assets/images/help/business-accounts/invite-admin-button.png)
+  !["Invite admin" button above the list of enterprise owners](/assets/images/2021/10/help/business-accounts/invite-admin-button.png)
   {% elsif ghes %}
-  !["Add owner" button above the list of enterprise owners](/assets/images/help/business-accounts/add-owner-button.png)
+  !["Add owner" button above the list of enterprise owners](/assets/images/2021/10/help/business-accounts/add-owner-button.png)
   {% endif %}
 1. Type the username, full name, or email address of the person you want to invite to become an enterprise administrator, then select the appropriate person from the results.
-  ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
+  ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/2021/10/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
 1. Select **Owner** or **Billing Manager**.
-  ![Modal box with role choices](/assets/images/help/business-accounts/invite-admins-roles.png)
+  ![Modal box with role choices](/assets/images/2021/10/help/business-accounts/invite-admins-roles.png)
 1. Click **Send Invitation**.
-  ![Send invitation button](/assets/images/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
+  ![Send invitation button](/assets/images/2021/10/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
 1. Click **Add**.
-  !["Add" button](/assets/images/help/business-accounts/add-administrator-add-button.png){% endif %}
+  !["Add" button](/assets/images/2021/10/help/business-accounts/add-administrator-add-button.png){% endif %}
 
 ## Removing an enterprise administrator from your enterprise account
 
@@ -72,8 +72,8 @@ Only enterprise owners can remove other enterprise administrators from the enter
 {% data reusables.enterprise-accounts.administrators-tab %}
 1. Next to the username of the person you'd like to remove, click {% octicon "gear" aria-label="The Settings gear" %}, then click {% ifversion ghes %}**Remove owner**{% elsif ghec %}**Convert to member**{% endif %}.
   {% ifversion ghec %}
-  ![Settings gear with menu option to remove an enterprise administrator](/assets/images/help/business-accounts/remove-admin.png)
+  ![Settings gear with menu option to remove an enterprise administrator](/assets/images/2021/10/help/business-accounts/remove-admin.png)
   {% elsif ghes %}
-  ![Settings gear with menu option to remove an enterprise administrator](/assets/images/help/business-accounts/ghes-remove-owner.png)
+  ![Settings gear with menu option to remove an enterprise administrator](/assets/images/2021/10/help/business-accounts/ghes-remove-owner.png)
   {% endif %}
 1. Read the confirmation, then click {% ifversion ghes %}**Remove owner**{% elsif ghec %}**Yes, convert USERNAME to member**{% endif %}.

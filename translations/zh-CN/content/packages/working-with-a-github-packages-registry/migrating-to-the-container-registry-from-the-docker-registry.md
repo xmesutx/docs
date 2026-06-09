@@ -23,7 +23,7 @@ shortTitle: 迁移到容器注册表
 * 图标现在是 {% data variables.product.prodname_container_registry %} 徽标，之前是 Docker 徽标。
 * 拉取 URL 中的域名现在是 `ghcr.io`，以前是 `docker.pkg.github.com`。
 
-![{% data variables.product.prodname_container_registry %} 详细信息页面](/assets/images/help/package-registry/container-registry-details-page.png)
+![{% data variables.product.prodname_container_registry %} 详细信息页面](/assets/images/2021/10/help/package-registry/container-registry-details-page.png)
 
 ## {% data variables.product.prodname_container_registry %} 与 Docker 注册表之间的主要差异
 

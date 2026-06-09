@@ -1,1 +1,1 @@
-1. En la parte superior de la página del equipo, da clic en {% octicon "gear" aria-label="The Settings gear" %}**Configuración**. ![Pestaña de configuración de equipo](/assets/images/help/teams/team-settings-button.png)
+1. En la parte superior de la página del equipo, da clic en {% octicon "gear" aria-label="The Settings gear" %}**Configuración**. ![Pestaña de configuración de equipo](/assets/images/2021/10/help/teams/team-settings-button.png)

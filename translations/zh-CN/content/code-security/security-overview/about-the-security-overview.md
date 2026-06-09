@@ -44,11 +44,11 @@ shortTitle: 关于安全概述
 
 {% endif %}
 
-![组织的安全概述](/assets/images/help/organizations/security-overview.png)
+![组织的安全概述](/assets/images/2021/10/help/organizations/security-overview.png)
 
 对于安全概述中的每个存储库，您将看到每种类型的安全功能的图标以及每种类型的警报数。 如果未为存储库启用安全功能，则该功能的图标将灰显。 此外，还会根据其代码扫描、Dependabot 和秘密扫描警报为每个存储库计算风险评分。 此分数处于测试阶段，应谨慎使用。 它的算法和方法可能会发生变化。
 
-![安全概述中的图标](/assets/images/help/organizations/security-overview-icons.png)
+![安全概述中的图标](/assets/images/2021/10/help/organizations/security-overview-icons.png)
 
 | 图标                                                            | 含义                                                                                                                                                                                            |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

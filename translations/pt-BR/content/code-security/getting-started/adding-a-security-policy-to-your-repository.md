@@ -48,8 +48,8 @@ Ao disponibilizar claramente instruções de relatório de segurança, você tor
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
-3. Na barra lateral esquerda, clique em **Política de segurança**. ![Aba de política de segurança](/assets/images/help/security/security-policy-tab.png)
-4. Clique em **Start setup** (Iniciar configuração). ![Botão Start setup (Iniciar configuração)](/assets/images/help/security/start-setup-security-policy-button.png)
+3. Na barra lateral esquerda, clique em **Política de segurança**. ![Aba de política de segurança](/assets/images/2021/10/help/security/security-policy-tab.png)
+4. Clique em **Start setup** (Iniciar configuração). ![Botão Start setup (Iniciar configuração)](/assets/images/2021/10/help/security/start-setup-security-policy-button.png)
 5. No novo arquivo _SECURITY.md_, adicione informações sobre versões compatíveis do seu projeto e como relatar uma vulnerabilidade.
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}

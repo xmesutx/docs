@@ -15,7 +15,7 @@ shortTitle: Acceder a los perfiles comunitarios
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. En la barra lateral izquierda, haz clic en **Community** (Comunidad). ![Comunidad en la barra lateral izquierda](/assets/images/help/graphs/graphs-sidebar-community-tab.png)
+3. En la barra lateral izquierda, haz clic en **Community** (Comunidad). ![Comunidad en la barra lateral izquierda](/assets/images/2021/10/help/graphs/graphs-sidebar-community-tab.png)
 
 ## Leer más
 

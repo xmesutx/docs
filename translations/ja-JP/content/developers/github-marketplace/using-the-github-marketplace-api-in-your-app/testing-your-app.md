@@ -35,7 +35,7 @@ topics:
 
 テストのシナリオでは、無料トライアルを提供するリストプランをセットアップし、無料と有料のサブスクリプション間の切り替えが必要になるかもしれません。 ダウングレードやキャンセルは、次回の支払いサイクルまでは有効にならないので、GitHubは開発者のみの機能として、`changed`及び`cancelled`のプランアクションを強制的にすぐに有効にする「保留中の変更の適用」機能を提供しています。 _ドラフト_Marketplaceリストのアプリケーションのための**保留中の変更の適用**には、https://github.com/settings/billing#pending-cycleでアクセスできます。
 
-![保留中の変更の適用](/assets/images/github-apps/github-apps-apply-pending-changes.png)
+![保留中の変更の適用](/assets/images/2021/10/github-apps/github-apps-apply-pending-changes.png)
 
 ## APIのテスト
 

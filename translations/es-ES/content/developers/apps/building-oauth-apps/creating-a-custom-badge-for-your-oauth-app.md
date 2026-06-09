@@ -16,7 +16,7 @@ shortTitle: Crear insignias personalizadas
 
 Predeterminadamente, una App de OAuth nueva tendrá un [identicon](https://github.com/blog/1586-identicons) que se genera automáticamente. Una insignia de identicon se ve más o menos así:
 
-![Identicon](/assets/images/identicon.png)
+![Identicon](/assets/images/2021/10/identicon.png)
 
 Después de que crees una App de OAuth, podrás personalizar la insignia de la misma si cargas un logo y seleccionas un color de fondo. Una insignia es una imagen de logo cuadrado dentro de una insignia circular. Puedes elegir un color de fondo para la insignia, la cual puede utilizarse para distinguir a tu app visualmente.
 
@@ -34,9 +34,9 @@ Para crear una insignia personalizada:
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
 {% data reusables.user-settings.modify_oauth_app %}
-1. En la zona de "Logo de la aplicación", arrastra y suelta una imagen de alguna carpeta local, o da clic en **Cargar logo nuevo** para seleccionar una imagen de tu ordenador. ![Cargar un logo](/assets/images/oauth-apps/oauth_apps_upload_logo.png)
-6. Recorta tu imagen. Cuando hayas terminado, da clic en **Configurar nuevo logo de la aplicación**. ![Cortar y confirmar logo](/assets/images/oauth-apps/oauth_apps_crop_and_set_logo.png)
-7. En "Color de fondo de la insignia", teclea el [código hexadecimal de color](http://www.color-hex.com/) para el color de fondo de tu insignia. {% ifversion fpt or ghec %}**Nota:** El campo de entrada de "Color de fondo de la insignia" se podrá visualizar después de que se haya cargado el logo de una aplicación.{% endif %} ![Color de fondo de la insignia](/assets/images/oauth-apps/oauth_apps_badge_background_color.png)
+1. En la zona de "Logo de la aplicación", arrastra y suelta una imagen de alguna carpeta local, o da clic en **Cargar logo nuevo** para seleccionar una imagen de tu ordenador. ![Cargar un logo](/assets/images/2021/10/oauth-apps/oauth_apps_upload_logo.png)
+6. Recorta tu imagen. Cuando hayas terminado, da clic en **Configurar nuevo logo de la aplicación**. ![Cortar y confirmar logo](/assets/images/2021/10/oauth-apps/oauth_apps_crop_and_set_logo.png)
+7. En "Color de fondo de la insignia", teclea el [código hexadecimal de color](http://www.color-hex.com/) para el color de fondo de tu insignia. {% ifversion fpt or ghec %}**Nota:** El campo de entrada de "Color de fondo de la insignia" se podrá visualizar después de que se haya cargado el logo de una aplicación.{% endif %} ![Color de fondo de la insignia](/assets/images/2021/10/oauth-apps/oauth_apps_badge_background_color.png)
 {% data reusables.user-settings.update_oauth_app %}
 
 {% ifversion fpt or ghec %}

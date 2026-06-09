@@ -18,12 +18,12 @@ shortTitle: Administrar cómo se muestran los nombres de los miembros
 
 Los propietarios de la organización pueden administrar la visualización de los nombres de los miembros en una organización.
 
-![Nombre del perfil del autor del comentario que se muestra en un comentario](/assets/images/help/issues/commenter-full-name.png)
+![Nombre del perfil del autor del comentario que se muestra en un comentario](/assets/images/2021/10/help/issues/commenter-full-name.png)
 
 Cada miembro de la organización elige su propio nombre de perfil en sus configuraciones. Para obtener más información, consulta la sección "[Personalizar tu perfil](/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#changing-your-profile-name)."
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. Dentro de "Admin repository permissions" (Permisos del administrador del repositorio), selecciona o quita la marca de selección **Allow members to see comment author's profile name in private repositories (Permitir que los miembros vean el nombre de perfil del autor del comentario en los repositorios privados)**. ![Casilla de verificación para permitir que los miembros vean el nombre completo del autor del comentario en los repositorios privados](/assets/images/help/organizations/allow-members-to-view-full-names.png)
+5. Dentro de "Admin repository permissions" (Permisos del administrador del repositorio), selecciona o quita la marca de selección **Allow members to see comment author's profile name in private repositories (Permitir que los miembros vean el nombre de perfil del autor del comentario en los repositorios privados)**. ![Casilla de verificación para permitir que los miembros vean el nombre completo del autor del comentario en los repositorios privados](/assets/images/2021/10/help/organizations/allow-members-to-view-full-names.png)
 6. Haz clic en **Save ** (guardar).

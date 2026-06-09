@@ -1,1 +1,1 @@
-1. Debajo de "{% octicon "law" aria-label="The law icon" %} Políticas", haz clic en **Repositories** (Repositorios). ![Pestaña Repositories (Repositorios) en la barra lateral de parámetros de la cuenta de empresa](/assets/images/help/business-accounts/policies-repositories-tab.png)
+1. Debajo de "{% octicon "law" aria-label="The law icon" %} Políticas", haz clic en **Repositories** (Repositorios). ![Pestaña Repositories (Repositorios) en la barra lateral de parámetros de la cuenta de empresa](/assets/images/2021/10/help/business-accounts/policies-repositories-tab.png)

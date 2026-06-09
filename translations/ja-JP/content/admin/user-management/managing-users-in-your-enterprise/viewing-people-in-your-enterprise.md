@@ -23,7 +23,7 @@ Enterprise のオーナー{% ifversion ghec %}と支払いマネージャー、{
 {% data reusables.enterprise-accounts.people-tab %}
 {% data reusables.enterprise-accounts.administrators-tab %}
 {% ifversion ghec %}1. 必要に応じて、保留中の招待リストを表示するには、[**_NUMBER_ pending**] をクリックします。
-  ![検索およびフィルタオプションの右側にある [NUMBER pending] ボタン](/assets/images/help/enterprises/administrators-pending.png){% endif %}
+  ![検索およびフィルタオプションの右側にある [NUMBER pending] ボタン](/assets/images/2021/10/help/enterprises/administrators-pending.png){% endif %}
 
 ## メンバーと外部コラボレーターを表示する
 
@@ -33,9 +33,9 @@ You can view {% ifversion ghec %}all the {% data variables.product.prodname_ghe_
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. メンバーのリストではなく、外部コラボレーターのリストを表示したい場合は、[**Outside collaborators**] をクリックします。 ![Organization メンバーのページにある、[Outside collaborators] タブ](/assets/images/help/business-accounts/outside-collaborators-tab.png)
+1. メンバーのリストではなく、外部コラボレーターのリストを表示したい場合は、[**Outside collaborators**] をクリックします。 ![Organization メンバーのページにある、[Outside collaborators] タブ](/assets/images/2021/10/help/business-accounts/outside-collaborators-tab.png)
 {% ifversion ghec %}1. 必要に応じて、保留中の招待リストを表示するには、[**_NUMBER_ pending**] をクリックします。
-  ![検索およびフィルタオプションの右側にある [NUMBER pending] ボタン](/assets/images/help/enterprises/members-pending.png){% endif %}
+  ![検索およびフィルタオプションの右側にある [NUMBER pending] ボタン](/assets/images/2021/10/help/enterprises/members-pending.png){% endif %}
 
 {% ifversion ghec %}
 
@@ -45,7 +45,7 @@ If your enterprise uses {% data variables.product.prodname_emus %}, you can also
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. To view a list of suspended members, above the list of active members, click **Suspended**. ![Screenshot showing "Suspended" option](/assets/images/help/enterprises/view-suspended-members.png)
+1. To view a list of suspended members, above the list of active members, click **Suspended**. ![Screenshot showing "Suspended" option](/assets/images/2022/01/help/enterprises/view-suspended-members.png)
 
 {% endif %}
 

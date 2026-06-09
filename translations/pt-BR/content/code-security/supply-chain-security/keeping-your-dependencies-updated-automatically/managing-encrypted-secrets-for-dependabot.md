@@ -57,7 +57,7 @@ O nome de um segredo de {% data variables.product.prodname_dependabot %}:
 
    O nome do segredo está listado na página de segredos do Dependabot. Você pode clicar em **Atualizar** para alterar o valor do segredo. Você pode clicar em **Remover** para excluir o segredo.
 
-   ![Atualize ou remova um segredo do repositório](/assets/images/help/dependabot/update-remove-repo-secret.png)
+   ![Atualize ou remova um segredo do repositório](/assets/images/2021/10/help/dependabot/update-remove-repo-secret.png)
 
 ## Adicionar um segredo de organização para {% data variables.product.prodname_dependabot %}
 
@@ -76,14 +76,14 @@ Ao criar um segredo em uma organização, você pode usar uma política para lim
 1. Se você escolheu **repositórios selecionados**:
 
    * Clique em {% octicon "gear" aria-label="The Gear icon" %}.
-   * Escolha os repositórios que podem acessar este segredo. ![Selecione repositórios para este segredo](/assets/images/help/dependabot/secret-repository-access.png)
+   * Escolha os repositórios que podem acessar este segredo. ![Selecione repositórios para este segredo](/assets/images/2021/10/help/dependabot/secret-repository-access.png)
    * Clique em **Atualizar seleção**.
 
 1. Clique em **Add secret** (Adicionar segredo).
 
    O nome do segredo está listado na página de segredos do Dependabot. Você pode clicar em **Atualizar** para alterar o valor secreto ou sua política de acesso. Você pode clicar em **Remover** para excluir o segredo.
 
-   ![Atualizar ou remover um segredo da organização](/assets/images/help/dependabot/update-remove-org-secret.png)
+   ![Atualizar ou remover um segredo da organização](/assets/images/2021/10/help/dependabot/update-remove-org-secret.png)
 
 ## Adicionar {% data variables.product.prodname_dependabot %} à sua lista de permissão de endereços IP
 

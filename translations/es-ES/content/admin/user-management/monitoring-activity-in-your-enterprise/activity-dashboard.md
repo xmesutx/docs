@@ -24,9 +24,9 @@ El Tablero de actividades te proporciona gráficos semanales, mensuales y anuale
 - Organizaciones nuevas
 - Equipos nuevos
 
-![Tablero de actividades](/assets/images/enterprise/activity/activity-dashboard-yearly.png)
+![Tablero de actividades](/assets/images/2021/10/enterprise/activity/activity-dashboard-yearly.png)
 
 ## Acceder al Tablero de actividades
 
-1. En la parte superior de cualquier página, haz clic en **Explore** (Explorar). ![Explorar la etiqueta](/assets/images/enterprise/settings/ent-new-explore.png)
-2. En el margen izquierdo superior, haz clic en **Activity** (Actividad). ![Botón de actividades](/assets/images/enterprise/activity/activity-button.png)
+1. En la parte superior de cualquier página, haz clic en **Explore** (Explorar). ![Explorar la etiqueta](/assets/images/2021/10/enterprise/settings/ent-new-explore.png)
+2. En el margen izquierdo superior, haz clic en **Activity** (Actividad). ![Botón de actividades](/assets/images/2021/10/enterprise/activity/activity-button.png)

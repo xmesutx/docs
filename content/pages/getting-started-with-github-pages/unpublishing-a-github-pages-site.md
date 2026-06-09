@@ -28,7 +28,7 @@ shortTitle: Unpublish Pages site
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
 5. Under "{% data variables.product.prodname_pages %}", use the **Source** drop-down menu and select **None.**
-  ![Drop down menu to select a publishing source](/assets/images/help/pages/publishing-source-drop-down.png)
+  ![Drop down menu to select a publishing source](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
 {% data reusables.pages.update_your_dns_settings %}
 
 ## Unpublishing a user or organization site

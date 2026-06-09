@@ -22,7 +22,7 @@ shortTitle: Visualizar pessoas em uma organização
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Você verá uma lista das pessoas na organização. Para filtrar a lista por função, clique em **Role** (Função) e selecione aquela que está procurando. ![click-role](/assets/images/help/organizations/view-list-of-people-in-org-by-role.png)
+4. Você verá uma lista das pessoas na organização. Para filtrar a lista por função, clique em **Role** (Função) e selecione aquela que está procurando. ![click-role](/assets/images/2021/10/help/organizations/view-list-of-people-in-org-by-role.png)
 
 {% ifversion fpt %}
 
@@ -56,9 +56,9 @@ Para obter mais informações sobre a função de proprietário da empresa, cons
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Na barra lateral esquerda, em "Permissões crporativas", clique em **Proprietários corporativos**. ![Captura de tela da opção "proprietários corporativos" no menu da barra lateral](/assets/images/help/organizations/enterprise-owners-sidebar.png)
+4. Na barra lateral esquerda, em "Permissões crporativas", clique em **Proprietários corporativos**. ![Captura de tela da opção "proprietários corporativos" no menu da barra lateral](/assets/images/2022/01/help/organizations/enterprise-owners-sidebar.png)
 5. Veja a lista de proprietários corporativos para a sua empresa. Se o proprietário da empresa também for membro da sua organização, você poderá ver a sua função na organização.
 
-  ![Captura de tela da lista de proprietários corporativos e sua função na organização](/assets/images/help/organizations/enterprise-owners-list-on-org-page.png)
+  ![Captura de tela da lista de proprietários corporativos e sua função na organização](/assets/images/2022/01/help/organizations/enterprise-owners-list-on-org-page.png)
 
 {% endif %}

@@ -70,7 +70,7 @@ topics:
 3. 选择要添加议题或拉取请求的项目。
 4. （可选）填充自定义字段。
 
-   ![项目侧边栏](/assets/images/help/issues/project_side_bar.png)
+   ![项目侧边栏](/assets/images/2021/10/help/issues/project_side_bar.png)
 
 ## 将草稿议题转换为议题
 
@@ -118,7 +118,7 @@ topics:
 
 或者，您可以在界面中执行以下操作：
 
-1. 单击最右侧字段标题中的 {% octicon "plus" aria-label="the plus icon" %} 。 将显示带有项目字段的下拉菜单。 ![显示或隐藏字段](/assets/images/help/issues/projects_fields_menu.png)
+1. 单击最右侧字段标题中的 {% octicon "plus" aria-label="the plus icon" %} 。 将显示带有项目字段的下拉菜单。 ![显示或隐藏字段](/assets/images/2021/10/help/issues/projects_fields_menu.png)
 2. 选择您想要显示或隐藏的字段。 {% octicon "check" aria-label="check icon" %} 指示显示哪些字段。
 
 ### 添加自定义字段
@@ -135,7 +135,7 @@ topics:
 
 1. {% data reusables.projects.open-command-palette %} 开始输入 "Create new field" 的任何部分。 当 "Create new field" 显示在命令板中时，选择它。
 2. 或者，单击最右侧字段标题中的 {% octicon "plus" aria-label="the plus icon" %} 。 将显示带有项目字段的下拉菜单。 单击 **New field（新建字段）**。
-3. 将显示一个弹出窗口，供您输入有关新字段的信息。 ![新建字段](/assets/images/help/issues/projects_new_field.png)
+3. 将显示一个弹出窗口，供您输入有关新字段的信息。 ![新建字段](/assets/images/2021/10/help/issues/projects_new_field.png)
 4. 在文本框中，输入新字段的名称。
 5. 选择下拉菜单并点击所需的类型。
 6. 如果您指定**单选**为类型，请输入选项。

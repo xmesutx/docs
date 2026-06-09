@@ -52,7 +52,7 @@ Certifique-se de que o seu ID da sua chave e o segredo de acesso do AWS tenham a
 
       Para mais informações sobre como gerenciar as chaves de acesso do AWS, consulte a "[Documentação de identidade do AWS e gerenciamento de acesso](https://docs.aws.amazon.com/iam/index.html)".
 
-    ![Caixas de entrada para detalhes do seu bucket do AWS S3](/assets/images/help/package-registry/s3-aws-storage-bucket-details.png)
+    ![Caixas de entrada para detalhes do seu bucket do AWS S3](/assets/images/2021/10/help/package-registry/s3-aws-storage-bucket-details.png)
 {% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 

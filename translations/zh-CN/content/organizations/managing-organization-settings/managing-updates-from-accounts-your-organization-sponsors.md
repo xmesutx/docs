@@ -21,8 +21,8 @@ shortTitle: 管理赞助更新
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-1. 在“Sponsors update email (Private)（赞助更新电子邮件（私有））”下，输入要用于接收组织赞助帐户更新的电子邮件地址。 ![输入用于接收被赞助帐户更新的电子邮件地址的文本框](/assets/images/help/sponsors/organization-update-email-textbox.png)
-1. 单击 **Update profile（更新个人资料）**。 ![更新个人资料按钮](/assets/images/help/organizations/update-profile-button.png)
+1. 在“Sponsors update email (Private)（赞助更新电子邮件（私有））”下，输入要用于接收组织赞助帐户更新的电子邮件地址。 ![输入用于接收被赞助帐户更新的电子邮件地址的文本框](/assets/images/2021/10/help/sponsors/organization-update-email-textbox.png)
+1. 单击 **Update profile（更新个人资料）**。 ![更新个人资料按钮](/assets/images/2021/10/help/organizations/update-profile-button.png)
 
 ## 延伸阅读
 

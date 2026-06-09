@@ -18,7 +18,7 @@ redirect_from:
 {% data reusables.desktop.current-branch-menu %}
 2. 在分支列表中，单击包含您想要优的提交的分支。
 {% data reusables.desktop.history-tab %}
-4. 将要优选的提交拖到 {% octicon "git-branch" aria-label="The branch icon" %} **当前分支**菜单，并放到您要复制该提交到其中的分支上。 ![将提交拖动到 Current Branch（当前分支）菜单中的另一个分支](/assets/images/help/desktop/cherry-picking.png)
+4. 将要优选的提交拖到 {% octicon "git-branch" aria-label="The branch icon" %} **当前分支**菜单，并放到您要复制该提交到其中的分支上。 ![将提交拖动到 Current Branch（当前分支）菜单中的另一个分支](/assets/images/2021/10/help/desktop/cherry-picking.png)
 
 ## 延伸阅读
 - Git 文档中的 [git-cherry-pick](https://git-scm.com/docs/git-cherry-pick)

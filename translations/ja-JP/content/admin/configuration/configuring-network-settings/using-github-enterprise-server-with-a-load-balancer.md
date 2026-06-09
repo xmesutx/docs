@@ -42,7 +42,7 @@ shortTitle: Use a load balancer
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. **External load balancers（外部ロードバランサ）**の下で**Enable support for PROXY protocol（PROXYプロトコルサポートの有効化）**を選択してください。 ![PROXY プロトコルを有効化するチェックボックス](/assets/images/enterprise/management-console/enable-proxy.png)
+3. **External load balancers（外部ロードバランサ）**の下で**Enable support for PROXY protocol（PROXYプロトコルサポートの有効化）**を選択してください。 ![PROXY プロトコルを有効化するチェックボックス](/assets/images/2021/10/enterprise/management-console/enable-proxy.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.proxy_protocol_ports %}
@@ -54,7 +54,7 @@ shortTitle: Use a load balancer
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. **External load balancers（外部ロードバランサ）**の下で**Allow HTTP X-Forwarded-For header（HTTP X-Forwarded-Forヘッダの許可）**を選択してください。 ![HTTP X-Forwarded-For ヘッダを許可するチェックボックス](/assets/images/enterprise/management-console/allow-xff.png)
+3. **External load balancers（外部ロードバランサ）**の下で**Allow HTTP X-Forwarded-For header（HTTP X-Forwarded-Forヘッダの許可）**を選択してください。 ![HTTP X-Forwarded-For ヘッダを許可するチェックボックス](/assets/images/2021/10/enterprise/management-console/allow-xff.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.without_proxy_protocol_ports %}

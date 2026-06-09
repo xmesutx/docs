@@ -21,7 +21,7 @@ shortTitle: 管理复刻策略
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在 "Features"（功能）下，选择 **Allow forking（允许复刻）**。 ![允许或禁止私有仓库复刻的复选框](/assets/images/help/repository/allow-forking-specific-org-repo.png)
+3. 在 "Features"（功能）下，选择 **Allow forking（允许复刻）**。 ![允许或禁止私有仓库复刻的复选框](/assets/images/2021/10/help/repository/allow-forking-specific-org-repo.png)
 
 ## 延伸阅读
 

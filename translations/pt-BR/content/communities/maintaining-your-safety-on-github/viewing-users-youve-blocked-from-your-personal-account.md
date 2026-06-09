@@ -15,7 +15,7 @@ shortTitle: Ver usuários bloqueados na conta
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. Em "Blocked users" (Usuários bloqueados), revise a lista de usuários bloqueados da sua conta. ![Lista de usuários bloqueados](/assets/images/help/settings/list-of-blocked-users.png)
+3. Em "Blocked users" (Usuários bloqueados), revise a lista de usuários bloqueados da sua conta. ![Lista de usuários bloqueados](/assets/images/2021/10/help/settings/list-of-blocked-users.png)
 
 ## Leia mais
 

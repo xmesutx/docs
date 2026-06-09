@@ -1,1 +1,1 @@
-1. ペイロード URL を入力し、必要な場合は設定をカスタマイズします。 詳しい情報については「[webhook を作成する](/webhooks/creating/#creating-webhooks)」を参照してください。 ![ペイロード URL やその他カスタマイズオプションのフィールド](/assets/images/help/sponsors/webhook-payload-url.png)
+1. ペイロード URL を入力し、必要な場合は設定をカスタマイズします。 詳しい情報については「[webhook を作成する](/webhooks/creating/#creating-webhooks)」を参照してください。 ![ペイロード URL やその他カスタマイズオプションのフィールド](/assets/images/2021/10/help/sponsors/webhook-payload-url.png)

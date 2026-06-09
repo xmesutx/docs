@@ -2,4 +2,4 @@
 
 プルリクエストをマージするためには、リポジトリの[書き込み権限](/articles/repository-permission-levels-for-an-organization/)を持っていなければなりません。
 
-![standard-merge-commit-diagram](/assets/images/help/pull_requests/standard-merge-commit-diagram.png)
+![standard-merge-commit-diagram](/assets/images/2021/10/help/pull_requests/standard-merge-commit-diagram.png)

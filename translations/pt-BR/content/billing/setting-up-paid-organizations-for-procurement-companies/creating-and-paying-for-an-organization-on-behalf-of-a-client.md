@@ -32,7 +32,7 @@ If you already have a personal {% data variables.product.prodname_dotcom %} user
 
 1. Go to the [Join GitHub](https://github.com/join) page.
 2. Under "Create your personal account," type your username, email address, and password, then click **Create an account**.
-![Create personal account entry form](/assets/images/help/billing/billing_create_your_personal_account_form.png)
+![Create personal account entry form](/assets/images/2021/10/help/billing/billing_create_your_personal_account_form.png)
 3. Select {% data variables.product.prodname_free_user %} for your personal account.
 4. Click **Finish sign up**.
 
@@ -44,7 +44,7 @@ If you already have a personal {% data variables.product.prodname_dotcom %} user
 3. Under "Choose a plan", click **Choose {% data variables.product.prodname_free_team %}**. You will upgrade the organization in the next step.
 {% data reusables.organizations.organization-name %}
 5. Under "Contact email", type a contact email address for your client.
-  ![Contact email field](/assets/images/help/organizations/contact-email-field.png)
+  ![Contact email field](/assets/images/2021/10/help/organizations/contact-email-field.png)
 {% data reusables.dotcom_billing.owned_by_business %}
 8. Click **Next**.
 
@@ -57,7 +57,7 @@ If you already have a personal {% data variables.product.prodname_dotcom %} user
 {% data reusables.dotcom_billing.upgrade_org %}
 {% data reusables.dotcom_billing.choose_org_plan %} (You can add more seats to the organization in the next step.)
 6. Under "Upgrade summary", select **Pay yearly** to pay for the organization yearly.
-![Radio button for yearly billing](/assets/images/help/billing/choose-annual-billing-org-resellers.png)
+![Radio button for yearly billing](/assets/images/2021/10/help/billing/choose-annual-billing-org-resellers.png)
 {% data reusables.dotcom_billing.enter-payment-info %}
 {% data reusables.dotcom_billing.finish_upgrade %}
 
@@ -77,9 +77,9 @@ If you already have a personal {% data variables.product.prodname_dotcom %} user
 {% data reusables.organizations.people %}
 {% data reusables.organizations.invite_member_from_people_tab %}
 5. Type your client's {% data variables.product.prodname_dotcom %} username and press **Enter**.
-![Field to type your client's username](/assets/images/help/organizations/org-invite-modal.png)
+![Field to type your client's username](/assets/images/2021/10/help/organizations/org-invite-modal.png)
 6. Choose the *owner* role for your client, then click **Send invitation**.
-![Owner radio button and send invitation button](/assets/images/help/organizations/add-owner-send-invite-reseller.png)
+![Owner radio button and send invitation button](/assets/images/2021/10/help/organizations/add-owner-send-invite-reseller.png)
 7. Your client will receive an email inviting them to the organization. They will need to accept the invitation before you can move on to the next step.
 
 ## Step 6: Transfer organization ownership to your client
@@ -89,11 +89,11 @@ If you already have a personal {% data variables.product.prodname_dotcom %} user
 {% data reusables.organizations.people %}
 4. Confirm that your client is listed among the members of the organization and is assigned the *owner* role.
 5. To the right of your username, use the {% octicon "gear" aria-label="The Settings gear" %} drop-down menu, and click **Manage**.
-  ![The manage access link](/assets/images/help/organizations/member-manage-access.png)
+  ![The manage access link](/assets/images/2021/10/help/organizations/member-manage-access.png)
 6. On the left, click **Remove from organization**.
-  ![Remove from organization button](/assets/images/help/organizations/remove-from-org-button.png)
+  ![Remove from organization button](/assets/images/2021/10/help/organizations/remove-from-org-button.png)
 7. Confirm your choice and click **Remove members**.
-  ![Remove members confirmation button](/assets/images/help/organizations/confirm-remove-from-org.png)
+  ![Remove members confirmation button](/assets/images/2021/10/help/organizations/confirm-remove-from-org.png)
 
 ## Next steps
 

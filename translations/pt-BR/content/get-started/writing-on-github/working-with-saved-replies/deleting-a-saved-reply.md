@@ -15,4 +15,4 @@ versions:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.saved_replies %}
 3. Em "Saved replies" (Respostas salvas), ao lado da resposta salva que deseja excluir, clique em {% octicon "x" aria-label="The X" %}.  
-   ![Excluir resposta salva](/assets/images/help/settings/saved-replies-delete-existing.png)
+   ![Excluir resposta salva](/assets/images/2021/10/help/settings/saved-replies-delete-existing.png)

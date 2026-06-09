@@ -18,7 +18,7 @@ This basically allows you to reimplement a lot of Git functionality over our API
 Git Database API functions will return a `409 Conflict` if the Git repository is empty
 or unavailable.  An unavailable repository typically means {% data variables.product.product_name %} is in the process of creating the repository. For an empty repository, you can use the "[Create or update file contents](/rest/reference/repos#create-or-update-file-contents)" endpoint to create content and initialize the repository so you can use the Git Database API. Contact {% data variables.contact.contact_support %} if this response status persists.
 
-![git database overview](/assets/images/git-database-overview.png)
+![git database overview](/assets/images/2021/10/git-database-overview.png)
 
 For more information on the Git object database, please read the
 [Git Internals](http://git-scm.com/book/en/v1/Git-Internals) chapter of

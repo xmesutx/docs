@@ -15,7 +15,7 @@ shortTitle: コミュニティプロフィールへのアクセス
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 左のサイドバーで **[Community]** をクリックします。 ![左のサイドバーのコミュニティ](/assets/images/help/graphs/graphs-sidebar-community-tab.png)
+3. 左のサイドバーで **[Community]** をクリックします。 ![左のサイドバーのコミュニティ](/assets/images/2021/10/help/graphs/graphs-sidebar-community-tab.png)
 
 ## 参考リンク
 

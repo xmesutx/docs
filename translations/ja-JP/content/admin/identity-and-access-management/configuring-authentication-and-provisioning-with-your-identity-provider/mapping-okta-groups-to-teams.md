@@ -32,11 +32,11 @@ You must authenticate to your enterprise account using SAML SSO and Okta. 詳し
 ## Assigning your Okta group to the "GitHub AE" app
 
 1. In the Okta Dashboard, open your group's settings.
-1. Click **Manage Apps**. ![Add group to app](/assets/images/help/saml/okta-ae-group-add-app.png)
+1. Click **Manage Apps**. ![Add group to app](/assets/images/2021/12/help/saml/okta-ae-group-add-app.png)
 
 1. To the right of "GitHub AE", click **Assign**.
 
-  ![Assign app](/assets/images/help/saml/okta-ae-assign-group-to-app.png)
+  ![Assign app](/assets/images/2021/12/help/saml/okta-ae-assign-group-to-app.png)
 
 1. [**Done**] をクリックします。
 
@@ -49,15 +49,15 @@ When you push an Okta group and map the group to a team, all of the group's memb
 
 1. Click **Push Groups**.
 
-  ![[Push Groups] タブ](/assets/images/help/saml/okta-ae-push-groups-tab.png)
+  ![[Push Groups] タブ](/assets/images/2021/12/help/saml/okta-ae-push-groups-tab.png)
 
 1. Select the Push Groups drop-down menu and click **Find groups by name**.
 
-  ![Add groups button](/assets/images/help/saml/okta-ae-push-groups-add.png)
+  ![Add groups button](/assets/images/2021/12/help/saml/okta-ae-push-groups-add.png)
 
 1. Type the name of the group to push to {% data variables.product.prodname_ghe_managed %}, then click **Save**.
 
-  ![Add group name](/assets/images/help/saml/okta-ae-push-groups-by-name.png)
+  ![Add group name](/assets/images/2021/12/help/saml/okta-ae-push-groups-by-name.png)
 
 ## Mapping a team to the Okta group
 
@@ -67,26 +67,26 @@ You can map a team in your enterprise to an Okta group you previously pushed to 
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-6. Under "Identity Provider Group", select the drop-down menu and click an identity provider group. ![Drop-down menu to choose identity provider group](/assets/images/enterprise/github-ae/teams/choose-an-idp-group.png)
+6. Under "Identity Provider Group", select the drop-down menu and click an identity provider group. ![Drop-down menu to choose identity provider group](/assets/images/2021/10/enterprise/github-ae/teams/choose-an-idp-group.png)
 7. [**Save changes**] をクリックします。
 
 ## Checking the status of your mapped teams
 
 Enterprise owners can use the site admin dashboard to check how Okta groups are mapped to teams on {% data variables.product.prodname_ghe_managed %}.
 
-1. ダッシュボードへアクセスするには、ページ右上の隅にある {% octicon "rocket" aria-label="The rocket ship" %}をクリックしてください。 ![サイトアドミン設定にアクセスするための宇宙船のアイコン](/assets/images/enterprise/site-admin-settings/access-new-settings.png)
+1. ダッシュボードへアクセスするには、ページ右上の隅にある {% octicon "rocket" aria-label="The rocket ship" %}をクリックしてください。 ![サイトアドミン設定にアクセスするための宇宙船のアイコン](/assets/images/2021/10/enterprise/site-admin-settings/access-new-settings.png)
 
 1. In the left pane, click **External groups**.
 
-  ![Add group name](/assets/images/help/saml/okta-ae-site-admin-external-groups.png)
+  ![Add group name](/assets/images/2021/12/help/saml/okta-ae-site-admin-external-groups.png)
 
 1. To view more details about a group, in the list of external groups, click on a group.
 
-  ![List of external groups](/assets/images/help/saml/okta-ae-site-admin-list-groups.png)
+  ![List of external groups](/assets/images/2021/12/help/saml/okta-ae-site-admin-list-groups.png)
 
 1. The group's details includes the name of the Okta group, a list of the Okta users that are members of the group, and the corresponding mapped team on {% data variables.product.prodname_ghe_managed %}.
 
-  ![List of external groups](/assets/images/help/saml/okta-ae-site-admin-group-details.png)
+  ![List of external groups](/assets/images/2021/12/help/saml/okta-ae-site-admin-group-details.png)
 
 ## Viewing audit log events for mapped groups
 

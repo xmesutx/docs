@@ -29,4 +29,4 @@ Dica: a imagem deve ser um arquivo PNG, JPG ou GIF com menos de 1 MB. Para rende
     - Para adicionar uma nova imagem, clique em **Upload an image...** (Fazer upload de uma imagem...).
     - Para remover uma imagem, clique em **Remove image** (Remover imagem)
 
-    ![Menu suspenso Social preview (Visualização social)](/assets/images/help/repository/social-preview.png)
+    ![Menu suspenso Social preview (Visualização social)](/assets/images/2021/10/help/repository/social-preview.png)

@@ -35,7 +35,7 @@ Settings Sync allows you to share configurations such as settings, keyboard shor
 
 To enable Settings Sync, in the bottom-left corner of the Activity Bar, select {% octicon "gear" aria-label="The gear icon" %} and click **Turn on Settings Sync…**. In the dialog box, select the settings you'd like to sync.
 
-![Setting Sync option in manage menu](/assets/images/help/codespaces/codespaces-manage-settings-sync.png)
+![Setting Sync option in manage menu](/assets/images/2021/10/help/codespaces/codespaces-manage-settings-sync.png)
 
 For more information, see the [Settings Sync guide](https://code.visualstudio.com/docs/editor/settings-sync) in the {% data variables.product.prodname_vscode %} documentation.
 
@@ -81,9 +81,9 @@ You can use your selected dotfiles repository to personalize your {% data variab
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
 1. Under "Dotfiles", select **Automatically install dotfiles** so that {% data variables.product.prodname_codespaces %} automatically installs your dotfiles into every new codespace you create.
-   ![Installing dotfiles](/assets/images/help/codespaces/install-custom-dotfiles.png)
+   ![Installing dotfiles](/assets/images/2021/12/help/codespaces/install-custom-dotfiles.png)
 2. Choose the repository you want to install dotfiles from.
-   ![Selecting a dotfiles repo](/assets/images/help/codespaces/select-dotfiles-repo.png)
+   ![Selecting a dotfiles repo](/assets/images/2021/12/help/codespaces/select-dotfiles-repo.png)
 
 You can add further script, preferences, configuration files to your dotfiles repository or edit existing files whenever you want. Changes to settings will only be picked up by new codespaces.
 

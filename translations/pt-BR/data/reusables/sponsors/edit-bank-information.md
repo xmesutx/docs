@@ -1,1 +1,1 @@
-4. Em "Payouts information" (Informações de pagamentos), clique em **Edit your bank information** (Editar suas informações bancárias). ![Link Editar suas informações bancárias](/assets/images/help/sponsors/edit-bank-info.png)
+4. Em "Payouts information" (Informações de pagamentos), clique em **Edit your bank information** (Editar suas informações bancárias). ![Link Editar suas informações bancárias](/assets/images/2021/10/help/sponsors/edit-bank-info.png)

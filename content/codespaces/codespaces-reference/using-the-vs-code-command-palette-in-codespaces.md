@@ -29,13 +29,13 @@ You can access the {% data variables.product.prodname_vscode_command_palette %} 
 - <kbd>F1</kbd>
 - From the Application Menu, click **View > Command Palette…**.
 
-  ![The application menu](/assets/images/help/codespaces/codespaces-view-menu.png)
+  ![The application menu](/assets/images/2021/10/help/codespaces/codespaces-view-menu.png)
 
 ## Commands for {% data variables.product.prodname_github_codespaces %}
 
 To see all commands related to {% data variables.product.prodname_github_codespaces %}, [access the {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette), then start typing "Codespaces".
 
-![A list of all commands that relate to Codespaces](/assets/images/help/codespaces/codespaces-command-palette.png)
+![A list of all commands that relate to Codespaces](/assets/images/2021/10/help/codespaces/codespaces-command-palette.png)
 
 ### Suspending or stopping a codespace
 
@@ -43,13 +43,13 @@ If you add a new secret or change the machine type, you'll have to stop and rest
 
 To suspend or stop your codespace's container, [access the {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette), then start typing "stop". Select **Codespaces: Stop Current Codespace**.
 
-![Command to stop a codespace](/assets/images/help/codespaces/codespaces-stop.png)
+![Command to stop a codespace](/assets/images/2021/10/help/codespaces/codespaces-stop.png)
 
 ### Adding a dev container from a template
 
 To add a dev container from a template, [access the {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette), then start typing "dev container". Select **Codespaces: Add Development Container Configuration Files...**
 
-![Command to add a dev container](/assets/images/help/codespaces/add-prebuilt-container-command.png)
+![Command to add a dev container](/assets/images/2021/10/help/codespaces/add-prebuilt-container-command.png)
 
 ### Rebuilding a codespace
 
@@ -57,7 +57,7 @@ If you add a dev container or edit any of the configuration files (`devcontainer
 
 To rebuild your container, [access the {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette), then start typing "rebuild". Select **Codespaces: Rebuild Container**.
 
-![Command to rebuild a codespace](/assets/images/help/codespaces/codespaces-rebuild.png)
+![Command to rebuild a codespace](/assets/images/2021/10/help/codespaces/codespaces-rebuild.png)
 
 ### Codespaces logs
 
@@ -65,4 +65,4 @@ You can use the {% data variables.product.prodname_vscode_command_palette %} to 
 
 To retrieve the logs for Codespaces, [access the {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette), then start typing "log". Select **Codespaces: Export Logs** to export all logs related to Codespaces or select **Codespaces: View Creation Logs** to view logs related to the setup.
 
-![Command to access logs](/assets/images/help/codespaces/codespaces-logs.png)
+![Command to access logs](/assets/images/2021/10/help/codespaces/codespaces-logs.png)

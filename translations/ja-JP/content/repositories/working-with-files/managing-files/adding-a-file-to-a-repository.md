@@ -32,11 +32,11 @@ shortTitle: Add a file
 {% endtip %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. ファイルリストの上にある [**Add file**] プルダウンを使用して、[**Upload files**] をクリックします。 ![[Add file] ドロップダウンの [Upload files]](/assets/images/help/repository/upload-files-button.png)
-3. アップロードするファイルもしくはフォルダーを、ファイルツリー上のリポジトリにドラッグ & ドロップします。 ![ドラッグ＆ドロップエリア](/assets/images/help/repository/upload-files-drag-and-drop.png)
+2. ファイルリストの上にある [**Add file**] プルダウンを使用して、[**Upload files**] をクリックします。 ![[Add file] ドロップダウンの [Upload files]](/assets/images/2021/10/help/repository/upload-files-button.png)
+3. アップロードするファイルもしくはフォルダーを、ファイルツリー上のリポジトリにドラッグ & ドロップします。 ![ドラッグ＆ドロップエリア](/assets/images/2021/10/help/repository/upload-files-drag-and-drop.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
-6. **[Commit changes]** をクリックしてください。 ![[Commit changes] ボタン](/assets/images/help/repository/commit-changes-button.png)
+6. **[Commit changes]** をクリックしてください。 ![[Commit changes] ボタン](/assets/images/2021/10/help/repository/commit-changes-button.png)
 
 ## コマンドラインを使用してファイルをリポジトリに追加する
 

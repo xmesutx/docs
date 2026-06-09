@@ -51,8 +51,8 @@ Antes de exigir o uso da autenticação de dois fatores, é recomendável notifi
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 4. Em "Two-factor authentication" (Autenticação de dois fatores), revise as informações sobre como alterar a configuração. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. Em "Two-factor authentication" (Autenticação de dois fatores), selecione **Require two-factor authentication for all organizations in your business** (Exigir autenticação de dois fatores para todas as organizações na empresa) e clique em **Save** (Salvar). ![Caixa de seleção para exigir autenticação de dois fatores](/assets/images/help/business-accounts/require-2fa-checkbox.png)
-6. Se solicitado, leia as informações sobre os integrantes e colaboradores externos que serão removidos das organizações pertencentes à sua empresa. Para confirmar a alteração, digite o nome da sua empresa e clique em **Remover integrantes& exigir autenticação de dois fatores**. ![Caixa Confirm two-factor enforcement (Confirmar exigência de dois fatores)](/assets/images/help/business-accounts/confirm-require-2fa.png)
+5. Em "Two-factor authentication" (Autenticação de dois fatores), selecione **Require two-factor authentication for all organizations in your business** (Exigir autenticação de dois fatores para todas as organizações na empresa) e clique em **Save** (Salvar). ![Caixa de seleção para exigir autenticação de dois fatores](/assets/images/2021/10/help/business-accounts/require-2fa-checkbox.png)
+6. Se solicitado, leia as informações sobre os integrantes e colaboradores externos que serão removidos das organizações pertencentes à sua empresa. Para confirmar a alteração, digite o nome da sua empresa e clique em **Remover integrantes& exigir autenticação de dois fatores**. ![Caixa Confirm two-factor enforcement (Confirmar exigência de dois fatores)](/assets/images/2021/10/help/business-accounts/confirm-require-2fa.png)
 7. Como alternativa, se algum integrante ou colaborador externo for removido das organizações pertencentes à sua empresa, recomendamos enviar um convite para restabelecer os privilégios e o acesso à organização que ele tinha anteriormente. Cada pessoa precisa habilitar a autenticação de dois fatores para poder aceitar o convite.
 
 {% endif %}
@@ -93,7 +93,7 @@ Você também pode configurar endereços IP permitidos para uma organização in
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-3. Em "IP allow list" (Lista de permissões IP), selecione **Enable IP allow list** (Habilitar lista de permissões IP). ![Caixa de seleção para permitir endereços IP](/assets/images/help/security/enable-ip-allowlist-enterprise-checkbox.png)
+3. Em "IP allow list" (Lista de permissões IP), selecione **Enable IP allow list** (Habilitar lista de permissões IP). ![Caixa de seleção para permitir endereços IP](/assets/images/2021/10/help/security/enable-ip-allowlist-enterprise-checkbox.png)
 4. Clique em **Salvar**.
 
 ### Editar endereços IP permitidos

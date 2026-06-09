@@ -49,38 +49,38 @@ Each {% data variables.product.prodname_dependabot %} alert has a unique numeric
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-dependabot-alerts %}
-1. Optionally, to filter alerts, select the **Repository**, **Package**, **Ecosystem**, or **Manifest** dropdown menu then click the filter that you would like to apply. You can also type filters into the search bar. For example, `ecosystem:npm` or `has:patch`. To sort alerts, select the **Sort** dropdown menu then click the option that you would like to sort by. ![Screenshot of the filter and sort menus in the {% data variables.product.prodname_dependabot_alerts %} tab](/assets/images/help/graphs/dependabot-alerts-filters.png)
-1. Click the alert that you would like to view. ![アラートリストで選択されたアラート](/assets/images/help/graphs/click-alert-in-alerts-list-ungrouped.png)
+1. Optionally, to filter alerts, select the **Repository**, **Package**, **Ecosystem**, or **Manifest** dropdown menu then click the filter that you would like to apply. You can also type filters into the search bar. For example, `ecosystem:npm` or `has:patch`. To sort alerts, select the **Sort** dropdown menu then click the option that you would like to sort by. ![Screenshot of the filter and sort menus in the {% data variables.product.prodname_dependabot_alerts %} tab](/assets/images/2022/02/help/graphs/dependabot-alerts-filters.png)
+1. Click the alert that you would like to view. ![アラートリストで選択されたアラート](/assets/images/2022/02/help/graphs/click-alert-in-alerts-list-ungrouped.png)
 1. 脆弱性の詳細を確認し、可能な場合は、自動セキュリティアップデートを含むプルリクエストを確認します。
-1. 必要に応じて、アラートに対する {% data variables.product.prodname_dependabot_security_updates %} アップデートがまだ入手できない場合、脆弱性を解決するプルリクエストを作成するには、[**Create {% data variables.product.prodname_dependabot %} security update**] をクリックします。 ![{% data variables.product.prodname_dependabot %} セキュリティアップデートボタンを作成](/assets/images/help/repository/create-dependabot-security-update-button-ungrouped.png)
+1. 必要に応じて、アラートに対する {% data variables.product.prodname_dependabot_security_updates %} アップデートがまだ入手できない場合、脆弱性を解決するプルリクエストを作成するには、[**Create {% data variables.product.prodname_dependabot %} security update**] をクリックします。 ![{% data variables.product.prodname_dependabot %} セキュリティアップデートボタンを作成](/assets/images/2022/02/help/repository/create-dependabot-security-update-button-ungrouped.png)
 1. 依存関係を更新して脆弱性を解決する準備ができたら、プルリクエストをマージしてください。 {% data variables.product.prodname_dependabot %} によって発行される各プルリクエストには、{% data variables.product.prodname_dependabot %} の制御に使用できるコマンドの情報が含まれています。 詳しい情報については、「[依存関係の更新に関するプルリクエストを管理する](/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/managing-pull-requests-for-dependency-updates#managing-dependabot-pull-requests-with-comment-commands) 」を参照してください。
-1. Optionally, if the alert is being fixed, if it's incorrect, or located in unused code, select the "Dismiss" drop-down, and click a reason for dismissing the alert. ![[Dismiss] ドロップダウンでアラートを却下する理由を選択する](/assets/images/help/repository/dependabot-alert-dismiss-drop-down-ungrouped.png)
+1. Optionally, if the alert is being fixed, if it's incorrect, or located in unused code, select the "Dismiss" drop-down, and click a reason for dismissing the alert. ![[Dismiss] ドロップダウンでアラートを却下する理由を選択する](/assets/images/2022/02/help/repository/dependabot-alert-dismiss-drop-down-ungrouped.png)
 
 {% elsif ghes = 3.3 %}
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-dependabot-alerts %}
-1. 表示したいアラートをクリックします。 ![アラートリストで選択されたアラート](/assets/images/help/graphs/click-alert-in-alerts-list.png)
+1. 表示したいアラートをクリックします。 ![アラートリストで選択されたアラート](/assets/images/2021/10/help/graphs/click-alert-in-alerts-list.png)
 1. 脆弱性の詳細を確認し、可能な場合は、自動セキュリティアップデートを含むプルリクエストを確認します。
-1. 必要に応じて、アラートに対する {% data variables.product.prodname_dependabot_security_updates %} アップデートがまだ入手できない場合、脆弱性を解決するプルリクエストを作成するには、[**Create {% data variables.product.prodname_dependabot %} security update**] をクリックします。 ![{% data variables.product.prodname_dependabot %} セキュリティアップデートボタンを作成](/assets/images/help/repository/create-dependabot-security-update-button.png)
+1. 必要に応じて、アラートに対する {% data variables.product.prodname_dependabot_security_updates %} アップデートがまだ入手できない場合、脆弱性を解決するプルリクエストを作成するには、[**Create {% data variables.product.prodname_dependabot %} security update**] をクリックします。 ![{% data variables.product.prodname_dependabot %} セキュリティアップデートボタンを作成](/assets/images/2021/10/help/repository/create-dependabot-security-update-button.png)
 1. 依存関係を更新して脆弱性を解決する準備ができたら、プルリクエストをマージしてください。 {% data variables.product.prodname_dependabot %} によって発行される各プルリクエストには、{% data variables.product.prodname_dependabot %} の制御に使用できるコマンドの情報が含まれています。 詳しい情報については、「[依存関係の更新に関するプルリクエストを管理する](/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/managing-pull-requests-for-dependency-updates#managing-dependabot-pull-requests-with-comment-commands) 」を参照してください。
-1. Optionally, if the alert is being fixed, if it's incorrect, or located in unused code, select the "Dismiss" drop-down, and click a reason for dismissing the alert. ![[Dismiss] ドロップダウンでアラートを却下する理由を選択する](/assets/images/help/repository/dependabot-alert-dismiss-drop-down.png)
+1. Optionally, if the alert is being fixed, if it's incorrect, or located in unused code, select the "Dismiss" drop-down, and click a reason for dismissing the alert. ![[Dismiss] ドロップダウンでアラートを却下する理由を選択する](/assets/images/2021/10/help/repository/dependabot-alert-dismiss-drop-down.png)
 
 {% elsif ghes = 3.1 or ghes = 3.2 or ghae-issue-4864 %}
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-dependabot-alerts %}
-1. 表示したいアラートをクリックします。 ![アラートリストで選択されたアラート](/assets/images/enterprise/graphs/click-alert-in-alerts-list.png)
+1. 表示したいアラートをクリックします。 ![アラートリストで選択されたアラート](/assets/images/2021/10/enterprise/graphs/click-alert-in-alerts-list.png)
 1. 脆弱性の詳細をレビューし、依存関係を更新する必要があるかを判断してください。
-1. 依存関係のセキュアなバージョンへマニフェストあるいはロックファイルを更新するPull Requestをマージすると、アラートは解決されます。 Alternatively, if you decide not to update the dependency, select the **Dismiss** drop-down, and click a reason for dismissing the alert. ![[Dismiss] ドロップダウンでアラートを却下する理由を選択する](/assets/images/enterprise/repository/dependabot-alert-dismiss-drop-down.png)
+1. 依存関係のセキュアなバージョンへマニフェストあるいはロックファイルを更新するPull Requestをマージすると、アラートは解決されます。 Alternatively, if you decide not to update the dependency, select the **Dismiss** drop-down, and click a reason for dismissing the alert. ![[Dismiss] ドロップダウンでアラートを却下する理由を選択する](/assets/images/2021/10/enterprise/repository/dependabot-alert-dismiss-drop-down.png)
 
 {% else %}
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.click-dependency-graph %}
-1. 詳細な情報を表示する脆弱性のある依存関係のバージョン番号をクリックしてください。 ![脆弱性のある依存関係の詳細情報](/assets/images/enterprise/3.0/dependabot-alert-info.png)
+1. 詳細な情報を表示する脆弱性のある依存関係のバージョン番号をクリックしてください。 ![脆弱性のある依存関係の詳細情報](/assets/images/2021/10/enterprise/3.0/dependabot-alert-info.png)
 1. 脆弱性の詳細をレビューし、依存関係を更新する必要があるかを判断してください。 依存関係のセキュアなバージョンへマニフェストあるいはロックファイルを更新するPull Requestをマージすると、アラートは解決されます。
-1. **Dependencies（依存関係）**タブの上部のバナーは、脆弱性のある依存関係がすべて解決されるか、そのバナーを閉じるまで表示されます。 バナーの右上にある**Dismiss（却下）**をクリックして、アラートを却下する理由を選択してください。 ![セキュリティバナーを閉じる](/assets/images/enterprise/3.0/dependabot-alert-dismiss.png)
+1. **Dependencies（依存関係）**タブの上部のバナーは、脆弱性のある依存関係がすべて解決されるか、そのバナーを閉じるまで表示されます。 バナーの右上にある**Dismiss（却下）**をクリックして、アラートを却下する理由を選択してください。 ![セキュリティバナーを閉じる](/assets/images/2021/10/enterprise/3.0/dependabot-alert-dismiss.png)
 {% endif %}
 
 ## 参考リンク

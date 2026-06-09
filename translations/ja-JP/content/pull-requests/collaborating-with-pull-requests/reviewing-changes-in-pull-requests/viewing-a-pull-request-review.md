@@ -22,7 +22,7 @@ shortTitle: View a PR review
 
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.choose-pr-review %}
-3. [Conversation] タブで、表示したいレビューまでスクロールし、[**View changes**] をクリックします。 ![完全なレビューへのリンクを持つレビューヘッダ](/assets/images/help/pull_requests/view-full-review-view-changes.png)
+3. [Conversation] タブで、表示したいレビューまでスクロールし、[**View changes**] をクリックします。 ![完全なレビューへのリンクを持つレビューヘッダ](/assets/images/2021/10/help/pull_requests/view-full-review-view-changes.png)
 
 ## 参考リンク
 

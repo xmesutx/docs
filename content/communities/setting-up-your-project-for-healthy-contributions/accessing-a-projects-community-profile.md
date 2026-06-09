@@ -16,7 +16,7 @@ shortTitle: Access community profiles
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 3. In the left sidebar, click **Community**.
-![Community in left sidebar](/assets/images/help/graphs/graphs-sidebar-community-tab.png)
+![Community in left sidebar](/assets/images/2021/10/help/graphs/graphs-sidebar-community-tab.png)
 
 ## Further reading
 

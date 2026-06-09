@@ -16,11 +16,11 @@ shortTitle: Cancelar ou editar convite
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Na guia People (Pessoas), clique em **Pending invitation** (Convite pendente). ![Link de convite pendente](/assets/images/help/organizations/pending-invitation-link.png)
-5. Ao lado do nome de usuário ou do endereço de e-mail da pessoa cujo convite você deseja editar ou cancelar, clique em **Edit invitation** (Editar convite). ![Botão Edit invitation (Editar convite)](/assets/images/help/organizations/edit-invitation-button.png)
+4. Na guia People (Pessoas), clique em **Pending invitation** (Convite pendente). ![Link de convite pendente](/assets/images/2021/10/help/organizations/pending-invitation-link.png)
+5. Ao lado do nome de usuário ou do endereço de e-mail da pessoa cujo convite você deseja editar ou cancelar, clique em **Edit invitation** (Editar convite). ![Botão Edit invitation (Editar convite)](/assets/images/2021/10/help/organizations/edit-invitation-button.png)
 
  Talvez seja necessário clicar em **View all invitations** (Exibir todos os convites) na parte inferior da janela para encontrar a pessoa que está procurando.
-6. Você pode optar por editar ou cancelar o convite do usuário para ingressar na organização. ![Botões Update invitation (Atualizar convite) e cancel invitation (Cancelar convite)](/assets/images/help/organizations/update-cancel-invitation-buttons-for-dotcom-and-2.8.png)
+6. Você pode optar por editar ou cancelar o convite do usuário para ingressar na organização. ![Botões Update invitation (Atualizar convite) e cancel invitation (Cancelar convite)](/assets/images/2021/10/help/organizations/update-cancel-invitation-buttons-for-dotcom-and-2.8.png)
     - Para editar o convite do usuário, selecione uma função ou equipe diferente e clique em **Update invitation** (Atualizar convite).
     - Para cancelar o convite do usuário para ingressar na organização, clique em **Cancel invitation** (Cancelar convite).
 

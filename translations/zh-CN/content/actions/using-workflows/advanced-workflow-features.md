@@ -179,8 +179,8 @@ To learn more about {% data variables.product.prodname_dotcom %}-hosted runner l
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. 如果您的仓库已经有工作流程：在左上角单击 **New workflow（新工作流程）**。 ![创建新工作流程](/assets/images/help/repository/actions-new-workflow.png)
-1. Under the name of the starter workflow you'd like to use, click **Set up this workflow**. ![设置此工作流程](/assets/images/help/settings/actions-create-starter-workflow.png)
+1. 如果您的仓库已经有工作流程：在左上角单击 **New workflow（新工作流程）**。 ![创建新工作流程](/assets/images/2021/10/help/repository/actions-new-workflow.png)
+1. Under the name of the starter workflow you'd like to use, click **Set up this workflow**. ![设置此工作流程](/assets/images/2021/10/help/settings/actions-create-starter-workflow.png)
 
 ## 后续步骤
 

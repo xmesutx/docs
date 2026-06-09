@@ -21,10 +21,10 @@ shortTitle: 找回 SSH 密钥密码
 
 如果您[使用 macOS 密钥链配置 SSH 密码](/articles/working-with-ssh-key-passphrases#saving-your-passphrase-in-the-keychain)，则能够恢复它。
 
-1. 在 Finder 中，搜索 **Keychain Access** 应用程序。 ![Spotlight 搜索栏](/assets/images/help/setup/keychain-access.png)
+1. 在 Finder 中，搜索 **Keychain Access** 应用程序。 ![Spotlight 搜索栏](/assets/images/2021/10/help/setup/keychain-access.png)
 2. 在 Keychain Access 中，搜索 **SSH**。
 3. 双击 SSH 密钥的条目以打开一个新对话框。
-4. 在左上角选择 **Show password（显示密码）**。 ![Keychain Access 对话框](/assets/images/help/setup/keychain_show_password_dialog.png)
+4. 在左上角选择 **Show password（显示密码）**。 ![Keychain Access 对话框](/assets/images/2021/10/help/setup/keychain_show_password_dialog.png)
 5. 系统将提示您输入管理密码。 在 "Keychain Access" 对话框中输入该密码。
 6. 此时将显示您的密码。
 

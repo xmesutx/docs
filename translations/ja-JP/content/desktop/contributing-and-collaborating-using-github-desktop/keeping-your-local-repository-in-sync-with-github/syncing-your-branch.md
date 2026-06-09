@@ -21,8 +21,8 @@ versions:
 ## リモートからローカルブランチにプルする
 
 1. {% data variables.product.prodname_desktop %} で、{% octicon "git-branch" aria-label="The branch icon" %} [**Current Branch**] ドロップダウンを使用して、更新するローカルブランチを選択します。
-2.  リモートブランチのコミットを確認するには、[**Fetch origin**] をクリックします。 ![Fetch originボタン](/assets/images/help/desktop/fetch-button.png)
-3. リモートブランチからコミットをプルするには、[**Pull origin**] または [**Pull origin with rebase**] をクリックします。 ![[Pull origin] ボタン](/assets/images/help/desktop/pull-button.png)
+2.  リモートブランチのコミットを確認するには、[**Fetch origin**] をクリックします。 ![Fetch originボタン](/assets/images/2021/10/help/desktop/fetch-button.png)
+3. リモートブランチからコミットをプルするには、[**Pull origin**] または [**Pull origin with rebase**] をクリックします。 ![[Pull origin] ボタン](/assets/images/2021/10/help/desktop/pull-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
 
 ## プロジェクトブランチに他のブランチをマージする
@@ -37,35 +37,35 @@ versions:
 
    {% endnote %}
 
-   ![Mergeボタン](/assets/images/help/desktop/merge-branch-button.png)
+   ![Mergeボタン](/assets/images/2021/10/help/desktop/merge-branch-button.png)
 {% data reusables.desktop.push-origin %}
 
 ## プロジェクトブランチを他のブランチにリベースする
 
 {% mac %}
 
-1. メニューバーで [**Branch**] ドロップダウンを使用して、[**Rebase Current Branch**] をクリックします。 ![ブランチのドロップダウンメニューにある [Rebase Current Branch]](/assets/images/help/desktop/mac-rebase-current-branch.png)
-2. 現在のブランチにリベースしたいブランチをクリックし、[**Start rebase**] をクリックします。 ![[Start rebase] ボタン](/assets/images/help/desktop/start-rebase-button.png)
-3. リベースしたい場合は、[**Begin rebase**] をクリックします。 ![[Begin rebase] ボタン](/assets/images/help/desktop/begin-rebase-button.png)
+1. メニューバーで [**Branch**] ドロップダウンを使用して、[**Rebase Current Branch**] をクリックします。 ![ブランチのドロップダウンメニューにある [Rebase Current Branch]](/assets/images/2021/10/help/desktop/mac-rebase-current-branch.png)
+2. 現在のブランチにリベースしたいブランチをクリックし、[**Start rebase**] をクリックします。 ![[Start rebase] ボタン](/assets/images/2021/10/help/desktop/start-rebase-button.png)
+3. リベースしたい場合は、[**Begin rebase**] をクリックします。 ![[Begin rebase] ボタン](/assets/images/2021/10/help/desktop/begin-rebase-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
-4. ローカルの変更をプッシュするには、[**Force push origin**] をクリックします。 ![[Force push origin]](/assets/images/help/desktop/force-push-origin.png)
+4. ローカルの変更をプッシュするには、[**Force push origin**] をクリックします。 ![[Force push origin]](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. [**Branch**] ドロップダウンメニューで、[**Rebase Current Branch**] をクリックします。 ![ブランチのドロップダウンメニューにある [Rebase Current Branch]](/assets/images/help/desktop/windows-rebase-current-branch.png)
-2. 現在のブランチにリベースしたいブランチをクリックし、[**Start rebase**] をクリックします。 ![[Start rebase] ボタン](/assets/images/help/desktop/start-rebase-button.png)
-3. リベースしたい場合は、[**Begin rebase**] をクリックします。 ![[Begin rebase] ボタン](/assets/images/help/desktop/begin-rebase-button.png)
+1. [**Branch**] ドロップダウンメニューで、[**Rebase Current Branch**] をクリックします。 ![ブランチのドロップダウンメニューにある [Rebase Current Branch]](/assets/images/2021/10/help/desktop/windows-rebase-current-branch.png)
+2. 現在のブランチにリベースしたいブランチをクリックし、[**Start rebase**] をクリックします。 ![[Start rebase] ボタン](/assets/images/2021/10/help/desktop/start-rebase-button.png)
+3. リベースしたい場合は、[**Begin rebase**] をクリックします。 ![[Begin rebase] ボタン](/assets/images/2021/10/help/desktop/begin-rebase-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
-4. ローカルの変更をプッシュするには、[**Force push origin**] をクリックします。 ![[Force push origin]](/assets/images/help/desktop/force-push-origin.png)
+4. ローカルの変更をプッシュするには、[**Force push origin**] をクリックします。 ![[Force push origin]](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endwindows %}
 
 ## Squashing and merging another branch into your project branch
 
-1. Use the **Branch** drop-down and click **Squash and Merge into Current Branch**. ![Squash and merge in branch dropdown](/assets/images/help/desktop/squash-and-merge-menu.png)
-2. Click the branch you want to merge into the current branch, then click **Squash and merge**. ![Squash and merge  button](/assets/images/help/desktop/squash-and-merge-selection.png)
+1. Use the **Branch** drop-down and click **Squash and Merge into Current Branch**. ![Squash and merge in branch dropdown](/assets/images/2021/10/help/desktop/squash-and-merge-menu.png)
+2. Click the branch you want to merge into the current branch, then click **Squash and merge**. ![Squash and merge  button](/assets/images/2021/10/help/desktop/squash-and-merge-selection.png)
    {% note %}
 
    **Note:** If there are merge conflicts, {% data variables.product.prodname_desktop %} will warn you above the **Squash and merge** button. You will not be able to squash and merge the branch until you have resolved all conflicts.

@@ -21,8 +21,8 @@ shortTitle: ディスカッションの作成の管理
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. [Repository discussions] で、[**Allow users with read access to create discussions**] を選択または選択解除します。 ![読み取りアクセス権を持つユーザがディスカッションを作成できるようにするチェックボックス](/assets/images/help/discussions/toggle-allow-users-with-read-access-checkbox.png)
-6. [**Save**] をクリックします。 ![ディスカッション設定の [Save] ボタン](/assets/images/help/discussions/click-save.png)
+5. [Repository discussions] で、[**Allow users with read access to create discussions**] を選択または選択解除します。 ![読み取りアクセス権を持つユーザがディスカッションを作成できるようにするチェックボックス](/assets/images/2021/10/help/discussions/toggle-allow-users-with-read-access-checkbox.png)
+6. [**Save**] をクリックします。 ![ディスカッション設定の [Save] ボタン](/assets/images/2021/10/help/discussions/click-save.png)
 
 ## 参考リンク
 

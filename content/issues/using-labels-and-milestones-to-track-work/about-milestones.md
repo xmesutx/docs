@@ -25,7 +25,7 @@ To better manage your project, you can [view details about your milestone](/arti
 
 Additionally, you can edit the milestone from the milestone page and create new issues that are, by default, associated with the milestone.
 
-![Milestone page](/assets/images/help/issues/milestone-info-page.png)
+![Milestone page](/assets/images/2021/10/help/issues/milestone-info-page.png)
 
 ## Prioritizing issues and pull requests in milestones
 
@@ -37,7 +37,7 @@ You can prioritize open issues and pull requests in a milestone by clicking to t
 
 {% endnote %}
 
-![Reordered milestone](/assets/images/help/issues/milestone-reordered.gif)
+![Reordered milestone](/assets/images/2021/10/help/issues/milestone-reordered.gif)
 
 ## Further reading
 

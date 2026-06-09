@@ -89,11 +89,11 @@ Este exemplo é vulnerável à injeção do script porque o comando `executar` �
 
 Para injetar comandos neste fluxo de trabalho, o invasor pode criar um pull request com título de  `a"; ls $GITHUB_WORKSPACE"`:
 
-![Exemplo de injeção de script no título do PR](/assets/images/help/images/example-script-injection-pr-title.png)
+![Exemplo de injeção de script no título do PR](/assets/images/2021/10/help/images/example-script-injection-pr-title.png)
 
 Neste exemplo, o caractere `"` é usado para interromper a declaração de {% raw %}`title="${{ github.event.pull_request.title }}"`{% endraw %}, o que permite que o comando `ls` seja executado no executor. Você pode ver a saída do comando `ls` no registro:
 
-![Exemplo de resultado da injeção de script](/assets/images/help/images/example-script-injection-result.png)
+![Exemplo de resultado da injeção de script](/assets/images/2021/10/help/images/example-script-injection-result.png)
 
 ## Práticas recomendadas para mitigar ataques de injeção de script
 
@@ -135,7 +135,7 @@ O exemplo a seguir usa o Bash para processar o valor `github.event.pull_request.
 
 Neste exemplo, a injeção de script não tem sucesso:
 
-![Exemplo de injeção de script mitigado](/assets/images/help/images/example-script-injection-mitigated.png)
+![Exemplo de injeção de script mitigado](/assets/images/2021/10/help/images/example-script-injection-mitigated.png)
 
 Com esta abordagem, o valor da expressão de {% raw %}`${{ github.event.issue.title }}`{% endraw %} é armazenado na memória e usada como uma variável e não interage com o processo de geração de script. Além disso, considere usar variáveis do shell de citação dupla para evitar [divisão de palavras](https://github.com/koalaman/shellcheck/wiki/SC2086), mas esta é [uma das muitas](https://mywiki.wooledge.org/BashPitfalls) recomendações gerais para escrever scripts de shell e não é específica para {% data variables.product.prodname_actions %}.
 
@@ -296,7 +296,7 @@ Se você está usando {% data variables.product.prodname_actions %} para implant
 
 Você pode usar o log de auditoria para monitorar tarefas administrativas em uma organização. O log de auditoria registra o tipo de ação, quando foi executado, e qual conta de usuário executou a ação.
 
-Por exemplo, você pode usar o log de auditoria para acompanhar o evento `org.update_actions_secret`, que controla as alterações nos segredos da organização: ![Entradas do log de auditoria](/assets/images/help/repository/audit-log-entries.png)
+Por exemplo, você pode usar o log de auditoria para acompanhar o evento `org.update_actions_secret`, que controla as alterações nos segredos da organização: ![Entradas do log de auditoria](/assets/images/2021/10/help/repository/audit-log-entries.png)
 
 As tabelas a seguir descrevem os eventos de {% data variables.product.prodname_actions %} que você pode encontrar no log de auditoria. Para obter mais informações sobre como usar o log de auditoria, consulte [Revisar o log de auditoria para a sua organização](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#searching-the-audit-log)".
 

@@ -27,8 +27,8 @@ shortTitle: 私有贡献
 
 {% data reusables.profile.access_profile %}
 1. 在个人资料中公开或隐藏您的私有贡献：
-    - 要公开您的私有贡献，在贡献图上方，使用 **Contribution settings（贡献设置）**下拉菜单，然后选择 **Private contributions（私有贡献）**。 访问者将会看到您的私有贡献数，但没有更多详细信息。 ![从贡献设置下拉菜单允许访问者查看私有贡献](/assets/images/help/profile/private-contributions-on.png)
-    - 要隐藏您的私有贡献，在贡献图上方，使用 **Contribution settings（贡献设置）**下拉菜单，然后取消选择 **Private contributions（私有贡献）**。访问者只会看到您的公共贡献。 ![从贡献设置下拉菜单允许访问者查看私有贡献](/assets/images/help/profile/private-contributions-off.png)
+    - 要公开您的私有贡献，在贡献图上方，使用 **Contribution settings（贡献设置）**下拉菜单，然后选择 **Private contributions（私有贡献）**。 访问者将会看到您的私有贡献数，但没有更多详细信息。 ![从贡献设置下拉菜单允许访问者查看私有贡献](/assets/images/2021/10/help/profile/private-contributions-on.png)
+    - 要隐藏您的私有贡献，在贡献图上方，使用 **Contribution settings（贡献设置）**下拉菜单，然后取消选择 **Private contributions（私有贡献）**。访问者只会看到您的公共贡献。 ![从贡献设置下拉菜单允许访问者查看私有贡献](/assets/images/2021/10/help/profile/private-contributions-off.png)
 
 ## 延伸阅读
 

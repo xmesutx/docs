@@ -43,7 +43,7 @@ remote: error: Required status check "ci-build" is failing
 
 Por vezes, os resultados das verificações de status para o commit de mescla teste e o commit principal entrarão em conflito. Se o commit de merge de testes tem status, o commit de merge de testes deve passar. Caso contrário, o status do commit principal deve passar antes de você poder mesclar o branch. Para obter mais informações sobre commits de merge de teste, consulte "[Pulls](/rest/reference/pulls#get-a-pull-request)".
 
-![Branch com commits de mescla conflitantes](/assets/images/help/repository/req-status-check-conflicting-merge-commits.png)
+![Branch com commits de mescla conflitantes](/assets/images/2021/10/help/repository/req-status-check-conflicting-merge-commits.png)
 {% endif %}
 
 ## Manipulação ignorada, mas verificações necessárias
@@ -83,7 +83,7 @@ jobs:
 
 Se alguém enviar um pull request que altere um arquivo de markdown na raiz do repositório, o fluxo de trabalho acima não será executado devido ao filtro de caminho. Como resultado, você não poderá fazer o merge do pull request. Você verá o seguinte status no pull request:
 
-![Verificação obrigatória ignorada mas mostrada como pendente](/assets/images/help/repository/PR-required-check-skipped.png)
+![Verificação obrigatória ignorada mas mostrada como pendente](/assets/images/2021/11/help/repository/PR-required-check-skipped.png)
 
 Você pode corrigir isso criando um fluxo de trabalho genérico, com o mesmo nome, que retornará verdadeiro em qualquer caso semelhante ao fluxo de trabalho abaixo:
 
@@ -102,7 +102,7 @@ jobs:
 ```
 Agora, as verificações sempre passarão sempre que alguém enviar uma solicitação pull que não altere os arquivos listados em `caminhos` no primeiro fluxo de trabalho.
 
-![Verificação ignorada mas passa graças a um fluxo de trabalho genérico](/assets/images/help/repository/PR-required-check-passed-using-generic.png)
+![Verificação ignorada mas passa graças a um fluxo de trabalho genérico](/assets/images/2021/11/help/repository/PR-required-check-passed-using-generic.png)
 
 {% note %}
 

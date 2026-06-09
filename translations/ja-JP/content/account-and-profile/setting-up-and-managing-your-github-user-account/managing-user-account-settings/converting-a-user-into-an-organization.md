@@ -48,9 +48,9 @@ Organization の名前を、あなたの個人アカウントが使用してい�
 2.  変換するアカウントで参加している、[すべての Organization から自分を削除](/articles/removing-yourself-from-an-organization)してください。
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.organizations %}
-5. [Transform account] で、[**Turn <username> into an organization**] をクリックします。 ![Organization 変換ボタン](/assets/images/help/settings/convert-to-organization.png)
-6. [Account Transformation Warning] ダイアログボックスで、変換に関する情報を読み、変換を確定します。 このボックスに記載されている情報は、この記事で上述したものと同じです。 ![変換に関する警告](/assets/images/help/organizations/organization-account-transformation-warning.png)
-7. [Transform your user into an organization] ページの、[Choose an organization owner] で、前のセクションで作成したセカンダリの個人アカウントか、Organization の管理を信頼して任せられる他のユーザを選択します。 ![Organization オーナーの追加ページ](/assets/images/help/organizations/organization-add-owner.png)
+5. [Transform account] で、[**Turn <username> into an organization**] をクリックします。 ![Organization 変換ボタン](/assets/images/2021/10/help/settings/convert-to-organization.png)
+6. [Account Transformation Warning] ダイアログボックスで、変換に関する情報を読み、変換を確定します。 このボックスに記載されている情報は、この記事で上述したものと同じです。 ![変換に関する警告](/assets/images/2021/10/help/organizations/organization-account-transformation-warning.png)
+7. [Transform your user into an organization] ページの、[Choose an organization owner] で、前のセクションで作成したセカンダリの個人アカウントか、Organization の管理を信頼して任せられる他のユーザを選択します。 ![Organization オーナーの追加ページ](/assets/images/2021/10/help/organizations/organization-add-owner.png)
 8. 入力を求められた場合、Organization の新しいプランを選択し、支払い情報を入力します。
 9. [**Create Organization**] をクリックします。
 10. ステップ 1 で作成した、新しいユーザアカウントにサインインし、コンテキストスイッチャーを使って新しい Organization にアクセスします。

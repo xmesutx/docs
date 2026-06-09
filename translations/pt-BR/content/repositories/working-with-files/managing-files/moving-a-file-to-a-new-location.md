@@ -33,8 +33,8 @@ Além de alterar o local do arquivo, também é possível [atualizar o conteúdo
 {% endtip %}
 
 1. No repositório, navegue até o arquivo que deseja mover.
-2. No canto superior direito da exibição do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor de arquivos. ![Ícone Edit file (Editar arquivo)](/assets/images/help/repository/move-file-edit-file-icon.png)
-3. No campo nome de arquivo, mude o nome do arquivo usando estas diretrizes: ![Editar um nome de arquivo](/assets/images/help/repository/moving_files.gif)
+2. No canto superior direito da exibição do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor de arquivos. ![Ícone Edit file (Editar arquivo)](/assets/images/2021/10/help/repository/move-file-edit-file-icon.png)
+3. No campo nome de arquivo, mude o nome do arquivo usando estas diretrizes: ![Editar um nome de arquivo](/assets/images/2021/10/help/repository/moving_files.gif)
     - Para mover o arquivo **para uma subpasta**, digite o nome da pasta desejada, seguido por `/`. Sua nova pasta é um novo item na navegação estrutural.
     - Para mover o arquivo para um diretório **acima da localização atual do arquivo**, coloque o cursor no início do campo nome do arquivo e digite `../` para pular um nível de diretório inteiro ou pressione a tecla `backspace` para editar o nome da pasta principal.
 {% data reusables.files.write_commit_message %}

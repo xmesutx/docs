@@ -85,10 +85,10 @@ Definições de contêiner predefinidas incluem uma configuração comum para um
 Usar uma configuração predefinida é uma ótima ideia se você precisa de uma extensão adicional. Você também pode começar com uma configuração predefinida e alterá-la conforme necessário para a configuração do seu projeto.
 
 {% data reusables.codespaces.command-palette-container %}
-1. Clique na definição que você deseja usar. ![Lista de definições de contêiner predefinidas](/assets/images/help/codespaces/predefined-container-definitions-list.png)
+1. Clique na definição que você deseja usar. ![Lista de definições de contêiner predefinidas](/assets/images/2021/10/help/codespaces/predefined-container-definitions-list.png)
 1. Siga as instruções para personalizar sua definição. Para obter mais informações sobre as opções para personalizar sua definição, consulte "[Adicionando funcionalidades adicionais ao seu arquivo `devcontainer.json`](#adding-additional-features-to-your-devcontainerjson-file)".
-1. Clique em **OK**. ![Botão OK](/assets/images/help/codespaces/prebuilt-container-ok-button.png)
-1. Para aplicar as alterações, no canto inferior direito da tela, clique em **Reconstruir agora**. Para obter mais informações sobre a reconstrução do seu contêiner, consulte "[Aplicar alterações na sua configuração](#applying-changes-to-your-configuration)". !["Códigos: Recriar contêiner" em {% data variables.product.prodname_vscode_command_palette %}](/assets/images/help/codespaces/rebuild-prompt.png)
+1. Clique em **OK**. ![Botão OK](/assets/images/2021/10/help/codespaces/prebuilt-container-ok-button.png)
+1. Para aplicar as alterações, no canto inferior direito da tela, clique em **Reconstruir agora**. Para obter mais informações sobre a reconstrução do seu contêiner, consulte "[Aplicar alterações na sua configuração](#applying-changes-to-your-configuration)". !["Códigos: Recriar contêiner" em {% data variables.product.prodname_vscode_command_palette %}](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 ### Adicionando funcionalidades adicionais ao arquivo `devcontainer.json`
 
@@ -102,12 +102,12 @@ Você pode adicionar recursos à configuração de contêiner predefinida para p
 
 Você pode adicionar algumas das características mais comuns selecionando-as na configuração do contêiner predefinido. Para obter mais informações sobre as funcionalidades disponíveis, consulte a biblioteca de script [](https://github.com/microsoft/vscode-dev-containers/tree/main/script-library#scripts) no repositório `vscode-dev-containers`.
 
-![O menu de seleção de funcionalidades adicionais durante a configuração do contêiner.](/assets/images/help/codespaces/select-additional-features.png)
+![O menu de seleção de funcionalidades adicionais durante a configuração do contêiner.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
 
 Você também pode adicionar ou remover funcionalidades fora do fluxo de trabalho **Adicionar arquivos de configuração do contêiner de desenvolvimento**.
-1. Acessar a Paleta de Comando (`Shift + Comando + P` / `Ctrl + Shift + P`) e, em seguida, comece a digitar "configurar". Selecione **Codespaces: Configure as Funcionalidades do contêiner de desenvolvimento**. ![O comando Configurar Funcionalidades do Devcontainer na paleta de comandos](/assets/images/help/codespaces/codespaces-configure-features.png)
-2. Atualize as seleções das suas funcioanlidades e clique em **OK**. ![O menu de seleção de funcionalidades adicionais durante a configuração do contêiner.](/assets/images/help/codespaces/select-additional-features.png)
-1. Para aplicar as alterações, no canto inferior direito da tela, clique em **Reconstruir agora**. Para obter mais informações sobre a reconstrução do seu contêiner, consulte "[Aplicar alterações na sua configuração](#applying-changes-to-your-configuration)". !["Codespaces: Reconstruir contêiner" na paleta de comandos](/assets/images/help/codespaces/rebuild-prompt.png)
+1. Acessar a Paleta de Comando (`Shift + Comando + P` / `Ctrl + Shift + P`) e, em seguida, comece a digitar "configurar". Selecione **Codespaces: Configure as Funcionalidades do contêiner de desenvolvimento**. ![O comando Configurar Funcionalidades do Devcontainer na paleta de comandos](/assets/images/2021/10/help/codespaces/codespaces-configure-features.png)
+2. Atualize as seleções das suas funcioanlidades e clique em **OK**. ![O menu de seleção de funcionalidades adicionais durante a configuração do contêiner.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
+1. Para aplicar as alterações, no canto inferior direito da tela, clique em **Reconstruir agora**. Para obter mais informações sobre a reconstrução do seu contêiner, consulte "[Aplicar alterações na sua configuração](#applying-changes-to-your-configuration)". !["Codespaces: Reconstruir contêiner" na paleta de comandos](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 
 ## Criar uma configuração personalizada de codespace
@@ -161,7 +161,7 @@ For more information about the available settings for `devcontainer.json`, see [
 {% data reusables.codespaces.apply-devcontainer-changes %}
 
 {% data reusables.codespaces.rebuild-command %}
-1. {% data reusables.codespaces.recovery-mode %} Corrija os erros na configuração. ![Mensagem de erro sobre modo de recuperação](/assets/images/help/codespaces/recovery-mode-error-message.png)
+1. {% data reusables.codespaces.recovery-mode %} Corrija os erros na configuração. ![Mensagem de erro sobre modo de recuperação](/assets/images/2021/10/help/codespaces/recovery-mode-error-message.png)
    - Para diagnosticar o erro revisando os registros de criação, clique em **Visualizar registro de criação**.
    - Para corrigir os erros identificados nos registros, atualize seu arquivo </code>devcontainer.json..</li>
 <li>Para aplicar as alterações, reconstrua seu contêiner.</li>

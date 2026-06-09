@@ -27,7 +27,7 @@ shortTitle: 管理允许的 IP 地址
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-1. 向下滚动到“IP 允许列表”部分。 ![GitHub 应用程序的基本信息部分](/assets/images/github-apps/github-apps-allow-list-empty.png)
+1. 向下滚动到“IP 允许列表”部分。 ![GitHub 应用程序的基本信息部分](/assets/images/2021/10/github-apps/github-apps-allow-list-empty.png)
 {% data reusables.identity-and-permissions.ip-allow-lists-add-ip %}
 {% data reusables.identity-and-permissions.ip-allow-lists-add-description %}
   该说明供您参考，并未在安装 {% data variables.product.prodname_github_app %} 的组织允许列表中使用。 相反，组织允许列表将包括“按名称 GitHub 应用程序管理”作为说明。

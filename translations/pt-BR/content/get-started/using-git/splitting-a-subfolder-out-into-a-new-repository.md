@@ -57,7 +57,7 @@ Se você criar um clone do repositório, não perderá nenhuma alteração ou hi
 
 7. Na parte superior do seu novo repositório na página de Configuração Rápida de {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}, clique em {% octicon "clippy" aria-label="The copy to clipboard icon" %} para copiar a URL do repositório remoto.
 
-   ![Campo Copy remote repository URL (Copiar URL do repositório remote)](/assets/images/help/repository/copy-remote-repository-url-quick-setup.png)
+   ![Campo Copy remote repository URL (Copiar URL do repositório remote)](/assets/images/2021/10/help/repository/copy-remote-repository-url-quick-setup.png)
 
    {% tip %}
 

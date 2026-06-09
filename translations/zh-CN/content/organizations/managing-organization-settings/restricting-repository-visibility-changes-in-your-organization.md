@@ -27,7 +27,7 @@ shortTitle: 设置可见性更改策略
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. 在“Repository visibility change（仓库可见性更改）”下，取消选择 **Allow members to change repository visibilities for this organization（允许成员为此组织更改仓库可见性）**。 ![允许成员更改仓库可见性的复选框](/assets/images/help/organizations/disallow-members-to-change-repo-visibility.png)
+5. 在“Repository visibility change（仓库可见性更改）”下，取消选择 **Allow members to change repository visibilities for this organization（允许成员为此组织更改仓库可见性）**。 ![允许成员更改仓库可见性的复选框](/assets/images/2021/10/help/organizations/disallow-members-to-change-repo-visibility.png)
 6. 单击 **Save（保存）**。
 
 ## 延伸阅读

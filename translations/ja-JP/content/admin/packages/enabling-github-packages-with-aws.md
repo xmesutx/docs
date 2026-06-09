@@ -52,7 +52,7 @@ Ensure your AWS access key ID and secret have the following permissions:
 
       For more information on managing AWS access keys, see the "[AWS Identity and Access Management Documentation](https://docs.aws.amazon.com/iam/index.html)."
 
-    ![Entry boxes for your S3 AWS bucket's details](/assets/images/help/package-registry/s3-aws-storage-bucket-details.png)
+    ![Entry boxes for your S3 AWS bucket's details](/assets/images/2021/10/help/package-registry/s3-aws-storage-bucket-details.png)
 {% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 

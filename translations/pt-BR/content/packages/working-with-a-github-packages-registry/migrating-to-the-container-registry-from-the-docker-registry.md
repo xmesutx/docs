@@ -23,7 +23,7 @@ Depois que suas imagens do Docker forem transferidas para o {% data variables.pr
 * O ícone agora é o logotipo de {% data variables.product.prodname_container_registry %} anteriormente, era um logotipo do Docker.
 * O domínio no URL do pull agora é `ghcr.io`, anteriormente era `docker.pkg.github.com`.
 
-![Página de detalhes de {% data variables.product.prodname_container_registry %}](/assets/images/help/package-registry/container-registry-details-page.png)
+![Página de detalhes de {% data variables.product.prodname_container_registry %}](/assets/images/2021/10/help/package-registry/container-registry-details-page.png)
 
 ## Principais diferenças entre {% data variables.product.prodname_container_registry %} e o registro do Docker
 

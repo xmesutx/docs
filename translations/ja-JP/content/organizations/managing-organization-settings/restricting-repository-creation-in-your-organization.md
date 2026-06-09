@@ -37,9 +37,9 @@ Enterpriseのオーナーは、Organizatoinのリポジトリ作成ポリシー�
 5. [Repository creation] で、1 つ以上のオプションを選択します。
 
    {%- ifversion ghes or ghec or ghae %}
-   ![リポジトリ作成のオプション](/assets/images/help/organizations/repo-creation-perms-radio-buttons.png)
+   ![リポジトリ作成のオプション](/assets/images/2021/10/help/organizations/repo-creation-perms-radio-buttons.png)
    {%- elsif fpt %}
-   ![リポジトリ作成のオプション](/assets/images/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
+   ![リポジトリ作成のオプション](/assets/images/2021/12/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
 
    {% note %}
 

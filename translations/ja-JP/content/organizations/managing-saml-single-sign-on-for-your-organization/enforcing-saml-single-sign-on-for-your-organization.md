@@ -16,7 +16,7 @@ shortTitle: SAMLシングルサインオンの施行
 
 SAML SSOを有効化すると、{% data variables.product.prodname_dotcom %}は{% data variables.product.prodname_dotcom_the_website %}上のOrganizationのリソースにアクセスしたメンバーにIdPで認証を受けるように求めます。これは、そのIdP上のアイデンティティにメンバーのユーザアカウントをリンクします。 メンバーは、IdPで認証を受ける前に引き続きOrganizationのリソースにアクセスできます。
 
-![Organizationへのアクセスに際してSAML SSOで承認を受けるよう求めるバナー](/assets/images/help/saml/sso-has-been-enabled.png)
+![Organizationへのアクセスに際してSAML SSOで承認を受けるよう求めるバナー](/assets/images/2021/10/help/saml/sso-has-been-enabled.png)
 
 OrganizationでもSAML SSOを施行できます。 {% data reusables.saml.when-you-enforce %} この施行によって、IdP経由での認証を受けなかったメンバーや管理者は、Organizationから削除されます。 {% data variables.product.company_short %}は削除された各メンバーにメール通知を送信します。
 
@@ -39,8 +39,8 @@ OrganizationがEnterpriseアカウントで管理されている場合、そのE
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-1. "SAML single sign-on（SAMLシングルサインオン）"の下で、**Require SAML SSO authentication for all members of the _ORGANIZATION_ organization（ORGANIZATIONですべてのメンバーにSAML SSO認証を必須化）**を選択してください。 !["SAML SSO認証を必須にする"チェックボックス](/assets/images/help/saml/require-saml-sso-authentication.png)
-1. IdP経由で認証されていないOrganizationのメンバーがいれば、{% data variables.product.company_short %}はそのメンバーを表示します。 SAML SSOを施行すると、{% data variables.product.company_short %}はそれらのメンバーをOrganizationから削除します。 警告をレビューして、**Remove members and require SAML single sign-on（メンバーを削除してSAMLシングルサインオンを必須にする）**をクリックしてください。 ![Organizationから削除されるメンバーのリストがある"SAML SSO認証の確認"ダイアログ](/assets/images/help/saml/confirm-saml-sso-enforcement.png)
+1. "SAML single sign-on（SAMLシングルサインオン）"の下で、**Require SAML SSO authentication for all members of the _ORGANIZATION_ organization（ORGANIZATIONですべてのメンバーにSAML SSO認証を必須化）**を選択してください。 !["SAML SSO認証を必須にする"チェックボックス](/assets/images/2021/10/help/saml/require-saml-sso-authentication.png)
+1. IdP経由で認証されていないOrganizationのメンバーがいれば、{% data variables.product.company_short %}はそのメンバーを表示します。 SAML SSOを施行すると、{% data variables.product.company_short %}はそれらのメンバーをOrganizationから削除します。 警告をレビューして、**Remove members and require SAML single sign-on（メンバーを削除してSAMLシングルサインオンを必須にする）**をクリックしてください。 ![Organizationから削除されるメンバーのリストがある"SAML SSO認証の確認"ダイアログ](/assets/images/2021/10/help/saml/confirm-saml-sso-enforcement.png)
 1. "Single sign-on recovery codes（シングルサインオンのリカバリコード）"の下で、リカバリコードを確認してください。 リカバリコードは、パスワードマネージャーのような安全な場所に保存してください。
 
 ## 参考リンク

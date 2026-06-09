@@ -1,1 +1,1 @@
-1. No canto superior direito da página, clique em {% octicon "shield" aria-label="The shield" %} **Security** (Segurança). ![Guia de segurança](/assets/images/enterprise/site-admin-settings/repo/repo-security-top-tab.png)
+1. No canto superior direito da página, clique em {% octicon "shield" aria-label="The shield" %} **Security** (Segurança). ![Guia de segurança](/assets/images/2021/10/enterprise/site-admin-settings/repo/repo-security-top-tab.png)

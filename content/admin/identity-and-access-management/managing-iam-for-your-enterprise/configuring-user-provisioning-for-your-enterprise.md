@@ -72,9 +72,9 @@ You must have administrative access on your IdP to configure the application for
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 1. Under "SCIM User Provisioning", select **Require SCIM user provisioning**.
-  ![Checkbox for "Require SCIM user provisioning" within enterprise security settings](/assets/images/help/enterprises/settings-require-scim-user-provisioning.png)
+  ![Checkbox for "Require SCIM user provisioning" within enterprise security settings](/assets/images/2021/10/help/enterprises/settings-require-scim-user-provisioning.png)
 1. Click **Save**.
-  ![Save button under "Require SCIM user provisioning" within enterprise security settings](/assets/images/help/enterprises/settings-scim-save.png)
+  ![Save button under "Require SCIM user provisioning" within enterprise security settings](/assets/images/2021/10/help/enterprises/settings-scim-save.png)
 1. Configure user provisioning in the application for {% data variables.product.product_name %} on your IdP.
 
   The following IdPs provide documentation about configuring provisioning for {% data variables.product.product_name %}. If your IdP isn't listed, please contact your IdP to request support for {% data variables.product.product_name %}.

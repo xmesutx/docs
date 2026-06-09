@@ -23,5 +23,5 @@ Organizationが所有するパブリックリポジトリでは、Pull Request�
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.moderation-settings %}
-1. 「{% octicon "report" aria-label="The report icon" %} Moderation（モデレーション）」の下で、**Code review limits（コードレビューの制限）**をクリックしてください。 ![Organizationのコードレビュー制限のサイドバーアイテムのスクリーンショット](/assets/images/help/organizations/code-review-limits-organizations.png)
-1. 画面上の情報をレビューしてください。 明示的なアクセスを持つ人にだけレビューを制限するには**Limit review on all repositories（すべてのリポジトリ上でレビューを制限）**を、あるいはOrganizationのすべてのパブリックリポジトリから制限を削除するには**Remove review limits from all repositories（すべてのリポジトリからレビューの制限を削除）**をクリックしてください。 ![Organizationのコードレビュー制限設定のスクリーンショット](/assets/images/help/organizations/code-review-limits-organizations-settings.png)
+1. 「{% octicon "report" aria-label="The report icon" %} Moderation（モデレーション）」の下で、**Code review limits（コードレビューの制限）**をクリックしてください。 ![Organizationのコードレビュー制限のサイドバーアイテムのスクリーンショット](/assets/images/2022/02/help/organizations/code-review-limits-organizations.png)
+1. 画面上の情報をレビューしてください。 明示的なアクセスを持つ人にだけレビューを制限するには**Limit review on all repositories（すべてのリポジトリ上でレビューを制限）**を、あるいはOrganizationのすべてのパブリックリポジトリから制限を削除するには**Remove review limits from all repositories（すべてのリポジトリからレビューの制限を削除）**をクリックしてください。 ![Organizationのコードレビュー制限設定のスクリーンショット](/assets/images/2022/02/help/organizations/code-review-limits-organizations-settings.png)

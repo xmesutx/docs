@@ -32,12 +32,12 @@ Enterprise owners who create an organization owned by the enterprise account aut
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 2. On the **Organizations** tab, above the list of organizations, click **New organization**.
-  ![New organization button](/assets/images/help/business-accounts/enterprise-account-add-org.png)
+  ![New organization button](/assets/images/2021/10/help/business-accounts/enterprise-account-add-org.png)
 3. Under "Organization name", type a name for your organization.
-  ![Field to type a new organization name](/assets/images/help/business-accounts/new-organization-name-field.png)
+  ![Field to type a new organization name](/assets/images/2021/10/help/business-accounts/new-organization-name-field.png)
 4. Click **Create organization**.
 5. Under "Invite owners", type the username of a person you'd like to invite to become an organization owner, then click **Invite**.
-  ![Organization owner search field and Invite button](/assets/images/help/business-accounts/invite-org-owner.png)
+  ![Organization owner search field and Invite button](/assets/images/2021/10/help/business-accounts/invite-org-owner.png)
 6. Click **Finish**.
 
 ## Inviting an organization to join your enterprise account
@@ -46,13 +46,13 @@ Enterprise owners can invite existing organizations to join their enterprise acc
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 2. On the **Organizations** tab, above the list of organizations, click **Invite organization**.
-![Invite organization](/assets/images/help/business-accounts/enterprise-account-invite-organization.png)
+![Invite organization](/assets/images/2021/10/help/business-accounts/enterprise-account-invite-organization.png)
 3. Under "Organization name", start typing the name of the organization you want to invite and select it when it appears in the drop-down list.
-![Search for organization](/assets/images/help/business-accounts/enterprise-account-search-for-organization.png)
+![Search for organization](/assets/images/2021/10/help/business-accounts/enterprise-account-search-for-organization.png)
 4. Click **Invite organization**.
 5. The organization owners will receive an email inviting them to join the enterprise. At least one owner needs to accept the invitation before the process can continue. You can cancel or resend the invitation at any time before an owner approves it.
-![Cancel or resend](/assets/images/help/business-accounts/enterprise-account-invitation-sent.png)
+![Cancel or resend](/assets/images/2021/10/help/business-accounts/enterprise-account-invitation-sent.png)
 6. Once an organization owner has approved the invitation, you can view its status in the list of pending invitations.
-![Pending invitation](/assets/images/help/business-accounts/enterprise-account-pending.png)
+![Pending invitation](/assets/images/2021/10/help/business-accounts/enterprise-account-pending.png)
 7. Click **Approve** to complete the transfer, or **Cancel** to cancel it.
-![Approve invitation](/assets/images/help/business-accounts/enterprise-account-transfer-approve.png)
+![Approve invitation](/assets/images/2021/10/help/business-accounts/enterprise-account-transfer-approve.png)

@@ -35,7 +35,7 @@ Organization のオーナーは、特定の期間だけユーザをブロック�
 {% data reusables.profile.org_settings %}
 1. In the "Access" section of the sidebar, select **{% octicon "report" aria-label="The report icon" %} Moderation**, then click **Interaction limits**.
 {% data reusables.community.set-interaction-limit %}
-  ![[Temporary interaction limits] のオプション](/assets/images/help/organizations/organization-temporary-interaction-limits-options.png)
+  ![[Temporary interaction limits] のオプション](/assets/images/2021/10/help/organizations/organization-temporary-interaction-limits-options.png)
 
 ## 参考リンク
 - [悪用あるいはスパムのレポート](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)

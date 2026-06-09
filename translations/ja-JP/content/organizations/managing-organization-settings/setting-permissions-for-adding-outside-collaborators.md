@@ -24,5 +24,5 @@ shortTitle: コラボレータポリシーの設定
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. [Repository invitations] の下で、[**Allow members to invite outside collaborators to repositories for this organization**] を選択します。 ![外部コラボレーターを Organization リポジトリに招待することをメンバーに許可するためのチェックボックス](/assets/images/help/organizations/repo-invitations-checkbox-updated.png)
+5. [Repository invitations] の下で、[**Allow members to invite outside collaborators to repositories for this organization**] を選択します。 ![外部コラボレーターを Organization リポジトリに招待することをメンバーに許可するためのチェックボックス](/assets/images/2021/10/help/organizations/repo-invitations-checkbox-updated.png)
 6. [**Save**] をクリックします。

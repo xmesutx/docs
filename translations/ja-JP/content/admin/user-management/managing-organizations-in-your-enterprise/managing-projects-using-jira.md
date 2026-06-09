@@ -23,19 +23,19 @@ shortTitle: Project management with Jira
 1. http[s]://[hostname]/login で {% data variables.product.prodname_enterprise %}のアカウントにサインインする。 If already signed in, click on the {% data variables.product.prodname_dotcom %} logo in the top left corner.
 2. Click on your profile icon under the {% data variables.product.prodname_dotcom %} logo and select the organization you would like to connect with Jira.
 
-  ![Select an organization](/assets/images/enterprise/orgs-and-teams/profile-select-organization.png)
+  ![Select an organization](/assets/images/2021/10/enterprise/orgs-and-teams/profile-select-organization.png)
 
 3. Click on the **Edit _organization name_ settings** link.
 
-  ![Edit organization settings](/assets/images/enterprise/orgs-and-teams/edit-organization-settings.png)
+  ![Edit organization settings](/assets/images/2021/10/enterprise/orgs-and-teams/edit-organization-settings.png)
 
 4. In the left sidebar, under **Developer settings**, click **OAuth Apps**.
 
-  ![Select OAuth Apps](/assets/images/enterprise/orgs-and-teams/organization-dev-settings-oauth-apps.png)
+  ![Select OAuth Apps](/assets/images/2021/10/enterprise/orgs-and-teams/organization-dev-settings-oauth-apps.png)
 
 5. Click on the **Register new application** button.
 
-  ![Register new application button](/assets/images/enterprise/orgs-and-teams/register-oauth-application-button.png)
+  ![Register new application button](/assets/images/2021/10/enterprise/orgs-and-teams/register-oauth-application-button.png)
 
 6. アプリケーションの設定を次のように記入する。
     - In the **Application name** field, type "Jira" or any name you would like to use to identify the Jira instance.
@@ -49,15 +49,15 @@ shortTitle: Project management with Jira
 1. On your Jira instance, log into an account with administrative access.
 2. At the top of the page, click the settings (gear) icon and choose **Applications**.
 
-  ![Select Applications on Jira settings](/assets/images/enterprise/orgs-and-teams/jira/jira-applications.png)
+  ![Select Applications on Jira settings](/assets/images/2021/10/enterprise/orgs-and-teams/jira/jira-applications.png)
 
 3. In the left sidebar, under **Integrations**, click **DVCS accounts**.
 
-  ![Jira Integrations menu - DVCS accounts](/assets/images/enterprise/orgs-and-teams/jira/jira-integrations-dvcs.png)
+  ![Jira Integrations menu - DVCS accounts](/assets/images/2021/10/enterprise/orgs-and-teams/jira/jira-integrations-dvcs.png)
 
 4. Click **Link Bitbucket Cloud or {% data variables.product.prodname_dotcom %} account**.
 
-  ![Link GitHub account to Jira](/assets/images/enterprise/orgs-and-teams/jira/jira-link-github-account.png)
+  ![Link GitHub account to Jira](/assets/images/2021/10/enterprise/orgs-and-teams/jira/jira-link-github-account.png)
 
 5. [**Add New Account**] (新規アカウントを追加) モーダルで、{% data variables.product.prodname_enterprise %} の設定を記入してください。
     - From the **Host** dropdown menu, choose **{% data variables.product.prodname_enterprise %}**.

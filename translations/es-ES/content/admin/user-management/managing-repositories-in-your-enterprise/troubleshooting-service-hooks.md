@@ -20,17 +20,17 @@ Puedes buscar información para la última respuesta de todas las entregas de ga
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. Explorar en el repositorio que estás investigando.
-3. Haz clic en el enlace **Hooks** (Ganchos) en la barra lateral de navegación. ![Barra lateral de ganchos](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
-4. Haz clic en el enlace **Latest Delivery** (Última entrega) bajo el gancho de servicio que tiene problemas. ![Detalles de ganchos](/assets/images/enterprise/settings/Enterprise-Hooks-Details.png)
+3. Haz clic en el enlace **Hooks** (Ganchos) en la barra lateral de navegación. ![Barra lateral de ganchos](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+4. Haz clic en el enlace **Latest Delivery** (Última entrega) bajo el gancho de servicio que tiene problemas. ![Detalles de ganchos](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Details.png)
 5. En **Remote Calls** (Llamadas remotas), verás los encabezados que se usaron al publicar en el servidor remoto junto con la respuesta que el servidor remoto volvió a enviar a tu instalación.
 
 ## Ver la carga
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. Explorar en el repositorio que estás investigando.
-3. Haz clic en el enlace **Hooks** (Ganchos) en la barra lateral de navegación. ![Barra lateral de ganchos](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+3. Haz clic en el enlace **Hooks** (Ganchos) en la barra lateral de navegación. ![Barra lateral de ganchos](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
 4. Haz clic en el enlace **Latest Delivery** (Última entrega) bajo el gancho de servicio que tiene problemas.
-5. Da clic en **Entrega**. ![Ver la carga](/assets/images/enterprise/settings/Enterprise-Hooks-Payload.png)
+5. Da clic en **Entrega**. ![Ver la carga](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Payload.png)
 
 ## Ver entregas anteriores
 
@@ -38,6 +38,6 @@ Las entregas se almacenan durante 15 días.
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. Explorar en el repositorio que estás investigando.
-3. Haz clic en el enlace **Hooks** (Ganchos) en la barra lateral de navegación. ![Barra lateral de ganchos](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+3. Haz clic en el enlace **Hooks** (Ganchos) en la barra lateral de navegación. ![Barra lateral de ganchos](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
 4. Haz clic en el enlace **Latest Delivery** (Última entrega) bajo el gancho de servicio que tiene problemas.
-5. Para ver otras entregas para ese gancho específico, haz clic en **More for this Hook ID** (Más para este ID de gancho): ![Ver más entregas](/assets/images/enterprise/settings/Enterprise-Hooks-More-Deliveries.png)
+5. Para ver otras entregas para ese gancho específico, haz clic en **More for this Hook ID** (Más para este ID de gancho): ![Ver más entregas](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-More-Deliveries.png)

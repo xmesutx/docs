@@ -18,11 +18,11 @@ topics:
 
 任何组织成员都可以在团队的页面上发帖或参与公共讨论。 {% data reusables.organizations.team-discussions-permissions %}
 
-![具有公共和私人讨论的团队页面的讨论选项卡](/assets/images/help/organizations/team-page-discussions-tab.png)
+![具有公共和私人讨论的团队页面的讨论选项卡](/assets/images/2021/10/help/organizations/team-page-discussions-tab.png)
 
 您可以在其他位置链接到任何团队讨论以引用它。 您可以将重要帖子嵌入到团队页面，便于以后快速参考。 更多信息请参阅“[嵌入团队讨论](/organizations/collaborating-with-your-team/pinning-a-team-discussion)”。
 
-![具有嵌入讨论的团队页面的嵌入讨论选项卡](/assets/images/help/organizations/team-discussions-pinned.png)
+![具有嵌入讨论的团队页面的嵌入讨论选项卡](/assets/images/2021/10/help/organizations/team-discussions-pinned.png)
 
 {% data reusables.organizations.team-discussions-default %} 所有者可对整个组织禁用团队讨论。 更多信息请参阅“[对组织禁用团队讨论](/articles/disabling-team-discussions-for-your-organization)”。
 

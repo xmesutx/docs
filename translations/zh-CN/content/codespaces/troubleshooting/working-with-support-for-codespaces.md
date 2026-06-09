@@ -20,7 +20,7 @@ shortTitle: 使用支持
 要查找代码空间的名称：
 
 - 在浏览器中打开代码空间。 URL 的子域是代码空间的名称。 例如： `https://octocat-myrepo-gmc7.github.dev` 是 `octocat-myrepo-gmc7` 代码空间的 URL。
-- 如果无法打开代码空间，则可以在 https://github.com/codespaces 上访问 {% data variables.product.product_name %} 中的名称。 当您将鼠标悬停在 https://github.com/codespaces 上的 **Open in browser（在浏览器中打开）**选项上时，该名称将显示在弹出窗口中。 ![将鼠标悬停在上方时显示的代码空间名称](/assets/images/help/codespaces/find-codespace-name-github.png)
+- 如果无法打开代码空间，则可以在 https://github.com/codespaces 上访问 {% data variables.product.product_name %} 中的名称。 当您将鼠标悬停在 https://github.com/codespaces 上的 **Open in browser（在浏览器中打开）**选项上时，该名称将显示在弹出窗口中。 ![将鼠标悬停在上方时显示的代码空间名称](/assets/images/2021/10/help/codespaces/find-codespace-name-github.png)
 
 代码空间的名称也包含在许多日志文件中。 例如，在代码空间日志中作为 `friendlyName` 的值，在 `发出 GET 请求`后的 {% data variables.product.prodname_github_codespaces %} 扩展日志中，以及在 `clientUrl` 之后的浏览器控制台日志中。 更多信息请参阅“[代码空间日志](/codespaces/troubleshooting/codespaces-logs)”。
 
@@ -31,4 +31,4 @@ shortTitle: 使用支持
 1. 在 {% data variables.product.prodname_vscode %}、浏览器或桌面中的左侧活动栏中，单击 **Remote Explorer（远程资源管理器）**以显示代码空间的详细信息。
 2. 如果侧边栏包含“Codespace Performance（代码空间性能）”部分，请将鼠标悬停在“Codespace ID（代码空间 ID）”上，然后单击剪贴板图标以复制 ID。
 3. 如果未显示信息，请单击活动栏左下角的 {% octicon "gear" aria-label="The gear icon" %} 以显示“Settings（设置）”选项卡。
-4. 展开 **Extensions（扩展）**，然后单击 **{% data variables.product.prodname_github_codespaces %}** 以显示扩展的设置。 然后启用 **Show Performance Explorer（显示性能资源管理器）**在边栏中显示“Codespace Performance（代码空间性能）”部分。 ![显示性能信息所需的代码空间 ID 和设置](/assets/images/help/codespaces/find-codespace-id.png)
+4. 展开 **Extensions（扩展）**，然后单击 **{% data variables.product.prodname_github_codespaces %}** 以显示扩展的设置。 然后启用 **Show Performance Explorer（显示性能资源管理器）**在边栏中显示“Codespace Performance（代码空间性能）”部分。 ![显示性能信息所需的代码空间 ID 和设置](/assets/images/2021/10/help/codespaces/find-codespace-id.png)

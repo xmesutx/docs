@@ -20,5 +20,5 @@ shortTitle: Inhabilitar los debates de equipo
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.teams_sidebar %}
-5. En "Debates de equipo", quita la marca de selección de **Habilitar debates de equipo para esta organización**. ![Casilla de verificación para inhabilitar debates de equipo para una organización](/assets/images/help/settings/enable-team-discussions-for-org-checkbox.png)
+5. En "Debates de equipo", quita la marca de selección de **Habilitar debates de equipo para esta organización**. ![Casilla de verificación para inhabilitar debates de equipo para una organización](/assets/images/2021/10/help/settings/enable-team-discussions-for-org-checkbox.png)
 6. Haz clic en **Save ** (guardar).

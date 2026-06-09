@@ -32,13 +32,13 @@ Si crees que se te debería dar crédito por alguna asesoría de seguridad, por 
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. En el listado de "Asesorías de Seguridad", da clic en aquella que quieras editar.
-5. En la esquina superior derecha de los detalles para la asesoría de seguridad, da clic en {% octicon "pencil" aria-label="The edit icon" %}. ![Botón de editar para una asesoría de seguridad](/assets/images/help/security/security-advisory-edit-button.png)
+5. En la esquina superior derecha de los detalles para la asesoría de seguridad, da clic en {% octicon "pencil" aria-label="The edit icon" %}. ![Botón de editar para una asesoría de seguridad](/assets/images/2021/10/help/security/security-advisory-edit-button.png)
 {% data reusables.repositories.security-advisory-edit-details %}
 {% data reusables.repositories.security-advisory-edit-severity %}
 {% data reusables.repositories.security-advisory-edit-cwe-cve %}
 {% data reusables.repositories.security-advisory-edit-description %}
-11. Opcionalmente, puedes editar los "Créditos" para la asesoría de seguridad. ![Créditos para una asesoría de seguridad](/assets/images/help/security/security-advisory-credits.png)
-12. Da clic en **Actualizar asesoría de seguridad**". ![Botón de "Actualizar asesoría de seguridad" button](/assets/images/help/security/update-advisory-button.png)
+11. Opcionalmente, puedes editar los "Créditos" para la asesoría de seguridad. ![Créditos para una asesoría de seguridad](/assets/images/2021/10/help/security/security-advisory-credits.png)
+12. Da clic en **Actualizar asesoría de seguridad**". ![Botón de "Actualizar asesoría de seguridad" button](/assets/images/2021/10/help/security/update-advisory-button.png)
 13. Las personas listadas en la sección de "Créditos" recibirán una notificación web o por correo electrónico que los invita a aceptar el crédito. Si la persona acepta, su nombre de usuario estará visible al público una vez que la asesoría de seguridad se publique.
 
 ## Leer más

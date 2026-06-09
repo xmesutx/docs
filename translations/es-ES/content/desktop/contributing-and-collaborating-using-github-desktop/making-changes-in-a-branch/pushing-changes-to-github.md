@@ -32,8 +32,8 @@ Si configuras a {% data variables.large_files.product_name_long %} para rastrear
 {% endnote %}
 
 {% data reusables.desktop.push-origin %}
-2. Si {% data variables.product.prodname_desktop %} te pide traer las confirmaciones nuevas de la rama remota, da clic en **Recuperar**. ![El botón de recuperar](/assets/images/help/desktop/fetch-newer-commits.png)
-3. Opcionalmente, da clic en **Crear Solicitud de Extracción** para abrir una solicitud de extracción y colaborar en tus cambios. Para obtener más información, consulta la sección "[Crear un informe de problemas o solicitud de extracción](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)" ![El botón de crear solicitud de extracción](/assets/images/help/desktop/create-pull-request.png)
+2. Si {% data variables.product.prodname_desktop %} te pide traer las confirmaciones nuevas de la rama remota, da clic en **Recuperar**. ![El botón de recuperar](/assets/images/2021/10/help/desktop/fetch-newer-commits.png)
+3. Opcionalmente, da clic en **Crear Solicitud de Extracción** para abrir una solicitud de extracción y colaborar en tus cambios. Para obtener más información, consulta la sección "[Crear un informe de problemas o solicitud de extracción](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)" ![El botón de crear solicitud de extracción](/assets/images/2021/10/help/desktop/create-pull-request.png)
 
 ## Leer más
 - "[Cargar](/github/getting-started-with-github/github-glossary/#push)" en el glosario de {% data variables.product.prodname_dotcom %}

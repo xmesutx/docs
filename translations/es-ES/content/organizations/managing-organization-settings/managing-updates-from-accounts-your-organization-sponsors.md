@@ -21,8 +21,8 @@ También puedes inhabilitar las actualizaciones de las cuentas que tu organizaci
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-1. Debajo de "correo electrónico de actualización de patrocinios (Privado)", teclea la dirección de correo electrónico de la cual deseas recibir actualizaciones sobre las cuentas que patrocina tu organización. ![Casilla de texto para ingresar una dirección de correo electrónico para recibir actualizaciones de las cuentas patrocinadas](/assets/images/help/sponsors/organization-update-email-textbox.png)
-1. Haz clic en **Update profile (Actualizar perfil)**. ![Botón Actualizar perfil](/assets/images/help/organizations/update-profile-button.png)
+1. Debajo de "correo electrónico de actualización de patrocinios (Privado)", teclea la dirección de correo electrónico de la cual deseas recibir actualizaciones sobre las cuentas que patrocina tu organización. ![Casilla de texto para ingresar una dirección de correo electrónico para recibir actualizaciones de las cuentas patrocinadas](/assets/images/2021/10/help/sponsors/organization-update-email-textbox.png)
+1. Haz clic en **Update profile (Actualizar perfil)**. ![Botón Actualizar perfil](/assets/images/2021/10/help/organizations/update-profile-button.png)
 
 ## Leer más
 

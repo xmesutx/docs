@@ -74,7 +74,7 @@ jobs:
 * `Should -Be $true` - 使用 Pester 定义预期结果。 如果结果是非预期的，则 {% data variables.product.prodname_actions %} 会将此标记为失败的测试。 例如：
 
 
-  ![失败的 Pester 测试](/assets/images/help/repository/actions-failed-pester-test-updated.png)
+  ![失败的 Pester 测试](/assets/images/2021/10/help/repository/actions-failed-pester-test-updated.png)
 
 
 * `Invoke-Pester Unit.Tests.ps1 -Passthru` - 使用 Pester 执行文件 `Unit.Tests.ps1` 中定义的测试。 例如，要执行上述相同的测试， `Unit.Tests.ps1` 将包含以下内容：

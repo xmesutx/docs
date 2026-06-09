@@ -39,19 +39,19 @@ To draft a new release and publish the action to {% data variables.product.prodn
 
 {% data reusables.repositories.navigate-to-repo %}
 1. When a repository contains an action metadata file (`action.yml` or `action.yaml`), you'll see a banner to publish the action to {% data variables.product.prodname_marketplace %}. Click **Draft a release**.
-![Publish this action to markeplace button](/assets/images/help/repository/publish-github-action-to-markeplace-button.png)
+![Publish this action to markeplace button](/assets/images/2021/10/help/repository/publish-github-action-to-markeplace-button.png)
 1. Select **Publish this action to the {% data variables.product.prodname_marketplace %}**. If you can't select the **Publish this action to the {% data variables.product.prodname_marketplace %}** checkbox, you'll need to read and accept the {% data variables.product.prodname_marketplace %} agreement first.
-![Select publish to Marketplace](/assets/images/help/repository/marketplace_actions_publish.png)
+![Select publish to Marketplace](/assets/images/2021/10/help/repository/marketplace_actions_publish.png)
 1. If the labels in your metadata file contain any problems, you will see an error message.
-![See notification](/assets/images/help/repository/marketplace_actions_fixerrors.png)
+![See notification](/assets/images/2021/10/help/repository/marketplace_actions_fixerrors.png)
 1. If you see any on-screen suggestions, address them by updating your metadata file. Once complete, you will see an "Everything looks good!" message.
-![Fix errors](/assets/images/help/repository/marketplace_actions_looksgood.png)
+![Fix errors](/assets/images/2021/10/help/repository/marketplace_actions_looksgood.png)
 1. Choose a "Primary Category" and, optionally, "Another Category" which will help people find your action in {% data variables.product.prodname_marketplace %}.
-![Choose category](/assets/images/help/repository/marketplace_actions_categories.png)
+![Choose category](/assets/images/2021/10/help/repository/marketplace_actions_categories.png)
 1. Tag your Action with a version, and add a release title. This helps people know what changes or features the release includes. People will see the version in the action's dedicated {% data variables.product.prodname_marketplace %} page.
-![Tag a version](/assets/images/help/repository/marketplace_actions_version.png)
+![Tag a version](/assets/images/2021/10/help/repository/marketplace_actions_version.png)
 1. Complete all other fields and click **Publish release**. Publishing requires you to use two-factor authentication. For more information, see "[Configuring two-factor authentication](/articles/configuring-two-factor-authentication/)."
-![Publish the release](/assets/images/help/repository/marketplace_actions_publishrelease.png)
+![Publish the release](/assets/images/2021/10/help/repository/marketplace_actions_publishrelease.png)
 
 ## Removing an action from {% data variables.product.prodname_marketplace %}
 
@@ -60,8 +60,8 @@ To remove a published action from {% data variables.product.prodname_marketplace
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
 3. On the Releases page, to the right of the release you want to edit, click **Edit**.
-![Release edit button](/assets/images/help/releases/release-edit-btn.png)
+![Release edit button](/assets/images/2021/10/help/releases/release-edit-btn.png)
 4. Select **Publish this action to the {% data variables.product.prodname_marketplace %}** to remove the check from the box.
-![Publish this action button](/assets/images/help/repository/actions-marketplace-unpublish.png)
+![Publish this action button](/assets/images/2021/10/help/repository/actions-marketplace-unpublish.png)
 5. Click **Update release** at the bottom of the page.
-![Update release button](/assets/images/help/repository/actions-marketplace-update-release.png)
+![Update release button](/assets/images/2021/10/help/repository/actions-marketplace-update-release.png)

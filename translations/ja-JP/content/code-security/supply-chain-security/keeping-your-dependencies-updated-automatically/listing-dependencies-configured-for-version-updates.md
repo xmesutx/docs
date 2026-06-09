@@ -28,11 +28,11 @@ shortTitle: 設定された依存関係の一覧
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.click-dependency-graph %}
 {% data reusables.dependabot.click-dependabot-tab %}
-1. 必要に応じて、パッケージマネージャーで監視されているファイルを表示するには、関連する {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックします。 ![監視対象の依存関係ファイル](/assets/images/help/dependabot/monitored-dependency-files.png)
+1. 必要に応じて、パッケージマネージャーで監視されているファイルを表示するには、関連する {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックします。 ![監視対象の依存関係ファイル](/assets/images/2021/10/help/dependabot/monitored-dependency-files.png)
 
 依存関係が見つからない場合は、ログファイルでエラーを確認します。 パッケージマネージャーが見つからない場合は、設定ファイルを確認してください。
 
 ## Viewing {% data variables.product.prodname_dependabot %} のログファイルを表示する
 
-1. [**{% data variables.product.prodname_dependabot %}**] タブで、[**Last checked *TIME* ago**] をクリックして、{% data variables.product.prodname_dependabot %} が最後のバージョン更新チェック時に生成したログファイルを表示します。 ![ログファイルの表示](/assets/images/help/dependabot/last-checked-link.png)
-2. 必要に応じて、バージョンチェックを再実行するには、[**Check for updates**] をクリックします。 ![更新の確認](/assets/images/help/dependabot/check-for-updates.png)
+1. [**{% data variables.product.prodname_dependabot %}**] タブで、[**Last checked *TIME* ago**] をクリックして、{% data variables.product.prodname_dependabot %} が最後のバージョン更新チェック時に生成したログファイルを表示します。 ![ログファイルの表示](/assets/images/2021/10/help/dependabot/last-checked-link.png)
+2. 必要に応じて、バージョンチェックを再実行するには、[**Check for updates**] をクリックします。 ![更新の確認](/assets/images/2021/10/help/dependabot/check-for-updates.png)

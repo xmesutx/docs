@@ -12,7 +12,7 @@ versions:
 
 GitHub Importerは、コミットやリビジョン履歴を含めてソースコードリポジトリを素早くインポートしてくれます。
 
-![リポジトリのインポートのgif](/assets/images/help/importer/github-importer.gif)
+![リポジトリのインポートのgif](/assets/images/2021/10/help/importer/github-importer.gif)
 
 インポートの間、インポート元のバージョン管理システムによって、リモートリポジトリでの認証、コミット作者の属性の更新、大きなファイルを持つリポジトリのインポート（あるいはGit Large File Storageを使いたくない場合は大きなファイルの削除）が行えます。
 

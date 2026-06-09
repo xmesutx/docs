@@ -72,4 +72,4 @@ topics:
 
 {% endnote %}
 
-<img src="/assets/images/enterprise/cluster/cluster-diagram.png" alt="クラスタの例" style="width: 800px;border:0" />
+<img src="/assets/images/2021/10/enterprise/cluster/cluster-diagram.png" alt="クラスタの例" style="width: 800px;border:0" />

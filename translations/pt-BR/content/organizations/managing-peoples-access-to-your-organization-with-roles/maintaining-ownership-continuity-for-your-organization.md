@@ -40,6 +40,6 @@ If your organization is owned by an enterprise account, any enterprise owner can
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Selecione a(s) pessoa(s) que deseja promover a proprietário. ![Lista de integrantes com dois integrantes selecionados](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. Acesse o menu suspenso que está acima da lista de integrantes e clique em **Change role** (Alterar função). ![Menu suspenso com opção de remover integrantes](/assets/images/help/teams/user-bulk-management-options.png)
-6. Selecione uma nova função para a(s) pessoa(s) e clique em **Change role** (Alterar função). ![Botões de opção com funções de proprietário e integrante e botão Change role (Alterar função)](/assets/images/help/teams/select-and-confirm-new-role-bulk.png)
+4. Selecione a(s) pessoa(s) que deseja promover a proprietário. ![Lista de integrantes com dois integrantes selecionados](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. Acesse o menu suspenso que está acima da lista de integrantes e clique em **Change role** (Alterar função). ![Menu suspenso com opção de remover integrantes](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. Selecione uma nova função para a(s) pessoa(s) e clique em **Change role** (Alterar função). ![Botões de opção com funções de proprietário e integrante e botão Change role (Alterar função)](/assets/images/2021/10/help/teams/select-and-confirm-new-role-bulk.png)

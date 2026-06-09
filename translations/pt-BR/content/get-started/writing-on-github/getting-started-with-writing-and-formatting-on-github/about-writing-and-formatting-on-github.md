@@ -29,11 +29,11 @@ Cada campo de comentário no {% data variables.product.product_name %} contém u
 
 Você pode habilitar uma fonte de largura fixa em cada campo de comentário em {% data variables.product.product_name %}. Cada caractere em uma largura fixa, ou em monoespaço, a fonte ocupa o mesmo espaço horizontal que pode facilitar a edição de estruturas avançadas de Markdown, como tabelas e trechos de código.
 
-![Captura de tela que mostra o campo comentário de {% data variables.product.product_name %} com as fontes de largura fixa habilitadas](/assets/images/help/writing/fixed-width-example.png)
+![Captura de tela que mostra o campo comentário de {% data variables.product.product_name %} com as fontes de largura fixa habilitadas](/assets/images/2022/01/help/writing/fixed-width-example.png)
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.appearance-settings %}
-1. Em "Preferência do editor Markdown, selecione **Usar uma fonte de largura fixa (monospace) ao editar o Markdown**. ![Captura de tela que mostra o campo comentário de {% data variables.product.product_name %} com as fontes de largura fixa habilitadas](/assets/images/help/writing/enable-fixed-width.png)
+1. Em "Preferência do editor Markdown, selecione **Usar uma fonte de largura fixa (monospace) ao editar o Markdown**. ![Captura de tela que mostra o campo comentário de {% data variables.product.product_name %} com as fontes de largura fixa habilitadas](/assets/images/2022/01/help/writing/enable-fixed-width.png)
 
 {% endif %}
 

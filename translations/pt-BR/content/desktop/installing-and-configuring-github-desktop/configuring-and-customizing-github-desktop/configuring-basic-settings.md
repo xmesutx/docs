@@ -12,7 +12,7 @@ shortTitle: Definir as configurações básicas
 {% mac %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
-3. Para visualizar ou alterar as suas configurações, alterne entre os painéis a seguir: ![Navegação no menu Preferences (Preferências)](/assets/images/help/desktop/mac-select-accounts-pane.png)
+3. Para visualizar ou alterar as suas configurações, alterne entre os painéis a seguir: ![Navegação no menu Preferences (Preferências)](/assets/images/2021/10/help/desktop/mac-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endmac %}
@@ -20,7 +20,7 @@ shortTitle: Definir as configurações básicas
 {% windows %}
 
 {% data reusables.desktop.windows-choose-options %}
-2. Para visualizar ou alterar as suas configurações, alterne entre os painéis a seguir: ![Navegação no menu Options (Opções)](/assets/images/help/desktop/windows-select-accounts-pane.png)
+2. Para visualizar ou alterar as suas configurações, alterne entre os painéis a seguir: ![Navegação no menu Options (Opções)](/assets/images/2021/10/help/desktop/windows-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endwindows %}

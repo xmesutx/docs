@@ -15,11 +15,11 @@ versions:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.saved_replies %}
 3. Under "Saved replies", next to the saved reply you want to edit, click {% octicon "pencil" aria-label="The pencil" %}.  
-![Edit a saved reply](/assets/images/help/settings/saved-replies-edit-existing.png)
+![Edit a saved reply](/assets/images/2021/10/help/settings/saved-replies-edit-existing.png)
 4. Under "Edit saved reply", you can edit the title and the content of the saved reply.
-![Edit title and content](/assets/images/help/settings/saved-replies-edit-existing-content.png)
+![Edit title and content](/assets/images/2021/10/help/settings/saved-replies-edit-existing-content.png)
 5. Click **Update saved reply**.
-![Update saved reply](/assets/images/help/settings/saved-replies-save-edit.png)
+![Update saved reply](/assets/images/2021/10/help/settings/saved-replies-save-edit.png)
 
 ## Further reading
 

@@ -45,9 +45,9 @@ After your request for an educator or researcher discount has been approved, you
 
 {% data reusables.education.upgrade-page %}
 1. Click {% octicon "plus" aria-label="The plus symbol" %} **Create an organization**.
-  ![Create an organization button](/assets/images/help/education/create-org-button.png)
+  ![Create an organization button](/assets/images/2021/10/help/education/create-org-button.png)
 3. Read the information, then click **Create organization**.
-  ![Create organization button](/assets/images/help/education/create-organization-button.png)
+  ![Create organization button](/assets/images/2021/10/help/education/create-organization-button.png)
 4. Under "Choose your plan", click **Choose {% data variables.product.prodname_free_team %}**.
 5. Follow the prompts to create your organization.
 {% data reusables.education.upgrade-page %}

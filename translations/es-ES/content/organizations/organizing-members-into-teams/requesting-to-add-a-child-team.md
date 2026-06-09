@@ -24,12 +24,12 @@ Si eres propietario de una organización o tienes permisos de mantenedor del equ
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. En la lista de equipos, haz clic en el nombre del equipo al que quieres agregar el equipo hijo. ![Lista de los equipos de la organización](/assets/images/help/teams/click-team-name.png)
-5. En la parte superior de la página del equipo, haz clic en {% octicon "people" aria-label="The people icon" %} **Teams** (Equipos). ![Pestaña de equipos en la página de un equipo](/assets/images/help/teams/team-teams-tab.png)
-6. Haz clic en **Add a team** (Agregar un equipo). ![Botón Add a team (Agregar un equipo) en una página de equipo](/assets/images/help/teams/add-a-team.png)
-7. Escribe el nombre del equipo que quieres agregar como equipo hijo y selecciónalo desde la lista desplegable. ![Recuadro para escribir y menú desplegable para seleccionar el nombre del equipo hijo](/assets/images/help/teams/type-child-team-name.png)
+4. En la lista de equipos, haz clic en el nombre del equipo al que quieres agregar el equipo hijo. ![Lista de los equipos de la organización](/assets/images/2021/10/help/teams/click-team-name.png)
+5. En la parte superior de la página del equipo, haz clic en {% octicon "people" aria-label="The people icon" %} **Teams** (Equipos). ![Pestaña de equipos en la página de un equipo](/assets/images/2021/10/help/teams/team-teams-tab.png)
+6. Haz clic en **Add a team** (Agregar un equipo). ![Botón Add a team (Agregar un equipo) en una página de equipo](/assets/images/2021/10/help/teams/add-a-team.png)
+7. Escribe el nombre del equipo que quieres agregar como equipo hijo y selecciónalo desde la lista desplegable. ![Recuadro para escribir y menú desplegable para seleccionar el nombre del equipo hijo](/assets/images/2021/10/help/teams/type-child-team-name.png)
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. Haz clic en **Confirm changes** (Confirmar cambios) para enviar una solicitud para agregar al equipo hijo. ![Casilla modal para información acerca de los cambios en los permisos de acceso del repositorio](/assets/images/help/teams/confirm-new-parent-team.png)
+9. Haz clic en **Confirm changes** (Confirmar cambios) para enviar una solicitud para agregar al equipo hijo. ![Casilla modal para información acerca de los cambios en los permisos de acceso del repositorio](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## Leer más
 

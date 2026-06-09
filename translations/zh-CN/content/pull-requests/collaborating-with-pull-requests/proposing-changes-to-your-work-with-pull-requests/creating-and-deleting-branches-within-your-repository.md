@@ -20,9 +20,9 @@ shortTitle: 创建和删除分支
 
 {% data reusables.repositories.navigate-to-repo %}
 
-1. （可选）如果要从仓库的默认分支以外的分支创建新分支，请单击 {% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> 分支**，然后选择另一个分支： ![概述页面上的分支链接](/assets/images/help/branches/branches-link.png)
-1. 单击分支选择器菜单。 ![分支选择器菜单](/assets/images/help/branch/branch-selection-dropdown.png)
-1. 为新分支键入唯一名称，然后选择 **Create branch（创建分支）**。 ![分支创建文本框](/assets/images/help/branch/branch-creation-text-box.png)
+1. （可选）如果要从仓库的默认分支以外的分支创建新分支，请单击 {% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> 分支**，然后选择另一个分支： ![概述页面上的分支链接](/assets/images/2021/10/help/branches/branches-link.png)
+1. 单击分支选择器菜单。 ![分支选择器菜单](/assets/images/2021/10/help/branch/branch-selection-dropdown.png)
+1. 为新分支键入唯一名称，然后选择 **Create branch（创建分支）**。 ![分支创建文本框](/assets/images/2021/10/help/branch/branch-creation-text-box.png)
 
 ## 删除分支
 
@@ -38,7 +38,7 @@ shortTitle: 创建和删除分支
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-branches %}
-1. 滚动到要删除的分支，然后单击 {% octicon "trash" aria-label="The trash icon to delete the branch" %}。 ![删除分支](/assets/images/help/branches/branches-delete.png)
+1. 滚动到要删除的分支，然后单击 {% octicon "trash" aria-label="The trash icon to delete the branch" %}。 ![删除分支](/assets/images/2021/10/help/branches/branches-delete.png)
 
 {% data reusables.pull_requests.retargeted-on-branch-deletion %}
 更多信息请参阅“[关于分支](/github/collaborating-with-issues-and-pull-requests/about-branches#working-with-branches)”。

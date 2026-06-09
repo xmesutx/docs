@@ -48,11 +48,11 @@ You can also convert your personal user account directly into an organization. C
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.organizations %}
 5. Under "Transform account", click **Turn <username> into an organization**.
- 	![Organization conversion button](/assets/images/help/settings/convert-to-organization.png)
+ 	![Organization conversion button](/assets/images/2021/10/help/settings/convert-to-organization.png)
 6. In the Account Transformation Warning dialog box, review and confirm the conversion. Note that the information in this box is the same as the warning at the top of this article.
- 	![Conversion warning](/assets/images/help/organizations/organization-account-transformation-warning.png)
+ 	![Conversion warning](/assets/images/2021/10/help/organizations/organization-account-transformation-warning.png)
 7. On the "Transform your user into an organization" page, under "Choose an organization owner", choose either the secondary personal account you created in the previous section or another user you trust to manage the organization.
- 	![Add organization owner page](/assets/images/help/organizations/organization-add-owner.png)
+ 	![Add organization owner page](/assets/images/2021/10/help/organizations/organization-add-owner.png)
 8. Choose your new organization's subscription and enter your billing information if prompted.
 9. Click **Create Organization**.
 10. Sign in to the new user account you created in step one, then use the context switcher to access your new organization.

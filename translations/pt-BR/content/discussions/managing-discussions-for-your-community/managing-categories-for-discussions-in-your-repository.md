@@ -32,9 +32,9 @@ Cada categoria deve ter um nome e um pareamento de emojis únicos e pode ser aco
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.edit-categories %}
-1. Clique em **Nova Categoria**. ![Botão "Nova categoria" acima da lista de categorias de discussão para um repositório](/assets/images/help/discussions/click-new-category-button.png)
-1. Edite o emoji, título, descrição e formato de discussão para a categoria. Para obter mais informações sobre formatos de discussão, consulte "[Sobre discussões](/discussions/collaborating-with-your-community-using-discussions/about-discussions#about-categories-and-formats-for-discussions)". ![Emoji, título, descrição e formato de discussão para a nova categoria](/assets/images/help/discussions/edit-category-details.png)
-1. Clique em **Criar**. ![Botão "Criar" para uma nova categoria](/assets/images/help/discussions/new-category-click-create-button.png)
+1. Clique em **Nova Categoria**. ![Botão "Nova categoria" acima da lista de categorias de discussão para um repositório](/assets/images/2021/10/help/discussions/click-new-category-button.png)
+1. Edite o emoji, título, descrição e formato de discussão para a categoria. Para obter mais informações sobre formatos de discussão, consulte "[Sobre discussões](/discussions/collaborating-with-your-community-using-discussions/about-discussions#about-categories-and-formats-for-discussions)". ![Emoji, título, descrição e formato de discussão para a nova categoria](/assets/images/2021/10/help/discussions/edit-category-details.png)
+1. Clique em **Criar**. ![Botão "Criar" para uma nova categoria](/assets/images/2021/10/help/discussions/new-category-click-create-button.png)
 
 ## Editar uma categoria
 
@@ -42,9 +42,9 @@ Você pode editar uma categoria para alterar o emoji, título, descrição e for
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. À direita de uma categoria na lista, clique em {% octicon "pencil" aria-label="The pencil icon" %}. ![Botão de editar à direita da categoria na lista de categorias para um repositório](/assets/images/help/discussions/click-edit-for-category.png)
-1. {% data reusables.discussions.edit-category-details %}![Editar emoji, título, descrição e formato de discussão para uma categoria existente](/assets/images/help/discussions/edit-existing-category-details.png)
-1. Clique em **Save changes** (Salvar alterações). ![Botão "Salvar as alterações" para a categoria existente](/assets/images/help/discussions/existing-category-click-save-changes-button.png)
+1. À direita de uma categoria na lista, clique em {% octicon "pencil" aria-label="The pencil icon" %}. ![Botão de editar à direita da categoria na lista de categorias para um repositório](/assets/images/2021/10/help/discussions/click-edit-for-category.png)
+1. {% data reusables.discussions.edit-category-details %}![Editar emoji, título, descrição e formato de discussão para uma categoria existente](/assets/images/2021/10/help/discussions/edit-existing-category-details.png)
+1. Clique em **Save changes** (Salvar alterações). ![Botão "Salvar as alterações" para a categoria existente](/assets/images/2021/10/help/discussions/existing-category-click-save-changes-button.png)
 
 ## Excluir uma categoria
 
@@ -52,6 +52,6 @@ Ao você excluir uma categoria, {% data variables.product.product_name %} mover�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. À direita de uma categoria na lista, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Botão de lixeira à direita da categoria na lista de categorias para um repositório](/assets/images/help/discussions/click-delete-for-category.png)
-1. Use o menu suspenso e escolha uma nova categoria para qualquer discussão na categoria que você está excluindo. ![Menu suspenso para escolher nova categoria ao excluir uma categoria existente](/assets/images/help/discussions/choose-new-category.png)
-1. Clique em **Excluir & Mover**. ![Menu suspenso para escolher nova categoria ao excluir uma categoria existente](/assets/images/help/discussions/click-delete-and-move-button.png)
+1. À direita de uma categoria na lista, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Botão de lixeira à direita da categoria na lista de categorias para um repositório](/assets/images/2021/10/help/discussions/click-delete-for-category.png)
+1. Use o menu suspenso e escolha uma nova categoria para qualquer discussão na categoria que você está excluindo. ![Menu suspenso para escolher nova categoria ao excluir uma categoria existente](/assets/images/2021/10/help/discussions/choose-new-category.png)
+1. Clique em **Excluir & Mover**. ![Menu suspenso para escolher nova categoria ao excluir uma categoria existente](/assets/images/2021/10/help/discussions/click-delete-and-move-button.png)

@@ -22,14 +22,14 @@ Para oferecer planos pagos para o seu aplicativo, este deverá pertencer a uma o
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-1. Na barra lateral esquerda, clique em **Developer settings** (Configurações do desenvolvedor). ![Opção de configurações do desenvolvedor na barra lateral de configurações da organização](/assets/images/marketplace/developer-settings-in-org-settings.png)
-1. Em "Configurações de desenvolvedor", clique em **Verificação do publicador**. ![Opção de verificação do editor na barra lateral de configurações da organização](/assets/images/marketplace/publisher-verification-settings-option.png)
+1. Na barra lateral esquerda, clique em **Developer settings** (Configurações do desenvolvedor). ![Opção de configurações do desenvolvedor na barra lateral de configurações da organização](/assets/images/2021/10/marketplace/developer-settings-in-org-settings.png)
+1. Em "Configurações de desenvolvedor", clique em **Verificação do publicador**. ![Opção de verificação do editor na barra lateral de configurações da organização](/assets/images/2021/10/marketplace/publisher-verification-settings-option.png)
 1. Em "Verificação do Publicador, preencha as informações na lista de verificação:
    - Certifique-se de que as suas informações básicas do perfil estejam presentes e precisas. Além disso, certifique-se de incluir o melhor endereço de e-mail para suporte e atualizações de {% data variables.product.company_short %}.
    - Certifique-se de que a autenticação de dois fatores esteja habilitada para a sua organização. Para obter mais informações, consulte "[Exigir autenticação de dois fatores em sua organização](/organizations/keeping-your-organization-secure/requiring-two-factor-authentication-in-your-organization)".
    - Envie um domínio verificado e certifique-se de que um selo "Verificado" seja exibido na página de perfil da sua organização. Para informações relacionadas, consulte "[verificar ou aprovar um domínio para sua organização](/organizations/managing-organization-settings/verifying-or-approving-a-domain-for-your-organization)".
 
-  ![Lista de verificação do publicador](/assets/images/marketplace/publisher-verification-checklist.png)
+  ![Lista de verificação do publicador](/assets/images/2021/10/marketplace/publisher-verification-checklist.png)
 
 2. Clique **Solicitar verificação**. {% data variables.product.company_short %} analisará as suas informações e informará assim que a verificação de publicação for concluída.
 

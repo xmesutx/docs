@@ -32,10 +32,10 @@ Apesar de as bifurcações de repositórios privados serem excluídas quando um 
 {% data reusables.repositories.sidebar-settings %}
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 {% data reusables.repositories.click-collaborators-teams %}
-4. À direita do colaborador que deseja remover, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Botão para remover o colaborador](/assets/images/help/repository/collaborator-remove.png)
+4. À direita do colaborador que deseja remover, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Botão para remover o colaborador](/assets/images/2021/10/help/repository/collaborator-remove.png)
 {% else %}
-3. Na barra lateral esquerda, clique em **Collaborators & teams** (Colaboradores e equipes). ![Guia Collaborators (Colaboradores)](/assets/images/help/repository/repo-settings-collaborators.png)
-4. Clique no ícone de **X** ao lado do colaborador que deseja remover. ![Link de remoção](/assets/images/help/organizations/Collaborator-Remove.png)
+3. Na barra lateral esquerda, clique em **Collaborators & teams** (Colaboradores e equipes). ![Guia Collaborators (Colaboradores)](/assets/images/2021/10/help/repository/repo-settings-collaborators.png)
+4. Clique no ícone de **X** ao lado do colaborador que deseja remover. ![Link de remoção](/assets/images/2021/10/help/organizations/Collaborator-Remove.png)
 {% endif %}
 
 ## Leia mais

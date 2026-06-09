@@ -33,7 +33,7 @@ Você pode revisar as alterações em um arquivo de pull request por vez. Ao rev
 
    Você pode alterar o formato da visualização do diff nesta aba clicando em {% octicon "gear" aria-label="The Settings gear" %} e escolhendo a exibição unificada ou dividida. A escolha que você fizer será aplicada quando você visualizar o diff para outros pull requests.
 
-   ![Configurações de exibição do diff](/assets/images/help/pull_requests/diff-view-settings.png)
+   ![Configurações de exibição do diff](/assets/images/2021/11/help/pull_requests/diff-view-settings.png)
 
    Você também pode optar por ocultar as diferenças nos espaços em branco. A escolha que você fizer só se aplica a este pull request e será lembrada na próxima vez que você acessar esta página.
 {% endif %}
@@ -43,11 +43,11 @@ Você pode revisar as alterações em um arquivo de pull request por vez. Ao rev
 {% data reusables.repositories.suggest-changes %}
 1. Quando terminar, clique em **Start a review** (Iniciar uma revisão). Se você já iniciou uma revisão, poderá clicar em **Add review comment** (Adicionar comentários à revisão).
 
-   ![Botão Start a review (Iniciar uma revisão)](/assets/images/help/pull_requests/start-a-review-button.png)
+   ![Botão Start a review (Iniciar uma revisão)](/assets/images/2021/10/help/pull_requests/start-a-review-button.png)
 
 Antes de enviar a revisão, os comentários em linha ficam com status _pendente_ e somente você pode visualizá-los. Você pode editar editar os comentários pendentes a qualquer momento antes de enviar a revisão. Para cancelar uma revisão pendente, incluindo todos os comentários pendentes, role para baixo até o final da linha do tempo na guia Conversation (Conversa) e clique em **Cancel review** (Cancelar revisão).
 
-![Botão Cancel review (Cancelar revisão)](/assets/images/help/pull_requests/cancel-review-button.png)
+![Botão Cancel review (Cancelar revisão)](/assets/images/2021/10/help/pull_requests/cancel-review-button.png)
 {% endwebui %}
 
 {% ifversion fpt or ghec %}
@@ -74,7 +74,7 @@ Se o pull request contiver alterações em dependências, você poderá usar a r
 
 1. À direita do cabeçalho de um manifesto ou arquivo de bloqueio, exiba a revisão de dependências clicando no botão de diff avançado**{% octicon "file" aria-label="The rich diff icon" %}**.
 
-   ![Botão de diff avançado](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![Botão de diff avançado](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 {% data reusables.repositories.return-to-source-diff %}
 {% endif %}
@@ -86,7 +86,7 @@ Quando terminar de revisar um arquivo, você pode marcar o arquivo como visualiz
 {% data reusables.repositories.changed-files %}
 2. À direta do cabeçalho do arquivo revisado, selecione **Viewed** (Visualizado).
 
-   ![Caixa de seleção visualizado](/assets/images/help/pull_requests/viewed-checkbox.png)
+   ![Caixa de seleção visualizado](/assets/images/2021/10/help/pull_requests/viewed-checkbox.png)
 
 ## Enviar a revisão
 
@@ -97,7 +97,7 @@ Quando terminar de revisar os arquivos que deseja incluir na pull request, envie
 {% data reusables.repositories.review-summary-comment %}
 4. Selecione como deseja marcar a revisão:
 
-   ![Botões de opção com opções de revisão](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+   ![Botões de opção com opções de revisão](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
     - Selecione **Comment** (Comentar) para incluir um feedback geral sem aprovar explicitamente as alterações nem solicitar alterações adicionais.
     - Selecione **Approve** (Aprovar) para enviar um feedback e aprovar o merge das alterações propostas na pull request.

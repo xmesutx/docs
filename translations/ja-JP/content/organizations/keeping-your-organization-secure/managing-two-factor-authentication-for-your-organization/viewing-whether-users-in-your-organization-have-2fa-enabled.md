@@ -24,9 +24,9 @@ shortTitle: 2FAの利用状況の表示
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Organization のオーナー含め、2 要素認証を有効または無効にした Organization メンバーを表示するには、[**2FA**] をクリックして、[**Enabled**] または [**Disabled**] を選択します。 ![filter-org-members-by-2fa](/assets/images/help/2fa/filter-org-members-by-2fa.png)
-5. Organization の外部コラボレーターを表示するには、[People] タブの下の [**Outside collaborators**] をクリックします。 ![select-outside-collaborators](/assets/images/help/organizations/select-outside-collaborators.png)
-6. どの外部コラボレーターが 2 要素認証を有効または無効にしているかを確認するには、右側の [**2FA**] をクリックして、[**Enabled**] または [**Disabled**] を選択します。 ![filter-outside-collaborators-by-2fa](/assets/images/help/2fa/filter-outside-collaborators-by-2fa.png)
+4. Organization のオーナー含め、2 要素認証を有効または無効にした Organization メンバーを表示するには、[**2FA**] をクリックして、[**Enabled**] または [**Disabled**] を選択します。 ![filter-org-members-by-2fa](/assets/images/2021/10/help/2fa/filter-org-members-by-2fa.png)
+5. Organization の外部コラボレーターを表示するには、[People] タブの下の [**Outside collaborators**] をクリックします。 ![select-outside-collaborators](/assets/images/2021/10/help/organizations/select-outside-collaborators.png)
+6. どの外部コラボレーターが 2 要素認証を有効または無効にしているかを確認するには、右側の [**2FA**] をクリックして、[**Enabled**] または [**Disabled**] を選択します。 ![filter-outside-collaborators-by-2fa](/assets/images/2021/10/help/2fa/filter-outside-collaborators-by-2fa.png)
 
 ## 参考リンク
 

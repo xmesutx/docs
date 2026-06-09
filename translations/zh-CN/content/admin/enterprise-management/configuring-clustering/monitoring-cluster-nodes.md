@@ -120,4 +120,4 @@ admin@ghe-data-node-0:~$ <em>ghe-cluster-status | grep error</em>
 
 将定义添加到 Nagios 后，将根据您的配置执行服务检查。 您应该能够在 Nagios Web 界面中看到新配置的服务。
 
-![Nagios 示例](/assets/images/enterprise/cluster/nagios-example.png)
+![Nagios 示例](/assets/images/2021/10/enterprise/cluster/nagios-example.png)

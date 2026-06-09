@@ -39,41 +39,41 @@ shortTitle: 管理版本
 {% data reusables.repositories.releases %}
 3. 单击 **Draft a new release（草拟新发行版）**。
 
-   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}![Releases draft button](/assets/images/help/releases/draft-release-button-with-search.png){% else %}![Releases draft button](/assets/images/help/releases/draft_release_button.png){% endif %}
+   {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}![Releases draft button](/assets/images/2021/10/help/releases/draft-release-button-with-search.png){% else %}![Releases draft button](/assets/images/2021/10/help/releases/draft_release_button.png){% endif %}
 4. {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}单击 **Choose a tag（选择标记）**，键入{% else %}类型{% endif %} 版本号{% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}，然后按 **Enter**{% endif %}。 Alternatively, select an existing tag.
 
-   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Enter a tag](/assets/images/help/releases/releases-tag-create.png)
+   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![Enter a tag](/assets/images/2021/10/help/releases/releases-tag-create.png)
 5. If you are creating a new tag, click **Create new tag**.
 
-   ![Confirm you want to create a new tag](/assets/images/help/releases/releases-tag-create-confirm.png)
+   ![Confirm you want to create a new tag](/assets/images/2021/10/help/releases/releases-tag-create-confirm.png)
    {% else %}
-   ![发行版标记版本](/assets/images/enterprise/releases/releases-tag-version.png)
+   ![发行版标记版本](/assets/images/2021/10/enterprise/releases/releases-tag-version.png)
 {% endif %}
 5. If you have created a new tag, use the drop-down menu to select the branch that contains the project you want to release.
 
-   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![选择分支](/assets/images/help/releases/releases-choose-branch.png)
-   {% else %}![Releases tagged branch](/assets/images/enterprise/releases/releases-tag-branch.png){% endif %}
+   {% ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4865 %}![选择分支](/assets/images/2021/10/help/releases/releases-choose-branch.png)
+   {% else %}![Releases tagged branch](/assets/images/2021/10/enterprise/releases/releases-tag-branch.png){% endif %}
 6. 键入发行版的标题和说明。
    {%- ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %}
    如果您在描述中@提及任何 {% data variables.product.product_name %} 用户，则已发布的版本将包含**贡献者**部分，其中包含所有提及用户的头像列表。
    {%- endif %}
    {% ifversion fpt or ghec %} 或者，您可以通过单击 **Auto-generate release notes（自动生成发行说明）**来自动生成发行说明。
    {% endif %}
-   ![发行版说明](/assets/images/help/releases/releases_description_auto.png)
-7. （可选）要在发行版中包含二进制文件（例如已编译的程序），请在二进制文件框中拖放或手动选择文件。 ![通过发行版提供 DMG](/assets/images/help/releases/releases_adding_binary.gif)
-8. 要通知用户发行版本尚不可用于生产，可能不稳定，请选择 **This is a pre-release（这是预发布）**。 ![将版本标记为预发行版的复选框](/assets/images/help/releases/prerelease_checkbox.png)
+   ![发行版说明](/assets/images/2021/10/help/releases/releases_description_auto.png)
+7. （可选）要在发行版中包含二进制文件（例如已编译的程序），请在二进制文件框中拖放或手动选择文件。 ![通过发行版提供 DMG](/assets/images/2021/10/help/releases/releases_adding_binary.gif)
+8. 要通知用户发行版本尚不可用于生产，可能不稳定，请选择 **This is a pre-release（这是预发布）**。 ![将版本标记为预发行版的复选框](/assets/images/2021/10/help/releases/prerelease_checkbox.png)
 {%- ifversion fpt or ghec %}
-1. （可选）如果在存储库中启用了 {% data variables.product.prodname_discussions %}，选择 **Create a discussion for this release（为此版本创建讨论）**，然后选择 **Category（类别）**下拉菜单，然后点击类别进行版本讨论。 ![用于创建发行版讨论和下拉菜单以选择类别的复选框](/assets/images/help/releases/create-release-discussion.png)
+1. （可选）如果在存储库中启用了 {% data variables.product.prodname_discussions %}，选择 **Create a discussion for this release（为此版本创建讨论）**，然后选择 **Category（类别）**下拉菜单，然后点击类别进行版本讨论。 ![用于创建发行版讨论和下拉菜单以选择类别的复选框](/assets/images/2021/10/help/releases/create-release-discussion.png)
 {%- endif %}
-9. 如果您准备推广您的发行版，请单击 **Publish release（发布版本）**。 要在以后处理该发行版，请单击 **Save draft（保存草稿）**。 ![发布版本和草拟发行版按钮](/assets/images/help/releases/release_buttons.png)
+9. 如果您准备推广您的发行版，请单击 **Publish release（发布版本）**。 要在以后处理该发行版，请单击 **Save draft（保存草稿）**。 ![发布版本和草拟发行版按钮](/assets/images/2021/10/help/releases/release_buttons.png)
 
    {%- ifversion fpt or ghec or ghes > 3.2 or ghae-issue-4972 or ghae-issue-4974 %}
    然后，您可以在存储库的版本源中查看已发行版或草稿版本。 更多信息请参阅“[查看仓库的版本和标签](/github/administering-a-repository/releasing-projects-on-github/viewing-your-repositorys-releases-and-tags)”。
 
    {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-   ![@提及贡献者的已发布版本](/assets/images/help/releases/refreshed-releases-overview-with-contributors.png)
+   ![@提及贡献者的已发布版本](/assets/images/2021/10/help/releases/refreshed-releases-overview-with-contributors.png)
    {% else %}
-   ![@提及贡献者的已发布版本](/assets/images/help/releases/releases-overview-with-contributors.png)
+   ![@提及贡献者的已发布版本](/assets/images/2021/10/help/releases/releases-overview-with-contributors.png)
    {% endif %}
    {%- endif %}
 
@@ -107,11 +107,11 @@ shortTitle: 管理版本
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-3. 在页面右侧要编辑的发行版旁边，单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![编辑发行版](/assets/images/help/releases/edit-release-pencil.png)
+3. 在页面右侧要编辑的发行版旁边，单击 {% octicon "pencil" aria-label="The edit icon" %}。 ![编辑发行版](/assets/images/2021/10/help/releases/edit-release-pencil.png)
 {% else %}
-3. 在页面右侧要编辑的发行版旁边，单击 **Edit release（编辑发行版）**。 ![编辑发行版](/assets/images/help/releases/edit-release.png)
+3. 在页面右侧要编辑的发行版旁边，单击 **Edit release（编辑发行版）**。 ![编辑发行版](/assets/images/2021/10/help/releases/edit-release.png)
 {% endif %}
-4. 在表单中编辑版本的详细信息，然后单击 **Update release（更新版本）**。{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %} 如果您在描述中添加或删除 GitHub 用户的任何@提及，则会在版本的**贡献者**部分的头像列表中添加或删除这些用户。{% endif %} ![更新发行版](/assets/images/help/releases/update-release.png)
+4. 在表单中编辑版本的详细信息，然后单击 **Update release（更新版本）**。{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4972 %} 如果您在描述中添加或删除 GitHub 用户的任何@提及，则会在版本的**贡献者**部分的头像列表中添加或删除这些用户。{% endif %} ![更新发行版](/assets/images/2021/10/help/releases/update-release.png)
 
 {% endwebui %}
 
@@ -128,12 +128,12 @@ shortTitle: 管理版本
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
-3. 在页面右侧要删除的发行版旁边，单击 {% octicon "trash" aria-label="The trash icon" %}。 ![删除发行版](/assets/images/help/releases/delete-release-trash.png)
+3. 在页面右侧要删除的发行版旁边，单击 {% octicon "trash" aria-label="The trash icon" %}。 ![删除发行版](/assets/images/2021/10/help/releases/delete-release-trash.png)
 {% else %}
-3. 单击要删除的发行版的名称。 ![用于查看发行版的链接](/assets/images/help/releases/release-name-link.png)
-4. 在页面右上角，单击 **Delete（删除）**。 ![删除发行版按钮](/assets/images/help/releases/delete-release.png)
+3. 单击要删除的发行版的名称。 ![用于查看发行版的链接](/assets/images/2021/10/help/releases/release-name-link.png)
+4. 在页面右上角，单击 **Delete（删除）**。 ![删除发行版按钮](/assets/images/2021/10/help/releases/delete-release.png)
 {% endif %}
-5. 单击 **Delete this release（删除此发行版）**。 ![确认删除发行版](/assets/images/help/releases/confirm-delete-release.png)
+5. 单击 **Delete this release（删除此发行版）**。 ![确认删除发行版](/assets/images/2021/10/help/releases/confirm-delete-release.png)
 
 {% endwebui %}
 

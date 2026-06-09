@@ -84,14 +84,14 @@ The next steps will use Insomnia.
 
 2. To authenticate, open the authentication options menu and select **Bearer token**. Next, add your personal access token that you copied earlier.
 
- ![Permissions options for personal access token](/assets/images/developer/graphql/insomnia-base-url-and-pat.png)
+ ![Permissions options for personal access token](/assets/images/2021/10/developer/graphql/insomnia-base-url-and-pat.png)
 
- ![Permissions options for personal access token](/assets/images/developer/graphql/insomnia-bearer-token-option.png)
+ ![Permissions options for personal access token](/assets/images/2021/10/developer/graphql/insomnia-bearer-token-option.png)
 
 3. Include header information.
    - Add `Content-Type` as the header and `application/json` as the value.
-   ![Standard header](/assets/images/developer/graphql/json-content-type-header.png)
-   ![Header with preview value for the Audit Log API](/assets/images/developer/graphql/preview-header-for-2.18.png)
+   ![Standard header](/assets/images/2021/10/developer/graphql/json-content-type-header.png)
+   ![Header with preview value for the Audit Log API](/assets/images/2021/10/developer/graphql/preview-header-for-2.18.png)
 
 Now you are ready to start making queries.
 

@@ -20,5 +20,5 @@ shortTitle: 阻止帐户创建
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. 取消选中 **Enable sign-up**。 ![启用注册复选框](/assets/images/enterprise/management-console/enable-sign-up.png)
+3. 取消选中 **Enable sign-up**。 ![启用注册复选框](/assets/images/2021/10/enterprise/management-console/enable-sign-up.png)
 {% data reusables.enterprise_management_console.save-settings %}

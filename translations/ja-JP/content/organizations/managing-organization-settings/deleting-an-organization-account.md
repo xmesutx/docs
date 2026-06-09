@@ -40,4 +40,4 @@ shortTitle: Organizationの削除
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-4. Organization の設定ページの下の方にある [**Delete this Organization**] をクリックします。 ![[Delete this organization] ボタン](/assets/images/help/settings/settings-organization-delete.png)
+4. Organization の設定ページの下の方にある [**Delete this Organization**] をクリックします。 ![[Delete this organization] ボタン](/assets/images/2021/10/help/settings/settings-organization-delete.png)

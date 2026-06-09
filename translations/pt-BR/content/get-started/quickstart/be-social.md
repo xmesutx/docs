@@ -28,7 +28,7 @@ Quando você segue alguém no {% data variables.product.prodname_dotcom %}, as n
 
 Clique em **Follow** (Seguir) na página do perfil de uma pessoa para segui-la.
 
-![Botão Follow user (Seguir usuário)](/assets/images/help/profile/follow-user-button.png)
+![Botão Follow user (Seguir usuário)](/assets/images/2021/10/help/profile/follow-user-button.png)
 
 ## Inspecionar um repositório
 
@@ -36,7 +36,7 @@ Você pode inspecionar um repositório para receber notificações de novos prob
 
 Clique em **Watch** (Inspecionar) no topo de um repositório para inspecioná-lo.
 
-![Botão Watch repository (Inspecionar repositório)](/assets/images/help/repository/repo-actions-watch.png)
+![Botão Watch repository (Inspecionar repositório)](/assets/images/2021/10/help/repository/repo-actions-watch.png)
 
 ## Ingressar na conversa
 
@@ -52,19 +52,19 @@ Clique em **Watch** (Inspecionar) no topo de um repositório para inspecioná-lo
 
  Talvez você queira contribuir com o o projeto de outra pessoa, seja adicionando recursos, seja corrigindo erros. Após fazer as alterações, informe o autor original enviando uma pull request. Para obter mais informações, consulte "[Sobre pull requests](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
 
- ![Botão Pull request](/assets/images/help/repository/repo-actions-pullrequest.png)
+ ![Botão Pull request](/assets/images/2021/10/help/repository/repo-actions-pullrequest.png)
 
 ### Usar problemas
 
 Ao colaborar em um repositório, use problemas para rastrear ideias, aprimoramentos, tarefas ou erros. Para obter mais informações, consulte "[Sobre problemas](/articles/about-issues/)".
 
-![Botão Issues (Problemas)](/assets/images/help/repository/repo-tabs-issues.png)
+![Botão Issues (Problemas)](/assets/images/2021/10/help/repository/repo-tabs-issues.png)
 
 ### Participar em organizações
 
 As organizações são contas compartilhadas onde empresas e projetos de código aberto podem colaborar em muitos projetos de uma vez. Os proprietários e administradores podem definir equipes com permissões especiais, ter um perfil público da organização e acompanhar a atividade dentro da organização. Para obter mais informações, consulte "[Sobre organizações](/articles/about-organizations/)".
 
-![Menu suspenso de alternância de contexto da conta](/assets/images/help/overview/dashboard-contextswitcher.png)
+![Menu suspenso de alternância de contexto da conta](/assets/images/2021/10/help/overview/dashboard-contextswitcher.png)
 
 ### Explorar outros projetos no {% data variables.product.prodname_dotcom %}
 
@@ -72,7 +72,7 @@ Descubra projetos interessantes usando o {% data variables.explore.explore_githu
 
 ## Comemore
 
-Agora você está conectado à comunidade do {% data variables.product.product_name %}. O que quer fazer agora? ![Marcar um projeto com estrela](/assets/images/help/stars/star-a-project.png)
+Agora você está conectado à comunidade do {% data variables.product.product_name %}. O que quer fazer agora? ![Marcar um projeto com estrela](/assets/images/2021/10/help/stars/star-a-project.png)
 
 
 - Para sincronizar seus projetos de {% data variables.product.product_name %} com seu computador, você pode configurar o Git. Para obter mais informações, consulte "[Configurar o Git](/articles/set-up-git)".

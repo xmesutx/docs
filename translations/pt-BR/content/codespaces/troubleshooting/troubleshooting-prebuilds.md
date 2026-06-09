@@ -20,7 +20,7 @@ Para obter mais informações sobre as pré-compilações de {% data variables.p
 
 Se vários tipos de máquina estiverem disponíveis quando você cria um codespace, uma caixa de diálogo será exibida fornecendo a você uma escolha de tipos de máquina. Isto irá exibir o a etiqueta "Pré-compilação de {% octicon "zap" aria-label="The zap icon" %} pronta" ao lado dos tipos de máquinas para quais as versões estão disponíveis.
 
-![A caixa de diálogo para escolher um tipo de máquina](/assets/images/help/codespaces/choose-custom-machine-type.png)
+![A caixa de diálogo para escolher um tipo de máquina](/assets/images/2021/10/help/codespaces/choose-custom-machine-type.png)
 
 Se você tiver sua preferência de editor de {% data variables.product.prodname_codespaces %} definida como "Visual Studio Code para Web", a página "Configurando seu codespace" mostrará a mensagem "Prebuilt codespace found" se uma pré-compilação estiver sendo utilizada. Da mesma forma, se sua preferência de editor for "Visual Studio Code", o terminal integrado conterá a mensagem "Você está em um codespace pré-compilado efinido pela configuração de pré-compilação do seu repositório" ao criar um novo codespace. Para obter mais informações, consulte "[Definindo seu editor padrão para codespaces](/codespaces/customizing-your-codespace/setting-your-default-editor-for-codespaces)".
 

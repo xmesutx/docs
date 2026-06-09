@@ -2,13 +2,13 @@
 
   {% mac %}
 
-  ![Opção de menu de configurações do repositório no aplicativo Mac](/assets/images/help/desktop/mac-repository-settings.png)
+  ![Opção de menu de configurações do repositório no aplicativo Mac](/assets/images/2021/10/help/desktop/mac-repository-settings.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Opção do menu de configurações do repositório no aplicativo Windows](/assets/images/help/desktop/windows-repository-settings.png)
+  ![Opção do menu de configurações do repositório no aplicativo Windows](/assets/images/2021/10/help/desktop/windows-repository-settings.png)
 
   {% endwindows %}
   

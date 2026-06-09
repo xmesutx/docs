@@ -143,11 +143,11 @@ Para mantener tu información segura, te recomendamos ampliamente que configures
 {% endif %}
 
 {% ifversion fpt or ghes or ghec %}
-![Selección de token personal](/assets/images/personal_token.png)
+![Selección de token personal](/assets/images/2021/10/personal_token.png)
 {% endif %}
 
 {% ifversion ghae %}
-![Selección de token personal](/assets/images/help/personal_token_ghae.png)
+![Selección de token personal](/assets/images/2021/10/help/personal_token_ghae.png)
 {% endif %}
 
 {% ifversion fpt or ghes > 3.1 or ghae-issue-4374 or ghec %}
@@ -186,7 +186,7 @@ OAuth utiliza _tokens_. Los Tokens proporcionan dos características grandes:
 
 Los tokens deben crearse mediante un [flujo web][webflow]. Una aplicación envía a los usuarios a {% data variables.product.product_name %} para que inicien sesión. Entonces, {% data variables.product.product_name %} presenta un diálogo que indica el nombre de la app así como el nivel de acceso que ésta tiene una vez que el usuario la autorice. Después de que un usuario autoriza el acceso, {% data variables.product.product_name %} lo redirecciona de vuelta a la aplicación:
 
-![Diálogo de OAuth de GitHub](/assets/images/oauth_prompt.png)
+![Diálogo de OAuth de GitHub](/assets/images/2021/10/oauth_prompt.png)
 
 **¡Trata a los tokens de OAuth como si fueran contraseñas!** No los compartas con otros usuarios ni los almacenes en lugares inseguros. Los tokens en estos ejemplos son falsos y los nombres se cambiaron para proteger a los inocentes.
 

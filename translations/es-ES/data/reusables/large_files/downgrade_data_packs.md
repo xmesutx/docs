@@ -1,2 +1,2 @@
-1. Debajo de "Bajar de categoría el plan de datos", selecciona la cantidad de paquetes de datos a la que quieras bajar. ![Escoge la nueva cantidad de paquetes de datos que quieres](/assets/images/help/large_files/downgrade_number_of_data_packs.png)
-2. Para terminar la operación, da clic en **Bajar de categoría el plan de datos**. ![Termina de bajar tu plan de categoría](/assets/images/help/large_files/downgrade_data_plan.png)
+1. Debajo de "Bajar de categoría el plan de datos", selecciona la cantidad de paquetes de datos a la que quieras bajar. ![Escoge la nueva cantidad de paquetes de datos que quieres](/assets/images/2021/10/help/large_files/downgrade_number_of_data_packs.png)
+2. Para terminar la operación, da clic en **Bajar de categoría el plan de datos**. ![Termina de bajar tu plan de categoría](/assets/images/2021/10/help/large_files/downgrade_data_plan.png)

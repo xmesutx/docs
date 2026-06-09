@@ -3,12 +3,12 @@
 
   {% mac %}
 
-  ![リポジトリリストのクローン](/assets/images/help/desktop/clone-a-repository-list-mac.png)
+  ![リポジトリリストのクローン](/assets/images/2021/10/help/desktop/clone-a-repository-list-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![リポジトリリストのクローン](/assets/images/help/desktop/clone-a-repository-list-win.png)
+  ![リポジトリリストのクローン](/assets/images/2021/10/help/desktop/clone-a-repository-list-win.png)
 
   {% endwindows %}

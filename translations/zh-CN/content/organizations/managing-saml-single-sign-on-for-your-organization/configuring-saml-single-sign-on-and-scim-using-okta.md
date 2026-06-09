@@ -44,7 +44,7 @@ SAML SSO 控制并保护对组织资源（如仓库、议题和拉取请求）�
 1. 单击 **Authenticate with Github Enterprise Cloud - Organization（向 Github Enterprise Cloud 验证 - 组织）**。
 1. 在组织名称的右侧，单击 **Grant（授予）**。
 
-  ![用于授权 Okta SCIM 集成访问组织的"Grant（授予）"按钮](/assets/images/help/saml/okta-scim-integration-grant-organization-access.png)
+  ![用于授权 Okta SCIM 集成访问组织的"Grant（授予）"按钮](/assets/images/2021/10/help/saml/okta-scim-integration-grant-organization-access.png)
 
   {% note %}
 

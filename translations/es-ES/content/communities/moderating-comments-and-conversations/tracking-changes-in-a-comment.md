@@ -29,7 +29,7 @@ Cuando eliminas información confidencial del historial de edición del comentar
 
 1. Navega hasta el comentario del que quieres eliminar la información confidencial del historial de edición.
 {% data reusables.repositories.edited-comment-list %}
-3. En el margen superior derecho de la ventana del historial de edición, haz clic en **Options** (Opciones). Luego haz clic en **Delete revision from history** (Eliminar revisión del historial) para eliminar la diferencia que muestra el contenido que se agrega. ![Eliminar detalles de edición de un comentario](/assets/images/help/repository/delete-comment-edit-details.png)
+3. En el margen superior derecho de la ventana del historial de edición, haz clic en **Options** (Opciones). Luego haz clic en **Delete revision from history** (Eliminar revisión del historial) para eliminar la diferencia que muestra el contenido que se agrega. ![Eliminar detalles de edición de un comentario](/assets/images/2021/10/help/repository/delete-comment-edit-details.png)
 4. Para confirmar la eliminación, haz clic en **OK**.
 
 ## Leer más

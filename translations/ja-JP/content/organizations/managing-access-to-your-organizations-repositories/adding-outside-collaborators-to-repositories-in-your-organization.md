@@ -43,7 +43,7 @@ Teamのコラボレーション機能をさらにサポートするために、�
 {% else %}
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-5. 左のサイドバーで、[**Collaborators & teams**] をクリックします。 ![コラボレータとTeamがハイライトされたリポジトリ設定のサイドバー](/assets/images/help/repository/org-repo-settings-collaborators-and-teams.png)
-6. 「Collaborators（コラボレータ）」の下で、リポジトリへのアクセスを付与したい人の名前を入力し、**Add collaborator（コラボレータの追加）**をクリックしてください。 ![Octocat のユーザ名が検索フィールドに入力されているコラボレーターセクション](/assets/images/help/repository/org-repo-collaborators-find-name.png)
-7. 新しいコラボレータの名前の隣で、ドロップダウンメニューを使って適切なアクセスレベルを選択してください。 ![リポジトリ権限ピッカー](/assets/images/help/repository/org-repo-collaborators-choose-permissions.png)
+5. 左のサイドバーで、[**Collaborators & teams**] をクリックします。 ![コラボレータとTeamがハイライトされたリポジトリ設定のサイドバー](/assets/images/2021/10/help/repository/org-repo-settings-collaborators-and-teams.png)
+6. 「Collaborators（コラボレータ）」の下で、リポジトリへのアクセスを付与したい人の名前を入力し、**Add collaborator（コラボレータの追加）**をクリックしてください。 ![Octocat のユーザ名が検索フィールドに入力されているコラボレーターセクション](/assets/images/2021/10/help/repository/org-repo-collaborators-find-name.png)
+7. 新しいコラボレータの名前の隣で、ドロップダウンメニューを使って適切なアクセスレベルを選択してください。 ![リポジトリ権限ピッカー](/assets/images/2021/10/help/repository/org-repo-collaborators-choose-permissions.png)
 {% endif %}

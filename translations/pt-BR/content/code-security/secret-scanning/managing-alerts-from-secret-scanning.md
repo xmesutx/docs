@@ -34,27 +34,27 @@ shortTitle: Gerenciar alertas de segredos
 {% data reusables.repositories.sidebar-security %}
 1. Na barra lateral esquerda, clique em **Alertas de varredura de segredo**.
    {% ifversion fpt or ghes or ghec %}
-   ![Aba "Alertas de varredura de segredo "](/assets/images/help/repository/sidebar-secrets.png)
+   ![Aba "Alertas de varredura de segredo "](/assets/images/2021/10/help/repository/sidebar-secrets.png)
    {% endif %}
    {% ifversion ghae %}
-   ![Aba "Alertas de varredura de segredo "](/assets/images/enterprise/github-ae/repository/sidebar-secrets-ghae.png)
+   ![Aba "Alertas de varredura de segredo "](/assets/images/2021/10/enterprise/github-ae/repository/sidebar-secrets-ghae.png)
    {% endif %}
 1. Em "Escaneamento de segredos", clique no alerta que desejar visualizar.
    {% ifversion fpt or ghec %}
-   ![Lista de alertas do escaneamento secreto](/assets/images/help/repository/secret-scanning-click-alert.png)
+   ![Lista de alertas do escaneamento secreto](/assets/images/2021/10/help/repository/secret-scanning-click-alert.png)
    {% endif %}
    {% ifversion ghes %}
-   ![Lista de alertas do escaneamento secreto](/assets/images/help/repository/secret-scanning-click-alert-ghe.png)
+   ![Lista de alertas do escaneamento secreto](/assets/images/2021/10/help/repository/secret-scanning-click-alert-ghe.png)
    {% endif %}
    {% ifversion ghae %}
-   ![Lista de alertas do escaneamento secreto](/assets/images/enterprise/github-ae/repository/secret-scanning-click-alert-ghae.png)
+   ![Lista de alertas do escaneamento secreto](/assets/images/2021/10/enterprise/github-ae/repository/secret-scanning-click-alert-ghae.png)
    {% endif %}
 1. Como alternativa, selecione o menu suspenso {% ifversion fpt or ghec %}"Fechar como"{% elsif ghes or ghae %}"Marcar como"{% endif %} e clique em um motivo para resolver um alerta.
    {% ifversion fpt or ghec %}
-   ![Menu suspenso para resolver um alerta do escaneamento de segredo](/assets/images/help/repository/secret-scanning-resolve-alert.png)
+   ![Menu suspenso para resolver um alerta do escaneamento de segredo](/assets/images/2021/10/help/repository/secret-scanning-resolve-alert.png)
    {% endif %}
    {% ifversion ghes or ghae %}
-   ![Menu suspenso para resolver um alerta do escaneamento de segredo](/assets/images/help/repository/secret-scanning-resolve-alert-ghe.png)
+   ![Menu suspenso para resolver um alerta do escaneamento de segredo](/assets/images/2021/10/help/repository/secret-scanning-resolve-alert-ghe.png)
    {% endif %}
 
 ## Protegendo segredos comprometidos

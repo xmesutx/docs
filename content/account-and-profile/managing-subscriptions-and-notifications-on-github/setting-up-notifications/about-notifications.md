@@ -71,11 +71,11 @@ Your inbox is configured with default filters, which represent the most common r
 
 Your inbox shows the `reasons` you're receiving notifications as a label.
 
-![Reasons labels in inbox](/assets/images/help/notifications-v2/reasons-as-labels-in-inbox.png)
+![Reasons labels in inbox](/assets/images/2021/10/help/notifications-v2/reasons-as-labels-in-inbox.png)
 
 You can filter your inbox by the reason you're subscribed to notifications. For example, to only see pull requests where someone requested your review, you can use the `review-requested` query filter.
 
-![Filter notifications by review requested reason](/assets/images/help/notifications-v2/review-requested-reason.png)
+![Filter notifications by review requested reason](/assets/images/2021/10/help/notifications-v2/review-requested-reason.png)
 
 If you've configured notifications to be sent by email and believe you're receiving notifications that don't belong to you, consider troubleshooting with email headers, which show the intended recipient. For more information, see "[Configuring notifications](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications)."
 

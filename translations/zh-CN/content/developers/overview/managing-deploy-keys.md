@@ -79,11 +79,11 @@ topics:
 #### 设置
 
 1. 在服务器上[运行 `ssh-keygen` 进程][generating-ssh-keys]，并记住保存生成的公共和私有 RSA 密钥对的位置。
-2. 在 {% data variables.product.product_name %} 的右上角，单击您的个人资料照片，然后单击 **Your profile（您的个人资料）**。 ![个人资料导航](/assets/images/profile-page.png)
-3. 在个人资料页面上，单击 **Repositories（仓库）**，然后单击仓库的名称。 ![仓库链接](/assets/images/repos.png)
-4. 在仓库中，单击 **Settings（设置）**。 ![仓库设置](/assets/images/repo-settings.png)
-5. 在边栏中，单击 **Deploy Keys（部署密钥）**，然后单击 **Add deploy key（添加部署密钥）**。 ![添加部署密钥链接](/assets/images/add-deploy-key.png)
-6. 提供标题，粘贴到公钥中。  ![部署密钥页面](/assets/images/deploy-key.png)
+2. 在 {% data variables.product.product_name %} 的右上角，单击您的个人资料照片，然后单击 **Your profile（您的个人资料）**。 ![个人资料导航](/assets/images/2021/10/profile-page.png)
+3. 在个人资料页面上，单击 **Repositories（仓库）**，然后单击仓库的名称。 ![仓库链接](/assets/images/2021/10/repos.png)
+4. 在仓库中，单击 **Settings（设置）**。 ![仓库设置](/assets/images/2021/10/repo-settings.png)
+5. 在边栏中，单击 **Deploy Keys（部署密钥）**，然后单击 **Add deploy key（添加部署密钥）**。 ![添加部署密钥链接](/assets/images/2021/10/add-deploy-key.png)
+6. 提供标题，粘贴到公钥中。  ![部署密钥页面](/assets/images/2021/10/deploy-key.png)
 7. 如果希望此密钥拥有对仓库的写入权限，请选择 **Allow write access（允许写入权限）**。 具有写入权限的部署密钥允许将部署推送到仓库。
 8. 单击 **Add key（添加密钥）**。
 

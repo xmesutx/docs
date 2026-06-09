@@ -22,11 +22,11 @@ shortTitle: Third-party applications
 
 アプリケーションは、{% data variables.product.product_name %} 以外のサードパーティにより開発されているため、アプリケーションがアクセスを要求しているデータをどう使うかについて、私たちは正確に把握していません。 アプリケーションについて、質問や懸念がある場合は、ページ上部の開発者情報を使って、アプリケーション管理者に連絡できます。
 
-![{% data variables.product.prodname_oauth_app %}オーナー情報](/assets/images/help/platform/oauth_owner_bar.png)
+![{% data variables.product.prodname_oauth_app %}オーナー情報](/assets/images/2021/10/help/platform/oauth_owner_bar.png)
 
 開発者が情報を入力している場合は、ページの右側に、アプリケーションの詳細情報や関連ウェブサイトが表示されます。
 
-![OAuth アプリケーションの情報とウェブサイト](/assets/images/help/platform/oauth_app_info.png)
+![OAuth アプリケーションの情報とウェブサイト](/assets/images/2021/10/help/platform/oauth_app_info.png)
 
 ## アプリケーションのアクセスとデータのタイプ
 
@@ -51,7 +51,7 @@ shortTitle: Third-party applications
 
 アプリケーションがリクエストできるデータの種類はいくつかあります。
 
-![OAuth アクセスの詳細](/assets/images/help/platform/oauth_access_types.png)
+![OAuth アクセスの詳細](/assets/images/2021/10/help/platform/oauth_access_types.png)
 
 {% tip %}
 
@@ -75,4 +75,4 @@ shortTitle: Third-party applications
 
 アプリケーションは新しいアクセス権限をリクエストできます。 権限の更新を要求する場合、アプリケーションはその違いについて通知します。
 
-![サードパーティアプリケーションのアクセスを変更する](/assets/images/help/platform/oauth_existing_access_pane.png)
+![サードパーティアプリケーションのアクセスを変更する](/assets/images/2021/10/help/platform/oauth_existing_access_pane.png)

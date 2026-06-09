@@ -28,4 +28,4 @@ Tip: Your image should be a PNG, JPG, or GIF file under 1 MB in size. For the be
     - To add a new image, click **Upload an image...**.
     - To remove an image, click **Remove image**
 
-    ![Social preview dropdown](/assets/images/help/repository/social-preview.png)
+    ![Social preview dropdown](/assets/images/2021/10/help/repository/social-preview.png)

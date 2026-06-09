@@ -35,7 +35,7 @@ shortTitle: View releases & tags
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-2. [Releases] ページの上部にある [**Tags**] をクリックします。 ![[Tags] ページ](/assets/images/help/releases/tags-list.png)
+2. [Releases] ページの上部にある [**Tags**] をクリックします。 ![[Tags] ページ](/assets/images/2021/10/help/releases/tags-list.png)
 
 ## 参考リンク
 

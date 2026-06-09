@@ -28,7 +28,7 @@ Quando alguém com permissões de administrador ou proprietário tiver habilitad
 
 Se um arquivo tiver um proprietário do código, você poderá ver quem é o proprietário do código antes de abrir um pull request. No repositório, é possível pesquisar o arquivo e passar o mouse sobre o {% octicon "shield-lock" aria-label="The edit icon" %}.
 
-![Proprietário do código para um arquivo em um repositório](/assets/images/help/repository/code-owner-for-a-file.png)
+![Proprietário do código para um arquivo em um repositório](/assets/images/2021/10/help/repository/code-owner-for-a-file.png)
 
 ## Local do arquivo CODEOWNERS
 

@@ -26,7 +26,7 @@ Puedes crear plantillas predeterminadas de propuestas y solicitudes de cambios p
 
 Cuando creas plantillas de propuestas para tu repositorio utilizando el creador de plantillas para propuestas{% ifversion fpt or ghec %} o con formatos de propuesta{% endif %}, los contribuyentes pueden seleccionar la plantilla adecuada cuando abren propuestas nuevas en el repositorio.
 
-![Página de la propuesta nueva que muestra las opciones de plantilla de propuesta](/assets/images/help/issues/new-issue-page-with-multiple-templates.png)
+![Página de la propuesta nueva que muestra las opciones de plantilla de propuesta](/assets/images/2021/10/help/issues/new-issue-page-with-multiple-templates.png)
 
 El emitir plantillas es útil cuando quieres proporcionar lineamientos para las propuestas que se abren mientras que permites que los contribuyentes especifiquen el contenido de sus propuestas. {% ifversion fpt or ghec %} Si quieres que los contribuyentes proporcionen información específica y estructurada cuando abren propuestas, los formatos de propuesta ayudan a que te asegures de recibir la información que quieres.{% endif %}
 
@@ -50,7 +50,7 @@ Es posible crear de forma manual una única plantilla de propuesta en Markdown u
 
 Cuando agregas una plantilla de solicitud de extracción a tu repositorio, los colaboradores del proyecto verán automáticamente los contenidos de la plantilla en el cuerpo de la solicitud de extracción.
 
-![Plantilla de solicitud de extracción de ejemplo](/assets/images/help/pull_requests/pr-template-sample.png)
+![Plantilla de solicitud de extracción de ejemplo](/assets/images/2021/10/help/pull_requests/pr-template-sample.png)
 
 Debes crear las plantillas en la rama por defecto del repositorio. Las plantillas creadas en otras ramas no están disponibles para que las usen los colaboradores. Puedes almacenar tu plantilla de solicitud de extracción en el directorio raíz visible del repositorio, la carpeta `docs` o el directorio oculto `.github`. Los nombres de archivo de la plantilla de solicitud de extracción no distinguen entre mayúsculas y minúsculas y pueden tener una extensión como *.md* o *.txt*.
 

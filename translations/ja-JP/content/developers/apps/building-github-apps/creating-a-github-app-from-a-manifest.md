@@ -52,7 +52,7 @@ GitHub App Manifest フローを実装するには、以下の 3 つのステッ
 
 アプリケーションを作成するユーザは GitHub ページにリダイレクトされます。GitHub ページには、 `manifest` パラメータに含めるアプリケーションの名前を編集する入力フィールドがあります。 `manifest` に `name` を含めていない場合、ユーザがこのフィールドでアプリケーションに独自の名前を設定できます。
 
-![GitHub App Manifest の作成](/assets/images/github-apps/create-github-app-manifest.png)
+![GitHub App Manifest の作成](/assets/images/2021/10/github-apps/create-github-app-manifest.png)
 
 #### GitHub App Manifest のパラメータ
 
@@ -192,7 +192,7 @@ GitHub App Manifest フローのこのステップを、1 時間以内に完了�
 1. アプリケーションのカスタムコードを追加します。
 1. [GitHub App をローカルで](https://probot.github.io/docs/development/#running-the-app-locally) 実行するか、[任意の場所にホスト](#hosting-your-app-with-glitch) ホストします。 ホストされたアプリの URL に移動すると、 [**Register GitHub App**] ボタンがあるウェブページが表示され、これをクリックすると構成済みのアプリケーションを作成できます。 以下のウェブページは、GitHub App Manifest フローの [ステップ 1](#1-you-redirect-people-to-github-to-create-a-new-github-app) で Probot を実装したものです。
 
-![Probot GitHub App の登録](/assets/images/github-apps/github_apps_probot-registration.png)
+![Probot GitHub App の登録](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 [dotenv](https://github.com/bkeepers/dotenv) を使用して、Probot は `.env` ファイルを作成し、`APP_ID`、`PRIVATE_KEY`、`WEBHOOK_SECRET` の環境変数に、[アプリケーションの設定](#3-you-exchange-the-temporary-code-to-retrieve-the-app-configuration)から取得した変数を設定します。
 

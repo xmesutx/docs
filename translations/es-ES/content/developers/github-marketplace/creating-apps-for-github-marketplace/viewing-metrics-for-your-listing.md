@@ -43,7 +43,7 @@ La página de perspectivas muestra estas métricas de rendimiento para el period
 * **Visitantes únicos de la página pago:** Cantidad de personas que vieron una de tus páginas de pago para tu GitHub App.
 * **Página de pago para suscripciones nuevas:** La cantidad total de suscripciones pagadas, periodos de prueb gratuitos, y suscripciones gratuitas. Consulta la sección "Desglose del total de las suscripciones" para encontrar la cantidad específcia de cada tipo de suscripción.
 
-![Perspectivas de Marketplace](/assets/images/marketplace/marketplace_insights.png)
+![Perspectivas de Marketplace](/assets/images/2021/10/marketplace/marketplace_insights.png)
 
 Para acceder a las perspectivas de {% data variables.product.prodname_marketplace %}:
 
@@ -53,4 +53,4 @@ Para acceder a las perspectivas de {% data variables.product.prodname_marketplac
 4. Selecciona la {% data variables.product.prodname_github_app %} para la cual quisieras ver las perspectivas.
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. Da clic en la pestaña **Perspectivas**.
-7. Opcionalmente, selecciona cualquier periodo de tiempo diferente dando clic en el menú desplegable de dicho periodo en la esquina superior derecha de la página de perspectivas. ![Periodo de tiempo de Marketplace](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. Opcionalmente, selecciona cualquier periodo de tiempo diferente dando clic en el menú desplegable de dicho periodo en la esquina superior derecha de la página de perspectivas. ![Periodo de tiempo de Marketplace](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

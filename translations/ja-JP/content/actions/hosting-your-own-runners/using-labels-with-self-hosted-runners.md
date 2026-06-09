@@ -29,7 +29,7 @@ shortTitle: Label runners
 {% data reusables.actions.self-hosted-runner-list %}
 {% data reusables.actions.self-hosted-runner-list-group %}
 {% data reusables.actions.self-hosted-runner-labels-view-assigned-labels %}
-1. "Filter labels（フィルターラベル）"フィールドで、新しいラベルの名前を入力し、**Create new label（新しいラベルの作成）**をクリックしてください。 ![ランナーにラベルを追加](/assets/images/help/settings/actions-add-runner-label.png)
+1. "Filter labels（フィルターラベル）"フィールドで、新しいラベルの名前を入力し、**Create new label（新しいラベルの作成）**をクリックしてください。 ![ランナーにラベルを追加](/assets/images/2021/10/help/settings/actions-add-runner-label.png)
 
 カスタムラベルが作成され、セルフホストランナーに割り当てられます。 カスタムラベルをセルフホストランナーから取り除くことはできますが、現在はラベルを手動で削除することはできません。 {% data reusables.actions.actions-unused-labels %}
 {% endif %}

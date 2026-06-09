@@ -1,1 +1,1 @@
-1. Above the list of files, click {% octicon "git-pull-request" aria-label="The pull request icon" %} **Pull request**. ![link de "pul request" acima da lista de arquivos](/assets/images/help/pull_requests/pull-request-start-review-button.png)
+1. Above the list of files, click {% octicon "git-pull-request" aria-label="The pull request icon" %} **Pull request**. ![link de "pul request" acima da lista de arquivos](/assets/images/2021/10/help/pull_requests/pull-request-start-review-button.png)

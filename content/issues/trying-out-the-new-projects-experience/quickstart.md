@@ -71,12 +71,12 @@ Now, create a custom field called `Priority` to contain the values: `High`, `Med
 4. In the resulting pop-up, enter `Priority` in the text box.
 5. In the drop-down, select **Single select**.
 6. Add options for `High`, `Medium`, and `Low`. You can also include emojis in your options.
-   ![New single select field example](/assets/images/help/projects/new-single-select-field.png)
+   ![New single select field example](/assets/images/2021/10/help/projects/new-single-select-field.png)
 7. Click **Save**.
 
 Specify a priority for all issues in your project.
 
-![Example priorities](/assets/images/help/projects/priority_example.png)
+![Example priorities](/assets/images/2021/10/help/projects/priority_example.png)
 
 ## Grouping issues by priority
 
@@ -91,7 +91,7 @@ Now, move issues between groups to change their priority.
 1. Choose an issue.
 2. Drag and drop the issue into a different priority group. When you do this, the priority of the issue will change to be the priority of its new group.
 
-![Move issue between groups](/assets/images/help/projects/move_between_group.gif)
+![Move issue between groups](/assets/images/2021/10/help/projects/move_between_group.gif)
 
 ## Saving the priority view
 
@@ -115,7 +115,7 @@ To view the progress of your project's issues, you can switch to board layout.
 
 The board layout is based on the status field, so specify a status for each issue in your project.
 
-![Example status](/assets/images/help/projects/status_example.png)
+![Example status](/assets/images/2021/10/help/projects/status_example.png)
 
 Then, create a new view.
 
@@ -126,7 +126,7 @@ Next, switch to board layout.
 1. {% data reusables.projects.open-command-palette %}
 2. Start typing any part of "Switch layout: Board".
 3. Select **Switch layout: Board**.
-   ![Example priorities](/assets/images/help/projects/example_board.png)
+   ![Example priorities](/assets/images/2021/10/help/projects/example_board.png)
 
 When you changed the layout, your project displayed an indicator to show that the view was modified. Save this view so that you and your collaborators can easily access it in the future.
 
@@ -138,7 +138,7 @@ To indicate the purpose of the view, give it a descriptive name.
 1. Place your cursor in the current view name, **View 2**.
 2. Replace the existing text with the new name, `Progress`.
 
-![Example priorities](/assets/images/help/projects/project-view-switch.gif)
+![Example priorities](/assets/images/2021/10/help/projects/project-view-switch.gif)
 
 ## Configure built-in automation
 

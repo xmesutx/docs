@@ -2,12 +2,12 @@
   
   {% mac %}
 
-  ![The Stash All Changes menu item](/assets/images/help/desktop/mac-stash-all-changes.png)
+  ![The Stash All Changes menu item](/assets/images/2021/10/help/desktop/mac-stash-all-changes.png)
   
   {% endmac %}
   
   {% windows %}
   
-  ![The Stash all changes menu item](/assets/images/help/desktop/windows-stash-all-changes.png)
+  ![The Stash all changes menu item](/assets/images/2021/10/help/desktop/windows-stash-all-changes.png)
   
   {% endwindows %}

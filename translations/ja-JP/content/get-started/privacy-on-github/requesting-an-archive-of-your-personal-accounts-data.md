@@ -30,7 +30,7 @@ shortTitle: Request account archive
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
-3. [Export account data] で、[**Start export**] または [**New export**] をクリックします。 ![強調表示された [Start export] ボタン](/assets/images/help/repository/export-personal-data.png) ![強調表示された [New export] ボタン](/assets/images/help/repository/new-export.png)
+3. [Export account data] で、[**Start export**] または [**New export**] をクリックします。 ![強調表示された [Start export] ボタン](/assets/images/2021/10/help/repository/export-personal-data.png) ![強調表示された [New export] ボタン](/assets/images/2021/10/help/repository/new-export.png)
 4. エクスポートをダウンロードする準備が整ったら、{% data variables.product.product_name %} はお使いのプライマリメールアドレスにダウンロード リンクを送信します。
 5. メール内のダウンロードリンクをクリックし、要求されたらパスワードを再入力します。
 6. ダウンロードできる `tar.gz` ファイルにリダイレクトされます。
@@ -39,4 +39,4 @@ shortTitle: Request account archive
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
-3. メールに送信されたダウンロードリンクを有効期限が切れる前に無効にするには、[Export account data] で無効にするデータエクスポートのダウンロードを探し、[**Delete**] をクリックします。 ![強調表示された [Delete personal data export package] ボタン](/assets/images/help/repository/delete-export-personal-account-data.png)
+3. メールに送信されたダウンロードリンクを有効期限が切れる前に無効にするには、[Export account data] で無効にするデータエクスポートのダウンロードを探し、[**Delete**] をクリックします。 ![強調表示された [Delete personal data export package] ボタン](/assets/images/2021/10/help/repository/delete-export-personal-account-data.png)

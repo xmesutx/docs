@@ -58,8 +58,8 @@ shortTitle: 刷新用户到服务器的访问权限
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-4. 单击所选 {% data variables.product.prodname_github_app %} 旁边的 **Edit（编辑）**。 ![编辑 GitHub 应用程序的设置](/assets/images/github-apps/edit-test-app.png)
-5. 在左侧边栏中，单击 **Optional Features（可选功能）**。 ![可选功能选项卡](/assets/images/github-apps/optional-features-option.png)
+4. 单击所选 {% data variables.product.prodname_github_app %} 旁边的 **Edit（编辑）**。 ![编辑 GitHub 应用程序的设置](/assets/images/2021/10/github-apps/edit-test-app.png)
+5. 在左侧边栏中，单击 **Optional Features（可选功能）**。 ![可选功能选项卡](/assets/images/2021/10/github-apps/optional-features-option.png)
 6. 在“User-to-server token expiration（用户到服务器令牌过期）”旁边，单击 **Opt-in（选择加入）**或 **Opt-out（选择退出）**。 应用此设置可能需要几秒钟的时间。
 
 ## 为新的 GitHub 应用程序选择退出过期令牌
@@ -68,7 +68,7 @@ shortTitle: 刷新用户到服务器的访问权限
 
 如果希望应用程序使用不过期用户到服务器访问令牌，您可以在应用程序设置页面上取消选择“Expire user authorization tokens（过期用户授权令牌）”。
 
-![在 GitHub 应用程序设置过程中选择加入过期用户令牌的选项](/assets/images/github-apps/expire-user-tokens-selection.png)
+![在 GitHub 应用程序设置过程中选择加入过期用户令牌的选项](/assets/images/2021/10/github-apps/expire-user-tokens-selection.png)
 
 仅当应用程序所有者为其应用程序启用了过期用户令牌时，使用用户到服务器授权令牌的现有 {% data variables.product.prodname_github_apps %} 才会受到这个新流程的影响。
 

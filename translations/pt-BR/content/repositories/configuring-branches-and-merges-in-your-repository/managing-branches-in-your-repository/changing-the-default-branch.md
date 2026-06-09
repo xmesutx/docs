@@ -42,8 +42,8 @@ Para alterar o branch-padrão, seu repositório deve ter mais de um branch. Para
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.repository-branches %}
-1. Em "branch-padrão", à direita do nome do branch-padrão, clique em {% octicon "arrow-switch" aria-label="The switch icon with two arrows" %}. ![Alterne o ícone com duas setas para a direita do nome do branch-padrão atual](/assets/images/help/repository/repository-options-defaultbranch-change.png)
-1. Use o menu suspenso e clique em um nome de branch. ![Menu suspenso para escolher o novo branch-padrão](/assets/images/help/repository/repository-options-defaultbranch-drop-down.png)
-1. Clique em **Atualizar**. ![Botão "Atualizar" após escolher um novo branch-padrão](/assets/images/help/repository/repository-options-defaultbranch-update.png)
-1. Leia o alerta e clique em **Eu entendo. Atualize o branch-padrão.** ![Botão "Eu entendo, atualize o branch padrão." para executar a atualização](/assets/images/help/repository/repository-options-defaultbranch-i-understand.png)
+1. Em "branch-padrão", à direita do nome do branch-padrão, clique em {% octicon "arrow-switch" aria-label="The switch icon with two arrows" %}. ![Alterne o ícone com duas setas para a direita do nome do branch-padrão atual](/assets/images/2021/10/help/repository/repository-options-defaultbranch-change.png)
+1. Use o menu suspenso e clique em um nome de branch. ![Menu suspenso para escolher o novo branch-padrão](/assets/images/2021/10/help/repository/repository-options-defaultbranch-drop-down.png)
+1. Clique em **Atualizar**. ![Botão "Atualizar" após escolher um novo branch-padrão](/assets/images/2021/10/help/repository/repository-options-defaultbranch-update.png)
+1. Leia o alerta e clique em **Eu entendo. Atualize o branch-padrão.** ![Botão "Eu entendo, atualize o branch padrão." para executar a atualização](/assets/images/2021/10/help/repository/repository-options-defaultbranch-i-understand.png)
 

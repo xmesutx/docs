@@ -33,8 +33,8 @@ shortTitle: Security & analysis
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
-4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**.{% ifversion fpt %} !["Enable" or "Disable" button for "Configure security and analysis" features in a public repository](/assets/images/help/repository/security-and-analysis-disable-or-enable-fpt-public.png){% elsif ghec %}
-!["Enable" or "Disable" button for "Configure security and analysis" features in a public repository](/assets/images/help/repository/security-and-analysis-disable-or-enable-ghec-public.png){% endif %}
+4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**.{% ifversion fpt %} !["Enable" or "Disable" button for "Configure security and analysis" features in a public repository](/assets/images/2022/01/help/repository/security-and-analysis-disable-or-enable-fpt-public.png){% elsif ghec %}
+!["Enable" or "Disable" button for "Configure security and analysis" features in a public repository](/assets/images/2022/01/help/repository/security-and-analysis-disable-or-enable-ghec-public.png){% endif %}
 {% endif %}
 
 ## {% ifversion fpt or ghec %} プライベートリポジトリの{% endif %} セキュリティおよび分析機能を有効または無効にする
@@ -49,10 +49,10 @@ shortTitle: Security & analysis
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
 {% ifversion fpt or ghes or ghec %}
-4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**. {% ifversion not fpt %}The control for "{% data variables.product.prodname_GH_advanced_security %}" is disabled if your enterprise has no available licenses for {% data variables.product.prodname_advanced_security %}.{% endif %}{% ifversion fpt %} !["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/help/repository/security-and-analysis-disable-or-enable-fpt-private.png){% elsif ghec %}
-!["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/help/repository/security-and-analysis-disable-or-enable-ghec-private.png){% elsif ghes > 3.2 %}
-!["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/enterprise/3.3/repository/security-and-analysis-disable-or-enable-ghes.png){% else %}
-!["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/enterprise/3.1/help/repository/security-and-analysis-disable-or-enable-ghes.png){% endif %}
+4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**. {% ifversion not fpt %}The control for "{% data variables.product.prodname_GH_advanced_security %}" is disabled if your enterprise has no available licenses for {% data variables.product.prodname_advanced_security %}.{% endif %}{% ifversion fpt %} !["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/2022/01/help/repository/security-and-analysis-disable-or-enable-fpt-private.png){% elsif ghec %}
+!["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/2022/01/help/repository/security-and-analysis-disable-or-enable-ghec-private.png){% elsif ghes > 3.2 %}
+!["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/2021/11/enterprise/3.3/repository/security-and-analysis-disable-or-enable-ghes.png){% else %}
+!["Enable" or "Disable" button for "Configure security and analysis" features](/assets/images/2021/10/enterprise/3.1/help/repository/security-and-analysis-disable-or-enable-ghes.png){% endif %}
 
   {% ifversion not fpt %}
   {% note %}
@@ -63,10 +63,10 @@ shortTitle: Security & analysis
   {% endif %}
 
   {% ifversion ghes = 3.0 %}
-4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**. ![[Configure security and analysis] 機能の [Enable] または [Disable] ボタン](/assets/images/help/repository/security-and-analysis-disable-or-enable-ghe.png)
+4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**. ![[Configure security and analysis] 機能の [Enable] または [Disable] ボタン](/assets/images/2021/10/help/repository/security-and-analysis-disable-or-enable-ghe.png)
   {% endif %}
   {% ifversion ghae %}
-4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**. Before you can enable "{% data variables.product.prodname_secret_scanning %}" for your repository, you may need to enable {% data variables.product.prodname_GH_advanced_security %}. ![リポジトリに対して {% data variables.product.prodname_GH_advanced_security %} または {% data variables.product.prodname_secret_scanning %} を有効化または無効化](/assets/images/enterprise/github-ae/repository/enable-ghas-secret-scanning-ghae.png)
+4. Under "Code security and analysis", to the right of the feature, click **Disable** or **Enable**. Before you can enable "{% data variables.product.prodname_secret_scanning %}" for your repository, you may need to enable {% data variables.product.prodname_GH_advanced_security %}. ![リポジトリに対して {% data variables.product.prodname_GH_advanced_security %} または {% data variables.product.prodname_secret_scanning %} を有効化または無効化](/assets/images/2021/10/enterprise/github-ae/repository/enable-ghas-secret-scanning-ghae.png)
   {% endif %}
 
 ## セキュリティアラートへのアクセスを許可する
@@ -84,24 +84,24 @@ Organizationのオーナーとリポジトリ管理者は、リポジトリへ�
 {% data reusables.repositories.navigate-to-security-and-analysis %}
 4. [Access to alerts] の検索フィールドで、検索するユーザまたは Team 名の入力を開始し、リストから一致する名前をクリックします。
    {% ifversion fpt or ghec or ghes > 3.2 %}
-   ![ユーザまたは Team にセキュリティアラートへのアクセスを付与するための検索フィールド](/assets/images/help/repository/security-and-analysis-security-alerts-person-or-team-search.png)
+   ![ユーザまたは Team にセキュリティアラートへのアクセスを付与するための検索フィールド](/assets/images/2021/10/help/repository/security-and-analysis-security-alerts-person-or-team-search.png)
    {% endif %}
    {% ifversion ghes < 3.3 %}
-   ![ユーザまたは Team にセキュリティアラートへのアクセスを付与するための検索フィールド](/assets/images/enterprise/3.2/repository/security-and-analysis-security-alerts-person-or-team-search.png)
+   ![ユーザまたは Team にセキュリティアラートへのアクセスを付与するための検索フィールド](/assets/images/2021/11/enterprise/3.2/repository/security-and-analysis-security-alerts-person-or-team-search.png)
    {% endif %}
    {% ifversion ghae %}
-   ![ユーザまたは Team にセキュリティアラートへのアクセスを付与するための検索フィールド](/assets/images/enterprise/github-ae/repository/security-and-analysis-security-alerts-person-or-team-search-ghae.png)
+   ![ユーザまたは Team にセキュリティアラートへのアクセスを付与するための検索フィールド](/assets/images/2021/10/enterprise/github-ae/repository/security-and-analysis-security-alerts-person-or-team-search-ghae.png)
    {% endif %}
 
 5. [**Save changes**] をクリックします。
    {% ifversion fpt or ghes > 3.2 or ghec %}
-   ![セキュリティアラート設定を変更するための "Save changes" ボタン](/assets/images/help/repository/security-and-analysis-security-alerts-save-changes.png)
+   ![セキュリティアラート設定を変更するための "Save changes" ボタン](/assets/images/2021/10/help/repository/security-and-analysis-security-alerts-save-changes.png)
    {% endif %}
    {% ifversion ghes < 3.3 %}
-   ![セキュリティアラート設定を変更するための "Save changes" ボタン](/assets/images/enterprise/3.2/repository/security-and-analysis-security-alerts-save-changes.png)
+   ![セキュリティアラート設定を変更するための "Save changes" ボタン](/assets/images/2021/11/enterprise/3.2/repository/security-and-analysis-security-alerts-save-changes.png)
    {% endif %}
    {% ifversion ghae %}
-   ![セキュリティアラート設定を変更するための "Save changes" ボタン](/assets/images/enterprise/github-ae/repository/security-and-analysis-security-alerts-save-changes-ghae.png)
+   ![セキュリティアラート設定を変更するための "Save changes" ボタン](/assets/images/2021/10/enterprise/github-ae/repository/security-and-analysis-security-alerts-save-changes-ghae.png)
    {% endif %}
 
 ## セキュリティアラートへのアクセスを削除する
@@ -111,13 +111,13 @@ Organizationのオーナーとリポジトリ管理者は、リポジトリへ�
 {% data reusables.repositories.navigate-to-security-and-analysis %}
 4. Under "Access to alerts", to the right of the person or team whose access you'd like to remove, click {% octicon "x" aria-label="X symbol" %}.
    {% ifversion fpt or ghec or ghes > 3.2 %}
-   ![リポジトリのセキュリティアラートへのアクセスを削除する "x" ボタン](/assets/images/help/repository/security-and-analysis-security-alerts-username-x.png)
+   ![リポジトリのセキュリティアラートへのアクセスを削除する "x" ボタン](/assets/images/2021/10/help/repository/security-and-analysis-security-alerts-username-x.png)
    {% endif %}
    {% ifversion ghes < 3.3 %}
-   ![リポジトリのセキュリティアラートへのアクセスを削除する "x" ボタン](/assets/images/enterprise/3.2/repository/security-and-analysis-security-alerts-username-x.png)
+   ![リポジトリのセキュリティアラートへのアクセスを削除する "x" ボタン](/assets/images/2021/11/enterprise/3.2/repository/security-and-analysis-security-alerts-username-x.png)
    {% endif %}
    {% ifversion ghae %}
-   ![リポジトリのセキュリティアラートへのアクセスを削除する "x" ボタン](/assets/images/enterprise/github-ae/repository/security-and-analysis-security-alerts-username-x-ghae.png)
+   ![リポジトリのセキュリティアラートへのアクセスを削除する "x" ボタン](/assets/images/2021/10/enterprise/github-ae/repository/security-and-analysis-security-alerts-username-x-ghae.png)
    {% endif %}
   5. [**Save changes**] をクリックします。
 

@@ -24,7 +24,7 @@ graph TD;
 ```
 </pre>
 
-![Fluxograma interpretado do Mermeid](/assets/images/help/writing/mermaid-flow-chart.png)
+![Fluxograma interpretado do Mermeid](/assets/images/2022/02/help/writing/mermaid-flow-chart.png)
 
 {% note %}
 

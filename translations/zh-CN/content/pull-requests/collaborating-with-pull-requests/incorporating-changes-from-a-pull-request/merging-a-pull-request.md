@@ -47,9 +47,9 @@ topics:
 {% data reusables.repositories.sidebar-pr %}
 2. 在“Pull Requests（拉取请求）”列表中，单击要合并的拉取请求。
 3. 根据对仓库启用的合并选项，您可以：
-    - 单击 **Merge pull request（合并拉取请求）**，[将所有提交合并到基本分支](/articles/about-pull-request-merges/)。 如果 **Merge pull request（合并拉取请求）**选项未显示，则单击合并下拉菜单，然后选择 **Create a merge commit（创建合并提交）**。 ![merge-pull-request-button](/assets/images/help/pull_requests/pullrequest-mergebutton.png)
-    - 单击合并下拉菜单，选择 **Squash and merge（压缩并合并）**，然后单击 **Squash and merge（压缩并合并）**按钮，[将提交压缩到一个提交](/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits)。 ![click-squash-and-merge-button](/assets/images/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
-    - 单击合并下拉菜单，选择 **Rebase and merge（变基并合并）**，然后单击 **Rebase and merge（变基并合并）**按钮，[将提交个别变基到基本分支](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits)。 ![select-rebase-and-merge-from-drop-down-menu](/assets/images/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
+    - 单击 **Merge pull request（合并拉取请求）**，[将所有提交合并到基本分支](/articles/about-pull-request-merges/)。 如果 **Merge pull request（合并拉取请求）**选项未显示，则单击合并下拉菜单，然后选择 **Create a merge commit（创建合并提交）**。 ![merge-pull-request-button](/assets/images/2021/10/help/pull_requests/pullrequest-mergebutton.png)
+    - 单击合并下拉菜单，选择 **Squash and merge（压缩并合并）**，然后单击 **Squash and merge（压缩并合并）**按钮，[将提交压缩到一个提交](/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits)。 ![click-squash-and-merge-button](/assets/images/2021/10/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
+    - 单击合并下拉菜单，选择 **Rebase and merge（变基并合并）**，然后单击 **Rebase and merge（变基并合并）**按钮，[将提交个别变基到基本分支](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits)。 ![select-rebase-and-merge-from-drop-down-menu](/assets/images/2021/10/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
 
     {% note %}
 
@@ -59,7 +59,7 @@ topics:
 4. 如有提示，输入提交消息，或接受默认消息。
 
    {% data reusables.pull_requests.default-commit-message-squash-merge %}
-   ![提交消息字段](/assets/images/help/pull_requests/merge_box/pullrequest-commitmessage.png)
+   ![提交消息字段](/assets/images/2021/10/help/pull_requests/merge_box/pullrequest-commitmessage.png)
 
 {% data reusables.files.choose-commit-email %}
 

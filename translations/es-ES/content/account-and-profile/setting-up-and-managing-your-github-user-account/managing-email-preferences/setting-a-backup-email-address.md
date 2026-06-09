@@ -18,7 +18,7 @@ shortTitle: Configurar la dirección de correo electrónico de respaldo
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
-3. Dentro de "Backup email address" (Dirección de correo electrónico de respaldo), selecciona la dirección que deseas configurar como tu dirección de correo electrónico de respaldo utilizando el menú desplegable. ![Dirección de correo electrónico de respaldo](/assets/images/help/settings/backup-email-address.png)
+3. Dentro de "Backup email address" (Dirección de correo electrónico de respaldo), selecciona la dirección que deseas configurar como tu dirección de correo electrónico de respaldo utilizando el menú desplegable. ![Dirección de correo electrónico de respaldo](/assets/images/2021/10/help/settings/backup-email-address.png)
 4. Haz clic en **Save ** (guardar).
 
 ## Leer más

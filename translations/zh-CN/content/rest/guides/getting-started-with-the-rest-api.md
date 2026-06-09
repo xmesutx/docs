@@ -157,11 +157,11 @@ To help keep your information secure, we highly recommend setting an expiration 
 {% endif %}
 
 {% ifversion fpt or ghes or ghec %}
-![Personal Token selection](/assets/images/personal_token.png)
+![Personal Token selection](/assets/images/2021/10/personal_token.png)
 {% endif %}
 
 {% ifversion ghae %}
-![Personal Token selection](/assets/images/help/personal_token_ghae.png)
+![Personal Token selection](/assets/images/2021/10/help/personal_token_ghae.png)
 {% endif %}
 
 {% ifversion fpt or ghes > 3.1 or ghae-issue-4374 or ghec %}
@@ -208,7 +208,7 @@ indicating the name of the app, as well as the level of access the app
 has once it's authorized by the user. After a user authorizes access, {% data variables.product.product_name %}
 redirects the user back to the application:
 
-![GitHub's OAuth Prompt](/assets/images/oauth_prompt.png)
+![GitHub's OAuth Prompt](/assets/images/2021/10/oauth_prompt.png)
 
 **Treat OAuth tokens like passwords!** Don't share them with other users or store
 them in insecure places. The tokens in these examples are fake and the names have

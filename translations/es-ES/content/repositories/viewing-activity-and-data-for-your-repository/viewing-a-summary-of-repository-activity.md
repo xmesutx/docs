@@ -31,4 +31,4 @@ Los coautores de confirmación están incluidos en el resumen de actividad de co
 
 Por defecto, Pulse muestra los últimos siete días de actividad del repositorio. Para elegir un período de tiempo diferente, haz clic en el menú desplegable de **Period (Período)** en el ángulo superior derecho del resumen de Pulse.
 
-![Filtrar la actividad de Pulse por tiempo](/assets/images/help/pulse/pulse_time_filter_dropdown.png)
+![Filtrar la actividad de Pulse por tiempo](/assets/images/2021/10/help/pulse/pulse_time_filter_dropdown.png)

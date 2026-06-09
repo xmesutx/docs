@@ -22,11 +22,11 @@ topics:
 
 您可以在站点管理员仪表板的“All users”选项卡中发起 SSH 密钥审核：
 
-![启动公钥审核](/assets/images/enterprise/security/Enterprise-Start-Key-Audit.png)
+![启动公钥审核](/assets/images/2021/10/enterprise/security/Enterprise-Start-Key-Audit.png)
 
 单击“Start public key audit”按钮后，您将转到确认屏幕，此屏幕会向您解释接下来要发生的情况：
 
-![确认审核](/assets/images/enterprise/security/Enterprise-Begin-Audit.png)
+![确认审核](/assets/images/2021/10/enterprise/security/Enterprise-Begin-Audit.png)
 
 单击“Begin audit”按钮后，所有 SSH 密钥将失效，并需要批准。 您会看到一个指示审核已开始的通知。
 
@@ -44,7 +44,7 @@ fatal: The remote end hung up unexpectedly
 
 在用户单击链接后，他们会被要求在帐户上批准密钥：
 
-![审核密钥](/assets/images/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
+![审核密钥](/assets/images/2021/10/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
 
 在用户批准或拒绝密钥后，他们将能够像以往一样与仓库进行交互。
 
@@ -52,7 +52,7 @@ fatal: The remote end hung up unexpectedly
 
 新用户在添加 SSH 密钥时将会收到需要输入密码的提示：
 
-![密码确认](/assets/images/help/settings/sudo_mode_popup.png)
+![密码确认](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 在用户添加密钥时，他们会收到如下所示的通知电子邮件：
 

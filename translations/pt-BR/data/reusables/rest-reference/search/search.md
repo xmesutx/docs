@@ -64,7 +64,7 @@ Por exemplo, se sua consulta de pesquisa pesquisar os repositórios `octocat/tes
 
 No GitHub, você pode usar o contexto fornecido por trechos de código e destaques nos resultados de pesquisa. A API de pesquisa oferece metadados adicionais que permitem que você destaque os termos de pesquisa correspondentes ao exibir resultados de busca.
 
-![code-snippet-highlighting](/assets/images/text-match-search-api.png)
+![code-snippet-highlighting](/assets/images/2021/10/text-match-search-api.png)
 
 As solicitações podem optar por receber esses fragmentos de texto na resposta, e cada fragmento é acompanhado de ajustes numéricos que identificam a localização exata de cada termo de pesquisa correspondente.
 

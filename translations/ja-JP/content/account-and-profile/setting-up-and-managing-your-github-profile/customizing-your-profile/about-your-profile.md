@@ -22,7 +22,7 @@ topics:
 
 {% data reusables.profile.profile-readme %}
 
-![プロフィールに表示されるプロフィール README ファイル](/assets/images/help/repository/profile-with-readme.png)
+![プロフィールに表示されるプロフィール README ファイル](/assets/images/2021/10/help/repository/profile-with-readme.png)
 
 {% endif %}
 

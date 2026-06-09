@@ -18,7 +18,7 @@ versions:
 {% data reusables.repositories.navigate-to-workflow %}
 1. Para excluir a execução de um fluxo de trabalho, use o menu suspenso {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e selecione **Excluir execução de fluxo de trabalho**.
 
-    ![Eliminar execução de um fluxo de trabalho](/assets/images/help/settings/workflow-delete-run.png)
+    ![Eliminar execução de um fluxo de trabalho](/assets/images/2021/10/help/settings/workflow-delete-run.png)
 2. Revise a solicitação de confirmação e clique em **Sim, excluir permanentemente esta execução do fluxo de trabalho**.
 
-    ![Excluir uma confirmação de execução de fluxo de trabalho](/assets/images/help/settings/workflow-delete-run-confirmation.png)
+    ![Excluir uma confirmação de execução de fluxo de trabalho](/assets/images/2021/10/help/settings/workflow-delete-run-confirmation.png)

@@ -26,7 +26,7 @@ shortTitle: コラボレーション
 
 {% data variables.product.product_name %}は、プルリクエストの {% data variables.large_files.product_name_short %}オブジェクトを表示しません。 ポインタファイルのみが表示されます。
 
-![大容量ファイルのプルリクエスト例](/assets/images/help/large_files/large_files_pr.png)
+![大容量ファイルのプルリクエスト例](/assets/images/2021/10/help/large_files/large_files_pr.png)
 
 ポインタファイルに関する詳しい情報については、「[{% data variables.large_files.product_name_long %}について](/github/managing-large-files/about-git-large-file-storage#pointer-file-format)」を参照してください。
 

@@ -29,4 +29,4 @@ shortTitle: アカウントのインタラクションの制限
 {% data reusables.user-settings.access_settings %}
 1. In the "Access" section of the sidebar, select **{% octicon "report" aria-label="The report icon" %} Moderation** then click **Interaction limits**.
 {% data reusables.community.set-interaction-limit %}
-  ![[Temporary interaction limits] のオプション](/assets/images/help/settings/user-account-temporary-interaction-limits-options.png)
+  ![[Temporary interaction limits] のオプション](/assets/images/2021/10/help/settings/user-account-temporary-interaction-limits-options.png)

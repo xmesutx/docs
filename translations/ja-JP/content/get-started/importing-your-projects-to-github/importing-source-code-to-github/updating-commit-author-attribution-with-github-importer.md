@@ -15,8 +15,8 @@ GitHub Importer は、インポートしているリポジトリのコミット�
 
 ## コミット作者を更新する
 
-1. リポジトリをインポートした後、インポートステータスページで [**Match authors**] をクリックします。 ![[Match authors] ボタン](/assets/images/help/importer/match-authors-button.png)
-2. 更新したい情報のある作者の横にある [**Connect**] をクリックします。 ![コミット作者のリスト](/assets/images/help/importer/connect-commit-author.png)
+1. リポジトリをインポートした後、インポートステータスページで [**Match authors**] をクリックします。 ![[Match authors] ボタン](/assets/images/2021/10/help/importer/match-authors-button.png)
+2. 更新したい情報のある作者の横にある [**Connect**] をクリックします。 ![コミット作者のリスト](/assets/images/2021/10/help/importer/connect-commit-author.png)
 3. 作者のメールアドレスまたは GitHub ユーザ名を入力し、**Enter** を押します。
 
 ## パブリックメールアドレスのある GitHub ユーザにコミットを属させる

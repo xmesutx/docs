@@ -32,16 +32,16 @@ For information on choosing a machine type when you create a codespace, see "[Cr
 
    The current machine type for each of your codespaces is displayed.
 
-   !['Your codespaces' list](/assets/images/help/codespaces/your-codespaces-list.png)
+   !['Your codespaces' list](/assets/images/2021/10/help/codespaces/your-codespaces-list.png)
 
 1. Click the ellipsis (**...**) to the right of the codespace you want to modify.
 1. Click **Change machine type**.
 
-   !['Change machine type' menu option](/assets/images/help/codespaces/change-machine-type-menu-option.png)
+   !['Change machine type' menu option](/assets/images/2021/10/help/codespaces/change-machine-type-menu-option.png)
 
 1. If multiple machine types are available for your codespace, choose the type of machine you want to use.
 
-   ![Dialog box showing available machine types to choose](/assets/images/help/codespaces/change-machine-type-choice.png)
+   ![Dialog box showing available machine types to choose](/assets/images/2021/10/help/codespaces/change-machine-type-choice.png)
 
    {% data reusables.codespaces.codespaces-machine-type-availability %}
 
@@ -55,12 +55,12 @@ If you change the machine type of a codespace you are currently using, and you w
 
 1. At the bottom left of your codespace window, click **{% data variables.product.prodname_codespaces %}**. 
 
-   ![Click '{% data variables.product.prodname_codespaces %}'](/assets/images/help/codespaces/codespaces-button.png)
+   ![Click '{% data variables.product.prodname_codespaces %}'](/assets/images/2021/10/help/codespaces/codespaces-button.png)
 
 1. From the options that are displayed at the top of the page select **Codespaces: Stop Current Codespace**.
 
-   !['Suspend Current Codespace' option](/assets/images/help/codespaces/suspend-current-codespace.png)
+   !['Suspend Current Codespace' option](/assets/images/2021/10/help/codespaces/suspend-current-codespace.png)
 
 1. After the codespace is stopped, click **Restart codespace**.
 
-   ![Click 'Resume'](/assets/images/help/codespaces/resume-codespace.png)
+   ![Click 'Resume'](/assets/images/2021/10/help/codespaces/resume-codespace.png)

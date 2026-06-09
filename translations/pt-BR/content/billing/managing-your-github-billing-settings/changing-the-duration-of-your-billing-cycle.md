@@ -41,5 +41,5 @@ Quando você altera a duração do ciclo de cobrança, sua assinatura do {% data
 ### Alterar a duração de um plano herdado por repositório
 
 {% data reusables.organizations.billing-settings %}
-4. Em "Billing overview" (Visão geral de cobrança), clique em **Change plan** (Alterar plano). ![Botão de alteração de plano na visão geral de cobrança](/assets/images/help/billing/billing_overview_change_plan.png)
-5. No canto superior direito, clique em **Switch to monthly billing** (Alternar para cobrança mensal) ou **Switch to yearly billing** (Alternar para cobrança anual). ![Seção de informações de cobrança](/assets/images/help/billing/settings_billing_organization_plans_switch_to_yearly.png)
+4. Em "Billing overview" (Visão geral de cobrança), clique em **Change plan** (Alterar plano). ![Botão de alteração de plano na visão geral de cobrança](/assets/images/2021/10/help/billing/billing_overview_change_plan.png)
+5. No canto superior direito, clique em **Switch to monthly billing** (Alternar para cobrança mensal) ou **Switch to yearly billing** (Alternar para cobrança anual). ![Seção de informações de cobrança](/assets/images/2021/10/help/billing/settings_billing_organization_plans_switch_to_yearly.png)

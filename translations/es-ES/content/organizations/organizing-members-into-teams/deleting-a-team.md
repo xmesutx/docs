@@ -23,6 +23,6 @@ topics:
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. Selecciona los equipos que deseas eliminar. ![Lista de miembros con dos equipos seleccionados](/assets/images/help/teams/list-of-teams-selected.png)
-5. Sobre la lista de equipos, usa el menú desplegable y haz clic en **Eliminar**. ![Menú desplegable con opción para cambiar la visibilidad del equipo](/assets/images/help/teams/team-bulk-management-options.png)
-6. Revisa los equipos que se eliminarán y luego haz clic en **Comprendo. Eliminar estos equipos**. ![Lista de equipos que se eliminarán y botón Eliminar equipos](/assets/images/help/teams/confirm-delete-teams-bulk.png)
+4. Selecciona los equipos que deseas eliminar. ![Lista de miembros con dos equipos seleccionados](/assets/images/2021/10/help/teams/list-of-teams-selected.png)
+5. Sobre la lista de equipos, usa el menú desplegable y haz clic en **Eliminar**. ![Menú desplegable con opción para cambiar la visibilidad del equipo](/assets/images/2021/10/help/teams/team-bulk-management-options.png)
+6. Revisa los equipos que se eliminarán y luego haz clic en **Comprendo. Eliminar estos equipos**. ![Lista de equipos que se eliminarán y botón Eliminar equipos](/assets/images/2021/10/help/teams/confirm-delete-teams-bulk.png)

@@ -45,8 +45,8 @@ shortTitle: Verify your email address
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
-1. メールアドレスの下にある [**Resend verification email**] をクリックします。 ![[Resend verification email] リンク](/assets/images/help/settings/email-verify-button.png)
-4. {% data variables.product.prodname_dotcom %} からリンクが記載された電子メールが送信されます。 そのリンクをクリックすると、{% data variables.product.prodname_dotcom %} ダッシュボードに移動して確認バナーが表示されます。 ![メールが検証されたことを知らせるバナー](/assets/images/help/settings/email-verification-confirmation-banner.png)
+1. メールアドレスの下にある [**Resend verification email**] をクリックします。 ![[Resend verification email] リンク](/assets/images/2021/10/help/settings/email-verify-button.png)
+4. {% data variables.product.prodname_dotcom %} からリンクが記載された電子メールが送信されます。 そのリンクをクリックすると、{% data variables.product.prodname_dotcom %} ダッシュボードに移動して確認バナーが表示されます。 ![メールが検証されたことを知らせるバナー](/assets/images/2021/10/help/settings/email-verification-confirmation-banner.png)
 
 ## メール検証のトラブルシューティング
 

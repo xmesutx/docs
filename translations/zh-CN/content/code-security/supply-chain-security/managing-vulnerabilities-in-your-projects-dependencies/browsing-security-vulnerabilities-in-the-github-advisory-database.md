@@ -61,7 +61,7 @@ The {% data variables.product.prodname_advisory_database %} uses the CVSS levels
 
 1. Navigate to https://github.com/advisories.
 2. Optionally, to filter the list, use any of the drop-down menus.
-  ![Dropdown filters](/assets/images/help/security/advisory-database-dropdown-filters.png)
+  ![Dropdown filters](/assets/images/2021/10/help/security/advisory-database-dropdown-filters.png)
    {% tip %}
 
    **Tip:** You can use the sidebar on the left to explore  {% data variables.product.company_short %}-reviewed and unreviewed advisories separately.
@@ -112,9 +112,9 @@ For any {% data variables.product.company_short %}-reviewed advisory in the {% d
 1. Navigate to https://github.com/advisories.
 2. Click an advisory.
 3. At the top of the advisory page, click **Dependabot alerts**.
-   ![Dependabot alerts](/assets/images/help/security/advisory-database-dependabot-alerts.png)
+   ![Dependabot alerts](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts.png)
 4. Optionally, to filter the list, use the search bar or the drop-down menus. The "Organization" drop-down menu allows you to filter the {% data variables.product.prodname_dependabot_alerts %} per owner (organization or user).
-   ![Search bar and drop-down menus to filter alerts](/assets/images/help/security/advisory-database-dependabot-alerts-filters.png)
+   ![Search bar and drop-down menus to filter alerts](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts-filters.png)
 5. For more details about the vulnerability, and for advice on how to fix the vulnerable repository, click the repository name.
 
 ## Further reading

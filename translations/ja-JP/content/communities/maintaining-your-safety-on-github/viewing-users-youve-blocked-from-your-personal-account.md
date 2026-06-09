@@ -15,7 +15,7 @@ shortTitle: アカウントでブロックされたユーザーの表示
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. [Blocked users] の下で、アカウントからブロックしたユーザの一覧を確認します。 ![ブロックされたユーザの一覧](/assets/images/help/settings/list-of-blocked-users.png)
+3. [Blocked users] の下で、アカウントからブロックしたユーザの一覧を確認します。 ![ブロックされたユーザの一覧](/assets/images/2021/10/help/settings/list-of-blocked-users.png)
 
 ## 参考リンク
 

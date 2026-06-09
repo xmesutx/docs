@@ -12,7 +12,7 @@ shortTitle: 配置基本设置
 {% mac %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
-3. 要查看或更改设置，请在这些窗格之间切换： ![首选项菜单导航](/assets/images/help/desktop/mac-select-accounts-pane.png)
+3. 要查看或更改设置，请在这些窗格之间切换： ![首选项菜单导航](/assets/images/2021/10/help/desktop/mac-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endmac %}
@@ -20,7 +20,7 @@ shortTitle: 配置基本设置
 {% windows %}
 
 {% data reusables.desktop.windows-choose-options %}
-2. 要查看或更改设置，请在这些窗格之间切换： ![选项菜单导航](/assets/images/help/desktop/windows-select-accounts-pane.png)
+2. 要查看或更改设置，请在这些窗格之间切换： ![选项菜单导航](/assets/images/2021/10/help/desktop/windows-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endwindows %}

@@ -22,7 +22,7 @@ shortTitle: Visualizar a las personas en una organización
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Verás una lista de personas en tu organización. Para filtrar esta lista por rol, haz clic en **Role (Rol)** y seleccionar el rol que estás buscando. ![click-role](/assets/images/help/organizations/view-list-of-people-in-org-by-role.png)
+4. Verás una lista de personas en tu organización. Para filtrar esta lista por rol, haz clic en **Role (Rol)** y seleccionar el rol que estás buscando. ![click-role](/assets/images/2021/10/help/organizations/view-list-of-people-in-org-by-role.png)
 
 {% ifversion fpt %}
 
@@ -56,9 +56,9 @@ Para obtener más información sobre el rol de propietario de empresa, consulta 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. En la barra lateral izquierda, debajo de "Permisos empresariales", haz clic en **Propietarios de la empresa**. ![Captura de pantalla de la opción de "Propietarios de empresa" en el menú de la barra lateral](/assets/images/help/organizations/enterprise-owners-sidebar.png)
+4. En la barra lateral izquierda, debajo de "Permisos empresariales", haz clic en **Propietarios de la empresa**. ![Captura de pantalla de la opción de "Propietarios de empresa" en el menú de la barra lateral](/assets/images/2022/01/help/organizations/enterprise-owners-sidebar.png)
 5. Ve la lista de propietarios de tu empresa. Si el propietario de la empresa también es un miembro de tu organización, podrás ver su rol en esta.
 
-  ![Captura de pantalla de la lista de propietarios de empresa y de sus roles en la organización](/assets/images/help/organizations/enterprise-owners-list-on-org-page.png)
+  ![Captura de pantalla de la lista de propietarios de empresa y de sus roles en la organización](/assets/images/2022/01/help/organizations/enterprise-owners-list-on-org-page.png)
 
 {% endif %}

@@ -62,7 +62,7 @@ Puedes almacenar los secretos a nivel de repositorio, organización o usuario, l
 
 Si estás configurando secretos a nivel de organización o de usuario, asegúrate de asignarlos al repositorio en el que crearás el codespace eligiendo una política de acceso desde la lista desplegable.
 
-![Ejemplo de secreto de registro de imagen](/assets/images/help/codespaces/secret-repository-access.png)
+![Ejemplo de secreto de registro de imagen](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 
 ### Secretos de ejemplo
 
@@ -76,7 +76,7 @@ ACR_CONTAINER_REGISTRY_PASSWORD = <PAT>
 
 Para obtener más información sobre los registros de imagen comunes, consulta la sección "[Servidores de registro de imagen comunes](#common-image-registry-servers)". Toma en cuenta que el acceso a AWS Elastic Container Registry (ECR) será diferente.
 
-![Ejemplo de secreto de registro de imagen](/assets/images/help/settings/codespaces-image-registry-secret-example.png)
+![Ejemplo de secreto de registro de imagen](/assets/images/2021/10/help/settings/codespaces-image-registry-secret-example.png)
 
 Una vez que hayas agregado los secretos, podría ser que necesites parar y luego iniciar el codespace en el que estás para que las variables de ambiente nuevas pasen en el contenedor. Para obtener más información, consulta la sección "[Suspender o detener un codespace](/codespaces/codespaces-reference/using-the-command-palette-in-codespaces#suspending-or-stopping-a-codespace)".
 

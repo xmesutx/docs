@@ -24,7 +24,7 @@ topics:
 
 Para anexar um arquivo a uma conversa sobre um problema ou pull request, arraste-o e solte-o dentro da caixa de comentários. Como alternativa, você pode clicar na barra na parte inferior da caixa de comentários para navegar, selecionar e adicionar um arquivo do seu computador.
 
-![Selecionar anexos do computador](/assets/images/help/pull_requests/select-bar.png)
+![Selecionar anexos do computador](/assets/images/2021/10/help/pull_requests/select-bar.png)
 
 {% tip %}
 
@@ -61,4 +61,4 @@ Arquivos compatíveis:
 {% endnote %}
 {% endif %}
 
-![Anexos GIF animados](/assets/images/help/pull_requests/dragging_images.gif)
+![Anexos GIF animados](/assets/images/2021/10/help/pull_requests/dragging_images.gif)

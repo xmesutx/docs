@@ -33,7 +33,7 @@ shortTitle: 入门
 
 1. 必须有帐户才可向 {% data variables.product.prodname_dotcom %} 或 {% data variables.product.prodname_enterprise %} 验证。 有关创建帐户的更多信息，请参阅“[注册新 {% data variables.product.prodname_dotcom %} 帐户](/github/getting-started-with-github/signing-up-for-a-new-github-account)”或联系您的 {% data variables.product.prodname_enterprise %} 帐户管理员。
 
-2. 在 {% data variables.product.prodname_desktop %} 下拉菜单中，单击 **Preferences（首选项）**。 在首选项窗口中，单击 **Accounts（帐户）**并按照登录步骤操作。 有关身份验证的更多信息，请参阅“[向 {% data variables.product.prodname_dotcom %} 验证](/desktop/getting-started-with-github-desktop/authenticating-to-github)”。 ![GitHub 的登录按钮](/assets/images/help/desktop/mac-sign-in-github.png)
+2. 在 {% data variables.product.prodname_desktop %} 下拉菜单中，单击 **Preferences（首选项）**。 在首选项窗口中，单击 **Accounts（帐户）**并按照登录步骤操作。 有关身份验证的更多信息，请参阅“[向 {% data variables.product.prodname_dotcom %} 验证](/desktop/getting-started-with-github-desktop/authenticating-to-github)”。 ![GitHub 的登录按钮](/assets/images/2021/10/help/desktop/mac-sign-in-github.png)
 
 {% endmac %}
 
@@ -41,7 +41,7 @@ shortTitle: 入门
 
 1. 必须有帐户才可向 {% data variables.product.prodname_dotcom %} 或 {% data variables.product.prodname_enterprise %} 验证。 有关创建帐户的更多信息，请参阅“[注册新 {% data variables.product.prodname_dotcom %} 帐户](/github/getting-started-with-github/signing-up-for-a-new-github-account)”或联系您的 {% data variables.product.prodname_enterprise %} 帐户管理员。
 
-2. 在 File（文件）下拉菜单中，单击 **Options（选项）**。 在选项窗口中，单击 **Accounts（帐户）**并按照登录步骤操作。 有关身份验证的更多信息，请参阅“[向 {% data variables.product.prodname_dotcom %} 验证](/desktop/getting-started-with-github-desktop/authenticating-to-github)”。 ![GitHub 的登录按钮](/assets/images/help/desktop/windows-sign-in-github.png)
+2. 在 File（文件）下拉菜单中，单击 **Options（选项）**。 在选项窗口中，单击 **Accounts（帐户）**并按照登录步骤操作。 有关身份验证的更多信息，请参阅“[向 {% data variables.product.prodname_dotcom %} 验证](/desktop/getting-started-with-github-desktop/authenticating-to-github)”。 ![GitHub 的登录按钮](/assets/images/2021/10/help/desktop/windows-sign-in-github.png)
 
 {% endwindows %}
 
@@ -52,7 +52,7 @@ shortTitle: 入门
 
 您可以连接或删除 {% data variables.product.prodname_dotcom %} 或 {% data variables.product.prodname_enterprise %} 上的帐户、选择默认文本编辑器或 shell、编辑 Git 配置、更改 {% data variables.product.prodname_desktop %} 的外观、自定义系统对话框，以及在 {% data variables.product.prodname_desktop %} Preferences（首选项）窗口中设置隐私首选项。 更多信息请参阅“[配置基本设置](/desktop/getting-started-with-github-desktop/configuring-basic-settings)”。
 
-  ![Preferences（首选项）窗口中的基本设置](/assets/images/help/desktop/mac-appearance-tab-themes.png)
+  ![Preferences（首选项）窗口中的基本设置](/assets/images/2021/10/help/desktop/mac-appearance-tab-themes.png)
 
 {% endmac %}
 
@@ -60,7 +60,7 @@ shortTitle: 入门
 
 您可以连接或删除 {% data variables.product.prodname_dotcom %} 或 {% data variables.product.prodname_enterprise %} 上的帐户、选择默认文本编辑器或 shell、编辑 Git 配置、更改 {% data variables.product.prodname_desktop %} 的外观、自定义系统对话框，以及在 {% data variables.product.prodname_desktop %} Options（选项）窗口中设置隐私首选项。 更多信息请参阅“[配置基本设置](/desktop/getting-started-with-github-desktop/configuring-basic-settings)”。
 
-  ![Options（选项）窗口中的基本设置](/assets/images/help/desktop/windows-appearance-tab-themes.png)
+  ![Options（选项）窗口中的基本设置](/assets/images/2021/10/help/desktop/windows-appearance-tab-themes.png)
 
 {% endwindows %}
 
@@ -76,24 +76,24 @@ shortTitle: 入门
 
 {% mac %}
 
-  ![用于创建、添加和克隆仓库的 File（文件）菜单选项](/assets/images/help/desktop/mac-file-menu.png)
+  ![用于创建、添加和克隆仓库的 File（文件）菜单选项](/assets/images/2021/10/help/desktop/mac-file-menu.png)
 
 {% endmac %}
 
 {% windows %}
 
-  ![用于创建、添加和克隆仓库的 File（文件）菜单选项](/assets/images/help/desktop/windows-file-menu.png)
+  ![用于创建、添加和克隆仓库的 File（文件）菜单选项](/assets/images/2021/10/help/desktop/windows-file-menu.png)
 
 {% endwindows %}
 
 ### 在分支中更改
 您可以使用 {% data variables.product.prodname_desktop %} 创建项目分支。 分支将开发工作与仓库中的其他分支相分隔，以便您安全地尝试更改。 更多信息请参阅“[管理分支](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches)。”
 
-  ![New Branch（新分支）按钮](/assets/images/help/desktop/new-branch-button-mac.png)
+  ![New Branch（新分支）按钮](/assets/images/2021/10/help/desktop/new-branch-button-mac.png)
 
 对分支进行更改后，您可以在 {% data variables.product.prodname_desktop %} 中审查它们，并创建提交以跟踪您的更改。 更多信息请参阅“[提交和审查对项目的更改](/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project)”。
 
-  ![查看和创建提交](/assets/images/help/desktop/commit-button.png)
+  ![查看和创建提交](/assets/images/2021/10/help/desktop/commit-button.png)
 
 如果要远程访问更改或与他人共享更改，您可以将提交推送到 {% data variables.product.prodname_dotcom %}。 更多信息请参阅“[推送更改到 {% data variables.product.prodname_dotcom %}](/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github)”。
 

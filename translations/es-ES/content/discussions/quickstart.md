@@ -22,10 +22,10 @@ Los propietarios de los repositorios y las personas con acceso de escritura pued
 Cuando habilitas los {% data variables.product.prodname_discussions %} por primera vez, se te invitará a configurar una publicación de bienvenida.
 
 {% data reusables.repositories.navigate-to-repo %}
-1. Debajo de tu nombre de repositorio, da clic en {% octicon "gear" aria-label="The gear icon" %} **Configuración**. ![Botón de configuración pública](/assets/images/help/discussions/public-repo-settings.png)
-1. Debajo de "Características", da clic en **Configurar debates**. ![Configurar un botón de debate debajo de las "Características" para habilitar o inhabilitar los debates de GitHub en un repositorio](/assets/images/help/discussions/setup-discussions-button.png)
+1. Debajo de tu nombre de repositorio, da clic en {% octicon "gear" aria-label="The gear icon" %} **Configuración**. ![Botón de configuración pública](/assets/images/2021/10/help/discussions/public-repo-settings.png)
+1. Debajo de "Características", da clic en **Configurar debates**. ![Configurar un botón de debate debajo de las "Características" para habilitar o inhabilitar los debates de GitHub en un repositorio](/assets/images/2021/10/help/discussions/setup-discussions-button.png)
 1. Debajo de "Iniciar un debate nuevo" edita la plantilla para que se apegue con los recursos y el tono que quieras configurar para tu comunidad.
-1. Da clic en **Iniciar debate**. ![Botón de "Iniciar debate"](/assets/images/help/discussions/new-discussion-start-discussion-button.png)
+1. Da clic en **Iniciar debate**. ![Botón de "Iniciar debate"](/assets/images/2021/10/help/discussions/new-discussion-start-discussion-button.png)
 
 ## Aceptar contribuyentes en tus debates
 

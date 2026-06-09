@@ -26,11 +26,11 @@ Os autores de pull requests podem dar essas permissões ao criarem inicialmente 
 ## Habilitar permissões do mantenedor de repositório em pull requests existentes
 
 1. No {% data variables.product.product_name %}, navegue até a página principal do repositório upstream da sua pull request.
-2. Abaixo do nome do repositório upstream, clique em {% octicon "git-pull-request" aria-label="The pull request icon" %} **Pull requests**. ![Problemas e seleção da guia pull requests](/assets/images/help/repository/repo-tabs-pull-requests.png)
+2. Abaixo do nome do repositório upstream, clique em {% octicon "git-pull-request" aria-label="The pull request icon" %} **Pull requests**. ![Problemas e seleção da guia pull requests](/assets/images/2021/10/help/repository/repo-tabs-pull-requests.png)
 3. Na lista de pull requests, navegue até a pull request em que deseja permitir os commits.
 {% data reusables.repositories.allow-maintainers-user-forks %}
 
-  ![allow-maintainers-to-make-edits-sidebar-checkbox](/assets/images/help/pull_requests/allow-maintainers-to-make-edits-sidebar-checkbox.png)
+  ![allow-maintainers-to-make-edits-sidebar-checkbox](/assets/images/2021/10/help/pull_requests/allow-maintainers-to-make-edits-sidebar-checkbox.png)
 
 ## Leia mais
 

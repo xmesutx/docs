@@ -21,7 +21,7 @@ shortTitle: ポートの転送
 
 When an application running inside a codespace prints output to the terminal that contains a localhost URL, such as `http://localhost:PORT` or `http://127.0.0.1:PORT`, the port is automatically forwarded. If you're using {% data variables.product.prodname_codespaces %} in the browser or in {% data variables.product.prodname_vscode %}, the URL string in the terminal is converted into a link that you can click to view the web page on your local machine. By default, {% data variables.product.prodname_codespaces %} forwards ports using HTTP.
 
-![Automatic port forwarding](/assets/images/help/codespaces/automatic-port-forwarding.png)
+![Automatic port forwarding](/assets/images/2021/10/help/codespaces/automatic-port-forwarding.png)
 
 You can also forward a port manually, label forwarded ports, share forwarded ports with members of your organization, share forwarded ports publicly, and add forwarded ports to the codespace configuration.
 
@@ -34,18 +34,18 @@ You can manually forward a port that wasn't forwarded automatically.
 {% data reusables.codespaces.navigate-to-ports-tab %}
 1. Under the list of ports, click **Add port**.
 
-   ![Add port button](/assets/images/help/codespaces/add-port-button.png)
+   ![Add port button](/assets/images/2021/10/help/codespaces/add-port-button.png)
 
 1. Type the port number or address, then press enter.
 
-   ![Text box to type port button](/assets/images/help/codespaces/port-number-text-box.png)
+   ![Text box to type port button](/assets/images/2021/10/help/codespaces/port-number-text-box.png)
 
 ## Using HTTPS forwarding
 
 By default, {% data variables.product.prodname_codespaces %} forwards ports using HTTP but you can update any port to use HTTPS, as needed.
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Right click the port you want to update, then hover over **Change Port Protocol**. ![Option to change port protocol](/assets/images/help/codespaces/update-port-protocol.png)
+1. Right click the port you want to update, then hover over **Change Port Protocol**. ![Option to change port protocol](/assets/images/2021/10/help/codespaces/update-port-protocol.png)
 1. Select the protocol needed for this port. The protocol that you select will be remembered for this port for the lifetime of the codespace.
 
 {% endwebui %}
@@ -55,11 +55,11 @@ By default, {% data variables.product.prodname_codespaces %} forwards ports usin
 {% data reusables.codespaces.navigate-to-ports-tab %}
 1. Under the list of ports, click **Add port**.
 
-   ![Add port button](/assets/images/help/codespaces/add-port-button.png)
+   ![Add port button](/assets/images/2021/10/help/codespaces/add-port-button.png)
 
 1. Type the port number or address, then press enter.
 
-   ![Text box to type port button](/assets/images/help/codespaces/port-number-text-box.png)
+   ![Text box to type port button](/assets/images/2021/10/help/codespaces/port-number-text-box.png)
 
 {% endvscode %}
 
@@ -93,8 +93,8 @@ If you want to share a forwarded port with others, you can either make the port 
 {% webui %}
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Right click the port that you want to share, select the "Port Visibility" menu, then click **Private to Organization** or **Public**. ![Option to select port visibility in right-click menu](/assets/images/help/codespaces/make-public-option.png)
-1. To the right of the local address for the port, click the copy icon. ![Copy icon for port URL](/assets/images/help/codespaces/copy-icon-port-url.png)
+1. Right click the port that you want to share, select the "Port Visibility" menu, then click **Private to Organization** or **Public**. ![Option to select port visibility in right-click menu](/assets/images/2021/10/help/codespaces/make-public-option.png)
+1. To the right of the local address for the port, click the copy icon. ![Copy icon for port URL](/assets/images/2021/10/help/codespaces/copy-icon-port-url.png)
 1. Send the copied URL to the person you want to share the port with.
 
 {% endwebui %}
@@ -102,8 +102,8 @@ If you want to share a forwarded port with others, you can either make the port 
 {% vscode %}
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Right click the port you want to share, then click **Make Public**. ![Option to make port public in right-click menu](/assets/images/help/codespaces/make-public-option.png)
-1. To the right of the local address for the port, click the copy icon. ![Copy icon for port URL](/assets/images/help/codespaces/copy-icon-port-url.png)
+1. Right click the port you want to share, then click **Make Public**. ![Option to make port public in right-click menu](/assets/images/2021/10/help/codespaces/make-public-option.png)
+1. To the right of the local address for the port, click the copy icon. ![Copy icon for port URL](/assets/images/2021/10/help/codespaces/copy-icon-port-url.png)
 1. Send the copied URL to the person you want to share the port with.
 
 {% endvscode %}
@@ -133,7 +133,7 @@ For more information about this command, see [the {% data variables.product.prod
 You can label a port to make the port more easily identifiable in a list.
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Hover over the port you want to label, then click the label icon. ![Label icon for port](/assets/images/help/codespaces/label-icon.png)
+1. Hover over the port you want to label, then click the label icon. ![Label icon for port](/assets/images/2021/10/help/codespaces/label-icon.png)
 {% data reusables.codespaces.type-port-label %}
 
 ## Adding a port to the codespace configuration
@@ -143,5 +143,5 @@ You can add a forwarded port to the {% data variables.product.prodname_codespace
 `forwardPorts` プロパティで `.devcontainer.json` ファイルで転送ポートを手動で設定するか、codespace の [Ports] パネルを使用できます。
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Right click the port you want to add to the codespace configuration, then click **Set Label and Update devcontainer.json**. ![Option to set label and add port to devcontainer.json in the right-click menu](/assets/images/help/codespaces/update-devcontainer-to-add-port-option.png)
+1. Right click the port you want to add to the codespace configuration, then click **Set Label and Update devcontainer.json**. ![Option to set label and add port to devcontainer.json in the right-click menu](/assets/images/2021/10/help/codespaces/update-devcontainer-to-add-port-option.png)
 {% data reusables.codespaces.type-port-label %}

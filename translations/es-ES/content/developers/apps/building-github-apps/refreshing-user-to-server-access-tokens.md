@@ -58,8 +58,8 @@ Puedes habilitar o inhabilitar los tokens de autorización de usuario a servidor
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-4. Da clic en la opción**Editar** junto a la {% data variables.product.prodname_github_app %} que escogiste. ![Configuración para editar una GitHub App](/assets/images/github-apps/edit-test-app.png)
-5. In the left sidebar, click **Optional Features**. ![Optional features tab](/assets/images/github-apps/optional-features-option.png)
+4. Da clic en la opción**Editar** junto a la {% data variables.product.prodname_github_app %} que escogiste. ![Configuración para editar una GitHub App](/assets/images/2021/10/github-apps/edit-test-app.png)
+5. In the left sidebar, click **Optional Features**. ![Optional features tab](/assets/images/2021/10/github-apps/optional-features-option.png)
 6. Junto a "caducidad de token de usuario a servidor", da clic en **Unirse** o en **No unirse**. Esta característica podría tardar un par de segundos para su aplicación.
 
 ## Decidir no unirse a los tokens con caducidad para las GitHub Apps nuevas
@@ -68,7 +68,7 @@ Cuando creas una {% data variables.product.prodname_github_app %}, ésta utiliza
 
 Si quieres que tu app utlice tokens de acceso de usuario a servidor sin caducidad, puedes deseleccionar la opción "Poner caducidad en los tokens de autorización de usuario" en la página de ajustes de la app.
 
-![Opción para unirse a los tokens de usuario con caducidad durante la configuración de las GitHub Apps](/assets/images/github-apps/expire-user-tokens-selection.png)
+![Opción para unirse a los tokens de usuario con caducidad durante la configuración de las GitHub Apps](/assets/images/2021/10/github-apps/expire-user-tokens-selection.png)
 
 Las {% data variables.product.prodname_github_apps %} existentes que utilicen tokens de autorización de usuario a servidor solo se verán afectadas por este flujo nuevo cuando el propietario de la app habilite la caducidad de los tokens para la app en cuestión.
 

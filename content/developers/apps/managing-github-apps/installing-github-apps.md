@@ -26,7 +26,7 @@ Once you create a private GitHub App, you can install it on one of your org or u
 2. In the left sidebar, click **Install App**.
 3. Click **Install** next to the organization or user account containing the correct repository.
 4. Install the app on all repositories or select repositories.
-![App installation permissions](/assets/images/install_permissions.png)
+![App installation permissions](/assets/images/2021/10/install_permissions.png)
 5. Once installed, you will see configuration options for the app on your selected account. You can make changes here, or repeat the previous steps to install the app on another account.
 
 {% ifversion fpt or ghec %}
@@ -50,9 +50,9 @@ These steps assume you have [built a {% data variables.product.prodname_github_a
 
 1. From the [GitHub Apps settings page](https://github.com/settings/apps), select the public app you want to configure for others to install.
 2. In "Homepage URL," type the URL for your app's homepage and click **Save changes**.
-![Homepage URL](/assets/images/github-apps/github_apps_homepageURL.png)
+![Homepage URL](/assets/images/2021/10/github-apps/github_apps_homepageURL.png)
 3. GitHub provides a landing page for your app that includes a link to your app's "Homepage URL." To visit the landing page on GitHub, copy the URL from "Public link" and paste it into a browser.
-![Public link](/assets/images/github-apps/github_apps_public_link.png)
+![Public link](/assets/images/2021/10/github-apps/github_apps_public_link.png)
 4. Create a homepage for your app that includes the app installation URL: `{% data variables.product.oauth_host_code %}/apps/<app name>/installations/new`.
 
 ## Authorizing users during installation

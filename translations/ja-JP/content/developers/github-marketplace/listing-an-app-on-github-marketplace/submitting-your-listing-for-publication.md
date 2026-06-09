@@ -17,10 +17,10 @@ shortTitle: リストのサブミット
 
 1. アプリケーション掲載ページの左上にある [**Overview**] をクリックします。 アプリケーション掲載ページの探し方に関する情報については、「[アプリケーションのリストのドラフト](/developers/github-marketplace/drafting-a-listing-for-your-app)」を参照してください。
 
-  ![Marketplaceのリストのドラフトの概要オプション](/assets/images/marketplace/edit-marketplace-listing-overview.png)
+  ![Marketplaceのリストのドラフトの概要オプション](/assets/images/2021/10/marketplace/edit-marketplace-listing-overview.png)
 
 2. To submit your completed app listing, click **Request publish**.
 
-  ![下に提出ボタンの付いた、[Publish your app to Marketplace] チェックリスト](/assets/images/marketplace/publish-your-app-checklist-and-submission.png)
+  ![下に提出ボタンの付いた、[Publish your app to Marketplace] チェックリスト](/assets/images/2021/10/marketplace/publish-your-app-checklist-and-submission.png)
 
 オンボーディングの専門家が後ほど連絡し、追加情報をお伝えします。

@@ -57,11 +57,11 @@ Organizations can use the `name@organization.com` email as a public point of con
 
 在 {% data variables.product.product_name %} 上使用 web 编辑器对文件进行更改后，您可以通过在提交消息中添加 `on-behalf-of:` 尾行来创建代表组织的提交。
 
-1. 进行更改后，在页面底部键入简短、有意义的提交消息，以描述您所做的更改。 ![有关更改的提交消息](/assets/images/help/repository/write-commit-message-quick-pull.png)
+1. 进行更改后，在页面底部键入简短、有意义的提交消息，以描述您所做的更改。 ![有关更改的提交消息](/assets/images/2021/10/help/repository/write-commit-message-quick-pull.png)
 
 2. 在提交消息下方的文本框中，添加 `on-behalf-of: @org <name@organization.com>`。
 
-  ![第二个提交消息文本框中的提交消息代表尾行示例](/assets/images/help/repository/write-commit-message-on-behalf-of-trailer.png)
+  ![第二个提交消息文本框中的提交消息代表尾行示例](/assets/images/2021/10/help/repository/write-commit-message-on-behalf-of-trailer.png)
 4. 单击 **Commit changes（提交更改）**或 **Propose changes（提议更改）**。
 
 新的提交、消息和徽章将显示在 {% data variables.product.product_location %} 上。

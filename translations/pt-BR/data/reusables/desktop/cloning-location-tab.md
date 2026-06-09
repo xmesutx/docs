@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![Guias Location (Local) no menu Clone a repository (Clonar um repositório)](/assets/images/help/desktop/choose-repository-location-mac.png)
+  ![Guias Location (Local) no menu Clone a repository (Clonar um repositório)](/assets/images/2021/10/help/desktop/choose-repository-location-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Guias Location (Local) no menu Clone a repository (Clonar um repositório)](/assets/images/help/desktop/choose-repository-location-win.png)
+  ![Guias Location (Local) no menu Clone a repository (Clonar um repositório)](/assets/images/2021/10/help/desktop/choose-repository-location-win.png)
 
   {% endwindows %}

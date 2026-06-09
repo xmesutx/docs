@@ -72,11 +72,11 @@ topics:
 
 收件箱以标签形式显示您接收通知的 `reasons`。
 
-![收件箱中的原因标签](/assets/images/help/notifications-v2/reasons-as-labels-in-inbox.png)
+![收件箱中的原因标签](/assets/images/2021/10/help/notifications-v2/reasons-as-labels-in-inbox.png)
 
 您可以按订阅通知的原因过滤收件箱。 例如，要仅查看有人请求您审查的拉取请求，您可以使用 `review-requested` 查询过滤器。
 
-![通过查看请求的原因过滤通知](/assets/images/help/notifications-v2/review-requested-reason.png)
+![通过查看请求的原因过滤通知](/assets/images/2021/10/help/notifications-v2/review-requested-reason.png)
 
 如果您已将通知配置为通过电子邮件发送，但认为您收到了不属于自己的通知，请考虑使用显示预期收件人的电子邮件标头排除故障。 更多信息请参阅“[配置通知](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications)”。
 

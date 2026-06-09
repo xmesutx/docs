@@ -18,7 +18,7 @@ shortTitle: Auto linked references
 
 `Visit https://github.com`
 
-![Rendered autolinked URL](/assets/images/help/writing/url-autolink-rendered.png)
+![Rendered autolinked URL](/assets/images/2021/10/help/writing/url-autolink-rendered.png)
 
 For more information on creating links, see "[Basic writing and formatting syntax](/articles/basic-writing-and-formatting-syntax/#links)."
 

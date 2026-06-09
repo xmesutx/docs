@@ -37,7 +37,7 @@ Si generas nuevos códigos de recuperación o inhabilitas y vuelves a habilitar 
 4. Guarda tus códigos de recuperación en un lugar seguro. Tus códigos de recuperación te ayudarán a regresar a tu cuenta si pierdes acceso.
     - Para guardar tus códigos de recuperación en tu dispositivo, haz clic en **Download** (Descargar).
     - Para guardar una copia impresa de tus códigos de recuperación, haz clic en **Print** (Imprimir).
-    - Para copiar tus códigos de recuperación a fin de almacenarlo en un administrador de contraseñas, haz clic en **Copy** (Copiar). ![Lista de códigos de recuperación con opción para descargar, imprimir o copiar los códigos](/assets/images/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
+    - Para copiar tus códigos de recuperación a fin de almacenarlo en un administrador de contraseñas, haz clic en **Copy** (Copiar). ![Lista de códigos de recuperación con opción para descargar, imprimir o copiar los códigos](/assets/images/2021/10/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
 
 ## Generar un nuevo conjunto de códigos de recuperación
 
@@ -46,7 +46,7 @@ Una vez que usas un código de recuperación para recuperar el acceso a tu cuent
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 {% data reusables.two_fa.show-recovery-codes %}
-3. Para crear otro lote de códigos de recuperación, haz clic en **Generate new recovery codes** (Generar nuevos códigos de recuperación). ![Botón para generar nuevos códigos de recuperación](/assets/images/help/2fa/generate-new-recovery-codes.png)
+3. Para crear otro lote de códigos de recuperación, haz clic en **Generate new recovery codes** (Generar nuevos códigos de recuperación). ![Botón para generar nuevos códigos de recuperación](/assets/images/2021/10/help/2fa/generate-new-recovery-codes.png)
 
 ## Configurar una clave de seguridad como un método de autenticación de dos factores adicional
 
@@ -70,10 +70,10 @@ Puedes usar un número de reserva independientemente de que hayas configurado la
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. Al lado de "Fallback SMS number" (Número de SMS de reserva), haz clic en **Add** (Agregar). ![Botón para agregar número de SMS de reserva](/assets/images/help/2fa/add-fallback-sms-number-button.png)
-4. En "Fallback SMS number" (Número de SMS de reserva), haz clic en **Add fallbacck SMS number (Agregar número de SMS de reserva). ![Agregar texto al número de SMS de reserva](/assets/images/help/2fa/add_fallback_sms_number_text.png)</p></li>
+3. Al lado de "Fallback SMS number" (Número de SMS de reserva), haz clic en **Add** (Agregar). ![Botón para agregar número de SMS de reserva](/assets/images/2021/10/help/2fa/add-fallback-sms-number-button.png)
+4. En "Fallback SMS number" (Número de SMS de reserva), haz clic en **Add fallbacck SMS number (Agregar número de SMS de reserva). ![Agregar texto al número de SMS de reserva](/assets/images/2021/10/help/2fa/add_fallback_sms_number_text.png)</p></li>
 5
-Selecciona tu código de país y escribe el número de teléfono móvil, incluido el número de área. Cuando la información es correcta, haz clic en **Set fallback** (Establecer reserva). ![Establecer número de SMS de reserva](/assets/images/help/2fa/2fa-fallback-number.png)</ol>
+Selecciona tu código de país y escribe el número de teléfono móvil, incluido el número de área. Cuando la información es correcta, haz clic en **Set fallback** (Establecer reserva). ![Establecer número de SMS de reserva](/assets/images/2021/10/help/2fa/2fa-fallback-number.png)</ol>
 
 Después de la configuración, el dispositivo de copia de seguridad recibirá un SMS de confirmación.
 

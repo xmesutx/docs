@@ -19,8 +19,8 @@ You can deliver deployments through {% data variables.product.prodname_actions %
 
 要查看当前和过去的部署，请在仓库的主页上单击 **Environments（环境）**。
 {% ifversion ghae %}
-![环境](/assets/images/enterprise/2.22/environments-sidebar.png){% else %}
-![Environments](/assets/images/environments-sidebar.png){% endif %}
+![环境](/assets/images/2021/10/enterprise/2.22/environments-sidebar.png){% else %}
+![Environments](/assets/images/2021/10/environments-sidebar.png){% endif %}
 
 部署页显示仓库中每个环境的最新活动部署。 If the deployment includes an environment URL, a **View deployment** button that links to the URL is shown next to the deployment.
 

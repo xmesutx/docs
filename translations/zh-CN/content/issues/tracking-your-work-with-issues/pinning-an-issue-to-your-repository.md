@@ -17,9 +17,9 @@ topics:
 shortTitle: 固定议题
 ---
 
-![固定的议题](/assets/images/help/issues/pinned-issues.png)
+![固定的议题](/assets/images/2021/10/help/issues/pinned-issues.png)
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 1. 在议题列表中，单击您想要固定的议题。
-2. 在右侧边栏中，单击 **Pin issue（固定议题）**。 ![用于固定议题的按钮](/assets/images/help/repository/pin-issue.png)
+2. 在右侧边栏中，单击 **Pin issue（固定议题）**。 ![用于固定议题的按钮](/assets/images/2021/10/help/repository/pin-issue.png)

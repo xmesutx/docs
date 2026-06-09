@@ -22,7 +22,7 @@ Para excluir um problema em um repositório que pertença a uma organização, o
 Os colaboradores não recebem uma notificação quando você exclui um problema. Ao acessarem a URL de um problema excluído, os colaboradores verão uma mensagem informando que o problema foi eliminado. As pessoas com permissões de administrador ou proprietário no repositório também verão o nome de usuário da pessoa que excluiu o problema e quando isso ocorreu.
 
 1. Navegue até o problema que deseja excluir.
-2. Na barra lateral direita, em "Notifications" (Notificações), clique em **Delete this issue** (Excluir este problema). !["Excluir problema" texto destacado na barra lateral direita ao final da página de problema](/assets/images/help/issues/delete-issue.png)
+2. Na barra lateral direita, em "Notifications" (Notificações), clique em **Delete this issue** (Excluir este problema). !["Excluir problema" texto destacado na barra lateral direita ao final da página de problema](/assets/images/2021/10/help/issues/delete-issue.png)
 4. Para confirmar a exclusão, clique em **Delete this issue** (Excluir problema).
 
 ## Leia mais

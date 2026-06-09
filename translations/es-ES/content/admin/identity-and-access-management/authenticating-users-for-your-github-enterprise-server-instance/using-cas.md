@@ -48,6 +48,6 @@ Están disponibles los siguientes atributos.
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-3. Selecciona **CAS**. ![Seleccionar CAS](/assets/images/enterprise/management-console/cas-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Seleccionar la casilla de verificación autenticación integrada](/assets/images/enterprise/management-console/cas-built-in-authentication.png)
+3. Selecciona **CAS**. ![Seleccionar CAS](/assets/images/2021/10/enterprise/management-console/cas-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Seleccionar la casilla de verificación autenticación integrada](/assets/images/2021/10/enterprise/management-console/cas-built-in-authentication.png)
 5. En el campo **URL del servidor**, escribe la URL completa de tu servidor CAS. Si tu servidor CAS usa un certificado que no puede ser validado por {% data variables.product.prodname_ghe_server %}, puedes usar el comando `ghe-ssl-ca-certificate-install` para instalarlo como un certificado de confianza.

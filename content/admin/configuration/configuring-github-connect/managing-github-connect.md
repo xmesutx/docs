@@ -62,11 +62,11 @@ If you're connecting {% data variables.product.product_location %} to an organiz
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
 1. Under "{% data variables.product.prodname_github_connect %} is not enabled yet", click **Enable {% data variables.product.prodname_github_connect %}**. By clicking **Enable {% data variables.product.prodname_github_connect %}**, you agree to the "<a href="/github/site-policy/github-terms-for-additional-products-and-features#connect" class="dotcom-only">{% data variables.product.prodname_dotcom %} Terms for Additional Products and Features</a>."
 {% ifversion ghes %}
-  ![Enable GitHub Connect button](/assets/images/enterprise/business-accounts/enable-github-connect-button.png){% else %}
-  ![Enable GitHub Connect button](/assets/images/enterprise/github-ae/enable-github-connect-button.png)
+  ![Enable GitHub Connect button](/assets/images/2021/10/enterprise/business-accounts/enable-github-connect-button.png){% else %}
+  ![Enable GitHub Connect button](/assets/images/2021/10/enterprise/github-ae/enable-github-connect-button.png)
 {% endif %}
 1. Next to the enterprise account or organization you'd like to connect, click **Connect**.
-  ![Connect button next to an enterprise account or business](/assets/images/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
+  ![Connect button next to an enterprise account or business](/assets/images/2021/10/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
 
 ## Disabling {% data variables.product.prodname_github_connect %}
 
@@ -78,11 +78,11 @@ When you disconnect from {% data variables.product.prodname_ghe_cloud %}, the {%
 {% data reusables.enterprise-accounts.github-connect-tab %}
 1. Next to the enterprise account or organization you'd like to disconnect, click **Disable {% data variables.product.prodname_github_connect %}**.
 {% ifversion ghes %}
-  ![Disable GitHub Connect button next to an enterprise account or organization name](/assets/images/enterprise/business-accounts/disable-github-connect-button.png)
+  ![Disable GitHub Connect button next to an enterprise account or organization name](/assets/images/2021/10/enterprise/business-accounts/disable-github-connect-button.png)
 1. Read the information about disconnecting and click **Disable {% data variables.product.prodname_github_connect %}**.
-  ![Modal with warning information about disconnecting and confirmation button](/assets/images/enterprise/business-accounts/confirm-disable-github-connect.png)  
+  ![Modal with warning information about disconnecting and confirmation button](/assets/images/2021/10/enterprise/business-accounts/confirm-disable-github-connect.png)  
 {% else %}
-  ![Disable GitHub Connect button next to an enterprise account or organization name](/assets/images/enterprise/github-ae/disable-github-connect-button.png)
+  ![Disable GitHub Connect button next to an enterprise account or organization name](/assets/images/2021/10/enterprise/github-ae/disable-github-connect-button.png)
 1. Read the information about disconnecting and click **Disable {% data variables.product.prodname_github_connect %}**.
-  ![Modal with warning information about disconnecting and confirmation button](/assets/images/enterprise/github-ae/confirm-disable-github-connect.png)
+  ![Modal with warning information about disconnecting and confirmation button](/assets/images/2021/10/enterprise/github-ae/confirm-disable-github-connect.png)
 {% endif %} 

@@ -57,7 +57,7 @@ password: ${{secrets.MY_ARTIFACTORY_PASSWORD}}
 
    密码名称列在 Dependabot 密码页面上。 您可以单击 **Update（更新）**来更改密码值。 您可以单击**Remove（删除）**来删除密码。
 
-   ![更新或删除仓库密码](/assets/images/help/dependabot/update-remove-repo-secret.png)
+   ![更新或删除仓库密码](/assets/images/2021/10/help/dependabot/update-remove-repo-secret.png)
 
 ## 将组织机密添加到 {% data variables.product.prodname_dependabot %}
 
@@ -76,14 +76,14 @@ password: ${{secrets.MY_ARTIFACTORY_PASSWORD}}
 1. 如果选择了 **Selected repositories（所选仓库）**：
 
    * 单击 {% octicon "gear" aria-label="The Gear icon" %}。
-   * 选择可以访问此机密的仓库。 ![选择此机密的仓库](/assets/images/help/dependabot/secret-repository-access.png)
+   * 选择可以访问此机密的仓库。 ![选择此机密的仓库](/assets/images/2021/10/help/dependabot/secret-repository-access.png)
    * 单击 **Update selection（更新选择）**。
 
 1. 单击 **Add secret（添加密码）**。
 
    密码名称列在 Dependabot 密码页面上。 您可以单击 **Update（更新）**来更改机密值或其访问策略。 您可以单击**Remove（删除）**来删除密码。
 
-   ![更新或删除组织机密](/assets/images/help/dependabot/update-remove-org-secret.png)
+   ![更新或删除组织机密](/assets/images/2021/10/help/dependabot/update-remove-org-secret.png)
 
 ## 将 {% data variables.product.prodname_dependabot %} 添加到您的注册表 IP 允许列表
 

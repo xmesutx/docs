@@ -26,7 +26,7 @@ topics:
 
 加えて、マイルストーンページからマイルストーンの変更と、デフォルトでマイルストーンに関連づけられた新しいIssueの作成ができます。
 
-![マイルストーンページ](/assets/images/help/issues/milestone-info-page.png)
+![マイルストーンページ](/assets/images/2021/10/help/issues/milestone-info-page.png)
 
 ## マイルストーン中のIssueとプルリクエストの優先順位付け
 
@@ -38,7 +38,7 @@ topics:
 
 {% endnote %}
 
-![並べ替えられたマイルストーン](/assets/images/help/issues/milestone-reordered.gif)
+![並べ替えられたマイルストーン](/assets/images/2021/10/help/issues/milestone-reordered.gif)
 
 ## 参考リンク
 

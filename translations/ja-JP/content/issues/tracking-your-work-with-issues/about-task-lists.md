@@ -43,7 +43,7 @@ topics:
 - さらなる追跡あるいはディスカッションがタスクに必要な場合、そのタスクにマウスを移動させ、タスクの右上の{% octicon "issue-opened" aria-label="The issue opened icon" %}をクリックし、Issueに変換できます。 Issueを作成する前に詳細を追加するには、キーボードショートカットを使って新規Issueフォームをオープンできます。 詳細は「[キーボードのショートカット](/github/getting-started-with-github/using-github/keyboard-shortcuts#issues-and-pull-requests)」を参照してください。
 - タスクリストから参照されているIssueは、参照元のIssueで追跡されていることを示します。
 
-![表示されたタスクリスト](/assets/images/help/writing/task-list-rendered.png)
+![表示されたタスクリスト](/assets/images/2021/10/help/writing/task-list-rendered.png)
 
 {% endif %}
 
@@ -61,8 +61,8 @@ topics:
 
 タスクリスト内のアイテムは、タスクのチェックボックスの左をクリックし、新しい場所へドラッグして落とすことによって、順序を変更できます。 同じコメント中のリスト間でタスクを並び替えることができますが、別々のコメント間でタスクを並び替えることはできません。
 
-{% ifversion fpt %} ![順序変更されたタスクリスト](/assets/images/help/writing/task-list-reordered.gif)
-{% else %} ![Reordered task list](/assets/images/enterprise/writing/task-lists-reorder.gif) {% endif %}
+{% ifversion fpt %} ![順序変更されたタスクリスト](/assets/images/2021/10/help/writing/task-list-reordered.gif)
+{% else %} ![Reordered task list](/assets/images/2021/11/enterprise/writing/task-lists-reorder.gif) {% endif %}
 
 {% ifversion fpt %}
 
@@ -70,7 +70,7 @@ topics:
 
 タスクリストから参照されているIssueは、そのタスクリストを含むIssueから追跡されていることを示します。 追跡されているIssueから追跡元のIssueへアクセスするには、Issueのステータスの隣にある**Tracked in**セクション内の追跡しているIssue番号をクリックしてください。
 
-![追跡元の例](/assets/images/help/writing/task_list_tracked.png)
+![追跡元の例](/assets/images/2021/10/help/writing/task_list_tracked.png)
 
 {% endif %}
 

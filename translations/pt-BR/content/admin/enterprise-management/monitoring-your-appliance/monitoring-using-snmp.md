@@ -26,7 +26,7 @@ O {% data variables.product.prodname_enterprise %} tem uma instalação SNMP pad
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.access-monitoring %}
 {% data reusables.enterprise_management_console.enable-snmp %}
-4. No campo **Community string** (String de comunidade), insira a nova string da comunidade. Se deixada em branco, essa informação fica como `public` por padrão. ![Campo para adicionar a string da comunidade](/assets/images/enterprise/management-console/community-string.png)
+4. No campo **Community string** (String de comunidade), insira a nova string da comunidade. Se deixada em branco, essa informação fica como `public` por padrão. ![Campo para adicionar a string da comunidade](/assets/images/2021/10/enterprise/management-console/community-string.png)
 {% data reusables.enterprise_management_console.save-settings %}
 5. Teste a configuração SNMP executando o seguinte comando em uma estação de trabalho separada com suporte a SNMP na rede:
   ```shell
@@ -50,18 +50,18 @@ Se habilitar o SNMP v3, você poderá aproveitar o aumento da segurança baseada
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.access-monitoring %}
 {% data reusables.enterprise_management_console.enable-snmp %}
-4. Selecione **SNMP v3**. ![Botão para habilitar o SNMP v3](/assets/images/enterprise/management-console/enable-snmpv3.png)
-5. Em "Username" (Nome de usuário), digite o nome exclusivo do seu usuário SNMP v3. ![Campo para digitar o nome de usuário SNMP v3](/assets/images/enterprise/management-console/snmpv3-username.png)
-6. No menu suspenso **Security Level** (Nível de segurança), clique no nível de segurança do seu usuário SNMP v3. ![Menu suspenso para o nível de segurança do usuário SNMP v3](/assets/images/enterprise/management-console/snmpv3-securitylevel.png)
-7. Para usuários SNMP v3 com nível de segurança `authnopriv`: ![Configurações para o nível de segurança authnopriv](/assets/images/enterprise/management-console/snmpv3-authnopriv.png)
+4. Selecione **SNMP v3**. ![Botão para habilitar o SNMP v3](/assets/images/2021/10/enterprise/management-console/enable-snmpv3.png)
+5. Em "Username" (Nome de usuário), digite o nome exclusivo do seu usuário SNMP v3. ![Campo para digitar o nome de usuário SNMP v3](/assets/images/2021/10/enterprise/management-console/snmpv3-username.png)
+6. No menu suspenso **Security Level** (Nível de segurança), clique no nível de segurança do seu usuário SNMP v3. ![Menu suspenso para o nível de segurança do usuário SNMP v3](/assets/images/2021/10/enterprise/management-console/snmpv3-securitylevel.png)
+7. Para usuários SNMP v3 com nível de segurança `authnopriv`: ![Configurações para o nível de segurança authnopriv](/assets/images/2021/10/enterprise/management-console/snmpv3-authnopriv.png)
     - {% data reusables.enterprise_management_console.authentication-password %}
     - {% data reusables.enterprise_management_console.authentication-protocol %}
-8. Para usuários SNMP v3 com nível de segurança `authpriv`: ![Configurações para o nível de segurança authpriv](/assets/images/enterprise/management-console/snmpv3-authpriv.png)
+8. Para usuários SNMP v3 com nível de segurança `authpriv`: ![Configurações para o nível de segurança authpriv](/assets/images/2021/10/enterprise/management-console/snmpv3-authpriv.png)
     - {% data reusables.enterprise_management_console.authentication-password %}
     - {% data reusables.enterprise_management_console.authentication-protocol %}
     - Como alternativa, em "Privacy password" (senha de privacidade), digite a senha de privacidade.
     - No lado direito de "Privacy password" (Senha de privacidade), no menu suspenso **Protocol** (Protocolo), clique no protocolo de privacidade que você deseja usar.
-9. Clique em **Add user** (Adicionar usuário). ![Botão para adicionar usuário SNMP v3](/assets/images/enterprise/management-console/snmpv3-adduser.png)
+9. Clique em **Add user** (Adicionar usuário). ![Botão para adicionar usuário SNMP v3](/assets/images/2021/10/enterprise/management-console/snmpv3-adduser.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 #### Consultar dados SNMP

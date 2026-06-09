@@ -44,11 +44,11 @@ You can generate a certificate signing request (CSR) for your instance using the
 {% data reusables.enterprise_management_console.privacy %}
 {% data reusables.enterprise_management_console.select-tls-only %}
 4. Under "TLS Protocol support", select the protocols you want to allow.
-  ![Radio buttons with options to choose TLS protocols](/assets/images/enterprise/management-console/tls-protocol-support.png)
+  ![Radio buttons with options to choose TLS protocols](/assets/images/2021/10/enterprise/management-console/tls-protocol-support.png)
 5. Under "Certificate", click **Choose File** to choose a TLS certificate or certificate chain (in PEM format) to install. This file will usually have a *.pem*, *.crt*, or *.cer* extension.
-  ![Button to find TLS certificate file](/assets/images/enterprise/management-console/install-tls-certificate.png)
+  ![Button to find TLS certificate file](/assets/images/2021/10/enterprise/management-console/install-tls-certificate.png)
 6. Under "Unencrypted key", click **Choose File** to choose an RSA key (in PEM format) to install. This file will usually have a *.key* extension.
-  ![Button to find TLS key file](/assets/images/enterprise/management-console/install-tls-key.png)
+  ![Button to find TLS key file](/assets/images/2021/10/enterprise/management-console/install-tls-key.png)
 
   {% warning %}
 
@@ -78,11 +78,11 @@ You can also use the `ghe-ssl-acme` command line utility on {% data variables.pr
 {% data reusables.enterprise_management_console.privacy %}
 {% data reusables.enterprise_management_console.select-tls-only %}
 5. Select **Enable automation of TLS certificate management using Let's Encrypt**.
-  ![Checkbox to enable Let's Encrypt](/assets/images/enterprise/management-console/lets-encrypt-checkbox.png)
+  ![Checkbox to enable Let's Encrypt](/assets/images/2021/10/enterprise/management-console/lets-encrypt-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 {% data reusables.enterprise_management_console.privacy %}
 7. Click **Request TLS certificate**.
-  ![Request TLS certificate button](/assets/images/enterprise/management-console/request-tls-button.png)
+  ![Request TLS certificate button](/assets/images/2021/10/enterprise/management-console/request-tls-button.png)
 8. Wait for the "Status" to change from "STARTED" to "DONE".
-   ![Let's Encrypt status](/assets/images/enterprise/management-console/lets-encrypt-status.png)
+   ![Let's Encrypt status](/assets/images/2021/10/enterprise/management-console/lets-encrypt-status.png)
 9. Click **Save configuration**.

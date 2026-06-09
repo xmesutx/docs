@@ -22,7 +22,7 @@ shortTitle: Comment on a PR
 
 You can comment on a pull request's **Conversation** tab to leave general comments, questions, or props. You can also suggest changes that the author of the pull request can apply directly from your comment.
 
-![Pull Request conversation](/assets/images/help/pull_requests/conversation.png)
+![Pull Request conversation](/assets/images/2021/10/help/pull_requests/conversation.png)
 
 You can also comment on specific sections of a file on a pull request's **Files changed** tab in the form of individual line comments or as part of a [pull request review](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews). Adding line comments is a great way to discuss questions about implementation or provide feedback to the author.
 
@@ -53,7 +53,7 @@ To reply to an existing line comment, you'll need to navigate to the comment on 
 {% data reusables.repositories.type-line-comment %}
 {% data reusables.repositories.suggest-changes %}
 5. When you're done, click **Add single comment**.
-  ![Inline comment window](/assets/images/help/commits/inline-comment.png)
+  ![Inline comment window](/assets/images/2021/10/help/commits/inline-comment.png)
 
 Anyone watching the pull request or repository will receive a notification of your comment.
 

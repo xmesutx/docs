@@ -60,9 +60,9 @@ When code owners are automatically requested for review, the team is still remov
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 1. In the left sidebar, click **{% octicon "code-review" aria-label="The code-review icon" %} Code review**.
 {% else %}
-1. In the left sidebar, click **Code review** ![Code review button](/assets/images/help/teams/review-button.png)
+1. In the left sidebar, click **Code review** ![Code review button](/assets/images/2021/11/help/teams/review-button.png)
 {% endif %}
-1. Select **Only notify requested team members.** ![Code review team notifications](/assets/images/help/teams/review-assignment-notifications.png)
+1. Select **Only notify requested team members.** ![Code review team notifications](/assets/images/2021/10/help/teams/review-assignment-notifications.png)
 1. 单击 **Save changes（保存更改）**。
 {% endif %}
 
@@ -74,12 +74,12 @@ When code owners are automatically requested for review, the team is still remov
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 1. In the left sidebar, click **{% octicon "code-review" aria-label="The code-review icon" %} Code review**.
 {% else %}
-1. In the left sidebar, click **Code review** ![Code review button](/assets/images/help/teams/review-button.png)
+1. In the left sidebar, click **Code review** ![Code review button](/assets/images/2021/11/help/teams/review-button.png)
 {% endif %}
-1. 选择 **Enable auto assignment（启用自动分配）**。 ![Auto-assignment button](/assets/images/help/teams/review-assignment-enable.png)
-1. 在“How many team members should be assigned to review?（应分配多少团队成员进行审查？）”下，使用下拉菜单选择多个要分配给每个拉取请求的审查者。 ![审查者人数下拉列表](/assets/images/help/teams/review-assignment-number.png)
-1. 在“Routing algorithm（路由算法）”下，使用下拉菜单选择要使用的算法。 更多信息请参阅“[路由算法](#routing-algorithms)”。 ![路由算法下拉列表](/assets/images/help/teams/review-assignment-algorithm.png)
-1. （可选）要始终跳过某些团队成员，请选择 **Never assign certain team members（永不分配某些团队成员）**。 然后，选择要始终跳过的一个或多个团队成员。 ![永不分配某些团队成员复选框和下拉列表](/assets/images/help/teams/review-assignment-skip-members.png)
+1. 选择 **Enable auto assignment（启用自动分配）**。 ![Auto-assignment button](/assets/images/2021/10/help/teams/review-assignment-enable.png)
+1. 在“How many team members should be assigned to review?（应分配多少团队成员进行审查？）”下，使用下拉菜单选择多个要分配给每个拉取请求的审查者。 ![审查者人数下拉列表](/assets/images/2021/10/help/teams/review-assignment-number.png)
+1. 在“Routing algorithm（路由算法）”下，使用下拉菜单选择要使用的算法。 更多信息请参阅“[路由算法](#routing-algorithms)”。 ![路由算法下拉列表](/assets/images/2021/10/help/teams/review-assignment-algorithm.png)
+1. （可选）要始终跳过某些团队成员，请选择 **Never assign certain team members（永不分配某些团队成员）**。 然后，选择要始终跳过的一个或多个团队成员。 ![永不分配某些团队成员复选框和下拉列表](/assets/images/2021/10/help/teams/review-assignment-skip-members.png)
 {% ifversion ghes < 3.4 %}
 1. （可选）要对每个拉取请求审查只通知代码审查分配所选择的团队成员，在“Notifications（通知）”下选择 **If assigning team members, don't notify the entire team（如果分配团队成员，请不要通知整个团队）**。
 {%- endif %}
@@ -95,5 +95,5 @@ When code owners are automatically requested for review, the team is still remov
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-1. 选择 **Enable auto assignment（启用自动分配）**以删除复选标记。 ![代码审查分配按钮](/assets/images/help/teams/review-assignment-enable.png)
+1. 选择 **Enable auto assignment（启用自动分配）**以删除复选标记。 ![代码审查分配按钮](/assets/images/2021/10/help/teams/review-assignment-enable.png)
 1. 单击 **Save changes（保存更改）**。

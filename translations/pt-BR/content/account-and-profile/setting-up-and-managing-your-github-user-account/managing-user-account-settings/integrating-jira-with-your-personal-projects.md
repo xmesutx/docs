@@ -18,8 +18,8 @@ shortTitle: Integrar o Jira com projetos
 2. Em **Application name** (Nome do aplicativo), digite "Jira".
 3. Em **Homepage URL** (URL da página inicial), digite a URL completa da sua instância do JIRA.
 4. Em **Authorization callback URL** (URL de revogação de autorização), digite a URL completa da sua instância do JIRA.
-5. Clique em **Register application** (Registrar aplicativo). ![Botão Register application (registrar aplicativo)](/assets/images/help/oauth/register-application-button.png)
-8. Em **Aplicativos do desenvolvedor**, anote os valores "Client ID" (ID do cliente) e "Client Secret" (Chave secreta do cliente). ![Client ID (ID do cliente) e Client Secret (Chave secreta do cliente)](/assets/images/help/oauth/client-id-and-secret.png)
+5. Clique em **Register application** (Registrar aplicativo). ![Botão Register application (registrar aplicativo)](/assets/images/2021/10/help/oauth/register-application-button.png)
+8. Em **Aplicativos do desenvolvedor**, anote os valores "Client ID" (ID do cliente) e "Client Secret" (Chave secreta do cliente). ![Client ID (ID do cliente) e Client Secret (Chave secreta do cliente)](/assets/images/2021/10/help/oauth/client-id-and-secret.png)
 {% data reusables.user-settings.jira_help_docs %}
 
 ## Leia mais

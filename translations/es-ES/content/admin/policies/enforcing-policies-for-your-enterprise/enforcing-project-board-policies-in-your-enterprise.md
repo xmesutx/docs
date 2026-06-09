@@ -33,7 +33,7 @@ En todas las organizaciones que son propiedad de tu empresa, puedes habilitar o 
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. En "Proyectos de la organización", revisa la información sobre cómo modificar los parámetros. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. En "Proyectos de la organización", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de tableros de proyecto de la organización](/assets/images/help/business-accounts/organization-projects-policy-drop-down.png)
+5. En "Proyectos de la organización", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de tableros de proyecto de la organización](/assets/images/2021/10/help/business-accounts/organization-projects-policy-drop-down.png)
 
 ## Hacer cumplir una política para tableros de proyecto de repositorios
 
@@ -43,4 +43,4 @@ En todas las organizaciones que pertenezcan a tu empresa, puedes habilitar o inh
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. En "Proyectos de repositorios", revisa la información sobre cómo modificar los parámetros. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. En "Proyectos de repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de tableros de proyecto de repositorios](/assets/images/help/business-accounts/repository-projects-policy-drop-down.png)
+5. En "Proyectos de repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de tableros de proyecto de repositorios](/assets/images/2021/10/help/business-accounts/repository-projects-policy-drop-down.png)

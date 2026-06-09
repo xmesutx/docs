@@ -69,7 +69,7 @@ redirect_from:
 
 {% endtip %}
 
-![用于参与小组作业的团队的参数](/assets/images/help/classroom/assignments-define-teams.png)
+![用于参与小组作业的团队的参数](/assets/images/2021/10/help/classroom/assignments-define-teams.png)
 
 ### 选择作业仓库的可见性
 
@@ -124,7 +124,7 @@ redirect_from:
 您可以在作业的 **Teams（团队）**选项卡中查看正在处理或已提交作业的团队。 {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="组分配" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-group-hero.png">
+  <img alt="组分配" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-group-hero.png">
 </div>
 
 ## 监控学生的进度

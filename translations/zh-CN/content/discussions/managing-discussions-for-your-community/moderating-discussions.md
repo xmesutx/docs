@@ -22,7 +22,7 @@ versions:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. 在讨论列表中，单击要锁定的讨论。 ![锁定讨论](/assets/images/help/discussions/unanswered-discussion.png)
+1. 在讨论列表中，单击要锁定的讨论。 ![锁定讨论](/assets/images/2021/10/help/discussions/unanswered-discussion.png)
 1. 在讨论的右侧边缘单击 **Lock conversation（锁定对话）**。
 1. 阅读有关锁定对话的信息，然后单击 **Lock conversation on this discussion（在此讨论中锁定对话）**。
 1. 当您准备好解锁对话时，单击 **Unlock conversation（解锁对话）**，然后单击 **Unlock conversation on this discussion（解锁此讨论上的对话）**。

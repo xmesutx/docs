@@ -29,13 +29,13 @@ Puedes acceder a la {% data variables.product.prodname_vscode_command_palette %}
 - <kbd>F1</kbd>
 - Desde el menú de la aplicación, haz clic en **Visualizar > la paleta de comandos...**.
 
-  ![El menú de la aplicación](/assets/images/help/codespaces/codespaces-view-menu.png)
+  ![El menú de la aplicación](/assets/images/2021/10/help/codespaces/codespaces-view-menu.png)
 
 ## Comandos para los {% data variables.product.prodname_github_codespaces %}
 
 Para ver todos los comandos relacionados con {% data variables.product.prodname_github_codespaces %}, [accede a la {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette) y luego comienza a teclear "Codespaces".
 
-![Una lista de todos los comandos que se relacionan con los codespaces](/assets/images/help/codespaces/codespaces-command-palette.png)
+![Una lista de todos los comandos que se relacionan con los codespaces](/assets/images/2021/10/help/codespaces/codespaces-command-palette.png)
 
 ### Suspender o detener un codespace
 
@@ -43,13 +43,13 @@ Si agregas un secreto nuevo o cambias el tipo de máquina, tendrás que detener 
 
 Para suspender o detener el contenedor de tu codespace [accede a la {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette) y luego comienza a teclear "stop". Selecciona **Codespaces: Detener el codespace actual**.
 
-![Comando para detner un codespace](/assets/images/help/codespaces/codespaces-stop.png)
+![Comando para detner un codespace](/assets/images/2021/10/help/codespaces/codespaces-stop.png)
 
 ### Agregar un contenedor de dev desde una plantilla
 
 Para agregar un contenedor dev a una plantilla, [accede a la {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette) y luego comienza a teclear "dev container". Selecciona **Codespaces: Agregar archivos de configuración del contenedor de desarrollo...**
 
-![Comando para agregar un contenedor de dev](/assets/images/help/codespaces/add-prebuilt-container-command.png)
+![Comando para agregar un contenedor de dev](/assets/images/2021/10/help/codespaces/add-prebuilt-container-command.png)
 
 ### Reconstruir un codespace
 
@@ -57,7 +57,7 @@ Si agregas un contenedor de dev o si editas cualquiera de los archivos de config
 
 Para recompilar tu contenedor, [accede a la {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette) y luego comienza a teclear "recompilar". Selecciona **Codespaces: Reconstruir contenedor**.
 
-![Comando para reconstruir un codespace](/assets/images/help/codespaces/codespaces-rebuild.png)
+![Comando para reconstruir un codespace](/assets/images/2021/10/help/codespaces/codespaces-rebuild.png)
 
 ### Bitácoras de los codespaces
 
@@ -65,4 +65,4 @@ Puedes utilizar la {% data variables.product.prodname_vscode_command_palette %} 
 
 Para recuperar las bitácoras para Codespaces, [accede a la {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette) y luego comienza a teclear "log". Selecciona **Codespaces: Exportar bitácoras** para exportar todas las bitácoras relacionadas con los codespaces o selecciona **Codespaces: Ver las bitácoras de creación** para ver las bitácoras relacionadas con la configuración.
 
-![Comando para acceder a las bitácoras](/assets/images/help/codespaces/codespaces-logs.png)
+![Comando para acceder a las bitácoras](/assets/images/2021/10/help/codespaces/codespaces-logs.png)

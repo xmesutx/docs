@@ -22,11 +22,11 @@ Una vez iniciada, la auditoría desactiva todas las claves SSH existentes y obli
 
 Puedes iniciar una auditoría de claves SSH desde la pestaña "Todos los usuarios" del tablero de administrador del sitio:
 
-![Iniciar una auditoría de clave pública](/assets/images/enterprise/security/Enterprise-Start-Key-Audit.png)
+![Iniciar una auditoría de clave pública](/assets/images/2021/10/enterprise/security/Enterprise-Start-Key-Audit.png)
 
 Una vez que haces clic en el botón "Iniciar auditoría de clave pública", serás redirigido a la pantalla de confirmación que explica lo que sucederá a continuación:
 
-![Confirmación de la auditoría](/assets/images/enterprise/security/Enterprise-Begin-Audit.png)
+![Confirmación de la auditoría](/assets/images/2021/10/enterprise/security/Enterprise-Begin-Audit.png)
 
 Una vez que haces clic en el botón "Comenzar auditoría", todas las claves SSH son invalidadas y se necesitará aprobación. Verás una notificación que indica que la auditoría ha comenzado.
 
@@ -44,7 +44,7 @@ fatal: El final remoto ha colgado inesperadamente.
 
 Cuando el usuario sigue el enlace, se le solicita aprobar las claves en su cuenta:
 
-![Auditoría de claves](/assets/images/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
+![Auditoría de claves](/assets/images/2021/10/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
 
 Una vez que se aprueban o se rechazan sus claves, podrá interactuar con los repositorios como siempre.
 
@@ -52,7 +52,7 @@ Una vez que se aprueban o se rechazan sus claves, podrá interactuar con los rep
 
 Cuando los usuarios nuevos agreguen una clave SSH, se les solicitará su contraseña:
 
-![Confirmación de contraseña](/assets/images/help/settings/sudo_mode_popup.png)
+![Confirmación de contraseña](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 Cuando un usuario agrega una clave, recibirá un correo electrónico de notificación que se verá como esto:
 

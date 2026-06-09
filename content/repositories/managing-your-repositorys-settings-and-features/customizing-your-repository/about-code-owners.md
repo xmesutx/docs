@@ -27,7 +27,7 @@ When someone with admin or owner permissions has enabled required reviews, they 
 
 If a file has a code owner, you can see who the code owner is before you open a pull request. In the repository, you can browse to the file and hover over {% octicon "shield-lock" aria-label="The edit icon" %}.
 
-![Code owner for a file in a repository](/assets/images/help/repository/code-owner-for-a-file.png)
+![Code owner for a file in a repository](/assets/images/2021/10/help/repository/code-owner-for-a-file.png)
 
 ## CODEOWNERS file location
 

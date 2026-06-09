@@ -48,6 +48,6 @@ Before you can enable {% data variables.product.prodname_unified_search %}, you 
 1. Sign into {% data variables.product.product_location %} and {% data variables.product.prodname_dotcom_the_website %}.
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
 1. Under "Users can search {% data variables.product.prodname_dotcom_the_website %}", use the drop-down menu and click **Enabled**.
-  ![Enable search option in the search GitHub.com drop-down menu](/assets/images/enterprise/site-admin-settings/github-dotcom-enable-search.png)
+  ![Enable search option in the search GitHub.com drop-down menu](/assets/images/2021/10/enterprise/site-admin-settings/github-dotcom-enable-search.png)
 1. Optionally, under "Users can search private repositories on {% data variables.product.prodname_dotcom_the_website %}", use the drop-down menu and click **Enabled**.
-    ![Enable private repositories search option in the search GitHub.com drop-down menu](/assets/images/enterprise/site-admin-settings/enable-private-search.png)
+    ![Enable private repositories search option in the search GitHub.com drop-down menu](/assets/images/2021/10/enterprise/site-admin-settings/enable-private-search.png)

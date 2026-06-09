@@ -72,8 +72,8 @@ shortTitle: Publish repository advisories
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. [Security Advisories] のリストから、公開するセキュリティアドバイザリをクリックします。 ![リスト内のセキュリティアドバイザリ](/assets/images/help/security/security-advisory-in-list.png)
-5. ページの下部で、[**Publish advisory**] をクリックします。 ![[Publish advisory] ボタン](/assets/images/help/security/publish-advisory-button.png)
+4. [Security Advisories] のリストから、公開するセキュリティアドバイザリをクリックします。 ![リスト内のセキュリティアドバイザリ](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. ページの下部で、[**Publish advisory**] をクリックします。 ![[Publish advisory] ボタン](/assets/images/2021/10/help/security/publish-advisory-button.png)
 
 ## 公開されたセキュリティアドバイザリの {% data variables.product.prodname_dependabot_alerts %}
 
@@ -86,9 +86,9 @@ shortTitle: Publish repository advisories
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. [Security Advisories] のリストから、CVE 識別番号をリクエストするセキュリティアドバイザリをクリックします。 ![リスト内のセキュリティアドバイザリ](/assets/images/help/security/security-advisory-in-list.png)
-5. [**Edit**] ドロップダウンメニューを使用して、[**Request CVE**] をクリックします。 ![ドロップダウンの [Request CVE]](/assets/images/help/security/security-advisory-drop-down-request-cve.png)
-6. [**Request CVE**] をクリックします。 ![[Request CVE] ボタン](/assets/images/help/security/security-advisory-request-cve-button.png)
+4. [Security Advisories] のリストから、CVE 識別番号をリクエストするセキュリティアドバイザリをクリックします。 ![リスト内のセキュリティアドバイザリ](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. [**Edit**] ドロップダウンメニューを使用して、[**Request CVE**] をクリックします。 ![ドロップダウンの [Request CVE]](/assets/images/2021/10/help/security/security-advisory-drop-down-request-cve.png)
+6. [**Request CVE**] をクリックします。 ![[Request CVE] ボタン](/assets/images/2021/10/help/security/security-advisory-request-cve-button.png)
 
 ## 参考リンク
 

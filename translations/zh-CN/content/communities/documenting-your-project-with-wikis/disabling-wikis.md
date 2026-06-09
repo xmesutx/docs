@@ -18,7 +18,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在“功能”下，取消选择 **Wiki**。 ![Wiki 禁用复选框](/assets/images/help/wiki/wiki_enable_disable.png)
+3. 在“功能”下，取消选择 **Wiki**。 ![Wiki 禁用复选框](/assets/images/2021/10/help/wiki/wiki_enable_disable.png)
 
 ## 延伸阅读
 

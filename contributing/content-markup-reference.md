@@ -36,13 +36,13 @@ For example, this is the correct way to write list items with multiple paragraph
 ```markdown
 1. Under your repository name, click **Actions**.
 
-   ![Actions tab in the main repository navigation](/assets/images/help/repository/actions-tab.png)
+   ![Actions tab in the main repository navigation](/assets/images/2021/10/help/repository/actions-tab.png)
 
    This is another paragraph in the list.
 1. This is the next item.
 ```
 
-![Image demonstrating how to write CommnMark-compliant Markdown lists](/assets/images/commonmark-lists.png)
+![Image demonstrating how to write CommnMark-compliant Markdown lists](/assets/images/2022/02/commonmark-lists.png)
 
 ## Callout tags
 

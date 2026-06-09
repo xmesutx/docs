@@ -22,5 +22,5 @@ shortTitle: 禁用帐户
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.settings-tab %}
 1. 在“Disable GitHub Sponsors account（禁用 GitHub Sponsors 帐户）”下，单击 **Disable account（禁用帐户）**。  
-   !["禁用您的帐户" 按钮](/assets/images/help/sponsors/disable-your-account-button.png)
-2. 要确认，请单击 **Disable GitHub Sponsors account（禁用 GitHub Sponsors 帐户）**。 !["禁用 GitHub Sponsors 帐户" 按钮](/assets/images/help/sponsors/disable-github-sponsors-account-dialog.png)
+   !["禁用您的帐户" 按钮](/assets/images/2021/10/help/sponsors/disable-your-account-button.png)
+2. 要确认，请单击 **Disable GitHub Sponsors account（禁用 GitHub Sponsors 帐户）**。 !["禁用 GitHub Sponsors 帐户" 按钮](/assets/images/2021/10/help/sponsors/disable-github-sponsors-account-dialog.png)

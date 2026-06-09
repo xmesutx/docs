@@ -36,7 +36,7 @@ shortTitle: 申请学生包
 ## 申请 {% data variables.product.prodname_student_pack %}
 
 {% data reusables.education.benefits-page %}
-3. 在 "Which best describes your academic status?"（哪一项最准确描述了您的学业身份？）下，选择 **Student（学生）**。 ![选择学籍](/assets/images/help/education/academic-status-student.png)
+3. 在 "Which best describes your academic status?"（哪一项最准确描述了您的学业身份？）下，选择 **Student（学生）**。 ![选择学籍](/assets/images/2021/10/help/education/academic-status-student.png)
 {% data reusables.education.select-email-address %}
 {% data reusables.education.upload-proof-status %}
 {% data reusables.education.school-name %}
@@ -47,7 +47,7 @@ shortTitle: 申请学生包
 
 在您的 {% data variables.product.prodname_student_pack %} 访问权限到期后，如果您仍有资格，您可以重新申请，但有些合作伙伴可能不提供续订服务。 合作伙伴的大多数计时特惠在您设置后便开始。 要重新申请，只需返回 https://education.github.com，点击您的个人资料图片，然后点击 **Reverify your academic affiliation（重新验证您的学术关系）**。
 
-![用于重新验证学术关系的菜单选项](/assets/images/help/education/reverify-academic-affiliation.png)
+![用于重新验证学术关系的菜单选项](/assets/images/2022/02/help/education/reverify-academic-affiliation.png)
 
 更多信息请参阅 [{% data variables.product.prodname_student_pack %}](https://education.github.com/pack) 页面。
 

@@ -29,4 +29,4 @@ shortTitle: Social media preview
     - 新しい画像を追加するには、[**Upload an image...**] をクリックします。
     - 画像を削除するには、[**Remove image**] をクリックします。
 
-    ![ソーシャルプレビューのドロップダウン](/assets/images/help/repository/social-preview.png)
+    ![ソーシャルプレビューのドロップダウン](/assets/images/2021/10/help/repository/social-preview.png)

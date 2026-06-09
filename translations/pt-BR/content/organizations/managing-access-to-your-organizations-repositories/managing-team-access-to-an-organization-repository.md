@@ -35,9 +35,9 @@ Você pode dar a uma equipe acesso a um repositório ou alterar o nível de aces
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-repositories-tab %}
-5. Acima da lista de repositórios, clique em **Add repository** (Adicionar repositório). ![Botão Add repository (Adicionar repositório)](/assets/images/help/organizations/add-repositories-button.png)
-6. Digite o nome de um repositório e clique em **Add repository to team** (Adicionar repositório a uma equipe). ![Campo de pesquisa Repository (Repositório)](/assets/images/help/organizations/team-repositories-add.png)
-7. Como opção, use o menu suspenso à direita do nome do repositório e escolha um nível de permissão diferente para a equipe. ![Menu suspenso Repository access level (Nível de acesso ao repositório)](/assets/images/help/organizations/team-repositories-change-permission-level.png)
+5. Acima da lista de repositórios, clique em **Add repository** (Adicionar repositório). ![Botão Add repository (Adicionar repositório)](/assets/images/2021/10/help/organizations/add-repositories-button.png)
+6. Digite o nome de um repositório e clique em **Add repository to team** (Adicionar repositório a uma equipe). ![Campo de pesquisa Repository (Repositório)](/assets/images/2021/10/help/organizations/team-repositories-add.png)
+7. Como opção, use o menu suspenso à direita do nome do repositório e escolha um nível de permissão diferente para a equipe. ![Menu suspenso Repository access level (Nível de acesso ao repositório)](/assets/images/2021/10/help/organizations/team-repositories-change-permission-level.png)
 {% endif %}
 ## Remover acesso de uma equipe a um repositório
 
@@ -58,9 +58,9 @@ Você pode remover o acesso de uma equipe a um repositório se a equipe tiver ac
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-repositories-tab %}
-5. Selecione o repositório ou repositórios que deseja remover da equipe. ![Lista de repositórios de equipes com as caixas de seleção para alguns repositórios selecionadas](/assets/images/help/teams/select-team-repositories-bulk.png)
-6. Acesse o menu suspenso acima da lista de repositórios e clique em **Remove from team** (Remover da equipe). ![Menu suspenso com a opção para Remove a repository from a team (Remover um repositório de uma equipe)](/assets/images/help/teams/remove-team-repo-dropdown.png)
-7. Verifique o repositório ou repositórios que serão removidos da equipe e clique em **Remove repositories** (Remover repositórios). ![Caixa modal com uma lista de repositórios que a equipe não terá mais acesso](/assets/images/help/teams/confirm-remove-team-repos.png)
+5. Selecione o repositório ou repositórios que deseja remover da equipe. ![Lista de repositórios de equipes com as caixas de seleção para alguns repositórios selecionadas](/assets/images/2021/10/help/teams/select-team-repositories-bulk.png)
+6. Acesse o menu suspenso acima da lista de repositórios e clique em **Remove from team** (Remover da equipe). ![Menu suspenso com a opção para Remove a repository from a team (Remover um repositório de uma equipe)](/assets/images/2021/10/help/teams/remove-team-repo-dropdown.png)
+7. Verifique o repositório ou repositórios que serão removidos da equipe e clique em **Remove repositories** (Remover repositórios). ![Caixa modal com uma lista de repositórios que a equipe não terá mais acesso](/assets/images/2021/10/help/teams/confirm-remove-team-repos.png)
 {% endif %}
 ## Leia mais
 

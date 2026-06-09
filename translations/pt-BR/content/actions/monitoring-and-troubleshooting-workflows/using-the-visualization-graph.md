@@ -19,6 +19,6 @@ shortTitle: Usar o gráfico de visualização
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 
-1. O gráfico exibe cada trabalho no fluxo de trabalho. Um ícone à esquerda do nome do trabalho indica o status do trabalho. As linhas entre as trabalhos indicam dependências. ![Gráfico de fluxo de trabalho](/assets/images/help/images/workflow-graph.png)
+1. O gráfico exibe cada trabalho no fluxo de trabalho. Um ícone à esquerda do nome do trabalho indica o status do trabalho. As linhas entre as trabalhos indicam dependências. ![Gráfico de fluxo de trabalho](/assets/images/2021/10/help/images/workflow-graph.png)
 
-2. Clique em um trabalho para visualizar o registro da tarefa. ![Gráfico de fluxo de trabalho](/assets/images/help/images/workflow-graph-job.png)
+2. Clique em um trabalho para visualizar o registro da tarefa. ![Gráfico de fluxo de trabalho](/assets/images/2021/10/help/images/workflow-graph-job.png)

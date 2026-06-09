@@ -35,9 +35,9 @@ Não fornecemos fatura nem damos suporte a ordens de compra para contas pessoais
 
 {% data reusables.user-settings.billing_plans %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. Se sua conta tiver informações de cobrança existentes que você deseja atualizar, clique em **Editar**. ![Botão de Cobrança de novo cartão](/assets/images/help/billing/billing-information-edit-button.png)
+1. Se sua conta tiver informações de cobrança existentes que você deseja atualizar, clique em **Editar**. ![Botão de Cobrança de novo cartão](/assets/images/2021/10/help/billing/billing-information-edit-button.png)
 {% data reusables.dotcom_billing.enter-billing-info %}
-1. Se sua conta tem um método de pagamento existente que você deseja atualizar, clique em **Editar**. ![Botão de Cobrança de novo cartão](/assets/images/help/billing/billing-payment-method-edit-button.png)
+1. Se sua conta tem um método de pagamento existente que você deseja atualizar, clique em **Editar**. ![Botão de Cobrança de novo cartão](/assets/images/2021/10/help/billing/billing-payment-method-edit-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}
 
 ## Atualizar a forma de pagamento da sua organização
@@ -48,5 +48,5 @@ Se sua organização estiver fora dos EUA ou se você estiver usando uma conta d
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. Se sua conta tiver um cartão de crédito existente que você deseja atualizar, clique em **Novo Cartão**. ![Botão de Cobrança de novo cartão](/assets/images/help/billing/billing-new-card-button.png)
+1. Se sua conta tiver um cartão de crédito existente que você deseja atualizar, clique em **Novo Cartão**. ![Botão de Cobrança de novo cartão](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

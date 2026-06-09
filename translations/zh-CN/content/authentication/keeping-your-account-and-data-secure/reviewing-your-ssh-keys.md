@@ -23,7 +23,7 @@ topics:
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. 在 SSH Settings（SSH 设置）页面中，记下与您的帐户关联的 SSH 密钥。 对于您无法识别或已过期的密钥，请单击 **Delete（删除）**。 如果有您要保留的有效 SSH 密钥，请单击 **Approve（批准）**。 ![SSH 密钥列表](/assets/images/help/settings/settings-ssh-key-review.png)
+3. 在 SSH Settings（SSH 设置）页面中，记下与您的帐户关联的 SSH 密钥。 对于您无法识别或已过期的密钥，请单击 **Delete（删除）**。 如果有您要保留的有效 SSH 密钥，请单击 **Approve（批准）**。 ![SSH 密钥列表](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 
@@ -49,7 +49,7 @@ topics:
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. 在 SSH Settings（SSH 设置）页面中，记下与您的帐户关联的 SSH 密钥。 对于您无法识别或已过期的密钥，请单击 **Delete（删除）**。 如果有您要保留的有效 SSH 密钥，请单击 **Approve（批准）**。 ![SSH 密钥列表](/assets/images/help/settings/settings-ssh-key-review.png)
+3. 在 SSH Settings（SSH 设置）页面中，记下与您的帐户关联的 SSH 密钥。 对于您无法识别或已过期的密钥，请单击 **Delete（删除）**。 如果有您要保留的有效 SSH 密钥，请单击 **Approve（批准）**。 ![SSH 密钥列表](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 
@@ -77,7 +77,7 @@ topics:
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. 在 SSH Settings（SSH 设置）页面中，记下与您的帐户关联的 SSH 密钥。 对于您无法识别或已过期的密钥，请单击 **Delete（删除）**。 如果有您要保留的有效 SSH 密钥，请单击 **Approve（批准）**。 ![SSH 密钥列表](/assets/images/help/settings/settings-ssh-key-review.png)
+3. 在 SSH Settings（SSH 设置）页面中，记下与您的帐户关联的 SSH 密钥。 对于您无法识别或已过期的密钥，请单击 **Delete（删除）**。 如果有您要保留的有效 SSH 密钥，请单击 **Approve（批准）**。 ![SSH 密钥列表](/assets/images/2021/10/help/settings/settings-ssh-key-review.png)
 
   {% tip %}
 

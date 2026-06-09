@@ -16,7 +16,7 @@ topics:
 
 Use o menu Sort (Ordenar) para ordenar os resultados por relevância, número de estrelas, número de bifurcações e data da atualização dos itens.
 
-  ![Menu com opções para ordenar os resultados da pesquisa](/assets/images/help/search/repo-search-sort.png)
+  ![Menu com opções para ordenar os resultados da pesquisa](/assets/images/2021/10/help/search/repo-search-sort.png)
 
 Para ordenar por interações, reações, data de criação, data do committer e data de atualização dos itens, adicione um qualificador `sort` na consulta de pesquisa.
 

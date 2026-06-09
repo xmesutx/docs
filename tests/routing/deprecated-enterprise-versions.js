@@ -181,7 +181,7 @@ describe('JS and CSS assets', () => {
 
   it('returns the expected image', async () => {
     const result = await supertest(app)
-      .get('/assets/images/octicons/hamburger.svg')
+      .get('/assets/images/2021/10/octicons/hamburger.svg')
       .set('Referrer', '/en/enterprise/2.17')
 
     expect(result.statusCode).toBe(200)
@@ -201,7 +201,7 @@ describe('JS and CSS assets', () => {
 
   it('returns the expected favicon', async () => {
     const result = await supertest(app)
-      .get('/assets/images/site/favicon.svg')
+      .get('/assets/images/2021/10/site/favicon.svg')
       .set('Referrer', '/en/enterprise/2.18')
 
     expect(result.statusCode).toBe(200)

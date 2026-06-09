@@ -32,11 +32,11 @@ shortTitle: 管理安全和分析
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security-analysis %}
 3. 在“Code security and analysis（代码安全和分析）”下，单击功能右侧的 **Disable all（全部禁用）**或 **Enable all（全部启用）**。
-  {% ifversion ghes > 3.2 %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/enterprise/3.3/settings/security-and-analysis-disable-or-enable-all.png){% else %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/help/settings/security-and-analysis-disable-or-enable-all.png){% endif %}
+  {% ifversion ghes > 3.2 %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-disable-or-enable-all.png){% else %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/2021/10/help/settings/security-and-analysis-disable-or-enable-all.png){% endif %}
 6. （可选）默认情况下为您拥有的新存储库启用该功能。
-  {% ifversion ghes > 3.2 %}!["Enable by default" option for new repositories](/assets/images/enterprise/3.3/settings/security-and-analysis-enable-by-default-in-modal.png){% else %}!["Enable by default" option for new repositories](/assets/images/help/settings/security-and-analysis-enable-by-default-in-modal.png){% endif %}
+  {% ifversion ghes > 3.2 %}!["Enable by default" option for new repositories](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-enable-by-default-in-modal.png){% else %}!["Enable by default" option for new repositories](/assets/images/2021/10/help/settings/security-and-analysis-enable-by-default-in-modal.png){% endif %}
 7. 单击 **Disable FEATURE（禁用功能）**或 **Enable FEATURE（启用功能）**以禁用或启用您拥有的所有仓库的功能。
-  {% ifversion ghes > 3.2 %}![Button to disable or enable feature](/assets/images/enterprise/3.3/settings/security-and-analysis-enable-dependency-graph.png){% else %}![Button to disable or enable feature](/assets/images/help/settings/security-and-analysis-enable-dependency-graph.png){% endif %}
+  {% ifversion ghes > 3.2 %}![Button to disable or enable feature](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-enable-dependency-graph.png){% else %}![Button to disable or enable feature](/assets/images/2021/10/help/settings/security-and-analysis-enable-dependency-graph.png){% endif %}
 
 {% data reusables.security.displayed-information %}
 
@@ -45,7 +45,7 @@ shortTitle: 管理安全和分析
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security-analysis %}
 3. 在“Code security and analysis（代码安全和分析）”下，在功能右侧，默认为您拥有的新存储库启用或禁用该功能。
-  {% ifversion ghes > 3.2 %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/enterprise/3.3/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% else %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/help/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% endif %}
+  {% ifversion ghes > 3.2 %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% else %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/2021/10/help/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% endif %}
 
 ## 延伸阅读
 

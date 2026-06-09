@@ -22,9 +22,9 @@ If you reopen a project board, you have the option to *sync* automation, which u
 
 1. Navigate to the list of project boards in your repository or organization, or owned by your user account.
 2. In the projects list, next to the project board you want to close, click {% octicon "chevron-down" aria-label="The chevron icon" %}.
-![Chevron icon to the right of the project board's name](/assets/images/help/projects/project-list-action-chevron.png)
+![Chevron icon to the right of the project board's name](/assets/images/2021/10/help/projects/project-list-action-chevron.png)
 3. Click **Close**.
-![Close item in the project board's drop-down menu](/assets/images/help/projects/close-project.png)
+![Close item in the project board's drop-down menu](/assets/images/2021/10/help/projects/close-project.png)
 
 ## Further reading
 

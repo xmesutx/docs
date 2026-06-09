@@ -18,8 +18,8 @@ shortTitle: Transferir propriedade
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
-4. Selecione o {% data variables.product.prodname_oauth_app %} que você deseja modificar. ![Seleção de aplicativo](/assets/images/oauth-apps/oauth_apps_choose_app_post2dot12.png)
-5. Clique em **Transferir propriedade**. ![Botão para transferir a propriedade](/assets/images/oauth-apps/oauth_apps_transfer_ownership.png)
-6. Digite o nome do {% data variables.product.prodname_oauth_app %} que você deseja transferir. ![Campo para inserir o nome do aplicativo a ser transferido](/assets/images/oauth-apps/oauth_apps_transfer_oauth_name.png)
-7. Digite o nome do usuário ou organização para o qual você deseja transferir o {% data variables.product.prodname_oauth_app %} . ![Campo para inserir o usuário ou organização para o qual transferir](/assets/images/oauth-apps/oauth_apps_transfer_new_owner.png)
-8. Clique em **Transferir este aplicativo**. ![Botão para transferir o aplicativo](/assets/images/oauth-apps/oauth_apps_transfer_application.png)
+4. Selecione o {% data variables.product.prodname_oauth_app %} que você deseja modificar. ![Seleção de aplicativo](/assets/images/2021/10/oauth-apps/oauth_apps_choose_app_post2dot12.png)
+5. Clique em **Transferir propriedade**. ![Botão para transferir a propriedade](/assets/images/2021/10/oauth-apps/oauth_apps_transfer_ownership.png)
+6. Digite o nome do {% data variables.product.prodname_oauth_app %} que você deseja transferir. ![Campo para inserir o nome do aplicativo a ser transferido](/assets/images/2021/10/oauth-apps/oauth_apps_transfer_oauth_name.png)
+7. Digite o nome do usuário ou organização para o qual você deseja transferir o {% data variables.product.prodname_oauth_app %} . ![Campo para inserir o usuário ou organização para o qual transferir](/assets/images/2021/10/oauth-apps/oauth_apps_transfer_new_owner.png)
+8. Clique em **Transferir este aplicativo**. ![Botão para transferir o aplicativo](/assets/images/2021/10/oauth-apps/oauth_apps_transfer_application.png)

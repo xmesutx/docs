@@ -43,7 +43,7 @@ Organization の名前を変更したら、次のようになります:
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-4. 設定ページの末尾近くにある [Rename organization] の下の [**Rename Organization**] をクリックします。 ![[Rename organization] ボタン](/assets/images/help/settings/settings-rename-organization.png)
+4. 設定ページの末尾近くにある [Rename organization] の下の [**Rename Organization**] をクリックします。 ![[Rename organization] ボタン](/assets/images/2021/10/help/settings/settings-rename-organization.png)
 
 ## 参考リンク
 

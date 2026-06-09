@@ -60,7 +60,7 @@ Também é possível [desabilitar quadros de projeto em um repositório](/articl
 
 Para obter mais informações sobre automação para quadros de projeto, consulte "[Sobre automação para quadros de projeto](/articles/about-automation-for-project-boards)".
 
-![Quadro de projeto com modelo de kanban básico](/assets/images/help/projects/project-board-basic-kanban-template.png)
+![Quadro de projeto com modelo de kanban básico](/assets/images/2021/10/help/projects/project-board-basic-kanban-template.png)
 
 {% data reusables.project-management.copy-project-boards %}
 

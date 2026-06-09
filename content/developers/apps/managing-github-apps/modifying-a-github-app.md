@@ -18,6 +18,6 @@ topics:
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
 5. In "Basic information", modify the GitHub App information that you'd like to change.
-![Basic information section for your GitHub App](/assets/images/github-apps/github_apps_basic_information.png)
+![Basic information section for your GitHub App](/assets/images/2021/10/github-apps/github_apps_basic_information.png)
 6. Click **Save changes**.
-![Button to save changes for your GitHub App](/assets/images/github-apps/github_apps_save_changes.png)
+![Button to save changes for your GitHub App](/assets/images/2021/10/github-apps/github_apps_save_changes.png)

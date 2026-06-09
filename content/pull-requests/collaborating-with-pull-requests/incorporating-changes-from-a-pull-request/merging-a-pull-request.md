@@ -47,11 +47,11 @@ If you decide you don't want the changes in a topic branch to be merged to the u
 2. In the "Pull Requests" list, click the pull request you'd like to merge.
 3. Depending on the merge options enabled for your repository, you can:
     - [Merge all of the commits into the base branch](/articles/about-pull-request-merges/) by clicking **Merge pull request**. If the **Merge pull request** option is not shown, then click the merge drop down menu and select **Create a merge commit**.
-    ![merge-pull-request-button](/assets/images/help/pull_requests/pullrequest-mergebutton.png)
+    ![merge-pull-request-button](/assets/images/2021/10/help/pull_requests/pullrequest-mergebutton.png)
     - [Squash the commits into one commit](/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits) by clicking the merge drop down menu, selecting **Squash and merge** and then clicking the **Squash and merge** button.
-    ![click-squash-and-merge-button](/assets/images/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
+    ![click-squash-and-merge-button](/assets/images/2021/10/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
     - [Rebase the commits individually onto the base branch](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits) by clicking the merge drop down menu, selecting **Rebase and merge** and then clicking the **Rebase and merge** button.
-    ![select-rebase-and-merge-from-drop-down-menu](/assets/images/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
+    ![select-rebase-and-merge-from-drop-down-menu](/assets/images/2021/10/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
 
     {% note %}
 
@@ -61,7 +61,7 @@ If you decide you don't want the changes in a topic branch to be merged to the u
 4. If prompted, type a commit message, or accept the default message.
 
    {% data reusables.pull_requests.default-commit-message-squash-merge %}
-   ![Commit message field](/assets/images/help/pull_requests/merge_box/pullrequest-commitmessage.png)
+   ![Commit message field](/assets/images/2021/10/help/pull_requests/merge_box/pullrequest-commitmessage.png)
 
 {% data reusables.files.choose-commit-email %}
 

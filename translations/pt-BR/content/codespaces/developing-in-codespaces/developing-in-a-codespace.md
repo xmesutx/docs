@@ -25,7 +25,7 @@ shortTitle: Desenvolver em um codespace
 
 {% data reusables.codespaces.links-to-get-started %}
 
-![Visão geral do codespace com anotações](/assets/images/help/codespaces/codespace-overview-annotated.png)
+![Visão geral do codespace com anotações](/assets/images/2021/10/help/codespaces/codespace-overview-annotated.png)
 
 1. Barra lateral - Por padrão, esta área mostra os arquivos do seu projeto no Explorador.
 2. Barra de Atividades - Exibe a visualização e fornece uma maneira de alternar entre elas. Você pode reordenar as Visualizações arrastando e soltando-as.
@@ -59,6 +59,6 @@ O {% data variables.product.prodname_vscode_command_palette %} permite que você
 ## Acessar um codespace existente
 
 1. {% data reusables.codespaces.you-can-see-all-your-codespaces %}
-2. Clique no nome do codespace em que você deseja desenvolver. ![Nome do codespace](/assets/images/help/codespaces/click-name-codespace.png)
+2. Clique no nome do codespace em que você deseja desenvolver. ![Nome do codespace](/assets/images/2021/10/help/codespaces/click-name-codespace.png)
 
 Como alternativa, você pode ver qualquer codespace ativo para um repositório acessando esse repositório e selecionando o **Código de {% octicon "code" aria-label="The code icon" %}**. O menu suspenso exibirá todos os codespaces ativos de um repositório.

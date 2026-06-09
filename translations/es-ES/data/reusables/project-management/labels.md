@@ -1,1 +1,1 @@
-1. Sobre la lista de informes de problemas o solicitudes de extracción, da clic en **Etiquetas**. ![Pestaña de etiquetas en la página de informes de problemas o solicitudes de extracción de un repositorio](/assets/images/help/issues/issues_labels_button.png)
+1. Sobre la lista de informes de problemas o solicitudes de extracción, da clic en **Etiquetas**. ![Pestaña de etiquetas en la página de informes de problemas o solicitudes de extracción de un repositorio](/assets/images/2021/10/help/issues/issues_labels_button.png)

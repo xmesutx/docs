@@ -19,7 +19,7 @@ shortTitle: Criar página 404 personalizada
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.pages.navigate-publishing-source %}
 {% data reusables.files.add-file %}
-3. No campo de nome de arquivo, digite `404.html` ou `404.md`. ![Campo de nome de arquivo](/assets/images/help/pages/404-file-name.png)
+3. No campo de nome de arquivo, digite `404.html` ou `404.md`. ![Campo de nome de arquivo](/assets/images/2021/10/help/pages/404-file-name.png)
 4. Se você nomeou seu arquivo como `404.md`, adicione a seguinte página inicial YAML no começo do arquivo:
   ```yaml
   ---

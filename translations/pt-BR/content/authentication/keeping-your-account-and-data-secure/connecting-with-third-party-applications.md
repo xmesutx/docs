@@ -22,11 +22,11 @@ Quando um aplicativo de terceiro quiser identificar você pelo seu login do {% d
 
 Como o aplicativo é desenvolvido por um terceiro que não é o {% data variables.product.product_name %}, não sabemos exatamente como o aplicativo usa os dados para os quais está solicitando acesso. Você pode usar as informações do desenvolvedor no topo da página para contatar o administrador do aplicativo se tiver dúvidas sobre o aplicativo.
 
-![Informações de proprietário do {% data variables.product.prodname_oauth_app %}](/assets/images/help/platform/oauth_owner_bar.png)
+![Informações de proprietário do {% data variables.product.prodname_oauth_app %}](/assets/images/2021/10/help/platform/oauth_owner_bar.png)
 
 Se o desenvolvedor tiver optador por fornecê-lo, o lado direito da página fornecerá uma descrição detalhada do aplicativo, bem como seu site associado.
 
-![Informações de aplicativo e site do OAuth](/assets/images/help/platform/oauth_app_info.png)
+![Informações de aplicativo e site do OAuth](/assets/images/2021/10/help/platform/oauth_app_info.png)
 
 ## Tipos de acesos e dados do aplicativo
 
@@ -51,7 +51,7 @@ Quando você quiser usar um aplicativo de terceiro que se integre ao {% data var
 
 Há vários tipos de dados que os aplicativos podem solicitar.
 
-![Detalhes de acesso do OAuth](/assets/images/help/platform/oauth_access_types.png)
+![Detalhes de acesso do OAuth](/assets/images/2021/10/help/platform/oauth_access_types.png)
 
 {% tip %}
 
@@ -75,4 +75,4 @@ Há vários tipos de dados que os aplicativos podem solicitar.
 
 Os aplicativos podem solicitar novos privilégios de acesso. Ao solicitar permissões atualizadas, o aplicativo notificará você das diferenças.
 
-![Alterar acesso de aplicativo de terceiro](/assets/images/help/platform/oauth_existing_access_pane.png)
+![Alterar acesso de aplicativo de terceiro](/assets/images/2021/10/help/platform/oauth_existing_access_pane.png)

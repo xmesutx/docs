@@ -16,7 +16,7 @@ topics:
 
 {% data reusables.actions.about-actions %} With {% data variables.product.prodname_actions %}, your enterprise can automate, customize, and execute your software development workflows like testing and deployments. For more information, see "[About {% data variables.product.prodname_actions %} for enterprises](/admin/github-actions/getting-started-with-github-actions-for-your-enterprise/about-github-actions-for-enterprises)."
 
-![Diagram of jobs running on self-hosted runners](/assets/images/help/images/actions-enterprise-overview.png)
+![Diagram of jobs running on self-hosted runners](/assets/images/2021/11/help/images/actions-enterprise-overview.png)
 
 {% data reusables.enterprise.upgrade-ghes-for-actions %}
 
@@ -30,7 +30,7 @@ Determine which actions your developers will be allowed to use. {% ifversion ghe
 
 Then,{% else %}First,{% endif %} decide whether you'll allow third-party actions that were not created by {% data variables.product.company_short %}. You can configure the actions that are allowed to run at the repository, organization, and enterprise levels and can choose to only allow actions that are created by {% data variables.product.company_short %}. If you do allow third-party actions, you can limit allowed actions to those created by verified creators or a list of specific actions. For more information, see "[Managing {% data variables.product.prodname_actions %} settings for a repository](/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#managing-github-actions-permissions-for-your-repository)", "[Disabling or limiting {% data variables.product.prodname_actions %} for your organization](/organizations/managing-organization-settings/disabling-or-limiting-github-actions-for-your-organization#managing-github-actions-permissions-for-your-organization)", and "[Enforcing policies for {% data variables.product.prodname_actions %} in your enterprise](/admin/policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-actions-in-your-enterprise#enforcing-a-policy-to-restrict-the-use-of-actions-in-your-enterprise)."
 
-![Screenshot of {% data variables.product.prodname_actions %} policies](/assets/images/help/organizations/enterprise-actions-policy.png)
+![Screenshot of {% data variables.product.prodname_actions %} policies](/assets/images/2021/10/help/organizations/enterprise-actions-policy.png)
 
 {% ifversion ghec or ghae-issue-4757 %}
 Consider combining OpenID Connect (OIDC) with reusable workflows to enforce consistent deployments across your repository, organization, or enterprise. You can do this by defining trust conditions on cloud roles based on reusable workflows. For more information, see "[Using OpenID Connect with reusable workflows](/actions/deployment/security-hardening-your-deployments/using-openid-connect-with-reusable-workflows)."
@@ -38,7 +38,7 @@ Consider combining OpenID Connect (OIDC) with reusable workflows to enforce cons
 
 You can access information about activity related to {% data variables.product.prodname_actions %} in the audit logs for your enterprise. If your business needs require retaining audit logs for longer than six months, plan how you'll export and store this data outside of {% data variables.product.prodname_dotcom %}. For more information, see {% ifversion ghec %}"[Streaming the audit logs for organizations in your enterprise](/admin/user-management/managing-organizations-in-your-enterprise/streaming-the-audit-logs-for-organizations-in-your-enterprise-account)."{% else %}"[Searching the audit log](/admin/user-management/monitoring-activity-in-your-enterprise/searching-the-audit-log)."{% endif %}
 
-![审核日志条目](/assets/images/help/repository/audit-log-entries.png)
+![审核日志条目](/assets/images/2021/10/help/repository/audit-log-entries.png)
 
 ## 安全
 
@@ -56,7 +56,7 @@ You should plan where you'll store your secrets. We recommend storing secrets in
 
 In {% data variables.product.prodname_dotcom %}, you can store secrets at the repository or organization level. Secrets at the repository level can be limited to workflows in certain environments, such as production or testing. For more information, see "[Encrypted secrets](/actions/security-guides/encrypted-secrets)."
 
-![Screenshot of a list of secrets](/assets/images/help/settings/actions-org-secrets-list.png) You should consider adding manual approval protection for sensitive environments, so that workflows must be approved before getting access to the environments' secrets. For more information, see "[Using environments for deployments](/actions/deployment/targeting-different-environments/using-environments-for-deployment)."
+![Screenshot of a list of secrets](/assets/images/2021/10/help/settings/actions-org-secrets-list.png) You should consider adding manual approval protection for sensitive environments, so that workflows must be approved before getting access to the environments' secrets. For more information, see "[Using environments for deployments](/actions/deployment/targeting-different-environments/using-environments-for-deployment)."
 
 ### Security considerations for third-party actions
 
@@ -107,7 +107,7 @@ Finally, you should consider security hardening for self-hosted runners. For mor
 
 {% data reusables.actions.about-artifacts %} For more information, see "[Storing workflow data as artifacts](/actions/advanced-guides/storing-workflow-data-as-artifacts)."
 
-![Screenshot of artifact](/assets/images/help/repository/passing-data-between-jobs-in-a-workflow-updated.png)
+![Screenshot of artifact](/assets/images/2021/10/help/repository/passing-data-between-jobs-in-a-workflow-updated.png)
 
 {% ifversion ghes %}
 You must configure external blob storage for these artifacts. Decide which supported storage provider your enterprise will use. For more information, see "[Getting started with {% data variables.product.prodname_actions %} for {% data variables.product.product_name %}](/admin/github-actions/getting-started-with-github-actions-for-your-enterprise/getting-started-with-github-actions-for-github-enterprise-server#external-storage-requirements)."

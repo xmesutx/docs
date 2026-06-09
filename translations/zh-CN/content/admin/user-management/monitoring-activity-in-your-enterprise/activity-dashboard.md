@@ -24,9 +24,9 @@ topics:
 - 新组织
 - 新团队
 
-![活动仪表板](/assets/images/enterprise/activity/activity-dashboard-yearly.png)
+![活动仪表板](/assets/images/2021/10/enterprise/activity/activity-dashboard-yearly.png)
 
 ## 访问活动仪表板
 
-1. 在任一页面顶部，单击 **Explore**。 ![Explore 选项卡](/assets/images/enterprise/settings/ent-new-explore.png)
-2. 在右上角单击 **Activity**。 ![Activity 按钮](/assets/images/enterprise/activity/activity-button.png)
+1. 在任一页面顶部，单击 **Explore**。 ![Explore 选项卡](/assets/images/2021/10/enterprise/settings/ent-new-explore.png)
+2. 在右上角单击 **Activity**。 ![Activity 按钮](/assets/images/2021/10/enterprise/activity/activity-button.png)

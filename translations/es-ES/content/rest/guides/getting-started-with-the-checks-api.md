@@ -21,7 +21,7 @@ Para obtener un ejemplo de cómo utilizar la API de Verificaciones con una {% da
 
 Cuando alguien carga código a un repositorio, GitHub crea una suite de verificación para la última confirmación. Una suite de verificación es un conjunto de [ejecuciones de verificación](/rest/reference/checks#check-runs) que crea una sola GitHub App para una confirmación específica. Las suites de Verificación resumen el estado y la conclusión de la ejecución de verificación que incluye dicha suite.
 
-![Flujo de trabajo de las suites de verificación](/assets/images/check_suites.png)
+![Flujo de trabajo de las suites de verificación](/assets/images/2021/10/check_suites.png)
 
 La suite de verificación reporta la `conclusion` de la ejecución de verificación con la prioridad más alta en `conclusion` de la suite de verificación. Por ejemplo, si tres ejecuciones de verificación tienen conclusiones de `timed_out`, `success`, y `neutral`, la conclusión de la suite de verificación será `timed_out`.
 
@@ -39,7 +39,7 @@ Para utilizar la API de suites de verificación, la GitHub App debe tener el per
 
 Una ejecución de verificación es una prueba individual que forma parte de una suite de verificación. Cada ejecución incluye un estado y una conclusión.
 
-![Flujo de trabajo de las ejecuciones de verificación](/assets/images/check_runs.png)
+![Flujo de trabajo de las ejecuciones de verificación](/assets/images/2021/10/check_runs.png)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 Si una ejecución de verificación permanece en un estado incompleto por más de 14 días, entonces las `conclusion` de dicha ejecución se convierten en `stale` y aparecen en
@@ -48,7 +48,7 @@ Si una ejecución de verificación permanece en un estado incompleto por más de
 
 Puedes crear la ejecución de verificación tan pronto como recibas el webhook de [`check_suite`](/webhooks/event-payloads/#check_suite), aún si ésta todavía no se completa. Puedes actualizar el `status` de la ejecución de verificación ya que se completa con los valores `queued`, `in_progress`, o `completed`, y puedes actualizar la `output` conforme vayan estando disponibles los detalles adicionales. Una ejecución de verificación puede contener estampas de tiempo, un enlace para encontrar más detalles en tu sitio externo, anotaciones detalladas para líneas de código específcas, e información acerca del análisis que se llevó a cabo.
 
-![Anotaciones de la ejecución de verificación](/assets/images/check_run_annotations.png)
+![Anotaciones de la ejecución de verificación](/assets/images/2021/10/check_run_annotations.png)
 
 Una verificación también puede volverse a ejecutar en la IU de GitHub. Consulta la sección "[Acerca de las verificaciones de estado](/articles/about-status-checks#checks)" para obtener más detalles. Cuando esto ocurre, la GitHub App que creó la ejecución de verificación recibirá el webhook [`check_run`](/webhooks/event-payloads/#check_run) que solicita una ejecución de verificación nueva. Si creas una ejecución de verificación sin crear una suite de verificación, GitHub la creará para tí automáticamente.
 
@@ -72,7 +72,7 @@ Para crear un botón que pueda solicitarle a tu app acciones adicionales, utiliz
     }]
   ```
 
-  ![Botón de acción solicitada para la ejecución de verificación](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+  ![Botón de acción solicitada para la ejecución de verificación](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 Cuando un usuario da clic en el botón, {% data variables.product.prodname_dotcom %} envía el [webhook de `check_run.requested_action`](/webhooks/event-payloads/#check_run) a tu app. Cuando tu app recibe el evento de webhook de `check_run.requested_action`, este puede buscar la clave de `requested_action.identifier` en la carga útil del webhook para determinar qué botón se pulsó y llevar a cabo la tarea solicitada.
 

@@ -16,13 +16,13 @@ Você pode navegar, pesquisar e executar comandos em {% data variables.product.p
 
 Ao abrira paleta de comando, as sugestões são otimizadas para facilitar o acesso a partir de qualquer lugar em um repositório, conta de usuário, ou organização para páginas de nível superior, como a página de problemas. Se o local que você deseja não estiver listado, comece a digitar o nome ou número para a localização refinar as sugestões.
 
-![Sugestões da paleta de comandos](/assets/images/help/command-palette/command-palette-navigation-repo-default.png)
+![Sugestões da paleta de comandos](/assets/images/2021/11/help/command-palette/command-palette-navigation-repo-default.png)
 
 ### Acesso fácil aos comandos
 
 A capacidade de executar comandos diretamente do seu teclado, sem navegar por meio de uma série de menus pode alterar a forma como você usa {% data variables.product.prodname_dotcom %}. Por exemplo, você pode alternar temas com algumas teclas pressionadas, facilitando a alternância entre temas à medida que as suas necessidades forem mudando.
 
-![Alterar tema da paleta de comandos](/assets/images/help/command-palette/command-palette-command-change-theme.png)
+![Alterar tema da paleta de comandos](/assets/images/2021/11/help/command-palette/command-palette-command-change-theme.png)
 
 ## Abrindo o {% data variables.product.prodname_command_palette %}
 
@@ -34,7 +34,7 @@ Você pode personalizar os atalhos de teclado que você usa para abrir a paleta 
 
 Ao abrir a paleta de comando, ela mostra sua localização no canto superior esquerdo e a usa como o escopo de sugestões (por exemplo, a organização `mashed-avocado`).
 
-![Lançamento da paleta de comando](/assets/images/help/command-palette/command-palette-launch.png)
+![Lançamento da paleta de comando](/assets/images/2021/11/help/command-palette/command-palette-launch.png)
 
 {% note %}
 
@@ -49,7 +49,7 @@ Ao abrir a paleta de comando, ela mostra sua localização no canto superior esq
 
 Os atalhos de teclado padrão usados para abrir a paleta de comandos podem entrar em conflito com os atalhos de teclado padrão do sistema operacional e do navegador. Você tem a opção de personalizar seus atalhos de teclado na [seção de acessibilidade](https://github.com/settings/accessibility) das configurações da sua conta. Nas configurações da paleta de comandos, você pode personalizar os atalhos de teclado para abrir a paleta de comandos em modo de pesquisa e modo de comando.
 
-![Configurações de atalho da paleta de teclado](/assets/images/help/command-palette/command-palette-keyboard-shortcut-settings.png)
+![Configurações de atalho da paleta de teclado](/assets/images/2022/02/help/command-palette/command-palette-keyboard-shortcut-settings.png)
 ## Navegando com {% data variables.product.prodname_command_palette %}
 
 Você pode usar a paleta de comandos para navegar para qualquer página que você tenha acesso em {% data variables.product.product_name %}.
@@ -58,7 +58,7 @@ Você pode usar a paleta de comandos para navegar para qualquer página que voc�
 
 2. Comece a digitar o caminho para o qual você deseja navegar. As sugestões na paleta de comandos são alteradas para corresponder ao seu texto.
 
-   ![Escopo atual da paleta de navegação](/assets/images/help/command-palette/command-palette-navigation-current-scope.png)
+   ![Escopo atual da paleta de navegação](/assets/images/2021/11/help/command-palette/command-palette-navigation-current-scope.png)
 
 {% data reusables.command-palette.change-scope %}
 
@@ -83,7 +83,7 @@ Você pode usar a paleta de comandos para pesquisar qualquer coisa em {% data va
    - <kbd>@</kbd> Pesquisa usuários, organizações e repositórios
    - <kbd>/</kbd> Pesquisa arquivos dentro do escopo de um repositório
 
-   ![Arquivos de pesquisa da paleta de comando](/assets/images/help/command-palette/command-palette-search-files.png)
+   ![Arquivos de pesquisa da paleta de comando](/assets/images/2021/11/help/command-palette/command-palette-search-files.png)
 
 4. Comece a inserir seus termos de pesquisa. A paleta de comandos irá oferecer um intervalo de pesquisas sugeridas com base no seu escopo de pesquisa.
 
@@ -106,7 +106,7 @@ Para obter uma lista completa dos comandos compatíveis, consulte "[Referência 
 
 1. Os atalhos padrão do teclado para abrir a paleta de comandos no modo comando são <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (Windows and Linux) ou <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (Mac). Se você já tiver a paleta de comandos aberta, pressione <kbd>></kbd> para alternar para o modo de comando. {% data variables.product.prodname_dotcom %} sugere comandos baseados na sua localização.
 
-   ![Modo de comando da paleta de comando](/assets/images/help/command-palette/command-palette-command-mode.png)
+   ![Modo de comando da paleta de comando](/assets/images/2021/11/help/command-palette/command-palette-command-mode.png)
 
 {% data reusables.command-palette.change-scope %}
 

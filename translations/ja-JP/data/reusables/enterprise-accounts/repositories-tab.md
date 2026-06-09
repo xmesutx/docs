@@ -1,1 +1,1 @@
-1. "{% octicon "law" aria-label="The law icon" %} Policies（ポリシー）"の下で、**Repositories（リポジトリ）**をクリックしてください。 ![Enterpriseアカウント設定サイドバー内のリポジトリタブ](/assets/images/help/business-accounts/policies-repositories-tab.png)
+1. "{% octicon "law" aria-label="The law icon" %} Policies（ポリシー）"の下で、**Repositories（リポジトリ）**をクリックしてください。 ![Enterpriseアカウント設定サイドバー内のリポジトリタブ](/assets/images/2021/10/help/business-accounts/policies-repositories-tab.png)

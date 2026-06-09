@@ -19,8 +19,8 @@ You can deliver deployments through {% data variables.product.prodname_actions %
 
 To view current and past deployments, click **Environments** on the home page of your repository.
 {% ifversion ghae %}
-![Environments](/assets/images/enterprise/2.22/environments-sidebar.png){% else %}
-![Environments](/assets/images/environments-sidebar.png){% endif %}
+![Environments](/assets/images/2021/10/enterprise/2.22/environments-sidebar.png){% else %}
+![Environments](/assets/images/2021/10/environments-sidebar.png){% endif %}
 
 The deployments page displays the last active deployment of each environment for your repository. If the deployment includes an environment URL, a **View deployment** button that links to the URL is shown next to the deployment.
 

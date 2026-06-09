@@ -29,17 +29,17 @@ shortTitle: Analyze changes
 
 上のグラフは、週ごとの年間のコミットを示しています。
 
-![リポジトリコミット年グラフ](/assets/images/help/graphs/repo_commit_activity_year_graph.png)
+![リポジトリコミット年グラフ](/assets/images/2021/10/help/graphs/repo_commit_activity_year_graph.png)
 
 下のグラフは、選択した週の曜日別のコミットの平均数を示しています。
 
-![リポジトリコミット週グラフ](/assets/images/help/graphs/repo_commit_activity_week_graph.png)
+![リポジトリコミット週グラフ](/assets/images/2021/10/help/graphs/repo_commit_activity_week_graph.png)
 
 ### コミットグラフにアクセスする
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 左サイドバーで [**Commits**] をクリックします。 ![[Commits] タブ](/assets/images/help/graphs/commits_tab.png)
+3. 左サイドバーで [**Commits**] をクリックします。 ![[Commits] タブ](/assets/images/2021/10/help/graphs/commits_tab.png)
 
 ## Visualizing additions and deletion to content in a repository
 
@@ -47,7 +47,7 @@ shortTitle: Analyze changes
 
 {% ifversion fpt or ghec %}
 
-![コード更新頻度グラフ](/assets/images/help/graphs/repo_code_frequency_graph_dotcom.png)
+![コード更新頻度グラフ](/assets/images/2021/10/help/graphs/repo_code_frequency_graph_dotcom.png)
 
 {% endif %}
 
@@ -55,4 +55,4 @@ shortTitle: Analyze changes
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 左サイドバーで [**Code frequency**] をクリックします。 ![コード更新頻度タブ](/assets/images/help/graphs/code_frequency_tab.png)
+3. 左サイドバーで [**Code frequency**] をクリックします。 ![コード更新頻度タブ](/assets/images/2021/10/help/graphs/code_frequency_tab.png)

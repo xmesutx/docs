@@ -36,7 +36,7 @@ También puedes configurar automatizaciones de flujo de trabajo para mantener tu
 ## Crear un tablero de proyecto propiedad de un usuario
 
 {% data reusables.profile.access_profile %}
-2. En la parte superior de tu página de perfil, en la navegación principal, haz clic en {% octicon "project" aria-label="The project board icon" %} **Proyectos**. ![Pestaña Project (Proyecto)](/assets/images/help/projects/user-projects-tab.png)
+2. En la parte superior de tu página de perfil, en la navegación principal, haz clic en {% octicon "project" aria-label="The project board icon" %} **Proyectos**. ![Pestaña Project (Proyecto)](/assets/images/2021/10/help/projects/user-projects-tab.png)
 {% data reusables.project-management.click-new-project %}
 {% data reusables.project-management.create-project-name-description %}
 {% data reusables.project-management.choose-template %}
@@ -75,7 +75,7 @@ También puedes configurar automatizaciones de flujo de trabajo para mantener tu
 ## Crear un tablero de proyecto para un repositorio
 
 {% data reusables.repositories.navigate-to-repo %}
-2. En el nombre de tu repositorio, haz clic en {% octicon "project" aria-label="The project board icon" %} **Proyectos**. ![Pestaña Project (Proyecto)](/assets/images/help/projects/repo-tabs-projects.png)
+2. En el nombre de tu repositorio, haz clic en {% octicon "project" aria-label="The project board icon" %} **Proyectos**. ![Pestaña Project (Proyecto)](/assets/images/2021/10/help/projects/repo-tabs-projects.png)
 {% data reusables.project-management.click-new-project %}
 {% data reusables.project-management.create-project-name-description %}
 {% data reusables.project-management.choose-template %}

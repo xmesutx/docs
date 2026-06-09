@@ -68,7 +68,7 @@ Enterprise アカウントのドメイン検証するには、ドメインホス
    ```
 1. TXTレコードがDNSに追加されたことを確認したら、上記のステップ1から4までに従い、Enterpriseアカウントの承認及び検証済みのドメインにアクセスしてください。
 {% data reusables.enterprise-accounts.continue-verifying-domain %}
-1. 必要に応じて、Organization のプロフィールに「検証済み」バッジが表示されたら、ドメインホスティングサービスの DNS レコードから TXT エントリを削除します。 ![検証済みバッジ](/assets/images/help/organizations/verified-badge.png)
+1. 必要に応じて、Organization のプロフィールに「検証済み」バッジが表示されたら、ドメインホスティングサービスの DNS レコードから TXT エントリを削除します。 ![検証済みバッジ](/assets/images/2021/10/help/organizations/verified-badge.png)
 
 ## Approving a domain for your enterprise account
 
@@ -87,4 +87,4 @@ Enterprise アカウントのドメイン検証するには、ドメインホス
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.verified-domains-tab %}
-1. 削除するドメインの右で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて[**Delete**]をクリックしてください。 ![ドメインの"削除"](/assets/images/help/organizations/domains-delete.png)
+1. 削除するドメインの右で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて[**Delete**]をクリックしてください。 ![ドメインの"削除"](/assets/images/2021/10/help/organizations/domains-delete.png)

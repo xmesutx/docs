@@ -45,7 +45,7 @@ Para configurar um `www` ou um subdomínio personalizado como, por exemplo, `www
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. Em "Domínio personalizado,", digite o seu domínio personalizado e clique em **Salvar**. Isso criará um commit que adiciona um arquivo _CNAME_ à raiz da sua fonte de publicação. ![Botão Salvar domínio personalizado](/assets/images/help/pages/save-custom-subdomain.png)
+4. Em "Domínio personalizado,", digite o seu domínio personalizado e clique em **Salvar**. Isso criará um commit que adiciona um arquivo _CNAME_ à raiz da sua fonte de publicação. ![Botão Salvar domínio personalizado](/assets/images/2021/10/help/pages/save-custom-subdomain.png)
 5. Navegue até o provedor DNS e crie um registro `CNAME` que aponte seu subdomínio para o domínio padrão do seu site. Por exemplo, se você quiser usar o subdomínio `www.example.com` para seu site de usuário, crie um registro `CNAME` que aponte `www.example.com` para `<user>.github.io`. Se você desejar usar o subdomínio `www.anotherexample.com` no seu site da organização, crie um registro `CNAME` que aponte `www. notherexample.com` para `<organization>.github.io`. O registro `CNAME` sempre deve apontar para `<user>.github.io` ou `<organization>.github.io`, excluindo o nome do repositório. {% data reusables.pages.contact-dns-provider %} {% data reusables.pages.default-domain-information %}
 
 {% indented_data_reference reusables.pages.wildcard-dns-warning spaces=3 %}
@@ -70,7 +70,7 @@ Para configurar um domínio apex, como `example.com`, você deve configurar um a
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. Em "Domínio personalizado,", digite o seu domínio personalizado e clique em **Salvar**. Isso criará um commit que adiciona um arquivo _CNAME_ à raiz da sua fonte de publicação. ![Botão Salvar domínio personalizado](/assets/images/help/pages/save-custom-apex-domain.png)
+4. Em "Domínio personalizado,", digite o seu domínio personalizado e clique em **Salvar**. Isso criará um commit que adiciona um arquivo _CNAME_ à raiz da sua fonte de publicação. ![Botão Salvar domínio personalizado](/assets/images/2021/10/help/pages/save-custom-apex-domain.png)
 5. Navegue até o provedor DNS e crie um registro `ALIAS`, `ANAME` ou `A`. Você também pode criar registros de `AAAA` para suporte ao IPv6. {% data reusables.pages.contact-dns-provider %}
     - Para criar um registro `ALIAS` ou `ANAME`, aponte o domínio apex para o domínio padrão do seu site. {% data reusables.pages.default-domain-information %}
     - Para criar registros `A`, aponte seu domínio apex para os endereços IP para {% data variables.product.prodname_pages %}.
@@ -131,7 +131,7 @@ Depois de configurar o domínio apex, você deverá configurar um registro CNAME
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. Em "Domínio personalizado, clique em **Remover**. ![Botão Salvar domínio personalizado](/assets/images/help/pages/remove-custom-domain.png)
+4. Em "Domínio personalizado, clique em **Remover**. ![Botão Salvar domínio personalizado](/assets/images/2021/10/help/pages/remove-custom-domain.png)
 
 ## Protegendo seu domínio personalizado
 

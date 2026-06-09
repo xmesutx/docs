@@ -38,9 +38,9 @@ shortTitle: Email notifications for pushes
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-notifications %}
-5. 最大で 2 個まで、通知の送信先にしたいメールアドレスを空白で区切って入力します。 2 つを超える数のアカウントにメールを送信させたい場合は、メールアドレスの 1 つをグループメールアドレスにしてください。 ![メールアドレスのテキストボックス](/assets/images/help/settings/email_services_addresses.png)
-1. 自分のサーバーを運用している場合は、**Approved ヘッダ**を介してメールの整合性を確認できます。 **Approved ヘッダ**は、このフィールドに入力するトークンまたはシークレットであり、メールで送信されます。 メールが `Approved` ヘッダが、送信したトークンにマッチする場合、そのメールが {% data variables.product.product_name %} からのものであると信頼できます。 ![Approved ヘッダのテキストボックスをメールで送信](/assets/images/help/settings/email_services_approved_header.png)
-7. [**Setup notifications**] をクリックします。 ![設定通知ボタン](/assets/images/help/settings/setup_notifications_settings.png)
+5. 最大で 2 個まで、通知の送信先にしたいメールアドレスを空白で区切って入力します。 2 つを超える数のアカウントにメールを送信させたい場合は、メールアドレスの 1 つをグループメールアドレスにしてください。 ![メールアドレスのテキストボックス](/assets/images/2021/10/help/settings/email_services_addresses.png)
+1. 自分のサーバーを運用している場合は、**Approved ヘッダ**を介してメールの整合性を確認できます。 **Approved ヘッダ**は、このフィールドに入力するトークンまたはシークレットであり、メールで送信されます。 メールが `Approved` ヘッダが、送信したトークンにマッチする場合、そのメールが {% data variables.product.product_name %} からのものであると信頼できます。 ![Approved ヘッダのテキストボックスをメールで送信](/assets/images/2021/10/help/settings/email_services_approved_header.png)
+7. [**Setup notifications**] をクリックします。 ![設定通知ボタン](/assets/images/2021/10/help/settings/setup_notifications_settings.png)
 
 ## 参考リンク
 {% ifversion fpt or ghae or ghes or ghec %}

@@ -82,9 +82,9 @@ Especially for tickets with {% data variables.product.support_ticket_priority_ur
 {% data reusables.enterprise_management_console.type-management-console-password %}
 {% data reusables.enterprise_management_console.support-link %}
 1. If you'd like to include diagnostics with your support ticket, Under "Diagnostics", click **Download diagnostic info** and save the file locally. You'll attach this file to your support ticket later.
-  ![Screenshot of button labelled "Download diagnostics info" on Management Console Support page.](/assets/images/enterprise/support/download-diagnostics-info-button.png)
+  ![Screenshot of button labelled "Download diagnostics info" on Management Console Support page.](/assets/images/2021/10/enterprise/support/download-diagnostics-info-button.png)
 1. To complete your ticket and display the {% data variables.contact.enterprise_portal %}, under "Open Support Request", click **New support request**.
-  ![Screenshot of button labelled "New support request" on Management Console Support page.](/assets/images/enterprise/management-console/open-support-request.png)
+  ![Screenshot of button labelled "New support request" on Management Console Support page.](/assets/images/2021/10/enterprise/management-console/open-support-request.png)
 {% data reusables.support.submit-a-ticket %}
 
 {% endif %}

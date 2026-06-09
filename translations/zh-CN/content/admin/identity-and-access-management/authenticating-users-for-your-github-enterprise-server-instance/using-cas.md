@@ -48,6 +48,6 @@ topics:
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-3. 选择 **CAS**。 ![选择 CAS](/assets/images/enterprise/management-console/cas-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![选中 CAS 内置身份验证复选框](/assets/images/enterprise/management-console/cas-built-in-authentication.png)
+3. 选择 **CAS**。 ![选择 CAS](/assets/images/2021/10/enterprise/management-console/cas-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![选中 CAS 内置身份验证复选框](/assets/images/2021/10/enterprise/management-console/cas-built-in-authentication.png)
 5. 在 **Server URL** 字段中，输入您的 CAS 服务器的完整 URL。 如果您的 CAS 服务器使用无法由 {% data variables.product.prodname_ghe_server %} 验证的证书，您可以使用 `ghe-ssl-ca-certificate-install` 命令将其作为可信证书安装。

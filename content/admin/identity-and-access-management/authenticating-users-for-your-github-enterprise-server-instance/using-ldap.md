@@ -58,8 +58,8 @@ When you configure LDAP access for users via the {% data variables.enterprise.ma
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
 3. Under "Authentication", select **LDAP**.
-![LDAP select](/assets/images/enterprise/management-console/ldap-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Select LDAP built-in authentication checkbox](/assets/images/enterprise/management-console/ldap-built-in-authentication.png)
+![LDAP select](/assets/images/2021/10/enterprise/management-console/ldap-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Select LDAP built-in authentication checkbox](/assets/images/2021/10/enterprise/management-console/ldap-built-in-authentication.png)
 5. Add your configuration settings.
 
 ## LDAP attributes
@@ -88,7 +88,7 @@ Use these attributes to finish configuring LDAP for {% data variables.product.pr
 
 Select **Disable username and password authentication for Git operations** in your LDAP settings to enforce use of personal access tokens or SSH keys for Git access, which can help prevent your server from being overloaded by LDAP authentication requests. We recommend this setting because a slow-responding LDAP server, especially combined with a large number of requests due to polling, is a frequent source of performance issues and outages.
 
-![Disable LDAP password auth for Git check box](/assets/images/enterprise/management-console/ldap-disable-password-auth-for-git.png)
+![Disable LDAP password auth for Git check box](/assets/images/2021/10/enterprise/management-console/ldap-disable-password-auth-for-git.png)
 
 When this option is selected, if a user tries to use a password for Git operations via the command line, they will receive an error message that says, `Password authentication is not allowed for Git operations. You must use a personal access token.`
 
@@ -96,7 +96,7 @@ When this option is selected, if a user tries to use a password for Git operatio
 
 Select **Enable LDAP certificate verification** in your LDAP settings to validate the LDAP server certificate you use with TLS.
 
-![LDAP certificate verification box](/assets/images/enterprise/management-console/ldap-enable-certificate-verification.png)
+![LDAP certificate verification box](/assets/images/2021/10/enterprise/management-console/ldap-enable-certificate-verification.png)
 
 When this option is selected, the certificate is validated to make sure:
 - If the certificate contains at least one Subject Alternative Name (SAN), one of the SANs matches the LDAP hostname. Otherwise, the Common Name (CN) matches the LDAP hostname.
@@ -115,7 +115,7 @@ LDAP Sync lets you synchronize {% data variables.product.prodname_ghe_server %} 
 
 To enable LDAP Sync, in your LDAP settings, select **Synchronize Emails**, **Synchronize SSH Keys**, or **Synchronize GPG Keys** .
 
-![Synchronization check box](/assets/images/enterprise/management-console/ldap-synchronize.png)
+![Synchronization check box](/assets/images/2021/10/enterprise/management-console/ldap-synchronize.png)
 
 After you enable LDAP sync, a synchronization job will run at the specified time interval to perform the following operations on each user account:
 
@@ -178,9 +178,9 @@ You can view the full list of LDAP users who have access to your instance and pr
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 3. In the left sidebar, click **LDAP users**.
-![LDAP users tab](/assets/images/enterprise/site-admin-settings/ldap-users-tab.png)
+![LDAP users tab](/assets/images/2021/10/enterprise/site-admin-settings/ldap-users-tab.png)
 4. To search for a user, type a full or partial username and click **Search**. Existing users will be displayed in search results. If a user doesn’t exist, click **Create** to provision the new user account.
-![LDAP search](/assets/images/enterprise/site-admin-settings/ldap-users-search.jpg)
+![LDAP search](/assets/images/2022/02/enterprise/site-admin-settings/ldap-users-search.jpg)
 
 ## Updating LDAP accounts
 
@@ -199,7 +199,7 @@ Unless [LDAP Sync is enabled](#enabling-ldap-sync), changes to LDAP accounts are
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
 5. Under "LDAP," click **Sync now** to manually update the account with data from your LDAP server.
-![LDAP sync now button](/assets/images/enterprise/site-admin-settings/ldap-sync-now-button.png)
+![LDAP sync now button](/assets/images/2021/10/enterprise/site-admin-settings/ldap-sync-now-button.png)
 
 You can also [use the API to trigger a manual sync](/enterprise/{{ currentVersion }}/user/rest/reference/enterprise-admin#ldap).
 

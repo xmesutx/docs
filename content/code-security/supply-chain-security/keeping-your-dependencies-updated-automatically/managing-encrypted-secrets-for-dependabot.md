@@ -57,7 +57,7 @@ The name of a {% data variables.product.prodname_dependabot %} secret:
 
    The name of the secret is listed on the Dependabot secrets page. You can click **Update** to change the secret value. You can click **Remove** to delete the secret.
 
-   ![Update or remove a repository secret](/assets/images/help/dependabot/update-remove-repo-secret.png)
+   ![Update or remove a repository secret](/assets/images/2021/10/help/dependabot/update-remove-repo-secret.png)
 
 ## Adding an organization secret for {% data variables.product.prodname_dependabot %}
 
@@ -77,14 +77,14 @@ When creating a secret in an organization, you can use a policy to limit which r
 
    * Click {% octicon "gear" aria-label="The Gear icon" %}.
    * Choose the repositories that can access this secret. 
-     ![Select repositories for this secret](/assets/images/help/dependabot/secret-repository-access.png)
+     ![Select repositories for this secret](/assets/images/2021/10/help/dependabot/secret-repository-access.png)
    * Click **Update selection**.
 
 1. Click **Add secret**.
 
    The name of the secret is listed on the Dependabot secrets page. You can click **Update** to change the secret value or its access policy. You can click **Remove** to delete the secret.
 
-   ![Update or remove an organization secret](/assets/images/help/dependabot/update-remove-org-secret.png)
+   ![Update or remove an organization secret](/assets/images/2021/10/help/dependabot/update-remove-org-secret.png)
    
 ## Adding {% data variables.product.prodname_dependabot %} to your registries IP allow list
 

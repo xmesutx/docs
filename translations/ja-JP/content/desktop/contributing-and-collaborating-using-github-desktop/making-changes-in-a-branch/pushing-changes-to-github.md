@@ -32,8 +32,8 @@ versions:
 {% endnote %}
 
 {% data reusables.desktop.push-origin %}
-2. {% data variables.product.prodname_desktop %} からリモートから新しいコミットをフェッチするように求められたら、[**Fetch**] をクリックします。 ![[Fetch] ボタン](/assets/images/help/desktop/fetch-newer-commits.png)
-3. 必要に応じて、[**Create Pull Request**] をクリックしてプルリクエストを開き、変更を共同で行います。 詳しい情報については、「[Issue またはプルリクエストを作成する](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)」を参照してください。 ![[Create Pull Request] ボタン](/assets/images/help/desktop/create-pull-request.png)
+2. {% data variables.product.prodname_desktop %} からリモートから新しいコミットをフェッチするように求められたら、[**Fetch**] をクリックします。 ![[Fetch] ボタン](/assets/images/2021/10/help/desktop/fetch-newer-commits.png)
+3. 必要に応じて、[**Create Pull Request**] をクリックしてプルリクエストを開き、変更を共同で行います。 詳しい情報については、「[Issue またはプルリクエストを作成する](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)」を参照してください。 ![[Create Pull Request] ボタン](/assets/images/2021/10/help/desktop/create-pull-request.png)
 
 ## 参考リンク
 - {% data variables.product.prodname_dotcom %} 用語集の「[プッシュ](/github/getting-started-with-github/github-glossary/#push)」

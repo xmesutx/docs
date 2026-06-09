@@ -6,4 +6,4 @@
 
       {% endnote %}
 
-3. Para visualizar as informações de uma alteração específica, selecione-as na lista de edições. ![Ver as informações e edição para comentário](/assets/images/help/repository/choose-comment-edit-to-expand.png)
+3. Para visualizar as informações de uma alteração específica, selecione-as na lista de edições. ![Ver as informações e edição para comentário](/assets/images/2021/10/help/repository/choose-comment-edit-to-expand.png)

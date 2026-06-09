@@ -60,10 +60,10 @@ If you're connecting {% data variables.product.product_location %} to an organiz
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
 1. 在“{% data variables.product.prodname_github_connect %} is not enabled yet”下，单击 **Enable {% data variables.product.prodname_github_connect %}**。 By clicking **Enable {% data variables.product.prodname_github_connect %}**, you agree to the "<a href="/github/site-policy/github-terms-for-additional-products-and-features#connect" class="dotcom-only">{% data variables.product.prodname_dotcom %} Terms for Additional Products and Features</a>."
 {% ifversion ghes %}
-![Enable GitHub Connect button](/assets/images/enterprise/business-accounts/enable-github-connect-button.png){% else %}
-![Enable GitHub Connect button](/assets/images/enterprise/github-ae/enable-github-connect-button.png)
+![Enable GitHub Connect button](/assets/images/2021/10/enterprise/business-accounts/enable-github-connect-button.png){% else %}
+![Enable GitHub Connect button](/assets/images/2021/10/enterprise/github-ae/enable-github-connect-button.png)
 {% endif %}
-1. 在要连接的企业帐户或组织旁，单击 **Connect**。 ![企业帐户或企业旁边的连接按钮](/assets/images/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
+1. 在要连接的企业帐户或组织旁，单击 **Connect**。 ![企业帐户或企业旁边的连接按钮](/assets/images/2021/10/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
 
 ## 禁用 {% data variables.product.prodname_github_connect %}
 
@@ -75,9 +75,9 @@ Enterprise owners can disable {% data variables.product.prodname_github_connect 
 {% data reusables.enterprise-accounts.github-connect-tab %}
 1. 在要断开连接的企业帐户或组织旁，单击 **Disable {% data variables.product.prodname_github_connect %}**。
 {% ifversion ghes %}
-  ![企业帐户或组织名称旁的 Disable GitHub Connect 按钮](/assets/images/enterprise/business-accounts/disable-github-connect-button.png)
-1. 阅读有关断开连接的信息，并单击 **Disable {% data variables.product.prodname_github_connect %}**。 ![包含关于断开连接的警告信息和确认按钮的模式窗口](/assets/images/enterprise/business-accounts/confirm-disable-github-connect.png)
+  ![企业帐户或组织名称旁的 Disable GitHub Connect 按钮](/assets/images/2021/10/enterprise/business-accounts/disable-github-connect-button.png)
+1. 阅读有关断开连接的信息，并单击 **Disable {% data variables.product.prodname_github_connect %}**。 ![包含关于断开连接的警告信息和确认按钮的模式窗口](/assets/images/2021/10/enterprise/business-accounts/confirm-disable-github-connect.png)
 {% else %}
-  ![企业帐户或组织名称旁的 Disable GitHub Connect 按钮](/assets/images/enterprise/github-ae/disable-github-connect-button.png)
-1. 阅读有关断开连接的信息，并单击 **Disable {% data variables.product.prodname_github_connect %}**。 ![包含关于断开连接的警告信息和确认按钮的模式窗口](/assets/images/enterprise/github-ae/confirm-disable-github-connect.png)
+  ![企业帐户或组织名称旁的 Disable GitHub Connect 按钮](/assets/images/2021/10/enterprise/github-ae/disable-github-connect-button.png)
+1. 阅读有关断开连接的信息，并单击 **Disable {% data variables.product.prodname_github_connect %}**。 ![包含关于断开连接的警告信息和确认按钮的模式窗口](/assets/images/2021/10/enterprise/github-ae/confirm-disable-github-connect.png)
 {% endif %} 

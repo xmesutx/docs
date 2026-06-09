@@ -57,7 +57,7 @@ Se ainda não o fez, primeiro [configure o Git](/articles/set-up-git). Lembre-se
 Você pode bifurcar um projeto para propor alterações no repositório upstream ou original. Nesse caso, uma boa prática é sincronizar regularmente sua bifurcação com o repositório upstream. Para isso, é necessário usar Git na linha de comando. Você pode praticar configurando o repositório upstream com o mesmo repositório [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) que você acabou de bifurcar.
 
 1. Em {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom_the_website %}{% else %}{% data variables.product.product_location %}{% endif %}, acesse o repositório [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife).
-2. No canto superior direito da página, clique em **Fork** (Bifurcação). ![Botão Fork (Bifurcação)](/assets/images/help/repository/fork_button.jpg)
+2. No canto superior direito da página, clique em **Fork** (Bifurcação). ![Botão Fork (Bifurcação)](/assets/images/2021/10/help/repository/fork_button.jpg)
 
 {% endwebui %}
 

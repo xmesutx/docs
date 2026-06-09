@@ -70,7 +70,7 @@ topics:
 3. IssueあるいはPull Requestを追加したいプロジェクトを選択してください。
 4. あるいは、カスタムフィールドに入力してください。
 
-   ![プロジェクトサイドバー](/assets/images/help/issues/project_side_bar.png)
+   ![プロジェクトサイドバー](/assets/images/2021/10/help/issues/project_side_bar.png)
 
 ## ドラフトIssueのIssueへの変換
 
@@ -118,7 +118,7 @@ topics:
 
 あるいは、これはUIから行うこともできます。
 
-1. 右端のフィールドヘッダの{% octicon "plus" aria-label="the plus icon" %}をクリックしてください。 プロジェクトのフィールドのドロップダウンメニューが表示されます。 ![フィールドの表示もしくは非表示](/assets/images/help/issues/projects_fields_menu.png)
+1. 右端のフィールドヘッダの{% octicon "plus" aria-label="the plus icon" %}をクリックしてください。 プロジェクトのフィールドのドロップダウンメニューが表示されます。 ![フィールドの表示もしくは非表示](/assets/images/2021/10/help/issues/projects_fields_menu.png)
 2. 表示あるいは非表示にしたいフィールドを選択してください。 {% octicon "check" aria-label="check icon" %}は、表示されるフィールドを示します。
 
 ### カスタムフィールドの追加
@@ -135,7 +135,7 @@ topics:
 
 1. {% data reusables.projects.open-command-palette %} "Create new field"のどこかを入力し始めてください。 コマンドパレットに"Create new field"が表示されたら、選択してください。
 2. あるいは、右端のフィールドヘッダの{% octicon "plus" aria-label="the plus icon" %}をクリックしてください。 プロジェクトのフィールドのドロップダウンメニューが表示されます。 **New field（新規フィールド）**をクリックしてください。
-3. 新しいフィールドに関する情報を入力するためのポップアップが表示されます。 ![新しいフィールド](/assets/images/help/issues/projects_new_field.png)
+3. 新しいフィールドに関する情報を入力するためのポップアップが表示されます。 ![新しいフィールド](/assets/images/2021/10/help/issues/projects_new_field.png)
 4. テキストボックスに、新しいフィールドの名前を入力してください。
 5. ドロップダウンメニューを選択し、目的の種類をクリックしてください。
 6. タイプとして**Single select（単一選択）**を指定した場合は、選択肢を入力してください。

@@ -31,7 +31,7 @@ The dependency graph shows the dependencies{% ifversion fpt or ghec %} and depen
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.click-dependency-graph %}{% ifversion fpt or ghec %}
 4. Optionally, under "Dependency graph", click **Dependents**.
-![Dependents tab on the dependency graph page](/assets/images/help/graphs/dependency-graph-dependents-tab.png){% endif %}
+![Dependents tab on the dependency graph page](/assets/images/2021/10/help/graphs/dependency-graph-dependents-tab.png){% endif %}
 
 {% ifversion ghes or ghae-issue-4864 %}
 Enterprise owners can configure the dependency graph at an enterprise level. For more information, see "[Enabling the dependency graph for your enterprise](/admin/code-security/managing-supply-chain-security-for-your-enterprise/enabling-the-dependency-graph-for-your-enterprise)."
@@ -44,14 +44,14 @@ Dependencies are grouped by ecosystem. You can expand a dependency to view its d
 
 If vulnerabilities have been detected in the repository, these are shown at the top of the view for users with access to {% data variables.product.prodname_dependabot_alerts %}.
 
-![Dependencies graph](/assets/images/help/graphs/dependencies_graph.png)
+![Dependencies graph](/assets/images/2021/10/help/graphs/dependencies_graph.png)
 
 {% endif %}
 
 {% ifversion ghes or ghae %}
 Any direct and indirect dependencies that are specified in the repository's manifest or lock files are listed, grouped by ecosystem. If vulnerabilities have been detected in the repository, these are shown at the top of the view for users with access to {% data variables.product.prodname_dependabot_alerts %}.
 
-![Dependencies graph](/assets/images/help/graphs/dependencies_graph_server.png)
+![Dependencies graph](/assets/images/2021/10/help/graphs/dependencies_graph_server.png)
 
 {% note %}
 
@@ -66,7 +66,7 @@ Any direct and indirect dependencies that are specified in the repository's mani
 
 For public repositories, the dependents view shows how the repository is used by other repositories. To show only the repositories that contain a library in a package manager, click **NUMBER Packages** immediately above the list of dependent repositories. The dependent counts are approximate and may not always match the dependents listed.
 
-![Dependents graph](/assets/images/help/graphs/dependents_graph.png)
+![Dependents graph](/assets/images/2021/10/help/graphs/dependents_graph.png)
 
 ## Enabling and disabling the dependency graph for a private repository
 
@@ -78,7 +78,7 @@ You can also enable or disable the dependency graph for all repositories owned b
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
 4. Read the message about granting {% data variables.product.product_name %} read-only access to the repository data to enable the dependency graph, then next to "Dependency Graph", click **Enable**.
-   !["Enable" button for the dependency graph](/assets/images/help/repository/dependency-graph-enable-button.png)
+   !["Enable" button for the dependency graph](/assets/images/2021/10/help/repository/dependency-graph-enable-button.png)
 
 You can disable the dependency graph at any time by clicking **Disable** next to "Dependency Graph" on the Security & analysis tab.
 
@@ -88,7 +88,7 @@ If the dependency graph is enabled, and your repository contains a package that'
 
 The "Used by" section shows the number of public references to the package that were found, and displays the avatars of some of the owners of the dependent projects.
 
-!["Used by" sidebar section](/assets/images/help/repository/used-by-section.png)
+!["Used by" sidebar section](/assets/images/2021/10/help/repository/used-by-section.png)
 
 Clicking any item in this section takes you to the **Dependents** tab of the dependency graph.
 
@@ -98,7 +98,7 @@ The "Used by" section represents a single package from the repository. If you ha
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
 4. Under "Code security and analysis", click the drop-down menu in the "Used by counter" section and choose a package.
-  ![Choose a "Used by" package](/assets/images/help/repository/choose-used-by-package.png)
+  ![Choose a "Used by" package](/assets/images/2021/10/help/repository/choose-used-by-package.png)
 
 {% endif %}
 

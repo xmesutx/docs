@@ -18,8 +18,8 @@ shortTitle: 下载 SAML 恢复代码
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-5. 在“SAML single sign-on”（SAML 单点登录）下，在有关恢复代码的注释中，单击 **Save your recovery codes（保存恢复代码）**。 ![查看和保存恢复代码的链接](/assets/images/help/saml/saml_recovery_codes.png)
-6. 通过单击 **Download（下载）**、**Print（打印）** 或 **Copy（复制）**保存恢复代码。 ![下载、打印或复制恢复代码的按钮](/assets/images/help/saml/saml_recovery_code_options.png)
+5. 在“SAML single sign-on”（SAML 单点登录）下，在有关恢复代码的注释中，单击 **Save your recovery codes（保存恢复代码）**。 ![查看和保存恢复代码的链接](/assets/images/2021/10/help/saml/saml_recovery_codes.png)
+6. 通过单击 **Download（下载）**、**Print（打印）** 或 **Copy（复制）**保存恢复代码。 ![下载、打印或复制恢复代码的按钮](/assets/images/2021/10/help/saml/saml_recovery_code_options.png)
 
   {% note %}
 

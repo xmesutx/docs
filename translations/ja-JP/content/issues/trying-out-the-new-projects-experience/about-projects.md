@@ -35,15 +35,15 @@ topics:
 
 プロジェクトは、高密度のテーブルレイアウトで表示できます。
 
-![プロジェクトのテーブル](/assets/images/help/issues/projects_table.png)
+![プロジェクトのテーブル](/assets/images/2021/10/help/issues/projects_table.png)
 
 あるいはボードとして表示できます。
 
-![プロジェクトボード](/assets/images/help/issues/projects_board.png)
+![プロジェクトボード](/assets/images/2021/10/help/issues/projects_board.png)
 
 プロジェクトの特定の側面に注目しやすくするために、アイテムをグループ化、ソート、フィルタできます。
 
-![プロジェクトのビュー](/assets/images/help/issues/project_view.png)
+![プロジェクトのビュー](/assets/images/2021/10/help/issues/project_view.png)
 
 詳しい情報については「[プロジェクトのビューのカスタマイズ](/issues/trying-out-the-new-projects-experience/customizing-your-project-views)」を参照してください。
 

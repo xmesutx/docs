@@ -25,7 +25,7 @@ shortTitle: 安全日志
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 1. In the "Archives" section of the sidebar, click **{% octicon "log" aria-label="The log icon" %} Security log**.
 {% else %}
-1. 在用户设置侧边栏中，单击 **Security log（安全日志）**。 ![安全日志选项卡](/assets/images/help/settings/audit-log-tab.png)
+1. 在用户设置侧边栏中，单击 **Security log（安全日志）**。 ![安全日志选项卡](/assets/images/2021/10/help/settings/audit-log-tab.png)
 {% endif %}
 
 {% ifversion fpt or ghae or ghes or ghec %}

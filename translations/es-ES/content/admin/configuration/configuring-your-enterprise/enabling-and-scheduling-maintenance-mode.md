@@ -33,21 +33,21 @@ Algunos tipos de operaciones exigen que desconectes tu {% data variables.product
 
 Recomendamos que programe una ventana de mantenimiento para, al menos, los siguientes 30 minutos para darle a los usuarios tiempo para prepararse. Cuando está programada una ventana de mantenimiento, todos los usuarios verán un mensaje emergente al acceder al sitio.
 
-![Mensaje emergente para el usuario final acerca del mantenimiento programado](/assets/images/enterprise/maintenance/maintenance-scheduled.png)
+![Mensaje emergente para el usuario final acerca del mantenimiento programado](/assets/images/2021/10/enterprise/maintenance/maintenance-scheduled.png)
 
 Cuando la instancia está en modo de mantenimiento, se rechazan todos los accesos HTTP y Git. Las operaciones de extracción, clonación y subida de Git también se rechazan con un mensaje de error que indica que temporalmente el sitio no se encuentra disponible. No se ejecutarán los jobs de las Github Actions. Al visitar el sitio desde un navegador aparece una página de mantenimiento.
 
-![La pantalla de presentación del modo de mantenimiento](/assets/images/enterprise/maintenance/maintenance-mode-maintenance-page.png)
+![La pantalla de presentación del modo de mantenimiento](/assets/images/2021/10/enterprise/maintenance/maintenance-mode-maintenance-page.png)
 
 ## Habilitar el modo de mantenimiento de inmediato o programar una ventana de mantenimiento para más tarde
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. En la parte superior de la {% data variables.enterprise.management_console %}, haz clic en **Mantenimiento**. ![Pestaña de mantenimiento](/assets/images/enterprise/management-console/maintenance-tab.png)
+2. En la parte superior de la {% data variables.enterprise.management_console %}, haz clic en **Mantenimiento**. ![Pestaña de mantenimiento](/assets/images/2021/10/enterprise/management-console/maintenance-tab.png)
 3. En "Habilitar y Programar", decide si habilitas el modo de mantenimiento de inmediato o programas una ventana de mantenimiento para otro momento.
-    - Para habilitar el modo de mantenimiento de inmediato, usa el menú desplegable y haz clic en **now** (ahora). ![Menú desplegable con la opción para habilitar el modo de mantenimiento ahora seleccionado](/assets/images/enterprise/maintenance/enable-maintenance-mode-now.png)
-    - Para programar una ventana de mantenimiento para otro momento, usa el menú desplegable y haz clic en un horario de inicio. ![Menú desplegable con la opción para programar una ventana de mantenimiento](/assets/images/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
-4. Selecciona **Habilitar el modo de mantenimiento**. ![Casilla de verificación para habilitar o programar el modo de mantenimiento](/assets/images/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
+    - Para habilitar el modo de mantenimiento de inmediato, usa el menú desplegable y haz clic en **now** (ahora). ![Menú desplegable con la opción para habilitar el modo de mantenimiento ahora seleccionado](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-now.png)
+    - Para programar una ventana de mantenimiento para otro momento, usa el menú desplegable y haz clic en un horario de inicio. ![Menú desplegable con la opción para programar una ventana de mantenimiento](/assets/images/2021/10/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
+4. Selecciona **Habilitar el modo de mantenimiento**. ![Casilla de verificación para habilitar o programar el modo de mantenimiento](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Programar el modo de mantenimiento con {% data variables.product.prodname_enterprise_api %}

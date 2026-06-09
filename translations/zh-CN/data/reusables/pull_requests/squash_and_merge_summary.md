@@ -2,6 +2,6 @@
 
 要压缩并合并拉取请求，必须在仓库中拥有[写入权限](/articles/repository-permission-levels-for-an-organization/)，并且仓库必须[允许压缩合并](/articles/configuring-commit-squashing-for-pull-requests/)。
 
-![commit-squashing-diagram](/assets/images/help/pull_requests/commit-squashing-diagram.png)
+![commit-squashing-diagram](/assets/images/2021/10/help/pull_requests/commit-squashing-diagram.png)
 
 您可以使用压缩并合并在仓库中创建更简化的 Git 历史记录。 在功能分支上工作时，提交正在进行的工作会有帮助，但它们不一定必须留在 Git 历史记录中。 如果在合并到默认分支时将这些提交压缩到一个提交中，您可以保留原来的更改并清除 Git 历史记录。

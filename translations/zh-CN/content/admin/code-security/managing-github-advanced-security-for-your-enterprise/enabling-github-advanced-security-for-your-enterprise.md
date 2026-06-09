@@ -36,7 +36,7 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
-1. 如果您的许可包括 {% data variables.product.prodname_GH_advanced_security %}，则许可页面将包括显示当前使用情况详细信息的部分。 ![企业许可证的 {% data variables.product.prodname_GH_advanced_security %} 部分](/assets/images/help/billing/ghas-orgs-list-enterprise-ghes.png)
+1. 如果您的许可包括 {% data variables.product.prodname_GH_advanced_security %}，则许可页面将包括显示当前使用情况详细信息的部分。 ![企业许可证的 {% data variables.product.prodname_GH_advanced_security %} 部分](/assets/images/2021/10/help/billing/ghas-orgs-list-enterprise-ghes.png)
 {% endif %}
 
 ## 启用 {% data variables.product.prodname_GH_advanced_security %} 的前提条件
@@ -58,8 +58,8 @@ topics:
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.advanced-security-tab %}{% ifversion ghes %}
 1. 在“{% ifversion ghes < 3.2 %}{% data variables.product.prodname_advanced_security %}{% else %}Security（安全性）{% endif %}”下，选择要启用的功能，取消选择要禁用的任何功能。
-{% ifversion ghes > 3.1 %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/enterprise/3.2/management-console/enable-security-checkboxes.png){% else %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/enterprise/management-console/enable-advanced-security-checkboxes.png){% endif %}{% else %}
-1. 在“{% data variables.product.prodname_advanced_security %}”下，单击 **{% data variables.product.prodname_code_scanning_capc %}**。 ![Checkbox to enable or disable {% data variables.product.prodname_code_scanning %}](/assets/images/enterprise/management-console/enable-code-scanning-checkbox.png){% endif %}
+{% ifversion ghes > 3.1 %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/2021/10/enterprise/3.2/management-console/enable-security-checkboxes.png){% else %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/2021/10/enterprise/management-console/enable-advanced-security-checkboxes.png){% endif %}{% else %}
+1. 在“{% data variables.product.prodname_advanced_security %}”下，单击 **{% data variables.product.prodname_code_scanning_capc %}**。 ![Checkbox to enable or disable {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/enterprise/management-console/enable-code-scanning-checkbox.png){% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 
 当 {% data variables.product.product_name %} 完成重启后，您可以设置新启用功能所需的任何额外资源。 更多信息请参阅“[为设备配置 {% data variables.product.prodname_code_scanning %}](/admin/advanced-security/configuring-code-scanning-for-your-appliance)”。

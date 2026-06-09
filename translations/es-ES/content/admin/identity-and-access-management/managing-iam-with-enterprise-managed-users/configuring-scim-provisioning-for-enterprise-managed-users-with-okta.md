@@ -50,7 +50,7 @@ Después de que se haya creado tu {% data variables.product.prodname_emu_enterpr
 1. Navega a tu aplicación de {% data variables.product.prodname_emu_idp_application %} en Okta.
 1. Haz clic en la pestaña **Iniciar sesión**.
 1. Para hacer cambios, haz clic en **Editar**.
-1. Debajo de "Ajustes avanzados de inicio de sesión", en la caja de texto de "Nombre de empresa", teclea el nombre de tu empresa. Por ejemplo, si accedes a tu empresa en `https://github.com/enterprises/octoinc`, tu nombre de empresa será "octoinc". ![Captura de pantalla del campo de Nombre de Empresa en Okta](/assets/images/help/enterprises/okta-emu-enterprise-name.png)
+1. Debajo de "Ajustes avanzados de inicio de sesión", en la caja de texto de "Nombre de empresa", teclea el nombre de tu empresa. Por ejemplo, si accedes a tu empresa en `https://github.com/enterprises/octoinc`, tu nombre de empresa será "octoinc". ![Captura de pantalla del campo de Nombre de Empresa en Okta](/assets/images/2021/10/help/enterprises/okta-emu-enterprise-name.png)
 1. Para guardar el nombre de tu empresa, haz clic en **Guardar**.
 
 ## Configurar el aprovisionamiento
@@ -64,12 +64,12 @@ Para configurar el aprovisionamiento, el usuario de configuración con el nombre
 1. En el menú de configuración, haz clic en ** integración**.
 1. Para hacer cambios, haz clic en **Editar**.
 1. Selecciona **Habilitar la Integraciòn de la API**.
-1. En el campo de "Token de la API", ingresa el token de acceso personal con el alcance **admin:enterprise** que pertenece al usuario de configuración. ![Captura de pantalla que muestra el campo de Token de la API en Okta](/assets/images/help/enterprises/okta-emu-token.png)
+1. En el campo de "Token de la API", ingresa el token de acceso personal con el alcance **admin:enterprise** que pertenece al usuario de configuración. ![Captura de pantalla que muestra el campo de Token de la API en Okta](/assets/images/2021/10/help/enterprises/okta-emu-token.png)
 1. Haz clic en **Probar las credenciales de la API**. Si la prueba tiene éxito, se mostrará un mensaje de verificación en la parte superior de la pantalla.
 1. Para guardar el token, haz clic en **Guardar**.
-1. En el menú de configuración, haz clic en **A la App**. ![Captura de pantalla que muestra el elemento de menú "A la App" en Okta](/assets/images/help/enterprises/okta-emu-to-app-menu.png)
+1. En el menú de configuración, haz clic en **A la App**. ![Captura de pantalla que muestra el elemento de menú "A la App" en Okta](/assets/images/2021/10/help/enterprises/okta-emu-to-app-menu.png)
 1. A la derecha de "Aprovisionamiento a la App", para permitir que se hagan cambios, haz clic en **Editar**.
-1. Selecciona **Habilitar** para **Crear usuarios**. **Actualizar atributos de usuarios** y **Desactivar usuarios**. ![Captura de pantalla que muestra las opciones de aprovisionamiento en Okta](/assets/images/help/enterprises/okta-emu-provisioning-to-app.png)
+1. Selecciona **Habilitar** para **Crear usuarios**. **Actualizar atributos de usuarios** y **Desactivar usuarios**. ![Captura de pantalla que muestra las opciones de aprovisionamiento en Okta](/assets/images/2021/10/help/enterprises/okta-emu-provisioning-to-app.png)
 1. Para finalizar la configuración del aprovisionamiento, haz clic en **Guardar**.
 
 ## Assigning users and groups
@@ -80,4 +80,4 @@ You can also automatically manage organization membership by assigning groups to
 
 Cuando asignas usuarios, puedes utilizar el atributo de "Roles" en la aplicación de {% data variables.product.prodname_emu_idp_application %} para configurar el rol de un usuario en tu empresa en {% data variables.product.product_name %}. Para obtener más información sobre los roles, consulta la sección "[Roles en una empresa](/github/setting-up-and-managing-your-enterprise/managing-users-in-your-enterprise/roles-in-an-enterprise)".
 
-![Captura de pantalla que muestra las opciones de roles para el usuario aprovisionado en Okta](/assets/images/help/enterprises/okta-emu-user-role.png)
+![Captura de pantalla que muestra las opciones de roles para el usuario aprovisionado en Okta](/assets/images/2021/10/help/enterprises/okta-emu-user-role.png)

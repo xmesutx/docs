@@ -31,14 +31,14 @@ You can see which branch a commit is on by looking at the labels beneath the com
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-commit-page %}
-1. 通过单击提交消息链接导航到提交。 ![Screenshot of commit with commit message link emphasized](/assets/images/help/commits/commit-message-link.png)
-2. To see what branch the commit is on, check the label below the commit message. ![Screenshot of commit with commit branch indicator emphasized](/assets/images/help/commits/commit-branch-indicator.png)
+1. 通过单击提交消息链接导航到提交。 ![Screenshot of commit with commit message link emphasized](/assets/images/2022/02/help/commits/commit-message-link.png)
+2. To see what branch the commit is on, check the label below the commit message. ![Screenshot of commit with commit branch indicator emphasized](/assets/images/2022/02/help/commits/commit-branch-indicator.png)
 
 If your commit is not on the default branch (`main`), the label will show the branches which contain the commit. If the commit is part of an unmerged pull request, you can click the link to go to the pull request.
 
 如果提交在默认分支上，将显示包含提交的任何标记，并且默认分支将是列出的唯一分支。 For more information on tags, see "[Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)" in the Git documentation.
 
-![Screenshot of commit with commit tag emphasized](/assets/images/help/commits/commit-tag-label.png)
+![Screenshot of commit with commit tag emphasized](/assets/images/2022/02/help/commits/commit-tag-label.png)
 
 ## 延伸阅读
 - {% data variables.product.prodname_desktop %} 上的“[提交和审查对项目的更改](/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project#about-commits)”

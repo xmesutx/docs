@@ -20,6 +20,6 @@ Quando você desabilita quadros de projeto, deixa de ver informações relaciona
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em "Features" (Recursos), desmarque a caixa de seleção **Projects** (Projetos). ![Caixa de seleção Remove Projects (Remover projetos)](/assets/images/help/projects/disable-projects-checkbox.png)
+3. Em "Features" (Recursos), desmarque a caixa de seleção **Projects** (Projetos). ![Caixa de seleção Remove Projects (Remover projetos)](/assets/images/2021/10/help/projects/disable-projects-checkbox.png)
 
 Após a desabilitação dos quadros de projeto, não é mais possível acessar os quadros de projeto já existentes pelas URLs anteriores. {% data reusables.organizations.disable_project_board_results %}

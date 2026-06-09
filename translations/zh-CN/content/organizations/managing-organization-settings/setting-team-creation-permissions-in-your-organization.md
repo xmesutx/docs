@@ -22,5 +22,5 @@ shortTitle: 限制团队创建
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. 在“Team creation rules（团队创建规则）”下，选择或取消选择 **Allow members to create teams（允许成员创建团队）**。 ![允许成员创建团队的复选框](/assets/images/help/organizations/allow-members-to-create-teams.png)
+5. 在“Team creation rules（团队创建规则）”下，选择或取消选择 **Allow members to create teams（允许成员创建团队）**。 ![允许成员创建团队的复选框](/assets/images/2021/10/help/organizations/allow-members-to-create-teams.png)
 6. 单击 **Save（保存）**。

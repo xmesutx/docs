@@ -24,9 +24,9 @@ Cuando creas un repositorio nuevo en {% data variables.product.product_location 
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.repo-tab %}
-3. Debajo de "Rama predeterminada del repositorio", da clic en **Cambiar el nombre de la rama predeterminada ahora**. ![Botón de ignorar](/assets/images/help/settings/repo-default-name-button.png)
-4. Teclea el nombre predeterminado que quisieras utilizar para las ramas nuevas. ![Caja de texto para ingresar el nombre predeterminado](/assets/images/help/settings/repo-default-name-text.png)
-5. Da clic en **Actualizar**. ![Botón de actualizar](/assets/images/help/settings/repo-default-name-update.png)
+3. Debajo de "Rama predeterminada del repositorio", da clic en **Cambiar el nombre de la rama predeterminada ahora**. ![Botón de ignorar](/assets/images/2021/10/help/settings/repo-default-name-button.png)
+4. Teclea el nombre predeterminado que quisieras utilizar para las ramas nuevas. ![Caja de texto para ingresar el nombre predeterminado](/assets/images/2021/10/help/settings/repo-default-name-text.png)
+5. Da clic en **Actualizar**. ![Botón de actualizar](/assets/images/2021/10/help/settings/repo-default-name-update.png)
 
 ## Leer más
 

@@ -29,7 +29,7 @@ shortTitle: 跟踪评论更改
 
 1. 导航到您要从编辑历史记录删除敏感信息的评论。
 {% data reusables.repositories.edited-comment-list %}
-3. 在编辑历史记录窗口的右上角，单击 **Options（选项）**。 然后单击 **Delete revision from history（从历史记录中删除修订）**以删除显示所添加内容的差异。 ![删除评论编辑详细信息](/assets/images/help/repository/delete-comment-edit-details.png)
+3. 在编辑历史记录窗口的右上角，单击 **Options（选项）**。 然后单击 **Delete revision from history（从历史记录中删除修订）**以删除显示所添加内容的差异。 ![删除评论编辑详细信息](/assets/images/2021/10/help/repository/delete-comment-edit-details.png)
 4. 要确认删除，请单击 **OK（确定）**。
 
 ## 延伸阅读

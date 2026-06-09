@@ -35,8 +35,8 @@ shortTitle: Linked to wrong user
 
 これらのコミットに使用されたメールアドレスを確認し、コミットをアカウントに接続するには、次の手順に従います:
 
-1. コミットメッセージリンクをクリックしてコミットに移動します。 ![コミットメッセージリンク](/assets/images/help/commits/commit-msg-link.png)
-2. コミットがリンクされていない理由に関するメッセージを読むには、ユーザ名の右側にある青い {% octicon "question" aria-label="Question mark" %} の上にカーソルを合わせます。 ![コミットホバーメッセージ](/assets/images/help/commits/commit-hover-msg.png)
+1. コミットメッセージリンクをクリックしてコミットに移動します。 ![コミットメッセージリンク](/assets/images/2021/10/help/commits/commit-msg-link.png)
+2. コミットがリンクされていない理由に関するメッセージを読むには、ユーザ名の右側にある青い {% octicon "question" aria-label="Question mark" %} の上にカーソルを合わせます。 ![コミットホバーメッセージ](/assets/images/2021/10/help/commits/commit-hover-msg.png)
 
   - **未確認の作者 (メールアドレスあり)** このメッセージにメールアドレスが表示される場合、コミットの作成に使用したアドレスは {% data variables.product.product_name %} のアカウントに接続されていません。 {% ifversion not ghae %}コミットをリンクするには、[メールアドレスを GitHub のメール設定に追加](/articles/adding-an-email-address-to-your-github-account)します。{% endif %} メールアドレスに Gravatar が関連付けられている場合、デフォルトの灰色の Octocat ではなく、コミットの横に Gravatar が表示されます。
   - **Unrecognized author (no email address)** If you see this message without an email address, you used a generic email address that can't be connected to your account on {% data variables.product.product_name %}.{% ifversion not ghae %} You will need to [set your commit email address in Git](/articles/setting-your-commit-email-address), then [add the new address to your GitHub email settings](/articles/adding-an-email-address-to-your-github-account) to link your future commits. 古いコミットはリンクされません。{% endif %}

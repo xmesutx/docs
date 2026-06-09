@@ -5,5 +5,5 @@ Você também pode decidir se deseja conceder permissões de administrador para 
 Em "Visibilidade do repositório", selecione uma visibilidade. Opcionalmente, selecione **Conceder acesso de administrador aos seus repositórios**.
 
 <div class="procedural-image-wrapper">
-  <img alt="Opções de visibilidade para repositórios de atividades" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-choose-repository-visibility.png">
+  <img alt="Opções de visibilidade para repositórios de atividades" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-choose-repository-visibility.png">
 </div>

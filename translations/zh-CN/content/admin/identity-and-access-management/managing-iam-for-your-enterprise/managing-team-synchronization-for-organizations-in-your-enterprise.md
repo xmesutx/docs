@@ -51,5 +51,5 @@ You must enforce SAML single sign-on for organizations in your enterprise accoun
 {% data reusables.identity-and-permissions.team-sync-confirm-saml %}
 {% data reusables.identity-and-permissions.enable-team-sync-azure %}
 {% data reusables.identity-and-permissions.team-sync-confirm %}
-7. 查看要连接到企业帐户的 IdP 租户的详细信息，然后单击 **Approve（批准）**。 ![启用特定 IdP 租户团队同步且含有批准或取消请求选项的待处理请求](/assets/images/help/teams/approve-team-synchronization.png)
-8. 要禁用团队同步，单击 **Disable team synchronization（禁用团队同步）**。 ![禁用团队同步](/assets/images/help/teams/disable-team-synchronization.png)
+7. 查看要连接到企业帐户的 IdP 租户的详细信息，然后单击 **Approve（批准）**。 ![启用特定 IdP 租户团队同步且含有批准或取消请求选项的待处理请求](/assets/images/2021/10/help/teams/approve-team-synchronization.png)
+8. 要禁用团队同步，单击 **Disable team synchronization（禁用团队同步）**。 ![禁用团队同步](/assets/images/2021/10/help/teams/disable-team-synchronization.png)

@@ -36,7 +36,7 @@ shortTitle: Edit files
 1. In your repository, browse to the file you want to edit.
 {% data reusables.repositories.edit-file %}
 3. On the **Edit file** tab, make any changes you need to the file.
-![New content in file](/assets/images/help/repository/edit-readme-light.png)
+![New content in file](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
@@ -50,13 +50,13 @@ When you edit a file in another user's repository, we'll automatically [fork the
 1. In another user's repository, browse to the folder that contains the file you want to edit. Click the name of the file you want to edit.
 2. Above the file content, click {% octicon "pencil" aria-label="The edit icon" %}. At this point, GitHub forks the repository for you.
 3. Make any changes you need to the file.
-![New content in file](/assets/images/help/repository/edit-readme-light.png)
+![New content in file](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 6. Click **Propose file change**.
-![Commit Changes button](/assets/images/help/repository/propose_file_change_button.png)
+![Commit Changes button](/assets/images/2021/10/help/repository/propose_file_change_button.png)
 7. Type a title and description for your pull request.
-![Pull Request description page](/assets/images/help/pull_requests/pullrequest-description.png)
+![Pull Request description page](/assets/images/2021/10/help/pull_requests/pullrequest-description.png)
 8. Click **Create pull request**.
-![Pull Request button](/assets/images/help/pull_requests/pullrequest-send.png)
+![Pull Request button](/assets/images/2021/10/help/pull_requests/pullrequest-send.png)

@@ -22,11 +22,11 @@ topics:
 
 SSH キーの監査は、サイト管理ダッシュボードの [All users] タブから開始できます。
 
-![公開鍵の監査の開始](/assets/images/enterprise/security/Enterprise-Start-Key-Audit.png)
+![公開鍵の監査の開始](/assets/images/2021/10/enterprise/security/Enterprise-Start-Key-Audit.png)
 
 "Start public key audit（公開鍵の監査の開始）" のボタンをクリックしたら、その後の流れを説明する確認画面に移動します。
 
-![監査の確認](/assets/images/enterprise/security/Enterprise-Begin-Audit.png)
+![監査の確認](/assets/images/2021/10/enterprise/security/Enterprise-Begin-Audit.png)
 
 \[Begin audit\] (監査を開始) ボタンをクリックすると、すべての SSH キーは無効となり、承認が必要になります。 監査が始まったことを示す通知が表示されます。
 
@@ -44,7 +44,7 @@ fatal: The remote end hung up unexpectedly
 
 ユーザがリンクをたどると、アカウントのキーを承認するよう要求されます。
 
-![キーの監査](/assets/images/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
+![キーの監査](/assets/images/2021/10/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
 
 キーを承認または拒否したら、今まで通りリポジトリを使えるようになります。
 
@@ -52,7 +52,7 @@ fatal: The remote end hung up unexpectedly
 
 新規ユーザは、SSHキーを追加する際にパスワードを要求されます。
 
-![パスワードの確認](/assets/images/help/settings/sudo_mode_popup.png)
+![パスワードの確認](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 ユーザがキーを追加したら、次のような通知メールが届きます。
 

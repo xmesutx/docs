@@ -22,11 +22,11 @@ Cuando una aplicación de terceros desea identificarte mediante tu inicio de ses
 
 Dado que una aplicación está desarrollada por un tercero que no es {% data variables.product.product_name %}, no sabemos exactamente cómo una aplicación usa los datos a los que solicita acceso. Puedes usar la información del programador en la parte superior de la página para contactarte con el administrador de la aplicación si tienes preguntas o inquietudes sobre tu aplicación.
 
-![Información del propietario de {% data variables.product.prodname_oauth_app %}](/assets/images/help/platform/oauth_owner_bar.png)
+![Información del propietario de {% data variables.product.prodname_oauth_app %}](/assets/images/2021/10/help/platform/oauth_owner_bar.png)
 
 Si el programador ha elegido suministrarla, el lateral derecho de la página brinda una descripción detallada de la aplicación, así como su sitio web asociado.
 
-![Información de la aplicación OAuth y sitio web](/assets/images/help/platform/oauth_app_info.png)
+![Información de la aplicación OAuth y sitio web](/assets/images/2021/10/help/platform/oauth_app_info.png)
 
 ## Tipos de acceso a la aplicación y datos
 
@@ -51,7 +51,7 @@ Cuando quieres usar una aplicación de terceros que se integra con {% data varia
 
 Existen varios tipos de datos que las aplicaciones pueden solicitar.
 
-![Detalles de acceso a OAuth](/assets/images/help/platform/oauth_access_types.png)
+![Detalles de acceso a OAuth](/assets/images/2021/10/help/platform/oauth_access_types.png)
 
 {% tip %}
 
@@ -75,4 +75,4 @@ Existen varios tipos de datos que las aplicaciones pueden solicitar.
 
 Las aplicaciones pueden solicitar nuevos privilegios de acceso. Al solicitar permisos actualizados, la aplicación te notificará de las diferencias.
 
-![Cambiar el acceso a aplicaciones de terceros](/assets/images/help/platform/oauth_existing_access_pane.png)
+![Cambiar el acceso a aplicaciones de terceros](/assets/images/2021/10/help/platform/oauth_existing_access_pane.png)

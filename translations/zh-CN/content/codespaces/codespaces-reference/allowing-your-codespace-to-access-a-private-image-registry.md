@@ -62,7 +62,7 @@ shortTitle: 私有映像注册表
 
 如果您在用户或组织级别设置机密，请确保将这些机密分配到仓库，您将从下拉列表中选择访问策略来创建代码空间。
 
-![映像注册表密钥示例](/assets/images/help/codespaces/secret-repository-access.png)
+![映像注册表密钥示例](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 
 ### 示例机密
 
@@ -76,7 +76,7 @@ ACR_CONTAINER_REGISTRY_PASSWORD = <PAT>
 
 有关通用映像注册表的信息，请参阅“[通用映像注册表服务器](#common-image-registry-servers)”。 请注意，访问 AWS Elastic Container Registry (ECR) 是不同的。
 
-![映像注册表密钥示例](/assets/images/help/settings/codespaces-image-registry-secret-example.png)
+![映像注册表密钥示例](/assets/images/2021/10/help/settings/codespaces-image-registry-secret-example.png)
 
 添加机密后，您可能需要停止并启动您所在的代码空间，以便将新的环境变量传递到容器。 更多信息请参阅“[暂停或停止代码空间](/codespaces/codespaces-reference/using-the-command-palette-in-codespaces#suspending-or-stopping-a-codespace)”。
 

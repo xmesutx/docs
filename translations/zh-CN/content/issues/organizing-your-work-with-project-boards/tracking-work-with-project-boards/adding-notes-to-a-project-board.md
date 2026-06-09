@@ -29,13 +29,13 @@ shortTitle: 添加备注到板
 
 在注释中添加议题、拉取请求或另一个项目板的 URL 时，在文本下面的摘要卡中会看到预览。
 
-![显示议题和另一个项目板预览的项目板卡](/assets/images/help/projects/note-with-summary-card.png)
+![显示议题和另一个项目板预览的项目板卡](/assets/images/2021/10/help/projects/note-with-summary-card.png)
 
 ## 添加注释到项目板
 
 1. 导航到您要在其中添加注释的项目板。
-2. 在要添加注释的列中，单击 {% octicon "plus" aria-label="The plus icon" %}。 ![列标题中的加号](/assets/images/help/projects/add-note-button.png)
-3. 输入您的注释，然后单击 **Add（添加）**。 ![用于输入注释的字段和添加卡按钮](/assets/images/help/projects/create-and-add-note-button.png)
+2. 在要添加注释的列中，单击 {% octicon "plus" aria-label="The plus icon" %}。 ![列标题中的加号](/assets/images/2021/10/help/projects/add-note-button.png)
+3. 输入您的注释，然后单击 **Add（添加）**。 ![用于输入注释的字段和添加卡按钮](/assets/images/2021/10/help/projects/create-and-add-note-button.png)
 
   {% tip %}
 
@@ -57,9 +57,9 @@ shortTitle: 添加备注到板
 
 1. 导航到您要转换为议题的注释。
 {% data reusables.project-management.project-note-more-options %}
-3. 单击 **Convert to issue（转换为议题）**。 ![转换为议题按钮](/assets/images/help/projects/convert-to-issue.png)
-4. 如果卡在全组织项目板上，请从下拉菜单中选择要添加议题到其中的仓库。 ![列出可在其中创建议题的仓库的下拉菜单](/assets/images/help/projects/convert-note-choose-repository.png)
-5. 可以选择编辑预填的议题标题，并输入议题正文。 ![议题标题和正文字段](/assets/images/help/projects/convert-note-issue-title-body.png)
+3. 单击 **Convert to issue（转换为议题）**。 ![转换为议题按钮](/assets/images/2021/10/help/projects/convert-to-issue.png)
+4. 如果卡在全组织项目板上，请从下拉菜单中选择要添加议题到其中的仓库。 ![列出可在其中创建议题的仓库的下拉菜单](/assets/images/2021/10/help/projects/convert-note-choose-repository.png)
+5. 可以选择编辑预填的议题标题，并输入议题正文。 ![议题标题和正文字段](/assets/images/2021/10/help/projects/convert-note-issue-title-body.png)
 6. 单击 **Convert to issue（转换为议题）**。
 7. 该注释会自动转换为议题。 在项目板中，新议题卡与之前注释的位置一样。
 
@@ -67,8 +67,8 @@ shortTitle: 添加备注到板
 
 1. 导航到您要编辑或删除的注释。
 {% data reusables.project-management.project-note-more-options %}
-3. 要编辑注释的内容，请单击 **Edit note（编辑注释）**。 ![编辑注释按钮](/assets/images/help/projects/edit-note.png)
-4. 要删除注释的内容，请单击 **Delete note（删除注释）**。 ![删除注释按钮](/assets/images/help/projects/delete-note.png)
+3. 要编辑注释的内容，请单击 **Edit note（编辑注释）**。 ![编辑注释按钮](/assets/images/2021/10/help/projects/edit-note.png)
+4. 要删除注释的内容，请单击 **Delete note（删除注释）**。 ![删除注释按钮](/assets/images/2021/10/help/projects/delete-note.png)
 
 ## 延伸阅读
 

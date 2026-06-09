@@ -39,19 +39,19 @@ Os recursos de provisionamento a seguir estão disponíveis para todos os usuár
 {% data reusables.saml.okta-ae-applications-menu %}
 1. Clique **para navegar pelo catálogo do aplicativo**
 
-  !["Navegar pelo Catálogo do aplicativo"](/assets/images/help/saml/okta-ae-browse-app-catalog.png)
+  !["Navegar pelo Catálogo do aplicativo"](/assets/images/2021/12/help/saml/okta-ae-browse-app-catalog.png)
 
 1. No campo de busca, digite "GitHub AE" e, em seguida, clique em **GitHub AE** nos resultados.
 
-  !["Resultado da pesquisa"](/assets/images/help/saml/okta-ae-search.png)
+  !["Resultado da pesquisa"](/assets/images/2021/12/help/saml/okta-ae-search.png)
 
 1. Clique em **Salvar**.
 
-  !["Adicionar aplicativo GitHub AE"](/assets/images/help/saml/okta-ae-add-github-ae.png)
+  !["Adicionar aplicativo GitHub AE"](/assets/images/2021/12/help/saml/okta-ae-add-github-ae.png)
 
 1. Para "URL de base", digite a URL da empresa em {% data variables.product.prodname_ghe_managed %}.
 
-  !["Configurar a URL base"](/assets/images/help/saml/okta-ae-configure-base-url.png)
+  !["Configurar a URL base"](/assets/images/2021/12/help/saml/okta-ae-configure-base-url.png)
 
 1. Clique em **Cpncluído**.
 
@@ -63,11 +63,11 @@ Para habilitar o logon único (SSO) para {% data variables.product.prodname_ghe_
 {% data reusables.saml.okta-ae-configure-app %}
 1. Clique em **Iniciar sessão em**.
 
-  ![Guia de iniciar sessão](/assets/images/help/saml/okta-ae-sign-on-tab.png)
+  ![Guia de iniciar sessão](/assets/images/2021/12/help/saml/okta-ae-sign-on-tab.png)
 
 1. Clique **Ver instruções de configuração**.
 
-  ![Guia de iniciar sessão](/assets/images/help/saml/okta-ae-view-setup-instructions.png)
+  ![Guia de iniciar sessão](/assets/images/2021/12/help/saml/okta-ae-view-setup-instructions.png)
 
 1. Anote os detalhes da "URL de início de sessão", "Emissor" e "Certificado público".
 1. Use os detalhes para habilitar o SAML SSO para a sua empresa em {% data variables.product.prodname_ghe_managed %}. Para obter mais informações, consulte "[Configurar logon único SAML para a sua empresa](/admin/authentication/managing-identity-and-access-for-your-enterprise/configuring-saml-single-sign-on-for-your-enterprise)".
@@ -90,7 +90,7 @@ O aplicativo "GitHub AE" no Okta usa a API de {% data variables.product.product_
 
 1. Selecione **Habilitar a integração da API**.
 
-  ![Habilitar a integração da API](/assets/images/help/saml/okta-ae-enable-api-integration.png)
+  ![Habilitar a integração da API](/assets/images/2021/12/help/saml/okta-ae-enable-api-integration.png)
 
 1. Para "Token da API", digite o token de acesso pessoal de {% data variables.product.prodname_ghe_managed %} que você gerou anteriormente.
 
@@ -111,7 +111,7 @@ Este procedimento demonstra como definir as configurações do SCIM para o provi
 {% data reusables.saml.okta-ae-provisioning-tab %}
 1. Em "Configurações", clique em **Para aplicativo**.
 
-  ![Configurações "Para o aplicativo"](/assets/images/help/saml/okta-ae-to-app-settings.png)
+  ![Configurações "Para o aplicativo"](/assets/images/2021/12/help/saml/okta-ae-to-app-settings.png)
 
 1. À direita do "Provisionamento para o App", clique em **Editar**.
 1. À direita de "Criar usuários", selecione **Habilitar**.
@@ -132,19 +132,19 @@ Antes que seus usuários do Okta possam usar suas credenciais para efetuar o log
 
 1. Clique **Atribuições**.
 
-  ![Aba de atribuições](/assets/images/help/saml/okta-ae-assignments-tab.png)
+  ![Aba de atribuições](/assets/images/2021/12/help/saml/okta-ae-assignments-tab.png)
 
 1. Selecione o menu suspenso de atribuição e clique em **Atribuir às pessoas**.
 
-  ![Botão "Atribuir a pessoas"](/assets/images/help/saml/okta-ae-assign-to-people.png)
+  ![Botão "Atribuir a pessoas"](/assets/images/2021/12/help/saml/okta-ae-assign-to-people.png)
 
 1. À direita da conta de usuário obrigatória, clique em **Atribuir**.
 
-  ![Lista de usuários](/assets/images/help/saml/okta-ae-assign-user.png)
+  ![Lista de usuários](/assets/images/2021/12/help/saml/okta-ae-assign-user.png)
 
 1. À direita de "Função", clique em uma função para o usuário e, em seguida, clique em **Salvar e voltar**.
 
-  ![Seleção de função](/assets/images/help/saml/okta-ae-assign-role.png)
+  ![Seleção de função](/assets/images/2021/12/help/saml/okta-ae-assign-role.png)
 
 1. Clique em **Cpncluído**.
 

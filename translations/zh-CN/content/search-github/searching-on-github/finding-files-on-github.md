@@ -24,8 +24,8 @@ topics:
 {% endtip %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. 在文件列表上方，单击 **Go to file（转到文件）**。 ![查找文件按钮](/assets/images/help/search/find-file-button.png)
-3. 在搜索字段中，键入要查找文件的名称。 ![查找文件搜索字段](/assets/images/help/search/find-file-search-field.png)
+2. 在文件列表上方，单击 **Go to file（转到文件）**。 ![查找文件按钮](/assets/images/2021/10/help/search/find-file-button.png)
+3. 在搜索字段中，键入要查找文件的名称。 ![查找文件搜索字段](/assets/images/2021/10/help/search/find-file-search-field.png)
 4. 在结果列表中 ，单击要查找的文件。
 
 ## 延伸阅读

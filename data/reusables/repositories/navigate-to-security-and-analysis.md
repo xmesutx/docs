@@ -2,5 +2,5 @@
 1. In the "Security" section of the sidebar, click **{% octicon "shield-lock" aria-label="The shield-lock icon" %} Security & analysis**.
 {% else %}
 1. In the left sidebar, click **Security & analysis**.
-  !["Security & analysis" tab in repository settings](/assets/images/help/repository/security-and-analysis-tab.png)
+  !["Security & analysis" tab in repository settings](/assets/images/2021/10/help/repository/security-and-analysis-tab.png)
 {% endif %}

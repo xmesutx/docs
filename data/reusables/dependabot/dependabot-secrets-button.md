@@ -2,5 +2,5 @@
 1. In the "Security" section of the sidebar, select **{% octicon "key-asterisk" aria-label="The key-asterisk icon" %} Secrets**, then click **{% data variables.product.prodname_dependabot %}**.
 {% else %}
 1. In the sidebar, click **{% data variables.product.prodname_dependabot %}**.
-   ![{% data variables.product.prodname_dependabot %} secrets sidebar option](/assets/images/enterprise/3.3/dependabot/dependabot-secrets.png)
+   ![{% data variables.product.prodname_dependabot %} secrets sidebar option](/assets/images/2021/11/enterprise/3.3/dependabot/dependabot-secrets.png)
 {% endif %}

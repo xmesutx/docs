@@ -29,7 +29,7 @@ Por padrão, as pull requests são baseadas no [branch padrão](/articles/settin
 
 Se o repositório principal padrão não estiver correto, você poderá alterar o repositório principal e o branch com as listas suspensas. Também é possível trocar o head e os branches base com as listas suspensas para estabelecer diffs entre pontos de referência. As referências aqui devem ser nomes de branch no seu repositório do GitHub.
 
-![Branches de edição da pull request](/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
+![Branches de edição da pull request](/assets/images/2021/10/help/pull_requests/pull-request-review-edit-branch.png)
 
 Ao pensar em branches, lembre-se de que o *branch base* é **onde** as alterações devem ser aplicadas, o *branch head* contém **o que** você deseja que seja aplicado.
 
@@ -50,9 +50,9 @@ Quando você muda qualquer uma das informações no intervalo de branches, as á
 {% webui %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. No menu "Branch", escolha o branch que contém seus commits. ![Menu suspenso Branch](/assets/images/help/pull_requests/branch-dropdown.png)
+2. No menu "Branch", escolha o branch que contém seus commits. ![Menu suspenso Branch](/assets/images/2021/10/help/pull_requests/branch-dropdown.png)
 {% data reusables.repositories.new-pull-request %}
-4. Use o menu suspenso do branch _base_ para selecionar o branch em que deseja fazer merge de suas alterações. Em seguida, use o menu suspenso do branch de _comparação_ para escolher o branch de tópico no qual você fez as alterações. ![Menus suspenso para escolher a base e comparar os branches](/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+4. Use o menu suspenso do branch _base_ para selecionar o branch em que deseja fazer merge de suas alterações. Em seguida, use o menu suspenso do branch de _comparação_ para escolher o branch de tópico no qual você fez as alterações. ![Menus suspenso para escolher a base e comparar os branches](/assets/images/2021/10/help/pull_requests/choose-base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -127,8 +127,8 @@ gh pr create --web
 {% mac %}
 
 1. Alterne para o branch para o qual você deseja criar um pull request. Para obter mais informações, consulte "[Alternar branches](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)".
-2. Clique em **Create Pull Request** (Criar pull request). {% data variables.product.prodname_desktop %} abrirá o seu navegador-padrão para levar você a {% data variables.product.prodname_dotcom %}. ![O botão Criar Pull Request](/assets/images/help/desktop/mac-create-pull-request.png)
-4. Em {% data variables.product.prodname_dotcom %}, confirme se o branch no menu suspenso **base:** é o branch onde você deseja fazer merge das suas alterações. Confirme se o branch no menu suspenso **compare:** é o branch de tópico em que você fez suas alterações. ![Menus suspenso para escolher a base e comparar os branches](/assets/images/help/desktop/base-and-compare-branches.png)
+2. Clique em **Create Pull Request** (Criar pull request). {% data variables.product.prodname_desktop %} abrirá o seu navegador-padrão para levar você a {% data variables.product.prodname_dotcom %}. ![O botão Criar Pull Request](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
+4. Em {% data variables.product.prodname_dotcom %}, confirme se o branch no menu suspenso **base:** é o branch onde você deseja fazer merge das suas alterações. Confirme se o branch no menu suspenso **compare:** é o branch de tópico em que você fez suas alterações. ![Menus suspenso para escolher a base e comparar os branches](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -137,8 +137,8 @@ gh pr create --web
 {% windows %}
 
 1. Alterne para o branch para o qual você deseja criar um pull request. Para obter mais informações, consulte "[Alternar branches](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)".
-2. Clique em **Create Pull Request** (Criar pull request). {% data variables.product.prodname_desktop %} abrirá o seu navegador-padrão para levar você a {% data variables.product.prodname_dotcom %}. ![O botão Criar Pull Request](/assets/images/help/desktop/windows-create-pull-request.png)
-3. Em {% data variables.product.prodname_dotcom %}, confirme se o branch no menu suspenso **base:** é o branch onde você deseja fazer merge das suas alterações. Confirme se o branch no menu suspenso **compare:** é o branch de tópico em que você fez suas alterações. ![Menus suspenso para escolher a base e comparar os branches](/assets/images/help/desktop/base-and-compare-branches.png)
+2. Clique em **Create Pull Request** (Criar pull request). {% data variables.product.prodname_desktop %} abrirá o seu navegador-padrão para levar você a {% data variables.product.prodname_dotcom %}. ![O botão Criar Pull Request](/assets/images/2021/10/help/desktop/windows-create-pull-request.png)
+3. Em {% data variables.product.prodname_dotcom %}, confirme se o branch no menu suspenso **base:** é o branch onde você deseja fazer merge das suas alterações. Confirme se o branch no menu suspenso **compare:** é o branch de tópico em que você fez suas alterações. ![Menus suspenso para escolher a base e comparar os branches](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -150,8 +150,8 @@ gh pr create --web
 
 {% codespaces %}
 
-1. Depois de realizar alterações na sua cópia local do repositório, clique no ícone **Criar Pull Request**. ![Barra lateral de controle de origem com botão de staging destacado](/assets/images/help/codespaces/codespaces-commit-pr-button.png)
-1. Verifique se o branch local e o repositório do qual você está fazendo merge, o branch remoto e o repositório no qual você está fazendo merge estão corretos. Em seguida, dê ao pull request um título e uma descrição. ![Barra lateral de pull request do GitHub](/assets/images/help/codespaces/codespaces-commit-pr.png)
+1. Depois de realizar alterações na sua cópia local do repositório, clique no ícone **Criar Pull Request**. ![Barra lateral de controle de origem com botão de staging destacado](/assets/images/2021/10/help/codespaces/codespaces-commit-pr-button.png)
+1. Verifique se o branch local e o repositório do qual você está fazendo merge, o branch remoto e o repositório no qual você está fazendo merge estão corretos. Em seguida, dê ao pull request um título e uma descrição. ![Barra lateral de pull request do GitHub](/assets/images/2021/10/help/codespaces/codespaces-commit-pr.png)
 1. Clique em **Criar**.
 
 Para obter mais informações sobre a criação de pull requests em {% data variables.product.prodname_codespaces %}, consulte "[Usando codespaces para pull requests](/codespaces/developing-in-codespaces/using-codespaces-for-pull-requests)"

@@ -21,7 +21,7 @@ shortTitle: Access the monitor dashboard
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 2. At the top of the page, click **Monitor**.
-![The Monitor Dashboard link](/assets/images/enterprise/management-console/monitor-dash-link.png)
+![The Monitor Dashboard link](/assets/images/2021/10/enterprise/management-console/monitor-dash-link.png)
 
 ## Troubleshooting common resource allocation problems on your appliance
 

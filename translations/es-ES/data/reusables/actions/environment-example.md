@@ -42,4 +42,4 @@ jobs:
         # ...deployment-specific steps
 ```
 
-![Gráfica de flujo de trabajo con URL](/assets/images/help/images/deploy-graph.png)
+![Gráfica de flujo de trabajo con URL](/assets/images/2021/10/help/images/deploy-graph.png)

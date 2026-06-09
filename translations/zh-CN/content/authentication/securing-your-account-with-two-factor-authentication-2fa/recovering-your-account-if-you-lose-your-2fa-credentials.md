@@ -38,14 +38,14 @@ shortTitle: 使用 2FA 找回帐户
 {% ifversion fpt or ghec %}
 1. Under "Having problems?", click **Use a recovery code or request a reset**.
 
-   ![Screenshot of link to use a recovery code](/assets/images/help/2fa/2fa-recovery-code-link.png)
+   ![Screenshot of link to use a recovery code](/assets/images/2021/10/help/2fa/2fa-recovery-code-link.png)
 {%- else %}
 1. 在 2FA 页面上的“Don't have your phone?（没有您的电话？）”下，单击 **Enter a two-factor recovery code（输入双因素恢复代码）**。
 
-   ![Screenshot of link to use a recovery code](/assets/images/help/2fa/2fa_recovery_dialog_box.png){% endif %}
+   ![Screenshot of link to use a recovery code](/assets/images/2021/10/help/2fa/2fa_recovery_dialog_box.png){% endif %}
 1. 输入恢复代码之一，然后单击 **Verify（验证）**。
 
-   ![输入恢复代码的字段和验证按钮](/assets/images/help/2fa/2fa-type-verify-recovery-code.png)
+   ![输入恢复代码的字段和验证按钮](/assets/images/2021/10/help/2fa/2fa-type-verify-recovery-code.png)
 
 {% ifversion fpt or ghec %}
 ## 使用后备号码进行身份验证
@@ -79,28 +79,28 @@ If you know your password for {% data variables.product.product_location %} but 
     {% endwarning %}
 1. Under "Having problems?", click **Use a recovery code or request a reset**.
 
-   ![Screenshot of link if you don't have your 2fa device or recovery codes](/assets/images/help/2fa/no-access-link.png)
+   ![Screenshot of link if you don't have your 2fa device or recovery codes](/assets/images/2021/10/help/2fa/no-access-link.png)
 1. To the right of "Locked out?", click **Try recovering your account**.
 
-   ![Screenshot of link to try recovering your account](/assets/images/help/2fa/try-recovering-your-account-link.png)
+   ![Screenshot of link to try recovering your account](/assets/images/2022/02/help/2fa/try-recovering-your-account-link.png)
 1. 单击 **I understand, get started（我理解，开始）**请求重置身份验证设置。
 
-    ![Screenshot of button to start reset of authentication settings](/assets/images/help/2fa/reset-auth-settings.png)
+    ![Screenshot of button to start reset of authentication settings](/assets/images/2021/10/help/2fa/reset-auth-settings.png)
 1. Click **Send one-time password** to send a one-time password to all eligible addresses associated with your account. Only verified emails are eligible for account recovery. If you've restricted password resets to your primary and/or backup addresses, these addresses are the only addresses eligible for account recovery.
 
-   ![Screenshot of button to send one-time password](/assets/images/help/2fa/send-one-time-password.png)
+   ![Screenshot of button to send one-time password](/assets/images/2021/10/help/2fa/send-one-time-password.png)
 1. Under "One-time password", type the temporary password from the recovery email {% data variables.product.prodname_dotcom %} sent.
 
-   ![Screenshot of field to type one-time password](/assets/images/help/2fa/one-time-password-field.png)
+   ![Screenshot of field to type one-time password](/assets/images/2021/10/help/2fa/one-time-password-field.png)
 1. 单击 **Verify email address（验证电子邮件地址）**。
 
-   ![Screenshot of button to verify email address](/assets/images/help/2fa/verify-email-address.png)
+   ![Screenshot of button to verify email address](/assets/images/2022/02/help/2fa/verify-email-address.png)
 1. 选择替代验证因素。
     - 如果您之前已经使用当前设备登录此帐户，并且想使用该设备进行验证，请单击 **Verify with this device（使用此设备进行验证）**。
     - 如果您之前已在此帐户上设置 SSH 密钥，并且想使用此 SSH 密钥进行验证，请单击 **SSH key（SSH 密钥）**。
     - 如果您之前已经设置个人访问令牌，并且想使用个人访问令牌进行验证，请单击 **Personal access token（个人访问令牌）**。
 
-   ![Screenshot of buttons for alternative verification](/assets/images/help/2fa/alt-verifications.png)
+   ![Screenshot of buttons for alternative verification](/assets/images/2021/10/help/2fa/alt-verifications.png)
 1. A member of {% data variables.contact.github_support %} will review your request and email you within three business days. 如果您的请求获得批准，您将收到一个完成帐户恢复过程的链接。 如果您的请求被拒绝，电子邮件将说明就任何其他问题联系支持的方式。
 
 {% endif %}

@@ -24,8 +24,8 @@ Debes tener una cuenta empresarial en {% data variables.product.prodname_dotcom_
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
-1. En la barra lateral izquierda, da clic en **Licenciamiento empresarial**. ![Pestaña de "Licencias empresariales" en la barra lateral de configuración para la cuenta empresarial](/assets/images/help/enterprises/enterprise-licensing-tab.png)
-1. Debajo de "instancias de Enterprise Server", da clic en {% octicon "download" aria-label="The download icon" %} para descargar tu archivo de licencia. ![Descargar la licencia de GitHub Enterprise Server](/assets/images/help/business-accounts/download-ghes-license.png)
+1. En la barra lateral izquierda, da clic en **Licenciamiento empresarial**. ![Pestaña de "Licencias empresariales" en la barra lateral de configuración para la cuenta empresarial](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
+1. Debajo de "instancias de Enterprise Server", da clic en {% octicon "download" aria-label="The download icon" %} para descargar tu archivo de licencia. ![Descargar la licencia de GitHub Enterprise Server](/assets/images/2021/10/help/business-accounts/download-ghes-license.png)
 
 Después de que descargas tu archivo de licencia, puedes cargar el archivo a {% data variables.product.product_location_enterprise %} para validar tu aplicación. Para obtener más información, consulta la sección {% ifversion ghec %}"[Cargar una licencia nueva a {% data variables.product.prodname_ghe_server %}](/enterprise-server/billing/managing-your-license-for-github-enterprise/uploading-a-new-license-to-github-enterprise-server)" en la documentación de {% data variables.product.prodname_ghe_server %}.{% elsif ghes %}"[Cargar una licencia nueva a {% data variables.product.prodname_ghe_server %}](/enterprise-server/billing/managing-your-license-for-github-enterprise/uploading-a-new-license-to-github-enterprise-server)".{% endif %}
 

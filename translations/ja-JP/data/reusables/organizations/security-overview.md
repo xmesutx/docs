@@ -1,1 +1,1 @@
-1. Organization名の下で、{% octicon "shield" aria-label="The Security shield" %}**Security（セキュリティ）**をクリックしてください。 ![Organizationのセキュリティボタン](/assets/images/help/organizations/organization-security-tab.png)
+1. Organization名の下で、{% octicon "shield" aria-label="The Security shield" %}**Security（セキュリティ）**をクリックしてください。 ![Organizationのセキュリティボタン](/assets/images/2021/10/help/organizations/organization-security-tab.png)

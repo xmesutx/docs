@@ -24,10 +24,10 @@ Cualquiera con permisos de escritura en un tablero de proyecto puede enlazar rep
 1. Navega hasta el tablero de proyecto al que quieras vincular un repositorio.
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
-4. En la barra lateral izquierda, haz clic en **Linked repositories** (Repositorios vinculados). ![Opción del menú Linked repositories (Repositorios vinculados) en la barra lateral izquierda](/assets/images/help/projects/project-board-linked-repositories-setting.png)
-5. Haz clic en **Link a repository** (Vincular un repositorio). ![Botón Link a repository (Vincular un repositorio) en la pestaña Linked repositories (Repositorios vinculados)](/assets/images/help/projects/link-repository-button.png)
-6. Busca el repositorio que quieras vincular. ![Campo de búsqueda en la ventana Link a repository (Vincular un repositorio)](/assets/images/help/projects/search-to-link-repository.png)
-7. Da clic en **Enlace**. Para desvincular, haz clic en **Unlink** (Desvincular). ![Botón Link (Vincular)](/assets/images/help/projects/link-button.png)
+4. En la barra lateral izquierda, haz clic en **Linked repositories** (Repositorios vinculados). ![Opción del menú Linked repositories (Repositorios vinculados) en la barra lateral izquierda](/assets/images/2021/10/help/projects/project-board-linked-repositories-setting.png)
+5. Haz clic en **Link a repository** (Vincular un repositorio). ![Botón Link a repository (Vincular un repositorio) en la pestaña Linked repositories (Repositorios vinculados)](/assets/images/2021/10/help/projects/link-repository-button.png)
+6. Busca el repositorio que quieras vincular. ![Campo de búsqueda en la ventana Link a repository (Vincular un repositorio)](/assets/images/2021/10/help/projects/search-to-link-repository.png)
+7. Da clic en **Enlace**. Para desvincular, haz clic en **Unlink** (Desvincular). ![Botón Link (Vincular)](/assets/images/2021/10/help/projects/link-button.png)
 
 {% note %}
 

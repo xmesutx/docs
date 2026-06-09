@@ -57,13 +57,13 @@ Después de configurar el {% data variables.product.prodname_code_scanning %} pa
 
   Veràs una lista que incluye una entrada para ejecutar el flujo de trabajo del {% data variables.product.prodname_code_scanning %}. El texto de la entrada es el título que le diste a tu mensaje de confirmación.
 
-  ![Lista de acciones que muestran el flujo de trabajo del {% data variables.product.prodname_code_scanning %}](/assets/images/help/repository/code-scanning-actions-list.png)
+  ![Lista de acciones que muestran el flujo de trabajo del {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/help/repository/code-scanning-actions-list.png)
 
 1. Da clic en la entrada para el flujo de trabajo de {% data variables.product.prodname_code_scanning %}.
 
 2. Da clic en el nombre del job situado a la izquierda. Por ejemplo, **Analizar (IDIOMA)**.
 
-  ![Registro de salida del flujo de trabajo del {% data variables.product.prodname_code_scanning %}](/assets/images/help/repository/code-scanning-logging-analyze-action.png)
+  ![Registro de salida del flujo de trabajo del {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/help/repository/code-scanning-logging-analyze-action.png)
 
 1. Revisa la salida de registro de las acciones en este flujo de trabajo conforme se ejecutan.
 
@@ -74,9 +74,9 @@ Después de configurar el {% data variables.product.prodname_code_scanning %} pa
 **Nota:** Si levantaste una solicitud de cambios para agregar el flujo de trabajo del {% data variables.product.prodname_code_scanning %} a las alertas del repositorio, las alertas de esa solicitud de cambios no se mostraràn directamente en la pàgina del {% data variables.product.prodname_code_scanning_capc %} hasta que se fusione dicha solicitud. Si se encontrò alguna de las alertas, puedes verlas antes de que se fusione la solicitud de extracciòn dando clic en el enlace de **_n_ alertas encontradas** en el letrero de la pàgina del {% data variables.product.prodname_code_scanning_capc %}.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-  ![Da clic en el enlace de "n alertas encontradas" link](/assets/images/help/repository/code-scanning-alerts-found-link.png)
+  ![Da clic en el enlace de "n alertas encontradas" link](/assets/images/2021/10/help/repository/code-scanning-alerts-found-link.png)
 {% else %}
-  ![Da clic en el enlace de "n alertas encontradas" link](/assets/images/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
+  ![Da clic en el enlace de "n alertas encontradas" link](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
 {% endif %}
 
 {% endnote %}

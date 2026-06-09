@@ -69,9 +69,9 @@ Para obtener más información, consulta "[Clonar un repositorio de {% data vari
 Un repositorio vacío no contiene archivos. Habitualmente se hace si no inicias el repositorio con un README antes de crearlo.
 
 {% data reusables.repositories.navigate-to-repo %}
-2. Para clonar tu repositorio utilizando la línea de comandos a través de HTTPS, debajo de "Configuración rápida", da clic en {% octicon "clippy" aria-label="The clipboard icon" %}. Para clonar el repositorio utilizando una llave SSH, incluyendo un certificado que emita la autoridad de certificados SSH de tu organización, da clic en **SSH** y luego en {% octicon "clippy" aria-label="The clipboard icon" %}. ![Botón de URL de clon de repositorio vacío](/assets/images/help/repository/empty-https-url-clone-button.png)
+2. Para clonar tu repositorio utilizando la línea de comandos a través de HTTPS, debajo de "Configuración rápida", da clic en {% octicon "clippy" aria-label="The clipboard icon" %}. Para clonar el repositorio utilizando una llave SSH, incluyendo un certificado que emita la autoridad de certificados SSH de tu organización, da clic en **SSH** y luego en {% octicon "clippy" aria-label="The clipboard icon" %}. ![Botón de URL de clon de repositorio vacío](/assets/images/2021/10/help/repository/empty-https-url-clone-button.png)
 
-   Como alternativa, para clonar tu repositorio en el escritorio, da clic en {% octicon "desktop-download" aria-label="The desktop download button" %} **Configurar en el escritorio** y sigue las indicaciones para completar el clon. ![Botón de escritorio para clonar repositorio vacío](/assets/images/help/repository/empty-desktop-clone-button.png)
+   Como alternativa, para clonar tu repositorio en el escritorio, da clic en {% octicon "desktop-download" aria-label="The desktop download button" %} **Configurar en el escritorio** y sigue las indicaciones para completar el clon. ![Botón de escritorio para clonar repositorio vacío](/assets/images/2021/10/help/repository/empty-desktop-clone-button.png)
 
 {% data reusables.command_line.open_the_multi_os_terminal %}
 {% data reusables.command_line.change-current-directory-clone %}

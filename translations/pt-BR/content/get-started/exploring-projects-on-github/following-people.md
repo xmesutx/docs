@@ -25,41 +25,41 @@ Você pode deixar de seguir alguém, se você não quiser ver suas atividades p�
 
 1. Clique em uma imagem de usuário para exibir o perfil do usuário.
 
-  ![Imagem do usuário](/assets/images/help/profile/user-profile-image.png)
+  ![Imagem do usuário](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2. Clique em **Seguir** na imagem do seu perfil.
 
-  ![Botão Follow user (Seguir usuário)](/assets/images/help/profile/follow-user-button.png)
+  ![Botão Follow user (Seguir usuário)](/assets/images/2021/10/help/profile/follow-user-button.png)
 
 ## Deixando de seguir um usuário em {% data variables.product.product_name %}
 
 1.  Clique em uma imagem de usuário para exibir o perfil do usuário.
 
-  ![Imagem do usuário](/assets/images/help/profile/user-profile-image.png)
+  ![Imagem do usuário](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2.  Clique em **Deixar de seguir** na imagem do perfil dele.
 
-  ![Botão Perfil do Usuário](/assets/images/help/profile/user-profile-unfollow-button.png)
+  ![Botão Perfil do Usuário](/assets/images/2021/10/help/profile/user-profile-unfollow-button.png)
 
 ## Visualizando usuários seguidos em {% data variables.product.product_name %}
 
 1. Clique em uma imagem de usuário para exibir o perfil do usuário.
 
-  ![Imagem do usuário](/assets/images/help/profile/user-profile-image.png)
+  ![Imagem do usuário](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2. Clique em **Seguindo** na imagem do perfil deles.
 
-  ![Seguindo usuário](/assets/images/help/profile/user-profile-following.png)
+  ![Seguindo usuário](/assets/images/2021/10/help/profile/user-profile-following.png)
 
 ## Visualizando seguidores em {% data variables.product.product_name %}
 
 1. Clique em uma imagem de usuário para exibir o perfil do usuário.
 
-  ![Imagem do usuário](/assets/images/help/profile/user-profile-image.png)
+  ![Imagem do usuário](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2. Clique em **seguidores** na imagem do perfil deles.
 
-  ![Seguindo usuário](/assets/images/help/profile/user-profile-followers.png)
+  ![Seguindo usuário](/assets/images/2021/10/help/profile/user-profile-followers.png)
 
 
 

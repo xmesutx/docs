@@ -40,7 +40,7 @@ Os problemas podem ser usados para acompanhar erros, aprimoramentos ou outras so
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 {% data reusables.repositories.new_issue %}
-1. Se o seu repositório usar modelos de problemas, clique em **Começar** ao lado do tipo de problema que você gostaria de abrir. ![Select the type of issue you want to create](/assets/images/help/issues/issue_template_get_started_button.png) Ou, clique **Abrir um problema em branco** se o tipo de problema que você gostaria de abrir não estiver incluído nas opções disponíveis. ![Link para abrir um problema em branco](/assets/images/help/issues/blank_issue_link.png)
+1. Se o seu repositório usar modelos de problemas, clique em **Começar** ao lado do tipo de problema que você gostaria de abrir. ![Select the type of issue you want to create](/assets/images/2021/10/help/issues/issue_template_get_started_button.png) Ou, clique **Abrir um problema em branco** se o tipo de problema que você gostaria de abrir não estiver incluído nas opções disponíveis. ![Link para abrir um problema em branco](/assets/images/2021/10/help/issues/blank_issue_link.png)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
@@ -66,11 +66,11 @@ gh issue create --title "My new issue" --body "Here are more details." --assigne
 Você pode abrir um novo problema a partir de um comentário em um problema ou pull request. Quando você abre um problema a partir de um comentário, o problema contém um trecho mostrando onde o comentário foi originalmente publicado.
 
 1. Acesse o comentário que você deseja abrir a partir de um problema.
-2. No comentário, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.![Botão de kebab no comentário de revisão de pull request](/assets/images/help/pull_requests/kebab-in-pull-request-review-comment.png)
-3. Clique em **Reference in new issue** (Referência em um novo problema). ![Item de menu Reference in new issue (Referência em um novo problema)](/assets/images/help/pull_requests/reference-in-new-issue.png)
-4. Use o menu suspenso "Repository" (Repositório) para selecionar o repositório em que deseja abrir o problema. ![Menu suspenso Repository (Repositório) para o novo problema](/assets/images/help/pull_requests/new-issue-repository.png)
-5. Digite um título descritivo e o texto do problema. ![Título e texto do novo problema](/assets/images/help/pull_requests/new-issue-title-and-body.png)
-6. Clique em **Create issue** (Criar problema). ![Botão para criar novo problema](/assets/images/help/pull_requests/create-issue.png)
+2. No comentário, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.![Botão de kebab no comentário de revisão de pull request](/assets/images/2021/10/help/pull_requests/kebab-in-pull-request-review-comment.png)
+3. Clique em **Reference in new issue** (Referência em um novo problema). ![Item de menu Reference in new issue (Referência em um novo problema)](/assets/images/2021/10/help/pull_requests/reference-in-new-issue.png)
+4. Use o menu suspenso "Repository" (Repositório) para selecionar o repositório em que deseja abrir o problema. ![Menu suspenso Repository (Repositório) para o novo problema](/assets/images/2021/10/help/pull_requests/new-issue-repository.png)
+5. Digite um título descritivo e o texto do problema. ![Título e texto do novo problema](/assets/images/2021/10/help/pull_requests/new-issue-title-and-body.png)
+6. Clique em **Create issue** (Criar problema). ![Botão para criar novo problema](/assets/images/2021/10/help/pull_requests/create-issue.png)
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
 
@@ -78,14 +78,14 @@ Você pode abrir um novo problema a partir de um comentário em um problema ou p
 
 É possível abrir um problema novo a partir de uma linha ou linhas específicas de código em um arquivo ou pull request. Quando você abre um problema de código, o problema contém um trecho mostrando a linha ou intervalo de código que você escolheu. Você pode abrir somente um problema no mesmo repositório onde o código é armazenado.
 
-![Trecho de código fornecido em um problema aberto de código](/assets/images/help/repository/issue-opened-from-code.png)
+![Trecho de código fornecido em um problema aberto de código](/assets/images/2021/10/help/repository/issue-opened-from-code.png)
 
 {% data reusables.repositories.navigate-to-repo %}
 1. Localize o código que deseja referenciar em um problema:
     - Para abrir um problema sobre código em um arquivo, navegue até o arquivo.
     - Para abrir um problema sobre código em uma pull request, navegue até a pull request e clique em {% octicon "diff" aria-label="The file diff icon" %} **Files changed** (Arquivos alterados). Em seguida, acesse o arquivo que contém o código que você deseja que seja incluído no seu comentário e clique em **Visualizar**.
 {% data reusables.repositories.choose-line-or-range %}
-4. À esquerda do intervalo do código, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}. No menu suspenso, clique em **Referência em um novo problema**. ![Menu kebab com opção para abrir um novo problema a partir de uma linha selecionada](/assets/images/help/repository/open-new-issue-specific-line.png)
+4. À esquerda do intervalo do código, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}. No menu suspenso, clique em **Referência em um novo problema**. ![Menu kebab com opção para abrir um novo problema a partir de uma linha selecionada](/assets/images/2021/10/help/repository/open-new-issue-specific-line.png)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
@@ -100,7 +100,7 @@ Ao criar um problema a partir de uma discussão, o conteúdo da postagem na disc
 
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. Na barra lateral direita, clique em {% octicon "issue-opened" aria-label="The issues icon" %} **Criar problema a partir da discussão**. ![Botão para criar um problema da discussão](/assets/images/help/discussions/create-issue-from-discussion.jpg)
+1. Na barra lateral direita, clique em {% octicon "issue-opened" aria-label="The issues icon" %} **Criar problema a partir da discussão**. ![Botão para criar um problema da discussão](/assets/images/2021/10/help/discussions/create-issue-from-discussion.jpg)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}

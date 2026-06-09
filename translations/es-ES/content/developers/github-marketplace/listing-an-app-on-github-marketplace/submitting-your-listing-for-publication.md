@@ -17,10 +17,10 @@ Una vez que el listado de tu app cumpla con los requisitos de {% data variables.
 
 1. En la parte superior izquierda de la página del listado de la app, da clic en **Resumen**. Para obtener más información sobre cómo encontrar la página del listado de tu app, consulta la sección "[Hacer un borrador del listado para tu app](/developers/github-marketplace/drafting-a-listing-for-your-app)".
 
-  ![Opción de resumen para el borrador de listado de marketplace](/assets/images/marketplace/edit-marketplace-listing-overview.png)
+  ![Opción de resumen para el borrador de listado de marketplace](/assets/images/2021/10/marketplace/edit-marketplace-listing-overview.png)
 
 2. Para emitir tu listado de apps completado, haz clic en **Solicitar publicación**.
 
-  ![Lista de verificación de "Publica tu app en Marketplace" con botón de emisión al final](/assets/images/marketplace/publish-your-app-checklist-and-submission.png)
+  ![Lista de verificación de "Publica tu app en Marketplace" con botón de emisión al final](/assets/images/2021/10/marketplace/publish-your-app-checklist-and-submission.png)
 
 Te contactará un experto en incorporación con información adicional.

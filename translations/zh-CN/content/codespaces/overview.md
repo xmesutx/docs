@@ -24,7 +24,7 @@ topics:
 
 {% data variables.product.prodname_codespaces %} 在 {% data variables.product.product_location %}托管的各种基于 VM 的计算选项上运行，您最少可以配置 2 台核心计算机，最多可以配置 32 台。 您可以从浏览器或使用 {% data variables.product.prodname_vscode %} 本地连接到代码空间。
 
-![显示 {% data variables.product.prodname_codespaces %} 工作原理的图表](/assets/images/help/codespaces/codespaces-diagram.png)
+![显示 {% data variables.product.prodname_codespaces %} 工作原理的图表](/assets/images/2021/10/help/codespaces/codespaces-diagram.png)
 
 ## 使用 Codespaces
 

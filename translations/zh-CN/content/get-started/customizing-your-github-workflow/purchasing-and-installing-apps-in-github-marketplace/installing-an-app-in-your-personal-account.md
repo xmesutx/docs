@@ -26,7 +26,7 @@ shortTitle: 安装应用程序用户帐户
 {% data reusables.marketplace.confirm-install-account-personal %}
 {% data reusables.marketplace.add-payment-method-personal %}
 {% data reusables.marketplace.complete-order-begin-installation %}
-8. 决定允许应用程序访问您的所有仓库还是某些仓库，然后选择 **All repositories（所有仓库）**或 **Only select repositories（仅所选仓库）**。 ![用于在所有仓库或某些仓库上安装应用程序的选项单选按钮](/assets/images/help/marketplace/marketplace-choose-repo-install-option.png)
+8. 决定允许应用程序访问您的所有仓库还是某些仓库，然后选择 **All repositories（所有仓库）**或 **Only select repositories（仅所选仓库）**。 ![用于在所有仓库或某些仓库上安装应用程序的选项单选按钮](/assets/images/2021/10/help/marketplace/marketplace-choose-repo-install-option.png)
 {% data reusables.marketplace.select-installation-repos %}
 {% data reusables.marketplace.review-app-perms-install %}
 

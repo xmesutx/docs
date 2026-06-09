@@ -41,7 +41,7 @@ shortTitle: Review dependency changes
 
 1. プルリクエストに多数のファイルが含まれている場合は、[**File filter**] ドロップダウンメニューを使用して、依存関係を記録しないすべてのファイルを折りたたみます。 これにより、レビューを依存関係の変更に焦点を絞りやすくなります。
 
-   ![ファイルフィルタメニュー](/assets/images/help/pull_requests/file-filter-menu-json.png) The dependency review provides a clearer view of what has changed in large lock files, where the source diff is not rendered by default.
+   ![ファイルフィルタメニュー](/assets/images/2021/10/help/pull_requests/file-filter-menu-json.png) The dependency review provides a clearer view of what has changed in large lock files, where the source diff is not rendered by default.
 
   {% note %}
 
@@ -51,11 +51,11 @@ shortTitle: Review dependency changes
 
 1. マニフェストまたはロックファイルのヘッダの右側で、**リッチ{% octicon "file" aria-label="The rich diff icon" %}** diff ボタンをクリックして依存関係のレビューを表示します。
 
-   ![リッチ diff ボタン](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![リッチ diff ボタン](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 2. 依存関係のレビューにリストされている依存関係を確認します。
 
-   ![依存関係のレビューにおける脆弱性の警告](/assets/images/help/pull_requests/dependency-review-vulnerability.png)
+   ![依存関係のレビューにおける脆弱性の警告](/assets/images/2021/10/help/pull_requests/dependency-review-vulnerability.png)
 
    脆弱性のある追加または変更された依存関係が最初に一覧表示され、次に重要度、依存関係名の順に並べられます。 これは、最も重要度の高い依存関係が、常に依存関係レビューの最上位に表示されるということです。 その他の依存関係は、依存関係名のアルファベット順に一覧表示されます。
 

@@ -47,11 +47,11 @@ Os seguintes diagramas ilustram isso.
 
  Aqui alguém criou um branch chamado `feature1` a partir do branch `principal`, e você então criou um branch chamado `feature2` a partir do `feature1`. Existem pull requests abertas para ambos os branches. As setas indicam o branch base atual para cada pull request. Neste ponto, `feature1` é o branch base para `feature2`. Se a pull request para `feature2` for mesclada agora, o branch `feature2` será mesclado no `feature1`.
 
- ![botão-merge-pull-request](/assets/images/help/branches/pr-retargeting-diagram1.png)
+ ![botão-merge-pull-request](/assets/images/2021/10/help/branches/pr-retargeting-diagram1.png)
 
 No próximo diagrama, alguém fez merge do pull request para `feature1` no branch `principal`, e eles excluíram o branch `feature1`. Como resultado, o {% data variables.product.prodname_dotcom %} redirecionou automaticamente o pull request para `feature2` para que seu branch base seja agora `principal`.
 
- ![botão-merge-pull-request](/assets/images/help/branches/pr-retargeting-diagram2.png)
+ ![botão-merge-pull-request](/assets/images/2021/10/help/branches/pr-retargeting-diagram2.png)
 
 Agora, quando você faz merge do pull request `feature2`, ele será mesclado com o branch `principal`.
 

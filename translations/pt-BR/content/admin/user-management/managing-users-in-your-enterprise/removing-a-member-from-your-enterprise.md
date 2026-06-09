@@ -36,4 +36,4 @@ Se sua empresa ou qualquer uma das organizações pertencentes à sua empresa us
 {% data reusables.enterprise-accounts.people-tab %}
 1. À direita da pessoa que você deseja remover, selecione o menu suspenso {% octicon "gear" aria-label="The gear icon" %} e clique em **Remover da empresa**.
 
-   ![Captura de tela da opção "Remover da empresade" para um integrante corporativo](/assets/images/help/business-accounts/remove-member.png)
+   ![Captura de tela da opção "Remover da empresade" para um integrante corporativo](/assets/images/2022/03/help/business-accounts/remove-member.png)

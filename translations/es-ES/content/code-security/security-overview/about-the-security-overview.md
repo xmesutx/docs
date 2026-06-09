@@ -44,11 +44,11 @@ En el resumen de seguridad, tanto a nivel de repositorio como de organización, 
 
 {% endif %}
 
-![El resumen de seguridad para una organziación](/assets/images/help/organizations/security-overview.png)
+![El resumen de seguridad para una organziación](/assets/images/2021/10/help/organizations/security-overview.png)
 
 Para cada repositorio en el resumen de seguridad, verás iconos de cada tipo de característica de seguridad y cuántas alertas hay para cada tipo. Si no se habilita una característica de seguridad para un repositorio, su icono se mostrará en gris. Adicionalmente, la puntuación de riesgo se calcula para cada repositorio con base de su escaneo de código, las alertas del Dependabot y del escaneo de secretos. Esta puntuación se encuentra en beta y debe utilizarse con cuidado. Su algoritmo y enfoque está sujeto a cambios.
 
-![Los iconos en el resumen de seguridad](/assets/images/help/organizations/security-overview-icons.png)
+![Los iconos en el resumen de seguridad](/assets/images/2021/10/help/organizations/security-overview-icons.png)
 
 | Icono                                                         | Significado                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -18,8 +18,8 @@ shortTitle: Integrate Jira with projects
 2. [**Application name**] に "Jira" と入力します。
 3. [**Homepage URL**] に、JIRA インスタンスの完全な URL を入力します。
 4. [**Authorization callback URL**] に、JIRA インスタンスの完全な URL を入力します。
-5. **Register application** をクリックする。 ![[Register application] ボタン](/assets/images/help/oauth/register-application-button.png)
-8. [**Developer applications**] で、[Client ID] と [Client Secret] の値を確認します。 ![クライアント ID とクライアントシークレット](/assets/images/help/oauth/client-id-and-secret.png)
+5. **Register application** をクリックする。 ![[Register application] ボタン](/assets/images/2021/10/help/oauth/register-application-button.png)
+8. [**Developer applications**] で、[Client ID] と [Client Secret] の値を確認します。 ![クライアント ID とクライアントシークレット](/assets/images/2021/10/help/oauth/client-id-and-secret.png)
 {% data reusables.user-settings.jira_help_docs %}
 
 ## 参考リンク

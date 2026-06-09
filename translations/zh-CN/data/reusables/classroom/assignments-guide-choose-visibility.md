@@ -5,5 +5,5 @@
 在“Repository visibility（仓库可见性）”下，选择可见性。 （可选）选择 **Grant students admin access to their repository（授予学生对其仓库的管理员权限）**。
 
 <div class="procedural-image-wrapper">
-  <img alt="作业仓库的可见性选项" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-choose-repository-visibility.png">
+  <img alt="作业仓库的可见性选项" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-choose-repository-visibility.png">
 </div>

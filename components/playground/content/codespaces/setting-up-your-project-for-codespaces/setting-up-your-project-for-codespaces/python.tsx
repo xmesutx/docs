@@ -27,7 +27,7 @@ const article: PlaygroundArticleT = {
       content: dedent`
         1. Under the repository name, use the **Code** drop-down menu, and in the **Codespaces** tab, click **New codespace**.
 
-            ![New codespace button](/assets/images/help/codespaces/new-codespace-button.png)
+            ![New codespace button](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
             If you don’t see this option, Codespaces isn't available for your project. See [Access to Codespaces](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) for more information.
 
@@ -50,16 +50,16 @@ const article: PlaygroundArticleT = {
         To set up your project with a custom container, you will need to use a \`devcontainer.json\` file to define the environment. In Codespaces you can add this either from a template or you can create your own. For more information on dev containers, see "[Introduction to dev containers](/codespaces/setting-up-your-codespace/configuring-codespaces-for-your-project)".
 
         1. Access the Command Palette (\`Shift + Command + P\` / \`Ctrl + Shift + P\`), then start typing "dev container". Select **Codespaces: Add Development Container Configuration Files...**.
-          !["Codespaces: Add Development Container Configuration Files..." in the command palette](/assets/images/help/codespaces/add-prebuilt-container-command.png)
+          !["Codespaces: Add Development Container Configuration Files..." in the command palette](/assets/images/2021/10/help/codespaces/add-prebuilt-container-command.png)
         2. For this example, click **Python 3**. If you need additional features you can select any container that’s specific to Python or a combination of tools such as Python 3 and PostgreSQL.
-          ![Select Python option from the list](/assets/images/help/codespaces/add-python-prebuilt-container.png)
+          ![Select Python option from the list](/assets/images/2021/10/help/codespaces/add-python-prebuilt-container.png)
         3. Click the recommended version of Python.
-          ![Python version selection](/assets/images/help/codespaces/add-python-version.png)
+          ![Python version selection](/assets/images/2021/10/help/codespaces/add-python-version.png)
         4. Accept the default option to add Node.js to your customization.
-          ![Add Node.js selection](/assets/images/help/codespaces/add-nodejs-selection.png)
+          ![Add Node.js selection](/assets/images/2021/10/help/codespaces/add-nodejs-selection.png)
         5. Select any additional features to install and click **OK**.
         6. Access the command palette (\`Shift + Command + P\`/ \`Ctrl + Shift + P\`), then start typing "rebuild". Select **Codespaces: Rebuild Container**. 
-          ![Rebuild container option](/assets/images/help/codespaces/codespaces-rebuild.png)
+          ![Rebuild container option](/assets/images/2021/10/help/codespaces/codespaces-rebuild.png)
       `,
     },
     {
@@ -174,7 +174,7 @@ const article: PlaygroundArticleT = {
 
         1. In the Explorer, expand the \`.devcontainer\` folder and select the \`devcontainer.json\` file from the tree to open it.
 
-           ![devcontainer.json file in the Explorer](/assets/images/help/codespaces/devcontainers-options.png)
+           ![devcontainer.json file in the Explorer](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
         2. Update the extensions list in your \`devcontainer.json\` file to add a few extensions that are useful when working with your project.
 
@@ -195,13 +195,13 @@ const article: PlaygroundArticleT = {
 
         4. Access the command palette (\`Shift + Command + P\`/ \`Ctrl + Shift + P\`), then start typing "rebuild". Select **Codespaces: Rebuild Container**. 
           
-            ![Rebuild container option](/assets/images/help/codespaces/codespaces-rebuild.png)
+            ![Rebuild container option](/assets/images/2021/10/help/codespaces/codespaces-rebuild.png)
           
              Rebuilding inside your codespace ensures your changes work as expected before you commit the changes to the repository. If something does result in a failure, you’ll be placed in a codespace with a recovery container that you can rebuild from to keep adjusting your container.
 
         5. Check your changes were successfully applied by verifying the Code Spell Checker and Flask Snippet extensions were installed.
 
-           ![Extensions list](/assets/images/help/codespaces/python-extensions.png)
+           ![Extensions list](/assets/images/2021/10/help/codespaces/python-extensions.png)
       `,
     },
     {
@@ -217,7 +217,7 @@ const article: PlaygroundArticleT = {
 
         2. When your project starts, you should see a message in the bottom right corner with a prompt to connect to the port your project uses.
 
-           ![Port forwarding toast](/assets/images/help/codespaces/python-port-forwarding.png)
+           ![Port forwarding toast](/assets/images/2021/10/help/codespaces/python-port-forwarding.png)
       `,
     },
     {

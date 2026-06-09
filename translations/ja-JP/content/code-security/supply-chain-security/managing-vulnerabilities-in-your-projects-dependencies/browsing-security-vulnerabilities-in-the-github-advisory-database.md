@@ -61,7 +61,7 @@ Each security advisory contains information about the vulnerability, which may i
 ## {% data variables.product.prodname_advisory_database %} のアドバイザリにアクセスする
 
 1. Https://github.com/advisories にアクセスします。
-2. 必要に応じて、リストをフィルタするには、ドロップダウンメニューを使用します。 ![ドロップダウンフィルタ](/assets/images/help/security/advisory-database-dropdown-filters.png)
+2. 必要に応じて、リストをフィルタするには、ドロップダウンメニューを使用します。 ![ドロップダウンフィルタ](/assets/images/2021/10/help/security/advisory-database-dropdown-filters.png)
    {% tip %}
 
    **Tip:** You can use the sidebar on the left to explore  {% data variables.product.company_short %}-reviewed and unreviewed advisories separately.
@@ -111,8 +111,8 @@ For any {% data variables.product.company_short %}-reviewed advisory in the {% d
 
 1. Https://github.com/advisories にアクセスします。
 2. アドバイザリをクリックします。
-3. アドバイザリページの上部にある [**Dependabot alerts**] をクリックします。 ![Dependabotアラート](/assets/images/help/security/advisory-database-dependabot-alerts.png)
-4. 必要に応じて、リストをフィルタするには、検索バーまたはドロップダウンメニューを使用します。 [Organization] ドロップダウンメニューを使用すると、オーナー（Organization またはユーザ）ごとに {% data variables.product.prodname_dependabot_alerts %} をフィルタできます。 ![アラートをフィルタするための検索バーとドロップダウンメニュー](/assets/images/help/security/advisory-database-dependabot-alerts-filters.png)
+3. アドバイザリページの上部にある [**Dependabot alerts**] をクリックします。 ![Dependabotアラート](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts.png)
+4. 必要に応じて、リストをフィルタするには、検索バーまたはドロップダウンメニューを使用します。 [Organization] ドロップダウンメニューを使用すると、オーナー（Organization またはユーザ）ごとに {% data variables.product.prodname_dependabot_alerts %} をフィルタできます。 ![アラートをフィルタするための検索バーとドロップダウンメニュー](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts-filters.png)
 5. 脆弱性の詳細、および脆弱性のあるリポジトリを修正する方法に関するアドバイスについては、リポジトリ名をクリックしてください。
 
 ## 参考リンク

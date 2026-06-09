@@ -2,4 +2,4 @@
    - Para recibir recordatorios de todos los repositorios a los cuales tiene acceso el equipo elegido, da clic en **Todos los repositorios**.
    - Para recibir recordatorios de un subconjunto de repositorios, da clic en **Seleccionar únicamente repositorios**, y luego selecciona uno o más repositorios a los que tenga acceso el equipo elegido.
 
-  ![Elige los repositorios rastreados](/assets/images/help/settings/scheduled-reminders-tracked-repos.png)
+  ![Elige los repositorios rastreados](/assets/images/2021/10/help/settings/scheduled-reminders-tracked-repos.png)

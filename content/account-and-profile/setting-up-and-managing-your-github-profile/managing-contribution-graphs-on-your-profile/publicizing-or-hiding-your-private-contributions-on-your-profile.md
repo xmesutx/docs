@@ -28,9 +28,9 @@ If you publicize your private contributions, people without access to the privat
 {% data reusables.profile.access_profile %}
 1. Publicize or hide your private contributions on your profile:
     - To publicize your private contributions, above your contributions graph, use the **Contribution settings** drop-down menu, and select **Private contributions**. Visitors will see your private contribution counts without further details.
-  ![Enable visitors to see private contributions from contribution settings drop-down menu](/assets/images/help/profile/private-contributions-on.png)
+  ![Enable visitors to see private contributions from contribution settings drop-down menu](/assets/images/2021/10/help/profile/private-contributions-on.png)
     - To hide your private contributions, above your contributions graph, use the **Contribution settings** drop-down menu, and unselect **Private contributions.** Visitors will only see your public contributions.
-   ![Enable visitors to see private contributions from contribution settings drop-down menu](/assets/images/help/profile/private-contributions-off.png)
+   ![Enable visitors to see private contributions from contribution settings drop-down menu](/assets/images/2021/10/help/profile/private-contributions-off.png)
 
 ## Further reading
 

@@ -39,9 +39,9 @@ If you downgrade your user account from {% data variables.product.prodname_pro %
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
 1. Under "Current plan", use the **Edit** drop-down and click **Downgrade to Free**.
-  ![Downgrade to free button](/assets/images/help/billing/downgrade-to-free.png)
+  ![Downgrade to free button](/assets/images/2021/10/help/billing/downgrade-to-free.png)
 5. Read the information about the features your user account will no longer have access to on your next billing date, then click **I understand. Continue with downgrade**.
-  ![Continue with downgrade button](/assets/images/help/billing/continue-with-downgrade.png)
+  ![Continue with downgrade button](/assets/images/2021/10/help/billing/continue-with-downgrade.png)
 
 If you published a {% data variables.product.prodname_pages %} site in a private repository and added a custom domain, remove or update your DNS records before downgrading from {% data variables.product.prodname_pro %} to {% data variables.product.prodname_free_user %}, to avoid the risk of a domain takeover. For more information, see "[Managing a custom domain for your {% data variables.product.prodname_pages %} site](/articles/managing-a-custom-domain-for-your-github-pages-site)."
 
@@ -62,7 +62,7 @@ If you downgrade your organization from {% data variables.product.prodname_ghe_c
 
 {% data reusables.organizations.billing-settings %}
 1. Under "Current plan", use the **Edit** drop-down and click the downgrade option you want.
-  ![Downgrade button](/assets/images/help/billing/downgrade-option-button.png)
+  ![Downgrade button](/assets/images/2021/10/help/billing/downgrade-option-button.png)
 {% data reusables.dotcom_billing.confirm_cancel_org_plan %}
 
 ## Downgrading an organization's subscription with legacy per-repository pricing
@@ -73,11 +73,11 @@ If you downgrade your organization from {% data variables.product.prodname_ghe_c
 
 {% data reusables.organizations.billing-settings %}
 5. Under "Subscriptions", select the "Edit" drop-down, and click **Edit plan**.
-    ![Edit Plan dropdown](/assets/images/help/billing/edit-plan-dropdown.png)
+    ![Edit Plan dropdown](/assets/images/2021/10/help/billing/edit-plan-dropdown.png)
 1. Under "Billing/Plans",  next to the plan you want to change, click **Downgrade**.
-    ![Downgrade button](/assets/images/help/billing/downgrade-plan-option-button.png)
+    ![Downgrade button](/assets/images/2021/10/help/billing/downgrade-plan-option-button.png)
 1. Enter the reason you're downgrading your account, then click **Downgrade plan**.
-    ![Text box for downgrade reason and downgrade button](/assets/images/help/billing/downgrade-plan-button.png)
+    ![Text box for downgrade reason and downgrade button](/assets/images/2021/10/help/billing/downgrade-plan-button.png)
 
 ## Removing paid seats from your organization
 
@@ -88,11 +88,11 @@ To reduce the number of paid seats your organization uses, you can remove member
 
 {% data reusables.organizations.billing-settings %}
 1. Under "Current plan", use the **Edit** drop-down and click **Remove seats**.
-  ![remove seats dropdown](/assets/images/help/billing/remove-seats-dropdown.png)
+  ![remove seats dropdown](/assets/images/2021/10/help/billing/remove-seats-dropdown.png)
 1. Under "Remove seats", select the number of seats you'd like to downgrade to.
-  ![remove seats option](/assets/images/help/billing/remove-seats-amount.png)
+  ![remove seats option](/assets/images/2021/10/help/billing/remove-seats-amount.png)
 1. Review the information about your new payment on your next billing date, then click **Remove seats**.
-  ![remove seats button](/assets/images/help/billing/remove-seats-button.png)
+  ![remove seats button](/assets/images/2021/10/help/billing/remove-seats-button.png)
 
 ## Further reading
 

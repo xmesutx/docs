@@ -85,10 +85,10 @@ FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-14
 如果您需要一些额外的扩展性，使用预先定义的配置是一个好主意。 您也可以从预定义的配置开始，然后根据项目的设置对其进行修改。
 
 {% data reusables.codespaces.command-palette-container %}
-1. 单击要使用的定义。 ![预定义容器定义列表](/assets/images/help/codespaces/predefined-container-definitions-list.png)
+1. 单击要使用的定义。 ![预定义容器定义列表](/assets/images/2021/10/help/codespaces/predefined-container-definitions-list.png)
 1. 按照提示自定义您的定义。 For more information on the options to customize your definition, see "[Adding additional features to your `devcontainer.json` file](#adding-additional-features-to-your-devcontainerjson-file)."
-1. 单击 **OK（确定）**。 ![确定按钮](/assets/images/help/codespaces/prebuilt-container-ok-button.png)
-1. 要应用更改，请在屏幕右下角单击 **Rebuild now（立即重建）**。 有关重建容器的更多信息，请参阅“[应用对配置的更改](#applying-changes-to-your-configuration)”。 !["Codespaces: Rebuild Container" in the {% data variables.product.prodname_vscode_command_palette %}](/assets/images/help/codespaces/rebuild-prompt.png)
+1. 单击 **OK（确定）**。 ![确定按钮](/assets/images/2021/10/help/codespaces/prebuilt-container-ok-button.png)
+1. 要应用更改，请在屏幕右下角单击 **Rebuild now（立即重建）**。 有关重建容器的更多信息，请参阅“[应用对配置的更改](#applying-changes-to-your-configuration)”。 !["Codespaces: Rebuild Container" in the {% data variables.product.prodname_vscode_command_palette %}](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 ### Adding additional features to your `devcontainer.json` file
 
@@ -102,12 +102,12 @@ You can add features to your predefined container configuration to customize whi
 
 You can add some of the most common features by selecting them when configuring your predefined container. For more information on the available features, see the [script library](https://github.com/microsoft/vscode-dev-containers/tree/main/script-library#scripts) in the `vscode-dev-containers` repository.
 
-![The select additional features menu during container configuration.](/assets/images/help/codespaces/select-additional-features.png)
+![The select additional features menu during container configuration.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
 
 You can also add or remove features outside of the **Add Development Container Configuration Files** workflow.
-1. Access the Command Palette (`Shift + Command + P` / `Ctrl + Shift + P`), then start typing "configure". Select **Codespaces: Configure Devcontainer Features**. ![The Configure Devcontainer Features command in the command palette](/assets/images/help/codespaces/codespaces-configure-features.png)
-2. Update your feature selections, then click **OK**. ![The select additional features menu during container configuration.](/assets/images/help/codespaces/select-additional-features.png)
-1. 要应用更改，请在屏幕右下角单击 **Rebuild now（立即重建）**。 有关重建容器的更多信息，请参阅“[应用对配置的更改](#applying-changes-to-your-configuration)”。 ![命令面板中的"Codespaces：重建容器"](/assets/images/help/codespaces/rebuild-prompt.png)
+1. Access the Command Palette (`Shift + Command + P` / `Ctrl + Shift + P`), then start typing "configure". Select **Codespaces: Configure Devcontainer Features**. ![The Configure Devcontainer Features command in the command palette](/assets/images/2021/10/help/codespaces/codespaces-configure-features.png)
+2. Update your feature selections, then click **OK**. ![The select additional features menu during container configuration.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
+1. 要应用更改，请在屏幕右下角单击 **Rebuild now（立即重建）**。 有关重建容器的更多信息，请参阅“[应用对配置的更改](#applying-changes-to-your-configuration)”。 ![命令面板中的"Codespaces：重建容器"](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 
 ## 创建自定义代码空间配置
@@ -161,7 +161,7 @@ For more information about the available settings for `devcontainer.json`, see [
 {% data reusables.codespaces.apply-devcontainer-changes %}
 
 {% data reusables.codespaces.rebuild-command %}
-1. {% data reusables.codespaces.recovery-mode %} 修复配置中的错误。 ![有关恢复模式的错误消息](/assets/images/help/codespaces/recovery-mode-error-message.png)
+1. {% data reusables.codespaces.recovery-mode %} 修复配置中的错误。 ![有关恢复模式的错误消息](/assets/images/2021/10/help/codespaces/recovery-mode-error-message.png)
    - 要通过查看创建日志来诊断错误，请单击 **View creation log（查看创建日志）**。
    - 要修复日志中发现的错误，请更新您的 `devcontainer.json` 文件。
    - 要应用更改，请重建容器。

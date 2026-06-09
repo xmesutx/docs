@@ -69,9 +69,9 @@ gh repo clone <em>https://github.com/cli/cli</em>
 空のリポジトリにはファイルが含まれていません。 リポジトリを作成するときに README でリポジトリを初期化しない場合に多くあります。
 
 {% data reusables.repositories.navigate-to-repo %}
-2. HTTPS でコマンドラインを使用してリポジトリをクローンするには、[Quick setup] で {% octicon "clippy" aria-label="The clipboard icon" %} をクリックします。 Organization の SSH 認証局から発行された証明書を含む SSH キーを使用してリポジトリのクローンを作成するには、[**SSH**]、{% octicon "clippy" aria-label="The clipboard icon" %} の順にクリックします。 ![[Empty repository clone URL] ボタン](/assets/images/help/repository/empty-https-url-clone-button.png)
+2. HTTPS でコマンドラインを使用してリポジトリをクローンするには、[Quick setup] で {% octicon "clippy" aria-label="The clipboard icon" %} をクリックします。 Organization の SSH 認証局から発行された証明書を含む SSH キーを使用してリポジトリのクローンを作成するには、[**SSH**]、{% octicon "clippy" aria-label="The clipboard icon" %} の順にクリックします。 ![[Empty repository clone URL] ボタン](/assets/images/2021/10/help/repository/empty-https-url-clone-button.png)
 
-   または、リポジトリをデスクトップにクローンするには、{% octicon "desktop-download" aria-label="The desktop download button" %} [**Set up in Desktop**] をクリックし、プロンプトに従ってクローンを完了します。 ![[Empty repository clone desktop] ボタン](/assets/images/help/repository/empty-desktop-clone-button.png)
+   または、リポジトリをデスクトップにクローンするには、{% octicon "desktop-download" aria-label="The desktop download button" %} [**Set up in Desktop**] をクリックし、プロンプトに従ってクローンを完了します。 ![[Empty repository clone desktop] ボタン](/assets/images/2021/10/help/repository/empty-desktop-clone-button.png)
 
 {% data reusables.command_line.open_the_multi_os_terminal %}
 {% data reusables.command_line.change-current-directory-clone %}

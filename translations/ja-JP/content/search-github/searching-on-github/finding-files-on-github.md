@@ -24,8 +24,8 @@ topics:
 {% endtip %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. ファイルの一覧の上にある [**Go to file**] をクリックします。 ![[Find file] ボタン](/assets/images/help/search/find-file-button.png)
-3. 検索フィールドで、検索したいファイル名を入力します。 ![ファイル検索の検索フィールド](/assets/images/help/search/find-file-search-field.png)
+2. ファイルの一覧の上にある [**Go to file**] をクリックします。 ![[Find file] ボタン](/assets/images/2021/10/help/search/find-file-button.png)
+3. 検索フィールドで、検索したいファイル名を入力します。 ![ファイル検索の検索フィールド](/assets/images/2021/10/help/search/find-file-search-field.png)
 4. 結果のリストで、目的のファイルをクリックします。
 
 ## 参考リンク

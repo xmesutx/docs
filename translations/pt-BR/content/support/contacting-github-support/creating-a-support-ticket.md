@@ -81,8 +81,8 @@ Especialmente para tíquetes com prioridade {% data variables.product.support_ti
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.type-management-console-password %}
 {% data reusables.enterprise_management_console.support-link %}
-1. Se você quiser incluir diagnósticos no seu ticket de suporte, em "Diagnostics" (Diagnósticos), clique em **Download diagnostic info** (Baixar informações de diagnóstico) e salve o arquivo no local. Esse arquivo será anexado ao seu tíquete de suporte. ![Captura de tela do botão com a etiqueta "Fazer o download das informações de diagnóstico" na página de suporte do console de gerenciamento.](/assets/images/enterprise/support/download-diagnostics-info-button.png)
-1. Para completar o seu ticket e exibir o {% data variables.contact.enterprise_portal %}, em "Abrir pedido de suporte", clique em **Nova solicitação de suporte**. ![Captura de tela do botão com a etiqueta "Novo pedido de suporte" na página de suporte do console de gerenciamento.](/assets/images/enterprise/management-console/open-support-request.png)
+1. Se você quiser incluir diagnósticos no seu ticket de suporte, em "Diagnostics" (Diagnósticos), clique em **Download diagnostic info** (Baixar informações de diagnóstico) e salve o arquivo no local. Esse arquivo será anexado ao seu tíquete de suporte. ![Captura de tela do botão com a etiqueta "Fazer o download das informações de diagnóstico" na página de suporte do console de gerenciamento.](/assets/images/2021/10/enterprise/support/download-diagnostics-info-button.png)
+1. Para completar o seu ticket e exibir o {% data variables.contact.enterprise_portal %}, em "Abrir pedido de suporte", clique em **Nova solicitação de suporte**. ![Captura de tela do botão com a etiqueta "Novo pedido de suporte" na página de suporte do console de gerenciamento.](/assets/images/2021/10/enterprise/management-console/open-support-request.png)
 {% data reusables.support.submit-a-ticket %}
 
 {% endif %}

@@ -41,7 +41,7 @@ Predeterminadamente, un codespace solo puede acceder al repositorio desde el cua
    * **Permitir para todos los miembros** para permitir que todos los miembros de tu organización utilicen {% data variables.product.prodname_codespaces %}.
    * **Permitir para todos los miembros y colaboradores externos** para permitir que todos los miembros de tu organización, así como los colaboradores externos, utilicen {% data variables.product.prodname_codespaces %}.
 
-   ![Botones radiales de "Permisos de usuario"](/assets/images/help/codespaces/org-user-permission-settings-outside-collaborators.png)
+   ![Botones radiales de "Permisos de usuario"](/assets/images/2021/12/help/codespaces/org-user-permission-settings-outside-collaborators.png)
 
    {% note %}
 

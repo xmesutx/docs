@@ -68,9 +68,9 @@ Os proprietários da empresa, administradores de organização e repositórios p
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. Se o repositório já tiver pelo menos um fluxo de trabalho configurado e em execução, clique em **Novo fluxo de trabalho** e vá para a etapa 5. Se, atualmente, não houver fluxos de trabalho configurados para o repositório, vá para a próxima etapa. ![Captura de tela do botão novo fluxo de trabalho](/assets/images/help/security/actions-new-workflow-button.png)
-1. Role para baixo até a categoria "Segurança" e clique em **Configurar** no fluxo de trabalho que você deseja configurar, ou clique em **Visualizar todos** para ver todos os fluxos de trabalho de segurança disponíveis. ![Captura de tela da seção de segurança de fluxos de trabalho](/assets/images/help/security/actions-workflows-security-section.png)
-1. No painel direito da página do fluxo de trabalho, clique em **Documentação** e siga as instruções na tela para adaptar o fluxo de trabalho às suas necessidades. ![Screenshot of the Documentation tab for starter workflows](/assets/images/help/security/actions-workflows-documentation.png) Para obter mais informações, consulte "[Usndo fluxos de trabalho iniciais](/actions/using-workflows/using-starter-workflows#using-starter-workflows)" e "[Configurando {% data variables.product.prodname_code_scanning %}](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning)."
+1. Se o repositório já tiver pelo menos um fluxo de trabalho configurado e em execução, clique em **Novo fluxo de trabalho** e vá para a etapa 5. Se, atualmente, não houver fluxos de trabalho configurados para o repositório, vá para a próxima etapa. ![Captura de tela do botão novo fluxo de trabalho](/assets/images/2022/02/help/security/actions-new-workflow-button.png)
+1. Role para baixo até a categoria "Segurança" e clique em **Configurar** no fluxo de trabalho que você deseja configurar, ou clique em **Visualizar todos** para ver todos os fluxos de trabalho de segurança disponíveis. ![Captura de tela da seção de segurança de fluxos de trabalho](/assets/images/2022/02/help/security/actions-workflows-security-section.png)
+1. No painel direito da página do fluxo de trabalho, clique em **Documentação** e siga as instruções na tela para adaptar o fluxo de trabalho às suas necessidades. ![Screenshot of the Documentation tab for starter workflows](/assets/images/2022/02/help/security/actions-workflows-documentation.png) Para obter mais informações, consulte "[Usndo fluxos de trabalho iniciais](/actions/using-workflows/using-starter-workflows#using-starter-workflows)" e "[Configurando {% data variables.product.prodname_code_scanning %}](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning)."
 
 {% endif %}
 
@@ -79,15 +79,15 @@ Os proprietários da empresa, administradores de organização e repositórios p
 {% data reusables.code-scanning.billing %}
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
-1. À direita dos " alertas de {% data variables.product.prodname_code_scanning_capc %}", clique em **Configurar {% data variables.product.prodname_code_scanning %}**. Se {% data variables.product.prodname_code_scanning %} estiver faltando, você precisará perguntar a um proprietário ou administrador do repositório para habilitar o {% data variables.product.prodname_GH_advanced_security %}. Para mais informações consulte "[Gerenciar as configurações de segurança e análise para a sua organização](/organizations/keeping-your-organization-secure/managing-security-and-analysis-settings-for-your-organization)" ou "[Gerenciar as configurações de segurança e análise para o seu repositório](/github/administering-a-repository/managing-security-and-analysis-settings-for-your-repository). ![Botão "Configurar {% data variables.product.prodname_code_scanning %}" à direita de "{% data variables.product.prodname_code_scanning_capc %}" na Visão Geral de Segurança](/assets/images/help/security/overview-set-up-code-scanning.png)
-4. Em "Começar com {% data variables.product.prodname_code_scanning %}", clique em **Configurar este fluxo de trabalho** no {% data variables.product.prodname_codeql_workflow %} ou em um fluxo de trabalho de terceiros. !["Set up this workflow" button under "Get started with {% data variables.product.prodname_code_scanning %}" heading](/assets/images/help/repository/code-scanning-set-up-this-workflow.png)Os fluxos de trabalho são exibidos apenas se forem relevantes para as linguagens de programação detectadas no repositório. O {% data variables.product.prodname_codeql_workflow %} é sempre exibido, mas o botão "Configurar este fluxo de trabalho" só é habilitado se a análise de {% data variables.product.prodname_codeql %} for compatível com as linguagens presentes no repositório.
+1. À direita dos " alertas de {% data variables.product.prodname_code_scanning_capc %}", clique em **Configurar {% data variables.product.prodname_code_scanning %}**. Se {% data variables.product.prodname_code_scanning %} estiver faltando, você precisará perguntar a um proprietário ou administrador do repositório para habilitar o {% data variables.product.prodname_GH_advanced_security %}. Para mais informações consulte "[Gerenciar as configurações de segurança e análise para a sua organização](/organizations/keeping-your-organization-secure/managing-security-and-analysis-settings-for-your-organization)" ou "[Gerenciar as configurações de segurança e análise para o seu repositório](/github/administering-a-repository/managing-security-and-analysis-settings-for-your-repository). ![Botão "Configurar {% data variables.product.prodname_code_scanning %}" à direita de "{% data variables.product.prodname_code_scanning_capc %}" na Visão Geral de Segurança](/assets/images/2021/10/help/security/overview-set-up-code-scanning.png)
+4. Em "Começar com {% data variables.product.prodname_code_scanning %}", clique em **Configurar este fluxo de trabalho** no {% data variables.product.prodname_codeql_workflow %} ou em um fluxo de trabalho de terceiros. !["Set up this workflow" button under "Get started with {% data variables.product.prodname_code_scanning %}" heading](/assets/images/2021/10/help/repository/code-scanning-set-up-this-workflow.png)Os fluxos de trabalho são exibidos apenas se forem relevantes para as linguagens de programação detectadas no repositório. O {% data variables.product.prodname_codeql_workflow %} é sempre exibido, mas o botão "Configurar este fluxo de trabalho" só é habilitado se a análise de {% data variables.product.prodname_codeql %} for compatível com as linguagens presentes no repositório.
 5. Para personalizar como {% data variables.product.prodname_code_scanning %} faz a varredura do seu código, edite o fluxo de trabalho.
 
    Geralmente, você pode fazer commit do {% data variables.product.prodname_codeql_workflow %} sem fazer nenhuma alteração nele. No entanto, muitos dos fluxos de trabalho de terceiros exigem uma configuração adicional. Portanto, leia os comentários no fluxo de trabalho antes de fazer o commit.
 
    Para obter mais informações, consulte "[Configurando {% data variables.product.prodname_code_scanning %}](/code-security/secure-coding/configuring-code-scanning)."
-6. Use o menu suspenso **Iniciar commit** e digite uma mensagem de commit. ![Iniciar commit](/assets/images/help/repository/start-commit-commit-new-file.png)
-7. Escolha se você gostaria de fazer commit diretamente no branch-padrão ou criar um novo branch e iniciar um pull request. ![Escolher onde fazer commit](/assets/images/help/repository/start-commit-choose-where-to-commit.png)
+6. Use o menu suspenso **Iniciar commit** e digite uma mensagem de commit. ![Iniciar commit](/assets/images/2021/10/help/repository/start-commit-commit-new-file.png)
+7. Escolha se você gostaria de fazer commit diretamente no branch-padrão ou criar um novo branch e iniciar um pull request. ![Escolher onde fazer commit](/assets/images/2021/10/help/repository/start-commit-choose-where-to-commit.png)
 8. Clique em **Fazer commit do novo arquivo** ou **Propor novo arquivo**.
 
 No {% data variables.product.prodname_codeql_workflow %} padrão, {% data variables.product.prodname_code_scanning %} está configurado para analisar o seu código cada vez que você fizer push de uma alteração no branch-padrão ou em qualquer branch protegido, ou criar um pull request contra o branch padrão. Como resultado, {% data variables.product.prodname_code_scanning %} vai começar agora.
@@ -105,13 +105,13 @@ Depois de configurar o {% data variables.product.prodname_code_scanning %} para 
 
   Você verá uma lista que inclui uma entrada para executar o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}. O texto da entrada é o título que você deu à sua mensagem de commit.
 
-  ![Lista de ações que mostram o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/help/repository/code-scanning-actions-list.png)
+  ![Lista de ações que mostram o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/help/repository/code-scanning-actions-list.png)
 
 1. Clique na entrada para o fluxo de trabalho de {% data variables.product.prodname_code_scanning %}.
 
 1. Clique no nome do trabalho à esquerda. Por exemplo, **Analise (LANGUAGE)**.
 
-  ![Saída do log do fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/help/repository/code-scanning-logging-analyze-action.png)
+  ![Saída do log do fluxo de trabalho de {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/help/repository/code-scanning-logging-analyze-action.png)
 
 1. Revise a saída de log das ações deste fluxo de trabalho enquanto elas são executadas.
 
@@ -122,9 +122,9 @@ Depois de configurar o {% data variables.product.prodname_code_scanning %} para 
 **Observação:** Se você criou um pull request para adicionar o fluxo de trabalho de {% data variables.product.prodname_code_scanning %} ao repositório, os alertas desse pull request não serão exibidos diretamente na página de {% data variables.product.prodname_code_scanning_capc %} até que o pull request seja mesclado. Se algum alerta for encontrado, você poderá visualizá-los, antes do merge do pull request, clicando no link dos **_n_ alertas encontrados** no banner na página de {% data variables.product.prodname_code_scanning_capc %}.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-  ![Clique no link "n alertas encontrados"](/assets/images/help/repository/code-scanning-alerts-found-link.png)
+  ![Clique no link "n alertas encontrados"](/assets/images/2021/10/help/repository/code-scanning-alerts-found-link.png)
 {% else %}
-  ![Clique no link "n alertas encontrados"](/assets/images/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
+  ![Clique no link "n alertas encontrados"](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
 {% endif %}
 
 {% endnote %}
@@ -135,18 +135,18 @@ Cada fluxo de trabalho de {% data variables.product.prodname_code_scanning %} qu
 
 Os nomes das verificações de análise de {% data variables.product.prodname_code_scanning %} assumem a forma: "TOOL NAME / JOB NAME (TRIGGER)." Por exemplo, para {% data variables.product.prodname_codeql %}, a análise do código C++ tem a entrada "{% data variables.product.prodname_codeql %} / Analyze (cpp) (pull_request)." Você pode clicar em **Detalhes** em uma entrada de análise de {% data variables.product.prodname_code_scanning %} para ver os dados de registro. Isso permite que você corrija um problema caso ocorra uma falha no trabalho de análise. Por exemplo, para a análise de {% data variables.product.prodname_code_scanning %} de linguagens compiladas, isto pode acontecer se a ação não puder criar o código.
 
-  ![Verificações de pull request de {% data variables.product.prodname_code_scanning %}](/assets/images/help/repository/code-scanning-pr-checks.png)
+  ![Verificações de pull request de {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/help/repository/code-scanning-pr-checks.png)
 
 Quando os trabalhos de {% data variables.product.prodname_code_scanning %} forem concluídos, {% data variables.product.prodname_dotcom %} calcula se quaisquer alertas foram adicionados pelo pull request e adiciona a entrada "{% data variables.product.prodname_code_scanning_capc %} results / TOOL NAME" à lista de verificações. Depois de {% data variables.product.prodname_code_scanning %} ser executado pelo menos uma vez, você poderá clicar em **Detalhes** para visualizar os resultados da análise. Se você usou um pull request para adicionar {% data variables.product.prodname_code_scanning %} ao repositório, inicialmente você verá uma mensagem de {% ifversion fpt or ghes > 3.2 or ghae-issue-3891 or ghec %} "Análise não encontrada"{% else %}"Análise ausente"{% endif %} ao clicar em **Detalhes** na verificação de "resultados de {% data variables.product.prodname_code_scanning_capc %} NOME DA FERRAMENTA.
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-3891 or ghec %}
-  ![Análise não encontrada para mensagem de commit](/assets/images/help/repository/code-scanning-analysis-not-found.png)
+  ![Análise não encontrada para mensagem de commit](/assets/images/2021/10/help/repository/code-scanning-analysis-not-found.png)
 
 A tabela lista uma ou mais categorias. Cada categoria está relacionada a análises específicas, para a mesma ferramenta e commit, realizadas em uma linguagem diferente ou em uma parte diferente do código. Para cada categoria a tabela mostra as duas análises que {% data variables.product.prodname_code_scanning %} tentou comparar para determinar quais alertas foram introduzidos ou corrigidos no pull request.
 
 Por exemplo, na captura de tela acima, {% data variables.product.prodname_code_scanning %} encontrou uma análise para o commit do merge do pull request, mas não há análise para o cabeçalho do branch principal.
 {% else %}
-  ![Análise ausente para mensagem de commit](/assets/images/enterprise/3.2/repository/code-scanning-missing-analysis.png)
+  ![Análise ausente para mensagem de commit](/assets/images/2021/10/enterprise/3.2/repository/code-scanning-missing-analysis.png)
 {% endif %}
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-3891 or ghec %}
@@ -164,9 +164,9 @@ Há outras situações em que não pode haver análise para o último commit do 
   Para verificar se um branch foi verificado, acesse a página {% data variables.product.prodname_code_scanning_capc %}, clique no menu suspenso **Branch** e selecione o branch relevante.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-  ![Escolha um branch no menu suspenso Branch](/assets/images/help/repository/code-scanning-branch-dropdown.png)
+  ![Escolha um branch no menu suspenso Branch](/assets/images/2021/10/help/repository/code-scanning-branch-dropdown.png)
 {% else %}
-  ![Escolha um branch no menu suspenso Branch](/assets/images/enterprise/3.1/help/repository/code-scanning-branch-dropdown.png)
+  ![Escolha um branch no menu suspenso Branch](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-branch-dropdown.png)
 {% endif %}
 
   A solução nesta situação é adicionar o nome do branch de base para a especificação `on:push` e `on:pull_request` no fluxo de trabalho de {% data variables.product.prodname_code_scanning %} nesse branch e, em seguida, fazer uma alteração que atualize o pull request aberto que você deseja escanear.

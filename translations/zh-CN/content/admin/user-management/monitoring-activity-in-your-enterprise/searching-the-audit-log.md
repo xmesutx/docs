@@ -48,4 +48,4 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
-4. 输入搜索查询。 ![搜索查询](/assets/images/enterprise/site-admin-settings/search-query.png)
+4. 输入搜索查询。 ![搜索查询](/assets/images/2021/10/enterprise/site-admin-settings/search-query.png)

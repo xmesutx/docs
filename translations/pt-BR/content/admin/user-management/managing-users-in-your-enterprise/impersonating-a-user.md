@@ -28,13 +28,13 @@ As ações que você realiza durante uma sessão de representação são registr
 {% data reusables.enterprise_site_admin_settings.click-user %}
 4. Na parte superior esquerda da página, clique em **Informações do usuário**.
 
-   ![Informação de usuário](/assets/images/enterprise/stafftools/user-info.png)
+   ![Informação de usuário](/assets/images/2021/11/enterprise/stafftools/user-info.png)
 5. Em "Zona de perigo", clique em **Efetuar o login no GitHub como @username**
 
-   ![Representar usuário](/assets/images/enterprise/stafftools/impersonate.png)
+   ![Representar usuário](/assets/images/2021/11/enterprise/stafftools/impersonate.png)
 6. Selecione um motivo na lista suspensa Se você selecionar **Outros** você precisará fornecer contexto adicional na seção **Observação**. Clique em **Iniciar representação** para começar a sessão.
 
-   ![Motivo da representação](/assets/images/enterprise/stafftools/impersonation-reason.png)
+   ![Motivo da representação](/assets/images/2021/11/enterprise/stafftools/impersonation-reason.png)
 7. Quando estiver pronto para terminar a sessão de representação clique no banner **Retornar à sua vida mundana como nome de usuário** na parte superior da página.
 
-   ![Encerrar representação](/assets/images/enterprise/stafftools/end-impersonation.png)
+   ![Encerrar representação](/assets/images/2021/11/enterprise/stafftools/end-impersonation.png)

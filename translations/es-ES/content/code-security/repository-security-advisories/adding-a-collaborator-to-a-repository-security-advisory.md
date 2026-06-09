@@ -35,8 +35,8 @@ Los colaboradores tienen permisos de escritura para el aviso de seguridad. For m
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. En la lista de "Asesorías de Seguridad", da clic en la asesoría a la cual quieras añadir un colaborador.
-5. En la parte derecha de la página, debajo de "Colaboradores", teclea el nombre de usuario o equipo que quieras añadir a la asesoría de seguridad.![Campo para escribir el nombre del equipo o el usuario](/assets/images/help/security/add-collaborator-field.png)
-6. Da clic en **Agregar**. ![Botón Add (Agregar)](/assets/images/help/security/security-advisory-add-collaborator-button.png)
+5. En la parte derecha de la página, debajo de "Colaboradores", teclea el nombre de usuario o equipo que quieras añadir a la asesoría de seguridad.![Campo para escribir el nombre del equipo o el usuario](/assets/images/2021/10/help/security/add-collaborator-field.png)
+6. Da clic en **Agregar**. ![Botón Add (Agregar)](/assets/images/2021/10/help/security/security-advisory-add-collaborator-button.png)
 
 ## Leer más
 

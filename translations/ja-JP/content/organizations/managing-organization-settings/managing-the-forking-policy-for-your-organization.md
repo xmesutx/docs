@@ -27,9 +27,9 @@ Organization レベルでプライベート{% ifversion ghes or ghec or ghae %} 
 1. 「Repository forking（リポジトリのフォーク）」の下で、**Allow forking of private {% ifversion ghec or ghes or ghae %}and internal {% endif %}repositories**を選択してください。
 
    {%- ifversion fpt %}
-   ![Organization でフォークを許可または禁止するチェックボックス](/assets/images/help/repository/allow-disable-forking-fpt.png)
+   ![Organization でフォークを許可または禁止するチェックボックス](/assets/images/2021/12/help/repository/allow-disable-forking-fpt.png)
    {%- elsif ghes or ghec or ghae %}
-   ![Organization でフォークを許可または禁止するチェックボックス](/assets/images/help/repository/allow-disable-forking-organization.png)
+   ![Organization でフォークを許可または禁止するチェックボックス](/assets/images/2021/10/help/repository/allow-disable-forking-organization.png)
    {%- endif %}
 6. [**Save**] をクリックします。
 

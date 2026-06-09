@@ -24,7 +24,7 @@ You can add issue or pull request cards to your project board by:
 
 You can put a maximum of 2,500 cards into each project column. If a column has reached the maximum number of cards, no cards can be moved into that column.
 
-![Cursor moves issue card from triaging sidebar to project board column](/assets/images/help/projects/add-card-from-sidebar.gif)
+![Cursor moves issue card from triaging sidebar to project board column](/assets/images/2021/10/help/projects/add-card-from-sidebar.gif)
 
 {% note %}
 
@@ -40,9 +40,9 @@ You can put a maximum of 2,500 cards into each project column. If a column has r
 
 1. Navigate to the project board where you want to add issues and pull requests.
 2. In your project board, click {% octicon "plus" aria-label="The plus icon" %} **Add cards**.
-![Add cards button](/assets/images/help/projects/add-cards-button.png)
+![Add cards button](/assets/images/2021/10/help/projects/add-cards-button.png)
 3. Search for issues and pull requests to add to your project board using search qualifiers. For more information on search qualifiers you can use, see "[Searching issues](/articles/searching-issues)."
-  ![Search issues and pull requests](/assets/images/help/issues/issues_search_bar.png)
+  ![Search issues and pull requests](/assets/images/2021/10/help/issues/issues_search_bar.png)
 
   {% tip %}
 
@@ -62,15 +62,15 @@ You can put a maximum of 2,500 cards into each project column. If a column has r
 ## Adding issues and pull requests to a project board from the sidebar
 
 1. On the right side of an issue or pull request, click **Projects {% octicon "gear" aria-label="The Gear icon" %}**.
-  ![Project board button in sidebar](/assets/images/help/projects/sidebar-project.png)
+  ![Project board button in sidebar](/assets/images/2021/10/help/projects/sidebar-project.png)
 2. Click the **Recent**, **Repository**,**User**, or **Organization** tab for the project board you would like to add to.
-  ![Recent, Repository and Organization tabs](/assets/images/help/projects/sidebar-project-tabs.png)
+  ![Recent, Repository and Organization tabs](/assets/images/2021/10/help/projects/sidebar-project-tabs.png)
 3. Type the name of the project in **Filter projects** field.
-  ![Project board search box](/assets/images/help/projects/sidebar-search-project.png)
+  ![Project board search box](/assets/images/2021/10/help/projects/sidebar-search-project.png)
 4. Select one or more project boards where you want to add the issue or pull request.
-  ![Selected project board](/assets/images/help/projects/sidebar-select-project.png)
+  ![Selected project board](/assets/images/2021/10/help/projects/sidebar-select-project.png)
 5. Click {% octicon "triangle-down" aria-label="The down triangle icon" %}, then click the column where you want your issue or pull request. The card will move to the bottom of the project board column you select.
-  ![Move card to column menu](/assets/images/help/projects/sidebar-select-project-board-column-menu.png)
+  ![Move card to column menu](/assets/images/2021/10/help/projects/sidebar-select-project-board-column-menu.png)
 
 ## Further reading
 

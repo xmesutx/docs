@@ -35,7 +35,7 @@ shortTitle: Visualizar versões & tags
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-2. Na parte superior da página Versões, clique em **Tags**. ![Página de tags](/assets/images/help/releases/tags-list.png)
+2. Na parte superior da página Versões, clique em **Tags**. ![Página de tags](/assets/images/2021/10/help/releases/tags-list.png)
 
 ## Leia mais
 

@@ -9,4 +9,4 @@
   
   {% endnote %}
   {% endif %}
-  ![Enable, disable, or limits actions for this enterprise account](/assets/images/help/organizations/enterprise-actions-policy.png)
+  ![Enable, disable, or limits actions for this enterprise account](/assets/images/2021/10/help/organizations/enterprise-actions-policy.png)

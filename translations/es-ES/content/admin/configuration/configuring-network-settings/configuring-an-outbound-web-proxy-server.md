@@ -34,8 +34,8 @@ Cuando se habilita un servidor proxy para {% data variables.product.product_loca
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-1. En **Servidor proxy HTTP**, escribe la URL de tu servidor proxy. ![Campo para escribir la URL del servidor proxy HTTP](/assets/images/enterprise/management-console/http-proxy-field.png)
+1. En **Servidor proxy HTTP**, escribe la URL de tu servidor proxy. ![Campo para escribir la URL del servidor proxy HTTP](/assets/images/2021/10/enterprise/management-console/http-proxy-field.png)
 
-5. De manera opcional, en **Exclusión de servidor proxy HTTP**, escribe cualquier host que no exija acceso proxy, separando los hosts con comas. Para excluir a todos los hosts en un dominio de que requieran acceso por proxy, puedes utilizar `.` como un prefijo de comodín.  Por ejemplo: `.octo-org.tentacle` ![Campo para escribir cualquier Exclusión de Proxy HTTP](/assets/images/enterprise/management-console/http-proxy-exclusion-field.png)
+5. De manera opcional, en **Exclusión de servidor proxy HTTP**, escribe cualquier host que no exija acceso proxy, separando los hosts con comas. Para excluir a todos los hosts en un dominio de que requieran acceso por proxy, puedes utilizar `.` como un prefijo de comodín.  Por ejemplo: `.octo-org.tentacle` ![Campo para escribir cualquier Exclusión de Proxy HTTP](/assets/images/2021/10/enterprise/management-console/http-proxy-exclusion-field.png)
 
 {% data reusables.enterprise_management_console.save-settings %}

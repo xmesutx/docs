@@ -35,7 +35,7 @@ The GitHub Classroom extension has two major components: the 'Classrooms' view a
 
 When the student launches the extension for the first time, they are automatically navigated to the Explorer tab in Visual Studio Code, where they can see the "Active Assignment" view alongside the tree-view of files in the repository.
 
-![GitHub Classroom Active Assignment View](/assets/images/help/classroom/vs-code-active-assignment.png)
+![GitHub Classroom Active Assignment View](/assets/images/2021/10/help/classroom/vs-code-active-assignment.png)
 
 The student can push their commits to the latest version of remote, by clicking the **sync changes** button, displayed when hovering over the "Active Assignment" line. This abstracts away source control with Git, allowing instructors to teach Git at their own pace. Synching changes also triggers "Tests" to run if a teacher has configured autograding for their assignment.
 

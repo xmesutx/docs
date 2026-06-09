@@ -28,7 +28,7 @@ You can also see deployment information on the "Conversation" tab of a pull requ
 
 {% data reusables.repositories.navigate-to-repo %}
 2. To the right of the list of files, click **Environments**.
-![Environments on the right of the repository page](/assets/images/help/repository/environments.png)
+![Environments on the right of the repository page](/assets/images/2021/10/help/repository/environments.png)
 
 ## Further reading
  - "[About pull requests](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)"

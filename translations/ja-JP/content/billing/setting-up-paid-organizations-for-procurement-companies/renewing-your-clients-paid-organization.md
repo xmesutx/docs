@@ -27,5 +27,5 @@ shortTitle: 有料Organizationの更新
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. [Payment method]の下で、[**New Card**]をクリックします。 ![支払の新しいカードボタン](/assets/images/help/billing/billing-new-card-button.png)
+1. [Payment method]の下で、[**New Card**]をクリックします。 ![支払の新しいカードボタン](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

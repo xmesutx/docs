@@ -27,13 +27,13 @@ shortTitle: 启用自动更新检查
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.updates-tab %}
-4. 单击 **Yes, automatically check for updates**。 ![启用自动更新的按钮](/assets/images/enterprise/management-console/enable_updates_button.png)
+4. 单击 **Yes, automatically check for updates**。 ![启用自动更新的按钮](/assets/images/2021/10/enterprise/management-console/enable_updates_button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 要查看您的实例是否处于最新状态，请检查 Updates 选项卡上的横幅。
 
-![指示您的 GitHub Enterprise Server 版本的横幅](/assets/images/enterprise/management-console/up-to-date-banner.png)
+![指示您的 GitHub Enterprise Server 版本的横幅](/assets/images/2021/10/enterprise/management-console/up-to-date-banner.png)
 
 在 **Logs** 下，您可以看到最近的更新检查的状态。
 
-![更新日志](/assets/images/enterprise/management-console/update-log.png)
+![更新日志](/assets/images/2021/10/enterprise/management-console/update-log.png)

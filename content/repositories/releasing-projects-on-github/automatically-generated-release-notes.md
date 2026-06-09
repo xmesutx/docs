@@ -24,32 +24,32 @@ Automatically generated release notes provide an automated alternative to manual
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
 3. Click **Draft a new release**.
-   ![Releases draft button](/assets/images/help/releases/draft_release_button.png)
+   ![Releases draft button](/assets/images/2021/10/help/releases/draft_release_button.png)
 4. {% ifversion fpt or ghec %}Click **Choose a tag** and type{% else %}Type{% endif %} a version number for your release. Alternatively, select an existing tag.
   {% ifversion fpt or ghec %}
-  ![Enter a tag](/assets/images/help/releases/releases-tag-create.png)
+  ![Enter a tag](/assets/images/2021/10/help/releases/releases-tag-create.png)
 5. If you are creating a new tag, click **Create new tag**.
-![Confirm you want to create a new tag](/assets/images/help/releases/releases-tag-create-confirm.png)
+![Confirm you want to create a new tag](/assets/images/2021/10/help/releases/releases-tag-create-confirm.png)
   {% else %}
-  ![Releases tagged version](/assets/images/enterprise/releases/releases-tag-version.png)
+  ![Releases tagged version](/assets/images/2021/10/enterprise/releases/releases-tag-version.png)
 {% endif %}
 6. If you have created a new tag, use the drop-down menu to select the branch that contains the project you want to release.
-  {% ifversion fpt or ghec %}![Choose a branch](/assets/images/help/releases/releases-choose-branch.png)
-  {% else %}![Releases tagged branch](/assets/images/enterprise/releases/releases-tag-branch.png)
+  {% ifversion fpt or ghec %}![Choose a branch](/assets/images/2021/10/help/releases/releases-choose-branch.png)
+  {% else %}![Releases tagged branch](/assets/images/2021/10/enterprise/releases/releases-tag-branch.png)
   {% endif %}
 7. To the top right of the description text box, click **Auto-generate release notes**.
-  ![Auto-generate release notes](/assets/images/help/releases/auto-generate-release-notes.png)
+  ![Auto-generate release notes](/assets/images/2021/10/help/releases/auto-generate-release-notes.png)
 8. Check the generated notes to ensure they include all (and only) the information you want to include.
 9. Optionally, to include binary files such as compiled programs in your release, drag and drop or manually select files in the binaries box.
-   ![Providing a DMG with the Release](/assets/images/help/releases/releases_adding_binary.gif)
+   ![Providing a DMG with the Release](/assets/images/2021/10/help/releases/releases_adding_binary.gif)
 10. To notify users that the release is not ready for production and may be unstable, select **This is a pre-release**.
-   ![Checkbox to mark a release as prerelease](/assets/images/help/releases/prerelease_checkbox.png)
+   ![Checkbox to mark a release as prerelease](/assets/images/2021/10/help/releases/prerelease_checkbox.png)
 {%- ifversion fpt %}
 11. Optionally, select **Create a discussion for this release**, then select the **Category** drop-down menu and click a category for the release discussion.
-  ![Checkbox to create a release discussion and drop-down menu to choose a category](/assets/images/help/releases/create-release-discussion.png)
+  ![Checkbox to create a release discussion and drop-down menu to choose a category](/assets/images/2021/10/help/releases/create-release-discussion.png)
 {%- endif %}
 12. If you're ready to publicize your release, click **Publish release**. To work on the release later, click **Save draft**.
-   ![Publish release and Draft release buttons](/assets/images/help/releases/release_buttons.png)
+   ![Publish release and Draft release buttons](/assets/images/2021/10/help/releases/release_buttons.png)
 
 
 ## Configuring automatically generated release notes
@@ -57,7 +57,7 @@ Automatically generated release notes provide an automated alternative to manual
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
 3. In the file name field, type `.github/release.yml` to create the `release.yml` file in the `.github` directory.
-  ![Create new file](/assets/images/help/releases/release-yml.png)
+  ![Create new file](/assets/images/2021/10/help/releases/release-yml.png)
 4. In the file, using the configuration options below, specify in YAML the pull request labels and authors you want to exclude from this release. You can also create new categories and list the pull request labels to be included in each of them.
 
 ### Configuration options

@@ -32,9 +32,9 @@ shortTitle: 管理类别
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.edit-categories %}
-1. 单击 **New category（新类别）**。 ![仓库讨论类别列表上方的"新类别"按钮](/assets/images/help/discussions/click-new-category-button.png)
-1. 编辑类别的表情符号、标题、说明和讨论格式。 有关讨论格式的更多信息，请参阅“[关于讨论](/discussions/collaborating-with-your-community-using-discussions/about-discussions#about-categories-and-formats-for-discussions)”。 ![新类别的表情符号、标题、说明和讨论格式](/assets/images/help/discussions/edit-category-details.png)
-1. 单击 **Create（创建）**。 ![新类别的"创建"按钮](/assets/images/help/discussions/new-category-click-create-button.png)
+1. 单击 **New category（新类别）**。 ![仓库讨论类别列表上方的"新类别"按钮](/assets/images/2021/10/help/discussions/click-new-category-button.png)
+1. 编辑类别的表情符号、标题、说明和讨论格式。 有关讨论格式的更多信息，请参阅“[关于讨论](/discussions/collaborating-with-your-community-using-discussions/about-discussions#about-categories-and-formats-for-discussions)”。 ![新类别的表情符号、标题、说明和讨论格式](/assets/images/2021/10/help/discussions/edit-category-details.png)
+1. 单击 **Create（创建）**。 ![新类别的"创建"按钮](/assets/images/2021/10/help/discussions/new-category-click-create-button.png)
 
 ## 编辑类别
 
@@ -42,10 +42,10 @@ shortTitle: 管理类别
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. 在列表中类别右侧，单击 {% octicon "pencil" aria-label="The pencil icon" %}。 ![仓库类别列表中类别右侧的编辑按钮](/assets/images/help/discussions/click-edit-for-category.png)
+1. 在列表中类别右侧，单击 {% octicon "pencil" aria-label="The pencil icon" %}。 ![仓库类别列表中类别右侧的编辑按钮](/assets/images/2021/10/help/discussions/click-edit-for-category.png)
 1. {% data reusables.discussions.edit-category-details %}
-![编辑现有类别的表情符号、标题、说明和讨论格式](/assets/images/help/discussions/edit-existing-category-details.png)
-1. 单击 **Save changes（保存更改）**。 ![现有类别的"保存更改"按钮](/assets/images/help/discussions/existing-category-click-save-changes-button.png)
+![编辑现有类别的表情符号、标题、说明和讨论格式](/assets/images/2021/10/help/discussions/edit-existing-category-details.png)
+1. 单击 **Save changes（保存更改）**。 ![现有类别的"保存更改"按钮](/assets/images/2021/10/help/discussions/existing-category-click-save-changes-button.png)
 
 ## 删除类别
 
@@ -53,6 +53,6 @@ shortTitle: 管理类别
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. 在列表中类别右侧，单击 {% octicon "trash" aria-label="The trash icon" %}。 ![仓库类别列表中类别右侧的垃圾桶按钮](/assets/images/help/discussions/click-delete-for-category.png)
-1. 使用下拉菜单，为要删除的类别中的任何讨论选择新类别。 ![删除现有类别时用于选择新类别的下拉菜单](/assets/images/help/discussions/choose-new-category.png)
-1. 单击 **Delete & Move（删除并移动）**。 ![删除现有类别时用于选择新类别的下拉菜单](/assets/images/help/discussions/click-delete-and-move-button.png)
+1. 在列表中类别右侧，单击 {% octicon "trash" aria-label="The trash icon" %}。 ![仓库类别列表中类别右侧的垃圾桶按钮](/assets/images/2021/10/help/discussions/click-delete-for-category.png)
+1. 使用下拉菜单，为要删除的类别中的任何讨论选择新类别。 ![删除现有类别时用于选择新类别的下拉菜单](/assets/images/2021/10/help/discussions/choose-new-category.png)
+1. 单击 **Delete & Move（删除并移动）**。 ![删除现有类别时用于选择新类别的下拉菜单](/assets/images/2021/10/help/discussions/click-delete-and-move-button.png)

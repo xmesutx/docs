@@ -2,5 +2,5 @@
 1. In the "Security" section of the sidebar, click **{% octicon "codescan" aria-label="The codescan icon" %} Code security and analysis**.
 {% else %}
 1. In the left sidebar, click **Security & analysis**.
-  !["Security & analysis" tab in organization settings](/assets/images/help/organizations/org-settings-security-and-analysis.png)
+  !["Security & analysis" tab in organization settings](/assets/images/2021/10/help/organizations/org-settings-security-and-analysis.png)
 {% endif %}

@@ -17,16 +17,16 @@ shortTitle: Adicionar um repositório
 
 {% mac %}
 
-1. No menu **File** (Arquivo), clique em **Add Local Repository** (Adicionar repositório local). ![Opção de menu Add Local Repository (Adicionar repositório local)](/assets/images/help/desktop/add-local-repository-mac.png)
-2. Clique em **Choose...** (Escolher...). Em seguida, navegue pela janela Finder (Localizador) até o local do repositório que você pretende adicionar. ![Campo Local Path (Caminho local) no app Mac](/assets/images/help/desktop/add-repo-choose-button-mac.png)
-4. Clique em **Add Repository** (Adicionar repositório). ![Botão Add repository (Adicionar repositório) no app Mac](/assets/images/help/desktop/add-repository-button-mac.png)
+1. No menu **File** (Arquivo), clique em **Add Local Repository** (Adicionar repositório local). ![Opção de menu Add Local Repository (Adicionar repositório local)](/assets/images/2021/10/help/desktop/add-local-repository-mac.png)
+2. Clique em **Choose...** (Escolher...). Em seguida, navegue pela janela Finder (Localizador) até o local do repositório que você pretende adicionar. ![Campo Local Path (Caminho local) no app Mac](/assets/images/2021/10/help/desktop/add-repo-choose-button-mac.png)
+4. Clique em **Add Repository** (Adicionar repositório). ![Botão Add repository (Adicionar repositório) no app Mac](/assets/images/2021/10/help/desktop/add-repository-button-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. No menu **File** (Arquivo), clique em **Add Local Repository** (Adicionar repositório local). ![Opção de menu Add Local Repository (Adicionar repositório local)](/assets/images/help/desktop/add-local-repository-windows.png)
-2. Clique em **Choose...** (Escolher...). Em seguida, navegue pela janela Windows Explorer (Explorador do Windows) até o local do repositório que você pretende adicionar. ![Campo Local Path (Caminho local) no app Windows](/assets/images/help/desktop/add-repo-choose-button-win.png)
-4. Clique em **Add Repository** (Adicionar repositório). ![Botão Add repository (Adicionar repositório) no app Windows](/assets/images/help/desktop/add-repository-button-windows.png)
+1. No menu **File** (Arquivo), clique em **Add Local Repository** (Adicionar repositório local). ![Opção de menu Add Local Repository (Adicionar repositório local)](/assets/images/2021/10/help/desktop/add-local-repository-windows.png)
+2. Clique em **Choose...** (Escolher...). Em seguida, navegue pela janela Windows Explorer (Explorador do Windows) até o local do repositório que você pretende adicionar. ![Campo Local Path (Caminho local) no app Windows](/assets/images/2021/10/help/desktop/add-repo-choose-button-win.png)
+4. Clique em **Add Repository** (Adicionar repositório). ![Botão Add repository (Adicionar repositório) no app Windows](/assets/images/2021/10/help/desktop/add-repository-button-windows.png)
 
 {% endwindows %}

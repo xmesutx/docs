@@ -45,8 +45,8 @@ Después de que se apruebe tu solicitud para un descuento de investigador o de m
 ### Actualizar una organización nueva
 
 {% data reusables.education.upgrade-page %}
-1. Da clic en {% octicon "plus" aria-label="The plus symbol" %}**Crear una organización**. ![Botón para crear una organizacion](/assets/images/help/education/create-org-button.png)
-3. Lee la información, posteriormente da clic en **Crear organización**. ![Botón Create organization (Crear organización)](/assets/images/help/education/create-organization-button.png)
+1. Da clic en {% octicon "plus" aria-label="The plus symbol" %}**Crear una organización**. ![Botón para crear una organizacion](/assets/images/2021/10/help/education/create-org-button.png)
+3. Lee la información, posteriormente da clic en **Crear organización**. ![Botón Create organization (Crear organización)](/assets/images/2021/10/help/education/create-organization-button.png)
 4. Debajo de "Elige tu plan", da clic en **Elegir {% data variables.product.prodname_free_team %}**.
 5. Sigue las propuestas para crear tu organización.
 {% data reusables.education.upgrade-page %}

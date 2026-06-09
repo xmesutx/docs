@@ -81,8 +81,8 @@ IdP グループを {% data variables.product.product_name %} Team に接続す�
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
-6. [Identity Provider Groups] で、ドロップダウンメニューを使用して最大 5 つまでアイデンティティプロバイダグループを選択します。 ![Drop-down menu to choose identity provider groups](/assets/images/help/teams/choose-an-idp-group.png){% elsif ghae %}
-6. [Identity Provider Group] で、ドロップダウンメニューを使用してリストからアイデンティティプロバイダグループを選択します。 ![Drop-down menu to choose identity provider group](/assets/images/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
+6. [Identity Provider Groups] で、ドロップダウンメニューを使用して最大 5 つまでアイデンティティプロバイダグループを選択します。 ![Drop-down menu to choose identity provider groups](/assets/images/2021/10/help/teams/choose-an-idp-group.png){% elsif ghae %}
+6. [Identity Provider Group] で、ドロップダウンメニューを使用してリストからアイデンティティプロバイダグループを選択します。 ![Drop-down menu to choose identity provider group](/assets/images/2021/10/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
 7. [**Save changes**] をクリックします。
 
 ## IdP グループをTeam から切断する
@@ -94,6 +94,6 @@ IdP グループを {% data variables.product.product_name %} Team に接続す�
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
-6. [Identity Provider Groups] で、切断したい IdP グループの右にある {% octicon "x" aria-label="X symbol" %} をクリックします。 ![Unselect a connected IdP group from the GitHub team](/assets/images/help/teams/unselect-idp-group.png){% elsif ghae %}
-6. [Identity Provider Groups] で、切断したい IdP グループの右にある {% octicon "x" aria-label="X symbol" %} をクリックします。 ![Unselect a connected IdP group from the GitHub team](/assets/images/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
+6. [Identity Provider Groups] で、切断したい IdP グループの右にある {% octicon "x" aria-label="X symbol" %} をクリックします。 ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/help/teams/unselect-idp-group.png){% elsif ghae %}
+6. [Identity Provider Groups] で、切断したい IdP グループの右にある {% octicon "x" aria-label="X symbol" %} をクリックします。 ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
 7. [**Save changes**] をクリックします。

@@ -183,7 +183,7 @@ echo "Inside group"
 echo "::endgroup::"
 ```
 
-![工作流运行日志中的可折叠组](/assets/images/actions-log-group.png)
+![工作流运行日志中的可折叠组](/assets/images/2021/10/actions-log-group.png)
 
 ## 在日志中屏蔽值
 

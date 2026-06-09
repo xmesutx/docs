@@ -29,7 +29,7 @@ hidden: true
 
 1. 在存储库名称下，使用 **{% octicon "code" aria-label="The code icon" %} 代码**下拉菜单，然后在**Codespaces（代码空间）**选项卡中，单击 {% octicon "plus" aria-label="The plus icon" %} **New codespace（新建代码空间）**。
 
-  ![新建代码空间按钮](/assets/images/help/codespaces/new-codespace-button.png)
+  ![新建代码空间按钮](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   如果您看不到此选项，则表示 {% data variables.product.prodname_codespaces %} 不适用于您的项目。 有关详细信息，请参阅 [访问 {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces)。
 
@@ -48,8 +48,8 @@ hidden: true
 
 
 {% data reusables.codespaces.command-palette-container %}
-3. 对于此示例，单击 **Java**。 实际上，您可以选择任何特定于 Java 的容器或 Java 和 Azure 函数等工具的组合。 ![从列表中选择 Java 选项](/assets/images/help/codespaces/add-java-prebuilt-container.png)
-4. 单击推荐的 Java 版本。 ![Java 版本选择](/assets/images/help/codespaces/add-java-version.png)
+3. 对于此示例，单击 **Java**。 实际上，您可以选择任何特定于 Java 的容器或 Java 和 Azure 函数等工具的组合。 ![从列表中选择 Java 选项](/assets/images/2021/10/help/codespaces/add-java-prebuilt-container.png)
+4. 单击推荐的 Java 版本。 ![Java 版本选择](/assets/images/2021/10/help/codespaces/add-java-version.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### 开发容器的剖析
@@ -153,7 +153,7 @@ RUN if [ "${INSTALL_NODE}" = "true" ]; then su vscode -c "source /usr/local/shar
 
 1. 在 Explorer 中，从树中选择 `devcontainer.json` 文件来打开它。 您可能需要展开 `.devcontainer` 文件夹才能看到它。
 
-  ![Explorer 中的 devcontainer.json 文件](/assets/images/help/codespaces/devcontainers-options.png)
+  ![Explorer 中的 devcontainer.json 文件](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. 在 `devcontainer.json` 文件中的 `extensions` 后面添加以下行。
 
@@ -177,7 +177,7 @@ RUN if [ "${INSTALL_NODE}" = "true" ]; then su vscode -c "source /usr/local/shar
 
 2. 项目启动时，您应该在右下角看到一个信息框，提示您连接到项目使用的端口。
 
-  ![端口转发信息框](/assets/images/help/codespaces/codespaces-port-toast.png)
+  ![端口转发信息框](/assets/images/2021/10/help/codespaces/codespaces-port-toast.png)
 
 ## 步骤 5：提交更改
 

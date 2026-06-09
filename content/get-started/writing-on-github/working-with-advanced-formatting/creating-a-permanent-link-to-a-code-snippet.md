@@ -19,7 +19,7 @@ shortTitle: Permanent links to code
 
 This type of permanent link will render as a code snippet only in the repository it originated in. In other repositories, the permalink code snippet will render as a URL.
 
-![Code snippet rendered in a comment](/assets/images/help/repository/rendered-code-snippet.png)
+![Code snippet rendered in a comment](/assets/images/2021/10/help/repository/rendered-code-snippet.png)
 
 {% tip %}
 
@@ -33,10 +33,10 @@ This type of permanent link will render as a code snippet only in the repository
     - To link to code from a pull request, navigate to the pull request and click {% octicon "diff" aria-label="The file diff icon" %} **Files changed**. Then, browse to the file that contains the code you want include in your comment, and click **View**.
 {% data reusables.repositories.choose-line-or-range %}
 4. To the left of the line or range of lines, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}. In the drop-down menu, click **Copy permalink**.
-  ![Kebab menu with option to copy a permanent link for a selected line](/assets/images/help/repository/copy-permalink-specific-line.png)
+  ![Kebab menu with option to copy a permanent link for a selected line](/assets/images/2021/10/help/repository/copy-permalink-specific-line.png)
 5. Navigate to the conversation where you want to link to the code snippet.
 6. Paste your permalink into a comment, and click **Comment**.
-  ![Pasted permalink in a comment in the same repository](/assets/images/help/repository/code-snippet-permalink-in-comment.png)
+  ![Pasted permalink in a comment in the same repository](/assets/images/2021/10/help/repository/code-snippet-permalink-in-comment.png)
 
 ## Linking to Markdown
 

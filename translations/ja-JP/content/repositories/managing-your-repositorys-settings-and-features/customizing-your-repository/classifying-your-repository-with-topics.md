@@ -20,7 +20,7 @@ shortTitle: Classify with topics
 
 Topics を利用すれば、特定の領域に関するリポジトリを調べたり、コントリビュートするプロジェクトを見つけたり、特定の問題に対する新たなソリューションを見つけ出すことができます。 Topics は、リポジトリのメインページに表示されます。 Topics 名をクリックして、{% ifversion fpt or ghec %}関連する Topics や、その Topics に分類される他のリポジトリのリストを見たりすることができます。{% else %}そのトピックの他のリポジトリを検索することができます。{% endif %}
 
-![Topics を表示しているテストリポジトリのメインページ](/assets/images/help/repository/os-repo-with-topics.png)
+![Topics を表示しているテストリポジトリのメインページ](/assets/images/2021/10/help/repository/os-repo-with-topics.png)
 
 最も利用されているトピックをブラウズするには https://github.com/topics/ にアクセスしてください。
 
@@ -35,6 +35,6 @@ Topics を利用すれば、特定の領域に関するリポジトリを調べ�
 ## Topics をリポジトリに追加する
 
 {% data reusables.repositories.navigate-to-repo %}
-2. [About] の右にある {% octicon "gear" aria-label="The Gear icon" %} をクリックします。 ![リポジトリのメイン ページにある歯車アイコン](/assets/images/help/repository/edit-repository-details-gear.png)
-3. [Topics] で、リポジトリに追加するトピックを入力してから、スペースを入力します。 ![トピックの入力フォーム](/assets/images/help/repository/add-topic-form.png)
-4. トピックの追加が完了したら、[**Save changes**] をクリックします。 ![[Save changes] の [Edit repository details] ボタン](/assets/images/help/repository/edit-repository-details-save-changes-button.png)
+2. [About] の右にある {% octicon "gear" aria-label="The Gear icon" %} をクリックします。 ![リポジトリのメイン ページにある歯車アイコン](/assets/images/2021/10/help/repository/edit-repository-details-gear.png)
+3. [Topics] で、リポジトリに追加するトピックを入力してから、スペースを入力します。 ![トピックの入力フォーム](/assets/images/2021/10/help/repository/add-topic-form.png)
+4. トピックの追加が完了したら、[**Save changes**] をクリックします。 ![[Save changes] の [Edit repository details] ボタン](/assets/images/2021/10/help/repository/edit-repository-details-save-changes-button.png)

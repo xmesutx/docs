@@ -18,7 +18,7 @@ topics:
 
 A navegação por código ajuda você a ler, navegar e compreender o código mostrando e vinculando definições de uma entidade nomeada correspondente a uma referência a essa entidade, além das referências correspondentes à definição de uma entidade.
 
-![Exibição da navegação de código](/assets/images/help/repository/code-navigation-popover.png)
+![Exibição da navegação de código](/assets/images/2021/12/help/repository/code-navigation-popover.png)
 
 A navegação pelo código usa a biblioteca de código aberto [`tree-sitter`](https://github.com/tree-sitter/tree-sitter). As estratégias de linguagem e navegação a seguir são compatíveis:
 
@@ -49,13 +49,13 @@ As versões futuras adicionarão *Código exato de navegação* para mais lingua
 
 Você pode pular para uma definição de uma função ou método dentro do mesmo repositório, clicando na chamada dessa função ou método em um arquivo.
 
-![Aba Jump-to-definition (Pular para a definição)](/assets/images/help/repository/jump-to-definition-tab.png)
+![Aba Jump-to-definition (Pular para a definição)](/assets/images/2021/10/help/repository/jump-to-definition-tab.png)
 
 ## Localizar todas as referências de uma função ou método
 
 Você pode encontrar todas as referências para uma função ou método dentro do mesmo repositório clicando na chamada da função ou método e, em seguida, clicando na aba **Referências**.
 
-![Aba Find all references (Localizar todas as referências)](/assets/images/help/repository/find-all-references-tab.png)
+![Aba Find all references (Localizar todas as referências)](/assets/images/2021/10/help/repository/find-all-references-tab.png)
 
 ## Navegação precisa e baseada em pesquisa
 
@@ -63,7 +63,7 @@ Algumas linguagens compatíveis com {% data variables.product.prodname_dotcom %}
 
 Se você não vir os resultados que você espera de uma consulta precisa de código de navegação, você poderá clicar no link "baseado em pesquisa" na janela exibida para realizar uma navegação baseada na pesquisa.
 
-![Link de navegação de código baseado em pesquisa](/assets/images/help/repository/search-based-code-navigation-link.png)
+![Link de navegação de código baseado em pesquisa](/assets/images/2021/12/help/repository/search-based-code-navigation-link.png)
 
 Se seus resultados precisos estiverem incorretos, você poderá enviar uma solicitação de suporte.
 

@@ -73,10 +73,10 @@ Como alternativa, puedes arrastrar y soltar un archivo de texto desde tu escrito
 
 1. Inicia sesión en {% data variables.product.product_name %}.
 2. Dirígete a tu {% data variables.gists.gist_homepage %}.
-3. Escribe una descripción opcional y un nombre para tu gist. ![Descripción del nombre del gist](/assets/images/help/gist/gist_name_description.png)
+3. Escribe una descripción opcional y un nombre para tu gist. ![Descripción del nombre del gist](/assets/images/2021/10/help/gist/gist_name_description.png)
 
-4. Escribe el texto de tu gist en el cuadro de texto para el gist. ![Cuadro de texto para el gist](/assets/images/help/gist/gist_text_box.png)
+4. Escribe el texto de tu gist en el cuadro de texto para el gist. ![Cuadro de texto para el gist](/assets/images/2021/10/help/gist/gist_text_box.png)
 
-5. Opcionalmente, para crear un gist {% ifversion ghae %}interno{% else %}público{% endif %}, da clic en {% octicon "triangle-down" aria-label="The downwards triangle icon" %} y luego en **Crear gist {% ifversion ghae %}interno{% else %}público{% endif %}**. ![Menú desplegable para seleccionar la visibilidad de un gist]{% ifversion ghae %}(/assets/images/help/gist/gist-visibility-drop-down-ae.png){% else %}(/assets/images/help/gist/gist-visibility-drop-down.png){% endif %}
+5. Opcionalmente, para crear un gist {% ifversion ghae %}interno{% else %}público{% endif %}, da clic en {% octicon "triangle-down" aria-label="The downwards triangle icon" %} y luego en **Crear gist {% ifversion ghae %}interno{% else %}público{% endif %}**. ![Menú desplegable para seleccionar la visibilidad de un gist]{% ifversion ghae %}(/assets/images/2021/10/help/gist/gist-visibility-drop-down-ae.png){% else %}(/assets/images/2021/10/help/gist/gist-visibility-drop-down.png){% endif %}
 
-6. Da clic en **Crear Gist Secreto** o en **Crear gist {% ifversion ghae %}interno{% else %}público{% endif %}**. ![Botón para crear gist](/assets/images/help/gist/create-secret-gist-button.png)
+6. Da clic en **Crear Gist Secreto** o en **Crear gist {% ifversion ghae %}interno{% else %}público{% endif %}**. ![Botón para crear gist](/assets/images/2021/10/help/gist/create-secret-gist-button.png)

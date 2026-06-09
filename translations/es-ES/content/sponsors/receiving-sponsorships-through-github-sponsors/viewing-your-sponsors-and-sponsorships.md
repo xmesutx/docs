@@ -45,7 +45,7 @@ Por ejemplo, puedes utilizar `https://github.com/sponsors/{account}?metadata_cam
 ## Ver tus patrocinadores y patrocinios
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
-1. Como alternativa, para filtrar los patrocinadores por nivel, utiliza el menú desplegable de **Filter** (Filtro), haz clic en **Active tiers** (Niveles activos) o **Retired tiers** (Niveles retirados) y selecciona un nivel. ![Menú desplegable para filtrar por nivel](/assets/images/help/sponsors/filter-drop-down.png)
+1. Como alternativa, para filtrar los patrocinadores por nivel, utiliza el menú desplegable de **Filter** (Filtro), haz clic en **Active tiers** (Niveles activos) o **Retired tiers** (Niveles retirados) y selecciona un nivel. ![Menú desplegable para filtrar por nivel](/assets/images/2021/10/help/sponsors/filter-drop-down.png)
 
 ## Visualizar la actividad de patrocinio reciente
 
@@ -58,5 +58,5 @@ Puedes exportar tus transacciones de patrocinio mensualmente. {% data variables.
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.activity-tab %}
-1. Da clic en {% octicon "download" aria-label="The download icon" %} **Exportar**. ![Botón de exportar](/assets/images/help/sponsors/export-all.png)
-1. Elige un periodo de tiempo y un formato para los datos que te gustaría exportar y luego haz clic en **Iniciar exportación**. ![Opciones para exportar datos](/assets/images/help/sponsors/export-your-sponsors.png)
+1. Da clic en {% octicon "download" aria-label="The download icon" %} **Exportar**. ![Botón de exportar](/assets/images/2021/10/help/sponsors/export-all.png)
+1. Elige un periodo de tiempo y un formato para los datos que te gustaría exportar y luego haz clic en **Iniciar exportación**. ![Opciones para exportar datos](/assets/images/2021/10/help/sponsors/export-your-sponsors.png)

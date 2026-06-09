@@ -30,7 +30,7 @@ To remove yourself from your organization:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 3. Click **Disable**.
-  ![Disable two-factor authentication button](/assets/images/help/2fa/disable-two-factor-authentication.png)
+  ![Disable two-factor authentication button](/assets/images/2021/10/help/2fa/disable-two-factor-authentication.png)
 
 ## Further reading
 

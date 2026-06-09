@@ -18,8 +18,8 @@ shortTitle: SAMLリカバリコードのダウンロード
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-5. [SAML single sign-on] の下にあるリカバリコードに関する注意書きの [**Save your recovery codes**] をクリックします。 ![リカバリコードを表示し保存するリンク](/assets/images/help/saml/saml_recovery_codes.png)
-6. [**Download**]、[**Print**]、または [**Copy**] をクリックしてリカバリコードを保存します。 ![リカバリコードをダウンロード、印刷、コピーするボタン](/assets/images/help/saml/saml_recovery_code_options.png)
+5. [SAML single sign-on] の下にあるリカバリコードに関する注意書きの [**Save your recovery codes**] をクリックします。 ![リカバリコードを表示し保存するリンク](/assets/images/2021/10/help/saml/saml_recovery_codes.png)
+6. [**Download**]、[**Print**]、または [**Copy**] をクリックしてリカバリコードを保存します。 ![リカバリコードをダウンロード、印刷、コピーするボタン](/assets/images/2021/10/help/saml/saml_recovery_code_options.png)
 
   {% note %}
 

@@ -25,6 +25,6 @@ GitHub Appをインストールしたユーザ、すなわちインストール�
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-1. サスペンドする{% data variables.product.prodname_github_app %}を選択します。 ![アプリケーションの選択](/assets/images/github-apps/github_apps_select-app.png)
+1. サスペンドする{% data variables.product.prodname_github_app %}を選択します。 ![アプリケーションの選択](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.github_apps_advanced %}
-6. インストールのサスペンド設定の隣にある、[**Suspend**]または[**Unsuspend**]をクリックします。 ![GitHub Appのサスペンド](/assets/images/github-apps/suspend-a-github-app.png)
+6. インストールのサスペンド設定の隣にある、[**Suspend**]または[**Unsuspend**]をクリックします。 ![GitHub Appのサスペンド](/assets/images/2021/10/github-apps/suspend-a-github-app.png)

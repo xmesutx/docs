@@ -20,7 +20,7 @@ shortTitle: Classificar com tópicos
 
 Com tópicos, você pode explorar repositórios em uma área de assunto específica, encontrar projetos com os quais contribuir e descobrir novas soluções para um problema específico. Os tópicos aparecem na página principal de um repositório. É possível clicar no nome de um tópico para {% ifversion fpt or ghec %}ver tópicos relacionados e uma lista de outros repositórios classificados com esse tópico{% else %}pesquisar outros repositórios com esse tópico{% endif %}.
 
-![Página principal do repositório de teste mostrando tópicos](/assets/images/help/repository/os-repo-with-topics.png)
+![Página principal do repositório de teste mostrando tópicos](/assets/images/2021/10/help/repository/os-repo-with-topics.png)
 
 Para procurar os tópicos mais usados, vá para https://github.com/topics/.
 
@@ -35,6 +35,6 @@ Você pode pesquisar repositórios que são associados a um tópico específico.
 ## Adicionar tópicos ao repositório
 
 {% data reusables.repositories.navigate-to-repo %}
-2. À direita de "Sobre", clique em {% octicon "gear" aria-label="The Gear icon" %}. ![Ícone de engrenagem na página principal de um repositório](/assets/images/help/repository/edit-repository-details-gear.png)
-3. Em "Tópicos", digite o tópico que você deseja adicionar ao seu repositório e, em seguida, digite um espaço. ![Formulário para inserir tópicos](/assets/images/help/repository/add-topic-form.png)
-4. Depois que acabar de adicionar tópicos, clique em **Salvar alterações**. ![Botão de "Salvar alterações" em "Editar detalhes do repositório"](/assets/images/help/repository/edit-repository-details-save-changes-button.png)
+2. À direita de "Sobre", clique em {% octicon "gear" aria-label="The Gear icon" %}. ![Ícone de engrenagem na página principal de um repositório](/assets/images/2021/10/help/repository/edit-repository-details-gear.png)
+3. Em "Tópicos", digite o tópico que você deseja adicionar ao seu repositório e, em seguida, digite um espaço. ![Formulário para inserir tópicos](/assets/images/2021/10/help/repository/add-topic-form.png)
+4. Depois que acabar de adicionar tópicos, clique em **Salvar alterações**. ![Botão de "Salvar alterações" em "Editar detalhes do repositório"](/assets/images/2021/10/help/repository/edit-repository-details-save-changes-button.png)

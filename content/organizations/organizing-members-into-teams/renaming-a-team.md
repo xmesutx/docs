@@ -19,5 +19,5 @@ topics:
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 5. Type a new name or description for the team.
-  ![Fields for team name and description](/assets/images/help/teams/team-name-description.png)
+  ![Fields for team name and description](/assets/images/2021/10/help/teams/team-name-description.png)
 6. Click **Update**.

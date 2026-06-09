@@ -49,7 +49,7 @@ Puedes buscar repositorios archivados. Para obtener más información, consulta 
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. En "Danger Zone" (Zona de peligro), haz clic en **Archive this repository** (Archivar este repositorio) o **Unarchive this repository** (Desarchivar este repositorio. este repositorio). ![Botón Archive this repository (Archivar este repositorio)](/assets/images/help/repository/archive-repository.png)
+3. En "Danger Zone" (Zona de peligro), haz clic en **Archive this repository** (Archivar este repositorio) o **Unarchive this repository** (Desarchivar este repositorio. este repositorio). ![Botón Archive this repository (Archivar este repositorio)](/assets/images/2021/10/help/repository/archive-repository.png)
 4. Lee las advertencias.
-5. Escribe el nombre del repositorio que deseas archivar o desarchivar. ![Advertencias para archivar el repositorio](/assets/images/help/repository/archive-repository-warnings.png)
+5. Escribe el nombre del repositorio que deseas archivar o desarchivar. ![Advertencias para archivar el repositorio](/assets/images/2021/10/help/repository/archive-repository-warnings.png)
 6. Haz clic en **I understand the consequences, archive this repository** (Comprendo las consecuencias, archivar este repositorio).

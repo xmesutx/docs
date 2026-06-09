@@ -35,11 +35,11 @@ You can use more than one issue to track the same {% data variables.product.prod
 
 - The code scanning alerts list page will show which alerts are tracked in issues so that you can view at a glance which alerts still require processing.
 
-  ![Tracked in pill on code scanning alert page](/assets/images/help/repository/code-scanning-alert-list-tracked-issues.png)
+  ![Tracked in pill on code scanning alert page](/assets/images/2021/11/help/repository/code-scanning-alert-list-tracked-issues.png)
 
 - A "tracked in" section will also show in the corresponding alert page.
 
-  ![Tracked in section on code scanning alert page](/assets/images/help/repository/code-scanning-alert-tracked-in-pill.png)
+  ![Tracked in section on code scanning alert page](/assets/images/2021/11/help/repository/code-scanning-alert-tracked-in-pill.png)
 
 - On the tracking issue, {% data variables.product.prodname_dotcom %} displays a security badge icon in the task list and on the hovercard.
 
@@ -51,7 +51,7 @@ You can use more than one issue to track the same {% data variables.product.prod
 
   The color of the icon is grey because an alert has a status of "open" or "closed" on every branch. The issue tracks an alert, so the alert cannot have a single open/closed state in the issue. If the alert is closed on one branch, the icon color will not change.
 
-  ![Hovercard in tracking issue](/assets/images/help/repository/code-scanning-tracking-issue-hovercard.png)
+  ![Hovercard in tracking issue](/assets/images/2021/11/help/repository/code-scanning-tracking-issue-hovercard.png)
 
 The status of the tracked alert won't change if you change the checkbox state of the corresponding task list item (checked/unchecked) in the issue.
 
@@ -64,7 +64,7 @@ The status of the tracked alert won't change if you change the checkbox state of
 {% data reusables.code-scanning.explore-alert %}
 1. Optionally, to find the alert to track, you can use the free-text search or the drop-down menus to filter and locate the alert. 更多信息请参阅“[管理仓库的代码扫描警报](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/managing-code-scanning-alerts-for-your-repository#filtering-code-scanning-alerts)”。
 {% endif %}
-1. Towards the top of the page, on the right side, click **Create issue**. ![Create a tracking issue for the code scanning alert](/assets/images/help/repository/code-scanning-create-issue-for-alert.png)
+1. Towards the top of the page, on the right side, click **Create issue**. ![Create a tracking issue for the code scanning alert](/assets/images/2021/11/help/repository/code-scanning-create-issue-for-alert.png)
    {% data variables.product.prodname_dotcom %} automatically creates an issue to track the alert and adds the alert as a task list item.
    {% data variables.product.prodname_dotcom %} prepopulates the issue:
    - The title contains the name of the {% data variables.product.prodname_code_scanning %} alert.
@@ -75,5 +75,5 @@ The status of the tracked alert won't change if you change the checkbox state of
     **Warning:** You may want to edit the title of the issue as it may expose security information. You can also edit the body of the issue, but do not edit the task list item or the issue will no longer track the alert.
    {% endwarning %}
 
-   ![New tracking issue for the code scanning alert](/assets/images/help/repository/code-scanning-new-tracking-issue.png)
+   ![New tracking issue for the code scanning alert](/assets/images/2021/11/help/repository/code-scanning-new-tracking-issue.png)
 3. Click **Submit new issue**.

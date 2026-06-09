@@ -24,9 +24,9 @@ Ao criar um novo repositório em {% data variables.product.product_location %}, 
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.repo-tab %}
-3. Em "Branch padrão do repositório", clique em **Alterar o nome do branch-padrão agora**. ![Botão de sobrescrever](/assets/images/help/settings/repo-default-name-button.png)
-4. Digite o nome-padrão que você gostaria de usar para novos branches. ![Caixa de texto para digitar o nome-padrão](/assets/images/help/settings/repo-default-name-text.png)
-5. Clique em **Atualizar**. ![Botão de atualizar](/assets/images/help/settings/repo-default-name-update.png)
+3. Em "Branch padrão do repositório", clique em **Alterar o nome do branch-padrão agora**. ![Botão de sobrescrever](/assets/images/2021/10/help/settings/repo-default-name-button.png)
+4. Digite o nome-padrão que você gostaria de usar para novos branches. ![Caixa de texto para digitar o nome-padrão](/assets/images/2021/10/help/settings/repo-default-name-text.png)
+5. Clique em **Atualizar**. ![Botão de atualizar](/assets/images/2021/10/help/settings/repo-default-name-update.png)
 
 ## Leia mais
 

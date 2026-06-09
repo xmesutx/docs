@@ -54,9 +54,9 @@ Enterprise 内のすべての Organization に対して {% data variables.produc
 {% data reusables.enterprise-accounts.actions-tab %}
 1. [**Policies**] で [**Allow select actions**] を選択し、必要なアクションをリストに追加します。
    {%- ifversion ghes or ghae-issue-5094 %}
-   ![許可リストにアクションを追加する](/assets/images/help/organizations/enterprise-actions-policy-allow-list.png)
+   ![許可リストにアクションを追加する](/assets/images/2021/10/help/organizations/enterprise-actions-policy-allow-list.png)
    {%- elsif ghae %}
-   ![許可リストにアクションを追加する](/assets/images/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
+   ![許可リストにアクションを追加する](/assets/images/2021/10/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
    {%- endif %}
 {% endif %}
 
@@ -124,7 +124,7 @@ You can set the default permissions for the `GITHUB_TOKEN` in the settings for y
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.actions-tab %}
-1. [**Workflow permissions**]の下で、`GITHUB_TOKEN`にすべてのスコープに対する読み書きアクセスを持たせたいか、あるいは`contents`スコープに対する読み取りアクセスだけを持たせたいかを選択してください。 ![Set GITHUB_TOKEN permissions for this enterprise](/assets/images/help/settings/actions-workflow-permissions-enterprise.png)
+1. [**Workflow permissions**]の下で、`GITHUB_TOKEN`にすべてのスコープに対する読み書きアクセスを持たせたいか、あるいは`contents`スコープに対する読み取りアクセスだけを持たせたいかを選択してください。 ![Set GITHUB_TOKEN permissions for this enterprise](/assets/images/2021/10/help/settings/actions-workflow-permissions-enterprise.png)
 1. **Save（保存）**をクリックして、設定を適用してください。
 
 {% endif %}

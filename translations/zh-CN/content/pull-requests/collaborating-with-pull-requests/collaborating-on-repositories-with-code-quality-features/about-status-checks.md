@@ -18,7 +18,7 @@ topics:
 
 状态检查基于针对您每次向仓库的推送而运行的外部流程，例如持续集成构建。 您可以在拉取请求的个别提交旁边看到状态检查的*待处理*、*通过*或*失败*状态。
 
-![提交和状态列表](/assets/images/help/pull_requests/commit-list-statuses.png)
+![提交和状态列表](/assets/images/2021/10/help/pull_requests/commit-list-statuses.png)
 
 对仓库具有写入权限的任何人都可为仓库中的任何状态检查设置状态。
 
@@ -41,7 +41,7 @@ _Checks_ are different from _statuses_ in that they provide line annotations, mo
 
 在仓库中设置_检查_时，拉取请求会有一个 **Checks（检查）**选项卡，从中可以查看状态检查的详细构建输出和重新运行失败的检查。
 
-![拉取请求中的状态检查](/assets/images/help/pull_requests/checks.png)
+![拉取请求中的状态检查](/assets/images/2021/10/help/pull_requests/checks.png)
 
 {% note %}
 
@@ -51,11 +51,11 @@ _Checks_ are different from _statuses_ in that they provide line annotations, mo
 
 当提交中的特定行造成检查失败时，您会在拉取请求的 **Files（文件）**选项卡中相关代码旁边看到有关失败、警告或通知的详细信息。
 
-![状态检查详细信息](/assets/images/help/pull_requests/checks-detailed.png)
+![状态检查详细信息](/assets/images/2021/10/help/pull_requests/checks-detailed.png)
 
 您可以使用 **Conversation（对话）**选项卡下的提交下拉菜单，浏览拉取请求中不同提交的检查摘要。
 
-![下拉菜单中不同提交的检查摘要](/assets/images/help/pull_requests/checks-summary-for-various-commits.png)
+![下拉菜单中不同提交的检查摘要](/assets/images/2021/10/help/pull_requests/checks-summary-for-various-commits.png)
 
 ### 跳过和申请个别提交的检查
 

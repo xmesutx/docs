@@ -26,7 +26,7 @@ Se você escolheu um plano pago, a assinatura de seu app será paga na data de c
 {% data reusables.marketplace.confirm-install-account-personal %}
 {% data reusables.marketplace.add-payment-method-personal %}
 {% data reusables.marketplace.complete-order-begin-installation %}
-8. Decida se quer dar acesso ao app a todos ou apenas determinados repositórios e selecione **All repositories** (Todos os repositórios) ou **Only select repositories** (Somente repositórios selecionados). ![Botões com opções para instalar um app em todos ou apenas determinados repositórios](/assets/images/help/marketplace/marketplace-choose-repo-install-option.png)
+8. Decida se quer dar acesso ao app a todos ou apenas determinados repositórios e selecione **All repositories** (Todos os repositórios) ou **Only select repositories** (Somente repositórios selecionados). ![Botões com opções para instalar um app em todos ou apenas determinados repositórios](/assets/images/2021/10/help/marketplace/marketplace-choose-repo-install-option.png)
 {% data reusables.marketplace.select-installation-repos %}
 {% data reusables.marketplace.review-app-perms-install %}
 

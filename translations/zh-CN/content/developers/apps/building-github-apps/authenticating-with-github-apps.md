@@ -29,7 +29,7 @@ shortTitle: 身份验证
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-5. 在“Private keys（私钥）”中，单击 **Generate a private key（生成私钥）**。 ![生成私钥](/assets/images/github-apps/github_apps_generate_private_keys.png)
+5. 在“Private keys（私钥）”中，单击 **Generate a private key（生成私钥）**。 ![生成私钥](/assets/images/2021/10/github-apps/github_apps_generate_private_keys.png)
 6. 您将看到一个以 PEM 格式下载至您的计算机的私钥。 确保将此文件存储下来，因为 GitHub 仅存储密钥的公共部分。
 
 {% note %}
@@ -43,7 +43,7 @@ shortTitle: 身份验证
 
 要验证私钥：
 
-1. 在 {% data variables.product.prodname_github_app %} 开发者设置页面的“私钥”部分，查找要验证的私钥和公钥对的指纹。 更多信息请参阅[生成私钥](#generating-a-private-key)。 ![私钥指纹](/assets/images/github-apps/github_apps_private_key_fingerprint.png)
+1. 在 {% data variables.product.prodname_github_app %} 开发者设置页面的“私钥”部分，查找要验证的私钥和公钥对的指纹。 更多信息请参阅[生成私钥](#generating-a-private-key)。 ![私钥指纹](/assets/images/2021/10/github-apps/github_apps_private_key_fingerprint.png)
 2. 使用以下命令在本地生成私钥指纹 (PEM)：
     ```shell
     $ openssl rsa -in <em>PATH_TO_PEM_FILE</em> -pubout -outform DER | openssl sha256 -binary | openssl base64
@@ -51,7 +51,7 @@ shortTitle: 身份验证
 3. 比较本地生成的指纹结果与 {% data variables.product.product_name %} 中显示的指纹。
 
 ## 删除私钥
-您可以通过删除功能删除丢失或被盗的私钥，但至少必须有一个私钥。 如果只有一个密钥，需要生成一个新钥，然后才能删除旧钥。 ![删除最后一个私钥](/assets/images/github-apps/github_apps_delete_key.png)
+您可以通过删除功能删除丢失或被盗的私钥，但至少必须有一个私钥。 如果只有一个密钥，需要生成一个新钥，然后才能删除旧钥。 ![删除最后一个私钥](/assets/images/2021/10/github-apps/github_apps_delete_key.png)
 
 ## 验证为 {% data variables.product.prodname_github_app %}
 

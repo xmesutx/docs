@@ -31,6 +31,6 @@ Across all organizations owned by your enterprise, you can enable or disable tea
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. 在左侧边栏中，单击 **Teams（团队）**。 ![Teams tab in the enterprise sidebar](/assets/images/help/business-accounts/settings-teams-tab.png)
+3. 在左侧边栏中，单击 **Teams（团队）**。 ![Teams tab in the enterprise sidebar](/assets/images/2021/10/help/business-accounts/settings-teams-tab.png)
 4. 在“Team discussions”（团队讨论）下，审查有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. 在“Team discussions”（团队讨论）下，使用下拉菜单并选择策略。 ![带有团队讨论策略按钮的下拉菜单](/assets/images/help/business-accounts/team-discussion-policy-drop-down.png)
+5. 在“Team discussions”（团队讨论）下，使用下拉菜单并选择策略。 ![带有团队讨论策略按钮的下拉菜单](/assets/images/2021/10/help/business-accounts/team-discussion-policy-drop-down.png)

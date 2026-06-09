@@ -74,15 +74,15 @@ Se você deseja criar um codespace para um repositório pertencente à sua conta
 {% data reusables.repositories.navigate-to-repo %}
 2. No nome do repositório, use o menu suspenso "Branch", e selecione o branch para o qual você deseja criar um codespace.
 
-   ![Menu suspenso do branch](/assets/images/help/codespaces/branch-drop-down.png)
+   ![Menu suspenso do branch](/assets/images/2021/10/help/codespaces/branch-drop-down.png)
 
 3. No nome do repositório, use o menu suspenso **Código de {% octicon "code" aria-label="The code icon" %}** e na aba **Codespaces** de código, clique em {% octicon "plus" aria-label="The plus icon" %} **Novo codespace**.
 
-   ![Botão de codespace novo](/assets/images/help/codespaces/new-codespace-button.png)
+   ![Botão de codespace novo](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
    Se você é integrante de uma organização e está criando um codespace em um repositório pertencente a essa organização, você poderá selecionar a opção de um tipo de máquina diferente. Na caixa de diálogo, escolha um tipo de máquina e, em seguida, clique em **Criar codespace**.
 
-   ![Escolha do tipo da máquina](/assets/images/help/codespaces/choose-custom-machine-type.png)
+   ![Escolha do tipo da máquina](/assets/images/2021/10/help/codespaces/choose-custom-machine-type.png)
 
    {% data reusables.codespaces.codespaces-machine-type-availability %}
 

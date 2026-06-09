@@ -74,15 +74,15 @@ shortTitle: Create a codespace
 {% data reusables.repositories.navigate-to-repo %}
 2. 在仓库名称下，使用“Branch（分支）”下拉菜单选择您要为其创建代码的分支。
 
-   ![分支下拉菜单](/assets/images/help/codespaces/branch-drop-down.png)
+   ![分支下拉菜单](/assets/images/2021/10/help/codespaces/branch-drop-down.png)
 
 3. 在存储库名称下，使用 **{% octicon "code" aria-label="The code icon" %} 代码**下拉菜单，然后在**Codespaces（代码空间）**选项卡中，单击 {% octicon "plus" aria-label="The plus icon" %} **New codespace（新建代码空间）**。
 
-   ![新建代码空间按钮](/assets/images/help/codespaces/new-codespace-button.png)
+   ![新建代码空间按钮](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
    如果您是组织的成员，并且在该组织拥有的仓库上创建代码空间，您可以选择不同机器类型的选项。 从对话框中选择机器类型，然后点击 **Create codespace（创建代码空间）**。
 
-   ![机器类型选择](/assets/images/help/codespaces/choose-custom-machine-type.png)
+   ![机器类型选择](/assets/images/2021/10/help/codespaces/choose-custom-machine-type.png)
 
    {% data reusables.codespaces.codespaces-machine-type-availability %}
 

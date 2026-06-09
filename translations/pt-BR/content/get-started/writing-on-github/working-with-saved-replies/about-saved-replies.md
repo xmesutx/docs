@@ -12,7 +12,7 @@ versions:
   ghec: '*'
 ---
 
-![Respostas salvas](/assets/images/help/settings/saved-replies.png)
+![Respostas salvas](/assets/images/2021/10/help/settings/saved-replies.png)
 
 As respostas salvas permitem criar uma resposta reutilizável para problemas e pull requests. Ganhe tempo criando uma resposta salva para as respostas que você usa com mais frequência.
 

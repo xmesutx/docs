@@ -24,8 +24,8 @@ Quando você reabre um quadro de projeto, tem a opção de *sincronizar* a autom
 1. Navegue até o quadro de projeto que deseja reabrir.
 {% data reusables.project-management.click-menu %}
 3. Escolha se deseja sincronizar a automação do quadro de projeto ao reabri-lo.
-    - Para reabrir o quadro de projeto e sincronizar a automação, clique em **Reopen and sync project** (Reabrir e sincronizar projeto). ![Selecione o botão "Reopen and resync project" (Reabrir e sincronizar projeto)](/assets/images/help/projects/reopen-and-sync-project.png)
-    - Para reabrir o quadro de projeto sem sincronizar a automação, use o menu suspenso reopen (reabrir) e clique em **Reopen only** (Somente reabrir). Em seguida, clique em **Reopen only** (Somente reabrir). ![Menu suspenso de reabertura de quadro de projeto fechado](/assets/images/help/projects/reopen-closed-project-board-drop-down-menu.png)
+    - Para reabrir o quadro de projeto e sincronizar a automação, clique em **Reopen and sync project** (Reabrir e sincronizar projeto). ![Selecione o botão "Reopen and resync project" (Reabrir e sincronizar projeto)](/assets/images/2021/10/help/projects/reopen-and-sync-project.png)
+    - Para reabrir o quadro de projeto sem sincronizar a automação, use o menu suspenso reopen (reabrir) e clique em **Reopen only** (Somente reabrir). Em seguida, clique em **Reopen only** (Somente reabrir). ![Menu suspenso de reabertura de quadro de projeto fechado](/assets/images/2021/10/help/projects/reopen-closed-project-board-drop-down-menu.png)
 
 ## Leia mais
 

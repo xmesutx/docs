@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![Botão Choose (Escolher)](/assets/images/help/desktop/clone-choose-button-mac.png)
+  ![Botão Choose (Escolher)](/assets/images/2021/10/help/desktop/clone-choose-button-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Botão Choose (Escolher)](/assets/images/help/desktop/clone-choose-button-win.png)
+  ![Botão Choose (Escolher)](/assets/images/2021/10/help/desktop/clone-choose-button-win.png)
 
   {% endwindows %}

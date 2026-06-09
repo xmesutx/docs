@@ -58,8 +58,8 @@ topics:
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-3. 在“Authentication”下，选择 **LDAP**。 ![选择 LDAP](/assets/images/enterprise/management-console/ldap-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![选中 LDAP 内置身份验证复选框](/assets/images/enterprise/management-console/ldap-built-in-authentication.png)
+3. 在“Authentication”下，选择 **LDAP**。 ![选择 LDAP](/assets/images/2021/10/enterprise/management-console/ldap-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![选中 LDAP 内置身份验证复选框](/assets/images/2021/10/enterprise/management-console/ldap-built-in-authentication.png)
 5. 添加您的配置设置。
 
 ## LDAP 属性
@@ -88,7 +88,7 @@ topics:
 
 在您的 LDAP 设置中选择 **Disable username and password authentication for Git operations**，为 Git 权限强制使用个人访问令牌或 SSH 密钥，这样有助于防止您的服务器被 LDAP 身份验证请求过载。 我们建议使用此设置，因为响应慢的 LDAP 服务器是性能问题和故障的常见来源，尤其是在遇到轮询导致的大量请求时。
 
-![为 Git 禁用 LDAP 密码身份验证的复选框](/assets/images/enterprise/management-console/ldap-disable-password-auth-for-git.png)
+![为 Git 禁用 LDAP 密码身份验证的复选框](/assets/images/2021/10/enterprise/management-console/ldap-disable-password-auth-for-git.png)
 
 选择此选项时，如果用户通过命令行尝试为 Git 操作使用密码，他们将收到一条错误消息，内容为 `Password authentication is not allowed for Git operations. You must use a personal access token.`
 
@@ -96,7 +96,7 @@ topics:
 
 在您的 LDAP 设置中选择 **Enable LDAP certificate verification**，验证您用于 TLS 的 LDAP 服务器证书。
 
-![LDAP 证书验证复选框](/assets/images/enterprise/management-console/ldap-enable-certificate-verification.png)
+![LDAP 证书验证复选框](/assets/images/2021/10/enterprise/management-console/ldap-enable-certificate-verification.png)
 
 选择此选项时，将对证书进行验证，以确保：
 - 如果证书至少包含一个使用者可选名称 (SAN)，则其中的一个 SAN 将匹配 LDAP 主机名。 否则，常用名 (CN) 将匹配 LDAP 主机名。
@@ -115,7 +115,7 @@ topics:
 
 要启用 LDAP 同步，请在您的 LDAP 设置中选择 **Synchronize Emails（同步电子邮件）**、**Synchronize SSH Keys（同步 SSH 密钥）**或 **Synchronize GPG Keys（同步 GPG 密钥）**。
 
-![Synchronization 复选框](/assets/images/enterprise/management-console/ldap-synchronize.png)
+![Synchronization 复选框](/assets/images/2021/10/enterprise/management-console/ldap-synchronize.png)
 
 启用 LDAP 同步后，某个同步作业将以指定的时间间隔运行，在每个用户帐户上执行以下操作：
 
@@ -177,8 +177,8 @@ topics:
 
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. 在左侧边栏中，单击 **LDAP users**。 ![LDAP users 选项卡](/assets/images/enterprise/site-admin-settings/ldap-users-tab.png)
-4. 要搜索用户，请输入完整或部分用户名，然后单击 **Search**。 现有用户将显示在搜索结果中。 如果用户不存在，请单击 **Create** 以配置新用户帐户。 ![LDAP 搜索](/assets/images/enterprise/site-admin-settings/ldap-users-search.jpg)
+3. 在左侧边栏中，单击 **LDAP users**。 ![LDAP users 选项卡](/assets/images/2021/10/enterprise/site-admin-settings/ldap-users-tab.png)
+4. 要搜索用户，请输入完整或部分用户名，然后单击 **Search**。 现有用户将显示在搜索结果中。 如果用户不存在，请单击 **Create** 以配置新用户帐户。 ![LDAP 搜索](/assets/images/2022/02/enterprise/site-admin-settings/ldap-users-search.jpg)
 
 ## 更新 LDAP 帐户
 
@@ -196,7 +196,7 @@ topics:
 {% data reusables.enterprise_site_admin_settings.click-user %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-5. 在“LDAP”下，单击 **Sync now**，使用您的 LDAP 服务器中的数据手动更新帐户。 ![LDAP Sync now 按钮](/assets/images/enterprise/site-admin-settings/ldap-sync-now-button.png)
+5. 在“LDAP”下，单击 **Sync now**，使用您的 LDAP 服务器中的数据手动更新帐户。 ![LDAP Sync now 按钮](/assets/images/2021/10/enterprise/site-admin-settings/ldap-sync-now-button.png)
 
 您也可以[使用 API 触发手动同步](/enterprise/{{ currentVersion }}/user/rest/reference/enterprise-admin#ldap)。
 

@@ -22,5 +22,5 @@ Una vez habilitada, los propietarios de la organización y las personas con acce
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. En "Issue deletion" (Eliminación de la propuesta), selecciona **Permitir que los miembros eliminen propuestas para esta organización**. ![Casilla de verificación para permitir que las personas eliminen propuestas](/assets/images/help/settings/issue-deletion.png)
+5. En "Issue deletion" (Eliminación de la propuesta), selecciona **Permitir que los miembros eliminen propuestas para esta organización**. ![Casilla de verificación para permitir que las personas eliminen propuestas](/assets/images/2021/10/help/settings/issue-deletion.png)
 6. Haz clic en **Save ** (guardar).

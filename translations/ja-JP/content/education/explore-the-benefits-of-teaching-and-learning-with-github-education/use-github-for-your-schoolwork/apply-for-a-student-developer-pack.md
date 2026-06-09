@@ -36,7 +36,7 @@ shortTitle: Apply for a student pack
 ## {% data variables.product.prodname_student_pack %} への応募
 
 {% data reusables.education.benefits-page %}
-3. [Which best describes your academic status?（学業の状況を最もよく述べているのは？）] の下で、[** Student（学生）**] を選択してください。 ![学業の状況を選択](/assets/images/help/education/academic-status-student.png)
+3. [Which best describes your academic status?（学業の状況を最もよく述べているのは？）] の下で、[** Student（学生）**] を選択してください。 ![学業の状況を選択](/assets/images/2021/10/help/education/academic-status-student.png)
 {% data reusables.education.select-email-address %}
 {% data reusables.education.upload-proof-status %}
 {% data reusables.education.school-name %}
@@ -47,7 +47,7 @@ shortTitle: Apply for a student pack
 
 {% data variables.product.prodname_student_pack %}アクセスが期限切れになった場合、まだあなたが適格であれば再応募できる場合があります。ただし、弊社のパートナーからの提供されているものの中には更新できないものがあります。 弊社のパートナーから期限付きで提供されているもののほとんどは、セットアップ後に開始されます。 To reapply, simply return to https://education.github.com, click your profile picture, then click **Reverify your academic affiliation**.
 
-![Menu option to reverify your academic affiliation](/assets/images/help/education/reverify-academic-affiliation.png)
+![Menu option to reverify your academic affiliation](/assets/images/2022/02/help/education/reverify-academic-affiliation.png)
 
 詳しい情報については[{% data variables.product.prodname_student_pack %}](https://education.github.com/pack)ページを参照してください。
 

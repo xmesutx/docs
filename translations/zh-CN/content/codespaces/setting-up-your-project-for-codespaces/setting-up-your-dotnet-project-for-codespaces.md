@@ -30,7 +30,7 @@ hidden: true
 
 1. 在存储库名称下，使用 **{% octicon "code" aria-label="The code icon" %} 代码**下拉菜单，然后在**Codespaces（代码空间）**选项卡中，单击 {% octicon "plus" aria-label="The plus icon" %} **New codespace（新建代码空间）**。
 
-  ![新建代码空间按钮](/assets/images/help/codespaces/new-codespace-button.png)
+  ![新建代码空间按钮](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   如果您看不到此选项，则表示 {% data variables.product.prodname_codespaces %} 不适用于您的项目。 有关详细信息，请参阅 [访问 {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces)。
 
@@ -49,9 +49,9 @@ hidden: true
 
 
 {% data reusables.codespaces.command-palette-container %}
-2. 对于此示例，单击 **C# (.NET)**。 如果需要其他功能，您可以选择任何特定于 C# (.NET) 或工具（如 C# (.NET) 和 MS SQL）组合的容器。 ![从列表中选择 C# (.NET) 选项](/assets/images/help/codespaces/add-dotnet-prebuilt-container.png)
-3. 单击推荐的 .NET 版本。 ![.NET 版本选择](/assets/images/help/codespaces/add-dotnet-version.png)
-4. 接受默认选项，将 Node.js 添加到您的自定义中。 ![添加 Node.js 选择](/assets/images/help/codespaces/dotnet-options.png)
+2. 对于此示例，单击 **C# (.NET)**。 如果需要其他功能，您可以选择任何特定于 C# (.NET) 或工具（如 C# (.NET) 和 MS SQL）组合的容器。 ![从列表中选择 C# (.NET) 选项](/assets/images/2021/10/help/codespaces/add-dotnet-prebuilt-container.png)
+3. 单击推荐的 .NET 版本。 ![.NET 版本选择](/assets/images/2021/10/help/codespaces/add-dotnet-version.png)
+4. 接受默认选项，将 Node.js 添加到您的自定义中。 ![添加 Node.js 选择](/assets/images/2021/10/help/codespaces/dotnet-options.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### 开发容器的剖析
@@ -171,7 +171,7 @@ RUN if [ "$INSTALL_AZURE_CLI" = "true" ]; then bash /tmp/library-scripts/azcli-d
 
 1. 在 Explorer 中，展开 `.devcontainer` 文件夹，从树中选择 `devcontainer.json` 文件并打开它。
 
-  ![Explorer 中的 devcontainer.json 文件](/assets/images/help/codespaces/devcontainers-options.png)
+  ![Explorer 中的 devcontainer.json 文件](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. 更新 `devcontainer.json` 文件中的 `extensions` 列表，以添加一些在处理项目时有用的扩展。
 
@@ -195,7 +195,7 @@ RUN if [ "$INSTALL_AZURE_CLI" = "true" ]; then bash /tmp/library-scripts/azcli-d
 
 5. 通过验证是否安装了 "Code Spell Checker" 扩展，检查更改是否成功应用。
 
-    ![扩展列表](/assets/images/help/codespaces/dotnet-extensions.png)
+    ![扩展列表](/assets/images/2021/10/help/codespaces/dotnet-extensions.png)
 
 ## 步骤 4：运行应用程序
 
@@ -205,7 +205,7 @@ RUN if [ "$INSTALL_AZURE_CLI" = "true" ]; then bash /tmp/library-scripts/azcli-d
 
 2. 项目启动时，您应该在右下角看到一个信息框，提示您连接到项目使用的端口。
 
-  ![端口转发信息框](/assets/images/help/codespaces/python-port-forwarding.png)
+  ![端口转发信息框](/assets/images/2021/10/help/codespaces/python-port-forwarding.png)
 
 ## 步骤 5：提交更改
 

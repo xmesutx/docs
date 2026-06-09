@@ -16,7 +16,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-1. Para pesquisar as versões do repositório, no campo de pesquisa na parte superior da página de Versões, digite a sua consulta e pressione **Enter**. ![Versões no campo de pesquisa](/assets/images/help/releases/search-releases.png)
+1. Para pesquisar as versões do repositório, no campo de pesquisa na parte superior da página de Versões, digite a sua consulta e pressione **Enter**. ![Versões no campo de pesquisa](/assets/images/2021/10/help/releases/search-releases.png)
 
 ## Pesquisar sintaxe para versões em um repositório
 

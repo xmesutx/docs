@@ -31,5 +31,5 @@ topics:
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-4. **Private mode（プライベートモード）**を選択してください。 ![プライベートモードを有効にするためのチェックボックス](/assets/images/enterprise/management-console/private-mode-checkbox.png)
+4. **Private mode（プライベートモード）**を選択してください。 ![プライベートモードを有効にするためのチェックボックス](/assets/images/2021/10/enterprise/management-console/private-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}

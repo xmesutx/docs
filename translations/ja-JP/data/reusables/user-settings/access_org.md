@@ -1,1 +1,1 @@
-2. Click the name of your organization. ![Organizationのリスト中のOrganization名](/assets/images/help/organizations/org-settings-link.png)
+2. Click the name of your organization. ![Organizationのリスト中のOrganization名](/assets/images/2021/10/help/organizations/org-settings-link.png)

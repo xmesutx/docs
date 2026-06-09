@@ -22,7 +22,7 @@ Collaborators do not receive a notification when you delete an issue. When visit
 
 1. Navigate to the issue you want to delete.
 2. On the right side bar, under "Notifications", click **Delete issue**.
-!["Delete issue" text highlighted on bottom of the issue page's right side bar](/assets/images/help/issues/delete-issue.png)
+!["Delete issue" text highlighted on bottom of the issue page's right side bar](/assets/images/2021/10/help/issues/delete-issue.png)
 4. To confirm deletion, click **Delete this issue**.
 
 ## Further reading

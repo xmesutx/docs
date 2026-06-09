@@ -27,8 +27,8 @@ shortTitle: Gerenciar camadas de pagamento
 {% data reusables.sponsors.navigate-to-sponsor-tiers-tab %}
 1. Se você estiver configurando as camadas pela primeira vez, recomendamos que você revise os exemplos de camadas sugeridas para ver como alguns outros contribuidores de código aberto configuraram o valor de {% data variables.product.prodname_sponsors %}. Decida se deseja começar com alguns rascunhos de camada sugeridos, que você pode personalizar no editor de camadas.
    - Para usar uma camada sugerida, selecione as recompensas que você gostaria de incluir no seu rascunho da camada ou camadas. Em seguida, clique em **Seguir para o editor de camadas**.
-   - Para criar níveis sem usar com nenhuma das sugestões de rascunho, clique em **Pular esta etapa**. ![Opção "Pular esta etapa" e botão "Seguir para o editor"](/assets/images/help/sponsors/tier-editor-button.png)
-1. Opcionalmente, para editar uma camada no rascunho, encontre a camada no rascunho e clique em **Editar**. ![Botão editar ao lado da camada no rascunho](/assets/images/help/sponsors/draft-tier-edit.png)
+   - Para criar níveis sem usar com nenhuma das sugestões de rascunho, clique em **Pular esta etapa**. ![Opção "Pular esta etapa" e botão "Seguir para o editor"](/assets/images/2021/10/help/sponsors/tier-editor-button.png)
+1. Opcionalmente, para editar uma camada no rascunho, encontre a camada no rascunho e clique em **Editar**. ![Botão editar ao lado da camada no rascunho](/assets/images/2021/10/help/sponsors/draft-tier-edit.png)
 {% data reusables.sponsors.click-add-tier %}
 {% data reusables.sponsors.tier-price-description %}
 {% data reusables.sponsors.add-welcome-message %}
@@ -78,11 +78,11 @@ Se você transferir um repositório adicionado a um nível de patrocínio, os pa
 {% data reusables.sponsors.edit-tier %}
 1. Selecione **Conceder aos patrocinadores acesso ao repositório privado**.
 
-   ![Captura de tela da caixa de seleção para conceder acesso de patrocinadores a um repositório privado](/assets/images/help/sponsors/grant-sponsors-access-to-repo-checkbox.png)
+   ![Captura de tela da caixa de seleção para conceder acesso de patrocinadores a um repositório privado](/assets/images/2022/02/help/sponsors/grant-sponsors-access-to-repo-checkbox.png)
 
 1. Selecione o menu suspenso e clique no repositório que você deseja adicionar.
 
-   ![Captura de tela do menu suspenso para escolher o repositório para conceder acesso ao](/assets/images/help/sponsors/grant-sponsors-access-to-repo-dropdown.png)
+   ![Captura de tela do menu suspenso para escolher o repositório para conceder acesso ao](/assets/images/2022/02/help/sponsors/grant-sponsors-access-to-repo-dropdown.png)
 
 {% data reusables.sponsors.tier-update %}
 

@@ -20,7 +20,7 @@ shortTitle: コントリビューションの奨励
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 {% data reusables.repositories.select-items-in-issue-or-pr-list %}
-4. 右上隅で [**Label**] をクリックし、`good first issue` と入力します。 ラベルの名前をクリックして、選択されたアイテムに関連付けてください。 ![Issue のマイルストーン割り当てドロップダウンメニュー](/assets/images/help/issues/issues_applying_labels_dropdown.png)
+4. 右上隅で [**Label**] をクリックし、`good first issue` と入力します。 ラベルの名前をクリックして、選択されたアイテムに関連付けてください。 ![Issue のマイルストーン割り当てドロップダウンメニュー](/assets/images/2021/10/help/issues/issues_applying_labels_dropdown.png)
 
 ## 参考リンク
 

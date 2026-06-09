@@ -36,8 +36,8 @@ To manage discussions in a repository, {% data variables.product.prodname_discus
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. In the right sidebar, to the right of "Category", click {% octicon "gear" aria-label="The gear icon" %}. !["Category" with gear icon](/assets/images/help/discussions/category-in-sidebar.png)
-1. Click a category. !["Change category" drop-down menu](/assets/images/help/discussions/change-category-drop-down.png)
+1. In the right sidebar, to the right of "Category", click {% octicon "gear" aria-label="The gear icon" %}. !["Category" with gear icon](/assets/images/2021/10/help/discussions/category-in-sidebar.png)
+1. Click a category. !["Change category" drop-down menu](/assets/images/2021/10/help/discussions/change-category-drop-down.png)
 
 ## ディスカッションをピン留めする
 
@@ -46,9 +46,9 @@ To manage discussions in a repository, {% data variables.product.prodname_discus
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 右のサイドバーで、{% octicon "pin" aria-label="The pin icon" %} [**Pin discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Pin discussion]](/assets/images/help/discussions/click-pin-discussion.png)
-1. 必要に応じて、ピン留めされたディスカッションの外観をカスタマイズします。 ![ピン留めされたディスカッションのカスタマイズオプション](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. [**Pin discussion**] をクリックします。 ![ピン留めされたディスカッションのカスタマイズオプションの下にある [Pin discussion] ボタン](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. 右のサイドバーで、{% octicon "pin" aria-label="The pin icon" %} [**Pin discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Pin discussion]](/assets/images/2021/10/help/discussions/click-pin-discussion.png)
+1. 必要に応じて、ピン留めされたディスカッションの外観をカスタマイズします。 ![ピン留めされたディスカッションのカスタマイズオプション](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. [**Pin discussion**] をクリックします。 ![ピン留めされたディスカッションのカスタマイズオプションの下にある [Pin discussion] ボタン](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## ピン留めされたディスカッションを編集する
 
@@ -57,17 +57,17 @@ To manage discussions in a repository, {% data variables.product.prodname_discus
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 右のサイドバーで、{% octicon "pencil" aria-label="The pencil icon" %} [**Edit pinned discussion**] をクリックします。 !["Edit pinned discussion" in right sidebar for discussion](/assets/images/help/discussions/click-edit-pinned-discussion.png)
-1. ピン留めされたディスカッションの外観をカスタマイズします。 ![ピン留めされたディスカッションのカスタマイズオプション](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. [**Pin discussion**] をクリックします。 ![ピン留めされたディスカッションのカスタマイズオプションの下にある [Pin discussion] ボタン](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. 右のサイドバーで、{% octicon "pencil" aria-label="The pencil icon" %} [**Edit pinned discussion**] をクリックします。 !["Edit pinned discussion" in right sidebar for discussion](/assets/images/2021/10/help/discussions/click-edit-pinned-discussion.png)
+1. ピン留めされたディスカッションの外観をカスタマイズします。 ![ピン留めされたディスカッションのカスタマイズオプション](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. [**Pin discussion**] をクリックします。 ![ピン留めされたディスカッションのカスタマイズオプションの下にある [Pin discussion] ボタン](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## ディスカッションをピン留め解除する
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 右のサイドバーで、{% octicon "pin" aria-label="The pin icon" %} [**Unpin discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Unpin discussion]](/assets/images/help/discussions/click-unpin-discussion.png)
-1. 警告を読み、[**Unpin discussion**] をクリックします。 ![モーダルの警告の下にある [Unpin discussion] ボタン](/assets/images/help/discussions/click-unpin-discussion-button.png)
+1. 右のサイドバーで、{% octicon "pin" aria-label="The pin icon" %} [**Unpin discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Unpin discussion]](/assets/images/2021/10/help/discussions/click-unpin-discussion.png)
+1. 警告を読み、[**Unpin discussion**] をクリックします。 ![モーダルの警告の下にある [Unpin discussion] ボタン](/assets/images/2021/10/help/discussions/click-unpin-discussion-button.png)
 
 ## ディスカッションを移譲する
 
@@ -76,17 +76,17 @@ To manage discussions in a repository, {% data variables.product.prodname_discus
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 右のサイドバーで、{% octicon "arrow-right" aria-label="The right arrow icon" %} [**Transfer discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Transfer discussion]](/assets/images/help/discussions/click-transfer-discussion.png)
-1. [**Choose a repository**] ドロップダウンを選択し、ディスカッションの移譲先のリポジトリをクリックします。 ![[Choose a repository] ドロップダウン、[Find a repository] 検索フィールド、およびリスト内のリポジトリ](/assets/images/help/discussions/use-choose-a-repository-drop-down.png)
-1. [**Transfer discussion**] をクリックします。 ![[Transfer discussion] ボタン](/assets/images/help/discussions/click-transfer-discussion-button.png)
+1. 右のサイドバーで、{% octicon "arrow-right" aria-label="The right arrow icon" %} [**Transfer discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Transfer discussion]](/assets/images/2021/10/help/discussions/click-transfer-discussion.png)
+1. [**Choose a repository**] ドロップダウンを選択し、ディスカッションの移譲先のリポジトリをクリックします。 ![[Choose a repository] ドロップダウン、[Find a repository] 検索フィールド、およびリスト内のリポジトリ](/assets/images/2021/10/help/discussions/use-choose-a-repository-drop-down.png)
+1. [**Transfer discussion**] をクリックします。 ![[Transfer discussion] ボタン](/assets/images/2021/10/help/discussions/click-transfer-discussion-button.png)
 
 ## ディスカッションを削除する
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 右のサイドバーで、{% octicon "trash" aria-label="The trash arrow icon" %} [**Delete discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Delete discussion]](/assets/images/help/discussions/click-delete-discussion.png)
-1. 警告を読み、[**Delete this discussion**] をクリックします。 ![モーダルの警告の下にある [Delete this discussion] ボタン](/assets/images/help/discussions/click-delete-this-discussion-button.png)
+1. 右のサイドバーで、{% octicon "trash" aria-label="The trash arrow icon" %} [**Delete discussion**] をクリックします。 ![ディスカッションの右のサイドバーにある [Delete discussion]](/assets/images/2021/10/help/discussions/click-delete-discussion.png)
+1. 警告を読み、[**Delete this discussion**] をクリックします。 ![モーダルの警告の下にある [Delete this discussion] ボタン](/assets/images/2021/10/help/discussions/click-delete-this-discussion-button.png)
 
 ## ラベルに基づいて Issue を変換する
 

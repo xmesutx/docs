@@ -33,21 +33,21 @@ shortTitle: 配置维护模式
 
 我们建议您至少将维护窗口排定在 30 分钟后，以便用户提前作好准备。 排定维护窗口后，所有用户在访问站点时都会看到横幅。
 
-![关于已排定维护的最终用户横幅](/assets/images/enterprise/maintenance/maintenance-scheduled.png)
+![关于已排定维护的最终用户横幅](/assets/images/2021/10/enterprise/maintenance/maintenance-scheduled.png)
 
 在实例进入维护模式后，所有正常 HTTP 和 Git 访问都会遭到拒绝。 Git 提取、克隆和推送操作也会被拒绝，并显示一条错误消息，指示站点暂时不可用。 GitHub Actions 作业不会执行。 在浏览器中访问该站点会显示维护页面。
 
-![维护模式启动屏幕](/assets/images/enterprise/maintenance/maintenance-mode-maintenance-page.png)
+![维护模式启动屏幕](/assets/images/2021/10/enterprise/maintenance/maintenance-mode-maintenance-page.png)
 
 ## 立即启用维护模式或排定在未来的某个时间进行维护
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. 在 {% data variables.enterprise.management_console %} 顶部，单击 **Maintenance**。 ![Maintenance 选项卡](/assets/images/enterprise/management-console/maintenance-tab.png)
+2. 在 {% data variables.enterprise.management_console %} 顶部，单击 **Maintenance**。 ![Maintenance 选项卡](/assets/images/2021/10/enterprise/management-console/maintenance-tab.png)
 3. 在“Enable and schedule”下，决定立即启用维护模式还是排定在未来的某个时间进行维护。
-    - 要立即启用维护模式，请使用下拉菜单，然后单击 **now**。 ![包含已选择立即启用维护模式的选项的下拉菜单](/assets/images/enterprise/maintenance/enable-maintenance-mode-now.png)
-    - 要排定在未来的某个时间进行维护，请使用下拉菜单，然后单击开始时间。 ![包含已选择排定在两小时后进行维护的选项的下拉菜单](/assets/images/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
-4. 选择 **Enable maintenance mode**。 ![启用或排定维护模式的复选框](/assets/images/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
+    - 要立即启用维护模式，请使用下拉菜单，然后单击 **now**。 ![包含已选择立即启用维护模式的选项的下拉菜单](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-now.png)
+    - 要排定在未来的某个时间进行维护，请使用下拉菜单，然后单击开始时间。 ![包含已选择排定在两小时后进行维护的选项的下拉菜单](/assets/images/2021/10/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
+4. 选择 **Enable maintenance mode**。 ![启用或排定维护模式的复选框](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## 通过 {% data variables.product.prodname_enterprise_api %} 排定维护模式

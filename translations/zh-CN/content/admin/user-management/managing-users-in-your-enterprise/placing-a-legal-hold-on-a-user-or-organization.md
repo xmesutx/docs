@@ -25,4 +25,4 @@ shortTitle: 合法持有
 {% data reusables.enterprise_site_admin_settings.click-user-or-org %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-5. 单击 **Place legal hold**。 ![Place legal hold 按钮](/assets/images/enterprise/site-admin-settings/place-legal-hold-button.png)
+5. 单击 **Place legal hold**。 ![Place legal hold 按钮](/assets/images/2021/10/enterprise/site-admin-settings/place-legal-hold-button.png)

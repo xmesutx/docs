@@ -23,7 +23,7 @@ shortTitle: Your profile README
 - あなたが誇りに思っているコントリビューションとそれらのコントリビューションについてのコンテキスト
 - あなたが関連しているコミュニティでサポートを得るためのガイド
 
-![プロフィールに表示されるプロフィール README ファイル](/assets/images/help/repository/profile-with-readme.png)
+![プロフィールに表示されるプロフィール README ファイル](/assets/images/2021/10/help/repository/profile-with-readme.png)
 
 {% data variables.product.company_short %} Flavored Markdown を使用して、テキストをフォーマットし、絵文字、画像、GIF をプロフィール README に含めることができます。 詳細は「[{% data variables.product.prodname_dotcom %} で書き、フォーマットしてみる](/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)」を参照してください。
 
@@ -40,21 +40,21 @@ shortTitle: Your profile README
 
 **注釈**: 2020年7月以前にユーザ名と同名のパブリックリポジトリを作成していた場合、リポジトリの README は {% data variables.product.prodname_dotcom %} にプロフィールを自動的に表示しません。 {% data variables.product.prodname_dotcom_the_website %} のリポジトリに移動し、[**Share to profile**] をクリックすると、リポジトリの README をプロフィールに手動で共有できます。
 
-![README をプロフィールに共有するためのボタン](/assets/images/help/repository/share-to-profile.png)
+![README をプロフィールに共有するためのボタン](/assets/images/2021/10/help/repository/share-to-profile.png)
 
 {% endnote %}
 
 ## プロフィールの README を追加する
 
 {% data reusables.repositories.create_new %}
-2. [Repository name] の下に、{% data variables.product.prodname_dotcom %} のユーザ名とマッチするリポジトリ名を入力します。 たとえば、ユーザ名が「octocat」の場合、リポジトリ名は「octocat」である必要があります。 ![ユーザ名にマッチするリポジトリ名フィールド](/assets/images/help/repository/repo-username-match.png)
-3. 必要な場合、リポジトリの説明を追加します。 たとえば、「個人リポジトリ」などです。 ![リポジトリの説明を入力するフィールド](/assets/images/help/repository/create-personal-repository-desc.png)
-4. [**Public**] を選択します。 ![パブリックが選択された状態で可視性を選択するためのラジオボタン](/assets/images/help/repository/create-personal-repository-visibility.png)
+2. [Repository name] の下に、{% data variables.product.prodname_dotcom %} のユーザ名とマッチするリポジトリ名を入力します。 たとえば、ユーザ名が「octocat」の場合、リポジトリ名は「octocat」である必要があります。 ![ユーザ名にマッチするリポジトリ名フィールド](/assets/images/2021/10/help/repository/repo-username-match.png)
+3. 必要な場合、リポジトリの説明を追加します。 たとえば、「個人リポジトリ」などです。 ![リポジトリの説明を入力するフィールド](/assets/images/2021/10/help/repository/create-personal-repository-desc.png)
+4. [**Public**] を選択します。 ![パブリックが選択された状態で可視性を選択するためのラジオボタン](/assets/images/2021/10/help/repository/create-personal-repository-visibility.png)
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
-7. 右サイドバーの上にある [**Edit README**] をクリックします。 ![README ファイルを編集するためのボタン](/assets/images/help/repository/personal-repository-edit-readme.png)
+7. 右サイドバーの上にある [**Edit README**] をクリックします。 ![README ファイルを編集するためのボタン](/assets/images/2021/10/help/repository/personal-repository-edit-readme.png)
 
-  生成された README ファイルには、プロフィール README のアイディアを得るためのテンプレートが事前入力されています。 ![テンプレートが事前入力された README ファイル](/assets/images/help/repository/personal-repository-readme-template.png)
+  生成された README ファイルには、プロフィール README のアイディアを得るためのテンプレートが事前入力されています。 ![テンプレートが事前入力された README ファイル](/assets/images/2021/10/help/repository/personal-repository-readme-template.png)
 
 利用可能なすべての絵文字とそのコードの概要については、「[絵文字のチートシート](http://www.emoji-cheat-sheet.com/)」を参照してください。
 

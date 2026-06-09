@@ -3,5 +3,5 @@
 "Protected file paths（保護されたファイルパス）"の下に、リポジトリ内の保護したい相対パスを入力してください。
 
 <div class="procedural-image-wrapper">
-  <img alt="保護されたファイルパスを入力するためのテキストフィールド" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-type-protected-file-paths.png">
+  <img alt="保護されたファイルパスを入力するためのテキストフィールド" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-type-protected-file-paths.png">
 </div>

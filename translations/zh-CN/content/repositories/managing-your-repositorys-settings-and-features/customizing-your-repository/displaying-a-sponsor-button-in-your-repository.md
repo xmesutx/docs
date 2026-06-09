@@ -72,11 +72,11 @@ Anyone with admin permissions can enable a sponsor button in a repository.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 3. Under Features, select **Sponsorships**.
-  ![Checkbox to enable Sponsorships](/assets/images/help/sponsors/sponsorships-checkbox.png)
+  ![Checkbox to enable Sponsorships](/assets/images/2021/10/help/sponsors/sponsorships-checkbox.png)
 4. Under "Sponsorships", click **Set up sponsor button** or **Override funding links**.
-  ![Button to set up sponsor button](/assets/images/help/sponsors/sponsor-set-up-button.png)
+  ![Button to set up sponsor button](/assets/images/2021/10/help/sponsors/sponsor-set-up-button.png)
 5. In the file editor, follow the instructions in the _FUNDING.yml_ file to add links to your funding locations.
-  ![Edit the FUNDING file to add links to funding locations](/assets/images/help/sponsors/funding-yml-file.png)
+  ![Edit the FUNDING file to add links to funding locations](/assets/images/2021/10/help/sponsors/funding-yml-file.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_new_file %}

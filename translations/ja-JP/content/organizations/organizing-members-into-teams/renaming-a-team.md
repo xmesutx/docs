@@ -18,5 +18,5 @@ topics:
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-5. Team の新しい名前または説明を入力します。 ![Team の名前と説明のフィールド](/assets/images/help/teams/team-name-description.png)
+5. Team の新しい名前または説明を入力します。 ![Team の名前と説明のフィールド](/assets/images/2021/10/help/teams/team-name-description.png)
 6. [**Update**] をクリックします。

@@ -23,7 +23,7 @@ shortTitle: 社区简介
 
 {% data reusables.repositories.valid-community-issues %} 更多信息请参阅“[关于议题和拉取请求模板](/articles/about-issue-and-pull-request-templates)”。
 
-![包含建议的社区标准的社区资料检查列表（适用于维护员）](/assets/images/help/repository/add-button-community-profile.png)
+![包含建议的社区标准的社区资料检查列表（适用于维护员）](/assets/images/2021/10/help/repository/add-button-community-profile.png)
 
 {% data reusables.repositories.security-guidelines %}
 
@@ -33,7 +33,7 @@ shortTitle: 社区简介
 
 如果项目没有建议的文件，可以单击 **Propose（提议）**草拟文件并提交给仓库维护员审批。
 
-![包含建议的社区标准的社区资料检查列表（适用于贡献者）](/assets/images/help/repository/propose-button-community-profile.png)
+![包含建议的社区标准的社区资料检查列表（适用于贡献者）](/assets/images/2021/10/help/repository/propose-button-community-profile.png)
 
 ## 延伸阅读
 

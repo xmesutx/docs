@@ -32,5 +32,5 @@ Puedes habilitar la política de referente de `same-origin` para instruir a los 
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-1. Debajo de "Política de Referente del Agente Usuario", selecciona **Habilitar la misma política de referente origen para todas las organizaciones**. ![Casilla de verificación para habilitar la misma política de referente origen](/assets/images/enterprise/settings/referrer-policy-checkbox.png)
-1. Haz clic en **Save ** (guardar). ![Botón de guardar para habilitar la política de referente del mismo origen](/assets/images/enterprise/settings/referrer-policy-save-button.png)
+1. Debajo de "Política de Referente del Agente Usuario", selecciona **Habilitar la misma política de referente origen para todas las organizaciones**. ![Casilla de verificación para habilitar la misma política de referente origen](/assets/images/2021/10/enterprise/settings/referrer-policy-checkbox.png)
+1. Haz clic en **Save ** (guardar). ![Botón de guardar para habilitar la política de referente del mismo origen](/assets/images/2021/10/enterprise/settings/referrer-policy-save-button.png)

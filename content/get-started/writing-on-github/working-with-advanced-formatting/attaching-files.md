@@ -24,7 +24,7 @@ topics:
 
 To attach a file to an issue or pull request conversation, drag and drop it into the comment box. Alternatively, you can click the bar at the bottom of the comment box to browse, select, and add a file from your computer.
 
-![Select attachments from computer](/assets/images/help/pull_requests/select-bar.png)
+![Select attachments from computer](/assets/images/2021/10/help/pull_requests/select-bar.png)
 
 {% tip %}
 
@@ -61,4 +61,4 @@ We support these files:
 {% endnote %}
 {% endif %}
 
-![Attachments animated GIF](/assets/images/help/pull_requests/dragging_images.gif)
+![Attachments animated GIF](/assets/images/2021/10/help/pull_requests/dragging_images.gif)

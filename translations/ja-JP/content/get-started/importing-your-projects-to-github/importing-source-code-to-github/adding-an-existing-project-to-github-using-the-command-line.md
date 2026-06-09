@@ -51,7 +51,7 @@ shortTitle: Add a project locally
 
 {% mac %}
 
-1. {% data variables.product.product_location %}上で[新しいリポジトリを作成](/repositories/creating-and-managing-repositories/creating-a-new-repository)します。 エラーを避けるため、新しいリポジトリは*README*、ライセンス、あるいは `gitignore` で初期化しないでください。 これらのファイルは、プロジェクトを {% data variables.product.product_name %}にプッシュした後で追加できます。 ![[Create New Repository] ドロップダウン](/assets/images/help/repository/repo-create.png)
+1. {% data variables.product.product_location %}上で[新しいリポジトリを作成](/repositories/creating-and-managing-repositories/creating-a-new-repository)します。 エラーを避けるため、新しいリポジトリは*README*、ライセンス、あるいは `gitignore` で初期化しないでください。 これらのファイルは、プロジェクトを {% data variables.product.product_name %}にプッシュした後で追加できます。 ![[Create New Repository] ドロップダウン](/assets/images/2021/10/help/repository/repo-create.png)
 {% data reusables.command_line.open_the_multi_os_terminal %}
 3. ワーキングディレクトリをローカルプロジェクトに変更します。
 4. ローカルディレクトリを Git リポジトリとして初期化します。
@@ -68,7 +68,7 @@ shortTitle: Add a project locally
   $ git commit -m "First commit"
   # 追跡された変更をコミットし、リモートリポジトリへのプッシュに備えます。 {% data reusables.git.reset-head-to-previous-commit-codeblock %}
   ```
-7. At the top of your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}'s Quick Setup page, click {% octicon "clippy" aria-label="The copy to clipboard icon" %} to copy the remote repository URL. ![リモートリポジトリの URL フィールドのコピー](/assets/images/help/repository/copy-remote-repository-url-quick-setup.png)
+7. At the top of your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}'s Quick Setup page, click {% octicon "clippy" aria-label="The copy to clipboard icon" %} to copy the remote repository URL. ![リモートリポジトリの URL フィールドのコピー](/assets/images/2021/10/help/repository/copy-remote-repository-url-quick-setup.png)
 8. ターミナルで、ローカルリポジトリがプッシュされる[リモートリポジトリの URL を追加](/github/getting-started-with-github/managing-remote-repositories)してください。
   ```shell
   $ git remote add origin <em> &lt;REMOTE_URL> </em>
@@ -86,7 +86,7 @@ shortTitle: Add a project locally
 
 {% windows %}
 
-1. {% data variables.product.product_location %}上で[新しいリポジトリを作成](/articles/creating-a-new-repository)します。 エラーを避けるため、新しいリポジトリは*README*、ライセンス、あるいは `gitignore` で初期化しないでください。 これらのファイルは、プロジェクトを {% data variables.product.product_name %}にプッシュした後で追加できます。 ![[Create New Repository] ドロップダウン](/assets/images/help/repository/repo-create.png)
+1. {% data variables.product.product_location %}上で[新しいリポジトリを作成](/articles/creating-a-new-repository)します。 エラーを避けるため、新しいリポジトリは*README*、ライセンス、あるいは `gitignore` で初期化しないでください。 これらのファイルは、プロジェクトを {% data variables.product.product_name %}にプッシュした後で追加できます。 ![[Create New Repository] ドロップダウン](/assets/images/2021/10/help/repository/repo-create.png)
 {% data reusables.command_line.open_the_multi_os_terminal %}
 3. ワーキングディレクトリをローカルプロジェクトに変更します。
 4. ローカルディレクトリを Git リポジトリとして初期化します。
@@ -103,7 +103,7 @@ shortTitle: Add a project locally
   $ git commit -m "First commit"
   # 追跡された変更をコミットし、リモートリポジトリへのプッシュに備えます。 {% data reusables.git.reset-head-to-previous-commit-codeblock %}
   ```
-7. At the top of your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}'s Quick Setup page, click {% octicon "clippy" aria-label="The copy to clipboard icon" %} to copy the remote repository URL. ![リモートリポジトリの URL フィールドのコピー](/assets/images/help/repository/copy-remote-repository-url-quick-setup.png)
+7. At the top of your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}'s Quick Setup page, click {% octicon "clippy" aria-label="The copy to clipboard icon" %} to copy the remote repository URL. ![リモートリポジトリの URL フィールドのコピー](/assets/images/2021/10/help/repository/copy-remote-repository-url-quick-setup.png)
 8. コマンドプロンプトで、ローカルリポジトリのプッシュ先となる[リモートリポジトリの URL を追加](/github/getting-started-with-github/managing-remote-repositories)します。
   ```shell
   $ git remote add origin <em> &lt;REMOTE_URL> </em>
@@ -121,7 +121,7 @@ shortTitle: Add a project locally
 
 {% linux %}
 
-1. {% data variables.product.product_location %}上で[新しいリポジトリを作成](/articles/creating-a-new-repository)します。 エラーを避けるため、新しいリポジトリは*README*、ライセンス、あるいは `gitignore` で初期化しないでください。 これらのファイルは、プロジェクトを {% data variables.product.product_name %}にプッシュした後で追加できます。 ![[Create New Repository] ドロップダウン](/assets/images/help/repository/repo-create.png)
+1. {% data variables.product.product_location %}上で[新しいリポジトリを作成](/articles/creating-a-new-repository)します。 エラーを避けるため、新しいリポジトリは*README*、ライセンス、あるいは `gitignore` で初期化しないでください。 これらのファイルは、プロジェクトを {% data variables.product.product_name %}にプッシュした後で追加できます。 ![[Create New Repository] ドロップダウン](/assets/images/2021/10/help/repository/repo-create.png)
 {% data reusables.command_line.open_the_multi_os_terminal %}
 3. ワーキングディレクトリをローカルプロジェクトに変更します。
 4. ローカルディレクトリを Git リポジトリとして初期化します。
@@ -138,7 +138,7 @@ shortTitle: Add a project locally
   $ git commit -m "First commit"
   # 追跡された変更をコミットし、リモートリポジトリへのプッシュに備えます。 {% data reusables.git.reset-head-to-previous-commit-codeblock %}
   ```
-7. At the top of your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}'s Quick Setup page, click {% octicon "clippy" aria-label="The copy to clipboard icon" %} to copy the remote repository URL. ![リモートリポジトリの URL フィールドのコピー](/assets/images/help/repository/copy-remote-repository-url-quick-setup.png)
+7. At the top of your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}'s Quick Setup page, click {% octicon "clippy" aria-label="The copy to clipboard icon" %} to copy the remote repository URL. ![リモートリポジトリの URL フィールドのコピー](/assets/images/2021/10/help/repository/copy-remote-repository-url-quick-setup.png)
 8. ターミナルで、ローカルリポジトリがプッシュされる[リモートリポジトリの URL を追加](/github/getting-started-with-github/managing-remote-repositories)してください。
   ```shell
   $ git remote add origin <em> &lt;REMOTE_URL> </em>

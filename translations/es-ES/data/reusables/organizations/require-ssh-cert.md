@@ -1,1 +1,1 @@
-1. Opcionalmente, para requerir que los miembros utilicen certificados SSH, selecciona **Requerir Certificados SSH** y después da clic en **Guardar**. ![Casilla de Requerir Certificado SSH y botón de guardar](/assets/images/help/organizations/require-ssh-cert.png)
+1. Opcionalmente, para requerir que los miembros utilicen certificados SSH, selecciona **Requerir Certificados SSH** y después da clic en **Guardar**. ![Casilla de Requerir Certificado SSH y botón de guardar](/assets/images/2021/10/help/organizations/require-ssh-cert.png)

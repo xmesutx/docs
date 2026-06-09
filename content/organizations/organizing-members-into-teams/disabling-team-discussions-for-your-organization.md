@@ -21,5 +21,5 @@ shortTitle: Disable team discussions
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.teams_sidebar %}
 5. Under "Team discussions", unselect **Enable team discussions for this organization**.
-  ![Checkbox to enable or disable team discussions for an organization](/assets/images/help/settings/enable-team-discussions-for-org-checkbox.png)
+  ![Checkbox to enable or disable team discussions for an organization](/assets/images/2021/10/help/settings/enable-team-discussions-for-org-checkbox.png)
 6. Click **Save**.

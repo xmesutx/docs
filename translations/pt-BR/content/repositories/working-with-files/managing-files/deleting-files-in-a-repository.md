@@ -39,7 +39,7 @@ Se o arquivo{% ifversion fpt or ghes or ghec %} ou diretório{% endif %} que voc
 ## Excluir um diretório
 
 1. Acesse o diretório no seu repositório que deseja excluir.
-1. No canto superior direito, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e, em seguida, clique em **Excluir diretório**. ![Botão para excluir um diretório](/assets/images/help/repository/delete-directory-button.png)
+1. No canto superior direito, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e, em seguida, clique em **Excluir diretório**. ![Botão para excluir um diretório](/assets/images/2021/10/help/repository/delete-directory-button.png)
 1. Revise os arquivos que você excluirá.
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}

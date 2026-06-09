@@ -58,8 +58,8 @@ Quando você configurar o acesso LDAP dos usuários pelo {% data variables.enter
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-3. Em "Authentication" (Autenticação), selecione **LDAP**. ![Selecionar LDAP](/assets/images/enterprise/management-console/ldap-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Selecionar caixa de autenticação integrada](/assets/images/enterprise/management-console/ldap-built-in-authentication.png)
+3. Em "Authentication" (Autenticação), selecione **LDAP**. ![Selecionar LDAP](/assets/images/2021/10/enterprise/management-console/ldap-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Selecionar caixa de autenticação integrada](/assets/images/2021/10/enterprise/management-console/ldap-built-in-authentication.png)
 5. Defina as configurações.
 
 ## Atributos LDAP
@@ -88,7 +88,7 @@ Use estes atributos para finalizar a configuração LDAP na {% data variables.pr
 
 Selecione **Disable username and password authentication for Git operations** (Desabilitar autenticação de nome de usuário e senha para operações do Git) nas configurações LDAP para impor o uso de tokens de acesso pessoal ou chaves SSH, o que pode ajudar a impedir a sobrecarga do servidor por solicitações de autenticação LDAP. Essa configuração é recomendável porque servidores LDAP com resposta lenta, especialmente combinados a um grande número de solicitações devido à sondagem, são uma causa comum de interrupções e problemas de desempenho.
 
-![Desabilitar autenticação de senha LDAP na caixa de seleção do Git](/assets/images/enterprise/management-console/ldap-disable-password-auth-for-git.png)
+![Desabilitar autenticação de senha LDAP na caixa de seleção do Git](/assets/images/2021/10/enterprise/management-console/ldap-disable-password-auth-for-git.png)
 
 Quando esta opção estiver selecionada, se tentar usar uma senha para as operações do Git pela linha de comando, o usuário receberá está mensagem de erro: `A autenticação de senha não é permitida para operações do Git. Você deve usar um token de acesso pessoal.`
 
@@ -96,7 +96,7 @@ Quando esta opção estiver selecionada, se tentar usar uma senha para as opera�
 
 Selecione **Enable LDAP certificate verification** (Habilitar verificação certificada LDAP) nas suas configurações LDAP para validar o certificado de servidor LDAP que você usa com o TLS.
 
-![Caixa de seleção de verificação certificada LDAP](/assets/images/enterprise/management-console/ldap-enable-certificate-verification.png)
+![Caixa de seleção de verificação certificada LDAP](/assets/images/2021/10/enterprise/management-console/ldap-enable-certificate-verification.png)
 
 Quando esta opção estiver selecionada, o certificado será validado para garantir o seguinte:
 - Se o certificado contiver ao menos um nome alternativo da entidade (SAN, Subject Alternative Name), um dos SANs deve corresponder ao nome do host LDAP. Do contrário, o nome comum (CN) corresponderá ao nome de host LDAP.
@@ -115,7 +115,7 @@ A Sincronização LDAP permite sincronizar os usuários do {% data variables.pro
 
 Para habilitar a Sincronização LDAP, selecione **Synchronize Emails** (Sincronizar e-mails), **Synchronize SSH Keys** (Sincronizar chaves SSH) ou **Synchronize GPG Keys** (Sincronizar chaves GPG) nas configurações LDAP.
 
-![Caixa de seleção de sincronização](/assets/images/enterprise/management-console/ldap-synchronize.png)
+![Caixa de seleção de sincronização](/assets/images/2021/10/enterprise/management-console/ldap-synchronize.png)
 
 Depois que você habilitar a sincronização LDAP, um trabalho de sincronização será executado no período especificado para fazer as seguintes operações em cada conta de usuário:
 
@@ -177,8 +177,8 @@ O {% data variables.product.prodname_ghe_server %} é compatível com as seguint
 
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. Na barra lateral esquerda, clique em **LDAP users** (Usuários LDAP). ![Guia de usuários LDAP](/assets/images/enterprise/site-admin-settings/ldap-users-tab.png)
-4. Para procurar um usuário, digite um nome (total ou parcialmente) do usuário e clique em **Search** (Pesquisar). Os usuários serão exibidos nos resultados da pesquisa. Se o usuário não existir, clique em **Create** (Criar) para provisionar a nova conta. ![Pesquisa LDAP](/assets/images/enterprise/site-admin-settings/ldap-users-search.jpg)
+3. Na barra lateral esquerda, clique em **LDAP users** (Usuários LDAP). ![Guia de usuários LDAP](/assets/images/2021/10/enterprise/site-admin-settings/ldap-users-tab.png)
+4. Para procurar um usuário, digite um nome (total ou parcialmente) do usuário e clique em **Search** (Pesquisar). Os usuários serão exibidos nos resultados da pesquisa. Se o usuário não existir, clique em **Create** (Criar) para provisionar a nova conta. ![Pesquisa LDAP](/assets/images/2022/02/enterprise/site-admin-settings/ldap-users-search.jpg)
 
 ## Atualizar contas LDAP
 
@@ -196,7 +196,7 @@ Se a [Sincronização LDAP estiver desabilitada](#enabling-ldap-sync), as altera
 {% data reusables.enterprise_site_admin_settings.click-user %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-5. Em "LDAP," clique em **Sync now** (Sincronizar agora) para atualizar manualmente a conta com os dados do seu servidor LDAP. ![Botão LDAP sync now (Sincronizar LDAP agora)](/assets/images/enterprise/site-admin-settings/ldap-sync-now-button.png)
+5. Em "LDAP," clique em **Sync now** (Sincronizar agora) para atualizar manualmente a conta com os dados do seu servidor LDAP. ![Botão LDAP sync now (Sincronizar LDAP agora)](/assets/images/2021/10/enterprise/site-admin-settings/ldap-sync-now-button.png)
 
 Você também pode [usar a API para acionar uma sincronização manual](/enterprise/{{ currentVersion }}/user/rest/reference/enterprise-admin#ldap).
 

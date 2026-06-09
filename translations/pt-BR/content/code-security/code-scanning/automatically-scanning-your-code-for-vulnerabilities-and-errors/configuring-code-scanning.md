@@ -55,9 +55,9 @@ Before you can configure {% data variables.product.prodname_code_scanning %} for
 
 1. In your repository, browse to the workflow file you want to edit.
 1. In the upper right corner of the file view, to open the workflow editor, click {% octicon "pencil" aria-label="The edit icon" %}.
-![Edit workflow file button](/assets/images/help/repository/code-scanning-edit-workflow-button.png)
+![Edit workflow file button](/assets/images/2021/10/help/repository/code-scanning-edit-workflow-button.png)
 1. After you have edited the file, click **Start commit** and complete the "Commit changes" form. You can choose to commit directly to the current branch, or create a new branch and start a pull request.
-![Commit update to codeql.yml workflow](/assets/images/help/repository/code-scanning-workflow-update.png)
+![Commit update to codeql.yml workflow](/assets/images/2021/10/help/repository/code-scanning-workflow-update.png)
 
 For more information about editing workflow files, see "[Learn {% data variables.product.prodname_actions %}](/actions/learn-github-actions)."
 
@@ -99,9 +99,9 @@ By default, only alerts with the severity level of `Error`{% ifversion fpt or gh
 {% data reusables.repositories.navigate-to-security-and-analysis %}
 1. Under "Code scanning", to the right of "Check Failure", use the drop-down menu to select the level of severity you would like to cause a pull request check failure. 
 {% ifversion fpt or ghes > 3.1  or ghae or ghec %}
-![Check failure setting](/assets/images/help/repository/code-scanning-check-failure-setting.png)
+![Check failure setting](/assets/images/2021/10/help/repository/code-scanning-check-failure-setting.png)
 {% else %}
-![Check failure setting](/assets/images/help/repository/code-scanning-check-failure-setting-ghae.png)
+![Check failure setting](/assets/images/2021/10/help/repository/code-scanning-check-failure-setting-ghae.png)
 {% endif %}
 {% endif %}
 

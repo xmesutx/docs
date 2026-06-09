@@ -51,7 +51,7 @@ Para ver las personas que fueron automáticamente eliminadas de tu organización
 {% data reusables.audit_log.octicon_icon %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.audit_log.audit_log_sidebar_for_site_admins %}
-4. Ingresa tu consulta de búsqueda usando `reason:two_factor_requirement_non_compliance`. ![Evento de registro de auditoría de herramientas de plantilla que muestra un usuario eliminado por no cumplir con la 2FA](/assets/images/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) Para limitar tu búsqueda para:
+4. Ingresa tu consulta de búsqueda usando `reason:two_factor_requirement_non_compliance`. ![Evento de registro de auditoría de herramientas de plantilla que muestra un usuario eliminado por no cumplir con la 2FA](/assets/images/2021/10/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) Para limitar tu búsqueda para:
     - Miembros de organizaciones eliminados, ingresa `action:org.remove_member AND reason:two_factor_requirement_non_compliance`
     - Colaboradores externos eliminados, ingresa `action:org.remove_outside_collaborator AND reason:two_factor_requirement_non_compliance`
 

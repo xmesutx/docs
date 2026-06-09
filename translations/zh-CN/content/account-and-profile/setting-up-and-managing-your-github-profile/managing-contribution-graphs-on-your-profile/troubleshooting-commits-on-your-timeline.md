@@ -19,15 +19,15 @@ shortTitle: 提交疑难解答
 
 在个人资料页面的时间表中，您可以单击特定仓库旁边的提交数量，以查看关于该时间段内提交的更多详细信息，包括仓库中进行的特定更改的差异。
 
-![个人资料时间表中的提交链接](/assets/images/help/profile/commit-link-on-profile-timeline.png)
+![个人资料时间表中的提交链接](/assets/images/2021/10/help/profile/commit-link-on-profile-timeline.png)
 
-![提交详细信息](/assets/images/help/commits/commit-details.png)
+![提交详细信息](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## 时间表中的提交缺少提交详细信息
 
 如果单击个人资料页面中的提交链接而没有在仓库的提交页面上看到所有预期的提交，则可能会重写 Git 中的提交历史记录，并且提交创作日期和提交日期会不同。
 
-![含有表明“未找到 octocat 的任何提交”消息的仓库页面](/assets/images/help/repository/no-commits-found.png)
+![含有表明“未找到 octocat 的任何提交”消息的仓库页面](/assets/images/2021/10/help/repository/no-commits-found.png)
 
 ## GitHub 如何使用 Git 创作日期和提交日期
 
@@ -62,7 +62,7 @@ CommitDate: Tue Apr 10 06:25:08 2018 +0900
 
 使用修改后的提交日期打开 URL 时，您可以看到提交详细信息。
 
-![提交详细信息](/assets/images/help/commits/commit-details.png)
+![提交详细信息](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## 时间表中缺少预期的提交
 

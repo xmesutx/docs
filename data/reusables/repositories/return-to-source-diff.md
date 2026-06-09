@@ -2,4 +2,4 @@
 
    To return to the source diff view, click the **{% octicon "code" aria-label="The source diff icon" %}** button.
 
-   ![The source diff button](/assets/images/help/pull_requests/dependency-review-source-diff.png)
+   ![The source diff button](/assets/images/2021/10/help/pull_requests/dependency-review-source-diff.png)

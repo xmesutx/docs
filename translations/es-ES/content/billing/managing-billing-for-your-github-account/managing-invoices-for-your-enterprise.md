@@ -23,26 +23,26 @@ Para obtener más información, acerca de la visualización de suscripciones y u
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. Debajo de "Factura actual", haz clic en **Ver factura**. ![Enlace para ver factura](/assets/images/help/business-accounts/view-invoice-link.png)
+4. Debajo de "Factura actual", haz clic en **Ver factura**. ![Enlace para ver factura](/assets/images/2021/10/help/business-accounts/view-invoice-link.png)
 
 ## Pagar tu factura actual
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. Debajo de "Pago adeudado", haz clic en **Pagar factura**. ![Enlace para pagar factura](/assets/images/help/business-accounts/pay-invoice-link.png)
-5. Debajo de "Pagar factura", teclea tu información de tarjeta de crédito en la forma segura, posteriormente, da clic en **Pagar factura**. ![Confirmar y pagar la factura](/assets/images/help/business-accounts/pay-invoice.png)
+4. Debajo de "Pago adeudado", haz clic en **Pagar factura**. ![Enlace para pagar factura](/assets/images/2021/10/help/business-accounts/pay-invoice-link.png)
+5. Debajo de "Pagar factura", teclea tu información de tarjeta de crédito en la forma segura, posteriormente, da clic en **Pagar factura**. ![Confirmar y pagar la factura](/assets/images/2021/10/help/business-accounts/pay-invoice.png)
 
 ## Descargar tu factura actual
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. Dabajo de "Acciones Rápidas", da clic en **Descargar factura actual**. ![Enlace de descarga de factura actual](/assets/images/help/business-accounts/download-current-invoice.png)
+4. Dabajo de "Acciones Rápidas", da clic en **Descargar factura actual**. ![Enlace de descarga de factura actual](/assets/images/2021/10/help/business-accounts/download-current-invoice.png)
 
 ## Ver tu historial de pagos
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. Para ver un resumen de tu actividad de facturación anterior, debajo de "Facturación", haz clic en la pestaña de **Facturas pasadas**. ![Pestaña de ver historial de pago](/assets/images/help/business-accounts/view-payment-history.png)
+4. Para ver un resumen de tu actividad de facturación anterior, debajo de "Facturación", haz clic en la pestaña de **Facturas pasadas**. ![Pestaña de ver historial de pago](/assets/images/2021/10/help/business-accounts/view-payment-history.png)

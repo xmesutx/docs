@@ -24,11 +24,11 @@ Referring sites and popular content are ordered by views and unique visitors. Fu
 
 {% endtip %}
 
-![Repository traffic graphs with tooltip](/assets/images/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
+![Repository traffic graphs with tooltip](/assets/images/2021/10/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
 
 ## Accessing the traffic graph
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 3. In the left sidebar, click **Traffic**.
-![Traffic tab](/assets/images/help/graphs/traffic_tab.png)
+![Traffic tab](/assets/images/2021/10/help/graphs/traffic_tab.png)

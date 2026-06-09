@@ -46,7 +46,7 @@ Para trabalhos executados em executores hospedados no {% data variables.product.
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 {% data reusables.repositories.navigate-to-job %}
-1. No canto superior direito da saída do log, na caixa **Search logs** (Pesquisar logs), digite um termo de consulta. ![Caixa de pesquisa de logs](/assets/images/help/repository/search-log-box-updated-2.png)
+1. No canto superior direito da saída do log, na caixa **Search logs** (Pesquisar logs), digite um termo de consulta. ![Caixa de pesquisa de logs](/assets/images/2021/10/help/repository/search-log-box-updated-2.png)
 
 ## Fazer download dos registros
 
@@ -59,7 +59,7 @@ Você pode fazer o download dos arquivos de registro da execução do seu fluxo 
 {% data reusables.repositories.navigate-to-job %}
 1. No canto superior direito, clique em {% octicon "gear" aria-label="The gear icon" %} e selecione **Fazer o download do arquivo de registro**.
 
-  ![Menu suspenso Download logs (Baixar logs)](/assets/images/help/repository/download-logs-drop-down-updated-2.png)
+  ![Menu suspenso Download logs (Baixar logs)](/assets/images/2021/10/help/repository/download-logs-drop-down-updated-2.png)
 
 
 ## Excluir registros
@@ -72,11 +72,11 @@ Você pode excluir arquivos de registro da execução do seu fluxo de trabalho. 
 {% data reusables.repositories.view-run %}
 1. No canto superior direito, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
 
-    ![Ícone horizontal do kebab](/assets/images/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
+    ![Ícone horizontal do kebab](/assets/images/2021/10/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
 
 2. Para excluir os arquivos de registro, clique no botão **Excluir todos os registros** e revise a instrução de confirmação.
 
-  ![Excluir todos os registros](/assets/images/help/repository/delete-all-logs-updated-2.png)
+  ![Excluir todos os registros](/assets/images/2021/10/help/repository/delete-all-logs-updated-2.png)
 
 Após excluir os registros, o botão **Excluir todos os registros** será removido para indicar que nenhum arquivo de registro permaneça na execução do fluxo de trabalho.
 

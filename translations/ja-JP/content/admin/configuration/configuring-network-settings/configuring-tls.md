@@ -44,9 +44,9 @@ SSL が有効な場合、{% data variables.product.prodname_ghe_server %} アプ
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
 {% data reusables.enterprise_management_console.select-tls-only %}
-4. [TLS Protocol support] で、許可するプロトコルを選択します。 ![TLS プロトコルを選択するオプションを備えたラジオボタン](/assets/images/enterprise/management-console/tls-protocol-support.png)
-5. "Certificate（証明書）"の下で**Choose File（ファイルの選択）**をクリックし、インストールしたいTLS証明書もしくは証明書チェーン（PEMフォーマット）を選択してください。 このファイルは通常、*.pem*、*.crt*、*.cer* といった拡張子を持ちます。 ![TLS 証明書ファイルを見つけるためのボタン](/assets/images/enterprise/management-console/install-tls-certificate.png)
-6. Under "Unencrypted key", click **Choose File** to choose an RSA key (in PEM format) to install. このファイルは通常*.key*という拡張子を持ちます。 ![TLS鍵ファイルを見つけるためのボタン](/assets/images/enterprise/management-console/install-tls-key.png)
+4. [TLS Protocol support] で、許可するプロトコルを選択します。 ![TLS プロトコルを選択するオプションを備えたラジオボタン](/assets/images/2021/10/enterprise/management-console/tls-protocol-support.png)
+5. "Certificate（証明書）"の下で**Choose File（ファイルの選択）**をクリックし、インストールしたいTLS証明書もしくは証明書チェーン（PEMフォーマット）を選択してください。 このファイルは通常、*.pem*、*.crt*、*.cer* といった拡張子を持ちます。 ![TLS 証明書ファイルを見つけるためのボタン](/assets/images/2021/10/enterprise/management-console/install-tls-certificate.png)
+6. Under "Unencrypted key", click **Choose File** to choose an RSA key (in PEM format) to install. このファイルは通常*.key*という拡張子を持ちます。 ![TLS鍵ファイルを見つけるためのボタン](/assets/images/2021/10/enterprise/management-console/install-tls-key.png)
 
   {% warning %}
 
@@ -75,9 +75,9 @@ Let's Encryptを使ったTLS証明書管理の自動化を有効にすると、{
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
 {% data reusables.enterprise_management_console.select-tls-only %}
-5. **Enable automation of TLS certificate management using Let's Encrypt（Let's Encryptを使った自動的なTLS証明書管理の有効化）**を選択してください。 ![[Let's Encrypt] を有効化するチェックボックス](/assets/images/enterprise/management-console/lets-encrypt-checkbox.png)
+5. **Enable automation of TLS certificate management using Let's Encrypt（Let's Encryptを使った自動的なTLS証明書管理の有効化）**を選択してください。 ![[Let's Encrypt] を有効化するチェックボックス](/assets/images/2021/10/enterprise/management-console/lets-encrypt-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 {% data reusables.enterprise_management_console.privacy %}
-7. **Request TLS certificate（TLS証明書のリクエスト）**をクリックしてください。 ![[Request TLS certificate] ボタン](/assets/images/enterprise/management-console/request-tls-button.png)
-8. Wait for the "Status" to change from "STARTED" to "DONE". ![Let's Encrypt status](/assets/images/enterprise/management-console/lets-encrypt-status.png)
+7. **Request TLS certificate（TLS証明書のリクエスト）**をクリックしてください。 ![[Request TLS certificate] ボタン](/assets/images/2021/10/enterprise/management-console/request-tls-button.png)
+8. Wait for the "Status" to change from "STARTED" to "DONE". ![Let's Encrypt status](/assets/images/2021/10/enterprise/management-console/lets-encrypt-status.png)
 9. **Save configuration（設定の保存）**をクリックしてください。

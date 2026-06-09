@@ -3,12 +3,12 @@
 
   {% mac %}
 
-  ![克隆仓库列表](/assets/images/help/desktop/clone-a-repository-list-mac.png)
+  ![克隆仓库列表](/assets/images/2021/10/help/desktop/clone-a-repository-list-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![克隆仓库列表](/assets/images/help/desktop/clone-a-repository-list-win.png)
+  ![克隆仓库列表](/assets/images/2021/10/help/desktop/clone-a-repository-list-win.png)
 
   {% endwindows %}

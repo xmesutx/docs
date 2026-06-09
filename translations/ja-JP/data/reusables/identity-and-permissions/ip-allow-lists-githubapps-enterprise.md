@@ -11,5 +11,5 @@
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. "IP allow list（IP許可リスト）"の下で、**Enable IP allow list configuration for installed GitHub Apps（インストールされたGitHub AppsのIP許可リスト設定の有効化）**を選択してください。 ![GitHub AppにIPアドレスを許可するチェックボックス](/assets/images/help/security/enable-ip-allowlist-githubapps-checkbox.png)
+1. "IP allow list（IP許可リスト）"の下で、**Enable IP allow list configuration for installed GitHub Apps（インストールされたGitHub AppsのIP許可リスト設定の有効化）**を選択してください。 ![GitHub AppにIPアドレスを許可するチェックボックス](/assets/images/2021/10/help/security/enable-ip-allowlist-githubapps-checkbox.png)
 1. [**Save**] をクリックします。

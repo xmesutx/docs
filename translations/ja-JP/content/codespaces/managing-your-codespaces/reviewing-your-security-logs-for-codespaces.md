@@ -18,7 +18,7 @@ topics:
 
 ユーザーアカウントが所有するリポジトリで {% data variables.product.prodname_codespaces %} に関連するアクションを実行すると、セキュリティログでアクションをレビューできます。 For information about accessing the log, see "[Reviewing your security log](/github/authenticating-to-github/reviewing-your-security-log#accessing-your-security-log)."
 
-![Codespaces 情報を含むセキュリティログ](/assets/images/help/settings/codespaces-audit-log.png)
+![Codespaces 情報を含むセキュリティログ](/assets/images/2021/10/help/settings/codespaces-audit-log.png)
 
 セキュリティログには、発生したアクションの詳細と実行タイミングについての詳細が含まれます。 For information about {% data variables.product.prodname_codespaces %} actions, see "[{% data variables.product.prodname_codespaces %} category actions](/github/authenticating-to-github/reviewing-your-security-log#codespaces-category-actions)".
 

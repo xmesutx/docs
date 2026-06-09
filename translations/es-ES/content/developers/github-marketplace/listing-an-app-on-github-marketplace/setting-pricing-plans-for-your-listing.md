@@ -30,7 +30,7 @@ Para ofrecer un plan de pago para tu app, esta debe pertenecer a una organizaci�
 
 Si tu app ya se publicó con un plan de pago y eres un publicador verificado, entonces puedes publicar un plan de pago nuevo desde la página de "Editar plan de precios" en la configuración del listado de tu app de Marketplace.
 
-![Botón de publicar este plan](/assets/images/marketplace/publish-this-plan-button.png)
+![Botón de publicar este plan](/assets/images/2021/10/marketplace/publish-this-plan-button.png)
 
 Si tu app ya se publicó con un plan de pago, pero no puedes verificar al publicador, entonces no podrás publicar un plan de pago nuevo hasta que seas un publicador verificado. Para obtener más información acerca de cómo convertirse en un publicador verificado, consulta la sección "[Solicitar una verificación de publicador para tu organización](/developers/github-marketplace/applying-for-publisher-verification-for-your-organization)".
 
@@ -69,7 +69,7 @@ Cuando das clic en **Nuevo borrador de plan**, verás un formato que te permite 
 
 Si ya no se requiere algún plan de precios para tu listado de {% data variables.product.prodname_marketplace %}, o si necesitas ajustar los detalles de los precios, puedes eliminarlo.
 
-![Botón para eliminar tu plan de precios](/assets/images/marketplace/marketplace_remove_this_plan.png)
+![Botón para eliminar tu plan de precios](/assets/images/2021/10/marketplace/marketplace_remove_this_plan.png)
 
 No podrás hacer cambios a un plan de precios para una app que ya está listada en {% data variables.product.prodname_marketplace %} una vez que lo publiques. En su lugar, necesitarás eliminar el plan de precios y crear un plan nuevo. Los clientes que ya compraron el plan de precios que se eliminó seguirán utilizándolo hasta que decidan abandonarlo y migrarse a un plan de precios nuevo. Para encontrar más información acerca de los planes de precios, consulta la sección "[planes de precios en {% data variables.product.prodname_marketplace %}](/marketplace/selling-your-app/github-marketplace-pricing-plans/)".
 

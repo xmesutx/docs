@@ -1,1 +1,1 @@
-1. Para criar um registro TXT DNS com o serviço de hospedagem de domínio, siga as instruções em **Add a DNS TXT record** (Adicionar um registro TXT DNS). ![Instruções para criar um registro TXT DNS](/assets/images/help/organizations/create-dns-txt-record-instructions.png)
+1. Para criar um registro TXT DNS com o serviço de hospedagem de domínio, siga as instruções em **Add a DNS TXT record** (Adicionar um registro TXT DNS). ![Instruções para criar um registro TXT DNS](/assets/images/2021/10/help/organizations/create-dns-txt-record-instructions.png)

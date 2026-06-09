@@ -19,8 +19,8 @@ Você pode realizar implantações por meio de de {% data variables.product.prod
 
 Para visualizar implantações atuais e anteriores, clique em **Ambientes** na página inicial do repositório.
 {% ifversion ghae %}
-![Ambientes](/assets/images/enterprise/2.22/environments-sidebar.png){% else %}
-![Environments](/assets/images/environments-sidebar.png){% endif %}
+![Ambientes](/assets/images/2021/10/enterprise/2.22/environments-sidebar.png){% else %}
+![Environments](/assets/images/2021/10/environments-sidebar.png){% endif %}
 
 A página de implantações exibe a última implantação ativa de cada ambiente do seu repositório. Se a implantação incluir uma URL de ambiente, um botão **Exibir implantação** que vincula à URL será exibido ao lado da implantação.
 

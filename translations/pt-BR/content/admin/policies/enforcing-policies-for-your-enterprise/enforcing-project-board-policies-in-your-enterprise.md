@@ -33,7 +33,7 @@ Em todas as organizações pertencentes à sua empresa, é possível habilitar o
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. Em "Organization projects" (Projetos da organização), revise as informações sobre como alterar a configuração. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. Em "Organization projects" (Projetos da organização), use o menu suspenso e escolha uma política. ![Menu suspenso com opções de políticas de quadros de projeto da organização](/assets/images/help/business-accounts/organization-projects-policy-drop-down.png)
+5. Em "Organization projects" (Projetos da organização), use o menu suspenso e escolha uma política. ![Menu suspenso com opções de políticas de quadros de projeto da organização](/assets/images/2021/10/help/business-accounts/organization-projects-policy-drop-down.png)
 
 ## Aplicar política para quadros de projeto de repositório
 
@@ -43,4 +43,4 @@ Em todas as organizações pertencentes à sua empresa, é possível habilitar o
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. Em "Repository projects" (Projetos de repositório), revise as informações sobre como alterar a configuração. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. Em "Repository projects" (Projetos de repositório), use o menu suspenso e escolha uma política. ![Menu suspenso com opções de políticas de quadros de projeto de repositório](/assets/images/help/business-accounts/repository-projects-policy-drop-down.png)
+5. Em "Repository projects" (Projetos de repositório), use o menu suspenso e escolha uma política. ![Menu suspenso com opções de políticas de quadros de projeto de repositório](/assets/images/2021/10/help/business-accounts/repository-projects-policy-drop-down.png)

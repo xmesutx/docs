@@ -56,11 +56,11 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 Para ayudar a que GitHub envíe webhooks a tu máquina local sin exponerla al internet, puedes utilizar una herramienta llamada Smee. Primero, dirígete a https://smee.io y da clic en **Iniciar un canal nuevo**. Si ya estás a gusto con otras herramientas que exponen tu máquina local al internet, como [`ngrok`](https://dashboard.ngrok.com/get-started) o [`localtunnel`](https://localtunnel.github.io/www/), puedes utilizarlas.
 
-![El botón de nuevo canal de Smee](/assets/images/smee-new-channel.png)
+![El botón de nuevo canal de Smee](/assets/images/2021/10/smee-new-channel.png)
 
 El iniciar un canal de Smee nuevo crea un dominio único en donde GitHub puede enviar cargas útiles de webhooks. Necesitas saber cuál es este dominio para continuar con el siguiente paso. Aquí hay un ejemplo de un dominio único en `https://smee.io/qrfeVRbFbffd6vD`:
 
-![Un canal de Smee único](/assets/images/smee-unique-domain.png)
+![Un canal de Smee único](/assets/images/2021/10/smee-unique-domain.png)
 
 Posteriormente, regresa a la terminal y sigue estos pasos para ejecutar el cliente de la interface de línea de comandos (CLI) de Smee:
 
@@ -97,7 +97,7 @@ Te recomendamos dejar abierta esta ventana de terminal y mantener a Smee conecta
 
 Si aún no tienes una cuenta de GitHub, ahora es un [buen momento para unirte](https://github.com/join). ¡No te olvides de verificar tu dirección de correo electrónico antes de continuar! Para registrar una app nueva, visita la [página de configuración de la app](https://github.com/settings/apps) en tu perfil de GitHub, y da clic en **GitHub App nueva**.
 
-![El sitio web de Github, mostrando la **App Nueva**](/assets/images/new-app.png)
+![El sitio web de Github, mostrando la **App Nueva**](/assets/images/2021/10/new-app.png)
 
 Verás un formato en el cual puedes ingresar detalles sobre tu app. Consulta la sección "[Crear una GitHub App](/apps/building-github-apps/creating-a-github-app/)" para obtener información general acerca de los campos de esta página. Para los fines de esta guía, necesitaras ingresar datos específicos en unos cuantos campos:
 
@@ -109,21 +109,21 @@ Verás un formato en el cual puedes ingresar detalles sobre tu app. Consulta la 
 
 * En "URL de la página principal", utiliza el dominio que emitió Smee. Por ejemplo:
 
-    ![Formato completado con el dominio de Smee para la URL de una página principal](/assets/images/homepage-url.png)
+    ![Formato completado con el dominio de Smee para la URL de una página principal](/assets/images/2021/10/homepage-url.png)
 
 * Para la "URL del webhook", utiliza nuevamente el dominio que emitió Smee. Por ejemplo:
 
-    ![Formato completado con el dominio de Smee para la URl de un webhook](/assets/images/webhook-url.png)
+    ![Formato completado con el dominio de Smee para la URl de un webhook](/assets/images/2021/10/webhook-url.png)
 
 * Para el "Secreto del webhook", crea una contraseña para asegurar las terminales de tu webhook. Este debería ser algo que solo tú (y GitHub, a través de este formulario) sepas. El secreto es importante, ya que estarás recibiendo cargas útiles desde el internet público, y utilizarás este secreto para verificar el remitente del webhook. Nota que la configuración de la GitHub App dice que el secreto de webhook es opcional, lo cual es verdad en la mayoría de los casos, pero para que funcione el código de la plantilla de la app, debes configurar un secreto de webhook.
 
-    ![Formato completado con el secreto de un webhook](/assets/images/webhook-secret.png)
+    ![Formato completado con el secreto de un webhook](/assets/images/2021/10/webhook-secret.png)
 
 * En la página de permisos & webhooks, puedes especificar un conjunto de permisos para tu app, los cuales determinan la cantidad de datos a los cuales tiene acceso la misma. Debajo de la sección de "Permisos del repositorio", desplázate hacia abajo hasta "Metadatos" y selecciona `Acceso: Solo lectura`. Si decides extender esta app de plantilla, puedes actualizar estos permisos más adelante.
 
 * En la parte inferior de la página de permisos & webhooks, especifica si es una app privada o pública. Esto se refiere a quién puede instalarla: ¿solo tú, o alguien más en general? Por el momento, deja la app como privada seleccionando **Solo en esta cuenta**.
 
-    ![Privacidad de GitHub App](/assets/images/create_app.png)
+    ![Privacidad de GitHub App](/assets/images/2021/10/create_app.png)
 
 ¡Da clic en **Crear GitHub App** para crear tu app!
 
@@ -133,11 +133,11 @@ Después de que creas tu app, se te llevará de regreso a la [página de configu
 
 * **Generar una llave privada para tu app.** Esto es necesario para autenticar tu app más adelante. Baja en la página y da clic en **Generar una llave privada**. Guarda el archivo `PEM` resultante ( el cual tiene un nombre similar a  _`app-name`_-_`date`_-`private-key.pem`) en un directorio en donde puedas volver a encontrarlo fácilmente.
 
-    ![El diálogo de generación de la llave privada](/assets/images/private_key.png)
+    ![El diálogo de generación de la llave privada](/assets/images/2021/10/private_key.png)
 
 * **Guardar la ID de app que GitHub le asignó a ésta.** Esto se necesita para preparar tu ambiente de ejecución.
 
-    <img src="/assets/images/app_id.png" alt="Tu número de ID para la app" width="200px" />
+    <img src="/assets/images/2021/10/app_id.png" alt="Tu número de ID para la app" width="200px" />
 
 ## Paso 4. Prepara el ambiente de ejecución
 
@@ -353,7 +353,7 @@ Si ves un error, asegúrate de haber creado el archivo `.env` en el directorio q
 
 Una vez que esté ejecutándose el servidor, puedes probarlo si vas a `http://localhost:3000` en tu buscador. Si la app funciona como se espera, verás una página de error útil:
 
-<img src="/assets/images/sinatra-404.png" alt="Página de error 404 de Sinatra" width="500px" />
+<img src="/assets/images/2021/10/sinatra-404.png" alt="Página de error 404 de Sinatra" width="500px" />
 
 ¡Esto es bueno! Aunque es una página de error, es una página de error de _Sinatra_, lo cual significa que tu app está conectada con el servidor como lo esperabas. Estás viendo este mensaje porque no le has dado nada más que mostrar a la app.
 
@@ -365,7 +365,7 @@ Para instalar la app, visita la [página de configuración de la app](https://gi
 
 Se te solicitará si quieres instalar la app en todos los repositorios o solo en los seleccionados. Si no quieres instalar la app en _todos_ tus repositorios, ¡no pasa nada! Tal vez quieras crear un repositorio de entorno de pruebas para e instalar tu app ahí.
 
-<img src="/assets/images/install_permissions.png" alt="Permisos de instalación de la aplicación" width="500px" />
+<img src="/assets/images/2021/10/install_permissions.png" alt="Permisos de instalación de la aplicación" width="500px" />
 
 Después de que des clic en **Instalar**, revisa la salida en tu terminal. Deberías encontrar algo como esto:
 

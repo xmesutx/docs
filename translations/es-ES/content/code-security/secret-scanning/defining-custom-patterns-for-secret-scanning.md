@@ -70,7 +70,7 @@ Before defining a custom pattern, you must ensure that {% data variables.product
 {% data reusables.advanced-security.secret-scanning-add-custom-pattern-details %}{% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5499 %}
 1. When you're ready to test your new custom pattern, to identify matches in the repository without creating alerts, click **Save and dry run**.
 1. When the dry run finishes, you'll see a sample of results (up to 1000) from the repository. Review the results and identify any false positive results.
-   ![Screenshot showing results from dry run](/assets/images/help/repository/secret-scanning-publish-pattern.png)
+   ![Screenshot showing results from dry run](/assets/images/2022/02/help/repository/secret-scanning-publish-pattern.png)
 1. Edit the new custom pattern to fix any problems with the results, then click **Save and dry run** to test your changes.
 {% indented_data_reference reusables.secret-scanning.beta-dry-runs spaces=3 %}
 {% endif %}
@@ -173,7 +173,7 @@ When you save a change to a custom pattern, this closes all the {% data variable
 1. Review the confirmation, and select a method for dealing with any open alerts relating to the custom pattern.
 1. Click **Yes, delete this pattern**.
 
-   ![Confirming deletion of a custom {% data variables.product.prodname_secret_scanning %} pattern ](/assets/images/help/repository/secret-scanning-confirm-deletion-custom-pattern.png)
+   ![Confirming deletion of a custom {% data variables.product.prodname_secret_scanning %} pattern ](/assets/images/2021/10/help/repository/secret-scanning-confirm-deletion-custom-pattern.png)
 {%- elsif ghes = 3.2 %}
 1. To the right of the custom pattern you want to remove, click **Remove**.
 1. Review the confirmation, and click **Remove custom pattern**.

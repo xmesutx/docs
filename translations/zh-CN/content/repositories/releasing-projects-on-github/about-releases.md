@@ -21,11 +21,11 @@ topics:
 ## 关于发行版
 
 {% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4974 %}
-![发行版概述](/assets/images/help/releases/refreshed-releases-overview-with-contributors.png)
+![发行版概述](/assets/images/2021/10/help/releases/refreshed-releases-overview-with-contributors.png)
 {% elsif ghae-issue-4972 %}
-![发行版概述](/assets/images/help/releases/releases-overview-with-contributors.png)
+![发行版概述](/assets/images/2021/10/help/releases/releases-overview-with-contributors.png)
 {% else %}
-![发行版概述](/assets/images/help/releases/releases-overview.png)
+![发行版概述](/assets/images/2021/10/help/releases/releases-overview.png)
 {% endif %}
 
 发行版是可部署的软件迭代，您可以打包并提供给更广泛的受众下载和使用。

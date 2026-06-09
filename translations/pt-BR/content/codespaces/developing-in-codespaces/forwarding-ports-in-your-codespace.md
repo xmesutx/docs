@@ -21,7 +21,7 @@ O redirecionamento de porta dá acesso a portas TCP que estão em execução no 
 
 Quando uma aplicação em execução dentro de um codespace imprime a saída para o terminal que contém uma URL do host local como `http://localhost:PORT` ou `http://127.0.0.1:PORT`, a porta é encaminhada automaticamente. Se você estiver usando {% data variables.product.prodname_codespaces %} no navegador ou em {% data variables.product.prodname_vscode %}, a string do URL no terminal é convertida em um link que você pode clicar para ver a página na sua máquina local. Por padrão, {% data variables.product.prodname_codespaces %} encaminha portas usando HTTP.
 
-![Encaminhamento de porta automático](/assets/images/help/codespaces/automatic-port-forwarding.png)
+![Encaminhamento de porta automático](/assets/images/2021/10/help/codespaces/automatic-port-forwarding.png)
 
 Você também pode encaminhar uma porta manualmente, etiquetar portas encaminhadas, compartilhar portas encaminhadas com integrantes da sua organização, compartilhar as portas encaminhadas publicamente e adicione as portas encaminhadas à configuração do codespace.
 
@@ -34,18 +34,18 @@ Você pode encaminhar manualmente uma porta que não foi encaminhada automaticam
 {% data reusables.codespaces.navigate-to-ports-tab %}
 1. Na lista de portas, clique em **Adicionar porta**.
 
-   ![Botão adicionar porta](/assets/images/help/codespaces/add-port-button.png)
+   ![Botão adicionar porta](/assets/images/2021/10/help/codespaces/add-port-button.png)
 
 1. Digite o número da porta ou endereço e, em seguida, pressione enter.
 
-   ![Caixa de texto para o botão digitar porta](/assets/images/help/codespaces/port-number-text-box.png)
+   ![Caixa de texto para o botão digitar porta](/assets/images/2021/10/help/codespaces/port-number-text-box.png)
 
 ## Usando encaminhamento de HTTPS
 
 Por padrão, {% data variables.product.prodname_codespaces %} encaminha portas usando HTTP, mas você pode atualizar qualquer porta para usar HTTPS, conforme necessário.
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Clique com o botão direito na porta que você deseja atualizar e, em seguida, passe o mouse sobre **Alterar o Protocolo de Porta**. ![Opção para mudar o protocolo de porta](/assets/images/help/codespaces/update-port-protocol.png)
+1. Clique com o botão direito na porta que você deseja atualizar e, em seguida, passe o mouse sobre **Alterar o Protocolo de Porta**. ![Opção para mudar o protocolo de porta](/assets/images/2021/10/help/codespaces/update-port-protocol.png)
 1. Selecione o protocolo necessário para esta porta. O protocolo que você selecionar será lembrado por esta porta durante o ciclo de vida do codespace.
 
 {% endwebui %}
@@ -55,11 +55,11 @@ Por padrão, {% data variables.product.prodname_codespaces %} encaminha portas u
 {% data reusables.codespaces.navigate-to-ports-tab %}
 1. Na lista de portas, clique em **Adicionar porta**.
 
-   ![Botão adicionar porta](/assets/images/help/codespaces/add-port-button.png)
+   ![Botão adicionar porta](/assets/images/2021/10/help/codespaces/add-port-button.png)
 
 1. Digite o número da porta ou endereço e, em seguida, pressione enter.
 
-   ![Caixa de texto para o botão digitar porta](/assets/images/help/codespaces/port-number-text-box.png)
+   ![Caixa de texto para o botão digitar porta](/assets/images/2021/10/help/codespaces/port-number-text-box.png)
 
 {% endvscode %}
 
@@ -93,8 +93,8 @@ Se você quiser compartilhar uma porta encaminhada com outras pessoas, você pod
 {% webui %}
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Clique com o botão direito na porta que você deseja compartilhar, selecione o menu "Visibilidade da Porta" e, em seguida, clique em **Privado para a Organização** ou **Público**. ![Opção para selecionar a visibilidade da porta no menu do botão direito](/assets/images/help/codespaces/make-public-option.png)
-1. À direita do endereço local para a porta, clique no ícone copiar. ![Copiar ícone para o URL de porta](/assets/images/help/codespaces/copy-icon-port-url.png)
+1. Clique com o botão direito na porta que você deseja compartilhar, selecione o menu "Visibilidade da Porta" e, em seguida, clique em **Privado para a Organização** ou **Público**. ![Opção para selecionar a visibilidade da porta no menu do botão direito](/assets/images/2021/10/help/codespaces/make-public-option.png)
+1. À direita do endereço local para a porta, clique no ícone copiar. ![Copiar ícone para o URL de porta](/assets/images/2021/10/help/codespaces/copy-icon-port-url.png)
 1. Envie a URL copiada para a pessoa com quem você deseja compartilhar a porta.
 
 {% endwebui %}
@@ -102,8 +102,8 @@ Se você quiser compartilhar uma porta encaminhada com outras pessoas, você pod
 {% vscode %}
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Clique com o botão direito na porta que você deseja compartilhar e clique em **Tornar pública**. ![Opção para tornar a porta pública no menu com o clique com o botão direito](/assets/images/help/codespaces/make-public-option.png)
-1. À direita do endereço local para a porta, clique no ícone copiar. ![Copiar ícone para o URL de porta](/assets/images/help/codespaces/copy-icon-port-url.png)
+1. Clique com o botão direito na porta que você deseja compartilhar e clique em **Tornar pública**. ![Opção para tornar a porta pública no menu com o clique com o botão direito](/assets/images/2021/10/help/codespaces/make-public-option.png)
+1. À direita do endereço local para a porta, clique no ícone copiar. ![Copiar ícone para o URL de porta](/assets/images/2021/10/help/codespaces/copy-icon-port-url.png)
 1. Envie a URL copiada para a pessoa com quem você deseja compartilhar a porta.
 
 {% endvscode %}
@@ -133,7 +133,7 @@ Para obter mais informações sobre esse comando, consulte [o manual de{% data v
 Você pode etiquetar uma porta para tornar a porta mais facilmente identificável em uma lista.
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Passe o mouse sobre a porta que você deseja etiquetar, em seguida, clique no ícone da etiqueta. ![Ícone da etiqueta para a porta](/assets/images/help/codespaces/label-icon.png)
+1. Passe o mouse sobre a porta que você deseja etiquetar, em seguida, clique no ícone da etiqueta. ![Ícone da etiqueta para a porta](/assets/images/2021/10/help/codespaces/label-icon.png)
 {% data reusables.codespaces.type-port-label %}
 
 ## Adicionar uma porta à configuração do código
@@ -143,5 +143,5 @@ Você pode etiquetar uma porta para tornar a porta mais facilmente identificáve
 Você pode configurar manualmente as portas encaminhadas em um arquivo `.devcontainer.json` usando a propriedade `forwardPorts` ou você pode usar o painel "Portas" no seu codespace.
 
 {% data reusables.codespaces.navigate-to-ports-tab %}
-1. Clique com o botão direito na porta que você deseja adicionar à configuração do codespace e, em seguida, clique em **Definir etiqueta e atualizar devcontainer.json**. ![Opção para definir a etiqueta e adicionar a porta ao devcontainer.json no menu com o clique no botão direito](/assets/images/help/codespaces/update-devcontainer-to-add-port-option.png)
+1. Clique com o botão direito na porta que você deseja adicionar à configuração do codespace e, em seguida, clique em **Definir etiqueta e atualizar devcontainer.json**. ![Opção para definir a etiqueta e adicionar a porta ao devcontainer.json no menu com o clique no botão direito](/assets/images/2021/10/help/codespaces/update-devcontainer-to-add-port-option.png)
 {% data reusables.codespaces.type-port-label %}

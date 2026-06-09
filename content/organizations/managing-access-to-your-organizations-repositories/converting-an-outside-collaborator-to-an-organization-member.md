@@ -27,9 +27,9 @@ If your organization [requires members to use two-factor authentication](/articl
 {% data reusables.organizations.people %}
 {% data reusables.organizations.people_tab_outside_collaborators %}
 {% ifversion fpt or ghec %}
-5. To the right of the name of the outside collaborator you want to become a member, use the {% octicon "gear" aria-label="The gear icon" %} drop-down menu and click **Invite to organization**.![Invite outside collaborators to organization](/assets/images/help/organizations/invite_outside_collaborator_to_organization.png)
+5. To the right of the name of the outside collaborator you want to become a member, use the {% octicon "gear" aria-label="The gear icon" %} drop-down menu and click **Invite to organization**.![Invite outside collaborators to organization](/assets/images/2021/10/help/organizations/invite_outside_collaborator_to_organization.png)
 {% else %}
-5. To the right of the name of the outside collaborator you want to become a member, click **Invite to organization**.![Invite outside collaborators to organization](/assets/images/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
+5. To the right of the name of the outside collaborator you want to become a member, click **Invite to organization**.![Invite outside collaborators to organization](/assets/images/2021/10/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
 {% endif %}
 {% data reusables.organizations.choose-to-restore-privileges %}
 {% data reusables.organizations.choose-user-role-send-invitation %}

@@ -53,7 +53,7 @@ Ao restabelecer um ex-colaborador externo, você pode restaurar:
 
   {% endwarning %}
 
-  ![Escolher se deseja restaurar as configurações](/assets/images/help/organizations/choose_whether_to_restore_org_member_info.png)
+  ![Escolher se deseja restaurar as configurações](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info.png)
 {% else %}
 6. Escolha restaurar os privilégios anteriores do colaborador externo na organização clicando em **Add and reinstate** (Adicionar e restabelecer) ou escolha apagar os privilégios anteriores e definir novas permissões de acesso clicando em **Add and start fresh** (Adicionar e começar do zero).
 
@@ -63,12 +63,12 @@ Ao restabelecer um ex-colaborador externo, você pode restaurar:
 
   {% endwarning %}
 
-  ![Escolher se deseja restaurar as configurações](/assets/images/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
+  ![Escolher se deseja restaurar as configurações](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
 {% endif %}
 {% ifversion fpt or ghec %}
-7. Se você apagou os privilégios anteriores de um ex-colaborador externo, escolha uma função para o usuário e adicione-o em algumas equipes (opcional), depois clique em **Send invitation** (Enviar convite). ![Opções Role and team (Função e equipe) e botão send invitation (enviar convite)](/assets/images/help/organizations/add-role-send-invitation.png)
+7. Se você apagou os privilégios anteriores de um ex-colaborador externo, escolha uma função para o usuário e adicione-o em algumas equipes (opcional), depois clique em **Send invitation** (Enviar convite). ![Opções Role and team (Função e equipe) e botão send invitation (enviar convite)](/assets/images/2021/10/help/organizations/add-role-send-invitation.png)
 {% else %}
-7. Se você apagou os privilégios anteriores de um ex-colaborador externo, escolha uma função para o usuário e adicione-o em algumas equipes (opcional), depois clique em **Add member** (Adicionar integrante). ![Opções Role and team (Função e equipe) e botão add member (adicionar integrante)](/assets/images/help/organizations/add-role-add-member.png)
+7. Se você apagou os privilégios anteriores de um ex-colaborador externo, escolha uma função para o usuário e adicione-o em algumas equipes (opcional), depois clique em **Add member** (Adicionar integrante). ![Opções Role and team (Função e equipe) e botão add member (adicionar integrante)](/assets/images/2021/10/help/organizations/add-role-add-member.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 8. A pessoa convidada receberá um e-mail com um convite para participar da organização. Ela precisará aceitar o convite antes de se tornar um colaborador externo na organização. {% data reusables.organizations.cancel_org_invite %}

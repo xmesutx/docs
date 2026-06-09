@@ -1,1 +1,1 @@
-1. Haz clic en **Add a domain (Agregar un dominio)**. ![Botón para agregar un dominio](/assets/images/help/organizations/add-a-domain-button.png)
+1. Haz clic en **Add a domain (Agregar un dominio)**. ![Botón para agregar un dominio](/assets/images/2021/10/help/organizations/add-a-domain-button.png)

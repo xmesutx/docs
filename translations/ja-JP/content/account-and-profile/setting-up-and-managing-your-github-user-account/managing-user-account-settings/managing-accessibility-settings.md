@@ -15,5 +15,5 @@ All keyboard shortcuts are enabled by default on {% data variables.product.produ
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.accessibility_settings %}
-1. Select or deselect the **Enable character key shortcuts** checkbox. ![Screenshot of the 'Enable character key shortcuts' checkbox](/assets/images/help/settings/disable-character-key-shortcuts.png)
+1. Select or deselect the **Enable character key shortcuts** checkbox. ![Screenshot of the 'Enable character key shortcuts' checkbox](/assets/images/2021/11/help/settings/disable-character-key-shortcuts.png)
 2. [**Save**] をクリックします。

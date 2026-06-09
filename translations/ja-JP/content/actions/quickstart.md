@@ -52,7 +52,7 @@ The following example shows you how {% data variables.product.prodname_actions %
     ```
     {% endraw %}
 3. Scroll to the bottom of the page and select **Create a new branch for this commit and start a pull request**. Then, to create a pull request, click **Propose new file**.
-    ![Commit workflow file](/assets/images/help/repository/actions-quickstart-commit-new-file.png)
+    ![Commit workflow file](/assets/images/2021/10/help/repository/actions-quickstart-commit-new-file.png)
 
 Committing the workflow file to a branch in your repository triggers the `push` event and runs your workflow.
 
@@ -62,19 +62,19 @@ Committing the workflow file to a branch in your repository triggers the `push` 
 {% data reusables.repositories.actions-tab %}
 1. In the left sidebar, click the workflow you want to see.
 
-   ![Workflow list in left sidebar](/assets/images/help/repository/actions-quickstart-workflow-sidebar.png)
+   ![Workflow list in left sidebar](/assets/images/2021/10/help/repository/actions-quickstart-workflow-sidebar.png)
 1. From the list of workflow runs, click the name of the run you want to see.
 
-   ![Name of workflow run](/assets/images/help/repository/actions-quickstart-run-name.png)
+   ![Name of workflow run](/assets/images/2021/10/help/repository/actions-quickstart-run-name.png)
 1. Under **Jobs** , click the **Explore-GitHub-Actions** job.
 
-   ![Locate job](/assets/images/help/repository/actions-quickstart-job.png)
+   ![Locate job](/assets/images/2021/10/help/repository/actions-quickstart-job.png)
 1. The log shows you how each of the steps was processed. Expand any of the steps to view its details.
 
-   ![Example workflow results](/assets/images/help/repository/actions-quickstart-logs.png)
+   ![Example workflow results](/assets/images/2021/10/help/repository/actions-quickstart-logs.png)
    
    For example, you can see the list of files in your repository:
-   ![Example action detail](/assets/images/help/repository/actions-quickstart-log-detail.png)
+   ![Example action detail](/assets/images/2021/10/help/repository/actions-quickstart-log-detail.png)
    
 ## More starter workflows
 

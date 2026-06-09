@@ -28,5 +28,5 @@ shortTitle: OAuth Appの有効化
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. [Third-party application access policy] の下で [**Setup application access restrictions**] をクリックします。 ![制限の設定ボタン](/assets/images/help/settings/settings-third-party-set-up-restrictions.png)
-6. サードパーティのアクセス制限に関する情報を確認したら、[**Restrict third-party application access**] をクリックします。 ![制限の確認ボタン](/assets/images/help/settings/settings-third-party-restrict-confirm.png)
+5. [Third-party application access policy] の下で [**Setup application access restrictions**] をクリックします。 ![制限の設定ボタン](/assets/images/2021/10/help/settings/settings-third-party-set-up-restrictions.png)
+6. サードパーティのアクセス制限に関する情報を確認したら、[**Restrict third-party application access**] をクリックします。 ![制限の確認ボタン](/assets/images/2021/10/help/settings/settings-third-party-restrict-confirm.png)

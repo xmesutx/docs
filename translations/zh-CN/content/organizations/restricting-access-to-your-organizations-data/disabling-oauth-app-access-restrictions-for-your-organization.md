@@ -23,5 +23,5 @@ shortTitle: 禁用 OAuth 应用程序
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. 单击 **Remove restrictions（删除限制）**。 ![删除限制按钮](/assets/images/help/settings/settings-third-party-remove-restrictions.png)
-6. 审查有关禁用第三方应用程序限制的信息后，请单击 **Yes, remove application restrictions（是，删除应用程序限制）**。 ![删除确认按钮](/assets/images/help/settings/settings-third-party-confirm-disable.png)
+5. 单击 **Remove restrictions（删除限制）**。 ![删除限制按钮](/assets/images/2021/10/help/settings/settings-third-party-remove-restrictions.png)
+6. 审查有关禁用第三方应用程序限制的信息后，请单击 **Yes, remove application restrictions（是，删除应用程序限制）**。 ![删除确认按钮](/assets/images/2021/10/help/settings/settings-third-party-confirm-disable.png)

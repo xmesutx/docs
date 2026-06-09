@@ -129,10 +129,10 @@ Web べースの {% data variables.enterprise.management_console %} と外部の
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. 左のサイドバーで、** Enterprise licensing（Enterpriseライセンス）**をクリックしてください。 ![Screenshot showing "Enterprise licensing" link in the enterprise account settings sidebar.](/assets/images/help/enterprises/enterprise-licensing-tab.png)
-4. [{% data variables.product.prodname_enterprise %} Help] にある [**Upload a support bundle**] をクリックします。 ![Screenshot showing "Upload a support bundle link".](/assets/images/enterprise/support/upload-support-bundle.png)
-5. [Select an enterprise account] で、ドロップダウンメニューから Support Bundle に関連付けられているアカウントを選択します。 ![Screenshot showing the dropdown menu to select the support bundle's enterprise account.](/assets/images/enterprise/support/support-bundle-account.png)
-6. [Upload a support bundle for {% data variables.contact.enterprise_support %}] で Support Bundle を選択するには、[**Choose file**] をクリックするか、Support Bundle ファイルを [**Choose file**] にドラッグします。 ![Screenshot showing the "Choose file" button to upload a support bundle file.](/assets/images/enterprise/support/choose-support-bundle-file.png)
+3. 左のサイドバーで、** Enterprise licensing（Enterpriseライセンス）**をクリックしてください。 ![Screenshot showing "Enterprise licensing" link in the enterprise account settings sidebar.](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
+4. [{% data variables.product.prodname_enterprise %} Help] にある [**Upload a support bundle**] をクリックします。 ![Screenshot showing "Upload a support bundle link".](/assets/images/2021/10/enterprise/support/upload-support-bundle.png)
+5. [Select an enterprise account] で、ドロップダウンメニューから Support Bundle に関連付けられているアカウントを選択します。 ![Screenshot showing the dropdown menu to select the support bundle's enterprise account.](/assets/images/2021/10/enterprise/support/support-bundle-account.png)
+6. [Upload a support bundle for {% data variables.contact.enterprise_support %}] で Support Bundle を選択するには、[**Choose file**] をクリックするか、Support Bundle ファイルを [**Choose file**] にドラッグします。 ![Screenshot showing the "Choose file" button to upload a support bundle file.](/assets/images/2021/10/enterprise/support/choose-support-bundle-file.png)
 7. [**Upload**] をクリックします。
 
 ### SSHを使ったSupport Bundleの直接アップロード

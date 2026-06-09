@@ -25,6 +25,6 @@ topics:
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-3. 可視性を変更したいチームを選択します。 ![2 つの Team を選択した状態の Team リスト](/assets/images/help/teams/list-of-teams-selected.png)
-4. Team 一覧の上にあるドロップダウンメニューで [**Change visibility**] をクリックします。 ![Team の可視性を変更するオプションのあるドロップダウンメニュー](/assets/images/help/teams/team-bulk-management-options.png)
-5. 選択した Team を可視にするかシークレットにするか選び、[**Change visibility**] をクリックします。 ![チームを表示するまたはシークレットにするラジオボタンと、[Change visibility] ボタン](/assets/images/help/teams/select-and-confirm-new-visibility.png)
+3. 可視性を変更したいチームを選択します。 ![2 つの Team を選択した状態の Team リスト](/assets/images/2021/10/help/teams/list-of-teams-selected.png)
+4. Team 一覧の上にあるドロップダウンメニューで [**Change visibility**] をクリックします。 ![Team の可視性を変更するオプションのあるドロップダウンメニュー](/assets/images/2021/10/help/teams/team-bulk-management-options.png)
+5. 選択した Team を可視にするかシークレットにするか選び、[**Change visibility**] をクリックします。 ![チームを表示するまたはシークレットにするラジオボタンと、[Change visibility] ボタン](/assets/images/2021/10/help/teams/select-and-confirm-new-visibility.png)

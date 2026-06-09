@@ -33,7 +33,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-2. 在 Danger Zone（危险区域）下，单击**Delete this repository（删除此仓库）**。 ![仓库删除按钮](/assets/images/help/repository/repo-delete.png)
+2. 在 Danger Zone（危险区域）下，单击**Delete this repository（删除此仓库）**。 ![仓库删除按钮](/assets/images/2021/10/help/repository/repo-delete.png)
 3. **阅读警告**。
-4. 如需验证是否正在删除正确的仓库，请输入要删除仓库的名称。 ![删除标签](/assets/images/help/repository/repo-delete-confirmation.png)
+4. 如需验证是否正在删除正确的仓库，请输入要删除仓库的名称。 ![删除标签](/assets/images/2021/10/help/repository/repo-delete-confirmation.png)
 5. 单击 **I understand the consequences, delete this repository（我理解后果，删除此仓库）**。

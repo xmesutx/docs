@@ -18,12 +18,12 @@ Cuando visualizas una solicitud de extracción en {% data variables.product.prod
 ## Visualizar una solicitud de extracción en {% data variables.product.prodname_desktop %}
 {% data reusables.desktop.current-branch-menu %}
 {% data reusables.desktop.click-pull-requests %}
-  ![Pestaña Pull Requests en el menú desplegable de la rama actual](/assets/images/help/desktop/branch-drop-down-pull-request-tab.png)
+  ![Pestaña Pull Requests en el menú desplegable de la rama actual](/assets/images/2021/10/help/desktop/branch-drop-down-pull-request-tab.png)
 {% data reusables.desktop.choose-pr-from-list %}
-  ![Lista de las solicitudes de extracción abiertas en el repositorio](/assets/images/help/desktop/click-pull-request.png)
-4. Opcionalmente, para actualizar la lista de solicitudes de extracción, haz clic en {% octicon "sync" aria-label="The sync icon" %}. ![Botón Sync (Sincronizar) para actualizar](/assets/images/help/desktop/pull-request-list-sync.png)
+  ![Lista de las solicitudes de extracción abiertas en el repositorio](/assets/images/2021/10/help/desktop/click-pull-request.png)
+4. Opcionalmente, para actualizar la lista de solicitudes de extracción, haz clic en {% octicon "sync" aria-label="The sync icon" %}. ![Botón Sync (Sincronizar) para actualizar](/assets/images/2021/10/help/desktop/pull-request-list-sync.png)
 
 ## Abrir una solicitud de extracción en {% data variables.product.prodname_desktop %} desde {% data variables.product.prodname_dotcom %}
 {% data reusables.repositories.sidebar-pr %}
 2. En la lista de solicitudes de extracción, da clic en la solicitud de extracción que te gustaría abrir en {% data variables.product.prodname_desktop %}.
-3. A la derecha del título de la solicitud de extracción, da clic en el menú desplegable de **Abrir con** y después da clic en el botón de **Abrir en Desktop**. ![El botón de Abrir en Desktop](/assets/images/help/desktop/open-pr-in-desktop-button.png)
+3. A la derecha del título de la solicitud de extracción, da clic en el menú desplegable de **Abrir con** y después da clic en el botón de **Abrir en Desktop**. ![El botón de Abrir en Desktop](/assets/images/2021/10/help/desktop/open-pr-in-desktop-button.png)

@@ -24,8 +24,8 @@ shortTitle: プロジェクトボードの再オープン
 1. 再びオープンするプロジェクトボードに移動します。
 {% data reusables.project-management.click-menu %}
 3. プロジェクトボードの自動化を同期するか、プロジェクトボードを同期なしで再びオープンするかを選択します。
-    - プロジェクトボードを再びオープンして自動化を同期するには、[**Reopen and sync project**] をクリックします。 !["Reopen and resync project" ボタンの選択](/assets/images/help/projects/reopen-and-sync-project.png)
-    - プロジェクトボードを自動化の同期なしで再びオープンするには、再オープンドロップダウンメニューで [**Reopen only**] をクリックします。 続いて、[**Reopen only**] をクリックします。 ![クローズ済みプロジェクトボード再オープンドロップダウンメニュー](/assets/images/help/projects/reopen-closed-project-board-drop-down-menu.png)
+    - プロジェクトボードを再びオープンして自動化を同期するには、[**Reopen and sync project**] をクリックします。 !["Reopen and resync project" ボタンの選択](/assets/images/2021/10/help/projects/reopen-and-sync-project.png)
+    - プロジェクトボードを自動化の同期なしで再びオープンするには、再オープンドロップダウンメニューで [**Reopen only**] をクリックします。 続いて、[**Reopen only**] をクリックします。 ![クローズ済みプロジェクトボード再オープンドロップダウンメニュー](/assets/images/2021/10/help/projects/reopen-closed-project-board-drop-down-menu.png)
 
 ## 参考リンク
 

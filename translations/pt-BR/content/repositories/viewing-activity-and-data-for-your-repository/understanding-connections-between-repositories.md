@@ -28,7 +28,7 @@ shortTitle: Conexões entre repositórios
 
 O gráfico de rede exibe o histórico de branches de toda a rede do repositório, incluindo branches do repositório raiz e branches de bifurcações que contêm commits exclusivos da rede.
 
-![Gráfico de rede do repositório](/assets/images/help/graphs/repo_network_graph.png)
+![Gráfico de rede do repositório](/assets/images/2021/10/help/graphs/repo_network_graph.png)
 
 {% tip %}
 
@@ -40,7 +40,7 @@ O gráfico de rede exibe o histórico de branches de toda a rede do repositório
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Network** (Rede). ![Guia Network (Rede)](/assets/images/help/graphs/network_tab.png)
+3. Na barra lateral esquerda, clique em **Network** (Rede). ![Guia Network (Rede)](/assets/images/2021/10/help/graphs/network_tab.png)
 
 ## Listar as bifurcações de um repositório
 
@@ -50,11 +50,11 @@ As bifurcações são listadas em ordem alfabética pelo nome de usuário da pes
 
 {% ifversion fpt or ghec %}
 
-![Gráfico de integrantes do repositório](/assets/images/help/graphs/repo_forks_graph_dotcom.png)
+![Gráfico de integrantes do repositório](/assets/images/2021/10/help/graphs/repo_forks_graph_dotcom.png)
 
 {% else %}
 
-![Gráfico de integrantes do repositório](/assets/images/help/graphs/repo_members_graph.png)
+![Gráfico de integrantes do repositório](/assets/images/2021/10/help/graphs/repo_members_graph.png)
 
 {% endif %}
 
@@ -62,7 +62,7 @@ As bifurcações são listadas em ordem alfabética pelo nome de usuário da pes
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Forks** (Bifurcações). ![Aba Forks (Bifurcações)](/assets/images/help/graphs/graphs-sidebar-forks-tab.png)
+3. Na barra lateral esquerda, clique em **Forks** (Bifurcações). ![Aba Forks (Bifurcações)](/assets/images/2021/10/help/graphs/graphs-sidebar-forks-tab.png)
 
 {% ifversion fpt or ghes or ghae-issue-4864 or ghec %}
 ## Visualizar as dependências de um repositório

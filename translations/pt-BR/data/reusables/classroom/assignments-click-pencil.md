@@ -1,1 +1,1 @@
-1. À direita da atividade que você deseja editar, clique em {% octicon "pencil" aria-label="The pencil icon" %}. ![Ícone de lápis para editar a atividade na lista de atividades](/assets/images/help/classroom/assignments-click-pencil.png)
+1. À direita da atividade que você deseja editar, clique em {% octicon "pencil" aria-label="The pencil icon" %}. ![Ícone de lápis para editar a atividade na lista de atividades](/assets/images/2021/10/help/classroom/assignments-click-pencil.png)

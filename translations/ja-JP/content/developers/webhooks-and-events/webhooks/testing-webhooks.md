@@ -21,7 +21,7 @@ topics:
 
 {% data variables.product.product_name %} は、各 webhook デリバリのログを {% ifversion fpt or ghec %} 30 {% else %} 8 {% endif %} 日間保持します。
 
-![[Recent Deliveries] ビュー](/assets/images/webhooks_recent_deliveries.png)
+![[Recent Deliveries] ビュー](/assets/images/2021/10/webhooks_recent_deliveries.png)
 
 ## 結果を詳しく確認する
 
@@ -31,10 +31,10 @@ topics:
 
 webhook デリバリ ビューには、GitHub によって送信されたヘッダに関する情報が表示されます。 これには、JSON ペイロードに関する詳細も含まれています。
 
-![ペイロードリクエストの表示](/assets/images/payload_request_tab.png)
+![ペイロードリクエストの表示](/assets/images/2021/10/payload_request_tab.png)
 
 ### レスポンス
 
 [Response] タブには、サーバーが GitHub からペイロードを受信した後の応答方法が一覧表示されます。 これには、ステータスコード、ヘッダ、およびレスポンス本文内の追加データが含まれます。
 
-![ペイロードレスポンスの表示](/assets/images/payload_response_tab.png)
+![ペイロードレスポンスの表示](/assets/images/2021/10/payload_response_tab.png)

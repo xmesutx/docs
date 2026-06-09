@@ -26,7 +26,7 @@ redirect_from:
 1. Click **Add to merge queue** to add your pull request to the merge queue. This enables the default **Queue and merge in a group** option. Alternatively, you can:
    - Add your pull request to the front of the queue by selecting the **Add to merge queue** drop down menu, and clicking **Jump the queue** (only available to repository maintainers and administrators).
    - Directly merge your pull request by selecting the **Add to merge queue** drop down menu, and clicking **Directly merge** (only available to repository administrators).
-   ![Merge queue options](/assets/images/help/pull_requests/merge-queue-options.png)
+   ![Merge queue options](/assets/images/2021/11/help/pull_requests/merge-queue-options.png)
 
    {% tip %} 
 
@@ -42,19 +42,19 @@ You can view the merge queue in various places on {% data variables.product.prod
 
    - On the **Branches** page for the repository. We recommend you use this route if you don't have or don't know about a pull request already in the queue, and if you want to see what's in the queue. For more information, see "[Viewing branches in your repository](/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository)."
 
-  ![View merge queue in Branches page](/assets/images/help/pull_requests/merge-queue-branches-page.png)
+  ![View merge queue in Branches page](/assets/images/2021/11/help/pull_requests/merge-queue-branches-page.png)
 
 - On the **Pull requests** page of your repository, click {% octicon "clock" aria-label="The clock symbol" %}.
 
-  ![View merge queue on Pull requests page](/assets/images/help/pull_requests/clock-icon-in-pull-request-list.png)
+  ![View merge queue on Pull requests page](/assets/images/2021/11/help/pull_requests/clock-icon-in-pull-request-list.png)
 
 - On your pull request, scroll down to the section with the checks, and click **View merge queue**.
 
-  ![View Merge queue button on pull request](/assets/images/help/pull_requests/view-merge-queue-button.png)
+  ![View Merge queue button on pull request](/assets/images/2021/11/help/pull_requests/view-merge-queue-button.png)
 
 The merge queue view shows the pull requests that are currently in the queue, with your pull requests clearly marked.
 
-![Merge queue view](/assets/images/help/pull_requests/merge-queue-view.png)
+![Merge queue view](/assets/images/2021/11/help/pull_requests/merge-queue-view.png)
 
 ## Handling pull requests removed from the merge queue
 	

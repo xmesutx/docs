@@ -89,11 +89,11 @@ Este ejemplo es vulnerable a la inyecciòn de scripts ya que el comando `run` se
 
 Para inyectar comandos en este flujo de trabajo, el atacante podrìa crear una solicitud de cambios con un tìtulo de `a"; ls $GITHUB_WORKSPACE"`:
 
-![Ejemplo de inyecciòn de scripts en el tìtulo de una solicitud de cambios](/assets/images/help/images/example-script-injection-pr-title.png)
+![Ejemplo de inyecciòn de scripts en el tìtulo de una solicitud de cambios](/assets/images/2021/10/help/images/example-script-injection-pr-title.png)
 
 En este ejemplo, el caracter `"` se utiliza para interrumpir la instrucciòn {% raw %}`title="${{ github.event.pull_request.title }}"`{% endraw %}, permitiendo que se ejecute el comando `ls` en el ejecutor. Puedes ver la salida del comando `ls` en la bitàcora:
 
-![Resultado de ejemplo de la inyecciòn de scripts](/assets/images/help/images/example-script-injection-result.png)
+![Resultado de ejemplo de la inyecciòn de scripts](/assets/images/2021/10/help/images/example-script-injection-result.png)
 
 ## Buenas pràcticas para mitigar los ataques de inyecciòn de scripts
 
@@ -135,7 +135,7 @@ El siguiente ejemplo utiliza Bash para procesar el valor `github.event.pull_requ
 
 En este ejemplo, el script que se intenta inyectar no tuvo éxito:
 
-![Ejemplo de inyección de script mitigada](/assets/images/help/images/example-script-injection-mitigated.png)
+![Ejemplo de inyección de script mitigada](/assets/images/2021/10/help/images/example-script-injection-mitigated.png)
 
 Con este enfoque, el valor de la expresón {% raw %}`${{ github.event.issue.title }}`{% endraw %} se almacena en la memoria y se utiliza como una variable y no interactúa con el proceso de generación del script. Adicionalmente, considera utilizar variables de cita doble del shell para evitar la [separación de palabras](https://github.com/koalaman/shellcheck/wiki/SC2086), pero esta es solo [una de muchas](https://mywiki.wooledge.org/BashPitfalls) recomendaciones generales para escribir scripts del shell y no es específica de {% data variables.product.prodname_actions %}.
 
@@ -296,7 +296,7 @@ Si estás utilizando las {% data variables.product.prodname_actions %} para desp
 
 Puedes utilizar la bitácora de auditoría para monitorear las tareas administrativas en una organización. La bitácora de auditoría registra el tipo de acción, cuándo se ejecutó, y qué cuenta de usuario la realizó.
 
-Por ejemplo, puedes utilizar la bitácora de auditoría para rastrear el evento `org.update_actions_secret`, el cual rastrea los cambios en los secretos de la organización: ![Entradas de la bitácora de auditoría](/assets/images/help/repository/audit-log-entries.png)
+Por ejemplo, puedes utilizar la bitácora de auditoría para rastrear el evento `org.update_actions_secret`, el cual rastrea los cambios en los secretos de la organización: ![Entradas de la bitácora de auditoría](/assets/images/2021/10/help/repository/audit-log-entries.png)
 
 Las siguientes tablas describen los eventos de {% data variables.product.prodname_actions %} que puedes encontrar en la bitácora de auditoría. Para obtener más información sobre cómo utilizar la bitácora de auditoría, consulta la sección "[Revisar la bitácora de auditoría de tu organización](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#searching-the-audit-log)".
 

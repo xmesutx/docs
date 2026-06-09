@@ -34,7 +34,7 @@ Se o modo privado for habilitado na sua empresa, o público não poderá acessar
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
-4. Selecione **Public Pages** (Pages público). ![Caixa de seleção para deixar o Pages acessível publicamente](/assets/images/enterprise/management-console/public-pages-checkbox.png)
+4. Selecione **Public Pages** (Pages público). ![Caixa de seleção para deixar o Pages acessível publicamente](/assets/images/2021/10/enterprise/management-console/public-pages-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Desabilitar {% data variables.product.prodname_pages %} para a sua empresa
@@ -44,7 +44,7 @@ Se o isolamento de subdomínio estiver desabilitado para sua empresa, você tamb
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
-4. Desmarque a seleção na caixa **Enable Pages** (Habilitar Pages). ![Caixa de seleção para desabilitar o{% data variables.product.prodname_pages %}](/assets/images/enterprise/management-console/pages-select-button.png)
+4. Desmarque a seleção na caixa **Enable Pages** (Habilitar Pages). ![Caixa de seleção para desabilitar o{% data variables.product.prodname_pages %}](/assets/images/2021/10/enterprise/management-console/pages-select-button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% endif %}
@@ -54,7 +54,7 @@ Se o isolamento de subdomínio estiver desabilitado para sua empresa, você tamb
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.pages-tab %}
-5. Em "Páginas políticas", desmarque **{% data variables.product.prodname_pages %}públicas**. ![Caixa de seleção para desabilitar o{% data variables.product.prodname_pages %}](/assets/images/enterprise/business-accounts/enable-github-pages-checkbox.png)
+5. Em "Páginas políticas", desmarque **{% data variables.product.prodname_pages %}públicas**. ![Caixa de seleção para desabilitar o{% data variables.product.prodname_pages %}](/assets/images/2021/10/enterprise/business-accounts/enable-github-pages-checkbox.png)
 {% data reusables.enterprise-accounts.pages-policies-save %}
 
 {% endif %}

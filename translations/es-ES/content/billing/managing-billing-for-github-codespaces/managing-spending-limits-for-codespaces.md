@@ -45,7 +45,7 @@ Los propietarios de la empresa y gerentes de facturación pueden administrar el 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. Sobre "Uso mensual de {% data variables.product.prodname_codespaces %}", haz clic en **Límite de gastos**. ![Pestaña de límite de gastos](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. Sobre "Uso mensual de {% data variables.product.prodname_codespaces %}", haz clic en **Límite de gastos**. ![Pestaña de límite de gastos](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 
@@ -58,7 +58,7 @@ Las notificaciones por correo electrónico se envían a los propietarios de las 
 
 Puedes inhabilitar estas notificaciones en cualquier momento si navegas al final de la página del **Límite de Gastos**.
 
-![Captura de pantalla de los ajustes de notificaciones de facturación por correo electrónico](/assets/images/help/billing/codespaces-spending-limit-notifications.png)
+![Captura de pantalla de los ajustes de notificaciones de facturación por correo electrónico](/assets/images/2022/02/help/billing/codespaces-spending-limit-notifications.png)
 
 ## Leer más
 

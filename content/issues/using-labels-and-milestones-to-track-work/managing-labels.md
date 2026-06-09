@@ -78,7 +78,7 @@ Anyone with triage access to a repository can apply and dismiss labels.
 
 1. Navigate to the {% ifversion fpt or ghec %}issue, pull request, or discussion{% else %}issue or pull request{% endif %}.
 1. In the right sidebar, to the right of "Labels", click {% octicon "gear" aria-label="The gear icon" %}, then click a label.
-  !["Labels" drop-down menu](/assets/images/help/issues/labels-drop-down.png)
+  !["Labels" drop-down menu](/assets/images/2021/10/help/issues/labels-drop-down.png)
 
 ## Editing a label
 

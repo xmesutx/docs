@@ -21,10 +21,10 @@ topics:
 
 IssueあるいはPull Requestに重複としてマーク付けをするには、新たなコメントの本文に"Duplicate of"に続けて重複のIssueあるいはPull Requestの番号を入力してください。 GitHubが提供する"Duplicate issue"あるいは"Duplicate pull request"の返信テンプレートを使ってIssueあるいはPull Requestを重複としてマーク付けすることもできます。 詳しい情報については[返信テンプレートについて](/articles/about-saved-replies)を参照してください。
 
-![重複のIssueの構文](/assets/images/help/issues/duplicate-issue-syntax.png)
+![重複のIssueの構文](/assets/images/2021/10/help/issues/duplicate-issue-syntax.png)
 
 ## 重複のマーク解除
 
 タイムラインで **[Undo]** をクリックすれば、Issue やPull Requestの重複のマークを外せます。 こうすると、その Issue あるいはPull Requestのマークが外されたことを示す新しいタイムラインのイベントが追加されます。
 
-![Issueの重複マークの解除ボタン](/assets/images/help/issues/unmark-duplicate-issue-button.png)
+![Issueの重複マークの解除ボタン](/assets/images/2021/10/help/issues/unmark-duplicate-issue-button.png)

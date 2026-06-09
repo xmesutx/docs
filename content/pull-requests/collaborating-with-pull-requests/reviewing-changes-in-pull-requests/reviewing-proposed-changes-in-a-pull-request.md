@@ -32,7 +32,7 @@ You can review changes in a pull request one file at a time. While reviewing the
 
    You can change the format of the diff view in this tab by clicking {% octicon "gear" aria-label="The Settings gear" %} and choosing the unified or split view. The choice you make will apply when you view the diff for other pull requests.
 
-   ![Diff view settings](/assets/images/help/pull_requests/diff-view-settings.png)
+   ![Diff view settings](/assets/images/2021/11/help/pull_requests/diff-view-settings.png)
 
    You can also choose to hide whitespace differences. The choice you make only applies to this pull request and will be remembered the next time you visit this page.
 {% endif %}
@@ -42,11 +42,11 @@ You can review changes in a pull request one file at a time. While reviewing the
 {% data reusables.repositories.suggest-changes %}
 1. When you're done, click **Start a review**. If you have already started a review, you can click **Add review comment**.
 
-   ![Start a review button](/assets/images/help/pull_requests/start-a-review-button.png)
+   ![Start a review button](/assets/images/2021/10/help/pull_requests/start-a-review-button.png)
 
 Before you submit your review, your line comments are _pending_ and only visible to you. You can edit pending comments anytime before you submit your review. To cancel a pending review, including all of its pending comments, scroll down to the end of the timeline on the Conversation tab, then click **Cancel review**.
 
-![Cancel review button](/assets/images/help/pull_requests/cancel-review-button.png)
+![Cancel review button](/assets/images/2021/10/help/pull_requests/cancel-review-button.png)
 {% endwebui %}
 
 {% ifversion fpt or ghec %}
@@ -73,7 +73,7 @@ If the pull request contains changes to dependencies you can use the dependency 
 
 1. On the right of the header for a manifest or lock file, display the dependency review by clicking the **{% octicon "file" aria-label="The rich diff icon" %}** rich diff button.
 
-   ![The rich diff button](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![The rich diff button](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 {% data reusables.repositories.return-to-source-diff %}
 {% endif %}
@@ -85,7 +85,7 @@ After you finish reviewing a file, you can mark the file as viewed, and the file
 {% data reusables.repositories.changed-files %}
 2. On the right of the header of the file you've finished reviewing, select **Viewed**.
 
-   ![Viewed checkbox](/assets/images/help/pull_requests/viewed-checkbox.png)
+   ![Viewed checkbox](/assets/images/2021/10/help/pull_requests/viewed-checkbox.png)
 
 ## Submitting your review
 
@@ -96,7 +96,7 @@ After you've finished reviewing all the files you want in the pull request, subm
 {% data reusables.repositories.review-summary-comment %}
 4. Select the type of review you'd like to leave:
 
-   ![Radio buttons with review options](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+   ![Radio buttons with review options](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
     - Select **Comment** to leave general feedback without explicitly approving the changes or requesting additional changes.
     - Select **Approve** to submit your feedback and approve merging the changes proposed in the pull request.

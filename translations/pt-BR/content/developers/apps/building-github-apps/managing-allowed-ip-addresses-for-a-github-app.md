@@ -27,7 +27,7 @@ Quando uma organização tem uma lista de autorizações, aplicativos de terceir
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-1. Role para baixo até a seção "Lista de permissão de IP". ![Seção de informações básicas para o seu aplicativo GitHub](/assets/images/github-apps/github-apps-allow-list-empty.png)
+1. Role para baixo até a seção "Lista de permissão de IP". ![Seção de informações básicas para o seu aplicativo GitHub](/assets/images/2021/10/github-apps/github-apps-allow-list-empty.png)
 {% data reusables.identity-and-permissions.ip-allow-lists-add-ip %}
 {% data reusables.identity-and-permissions.ip-allow-lists-add-description %}
   A descrição é para sua referência e não é usada na lista de licenças de organizações em que {% data variables.product.prodname_github_app %} está instalado. Em vez disso, a organização permite que as listas incluam "Gerenciado pelo Nome do aplicativo Github" como descrição.

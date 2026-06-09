@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![Pestañas de ubicación en el menú Clone a repository (Clonar un repositorio)](/assets/images/help/desktop/choose-repository-location-mac.png)
+  ![Pestañas de ubicación en el menú Clone a repository (Clonar un repositorio)](/assets/images/2021/10/help/desktop/choose-repository-location-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Pestañas de ubicación en el menú Clone a repository (Clonar un repositorio)](/assets/images/help/desktop/choose-repository-location-win.png)
+  ![Pestañas de ubicación en el menú Clone a repository (Clonar un repositorio)](/assets/images/2021/10/help/desktop/choose-repository-location-win.png)
 
   {% endwindows %}

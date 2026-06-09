@@ -12,7 +12,7 @@ versions:
 
 Importador GitHub es una herramienta que importa de forma rápida repositorios de código fuente, incluido el historial de revisiones y confirmaciones de cambios, a GitHub para tí.
 
-![Importar un gif de repositorio](/assets/images/help/importer/github-importer.gif)
+![Importar un gif de repositorio](/assets/images/2021/10/help/importer/github-importer.gif)
 
 Durante una importación, dependiendo del sistema de control de la versión del que estás importando, puedes autenticar con tu repositorio remoto, actualizar la atribución del autor de la confirmación e importar repositorios con archivos grandes (o eliminar archivos grandes si no quieres usar Large File Storage de Git).
 

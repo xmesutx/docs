@@ -28,7 +28,7 @@ Também é possível ver informações de implantação na guia "Conversation" (
 ## Exibir o painel de implantações
 
 {% data reusables.repositories.navigate-to-repo %}
-2. À direita da lista de arquivos, clique em **ambientes**. ![Ambientes à direita da página do repositório](/assets/images/help/repository/environments.png)
+2. À direita da lista de arquivos, clique em **ambientes**. ![Ambientes à direita da página do repositório](/assets/images/2021/10/help/repository/environments.png)
 
 ## Leia mais
  - "[Sobre pull requests](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)"

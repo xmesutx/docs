@@ -86,7 +86,7 @@ Si tu repositorio utiliza una licencia que está detallada en el sitio web Choos
 
 El selector de licencias solo está disponible cuando creas un proyecto nuevo en GitHub. Puedes agregar manualmente una licencia utilizando el buscador. Para obtener más información acerca de agregar una licencia a un repositorio, consulta "[Agregar una licencia a un repositorio](/articles/adding-a-license-to-a-repository)."
 
-![Captura de pantalla del selector de licencias en GitHub.com](/assets/images/help/repository/repository-license-picker.png)
+![Captura de pantalla del selector de licencias en GitHub.com](/assets/images/2021/10/help/repository/repository-license-picker.png)
 
 ## Descargo
 

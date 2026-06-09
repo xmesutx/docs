@@ -43,11 +43,11 @@ shortTitle: 阻止您的组织
 ## 在评论中阻止用户
 
 1. 导航到您要阻止其作者的评论。
-2. 在评论的右上角，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 **Block user（阻止用户）**。 ![显示阻止用户选项的水平烤肉串图标和评论审核菜单](/assets/images/help/repository/comment-menu-block-user.png)
-3. 如果要设置阻止的时限，请使用 Block user（阻止用户）下拉菜单，选择要阻止该用户的时间段。 ![阻止用户下拉菜单中的阻止时限](/assets/images/help/organizations/org-block-options-menu-from-comment.png)
-4. 如果要隐藏该用户在组织中发表的所有评论，请选择 **Hide this user's comments（隐藏此用户的评论）**并选择原因。 ![在阻止用户下拉菜单中发送通知](/assets/images/help/organizations/org-block-options-menu-hide-user-comments.png)
-5. 如果要将阻止的原因告知用户，请选择 **Send a notification to this user（向此用户发送通知）**。 ![在阻止用户下拉菜单中发送通知](/assets/images/help/organizations/org-block-options-menu-send-notification.png)
-6. 要阻止用户，请单击 **Block user from organization（阻止用户访问组织）**或 **Block user from organization and send message（阻止用户访问组织并发送消息）**。 ![阻止用户按钮](/assets/images/help/organizations/org-block-user-button-in-comment.png)
+2. 在评论的右上角，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 **Block user（阻止用户）**。 ![显示阻止用户选项的水平烤肉串图标和评论审核菜单](/assets/images/2021/10/help/repository/comment-menu-block-user.png)
+3. 如果要设置阻止的时限，请使用 Block user（阻止用户）下拉菜单，选择要阻止该用户的时间段。 ![阻止用户下拉菜单中的阻止时限](/assets/images/2021/10/help/organizations/org-block-options-menu-from-comment.png)
+4. 如果要隐藏该用户在组织中发表的所有评论，请选择 **Hide this user's comments（隐藏此用户的评论）**并选择原因。 ![在阻止用户下拉菜单中发送通知](/assets/images/2021/10/help/organizations/org-block-options-menu-hide-user-comments.png)
+5. 如果要将阻止的原因告知用户，请选择 **Send a notification to this user（向此用户发送通知）**。 ![在阻止用户下拉菜单中发送通知](/assets/images/2021/10/help/organizations/org-block-options-menu-send-notification.png)
+6. 要阻止用户，请单击 **Block user from organization（阻止用户访问组织）**或 **Block user from organization and send message（阻止用户访问组织并发送消息）**。 ![阻止用户按钮](/assets/images/2021/10/help/organizations/org-block-user-button-in-comment.png)
 
 ## 在组织设置中阻止用户
 
@@ -56,9 +56,9 @@ shortTitle: 阻止您的组织
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.block_users %}
-6. 在“Block a user（阻止用户）”下，键入要阻止的用户的用户名。 ![用户名字段](/assets/images/help/organizations/org-block-username-field.png)
-7. 如果要设置阻止的时限，请使用 Block options（阻止选项）下拉菜单，选择要阻止该用户的时间段。 ![阻止选项下拉菜单](/assets/images/help/organizations/org-block-options-menu.png)
-8. 单击 **Block user（阻止用户）**。 ![阻止按钮](/assets/images/help/organizations/org-block-user-button.png)
+6. 在“Block a user（阻止用户）”下，键入要阻止的用户的用户名。 ![用户名字段](/assets/images/2021/10/help/organizations/org-block-username-field.png)
+7. 如果要设置阻止的时限，请使用 Block options（阻止选项）下拉菜单，选择要阻止该用户的时间段。 ![阻止选项下拉菜单](/assets/images/2021/10/help/organizations/org-block-options-menu.png)
+8. 单击 **Block user（阻止用户）**。 ![阻止按钮](/assets/images/2021/10/help/organizations/org-block-user-button.png)
 
 ## 延伸阅读
 

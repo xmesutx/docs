@@ -22,7 +22,7 @@ shortTitle: Audit users
 
 The audit log dashboard gives you a visual display of audit data across your enterprise.
 
-![Instance wide audit log dashboard](/assets/images/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
+![Instance wide audit log dashboard](/assets/images/2021/10/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}

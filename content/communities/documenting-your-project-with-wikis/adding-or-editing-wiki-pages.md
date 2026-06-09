@@ -24,13 +24,13 @@ shortTitle: Manage wiki pages
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
 3. In the upper-right corner of the page, click **New Page**.
-  ![Wiki new page button](/assets/images/help/wiki/wiki_new_page_button.png)
+  ![Wiki new page button](/assets/images/2021/10/help/wiki/wiki_new_page_button.png)
 4. Optionally, to write in a format other than Markdown, use the Edit mode drop-down menu, and click a different format.
-  ![Wiki markup selection](/assets/images/help/wiki/wiki_dropdown_markup.gif)
+  ![Wiki markup selection](/assets/images/2021/10/help/wiki/wiki_dropdown_markup.gif)
 5. Use the text editor to add your page's content.
-  ![Wiki WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
+  ![Wiki WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
 6. Type a commit message describing the new file you’re adding.
-  ![Wiki commit message](/assets/images/help/wiki/wiki_commit_message.png)
+  ![Wiki commit message](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. To commit your changes to the wiki, click **Save Page**.
 
 ## Editing wiki pages
@@ -38,11 +38,11 @@ shortTitle: Manage wiki pages
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
 4. Using the wiki sidebar, navigate to the page you want to change. In the upper-right corner of the page, click **Edit**.
-   ![Wiki edit page button](/assets/images/help/wiki/wiki_edit_page_button.png)
+   ![Wiki edit page button](/assets/images/2021/10/help/wiki/wiki_edit_page_button.png)
 5. Use the text editor edit the page's content.
-   ![Wiki WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
+   ![Wiki WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
 6. Type a commit message describing your changes.
-   ![Wiki commit message](/assets/images/help/wiki/wiki_commit_message.png)
+   ![Wiki commit message](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. To commit your changes to the wiki, click **Save Page**.
 
 ## Adding or editing wiki pages locally

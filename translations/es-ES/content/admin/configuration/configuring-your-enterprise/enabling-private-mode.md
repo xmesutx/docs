@@ -31,5 +31,5 @@ Con el modo privado habilitado, puedes permitir que operaciones de Git sin auten
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-4. Selecciona **Private mode** (Modo privado). ![Casilla de verificación para habilitar el modo privado](/assets/images/enterprise/management-console/private-mode-checkbox.png)
+4. Selecciona **Private mode** (Modo privado). ![Casilla de verificación para habilitar el modo privado](/assets/images/2021/10/enterprise/management-console/private-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}

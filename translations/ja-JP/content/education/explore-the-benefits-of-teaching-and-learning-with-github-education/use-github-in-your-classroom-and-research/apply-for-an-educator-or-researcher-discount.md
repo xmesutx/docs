@@ -45,8 +45,8 @@ shortTitle: Apply for a discount
 ### 新しい Organization をアップグレードする
 
 {% data reusables.education.upgrade-page %}
-1. [{% octicon "plus" aria-label="The plus symbol" %} **Create an organization**] をクリックします。 ![[Create an organization] ボタン](/assets/images/help/education/create-org-button.png)
-3. 情報を読んで、[**Create organization**] をクリックします。 ![[Create organization] ボタン](/assets/images/help/education/create-organization-button.png)
+1. [{% octicon "plus" aria-label="The plus symbol" %} **Create an organization**] をクリックします。 ![[Create an organization] ボタン](/assets/images/2021/10/help/education/create-org-button.png)
+3. 情報を読んで、[**Create organization**] をクリックします。 ![[Create organization] ボタン](/assets/images/2021/10/help/education/create-organization-button.png)
 4. [Choose a plan] の下で、[**Choose {% data variables.product.prodname_free_team %}**] をクリックします。
 5. プロンプトに従って Organization を作成します。
 {% data reusables.education.upgrade-page %}

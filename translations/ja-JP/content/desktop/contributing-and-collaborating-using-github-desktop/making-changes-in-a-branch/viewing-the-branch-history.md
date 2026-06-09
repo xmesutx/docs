@@ -17,8 +17,8 @@ shortTitle: View branch history
  - コミットのSHA-1ハッシュ（固有のID）
 
 {% data reusables.desktop.history-tab %}
-2. **History**タブで、確認するコミットをクリックします。 ![Historyタブのコミット](/assets/images/help/desktop/branch-history-commit.png)
-3. コミットに複数のファイルがある場合、個別のファイルをクリックすると、そのコミットのそのファイルに加えられた変更が表示されます。 ![コミット内のファイル](/assets/images/help/desktop/branch-history-file.png)
+2. **History**タブで、確認するコミットをクリックします。 ![Historyタブのコミット](/assets/images/2021/10/help/desktop/branch-history-commit.png)
+3. コミットに複数のファイルがある場合、個別のファイルをクリックすると、そのコミットのそのファイルに加えられた変更が表示されます。 ![コミット内のファイル](/assets/images/2021/10/help/desktop/branch-history-file.png)
 
 ## 参考リンク
 

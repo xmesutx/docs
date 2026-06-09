@@ -23,7 +23,7 @@ shortTitle: コミュニティプロフィール
 
 {% data reusables.repositories.valid-community-issues %}詳細は「[Issue およびプルリクエストのテンプレートについて](/articles/about-issue-and-pull-request-templates)」を参照してください。
 
-![メンテナのための推奨されるコミュニティ標準を持つコミュニティプロフィールチェックリスト](/assets/images/help/repository/add-button-community-profile.png)
+![メンテナのための推奨されるコミュニティ標準を持つコミュニティプロフィールチェックリスト](/assets/images/2021/10/help/repository/add-button-community-profile.png)
 
 {% data reusables.repositories.security-guidelines %}
 
@@ -33,7 +33,7 @@ shortTitle: コミュニティプロフィール
 
 プロジェクトに推奨されているファイルがないなら、**[Propose]** をクリックし、ファイルのドラフトを作成してから、そのファイルをサブミットしてリポジトリメンテナに承認を仰ぐことができます。
 
-![コントリビューターのための推奨されるコミュニティ標準を持つコミュニティプロフィールチェックリスト](/assets/images/help/repository/propose-button-community-profile.png)
+![コントリビューターのための推奨されるコミュニティ標準を持つコミュニティプロフィールチェックリスト](/assets/images/2021/10/help/repository/propose-button-community-profile.png)
 
 ## 参考リンク
 

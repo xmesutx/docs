@@ -1,1 +1,1 @@
-1. Haz clic en **Choose a branch to merge into (Elige una rama para fusionarse en) <em>BRANCH</em>**. ![Elige una opción de rama en la lista de menús de ramas](/assets/images/help/desktop/merge-branch-button-list.png)
+1. Haz clic en **Choose a branch to merge into (Elige una rama para fusionarse en) <em>BRANCH</em>**. ![Elige una opción de rama en la lista de menús de ramas](/assets/images/2021/10/help/desktop/merge-branch-button-list.png)

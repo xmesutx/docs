@@ -43,7 +43,7 @@ permissions: People with admin access to a repository can add an outside collabo
 {% else %}
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-5. 在左侧边栏中，单击 **Collaborators & teams（协作者和团队）**。 ![突出显示协作者和团队的仓库设置侧边栏](/assets/images/help/repository/org-repo-settings-collaborators-and-teams.png)
-6. 在 "Collaborators"（协作者）下，输入您要授权其访问仓库的人员的名称，然后单击 **Add collaborator（添加协作者）**。 ![在搜索字段中输入了 Octocat 用户名的协作者部分](/assets/images/help/repository/org-repo-collaborators-find-name.png)
-7. 在新协作者的姓名旁边，使用下拉菜单并选择适当的访问权限级别。 ![仓库权限选择器](/assets/images/help/repository/org-repo-collaborators-choose-permissions.png)
+5. 在左侧边栏中，单击 **Collaborators & teams（协作者和团队）**。 ![突出显示协作者和团队的仓库设置侧边栏](/assets/images/2021/10/help/repository/org-repo-settings-collaborators-and-teams.png)
+6. 在 "Collaborators"（协作者）下，输入您要授权其访问仓库的人员的名称，然后单击 **Add collaborator（添加协作者）**。 ![在搜索字段中输入了 Octocat 用户名的协作者部分](/assets/images/2021/10/help/repository/org-repo-collaborators-find-name.png)
+7. 在新协作者的姓名旁边，使用下拉菜单并选择适当的访问权限级别。 ![仓库权限选择器](/assets/images/2021/10/help/repository/org-repo-collaborators-choose-permissions.png)
 {% endif %}

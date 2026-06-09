@@ -68,7 +68,7 @@ $ svn commit -m 'Added more_awesome topic branch'
 
 You can confirm that the new branch exists in the repository's branch dropdown:
 
-![branch-snapshot](/assets/images/help/branch/svnflow-branch-snapshot.png)
+![branch-snapshot](/assets/images/2021/10/help/branch/svnflow-branch-snapshot.png)
 
 You can also confirm the new branch via the command line:
 

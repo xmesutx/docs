@@ -25,4 +25,4 @@ Geralmente, quando alguém exclui um repositório, ele continua disponível em d
 {% data reusables.enterprise_site_admin_settings.click-user-or-org %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-5. Clique em **Place legal hold** (Impor retenção legal). ![Botão Place legal hold (Impor retenção legal)](/assets/images/enterprise/site-admin-settings/place-legal-hold-button.png)
+5. Clique em **Place legal hold** (Impor retenção legal). ![Botão Place legal hold (Impor retenção legal)](/assets/images/2021/10/enterprise/site-admin-settings/place-legal-hold-button.png)

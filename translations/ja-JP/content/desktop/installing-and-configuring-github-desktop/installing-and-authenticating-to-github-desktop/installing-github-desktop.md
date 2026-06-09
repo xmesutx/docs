@@ -30,8 +30,8 @@ Windows インストーラーパッケージは、単独のインストーラー
 {% data variables.product.prodname_desktop %}は、{% data variables.desktop.mac-osx-versions %}にインストールできます。
 
 {% data reusables.desktop.download-desktop-page %}
-2. [**Download for macOS**] をクリックします。 ![[Download for macOS] ボタン](/assets/images/help/desktop/download-for-mac.png)
-3. お使いのコンピュータの`Downloads`フォルダで、**{% data variables.product.prodname_desktop %}** zipファイルをダブルクリックします。 ![[GitHubDesktop.zip] ファイル](/assets/images/help/desktop/mac-zipfile.png)
+2. [**Download for macOS**] をクリックします。 ![[Download for macOS] ボタン](/assets/images/2021/10/help/desktop/download-for-mac.png)
+3. お使いのコンピュータの`Downloads`フォルダで、**{% data variables.product.prodname_desktop %}** zipファイルをダブルクリックします。 ![[GitHubDesktop.zip] ファイル](/assets/images/2021/10/help/desktop/mac-zipfile.png)
 4. ファイルが解凍された後、**{% data variables.product.prodname_desktop %}**をダブルクリックします。
 5. インストールが完了すると、{% data variables.product.prodname_desktop %} が起動します。
 
@@ -48,8 +48,8 @@ Windows インストーラーパッケージは、単独のインストーラー
 {% endwarning %}
 
 {% data reusables.desktop.download-desktop-page %}
-2. [**Download for Windows**] をクリックします。 ![[Download for Windows] ボタン](/assets/images/help/desktop/download-for-windows.png)
-3. コンピューターの [`Downloads`] フォルダで、[**{% data variables.product.prodname_desktop %}**] セットアップファイルをダブルクリックします。 ![[GitHubDesktopSetup] ファイル](/assets/images/help/desktop/windows-githubdesktopsetup.png)
+2. [**Download for Windows**] をクリックします。 ![[Download for Windows] ボタン](/assets/images/2021/10/help/desktop/download-for-windows.png)
+3. コンピューターの [`Downloads`] フォルダで、[**{% data variables.product.prodname_desktop %}**] セットアップファイルをダブルクリックします。 ![[GitHubDesktopSetup] ファイル](/assets/images/2021/10/help/desktop/windows-githubdesktopsetup.png)
 4. インストールが完了すると、{% data variables.product.prodname_desktop %} が起動します。
 
 {% endwindows %}

@@ -60,9 +60,9 @@ Teamのコラボレーション能力をさらに拡大するために、保護�
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 1. 左のサイドバーで**{% octicon "code-review" aria-label="The code-review icon" %} Code review（コードレビュー）**をクリックしてください。
 {% else %}
-1. 左のサイドバーで**Code review（コードレビュー）**をクリックしてください。 ![コードレビューボタン](/assets/images/help/teams/review-button.png)
+1. 左のサイドバーで**Code review（コードレビュー）**をクリックしてください。 ![コードレビューボタン](/assets/images/2021/11/help/teams/review-button.png)
 {% endif %}
-1. **Only notify requested team members.（リクエストされたTeamメンバーにのみ通知）**を選択してください。 ![コードレビューのTeam通知](/assets/images/help/teams/review-assignment-notifications.png)
+1. **Only notify requested team members.（リクエストされたTeamメンバーにのみ通知）**を選択してください。 ![コードレビューのTeam通知](/assets/images/2021/10/help/teams/review-assignment-notifications.png)
 1. [**Save changes**] をクリックします。
 {% endif %}
 
@@ -74,12 +74,12 @@ Teamのコラボレーション能力をさらに拡大するために、保護�
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 1. 左のサイドバーで**{% octicon "code-review" aria-label="The code-review icon" %} Code review（コードレビュー）**をクリックしてください。
 {% else %}
-1. 左のサイドバーで**Code review（コードレビュー）**をクリックしてください。 ![コードレビューボタン](/assets/images/help/teams/review-button.png)
+1. 左のサイドバーで**Code review（コードレビュー）**をクリックしてください。 ![コードレビューボタン](/assets/images/2021/11/help/teams/review-button.png)
 {% endif %}
-1. [**Enable auto assignment**] を選択します。 ![自動割り当てボタン](/assets/images/help/teams/review-assignment-enable.png)
-1. [How many team members should be assigned to review?] でドロップダウンメニューを使用し、各プルリクエストに割り当てるレビュー担当者の数を選択します。 ![[Number of reviewers] ドロップダウン](/assets/images/help/teams/review-assignment-number.png)
-1. [Routing algorithm] のドロップダウンメニューで、使用するアルゴリズムを選択します。 詳細は、「[ルーティングアルゴリズム](#routing-algorithms)」を参照してください。 ![[Routing algorithm] ドロップダウン](/assets/images/help/teams/review-assignment-algorithm.png)
-1. オプションで、Team の特定メンバーを常にスキップする場合は、[**Never assign certain team members**] を選択します。 次に、スキップする 1 つ以上の Team メンバーを選択します。 ![[Never assign certain team members] チェックボックスとラジオボタン](/assets/images/help/teams/review-assignment-skip-members.png)
+1. [**Enable auto assignment**] を選択します。 ![自動割り当てボタン](/assets/images/2021/10/help/teams/review-assignment-enable.png)
+1. [How many team members should be assigned to review?] でドロップダウンメニューを使用し、各プルリクエストに割り当てるレビュー担当者の数を選択します。 ![[Number of reviewers] ドロップダウン](/assets/images/2021/10/help/teams/review-assignment-number.png)
+1. [Routing algorithm] のドロップダウンメニューで、使用するアルゴリズムを選択します。 詳細は、「[ルーティングアルゴリズム](#routing-algorithms)」を参照してください。 ![[Routing algorithm] ドロップダウン](/assets/images/2021/10/help/teams/review-assignment-algorithm.png)
+1. オプションで、Team の特定メンバーを常にスキップする場合は、[**Never assign certain team members**] を選択します。 次に、スキップする 1 つ以上の Team メンバーを選択します。 ![[Never assign certain team members] チェックボックスとラジオボタン](/assets/images/2021/10/help/teams/review-assignment-skip-members.png)
 {% ifversion ghes < 3.4 %}
 1. オプションで、プルレビューリクエストごとのコードレビュー割り当てによって選択された Teamメンバーのみに通知する場合は、[Notifications] で[**If assigning team members, don't notify the entire team.**] を選択します。
 {%- endif %}
@@ -95,5 +95,5 @@ Teamのコラボレーション能力をさらに拡大するために、保護�
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-1. [**Enable auto assignment**] を選択してチェックマークを外します。 ![[Code review assignment] ボタン](/assets/images/help/teams/review-assignment-enable.png)
+1. [**Enable auto assignment**] を選択してチェックマークを外します。 ![[Code review assignment] ボタン](/assets/images/2021/10/help/teams/review-assignment-enable.png)
 1. [**Save changes**] をクリックします。

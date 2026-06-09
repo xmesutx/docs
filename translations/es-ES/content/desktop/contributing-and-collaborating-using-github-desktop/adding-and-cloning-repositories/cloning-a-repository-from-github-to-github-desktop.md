@@ -20,7 +20,7 @@ shortTitle: Clonar un repositorio de GitHub
 1. Inicia sesión en {% data variables.product.product_location %} y {% data variables.product.prodname_desktop %} antes de comenzar la clonación.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.open-with-github-desktop %}
-5. Haz clic en **Choose...** (Elegir...) y, a través de la ventana Finder (Buscador) desplázate hasta la ruta donde deseas clonar el repositorio. ![El botón Choose (Elegir) en la pestaña URL](/assets/images/help/desktop/clone-choose-button-url-mac.png)
+5. Haz clic en **Choose...** (Elegir...) y, a través de la ventana Finder (Buscador) desplázate hasta la ruta donde deseas clonar el repositorio. ![El botón Choose (Elegir) en la pestaña URL](/assets/images/2021/10/help/desktop/clone-choose-button-url-mac.png)
 
   {% note %}
 
@@ -28,7 +28,7 @@ shortTitle: Clonar un repositorio de GitHub
 
   {% endnote %}
 
-5. Haz clic en **Clone**. ![El botón para clonar en la pestaña URL](/assets/images/help/desktop/clone-button-url-mac.png)
+5. Haz clic en **Clone**. ![El botón para clonar en la pestaña URL](/assets/images/2021/10/help/desktop/clone-button-url-mac.png)
 
 {% endmac %}
 
@@ -37,7 +37,7 @@ shortTitle: Clonar un repositorio de GitHub
 1. Inicia sesión en {% data variables.product.product_location %} y {% data variables.product.prodname_desktop %} antes de comenzar la clonación.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.open-with-github-desktop %}
-5. Haz clic en **Choose...** (Elegir...) y, a través de Windows Explorer, desplázate hasta la ruta donde deseas clonar el repositorio. ![El botón Choose (Elegir)](/assets/images/help/desktop/clone-choose-button-url-win.png)
+5. Haz clic en **Choose...** (Elegir...) y, a través de Windows Explorer, desplázate hasta la ruta donde deseas clonar el repositorio. ![El botón Choose (Elegir)](/assets/images/2021/10/help/desktop/clone-choose-button-url-win.png)
 
   {% note %}
 
@@ -45,6 +45,6 @@ shortTitle: Clonar un repositorio de GitHub
 
   {% endnote %}
 
-5. Haz clic en **Clone**. ![El botón Clone (Clonar)](/assets/images/help/desktop/clone-button-url-win.png)
+5. Haz clic en **Clone**. ![El botón Clone (Clonar)](/assets/images/2021/10/help/desktop/clone-button-url-win.png)
 
 {% endwindows %}

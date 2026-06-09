@@ -84,12 +84,12 @@ GraphiQLもしくはベースURLの設定ができる他のスタンドアロー
 
 2. 認証を受けるには、認証オプションのメニューを開き、**Bearer token**を選択してください。 次に、先ほどコピーした個人アクセストークンを追加してください。
 
- ![個人アクセストークンの権限オプション](/assets/images/developer/graphql/insomnia-base-url-and-pat.png)
+ ![個人アクセストークンの権限オプション](/assets/images/2021/10/developer/graphql/insomnia-base-url-and-pat.png)
 
- ![個人アクセストークンの権限オプション](/assets/images/developer/graphql/insomnia-bearer-token-option.png)
+ ![個人アクセストークンの権限オプション](/assets/images/2021/10/developer/graphql/insomnia-bearer-token-option.png)
 
 3. ヘッダー情報を含めてください。
-   - ヘッダーとして`Content-Type`を、値として`application/json`を追加してください。 ![標準ヘッダー](/assets/images/developer/graphql/json-content-type-header.png) ![Audit Log APIのためのプレビュー値を持つヘッダー](/assets/images/developer/graphql/preview-header-for-2.18.png)
+   - ヘッダーとして`Content-Type`を、値として`application/json`を追加してください。 ![標準ヘッダー](/assets/images/2021/10/developer/graphql/json-content-type-header.png) ![Audit Log APIのためのプレビュー値を持つヘッダー](/assets/images/2021/10/developer/graphql/preview-header-for-2.18.png)
 
 これでクエリを発行する準備ができました。
 

@@ -21,11 +21,11 @@ When a third-party application wants to identify you by your {% data variables.p
 
 Because an application is developed by a third-party who isn't {% data variables.product.product_name %}, we don't know exactly how an application uses the data it's requesting access to. You can use the developer information at the top of the page to contact the application admin if you have questions or concerns about their application.
 
-![{% data variables.product.prodname_oauth_app %} owner information](/assets/images/help/platform/oauth_owner_bar.png)
+![{% data variables.product.prodname_oauth_app %} owner information](/assets/images/2021/10/help/platform/oauth_owner_bar.png)
 
 If the developer has chosen to supply it, the right-hand side of the page provides a detailed description of the application, as well as its associated website.
 
-![OAuth application information and website](/assets/images/help/platform/oauth_app_info.png)
+![OAuth application information and website](/assets/images/2021/10/help/platform/oauth_app_info.png)
 
 ## Types of application access and data
 
@@ -50,7 +50,7 @@ When you want to use a third-party application that integrates with {% data vari
 
 There are several types of data that applications can request.
 
-![OAuth access details](/assets/images/help/platform/oauth_access_types.png)
+![OAuth access details](/assets/images/2021/10/help/platform/oauth_access_types.png)
 
 {% tip %}
 
@@ -74,4 +74,4 @@ There are several types of data that applications can request.
 
 Applications can request new access privileges. When asking for updated permissions, the application will notify you of the differences.
 
-![Changing third-party application access](/assets/images/help/platform/oauth_existing_access_pane.png)
+![Changing third-party application access](/assets/images/2021/10/help/platform/oauth_existing_access_pane.png)

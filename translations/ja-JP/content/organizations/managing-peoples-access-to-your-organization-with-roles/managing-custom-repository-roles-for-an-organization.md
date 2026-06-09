@@ -115,12 +115,12 @@ TeamのメンバーシップやOrganizationの基本権限など、様々な方�
 {% data reusables.organizations.org_settings %}
 {% data reusables.organizations.org-list %}
 {% data reusables.organizations.org-settings-repository-roles %}
-5. **Create a Role（ロールの作成）**をクリックしてください。 !["ロールの作成"ボタンのスクリーンショット](/assets/images/help/organizations/repository-role-create-role.png)
-4. "Name（名前）"の下で、リポジトリロールの名前を入力してください。 ![リポジトリロールの名前の入力フィールド](/assets/images/help/organizations/repository-role-name.png)
-5. "Description（説明）"の下で、リポジトリロールの説明を入力してください。 ![リポジトリロールの説明の入力フィールド](/assets/images/help/organizations/repository-role-description.png)
-6. "Choose a role to inherit（継承するロールの選択）"の下で、継承したいロールを選択してください。 ![リポジトリロールの基本ロールの選択](/assets/images/help/organizations/repository-role-base-role-option.png)
-7. "Add Permissions（権限の追加）"の下で、ドロップダウンメニューを使ってカスタムロールに含めたい権限を選択してください。 ![リポジトリロールのドロップダウンで権限レベルを選択](/assets/images/help/organizations/repository-role-drop-down.png)
-7. **Create role（ロールの作成）**をクリックしてください。 ![リポジトリロールの作成の確認](/assets/images/help/organizations/repository-role-creation-confirm.png)
+5. **Create a Role（ロールの作成）**をクリックしてください。 !["ロールの作成"ボタンのスクリーンショット](/assets/images/2021/11/help/organizations/repository-role-create-role.png)
+4. "Name（名前）"の下で、リポジトリロールの名前を入力してください。 ![リポジトリロールの名前の入力フィールド](/assets/images/2021/11/help/organizations/repository-role-name.png)
+5. "Description（説明）"の下で、リポジトリロールの説明を入力してください。 ![リポジトリロールの説明の入力フィールド](/assets/images/2021/11/help/organizations/repository-role-description.png)
+6. "Choose a role to inherit（継承するロールの選択）"の下で、継承したいロールを選択してください。 ![リポジトリロールの基本ロールの選択](/assets/images/2021/11/help/organizations/repository-role-base-role-option.png)
+7. "Add Permissions（権限の追加）"の下で、ドロップダウンメニューを使ってカスタムロールに含めたい権限を選択してください。 ![リポジトリロールのドロップダウンで権限レベルを選択](/assets/images/2021/11/help/organizations/repository-role-drop-down.png)
+7. **Create role（ロールの作成）**をクリックしてください。 ![リポジトリロールの作成の確認](/assets/images/2021/11/help/organizations/repository-role-creation-confirm.png)
 
 ## リポジトリロールの編集
 
@@ -129,8 +129,8 @@ TeamのメンバーシップやOrganizationの基本権限など、様々な方�
 {% data reusables.organizations.org_settings %}
 {% data reusables.organizations.org-list %}
 {% data reusables.organizations.org-settings-repository-roles %}
-3. 編集したいロールの右で{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて**Edit（編集）**をクリックしてください。 ![リポジトリロールのドロップダウンメニュー内の選択肢を編集](/assets/images/help/organizations/repository-role-edit-setting.png)
-4. 編集し、続いて**Update role（ロールの更新）**をクリックしてください。 ![リポジトリロールのフィールドを編集して更新](/assets/images/help/organizations/repository-role-update.png)
+3. 編集したいロールの右で{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて**Edit（編集）**をクリックしてください。 ![リポジトリロールのドロップダウンメニュー内の選択肢を編集](/assets/images/2021/11/help/organizations/repository-role-edit-setting.png)
+4. 編集し、続いて**Update role（ロールの更新）**をクリックしてください。 ![リポジトリロールのフィールドを編集して更新](/assets/images/2021/11/help/organizations/repository-role-update.png)
 
 ## リポジトリロールの削除
 
@@ -141,5 +141,5 @@ TeamのメンバーシップやOrganizationの基本権限など、様々な方�
 {% data reusables.organizations.org_settings %}
 {% data reusables.organizations.org-list %}
 {% data reusables.organizations.org-settings-repository-roles %}
-3. 削除したいロールの右で{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて**Delete（削除）**をクリックしてください。 ![リポジトリロールのドロップダウンメニュー内の選択肢を編集](/assets/images/help/organizations/repository-role-delete-setting.png)
-4. 削除したいロールに対する変更をレビューし、続いて**Delete role（ロールの削除）**をクリックしてください。 ![リポジトリロールの削除を確認](/assets/images/help/organizations/repository-role-delete-confirm.png)
+3. 削除したいロールの右で{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックし、続いて**Delete（削除）**をクリックしてください。 ![リポジトリロールのドロップダウンメニュー内の選択肢を編集](/assets/images/2021/11/help/organizations/repository-role-delete-setting.png)
+4. 削除したいロールに対する変更をレビューし、続いて**Delete role（ロールの削除）**をクリックしてください。 ![リポジトリロールの削除を確認](/assets/images/2021/11/help/organizations/repository-role-delete-confirm.png)

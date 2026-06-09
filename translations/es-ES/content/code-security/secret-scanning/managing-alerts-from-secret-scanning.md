@@ -34,27 +34,27 @@ shortTitle: Administrar las alertas de los secretos
 {% data reusables.repositories.sidebar-security %}
 1. En la barra lateral izquierda, haz clic en **Alertas del escaneo de secretos**.
    {% ifversion fpt or ghes or ghec %}
-   ![Pestaña de "Alertas del escaneo de secretos"](/assets/images/help/repository/sidebar-secrets.png)
+   ![Pestaña de "Alertas del escaneo de secretos"](/assets/images/2021/10/help/repository/sidebar-secrets.png)
    {% endif %}
    {% ifversion ghae %}
-   ![Pestaña de "Alertas del escaneo de secretos"](/assets/images/enterprise/github-ae/repository/sidebar-secrets-ghae.png)
+   ![Pestaña de "Alertas del escaneo de secretos"](/assets/images/2021/10/enterprise/github-ae/repository/sidebar-secrets-ghae.png)
    {% endif %}
 1. Debajo de "Escaneo de secretos" da clic en la alerta que quieras ver.
    {% ifversion fpt or ghec %}
-   ![Lista de alertas del escaneo de secretos](/assets/images/help/repository/secret-scanning-click-alert.png)
+   ![Lista de alertas del escaneo de secretos](/assets/images/2021/10/help/repository/secret-scanning-click-alert.png)
    {% endif %}
    {% ifversion ghes %}
-   ![Lista de alertas del escaneo de secretos](/assets/images/help/repository/secret-scanning-click-alert-ghe.png)
+   ![Lista de alertas del escaneo de secretos](/assets/images/2021/10/help/repository/secret-scanning-click-alert-ghe.png)
    {% endif %}
    {% ifversion ghae %}
-   ![Lista de alertas del escaneo de secretos](/assets/images/enterprise/github-ae/repository/secret-scanning-click-alert-ghae.png)
+   ![Lista de alertas del escaneo de secretos](/assets/images/2021/10/enterprise/github-ae/repository/secret-scanning-click-alert-ghae.png)
    {% endif %}
 1. Opcionalmente, selecciona el menú desplegable de {% ifversion fpt or ghec %}"Cerrar como"{% elsif ghes or ghae %}"Marcar como"{% endif %} y haz clic en la razón para resolver una alerta.
    {% ifversion fpt or ghec %}
-   ![Menú desplegable para resolver una alerta del escaneo de secretos](/assets/images/help/repository/secret-scanning-resolve-alert.png)
+   ![Menú desplegable para resolver una alerta del escaneo de secretos](/assets/images/2021/10/help/repository/secret-scanning-resolve-alert.png)
    {% endif %}
    {% ifversion ghes or ghae %}
-   ![Menú desplegable para resolver una alerta del escaneo de secretos](/assets/images/help/repository/secret-scanning-resolve-alert-ghe.png)
+   ![Menú desplegable para resolver una alerta del escaneo de secretos](/assets/images/2021/10/help/repository/secret-scanning-resolve-alert-ghe.png)
    {% endif %}
 
 ## Asegurar los secretos en riesgo

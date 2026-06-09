@@ -22,5 +22,5 @@ shortTitle: 团队头像
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-5. 单击 **Upload new picture（上传新图片）**并选择所需的头像。 ![上传新图片](/assets/images/help/teams/org-team-profile-picture-upload.png)
-6. 单击并拖动以根据需要裁剪图像，然后单击 **Set new team avatar（设置新的团队头像）**。 ![设置新的团队头像](/assets/images/help/teams/org-team-set-new-team-avatar.png)
+5. 单击 **Upload new picture（上传新图片）**并选择所需的头像。 ![上传新图片](/assets/images/2021/10/help/teams/org-team-profile-picture-upload.png)
+6. 单击并拖动以根据需要裁剪图像，然后单击 **Set new team avatar（设置新的团队头像）**。 ![设置新的团队头像](/assets/images/2021/10/help/teams/org-team-set-new-team-avatar.png)

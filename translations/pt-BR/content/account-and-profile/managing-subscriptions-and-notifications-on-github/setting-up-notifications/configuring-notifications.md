@@ -84,7 +84,7 @@ Anytime you comment in a conversation or when someone @mentions your username, y
 
 For conversations you're watching or participating in, you can choose whether you want to receive notifications by email or through the notifications inbox on {% data variables.product.product_location %}{% ifversion fpt or ghes or ghec %} and {% data variables.product.prodname_mobile %}{% endif %}.
 
-![Participating and watching notifications options](/assets/images/help/notifications-v2/participating-and-watching-options.png)
+![Participating and watching notifications options](/assets/images/2021/10/help/notifications-v2/participating-and-watching-options.png)
 
 For example:
   - If you don't want notifications to be sent to your email, unselect **email** for participating and watching notifications.
@@ -104,7 +104,7 @@ After enabling email notifications, {% data variables.product.product_location %
 
 If you're using Gmail, you can click a button beside the notification email to visit the original issue or pull request that generated the notification.
 
-![Buttons in Gmail](/assets/images/help/notifications/gmail-buttons.png)
+![Buttons in Gmail](/assets/images/2021/10/help/notifications/gmail-buttons.png)
 
 {% endif %}
 
@@ -151,7 +151,7 @@ Email notifications from {% data variables.product.product_location %} contain t
 
 By default, anytime you gain access to a new repository, you will automatically begin watching that repository. Anytime you join a new team, you will automatically be subscribed to updates and receive notifications when that team is @mentioned. If you don't want to automatically be subscribed, you can unselect the automatic watching options.
 
-  ![Automatic watching options](/assets/images/help/notifications-v2/automatic-watching-options.png)
+  ![Automatic watching options](/assets/images/2021/10/help/notifications-v2/automatic-watching-options.png)
 
 If "Automatically watch repositories" is disabled, then you will not automatically watch your own repositories. You must navigate to your repository page and choose the watch option.
 
@@ -162,13 +162,13 @@ You can choose whether to watch or unwatch an individual repository. You can als
 {% data reusables.repositories.navigate-to-repo %}
 2. In the upper-right corner, select the "Watch" drop-down menu to click a watch option.
 {% ifversion fpt or ghes or ghae-issue-4910 or ghec %}
-   ![Watch options in a drop-down menu for a repository](/assets/images/help/notifications-v2/watch-repository-options-custom.png)
+   ![Watch options in a drop-down menu for a repository](/assets/images/2021/10/help/notifications-v2/watch-repository-options-custom.png)
 
    The **Custom** option allows you to further customize notifications so that you're only notified when specific events happen in the repository, in addition to participating and @mentions.
 {% else %}
-     ![Watch options in a drop-down menu for a repository](/assets/images/help/notifications-v2/watch-repository-options.png){% endif %}
+     ![Watch options in a drop-down menu for a repository](/assets/images/2021/10/help/notifications-v2/watch-repository-options.png){% endif %}
 {% ifversion fpt or ghes or ghae-issue-4910 or ghec %}
-   ![Custom watch options in a drop-down menu for a repository](/assets/images/help/notifications-v2/watch-repository-options-custom2-dotcom.png)
+   ![Custom watch options in a drop-down menu for a repository](/assets/images/2021/10/help/notifications-v2/watch-repository-options-custom2-dotcom.png)
    If you select "Issues", you will be notified about, and subscribed to, updates on every issue (including those that existed prior to you selecting this option) in the repository. If you're @mentioned in a pull request in this repository, you'll receive notifications for that too, and you'll be subscribed to updates on that specific pull request, in addition to being notified about issues.
 {% endif %}
 
@@ -181,7 +181,7 @@ If you belong to an organization, you can choose the email account you want noti
 {% data reusables.notifications.access_notifications %}
 {% data reusables.notifications-v2.manage-notifications %}
 3. Under "Default notification email", select the email address you'd like notifications sent to.	
-![Default notification email address drop-down](/assets/images/help/notifications/notifications_primary_email_for_orgs.png)	
+![Default notification email address drop-down](/assets/images/2021/10/help/notifications/notifications_primary_email_for_orgs.png)	
 4. Click **Save**.	
 
 ### Customizing email routes per organization	
@@ -191,11 +191,11 @@ If you are a member of more than one organization, you can configure each one to
 {% data reusables.notifications.access_notifications %}
 {% data reusables.notifications-v2.manage-notifications %}
 3. Under "Custom routing," find your organization's name in the list.	
-![List of organizations and email addresses](/assets/images/help/notifications/notifications_org_emails.png)	
+![List of organizations and email addresses](/assets/images/2021/10/help/notifications/notifications_org_emails.png)	
 4. Click **Edit** next to the email address you want to change.
-![Editing an organization's email addresses](/assets/images/help/notifications/notifications_edit_org_emails.png)	
+![Editing an organization's email addresses](/assets/images/2021/10/help/notifications/notifications_edit_org_emails.png)	
 5. Select one of your verified email addresses, then click **Save**.	
-![Switching your per-org email address](/assets/images/help/notifications/notifications_switching_org_email.gif)
+![Switching your per-org email address](/assets/images/2021/10/help/notifications/notifications_switching_org_email.gif)
 
 {% ifversion fpt or ghes or ghae-issue-4864 or ghec %}
 ## {% data variables.product.prodname_dependabot_alerts %} notification options 
@@ -212,7 +212,7 @@ For more information about the notification delivery methods available to you, a
 
 Choose how you want to receive workflow run updates for repositories that you are watching that are set up with {% data variables.product.prodname_actions %}. You can also choose to only receive notifications for failed workflow runs.
 
-  ![Notification options for {% data variables.product.prodname_actions %}](/assets/images/help/notifications-v2/github-actions-notification-options.png)
+  ![Notification options for {% data variables.product.prodname_actions %}](/assets/images/2021/10/help/notifications-v2/github-actions-notification-options.png)
 
 {% endif %}
 
@@ -256,8 +256,8 @@ You can choose whether to watch or unwatch an individual repository. You can als
 
 1. On {% data variables.product.prodname_mobile %}, navigate to the main page of the repository.
 2. Tap **Watch**.
-   ![The watch button on {% data variables.product.prodname_mobile %}](/assets/images/help/notifications-v2/mobile-watch-button.png)
+   ![The watch button on {% data variables.product.prodname_mobile %}](/assets/images/2021/10/help/notifications-v2/mobile-watch-button.png)
 3. To choose what activities you receive notifications for, tap your preferred watch settings.
-   ![Watch settings dropdown menu in {% data variables.product.prodname_mobile %}](/assets/images/help/notifications-v2/mobile-watch-settings.png)
+   ![Watch settings dropdown menu in {% data variables.product.prodname_mobile %}](/assets/images/2021/10/help/notifications-v2/mobile-watch-settings.png)
 
 {% endif %}

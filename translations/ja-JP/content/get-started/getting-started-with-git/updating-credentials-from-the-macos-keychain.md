@@ -27,7 +27,7 @@ We recommend you either [configure SSH](/articles/generating-an-ssh-key) or upgr
 ## Updating your credentials via Keychain Access
 
 1. Click on the Spotlight icon (magnifying glass) on the right side of the menu bar. Type `Keychain access` then press the Enter key to launch the app.
-   ![Spotlight Search bar](/assets/images/help/setup/keychain-access.png)
+   ![Spotlight Search bar](/assets/images/2021/10/help/setup/keychain-access.png)
 2. In Keychain Access, search for **{% data variables.command_line.backticks %}**.
 3. Find the "internet password" entry for `{% data variables.command_line.backticks %}`.
 4. Edit or delete the entry accordingly.

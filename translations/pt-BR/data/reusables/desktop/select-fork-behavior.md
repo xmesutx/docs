@@ -2,13 +2,13 @@
 
   {% mac %}
 
-  ![A opção de contribuir para o repositório principal no menu de Comportamento da Bifurcação](/assets/images/help/desktop/mac-fork-behavior-menu-contribute.png)
+  ![A opção de contribuir para o repositório principal no menu de Comportamento da Bifurcação](/assets/images/2021/10/help/desktop/mac-fork-behavior-menu-contribute.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![A opção de contribuir para o repositório principal no menu de Comportamento da Bifurcação](/assets/images/help/desktop/windows-fork-behavior-menu-contribute.png)
+  ![A opção de contribuir para o repositório principal no menu de Comportamento da Bifurcação](/assets/images/2021/10/help/desktop/windows-fork-behavior-menu-contribute.png)
 
   {% endwindows %}
 
@@ -16,13 +16,13 @@
 
   {% mac %}
 
-  ![Botão salvar no menu de Comportamento da Bifurcação](/assets/images/help/desktop/mac-fork-behavior-save.png)
+  ![Botão salvar no menu de Comportamento da Bifurcação](/assets/images/2021/10/help/desktop/mac-fork-behavior-save.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Botão salvar no menu de Comportamento da Bifurcação](/assets/images/help/desktop/windows-fork-behavior-save.png)
+  ![Botão salvar no menu de Comportamento da Bifurcação](/assets/images/2021/10/help/desktop/windows-fork-behavior-save.png)
 
   {% endwindows %}
   

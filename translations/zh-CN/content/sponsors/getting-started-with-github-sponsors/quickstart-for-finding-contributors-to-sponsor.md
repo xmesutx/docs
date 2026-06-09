@@ -16,11 +16,11 @@ shortTitle: 快速入门
 
 如果您已登录，赞助者结果将从仓库所依赖的公共依赖项开始。
 
-![Babel 开源项目使用的高亮文本表示"您有 4 个仓库依赖于此项目"](/assets/images/help/sponsors/example-of-open-source-project-dependency.png)
+![Babel 开源项目使用的高亮文本表示"您有 4 个仓库依赖于此项目"](/assets/images/2021/10/help/sponsors/example-of-open-source-project-dependency.png)
 
 您还可以切换查看哪个帐户的结果，并进一步过滤或搜索。
 
-![赞助者社区搜索页面上的搜索选项](/assets/images/help/sponsors/sponsors-search-options.png)
+![赞助者社区搜索页面上的搜索选项](/assets/images/2021/10/help/sponsors/sponsors-search-options.png)
 
 ## 了解其他人赞助谁
 

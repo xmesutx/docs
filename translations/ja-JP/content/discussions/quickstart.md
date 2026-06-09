@@ -22,10 +22,10 @@ Repository owners and people with write access can enable {% data variables.prod
 When you first enable {% data variables.product.prodname_discussions %}, you will be invited to configure a welcome post.
 
 {% data reusables.repositories.navigate-to-repo %}
-1. リポジトリ名の下で{% octicon "gear" aria-label="The gear icon" %} **Settings（設定）**をクリックしてください。 ![公開設定ボタン](/assets/images/help/discussions/public-repo-settings.png)
-1. [Features] で、[**Set up discussions**] をクリックします。 ![Set up a discussion button under "Features" for enabling or disabling GitHub Discussions for a repository](/assets/images/help/discussions/setup-discussions-button.png)
+1. リポジトリ名の下で{% octicon "gear" aria-label="The gear icon" %} **Settings（設定）**をクリックしてください。 ![公開設定ボタン](/assets/images/2021/10/help/discussions/public-repo-settings.png)
+1. [Features] で、[**Set up discussions**] をクリックします。 ![Set up a discussion button under "Features" for enabling or disabling GitHub Discussions for a repository](/assets/images/2021/10/help/discussions/setup-discussions-button.png)
 1. [Start a new discussion] で、テンプレートを編集してコミュニティに設定するリソースと方向性を合わせます。
-1. **Start discussion（ディスカッションの開始）**をクリックしてください。 !["ディスカッションの開始" ボタン](/assets/images/help/discussions/new-discussion-start-discussion-button.png)
+1. **Start discussion（ディスカッションの開始）**をクリックしてください。 !["ディスカッションの開始" ボタン](/assets/images/2021/10/help/discussions/new-discussion-start-discussion-button.png)
 
 ## ディスカッションへのコントリビューションを歓迎する
 

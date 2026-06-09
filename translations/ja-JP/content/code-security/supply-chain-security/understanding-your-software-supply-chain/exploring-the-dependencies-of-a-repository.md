@@ -31,7 +31,7 @@ shortTitle: 依存関係の調査
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.click-dependency-graph %}{% ifversion fpt or ghec %}
-4. オプションとして、[Dependency graph] で [**Dependents**] をクリックします。 ![Dependents tab on the dependency graph page](/assets/images/help/graphs/dependency-graph-dependents-tab.png){% endif %}
+4. オプションとして、[Dependency graph] で [**Dependents**] をクリックします。 ![Dependents tab on the dependency graph page](/assets/images/2021/10/help/graphs/dependency-graph-dependents-tab.png){% endif %}
 
 {% ifversion ghes or ghae-issue-4864 %}
 Enterprise owners can configure the dependency graph at an enterprise level. For more information, see "[Enabling the dependency graph for your enterprise](/admin/code-security/managing-supply-chain-security-for-your-enterprise/enabling-the-dependency-graph-for-your-enterprise)."
@@ -44,14 +44,14 @@ Enterprise owners can configure the dependency graph at an enterprise level. For
 
 リポジトリで脆弱性が検出された場合は、{% data variables.product.prodname_dependabot_alerts %}にアクセスできるユーザに、ビューの上部で表示されます。
 
-![依存関係グラフ](/assets/images/help/graphs/dependencies_graph.png)
+![依存関係グラフ](/assets/images/2021/10/help/graphs/dependencies_graph.png)
 
 {% endif %}
 
 {% ifversion ghes or ghae %}
 リポジトリのマニフェストもしくはロックファイルで指定されている直接あるいは間接の依存関係は、エコシステムでグループ化されてリストされます。 リポジトリで脆弱性が検出された場合は、{% data variables.product.prodname_dependabot_alerts %}にアクセスできるユーザに、ビューの上部で表示されます。
 
-![依存関係グラフ](/assets/images/help/graphs/dependencies_graph_server.png)
+![依存関係グラフ](/assets/images/2021/10/help/graphs/dependencies_graph_server.png)
 
 {% note %}
 
@@ -66,7 +66,7 @@ Enterprise owners can configure the dependency graph at an enterprise level. For
 
 パブリックリポジトリの場合、他のリポジトリによってどう使用されているかが、依存ビューに表示されます。 パッケージマネージャーにライブラリを含むリポジトリのみを表示するには、依存リポジトリのリストのすぐ上にある「**NUMBER Packages**」をクリックします。 依存の数は概数であり、リストされている依存と一致しないことがあります。
 
-![依存グラフ](/assets/images/help/graphs/dependents_graph.png)
+![依存グラフ](/assets/images/2021/10/help/graphs/dependents_graph.png)
 
 ## プライベートリポジトリの依存関係グラフを有効化および無効化する
 
@@ -77,7 +77,7 @@ Enterprise owners can configure the dependency graph at an enterprise level. For
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
-4. リポジトリ データへの読み取りアクセスを {% data variables.product.product_name %} に許可して依存関係グラフを有効にすることに関するメッセージを読んだうえで、[Dependency Graph] の隣にある [**Enable**] をクリックします。 ![依存関係グラフの [Enable] ボタン](/assets/images/help/repository/dependency-graph-enable-button.png)
+4. リポジトリ データへの読み取りアクセスを {% data variables.product.product_name %} に許可して依存関係グラフを有効にすることに関するメッセージを読んだうえで、[Dependency Graph] の隣にある [**Enable**] をクリックします。 ![依存関係グラフの [Enable] ボタン](/assets/images/2021/10/help/repository/dependency-graph-enable-button.png)
 
 [Security & analysis] タブで [Dependency Graph] の隣にある [**Disable**] をクリックすれば、依存関係グラフはいつでも無効にできます。
 
@@ -87,7 +87,7 @@ Enterprise owners can configure the dependency graph at an enterprise level. For
 
 "Used by"セクションは、見つかったパッケージに対する公開参照数を示し、依存物のプロジェクトのオーナーのアバターを表示します。
 
-!["Used by"サイドバーセクション](/assets/images/help/repository/used-by-section.png)
+!["Used by"サイドバーセクション](/assets/images/2021/10/help/repository/used-by-section.png)
 
 このセクション内のアイテムをクリックすると、依存関係グラフの**Dependents（依存物）**タブに移動します。
 
@@ -96,7 +96,7 @@ Enterprise owners can configure the dependency graph at an enterprise level. For
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
-4. Under "Code security and analysis", click the drop-down menu in the "Used by counter" section and choose a package. !["Used by"パッケージの選択](/assets/images/help/repository/choose-used-by-package.png)
+4. Under "Code security and analysis", click the drop-down menu in the "Used by counter" section and choose a package. !["Used by"パッケージの選択](/assets/images/2021/10/help/repository/choose-used-by-package.png)
 
 {% endif %}
 

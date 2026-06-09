@@ -21,7 +21,7 @@ shortTitle: Block push with personal email
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
 {% data reusables.user-settings.keeping_your_email_address_private %}
-4. コマンドラインからプッシュするコミットでメールアドレスをプライベートに保つには、[**Block command line pushes that expose my email**] (メールを公開してしまうコマンドラインプッシュのブロック) を選択します。 ![メールを公開してしまうコマンドラインプッシュをブロックする選択肢](/assets/images/help/settings/email_privacy_block_command_line_pushes.png)
+4. コマンドラインからプッシュするコミットでメールアドレスをプライベートに保つには、[**Block command line pushes that expose my email**] (メールを公開してしまうコマンドラインプッシュのブロック) を選択します。 ![メールを公開してしまうコマンドラインプッシュをブロックする選択肢](/assets/images/2021/10/help/settings/email_privacy_block_command_line_pushes.png)
 
 ## 参考リンク
 

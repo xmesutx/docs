@@ -88,16 +88,16 @@ Para obter informações sobre como melhorar a segurança do repositório, consu
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em "Danger Zone" (Zona de Perigo), à direita de "Alterar a visibilidade do repositório", clique **Alterar visibilidade**. ![Botão de alteração de visibilidade](/assets/images/help/repository/repo-change-vis.png)
+3. Em "Danger Zone" (Zona de Perigo), à direita de "Alterar a visibilidade do repositório", clique **Alterar visibilidade**. ![Botão de alteração de visibilidade](/assets/images/2021/10/help/repository/repo-change-vis.png)
 4. Selecione uma visibilidade.
 {% ifversion fpt or ghec %}
-   ![Caixa de diálogo de opções para visibilidade do repositório](/assets/images/help/repository/repo-change-select.png){% else %}
-![Dialog of options for repository visibility](/assets/images/enterprise/repos/repo-change-select.png){% endif %}
+   ![Caixa de diálogo de opções para visibilidade do repositório](/assets/images/2021/10/help/repository/repo-change-select.png){% else %}
+![Dialog of options for repository visibility](/assets/images/2021/10/enterprise/repos/repo-change-select.png){% endif %}
 5. Para verificar se você está alterando a visibilidade do repositório correto, digite o nome do repositório que deseja alterar a visibilidade.
 6. Clique em **Eu entendi, altere a visibilidade do repositório**.
 {% ifversion fpt or ghec %}
-   ![Confirmar alteração do botão de visibilidade do repositório](/assets/images/help/repository/repo-change-confirm.png){% else %}
-![Confirm change of repository visibility button](/assets/images/enterprise/repos/repo-change-confirm.png){% endif %}
+   ![Confirmar alteração do botão de visibilidade do repositório](/assets/images/2021/10/help/repository/repo-change-confirm.png){% else %}
+![Confirm change of repository visibility button](/assets/images/2021/10/enterprise/repos/repo-change-confirm.png){% endif %}
 
 
 ## Leia mais

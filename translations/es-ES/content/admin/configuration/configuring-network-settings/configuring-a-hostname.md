@@ -24,8 +24,8 @@ La configuración del nombre de host en la {% data variables.enterprise.manageme
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.hostname-menu-item %}
-4. Escribe el nombre del host que quieres establecer para {% data variables.product.product_location %}. ![Campo para establecer un nombre del host](/assets/images/enterprise/management-console/hostname-field.png)
-5. Para probar las configuraciones de DNS y SSL para el nombre del host nuevo, haz clic en **Configuraciones del dominio de prueba**. ![Botón Test domain settings (Probar configuraciones del dominio)](/assets/images/enterprise/management-console/test-domain-settings.png)
+4. Escribe el nombre del host que quieres establecer para {% data variables.product.product_location %}. ![Campo para establecer un nombre del host](/assets/images/2021/10/enterprise/management-console/hostname-field.png)
+5. Para probar las configuraciones de DNS y SSL para el nombre del host nuevo, haz clic en **Configuraciones del dominio de prueba**. ![Botón Test domain settings (Probar configuraciones del dominio)](/assets/images/2021/10/enterprise/management-console/test-domain-settings.png)
 {% data reusables.enterprise_management_console.test-domain-settings-failure %}
 {% data reusables.enterprise_management_console.save-settings %}
 

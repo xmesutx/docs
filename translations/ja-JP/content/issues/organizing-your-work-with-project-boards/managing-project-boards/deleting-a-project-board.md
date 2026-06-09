@@ -26,7 +26,7 @@ topics:
 1. 削除対象のプロジェクトボードに移動します。
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.click-edit-sidebar-menu-project-board %}
-4. [**Delete project**] をクリックします。 ![[Delete project] ボタン](/assets/images/help/projects/delete-project-button.png)
+4. [**Delete project**] をクリックします。 ![[Delete project] ボタン](/assets/images/2021/10/help/projects/delete-project-button.png)
 5. プロジェクトボードの削除を確定するには [**OK**] をクリックします。
 
 ## 参考リンク

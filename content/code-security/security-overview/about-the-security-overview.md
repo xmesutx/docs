@@ -44,11 +44,11 @@ In the security overview, at both the organization and repository level, there a
 
 {% endif %}
 
-![The security overview for an organization](/assets/images/help/organizations/security-overview.png)
+![The security overview for an organization](/assets/images/2021/10/help/organizations/security-overview.png)
 
 For each repository in the security overview, you will see icons for each type of security feature and how many alerts there are of each type. If a security feature is not enabled for a repository, the icon for that feature will be grayed out. In addition, a risk score is calculated for each repository based on its code scanning, Dependabot and secret scanning alerts. This score is in beta and should be used with caution. Its algorithm and approach is subject to change.
 
-![Icons in the security overview](/assets/images/help/organizations/security-overview-icons.png)
+![Icons in the security overview](/assets/images/2021/10/help/organizations/security-overview-icons.png)
 
 | Icon | Meaning |
 | -------- | -------- |

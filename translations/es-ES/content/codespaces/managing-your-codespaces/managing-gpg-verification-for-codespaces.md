@@ -24,8 +24,8 @@ Una vez que habilitas la verificación de GPG, esta tomará efecto inmediatament
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. Debajo de "verificación GPG", selecciona la configuración que quieras para la verificación de GPG. ![Botones radiales para administrar la verificación GPG](/assets/images/help/settings/codespaces-gpg-verification-radio-buttons.png)
-1. Si eliges "Repositorios seleccionados"; selecciona el menú desplegable y luego da clic en el repositorio para el cual quieras habilitar la verificación de GPG. Repite esto para todos los repositorios en los cuales quieras habilitar la verificación GPG. ![Menú desplegable de "Repositorios seleccionados"](/assets/images/help/settings/codespaces-gpg-verification-repository-drop-down.png)
+1. Debajo de "verificación GPG", selecciona la configuración que quieras para la verificación de GPG. ![Botones radiales para administrar la verificación GPG](/assets/images/2021/10/help/settings/codespaces-gpg-verification-radio-buttons.png)
+1. Si eliges "Repositorios seleccionados"; selecciona el menú desplegable y luego da clic en el repositorio para el cual quieras habilitar la verificación de GPG. Repite esto para todos los repositorios en los cuales quieras habilitar la verificación GPG. ![Menú desplegable de "Repositorios seleccionados"](/assets/images/2021/10/help/settings/codespaces-gpg-verification-repository-drop-down.png)
 
 
 {% note %}

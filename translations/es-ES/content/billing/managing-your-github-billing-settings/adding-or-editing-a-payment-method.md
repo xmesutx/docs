@@ -35,9 +35,9 @@ No entregamos facturas u órdenes de compra de respaldo a cuentas personales. En
 
 {% data reusables.user-settings.billing_plans %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. Si tu cuenta tiene información de facturación existente que quieras actualizar, haz clic en **Editar**. ![Botón de facturar con tarjeta nueva](/assets/images/help/billing/billing-information-edit-button.png)
+1. Si tu cuenta tiene información de facturación existente que quieras actualizar, haz clic en **Editar**. ![Botón de facturar con tarjeta nueva](/assets/images/2021/10/help/billing/billing-information-edit-button.png)
 {% data reusables.dotcom_billing.enter-billing-info %}
-1. Si tu cuenta tiene un método de pago existente que quieras actualizar, haz clic en **Editar**. ![Botón de facturar con tarjeta nueva](/assets/images/help/billing/billing-payment-method-edit-button.png)
+1. Si tu cuenta tiene un método de pago existente que quieras actualizar, haz clic en **Editar**. ![Botón de facturar con tarjeta nueva](/assets/images/2021/10/help/billing/billing-payment-method-edit-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}
 
 ## Actualizar el método de pago de tu organización
@@ -48,5 +48,5 @@ Si tu organización está fuera de los EE. UU. o si estás usando una cuenta cor
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. Si tu cuenta tiene una tarjeta de crédito existente, la cual quieres actualizar, haz clic en **Tarjeta nueva**. ![Botón de facturar con tarjeta nueva](/assets/images/help/billing/billing-new-card-button.png)
+1. Si tu cuenta tiene una tarjeta de crédito existente, la cual quieres actualizar, haz clic en **Tarjeta nueva**. ![Botón de facturar con tarjeta nueva](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

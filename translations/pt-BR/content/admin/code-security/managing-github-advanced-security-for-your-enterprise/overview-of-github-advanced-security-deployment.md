@@ -33,7 +33,7 @@ Criamos uma abordagem faseada para implementações do GHAS desenvolvidas com ba
 
 Embora a abordagem faseada seja recomendada, os ajustes podem ser feitos com base nas necessidades da sua empresa. Sugerimos também a criação e o cumprimento de um calendário para a sua implementação. À medida que você começa o seu planejamento, podemos trabalhar juntos para identificar a abordagem ideal e a linha do tempo que funciona melhor para sua empresa.
 
-![Diagrama que mostra as três fases da implementação do GitHub Advanced Security, incluindo a Fase 0: Planejamento & introdução, Fase 1: Projetos piloto, Fase 2: Adesão e implementação corporativas para os primeiros a aderirem e Fase 3: Implementação completa & Gestão de mudanças](/assets/images/enterprise/security/advanced-security-phased-approach-diagram.png)
+![Diagrama que mostra as três fases da implementação do GitHub Advanced Security, incluindo a Fase 0: Planejamento & introdução, Fase 1: Projetos piloto, Fase 2: Adesão e implementação corporativas para os primeiros a aderirem e Fase 3: Implementação completa & Gestão de mudanças](/assets/images/2021/10/enterprise/security/advanced-security-phased-approach-diagram.png)
 
 
 Com base na nossa experiência ajudando clientes com uma implantação bem-sucedida de {% data variables.product.prodname_GH_advanced_security %}, esperamos que a maioria dos clientes queira seguir essas fases. Dependendo das necessidades da sua empresa, talvez seja necessário modificar esta abordagem e alterar ou remover algumas fases ou etapas.

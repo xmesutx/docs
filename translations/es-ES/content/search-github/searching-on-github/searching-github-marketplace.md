@@ -21,8 +21,8 @@ Puedes encontrar aplicaciones y acciones en{% data variables.product.prodname_ma
 
 ## Buscar en {% data variables.product.prodname_marketplace %}
 
-1. En la parte superior de cualquier página, da clic en **Mercado**. ![Enlace a Mercado](/assets/images/help/search/marketplace-link.png)
-2. Teclea cualquier palabra clave y presiona **Enter**. ![Buscar linter en {% data variables.product.prodname_marketplace %}](/assets/images/help/search/marketplace-apps-and-actions-search-field.png)
+1. En la parte superior de cualquier página, da clic en **Mercado**. ![Enlace a Mercado](/assets/images/2021/10/help/search/marketplace-link.png)
+2. Teclea cualquier palabra clave y presiona **Enter**. ![Buscar linter en {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/help/search/marketplace-apps-and-actions-search-field.png)
 3. Opcionalmente, filtra tus resultados dando clic en una o más opciones en la barra lateral.
 
 ## Buscar a través de {% data variables.product.prodname_dotcom_the_website %}
@@ -30,8 +30,8 @@ Puedes encontrar aplicaciones y acciones en{% data variables.product.prodname_ma
 Cada vez que buscas en todo {% data variables.product.prodname_dotcom_the_website %}, puedes filtrar los resultados para ver las coincidencias de aplicaciones y acciones de {% data variables.product.prodname_marketplace %}.
 
 1. Navega hasta https://github.com/search.
-2. Teclea cualquier palabra clave y presiona **Enter**. ![campo buscar](/assets/images/help/search/search-field.png)
-3. En la barra lateral, da clic en **Mercado**. ![Buscar resultados para linter con la opción del menú lateral del Mercado resaltada](/assets/images/help/search/marketplace-left-side-navigation.png)
+2. Teclea cualquier palabra clave y presiona **Enter**. ![campo buscar](/assets/images/2021/10/help/search/search-field.png)
+3. En la barra lateral, da clic en **Mercado**. ![Buscar resultados para linter con la opción del menú lateral del Mercado resaltada](/assets/images/2021/10/help/search/marketplace-left-side-navigation.png)
 
 ## Leer más
 

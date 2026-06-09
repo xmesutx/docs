@@ -41,11 +41,11 @@ shortTitle: アプリケーションリストのドラフト
 
   {% endnote %}
 
-  ![アプリケーションの種類の選択](/assets/images/settings/apps_choose_app.png)
+  ![アプリケーションの種類の選択](/assets/images/2021/10/settings/apps_choose_app.png)
 
-4. {% data variables.product.prodname_marketplace %}に追加するアプリケーションを選択します。 ![{% data variables.product.prodname_marketplace %}リストのアプリケーションの選択](/assets/images/github-apps/github_apps_select-app.png)
+4. {% data variables.product.prodname_marketplace %}に追加するアプリケーションを選択します。 ![{% data variables.product.prodname_marketplace %}リストのアプリケーションの選択](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.edit_marketplace_listing %}
-5. 新しいドラフトのリストを作成すると、{% data variables.product.prodname_marketplace %}のリストの完成前にアクセスしておかなければならないセクションの概要が表示されます。 ![GitHub Marketplaceのリスト](/assets/images/marketplace/marketplace_listing_overview.png)
+5. 新しいドラフトのリストを作成すると、{% data variables.product.prodname_marketplace %}のリストの完成前にアクセスしておかなければならないセクションの概要が表示されます。 ![GitHub Marketplaceのリスト](/assets/images/2021/10/marketplace/marketplace_listing_overview.png)
 
 
 {% note %}

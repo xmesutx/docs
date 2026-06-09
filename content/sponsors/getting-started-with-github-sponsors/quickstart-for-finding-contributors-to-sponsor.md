@@ -16,11 +16,11 @@ As you consider where to find open source contributors to sponsor, consider star
 
 If you're logged in, the sponsors results will start with public dependencies that your repositories depend on.
 
-![The Babel open source project with highlighted text that says "4 of your repositories depend on this"](/assets/images/help/sponsors/example-of-open-source-project-dependency.png)
+![The Babel open source project with highlighted text that says "4 of your repositories depend on this"](/assets/images/2021/10/help/sponsors/example-of-open-source-project-dependency.png)
 
 You can also toggle which of your accounts to view results for and further filter or search.
 
-![Search options on sponsors community search page](/assets/images/help/sponsors/sponsors-search-options.png)
+![Search options on sponsors community search page](/assets/images/2021/10/help/sponsors/sponsors-search-options.png)
 
 ## Explore whom others sponsor
 

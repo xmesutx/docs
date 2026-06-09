@@ -38,7 +38,7 @@ Before enabling access to all actions from {% data variables.product.prodname_do
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.github-connect-tab %}
 1. Under "Users can utilize actions from GitHub.com in workflow runs", use the drop-down menu and select **Enabled**.
-  ![Drop-down menu to actions from GitHub.com in workflows runs](/assets/images/enterprise/site-admin-settings/enable-marketplace-actions-drop-down-ae.png)
+  ![Drop-down menu to actions from GitHub.com in workflows runs](/assets/images/2021/10/enterprise/site-admin-settings/enable-marketplace-actions-drop-down-ae.png)
 1. {% data reusables.actions.enterprise-limit-actions-use %}
 
 {% ifversion ghes > 3.2 or ghae-issue-4815 %}
@@ -54,7 +54,7 @@ After using an action from {% data variables.product.prodname_dotcom_the_website
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. In the left sidebar, under **Site admin** click **Retired namespaces**.
 3. Locate the namespace that you want use in {% data variables.product.product_location %} and click **Unretire**.
-   ![Unretire namespace](/assets/images/enterprise/site-admin-settings/unretire-namespace.png)
+   ![Unretire namespace](/assets/images/2021/11/enterprise/site-admin-settings/unretire-namespace.png)
 4. Go to the relevant organization and create a new repository.
 
    {% tip %}

@@ -35,8 +35,8 @@ shortTitle: 转换所有者团队
 {% data reusables.organizations.convert-owners-team-confirm %}
 5. 在团队名称字段中，为所有者团队选择一个新名称。 例如：
     - 如果组织中只有极少数成员是所有者团队的成员，您可以将该团队命名为“核心”。
-    - 如果组织中的所有成员都是所有者团队的成员（以便他们能够 [@提及团队](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams)），您可以将该团队命名为“员工”。 ![在团队名称字段将所有者团队重命名为核心](/assets/images/help/teams/owners-team-new-name.png)
-6. 在团队说明下，单击 **Save and continue（保存并继续）**。 ![保存并继续按钮](/assets/images/help/teams/owners-team-save-and-continue.png)
+    - 如果组织中的所有成员都是所有者团队的成员（以便他们能够 [@提及团队](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams)），您可以将该团队命名为“员工”。 ![在团队名称字段将所有者团队重命名为核心](/assets/images/2021/10/help/teams/owners-team-new-name.png)
+6. 在团队说明下，单击 **Save and continue（保存并继续）**。 ![保存并继续按钮](/assets/images/2021/10/help/teams/owners-team-save-and-continue.png)
 7. （可选）[让团队*公开*](/articles/changing-team-visibility)。
 
 ## 删除旧所有者团队
@@ -51,4 +51,4 @@ shortTitle: 转换所有者团队
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.owners-team %}
 {% data reusables.organizations.convert-owners-team-confirm %}
-5. 在页面底部，查看警告，然后单击 **Delete the Owners team（删除所有者团队）**。 ![删除所有者团队的链接](/assets/images/help/teams/owners-team-delete.png)
+5. 在页面底部，查看警告，然后单击 **Delete the Owners team（删除所有者团队）**。 ![删除所有者团队的链接](/assets/images/2021/10/help/teams/owners-team-delete.png)

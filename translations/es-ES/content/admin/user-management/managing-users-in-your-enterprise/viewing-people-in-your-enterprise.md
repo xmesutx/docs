@@ -22,7 +22,7 @@ You can view enterprise owners {% ifversion ghec %} and billing managers, {% end
 {% data reusables.enterprise-accounts.people-tab %}
 {% data reusables.enterprise-accounts.administrators-tab %}
 {% ifversion ghec %}1. Optionally, to view a list of pending invitations, click **_NUMBER_ pending**.
-  !["NUMBER pending" button to the right of search and filter options](/assets/images/help/enterprises/administrators-pending.png){% endif %}
+  !["NUMBER pending" button to the right of search and filter options](/assets/images/2021/10/help/enterprises/administrators-pending.png){% endif %}
 
 ## Viewing members and outside collaborators
 
@@ -33,9 +33,9 @@ You can view {% ifversion ghec %}all the {% data variables.product.prodname_ghe_
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
 1. Optionally, to view a list of outside collaborators rather than the list of members, click **Outside collaborators**.
-  ![Outside collaborators tab on the Organization members page](/assets/images/help/business-accounts/outside-collaborators-tab.png)
+  ![Outside collaborators tab on the Organization members page](/assets/images/2021/10/help/business-accounts/outside-collaborators-tab.png)
 {% ifversion ghec %}1. Optionally, to view a list of pending invitations, click **_NUMBER_ pending**.
-  !["NUMBER pending" button to the right of search and filter options](/assets/images/help/enterprises/members-pending.png){% endif %}
+  !["NUMBER pending" button to the right of search and filter options](/assets/images/2021/10/help/enterprises/members-pending.png){% endif %}
 
 {% ifversion ghec %}
 
@@ -46,7 +46,7 @@ If your enterprise uses {% data variables.product.prodname_emus %}, you can also
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
 1. To view a list of suspended members, above the list of active members, click **Suspended**.
-  ![Screenshot showing "Suspended" option](/assets/images/help/enterprises/view-suspended-members.png)
+  ![Screenshot showing "Suspended" option](/assets/images/2022/01/help/enterprises/view-suspended-members.png)
 
 {% endif %}
 

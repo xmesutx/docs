@@ -35,9 +35,9 @@ If your commits are not linked to any user, the commit author's name will not be
 To check the email address used for those commits and connect commits to your account, take the following steps:
 
 1. Navigate to the commit by clicking the commit message link.
-![Commit message link](/assets/images/help/commits/commit-msg-link.png)
+![Commit message link](/assets/images/2021/10/help/commits/commit-msg-link.png)
 2. To read a message about why the commit is not linked, hover over the blue {% octicon "question" aria-label="Question mark" %} to the right of the username.
-![Commit hover message](/assets/images/help/commits/commit-hover-msg.png)
+![Commit hover message](/assets/images/2021/10/help/commits/commit-hover-msg.png)
 
   - **Unrecognized author (with email address)** If you see this message with an email address, the address you used to author the commit is not connected to your account on {% data variables.product.product_name %}. {% ifversion not ghae %}To link your commits, [add the email address to your GitHub email settings](/articles/adding-an-email-address-to-your-github-account).{% endif %} If the email address has a Gravatar associated with it, the Gravatar will be displayed next to the commit, rather than the default gray Octocat.
   - **Unrecognized author (no email address)** If you see this message without an email address, you used a generic email address that can't be connected to your account on {% data variables.product.product_name %}.{% ifversion not ghae %} You will need to [set your commit email address in Git](/articles/setting-your-commit-email-address), then [add the new address to your GitHub email settings](/articles/adding-an-email-address-to-your-github-account) to link your future commits. Old commits will not be linked.{% endif %}

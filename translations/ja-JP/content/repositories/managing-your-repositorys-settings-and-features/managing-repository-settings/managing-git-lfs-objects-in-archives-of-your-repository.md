@@ -25,4 +25,4 @@ If you use an external LFS server (configured in your `.lfsconfig`), those LFS f
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Archives] で、[**Include {% data variables.large_files.product_name_short %} objects in archives**] を選択または選択解除します。 ![アーカイブにある {% data variables.large_files.product_name_short %} オブジェクトを含めるチェックボックス](/assets/images/help/repository/include-git-lfs-objects-checkbox.png)
+3. [Archives] で、[**Include {% data variables.large_files.product_name_short %} objects in archives**] を選択または選択解除します。 ![アーカイブにある {% data variables.large_files.product_name_short %} オブジェクトを含めるチェックボックス](/assets/images/2021/10/help/repository/include-git-lfs-objects-checkbox.png)

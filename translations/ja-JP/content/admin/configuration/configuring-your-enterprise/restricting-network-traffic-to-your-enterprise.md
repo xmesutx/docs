@@ -47,7 +47,7 @@ Azure NSG を使用したインスタンスレベルの制限については、E
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. [IP allow list] で、「**Enable IP allow list**」を選択します。 ![IP アドレスを許可するチェックボックス](/assets/images/help/security/enable-ip-allowlist-enterprise-checkbox.png)
+1. [IP allow list] で、「**Enable IP allow list**」を選択します。 ![IP アドレスを許可するチェックボックス](/assets/images/2021/10/help/security/enable-ip-allowlist-enterprise-checkbox.png)
 4. [**Save**] をクリックします。
 
 ## 許可 IP アドレスを編集する

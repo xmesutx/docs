@@ -61,14 +61,14 @@ Nos repositórios que você possui, os usuários bloqueados também não podem:
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. Em "Block a user" (Bloquear um usuário), digite o nome de usuário que deseja bloquear e clique em **Block user** (Bloquear usuário). ![Campo Username (Nome de usuário) e botão Block (Bloquear)](/assets/images/help/settings/user-settings-block-user.png)
-4. Se desejar, para exibir um aviso quando você visitar um repositório onde um usuário bloqueado é um contribuidor, selecione **Warn me when a blocked user is a prior contributor to a repository** (Avisar-me quando um usuário bloqueado for um contribuidor anterior em um repositório). ![Opção de avisar sobre usuários bloqueados](/assets/images/help/settings/warn-block-user.png)
+3. Em "Block a user" (Bloquear um usuário), digite o nome de usuário que deseja bloquear e clique em **Block user** (Bloquear usuário). ![Campo Username (Nome de usuário) e botão Block (Bloquear)](/assets/images/2021/10/help/settings/user-settings-block-user.png)
+4. Se desejar, para exibir um aviso quando você visitar um repositório onde um usuário bloqueado é um contribuidor, selecione **Warn me when a blocked user is a prior contributor to a repository** (Avisar-me quando um usuário bloqueado for um contribuidor anterior em um repositório). ![Opção de avisar sobre usuários bloqueados](/assets/images/2021/10/help/settings/warn-block-user.png)
 
 ## Bloquear um usuário na página de perfil dele
 
 {% data reusables.profile.user_profile_page_navigation %}
 {% data reusables.profile.user_profile_page_block_or_report %}
-3. Clique em **Block user** (Bloquear usuário). ![Caixa de diálogo modal com opções para bloquear o usuário ou denunciar um abuso](/assets/images/help/profile/profile-blockuser.png)
+3. Clique em **Block user** (Bloquear usuário). ![Caixa de diálogo modal com opções para bloquear o usuário ou denunciar um abuso](/assets/images/2021/10/help/profile/profile-blockuser.png)
 
 {% note %}
 

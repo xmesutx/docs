@@ -202,7 +202,7 @@ Você pode verificar quais políticas de acesso são aplicadas a um segredo na s
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. A lista de segredos inclui quaisquer permissões e políticas configuradas. Por exemplo: ![Lista de segredos](/assets/images/help/settings/actions-org-secrets-list.png)
+1. A lista de segredos inclui quaisquer permissões e políticas configuradas. Por exemplo: ![Lista de segredos](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. Para obter mais detalhes sobre as permissões configuradas para cada segredo, clique em **Atualizar**.
 
 ## Usando segredos encriptados em um fluxo de trabalho

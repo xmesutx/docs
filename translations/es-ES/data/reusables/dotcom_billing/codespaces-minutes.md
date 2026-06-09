@@ -1,1 +1,1 @@
-1. Debajo de "{% data variables.product.prodname_codespaces %}", visualiza los detalles de uso de tus horas de cálculo y almacenamiento. ![Detalles de uso de minutos](/assets/images/help/billing/codespaces-compute-storage.png)
+1. Debajo de "{% data variables.product.prodname_codespaces %}", visualiza los detalles de uso de tus horas de cálculo y almacenamiento. ![Detalles de uso de minutos](/assets/images/2021/10/help/billing/codespaces-compute-storage.png)

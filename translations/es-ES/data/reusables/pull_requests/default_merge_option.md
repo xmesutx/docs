@@ -2,4 +2,4 @@ Cuando haces clic en la opción predeterminada **Merge pull request** (Fusionar 
 
 Para fusionar solicitudes de extracción, debes tener [permisos de escritura](/articles/repository-permission-levels-for-an-organization/) sobre el repositorio.
 
-![standard-merge-commit-diagram](/assets/images/help/pull_requests/standard-merge-commit-diagram.png)
+![standard-merge-commit-diagram](/assets/images/2021/10/help/pull_requests/standard-merge-commit-diagram.png)

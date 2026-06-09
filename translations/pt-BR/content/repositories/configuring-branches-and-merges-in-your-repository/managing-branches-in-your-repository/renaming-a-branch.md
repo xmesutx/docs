@@ -28,9 +28,9 @@ Os fluxos de trabalho de {% data variables.product.prodname_actions %} não segu
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-branches %}
-1. Na lista de branches, à direita do branch que você deseja renomear, clique em {% octicon "pencil" aria-label="The edit icon" %}. ![Ícone do lápis à direita do branch que você deseja renomear](/assets/images/help/branch/branch-rename-edit.png)
-1. Digite um novo nome para o branch. ![Campo de texto para digitar o novo nome do branch](/assets/images/help/branch/branch-rename-type.png)
-1. Revise as informações sobre ambientes locais e clique em **Renomear o branch**. ![Informações de ambiente local e botão para "Renomear o branch"](/assets/images/help/branch/branch-rename-rename.png)
+1. Na lista de branches, à direita do branch que você deseja renomear, clique em {% octicon "pencil" aria-label="The edit icon" %}. ![Ícone do lápis à direita do branch que você deseja renomear](/assets/images/2021/10/help/branch/branch-rename-edit.png)
+1. Digite um novo nome para o branch. ![Campo de texto para digitar o novo nome do branch](/assets/images/2021/10/help/branch/branch-rename-type.png)
+1. Revise as informações sobre ambientes locais e clique em **Renomear o branch**. ![Informações de ambiente local e botão para "Renomear o branch"](/assets/images/2021/10/help/branch/branch-rename-rename.png)
 
 ## Atualizar um clone local após alterações de nome do branch
 

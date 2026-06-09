@@ -21,4 +21,4 @@ shortTitle: 支払いマネージャーの削除
 {% endwarning %}
 
 {% data reusables.organizations.billing-settings %}
-1. [Billing management]の下の[Billing managers]リストで、削除したい人の名前の隣の[**Remove**]をクリックしてください。 ![支払いマネージャーの削除](/assets/images/help/billing/settings_billing_managers_remove_manager.png)
+1. [Billing management]の下の[Billing managers]リストで、削除したい人の名前の隣の[**Remove**]をクリックしてください。 ![支払いマネージャーの削除](/assets/images/2021/10/help/billing/settings_billing_managers_remove_manager.png)

@@ -40,7 +40,7 @@ Before enabling {% data variables.product.prodname_actions %}, make sure you hav
    * **AWS S3 Bucket**: The name of your S3 bucket.
    * **AWS S3 Access Key** and **AWS S3 Secret Key**: The AWS access key ID and secret key for your bucket. For more information on managing AWS access keys, see the "[AWS Identity and Access Management Documentation](https://docs.aws.amazon.com/iam/index.html)."
 
-   ![Radio button for selecting Amazon S3 Storage and fields for S3 configuration](/assets/images/enterprise/management-console/actions-aws-s3-storage.png)
+   ![Radio button for selecting Amazon S3 Storage and fields for S3 configuration](/assets/images/2021/10/enterprise/management-console/actions-aws-s3-storage.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.actions.enterprise-postinstall-nextsteps %}

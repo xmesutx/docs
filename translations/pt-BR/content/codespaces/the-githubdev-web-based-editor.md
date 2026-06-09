@@ -57,7 +57,7 @@ Você pode iniciar seu fluxo de trabalho em {% data variables.product.prodname_s
 
 Para continuar seu trabalho em um codespace, clique em **Continuar trabalho em…** e selecione **Criar novo codespace** para criar um codespace no seu branch atual. Antes de selecionar esta opção, você precisa fazer commit de quaisquer alterações.
 
-![Uma captura de tela que mostra o botão "Continuar trabalhando em" na interface do usuário](/assets/images/help/codespaces/codespaces-continue-working.png)
+![Uma captura de tela que mostra o botão "Continuar trabalhando em" na interface do usuário](/assets/images/2021/10/help/codespaces/codespaces-continue-working.png)
 
 ## Usando controle de origem
 

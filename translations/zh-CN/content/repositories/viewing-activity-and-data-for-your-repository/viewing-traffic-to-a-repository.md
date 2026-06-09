@@ -24,10 +24,10 @@ shortTitle: 查看存储库流量
 
 {% endtip %}
 
-![带工具提示的仓库流量图](/assets/images/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
+![带工具提示的仓库流量图](/assets/images/2021/10/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
 
 ## 访问流量图
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 在左侧边栏中，单击 **Traffic（流量）**。 ![流量选项卡](/assets/images/help/graphs/traffic_tab.png)
+3. 在左侧边栏中，单击 **Traffic（流量）**。 ![流量选项卡](/assets/images/2021/10/help/graphs/traffic_tab.png)

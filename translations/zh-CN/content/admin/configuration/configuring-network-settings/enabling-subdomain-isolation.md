@@ -61,5 +61,5 @@ shortTitle: 启用子域隔离
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.hostname-menu-item %}
-4. 选择 **Subdomain isolation (recommended)**。 ![启用子域隔离的复选框](/assets/images/enterprise/management-console/subdomain-isolation.png)
+4. 选择 **Subdomain isolation (recommended)**。 ![启用子域隔离的复选框](/assets/images/2021/10/enterprise/management-console/subdomain-isolation.png)
 {% data reusables.enterprise_management_console.save-settings %}

@@ -18,6 +18,6 @@ shortTitle: Deny OAuth App
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
 5. Next to the application you'd like to disable, click {% octicon "pencil" aria-label="The edit icon" %}.
-  ![Edit icon](/assets/images/help/settings/settings-third-party-deny-edit.png)
+  ![Edit icon](/assets/images/2021/10/help/settings/settings-third-party-deny-edit.png)
 6. Click **Deny access**.
-  ![Deny confirmation button](/assets/images/help/settings/settings-third-party-deny-confirm.png)
+  ![Deny confirmation button](/assets/images/2021/10/help/settings/settings-third-party-deny-confirm.png)

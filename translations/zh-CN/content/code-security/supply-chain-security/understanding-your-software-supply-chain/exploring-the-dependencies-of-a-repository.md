@@ -31,7 +31,7 @@ shortTitle: 探索依赖项
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.click-dependency-graph %}{% ifversion fpt or ghec %}
-4. （可选）在 "Dependency graph"（依赖关系图）下，单击 **Dependents（依赖项）**。 ![Dependents tab on the dependency graph page](/assets/images/help/graphs/dependency-graph-dependents-tab.png){% endif %}
+4. （可选）在 "Dependency graph"（依赖关系图）下，单击 **Dependents（依赖项）**。 ![Dependents tab on the dependency graph page](/assets/images/2021/10/help/graphs/dependency-graph-dependents-tab.png){% endif %}
 
 {% ifversion ghes or ghae-issue-4864 %}
 企业所有者可以在企业级别配置依赖关系图。 For more information, see "[Enabling the dependency graph for your enterprise](/admin/code-security/managing-supply-chain-security-for-your-enterprise/enabling-the-dependency-graph-for-your-enterprise)."
@@ -44,14 +44,14 @@ shortTitle: 探索依赖项
 
 如果在仓库中检测到漏洞，这些漏洞将显示在视图顶部，供有权访问 {% data variables.product.prodname_dependabot_alerts %} 的用户查看。
 
-![依赖关系图](/assets/images/help/graphs/dependencies_graph.png)
+![依赖关系图](/assets/images/2021/10/help/graphs/dependencies_graph.png)
 
 {% endif %}
 
 {% ifversion ghes or ghae %}
 在仓库的清单或锁定文件中指定的任何直接或间接依赖项按生态系统分组列出。 如果在仓库中检测到漏洞，这些漏洞将显示在视图顶部，供有权访问 {% data variables.product.prodname_dependabot_alerts %} 的用户查看。
 
-![依赖关系图](/assets/images/help/graphs/dependencies_graph_server.png)
+![依赖关系图](/assets/images/2021/10/help/graphs/dependencies_graph_server.png)
 
 {% note %}
 
@@ -66,7 +66,7 @@ shortTitle: 探索依赖项
 
 对于公共仓库，依赖项视图显示其他仓库如何使用该仓库。 要在包管理器中仅显示包含存储库的仓库，请单击依赖的仓库列表正上方的**编号包**。 依赖项计数是近似值，不一定与列出的依赖项匹配。
 
-![从属者图](/assets/images/help/graphs/dependents_graph.png)
+![从属者图](/assets/images/2021/10/help/graphs/dependents_graph.png)
 
 ## 为私有仓库启用或禁用依赖关系图
 
@@ -77,7 +77,7 @@ shortTitle: 探索依赖项
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
-4. 阅读有关授予 {% data variables.product.product_name %} 只读访问仓库数据的消息，以启用依赖关系图，然后在“Dependency Graph（依赖关系图）”旁边单击 **Enable（启用）**。 ![依赖关系图的"启用"按钮](/assets/images/help/repository/dependency-graph-enable-button.png)
+4. 阅读有关授予 {% data variables.product.product_name %} 只读访问仓库数据的消息，以启用依赖关系图，然后在“Dependency Graph（依赖关系图）”旁边单击 **Enable（启用）**。 ![依赖关系图的"启用"按钮](/assets/images/2021/10/help/repository/dependency-graph-enable-button.png)
 
 您可以随时单击 Security & analysis（安全性和分析）选项卡上“Dependency Graph（依赖关系图）”旁边的 **Disable（禁用）**来禁用依赖关系图。
 
@@ -87,7 +87,7 @@ shortTitle: 探索依赖项
 
 “Used by（使用者）”部分显示已发现对包的公开引用数量，并显示某些依赖项所有者的头像。
 
-!["使用者"边栏部分](/assets/images/help/repository/used-by-section.png)
+!["使用者"边栏部分](/assets/images/2021/10/help/repository/used-by-section.png)
 
 单击此部分的任何项都会转到依赖项图的 **Dependents（依赖项）**选项卡。
 
@@ -96,7 +96,7 @@ shortTitle: 探索依赖项
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
-4. 在“Code security and analysis（代码安全和分析）”下，单击“Used by counter（使用者计数）”部分中的下拉菜单并选择一个包。 ![选择"使用者"包](/assets/images/help/repository/choose-used-by-package.png)
+4. 在“Code security and analysis（代码安全和分析）”下，单击“Used by counter（使用者计数）”部分中的下拉菜单并选择一个包。 ![选择"使用者"包](/assets/images/2021/10/help/repository/choose-used-by-package.png)
 
 {% endif %}
 

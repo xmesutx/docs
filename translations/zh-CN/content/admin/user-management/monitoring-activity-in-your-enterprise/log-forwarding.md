@@ -36,13 +36,13 @@ topics:
 {% elsif ghae %}
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-1. 在 {% octicon "gear" aria-label="The Settings gear" %} **Settings（设置）**下，单击 **Log forwarding（日志转发）**。 ![日志转发选项卡](/assets/images/enterprise/business-accounts/log-forwarding-tab.png)
-1. 在“Log forwarding（日志转发）”下，选择 **Enable log forwarding（启用日志转发）**。 ![启用日志转发的复选框](/assets/images/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
-1. 在“Server address（服务器地址）”下，输入您想要日志转发到的服务器地址。 ![服务器地址字段](/assets/images/enterprise/business-accounts/server-address-field.png)
-1. 使用“Protocol（协议）”下拉菜单选择一个协议。 ![协议下拉菜单](/assets/images/enterprise/business-accounts/protocol-drop-down-menu.png)
-1. （可选）要在系统日志端点之间的训用 TLS 加密通信，请选择 **Enable TLS（启用 TLS）**。 ![启用 TLS 的复选框](/assets/images/enterprise/business-accounts/enable-tls-checkbox.png)
-1. 在“Public certificate（公共证书）”下，粘贴您的 x509 证书。 ![公共证书文本框](/assets/images/enterprise/business-accounts/public-certificate-text-box.png)
-1. 单击 **Save（保存）**。 ![用于日志转发的 Save（保存）按钮](/assets/images/enterprise/business-accounts/save-button-log-forwarding.png)
+1. 在 {% octicon "gear" aria-label="The Settings gear" %} **Settings（设置）**下，单击 **Log forwarding（日志转发）**。 ![日志转发选项卡](/assets/images/2021/10/enterprise/business-accounts/log-forwarding-tab.png)
+1. 在“Log forwarding（日志转发）”下，选择 **Enable log forwarding（启用日志转发）**。 ![启用日志转发的复选框](/assets/images/2021/10/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
+1. 在“Server address（服务器地址）”下，输入您想要日志转发到的服务器地址。 ![服务器地址字段](/assets/images/2021/10/enterprise/business-accounts/server-address-field.png)
+1. 使用“Protocol（协议）”下拉菜单选择一个协议。 ![协议下拉菜单](/assets/images/2021/10/enterprise/business-accounts/protocol-drop-down-menu.png)
+1. （可选）要在系统日志端点之间的训用 TLS 加密通信，请选择 **Enable TLS（启用 TLS）**。 ![启用 TLS 的复选框](/assets/images/2021/10/enterprise/business-accounts/enable-tls-checkbox.png)
+1. 在“Public certificate（公共证书）”下，粘贴您的 x509 证书。 ![公共证书文本框](/assets/images/2021/10/enterprise/business-accounts/public-certificate-text-box.png)
+1. 单击 **Save（保存）**。 ![用于日志转发的 Save（保存）按钮](/assets/images/2021/10/enterprise/business-accounts/save-button-log-forwarding.png)
 {% endif %}
 
 {% ifversion ghes %}

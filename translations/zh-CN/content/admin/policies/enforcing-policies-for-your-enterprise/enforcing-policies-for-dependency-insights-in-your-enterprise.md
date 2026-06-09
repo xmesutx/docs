@@ -29,6 +29,6 @@ Across all organizations owned by your enterprise, you can control whether organ
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. In the left sidebar, click **Organizations**. ![Organizations tab in the enterprise sidebar](/assets/images/help/business-accounts/settings-policies-org-tab.png)
+3. In the left sidebar, click **Organizations**. ![Organizations tab in the enterprise sidebar](/assets/images/2021/10/help/business-accounts/settings-policies-org-tab.png)
 4. 在“Organization policies”（组织政策）下。审查有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. 在“Organization projects”（组织项目）下，使用下拉菜单并选择策略。 ![带有组织策略选项的下拉菜单](/assets/images/help/business-accounts/organization-policy-drop-down.png)
+5. 在“Organization projects”（组织项目）下，使用下拉菜单并选择策略。 ![带有组织策略选项的下拉菜单](/assets/images/2021/10/help/business-accounts/organization-policy-drop-down.png)

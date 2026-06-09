@@ -52,7 +52,7 @@ GitHub 应用程序清单使用类似于 [OAuth 流程](/apps/building-oauth-app
 
 创建应用程序的人将被重定向到含有输入字段的 GitHub 页面，他们可以在其中编辑您包含在 `manifest` 参数中的应用程序名称。 如果您在 `manifest` 中没有包含 `name`，他们可以在此字段中为应用程序设置自己的名称。
 
-![创建 GitHub 应用程序清单](/assets/images/github-apps/create-github-app-manifest.png)
+![创建 GitHub 应用程序清单](/assets/images/2021/10/github-apps/create-github-app-manifest.png)
 
 #### GitHub 应用程序清单参数
 
@@ -192,7 +192,7 @@ GitHub 应用程序清单使用类似于 [OAuth 流程](/apps/building-oauth-app
 1. 添加应用程序的自定义代码。
 1. [在本地运行 GitHub 应用程序](https://probot.github.io/docs/development/#running-the-app-locally)或[将其托管在您想要的任何位置](#hosting-your-app-with-glitch)。 导航到托管应用程序的 URL 时，您会发现一个包含**注册 GitHub 应用程序**按钮的网页，用户可以单击该按钮创建预配置的应用程序。 以下网页是 Probot 实现 GitHub 应用程序清单流程中的[第 1 步](#1-you-redirect-people-to-github-to-create-a-new-github-app)：
 
-![注册 Probot GitHub 应用程序](/assets/images/github-apps/github_apps_probot-registration.png)
+![注册 Probot GitHub 应用程序](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 Probot 使用 [dotenv](https://github.com/bkeepers/dotenv) 创建 `.env` 文件，并设置 `APP_ID`、`PRIVATE_KEY` 和 `WEBHOOK_SECRET` 环境变量，变量值[从应用程序配置中检索](#3-you-exchange-the-temporary-code-to-retrieve-the-app-configuration)。
 

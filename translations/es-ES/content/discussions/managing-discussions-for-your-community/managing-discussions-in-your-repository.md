@@ -36,8 +36,8 @@ También puedes migrar un debate a una categoría diferente.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. En la barra lateral derecha, a la derecha de "Categoría", haz clic en {% octicon "gear" aria-label="The gear icon" %}. ![Icono de "Categoría" con engrane](/assets/images/help/discussions/category-in-sidebar.png)
-1. Haz clic en una categoría. ![Menú desplegable "Cambiar categoría"](/assets/images/help/discussions/change-category-drop-down.png)
+1. En la barra lateral derecha, a la derecha de "Categoría", haz clic en {% octicon "gear" aria-label="The gear icon" %}. ![Icono de "Categoría" con engrane](/assets/images/2021/10/help/discussions/category-in-sidebar.png)
+1. Haz clic en una categoría. ![Menú desplegable "Cambiar categoría"](/assets/images/2021/10/help/discussions/change-category-drop-down.png)
 
 ## Fijar un debate
 
@@ -46,9 +46,9 @@ Puedes fijar hasta cuatro debates importantes sobre la lista de debates del repo
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. En la barra lateral derecha, da clic en {% octicon "pin" aria-label="The pin icon" %} **Fijar debate**. !["Fijar debate" en la barra lateral derecha del debate](/assets/images/help/discussions/click-pin-discussion.png)
-1. Opcionalmente, personaliza la apariencia del debate que fijaste. ![Opciones de personalización para un debate que se fijó](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. Da clic en **Fijar debate**. ![Botón de "Fijar debate" debajo de las opciones de personalización para un debate fijado](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. En la barra lateral derecha, da clic en {% octicon "pin" aria-label="The pin icon" %} **Fijar debate**. !["Fijar debate" en la barra lateral derecha del debate](/assets/images/2021/10/help/discussions/click-pin-discussion.png)
+1. Opcionalmente, personaliza la apariencia del debate que fijaste. ![Opciones de personalización para un debate que se fijó](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. Da clic en **Fijar debate**. ![Botón de "Fijar debate" debajo de las opciones de personalización para un debate fijado](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## Editar un debate que se fijó
 
@@ -57,17 +57,17 @@ Editar un debate que se ha fijado no cambiará la categoría del mismo. Para obt
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. En la barra lateral derecha, da clic en {% octicon "pencil" aria-label="The pencil icon" %} **Editar debate fijado**. !["Editar debate fijado" en la barra lateral derecha de un debate](/assets/images/help/discussions/click-edit-pinned-discussion.png)
-1. Personaliza la apariencia del debate que fijaste. ![Opciones de personalización para un debate que se fijó](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. Da clic en **Fijar debate**. ![Botón de "Fijar debate" debajo de las opciones de personalización para un debate fijado](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. En la barra lateral derecha, da clic en {% octicon "pencil" aria-label="The pencil icon" %} **Editar debate fijado**. !["Editar debate fijado" en la barra lateral derecha de un debate](/assets/images/2021/10/help/discussions/click-edit-pinned-discussion.png)
+1. Personaliza la apariencia del debate que fijaste. ![Opciones de personalización para un debate que se fijó](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. Da clic en **Fijar debate**. ![Botón de "Fijar debate" debajo de las opciones de personalización para un debate fijado](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## Dejar de fijar un debate
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. En la barra lateral derecha, da clic en {% octicon "pin" aria-label="The pin icon" %} **Dejar de fijar debate**. !["Dejar de fijar debate" en la barra lateral derecha del debate](/assets/images/help/discussions/click-unpin-discussion.png)
-1. Lee la advertencia y luego da clic en **Dejar de fijar debate**. ![Botón de "Dejar de fijar debate" bajo advertencia en el modo](/assets/images/help/discussions/click-unpin-discussion-button.png)
+1. En la barra lateral derecha, da clic en {% octicon "pin" aria-label="The pin icon" %} **Dejar de fijar debate**. !["Dejar de fijar debate" en la barra lateral derecha del debate](/assets/images/2021/10/help/discussions/click-unpin-discussion.png)
+1. Lee la advertencia y luego da clic en **Dejar de fijar debate**. ![Botón de "Dejar de fijar debate" bajo advertencia en el modo](/assets/images/2021/10/help/discussions/click-unpin-discussion-button.png)
 
 ## Transferir un debate
 
@@ -76,17 +76,17 @@ Para transferir un debate, debes tener permisos para crear debates en el reposit
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. En la barra laeral derecha, da clic en {% octicon "arrow-right" aria-label="The right arrow icon" %} **Transferir debate**. !["transferir debate" en la barra lateral derecha del mismo](/assets/images/help/discussions/click-transfer-discussion.png)
-1. Selecciona el menú desplegable de **Elige un repositorio** y da clic en aquél al que quieras transferir el debate. ![Menú desplegable de "Elige un repositorio", campo de búsqueda de "Encuentra un repositorio", y repositorio en la lista](/assets/images/help/discussions/use-choose-a-repository-drop-down.png)
-1. Da clic en **Transferir debate**. ![Botón de "Transferir debate"](/assets/images/help/discussions/click-transfer-discussion-button.png)
+1. En la barra laeral derecha, da clic en {% octicon "arrow-right" aria-label="The right arrow icon" %} **Transferir debate**. !["transferir debate" en la barra lateral derecha del mismo](/assets/images/2021/10/help/discussions/click-transfer-discussion.png)
+1. Selecciona el menú desplegable de **Elige un repositorio** y da clic en aquél al que quieras transferir el debate. ![Menú desplegable de "Elige un repositorio", campo de búsqueda de "Encuentra un repositorio", y repositorio en la lista](/assets/images/2021/10/help/discussions/use-choose-a-repository-drop-down.png)
+1. Da clic en **Transferir debate**. ![Botón de "Transferir debate"](/assets/images/2021/10/help/discussions/click-transfer-discussion-button.png)
 
 ## Borrar un debate
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. En la barra lateral, da clic en {% octicon "trash" aria-label="The trash arrow icon" %} **Borrar debate**. !["Borrar debate" en la barra lateral derecha del mismo](/assets/images/help/discussions/click-delete-discussion.png)
-1. Lee la advertencia y luego da clic en **Borrar este debate**. ![Botón de "Borrar este debate" bajo advertencia en el modo](/assets/images/help/discussions/click-delete-this-discussion-button.png)
+1. En la barra lateral, da clic en {% octicon "trash" aria-label="The trash arrow icon" %} **Borrar debate**. !["Borrar debate" en la barra lateral derecha del mismo](/assets/images/2021/10/help/discussions/click-delete-discussion.png)
+1. Lee la advertencia y luego da clic en **Borrar este debate**. ![Botón de "Borrar este debate" bajo advertencia en el modo](/assets/images/2021/10/help/discussions/click-delete-this-discussion-button.png)
 
 ## Convertir propuestas con base en las etiquetas
 

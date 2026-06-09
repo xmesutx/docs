@@ -31,11 +31,11 @@ You can integrate {% data variables.product.prodname_registry %} with {% ifversi
 
 {% ifversion fpt or ghec %}
 
-![Diagram showing packages support for the Container registry, RubyGems, npm, Apache Maven, NuGet, and Gradle](/assets/images/help/package-registry/packages-diagram-with-container-registry.png)
+![Diagram showing packages support for the Container registry, RubyGems, npm, Apache Maven, NuGet, and Gradle](/assets/images/2021/10/help/package-registry/packages-diagram-with-container-registry.png)
 
 {% else %}
 
-![Diagram showing packages support for the Docker registry, RubyGems, npm, Apache Maven, Gradle, NuGet, and Docker](/assets/images/help/package-registry/packages-diagram-without-container-registry.png)
+![Diagram showing packages support for the Docker registry, RubyGems, npm, Apache Maven, Gradle, NuGet, and Docker](/assets/images/2021/10/help/package-registry/packages-diagram-without-container-registry.png)
 
 {% endif %}
 

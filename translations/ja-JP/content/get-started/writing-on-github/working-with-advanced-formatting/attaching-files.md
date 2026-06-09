@@ -24,7 +24,7 @@ topics:
 
 Issue やプルリクエストの会話にファイルを添付するには、コメントボックスにファイルをドラッグアンドドロップします。 または、コメントボックスの下部にあるバーをクリックしてコンピュータからファイルを参照、選択、追加することもできます。
 
-![コンピュータから添付ファイルを選択する](/assets/images/help/pull_requests/select-bar.png)
+![コンピュータから添付ファイルを選択する](/assets/images/2021/10/help/pull_requests/select-bar.png)
 
 {% tip %}
 
@@ -61,4 +61,4 @@ The maximum file size is:
 {% endnote %}
 {% endif %}
 
-![添付アニメーション GIF](/assets/images/help/pull_requests/dragging_images.gif)
+![添付アニメーション GIF](/assets/images/2021/10/help/pull_requests/dragging_images.gif)

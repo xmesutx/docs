@@ -22,5 +22,5 @@ Como alternativa, puedes dejar de publicar tu perfil de patrocinio y luego volve
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.settings-tab %}
 1. Debajo de "Inhabilitar cuenta de GitHub Sponsors", haz clic en **Inhabilitar cuenta**.  
-   ![Botón de "Inhabilitar tu cuenta"](/assets/images/help/sponsors/disable-your-account-button.png)
-2. Para confirmar, haz clic en **Inhabilitar cuenta de GitHub Sponsors**. ![Botón de "Inhabilitar cuenta de GitHub Sponsors"](/assets/images/help/sponsors/disable-github-sponsors-account-dialog.png)
+   ![Botón de "Inhabilitar tu cuenta"](/assets/images/2021/10/help/sponsors/disable-your-account-button.png)
+2. Para confirmar, haz clic en **Inhabilitar cuenta de GitHub Sponsors**. ![Botón de "Inhabilitar cuenta de GitHub Sponsors"](/assets/images/2021/10/help/sponsors/disable-github-sponsors-account-dialog.png)

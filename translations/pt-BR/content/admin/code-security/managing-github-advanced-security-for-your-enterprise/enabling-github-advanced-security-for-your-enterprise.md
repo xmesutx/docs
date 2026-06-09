@@ -36,7 +36,7 @@ Para obter orientação sobre uma implantação em fases da segurança avançada
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
-1. Se sua licença incluir {% data variables.product.prodname_GH_advanced_security %}, a página de licença incluirá uma seção que mostra os detalhes do uso atual. ![Seção de {% data variables.product.prodname_GH_advanced_security %} de licença empresarial](/assets/images/help/billing/ghas-orgs-list-enterprise-ghes.png)
+1. Se sua licença incluir {% data variables.product.prodname_GH_advanced_security %}, a página de licença incluirá uma seção que mostra os detalhes do uso atual. ![Seção de {% data variables.product.prodname_GH_advanced_security %} de licença empresarial](/assets/images/2021/10/help/billing/ghas-orgs-list-enterprise-ghes.png)
 {% endif %}
 
 ## Pré-requisitos para habilitar {% data variables.product.prodname_GH_advanced_security %}
@@ -58,8 +58,8 @@ Para obter orientação sobre uma implantação em fases da segurança avançada
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.advanced-security-tab %}{% ifversion ghes %}
 1. Em "{% ifversion ghes < 3.2 %}{% data variables.product.prodname_advanced_security %}{% else %}Security{% endif %}", selecione as funcionalidades que você deseja habilitar e desmarque todos os recursos que deseja desabilitar.
-{% ifversion ghes > 3.1 %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/enterprise/3.2/management-console/enable-security-checkboxes.png){% else %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/enterprise/management-console/enable-advanced-security-checkboxes.png){% endif %}{% else %}
-1. Em "{% data variables.product.prodname_advanced_security %}," clique em **{% data variables.product.prodname_code_scanning_capc %}**. ![Checkbox to enable or disable {% data variables.product.prodname_code_scanning %}](/assets/images/enterprise/management-console/enable-code-scanning-checkbox.png){% endif %}
+{% ifversion ghes > 3.1 %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/2021/10/enterprise/3.2/management-console/enable-security-checkboxes.png){% else %}![Checkbox to enable or disable {% data variables.product.prodname_advanced_security %} features](/assets/images/2021/10/enterprise/management-console/enable-advanced-security-checkboxes.png){% endif %}{% else %}
+1. Em "{% data variables.product.prodname_advanced_security %}," clique em **{% data variables.product.prodname_code_scanning_capc %}**. ![Checkbox to enable or disable {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/enterprise/management-console/enable-code-scanning-checkbox.png){% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 
 Quando {% data variables.product.product_name %} terminar de reiniciar, você estará pronto para definir todas as funcionalidades adicionais necessárias para recursos recém-habilitados. Para obter mais informações, consulte "[Configurar o {% data variables.product.prodname_code_scanning %} para seu aplicativo ](/admin/advanced-security/configuring-code-scanning-for-your-appliance)".

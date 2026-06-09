@@ -37,9 +37,9 @@ Enterprise owners can restrict the options you have available for your organizat
 5. Under "Repository creation", select one or more options.
 
    {%- ifversion ghes or ghec or ghae %}
-   ![Repository creation options](/assets/images/help/organizations/repo-creation-perms-radio-buttons.png)
+   ![Repository creation options](/assets/images/2021/10/help/organizations/repo-creation-perms-radio-buttons.png)
    {%- elsif fpt %}
-   ![Repository creation options](/assets/images/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
+   ![Repository creation options](/assets/images/2021/12/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
    
    {% note %}
 

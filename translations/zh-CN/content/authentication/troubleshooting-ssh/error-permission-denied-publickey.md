@@ -156,7 +156,7 @@ $ ssh -vT git@{% data variables.command_line.codeblock %}
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-6. 比较 SSH 公钥列表与 `ssh-add` 命令的输出。 ![{% data variables.product.product_name %} 中的 SSH 密钥列表](/assets/images/help/settings/ssh_key_listing.png)
+6. 比较 SSH 公钥列表与 `ssh-add` 命令的输出。 ![{% data variables.product.product_name %} 中的 SSH 密钥列表](/assets/images/2021/10/help/settings/ssh_key_listing.png)
 
 {% endmac %}
 
@@ -176,7 +176,7 @@ $ ssh -vT git@{% data variables.command_line.codeblock %}
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-6. 比较 SSH 公钥列表与 `ssh-add` 命令的输出。 ![{% data variables.product.product_name %} 中的 SSH 密钥列表](/assets/images/help/settings/ssh_key_listing.png)
+6. 比较 SSH 公钥列表与 `ssh-add` 命令的输出。 ![{% data variables.product.product_name %} 中的 SSH 密钥列表](/assets/images/2021/10/help/settings/ssh_key_listing.png)
 
 {% endwindows %}
 
@@ -202,7 +202,7 @@ $ ssh -vT git@{% data variables.command_line.codeblock %}
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-6. 比较 SSH 公钥列表与 `ssh-add` 命令的输出。 ![{% data variables.product.product_name %} 中的 SSH 密钥列表](/assets/images/help/settings/ssh_key_listing.png)
+6. 比较 SSH 公钥列表与 `ssh-add` 命令的输出。 ![{% data variables.product.product_name %} 中的 SSH 密钥列表](/assets/images/2021/10/help/settings/ssh_key_listing.png)
 
 {% endlinux %}
 

@@ -41,7 +41,7 @@ shortTitle: 持续集成
 
 如果在仓库中设置了 CI，{% data variables.product.product_name %} 会分析仓库中的代码，并根据仓库中的语言和框架推荐 CI 工作流程。 For example, if you use [Node.js](https://nodejs.org/en/), {% data variables.product.product_name %} will suggest a starter workflow that installs your Node.js packages and runs your tests. You can use the CI starter workflow suggested by {% data variables.product.product_name %}, customize the suggested starter workflow, or create your own custom workflow file to run your CI tests.
 
-![Screenshot of suggested continuous integration starter workflows](/assets/images/help/repository/ci-with-actions-template-picker.png)
+![Screenshot of suggested continuous integration starter workflows](/assets/images/2021/10/help/repository/ci-with-actions-template-picker.png)
 
 除了帮助设置项目的 CI 工作流程之外，您还可以使用 {% data variables.product.prodname_actions %} 创建跨整个软件开发生命周期的工作流程。 例如，您可以使用操作来部署、封装或发行项目。 更多信息请参阅“[关于 {% data variables.product.prodname_actions %}](/articles/about-github-actions)”。
 

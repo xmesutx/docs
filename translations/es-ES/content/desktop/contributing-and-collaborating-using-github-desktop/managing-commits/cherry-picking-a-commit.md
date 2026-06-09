@@ -18,7 +18,7 @@ También puedes usar la selección minuciosa para colaborar con un equipo. Algun
 {% data reusables.desktop.current-branch-menu %}
 2. En la lista de ramas, haz clic en aquella que tiene la confirmación que quieres seleccionar minuciosamente.
 {% data reusables.desktop.history-tab %}
-4. Arrastra la confirmación que quieres seleccionar minuciosamente al {% octicon "git-branch" aria-label="The branch icon" %} menú de **Rama Actual** y suelta la confirmación en la rama en la que quieres copiar la confirmación. ![Arrastrar una confirmación a otra rama en el menú de la rama actual](/assets/images/help/desktop/cherry-picking.png)
+4. Arrastra la confirmación que quieres seleccionar minuciosamente al {% octicon "git-branch" aria-label="The branch icon" %} menú de **Rama Actual** y suelta la confirmación en la rama en la que quieres copiar la confirmación. ![Arrastrar una confirmación a otra rama en el menú de la rama actual](/assets/images/2021/10/help/desktop/cherry-picking.png)
 
 ## Leer más
 - [git-cherry-pick](https://git-scm.com/docs/git-cherry-pick) en la documentación de Git

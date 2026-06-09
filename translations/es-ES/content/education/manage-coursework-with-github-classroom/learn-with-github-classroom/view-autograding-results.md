@@ -20,11 +20,11 @@ Si eres un alumno y tu instructor configuró las calificaciones automáticas par
 
 La pestaña de **Acciones** muestra el historial completo de las ejecuciones de las pruebas.
 
-![Pestaña de "Acciones" que tiene seleccionado "Todos los flujos de trabajo"](/assets/images/help/classroom/autograding-actions-tab.png)
+![Pestaña de "Acciones" que tiene seleccionado "Todos los flujos de trabajo"](/assets/images/2021/10/help/classroom/autograding-actions-tab.png)
 
 Puedes dar clic en una ejecución de prueba específica para revisar la bitácora de salida, como en los errores de compilación y fallos de pruebas.
 
-![Las bitácoras de resultados de las pruebas de un "flujo de trabajo de calificación automática de {% data variables.product.prodname_classroom %}" en {% data variables.product.prodname_actions %} ](/assets/images/help/classroom/autograding-actions-logs.png)
+![Las bitácoras de resultados de las pruebas de un "flujo de trabajo de calificación automática de {% data variables.product.prodname_classroom %}" en {% data variables.product.prodname_actions %} ](/assets/images/2021/10/help/classroom/autograding-actions-logs.png)
 
 ## Leer más
 

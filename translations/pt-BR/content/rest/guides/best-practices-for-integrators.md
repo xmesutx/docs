@@ -39,7 +39,7 @@ Observe que, mesmo com um trabalho em segundo plano, o GitHub ainda espera que s
 
 Cada webhook tem sua própria seção de "Entregas Recentes", que lista se uma implantação foi bem-sucedida ou não.
 
-![Vista das entregas recentes](/assets/images/webhooks_recent_deliveries.png)
+![Vista das entregas recentes](/assets/images/2021/10/webhooks_recent_deliveries.png)
 
 Você deve usar códigos de status de HTTP apropriados para informar aos usuários. Você pode usar códigos como `201` ou `202` para reconhecer que o recebimento da carga não será processado (por exemplo, uma carga entregue por um branch que não é padrão). Reserve o código de erro `500` para falhas catastróficas.
 
@@ -47,7 +47,7 @@ Você deve usar códigos de status de HTTP apropriados para informar aos usuári
 
 Os usuários podem entrar nas respostas do servidor que você enviar de volta ao GitHub. Certifique-se de que suas mensagens sejam claras e informativas.
 
-![Visualizar uma resposta de carga](/assets/images/payload_response_tab.png)
+![Visualizar uma resposta de carga](/assets/images/2021/10/payload_response_tab.png)
 
 ## Siga qualquer redirecionamento que a API enviar para você
 

@@ -76,10 +76,10 @@ If you're a member of an {% data variables.product.prodname_emu_enterprise %}, y
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
-3. [Change username] セクションで [**Change username**] をクリックします。 ![Change Username button](/assets/images/help/settings/settings-change-username.png){% ifversion fpt or ghec %}
-4. ユーザ名を変更することに関する警告を読みます。 ユーザ名を変更したい場合は、[**I understand, let's change my username**] をクリックします。 ![[Change Username] 警告ボタン](/assets/images/help/settings/settings-change-username-warning-button.png)
-5. 新しいユーザ名を入力します。 ![新しいユーザ名のフィールド](/assets/images/help/settings/settings-change-username-enter-new-username.png)
-6. 選択したユーザ名が利用できる場合、[**Change my username**] をクリックします。 選択したユーザ名が利用できない場合、別のユーザ名を入力するか、提案されたユーザ名を利用できます。 ![[Change Username] 警告ボタン](/assets/images/help/settings/settings-change-my-username-button.png)
+3. [Change username] セクションで [**Change username**] をクリックします。 ![Change Username button](/assets/images/2021/10/help/settings/settings-change-username.png){% ifversion fpt or ghec %}
+4. ユーザ名を変更することに関する警告を読みます。 ユーザ名を変更したい場合は、[**I understand, let's change my username**] をクリックします。 ![[Change Username] 警告ボタン](/assets/images/2021/10/help/settings/settings-change-username-warning-button.png)
+5. 新しいユーザ名を入力します。 ![新しいユーザ名のフィールド](/assets/images/2021/10/help/settings/settings-change-username-enter-new-username.png)
+6. 選択したユーザ名が利用できる場合、[**Change my username**] をクリックします。 選択したユーザ名が利用できない場合、別のユーザ名を入力するか、提案されたユーザ名を利用できます。 ![[Change Username] 警告ボタン](/assets/images/2021/10/help/settings/settings-change-my-username-button.png)
 {% endif %}
 
 ## 参考リンク

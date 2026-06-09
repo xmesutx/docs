@@ -50,6 +50,6 @@ shortTitle: 查看 Actions 使用情况
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. 在“{% data variables.product.prodname_actions %}”下，查看您的企业帐户中每个组织的数据传输使用详情。 ![分钟数使用详情](/assets/images/help/billing/actions-minutes-enterprise.png)
+1. 在“{% data variables.product.prodname_actions %}”下，查看您的企业帐户中每个组织的数据传输使用详情。 ![分钟数使用详情](/assets/images/2021/10/help/billing/actions-minutes-enterprise.png)
 {% data reusables.dotcom_billing.actions-packages-storage-enterprise-account %}
 {% data reusables.enterprise-accounts.actions-packages-report-download-enterprise-accounts %}

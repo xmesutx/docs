@@ -183,7 +183,7 @@ echo "Inside group"
 echo "::endgroup::"
 ```
 
-![Grupo dobrável no registro da execução do fluxo de trabalho](/assets/images/actions-log-group.png)
+![Grupo dobrável no registro da execução do fluxo de trabalho](/assets/images/2021/10/actions-log-group.png)
 
 ## Mascarar um valor no registro
 

@@ -46,7 +46,7 @@ For more information about introducing {% data variables.product.prodname_action
 
 Puedes configurar un _flujo de trabajo_ de {% data variables.product.prodname_actions %} para que se active cuando ocurre un _evento_ en tu repositorio, tal como la apertura de una solicitud de cambios o la creación de una propuesta.  Tu flujo de trabajo contiene uno o más _jobs_, los cuales pueden ejecutarse en orden secuencial o en paralelo.  Cada job se ejecutará dentro del _ejecutor_ de su propia máquina virtual o dentro de un contenedor y tendrá uno o más _pasos_ que ya sea puedan ejecutar un script que definas o que ejecuten una _acción_, la cual es una extensión reutilizable que puede simplificar tu flujo de trabajo.
 
-![Resumen del flujo de trabajo](/assets/images/help/images/overview-actions-simple.png)
+![Resumen del flujo de trabajo](/assets/images/2021/10/help/images/overview-actions-simple.png)
 
 ### Flujos de trabajo
 
@@ -235,18 +235,18 @@ La palabra clave <code>uses</code> especifica que este paso ejecutará la <code>
 
 En este diagrama, puedes ver el archivo de flujo de trabajo que acabas de crear, así como la forma en que los componentes de {% data variables.product.prodname_actions %} se organizan en una jerarquía. Cada paso ejecuta una acción o script de shell simples. Los pasos 1 y 2 ejecutan acciones, mientras que los pasos 3 y 4 ejecutan scripts de shell. Para encontrar más acciones preconstruidas para tus flujos de trabajo, consulta la sección "[Encontrar y personalizar acciones](/actions/learn-github-actions/finding-and-customizing-actions)".
 
-![Resumen del flujo de trabajo](/assets/images/help/images/overview-actions-event.png)
+![Resumen del flujo de trabajo](/assets/images/2021/10/help/images/overview-actions-event.png)
 
 ## Ver la actividad del flujo de trabajo
 
 Once your workflow has started running, you can see a visualization graph of the run's progress and view each step's activity on {% data variables.product.prodname_dotcom %}.
 
 {% data reusables.repositories.navigate-to-repo %}
-1. Debajo del nombre de tu repositorio, da clic en **Acciones**. ![Navegar al repositorio](/assets/images/help/images/learn-github-actions-repository.png)
-1. En la barra lateral izquierda, da clic en el flujo de trabajo que quieras ver. ![Impresión de pantalla de los resultados del flujo de trabajo](/assets/images/help/images/learn-github-actions-workflow.png)
-1. Debajo de "Ejecuciones de flujo de trabajo", da clic en el nombre de la ejecución que quieres ver. ![Impresión de pantalla de las ejecuciones del flujo de trabajo](/assets/images/help/images/learn-github-actions-run.png)
-1. Debajo de **Jobs** o en la gráfica de visualización, da clic en el job que quieras ver. ![Seleccionar job](/assets/images/help/images/overview-actions-result-navigate.png)
-1. Ve los resultados de cada paso. ![Impresión de pantalla de los detalles de la ejecución del flujo de trabajo](/assets/images/help/images/overview-actions-result-updated-2.png)
+1. Debajo del nombre de tu repositorio, da clic en **Acciones**. ![Navegar al repositorio](/assets/images/2021/10/help/images/learn-github-actions-repository.png)
+1. En la barra lateral izquierda, da clic en el flujo de trabajo que quieras ver. ![Impresión de pantalla de los resultados del flujo de trabajo](/assets/images/2021/10/help/images/learn-github-actions-workflow.png)
+1. Debajo de "Ejecuciones de flujo de trabajo", da clic en el nombre de la ejecución que quieres ver. ![Impresión de pantalla de las ejecuciones del flujo de trabajo](/assets/images/2021/10/help/images/learn-github-actions-run.png)
+1. Debajo de **Jobs** o en la gráfica de visualización, da clic en el job que quieras ver. ![Seleccionar job](/assets/images/2021/10/help/images/overview-actions-result-navigate.png)
+1. Ve los resultados de cada paso. ![Impresión de pantalla de los detalles de la ejecución del flujo de trabajo](/assets/images/2021/10/help/images/overview-actions-result-updated-2.png)
 
 ## Pasos siguientes
 

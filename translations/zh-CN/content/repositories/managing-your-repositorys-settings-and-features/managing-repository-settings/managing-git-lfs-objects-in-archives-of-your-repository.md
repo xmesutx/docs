@@ -25,4 +25,4 @@ redirect_from:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在“Archives（存档）”下，选择或取消选择**在存档中包含 {% data variables.large_files.product_name_short %} 对象**。 ![在存档中包含 {% data variables.large_files.product_name_short %} 对象的复选框](/assets/images/help/repository/include-git-lfs-objects-checkbox.png)
+3. 在“Archives（存档）”下，选择或取消选择**在存档中包含 {% data variables.large_files.product_name_short %} 对象**。 ![在存档中包含 {% data variables.large_files.product_name_short %} 对象的复选框](/assets/images/2021/10/help/repository/include-git-lfs-objects-checkbox.png)

@@ -47,17 +47,17 @@ shortTitle: 邀请人员进行管理
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. 在左侧边栏中，单击 **Administrators（管理员）**。 ![左侧边栏中的管理员选项卡](/assets/images/help/business-accounts/administrators-tab.png)
+1. 在左侧边栏中，单击 **Administrators（管理员）**。 ![左侧边栏中的管理员选项卡](/assets/images/2021/10/help/business-accounts/administrators-tab.png)
 1. 在管理员列表上方，单击 {% ifversion ghec %}**邀请管理员**{% elsif ghes %}**添加所有者**{% endif %}。
   {% ifversion ghec %}
-  ![企业所有者列表上方的"邀请管理员"按钮](/assets/images/help/business-accounts/invite-admin-button.png)
+  ![企业所有者列表上方的"邀请管理员"按钮](/assets/images/2021/10/help/business-accounts/invite-admin-button.png)
   {% elsif ghes %}
-  ![企业所有者列表上方的"添加所有者"按钮](/assets/images/help/business-accounts/add-owner-button.png)
+  ![企业所有者列表上方的"添加所有者"按钮](/assets/images/2021/10/help/business-accounts/add-owner-button.png)
   {% endif %}
-1. 输入您要邀请其成为企业管理员的人员的用户名、全名或电子邮件地址，然后从结果中选择适当的人员。 ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
-1. 选择 **Owner（所有者）**或 **Billing Manager（帐单管理员）**。 ![角色选择模态框](/assets/images/help/business-accounts/invite-admins-roles.png)
-1. 单击 **Send Invitation（发送邀请）**。 ![Send invitation button](/assets/images/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
-1. 单击 **Add（添加）**。 !["Add" button](/assets/images/help/business-accounts/add-administrator-add-button.png){% endif %}
+1. 输入您要邀请其成为企业管理员的人员的用户名、全名或电子邮件地址，然后从结果中选择适当的人员。 ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/2021/10/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
+1. 选择 **Owner（所有者）**或 **Billing Manager（帐单管理员）**。 ![角色选择模态框](/assets/images/2021/10/help/business-accounts/invite-admins-roles.png)
+1. 单击 **Send Invitation（发送邀请）**。 ![Send invitation button](/assets/images/2021/10/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
+1. 单击 **Add（添加）**。 !["Add" button](/assets/images/2021/10/help/business-accounts/add-administrator-add-button.png){% endif %}
 
 ## 从企业帐户删除企业管理员
 
@@ -67,8 +67,8 @@ shortTitle: 邀请人员进行管理
 {% data reusables.enterprise-accounts.people-tab %}
 1. 在您要删除的人员用户名旁边，单击 {% octicon "gear" aria-label="The Settings gear" %}，然后单击 **Remove owner（删除所有者）**{% ifversion ghec %} 或**Remove billing manager（删除帐单管理员）**。{% endif %}
   {% ifversion ghec %}
-  ![包含删除企业管理员的菜单选项的设置齿轮](/assets/images/help/business-accounts/remove-admin.png)
+  ![包含删除企业管理员的菜单选项的设置齿轮](/assets/images/2021/10/help/business-accounts/remove-admin.png)
   {% elsif ghes %}
-  ![包含删除企业管理员的菜单选项的设置齿轮](/assets/images/help/business-accounts/ghes-remove-owner.png)
+  ![包含删除企业管理员的菜单选项的设置齿轮](/assets/images/2021/10/help/business-accounts/ghes-remove-owner.png)
   {% endif %}
 1. 阅读确认，然后单击 **Remove owner（删除所有者）**{% ifversion ghec %} 或 **Remove billing manager（删除帐单管理员）**{% endif %}。

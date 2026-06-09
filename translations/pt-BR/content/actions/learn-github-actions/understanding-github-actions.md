@@ -46,7 +46,7 @@ Para obter informações mais informações sobre a introdução de {% data vari
 
 É possível configurar um {% data variables.product.prodname_actions %} _fluxo de trabalho_ para ser acionado quando um _evento_ ocorre no repositório como, por exemplo, um pull request sendo aberto ou um problema sendo criado.  O seu fluxo de trabalho contém um ou mais _trabalhos_ que podem ser executados em ordem sequencial ou em paralelo.  Cada trabalho será executado dentro do _executor_ da sua própria máquina virtual ou dentro de um contêiner, e conta com uma mais _etapas_ que executa um script que você define ou executa uma ação __, que é uma extensão reutilizável que pode simplificar o seu fluxo de trabalho.
 
-![Visão geral do fluxo de trabalho](/assets/images/help/images/overview-actions-simple.png)
+![Visão geral do fluxo de trabalho](/assets/images/2021/10/help/images/overview-actions-simple.png)
 
 ### Fluxos de trabalho
 
@@ -235,18 +235,18 @@ A palavra-chave <code>usa</code> especifica que esta etapa irá executar <code>v
 
 Neste diagrama, você pode ver o arquivo de fluxo de trabalho que acabou de criar e como os componentes de {% data variables.product.prodname_actions %} estão organizados em uma hierarquia. Cada etapa executa uma única ação ou script do shell. As etapas 1 e 2 executam ações, enquanto as etapas 3 e 4 executam scripts de shell. Para encontrar mais ações pré-criadas para seus fluxos de trabalho, consulte "[Encontrar e personalizar ações](/actions/learn-github-actions/finding-and-customizing-actions)".
 
-![Visão geral do fluxo de trabalho](/assets/images/help/images/overview-actions-event.png)
+![Visão geral do fluxo de trabalho](/assets/images/2021/10/help/images/overview-actions-event.png)
 
 ## Visualizando a atividade do fluxo de trabalho
 
 Uma vez que seu fluxo de trabalho começou a ser executado, você poderá ver um gráfico de visualização do progresso da execução e ver a atividade de cada etapa em {% data variables.product.prodname_dotcom %}.
 
 {% data reusables.repositories.navigate-to-repo %}
-1. No nome do seu repositório, clique em **Ações**. ![Acesse o repositório](/assets/images/help/images/learn-github-actions-repository.png)
-1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja ver. ![Captura de tela dos resultados do fluxo de trabalho](/assets/images/help/images/learn-github-actions-workflow.png)
-1. Em "Execuções do fluxo de trabalho", clique no nome da execução que você deseja ver. ![Captura de tela das execuções do fluxo de trabalho](/assets/images/help/images/learn-github-actions-run.png)
-1. Em **Trabalhos** ou no gráfico de visualização, clique no trabalho que você deseja ver. ![Selecionar trabalho](/assets/images/help/images/overview-actions-result-navigate.png)
-1. Visualizar os resultados de cada etapa. ![Captura de tela dos detalhes de execução do fluxo de trabalho](/assets/images/help/images/overview-actions-result-updated-2.png)
+1. No nome do seu repositório, clique em **Ações**. ![Acesse o repositório](/assets/images/2021/10/help/images/learn-github-actions-repository.png)
+1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja ver. ![Captura de tela dos resultados do fluxo de trabalho](/assets/images/2021/10/help/images/learn-github-actions-workflow.png)
+1. Em "Execuções do fluxo de trabalho", clique no nome da execução que você deseja ver. ![Captura de tela das execuções do fluxo de trabalho](/assets/images/2021/10/help/images/learn-github-actions-run.png)
+1. Em **Trabalhos** ou no gráfico de visualização, clique no trabalho que você deseja ver. ![Selecionar trabalho](/assets/images/2021/10/help/images/overview-actions-result-navigate.png)
+1. Visualizar os resultados de cada etapa. ![Captura de tela dos detalhes de execução do fluxo de trabalho](/assets/images/2021/10/help/images/overview-actions-result-updated-2.png)
 
 ## Próximas etapas
 

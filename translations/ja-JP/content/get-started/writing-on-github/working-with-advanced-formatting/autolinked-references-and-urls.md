@@ -19,7 +19,7 @@ shortTitle: Auto linked references
 
 `Visit https://github.com`
 
-![変換された自動リンク URL](/assets/images/help/writing/url-autolink-rendered.png)
+![変換された自動リンク URL](/assets/images/2021/10/help/writing/url-autolink-rendered.png)
 
 リンクの生成に関する詳しい情報については[基本的な書き方とフォーマットの構文](/articles/basic-writing-and-formatting-syntax/#links)を参照してください。
 

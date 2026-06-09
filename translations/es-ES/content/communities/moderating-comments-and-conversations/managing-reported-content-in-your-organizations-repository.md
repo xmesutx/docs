@@ -28,14 +28,14 @@ Cuando termines de moderar el contenido ofensivo, puedes marcar el reporte como 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
-4. Da clic en {% octicon "kebab-horizontal" aria-label="The edit icon" %} al costado derecho del contenido reportado que quieres ver. Posteriormente, da clic en **Ver contenido**. !["Ver contenidot" en el menú desplegable de Editar para el contenido reportado](/assets/images/help/repository/reported-content-report-view-content.png)
+4. Da clic en {% octicon "kebab-horizontal" aria-label="The edit icon" %} al costado derecho del contenido reportado que quieres ver. Posteriormente, da clic en **Ver contenido**. !["Ver contenidot" en el menú desplegable de Editar para el contenido reportado](/assets/images/2021/10/help/repository/reported-content-report-view-content.png)
 
 ## Resolver un reporte
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
-4. Da clic en {% octicon "kebab-horizontal" aria-label="The edit icon" %} a la derecha del reporte que quieres resolver. Posteriormente, da clic en **Marcar como resuelto**. !["Marcar como resuleto" en el menú desplegable de Editar para el contenido reportado](/assets/images/help/repository/reported-content-mark-report-as-resolved.png)
+4. Da clic en {% octicon "kebab-horizontal" aria-label="The edit icon" %} a la derecha del reporte que quieres resolver. Posteriormente, da clic en **Marcar como resuelto**. !["Marcar como resuleto" en el menú desplegable de Editar para el contenido reportado](/assets/images/2021/10/help/repository/reported-content-mark-report-as-resolved.png)
 
 ## Marcar un reporte como no resuelto
 
@@ -43,7 +43,7 @@ Cuando termines de moderar el contenido ofensivo, puedes marcar el reporte como 
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
 {% data reusables.repositories.reported-content-resolved-tab %}
-5. Da clic en {% octicon "kebab-horizontal" aria-label="The edit icon" %} a la derecha del reporte que quisieras marcar como no resuelto. Posteriormente, da clic en **Marcar como no resuelto**. !["Marcar como no resuelto" en el menú desplegable de Editar para el contenido reportado](/assets/images/help/repository/reported-content-mark-report-as-unresolved.png)
+5. Da clic en {% octicon "kebab-horizontal" aria-label="The edit icon" %} a la derecha del reporte que quisieras marcar como no resuelto. Posteriormente, da clic en **Marcar como no resuelto**. !["Marcar como no resuelto" en el menú desplegable de Editar para el contenido reportado](/assets/images/2021/10/help/repository/reported-content-mark-report-as-unresolved.png)
 
 ## Leer más
 

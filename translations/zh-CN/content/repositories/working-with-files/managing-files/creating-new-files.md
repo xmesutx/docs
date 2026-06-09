@@ -24,9 +24,9 @@ topics:
 {% data reusables.repositories.navigate-to-repo %}
 2. 在仓库中，浏览到要在其中创建文件的文件夹。
 {% data reusables.files.add-file %}
-4. 在文件名称字段中，键入文件的名称和扩展名。 要创建子目录，请键入 `/` 目录分隔符。 ![新文件名](/assets/images/help/repository/new-file-name.png)
-5. 在 **Edit new file（编辑新文件）**选项卡上，为文件添加内容。 ![新文件中的内容](/assets/images/help/repository/new-file-content.png)
-6. 要查看新内容，请单击 **Preview（预览）**。 ![新文件预览按钮](/assets/images/help/repository/new-file-preview.png)
+4. 在文件名称字段中，键入文件的名称和扩展名。 要创建子目录，请键入 `/` 目录分隔符。 ![新文件名](/assets/images/2021/10/help/repository/new-file-name.png)
+5. 在 **Edit new file（编辑新文件）**选项卡上，为文件添加内容。 ![新文件中的内容](/assets/images/2021/10/help/repository/new-file-content.png)
+6. 要查看新内容，请单击 **Preview（预览）**。 ![新文件预览按钮](/assets/images/2021/10/help/repository/new-file-preview.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}

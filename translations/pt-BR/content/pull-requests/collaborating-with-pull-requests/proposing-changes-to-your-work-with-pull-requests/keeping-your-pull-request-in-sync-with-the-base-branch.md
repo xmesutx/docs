@@ -40,10 +40,10 @@ A atualização do seu branch a partir da página do pull request executa um mer
 
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-6069 %}
 1. Na seção de merge perto do final da página, você pode:
-   - Clique em **Atualizar branch** para executar uma merge tradicional. ![Botão para atualizar o branch](/assets/images/help/pull_requests/pull-request-update-branch-with-dropdown.png)
-   - Clique no menu suspenso atualizar branch, clique em **Atualizar com rebase** e, em seguida, clique em **Branch de rebase** para atualizar, baseando-se no branch de base. ![Menu suspenso que mostra opções de merge e rebase](/assets/images/help/pull_requests/pull-request-update-branch-rebase-option.png)
+   - Clique em **Atualizar branch** para executar uma merge tradicional. ![Botão para atualizar o branch](/assets/images/2022/02/help/pull_requests/pull-request-update-branch-with-dropdown.png)
+   - Clique no menu suspenso atualizar branch, clique em **Atualizar com rebase** e, em seguida, clique em **Branch de rebase** para atualizar, baseando-se no branch de base. ![Menu suspenso que mostra opções de merge e rebase](/assets/images/2022/02/help/pull_requests/pull-request-update-branch-rebase-option.png)
 {% else %}
-1. Na seção "Merge" perto do final da página, clique em **Atualizar branch** para executar uma merge tradicional. ![Botão para atualizar o branch](/assets/images/help/pull_requests/pull-request-update-branch.png)
+1. Na seção "Merge" perto do final da página, clique em **Atualizar branch** para executar uma merge tradicional. ![Botão para atualizar o branch](/assets/images/2022/02/help/pull_requests/pull-request-update-branch.png)
 {% endif %}
 
 ## Leia mais

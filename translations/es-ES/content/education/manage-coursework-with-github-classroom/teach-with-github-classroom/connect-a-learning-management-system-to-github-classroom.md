@@ -49,10 +49,10 @@ Currently, {% data variables.product.prodname_classroom %} doesn't support impor
     - For more information about deleting and creating a roster, see "[Deleting a roster for a classroom](/education/manage-coursework-with-github-classroom/manage-classrooms#deleting-a-roster-for-a-classroom)" and "[Creating a roster for your classroom](/education/manage-coursework-with-github-classroom/manage-classrooms#creating-a-roster-for-your-classroom)."
     - For more information about updating a roster, see "[Adding students to the roster for your classroom](/education/manage-coursework-with-github-classroom/manage-classrooms#adding-students-to-the-roster-for-your-classroom)."
 1. In the list of LMSes, click your LMS. If your LMS is not supported, click **Other LMS**.
-  ![List of LMSes](/assets/images/help/classroom/classroom-settings-click-lms.png)
+  ![List of LMSes](/assets/images/2021/10/help/classroom/classroom-settings-click-lms.png)
 1. Read about connecting your LMS, then click **Connect to _LMS_**.
 1. Copy the "Consumer Key", "Shared Secret", and "Launch URL" for the connection to the classroom.
-  ![Copy credentials](/assets/images/help/classroom/classroom-copy-credentials.png)
+  ![Copy credentials](/assets/images/2021/10/help/classroom/classroom-copy-credentials.png)
 
 ## Configuring a generic LMS
 
@@ -139,6 +139,6 @@ For more information about importing the roster from your LMS into {% data varia
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-settings %}
 1. Under "Connect to a learning management system (LMS)", click **Connection Settings**.
-  !["Connection settings" link in classroom settings](/assets/images/help/classroom/classroom-settings-click-connection-settings.png)
+  !["Connection settings" link in classroom settings](/assets/images/2021/10/help/classroom/classroom-settings-click-connection-settings.png)
 1. Under "Delete Connection to your learning management system", click **Disconnect from your learning management system**.
-  !["Disconnect from your learning management system" button in connection settings for classroom](/assets/images/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)
+  !["Disconnect from your learning management system" button in connection settings for classroom](/assets/images/2021/10/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)

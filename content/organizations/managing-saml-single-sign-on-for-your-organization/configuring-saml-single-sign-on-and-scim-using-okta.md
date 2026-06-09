@@ -44,7 +44,7 @@ Alternatively, you can configure SAML SSO for an enterprise using Okta. SCIM for
 1. Click **Authenticate with Github Enterprise Cloud - Organization**.
 1. To the right of your organization's name, click **Grant**.
 
-  !["Grant" button for authorizing Okta SCIM integration to access organization](/assets/images/help/saml/okta-scim-integration-grant-organization-access.png)
+  !["Grant" button for authorizing Okta SCIM integration to access organization](/assets/images/2021/10/help/saml/okta-scim-integration-grant-organization-access.png)
 
   {% note %}
 

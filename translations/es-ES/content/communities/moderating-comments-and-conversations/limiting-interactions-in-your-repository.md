@@ -30,7 +30,7 @@ También puedes habilitar los límites de actividad en todos los repositorios qu
 {% data reusables.repositories.sidebar-settings %}
 1. En la sección de "Acceso" de la barra lateral, selecciona **{% octicon "comment-discussion" aria-label="The comment-discussion icon" %} Opciones de moderación** y luego haz clic en **Límites de interacción**.
 {% data reusables.community.set-interaction-limit %}
-  ![Opciones de límites de interacción temporarios](/assets/images/help/repository/temporary-interaction-limits-options.png)
+  ![Opciones de límites de interacción temporarios](/assets/images/2021/10/help/repository/temporary-interaction-limits-options.png)
 
 ## Leer más
 - "[Informar abuso o spam](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"

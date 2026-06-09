@@ -6,4 +6,4 @@ Para crear una lista de tareas, lista los elementos por prefacio con un guion y 
 - [ ] Add delight to the experience when all tasks are complete :tada:
 ```
 
-![Lista de tareas generada](/assets/images/help/writing/task-list-rendered-simple.png)
+![Lista de tareas generada](/assets/images/2021/10/help/writing/task-list-rendered-simple.png)

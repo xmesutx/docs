@@ -43,7 +43,7 @@ Na sua página de perfil, determinadas ações contam como contribuições:
 
 Esta seção exibe os repositórios com a maioria dos inspetores. {% ifversion fpt or ghes or ghec %}Uma vez que você [fixou repositórios no seu perfil](/articles/pinning-repositories-to-your-profile), esta seção mudará para "Repositórios fixoss".{% endif %}
 
-![Repositórios populares](/assets/images/help/profile/profile_popular_repositories.png)
+![Repositórios populares](/assets/images/2021/10/help/profile/profile_popular_repositories.png)
 
 {% ifversion fpt or ghes or ghec %}
 
@@ -51,7 +51,7 @@ Esta seção exibe os repositórios com a maioria dos inspetores. {% ifversion f
 
 Esta seção exibe até seis repositórios públicos e pode incluir tanto repositórios pertencentes a você como aqueles com os quais você contribuiu. Para ver detalhes importantes sobre os repositórios que você escolheu retratar, cada repositório nesta seção inclui um resumo do trabalho que está sendo feito, o número de [estrelas](/articles/saving-repositories-with-stars/) que ele recebeu e a principal linguagem de programação usada nele. Para obter mais informações, consulte "[Fixar repositórios no seu perfil](/articles/pinning-repositories-to-your-profile)".
 
-![Repositórios fixos](/assets/images/help/profile/profile_pinned_repositories.png)
+![Repositórios fixos](/assets/images/2021/10/help/profile/profile_pinned_repositories.png)
 
 {% endif %}
 
@@ -70,7 +70,7 @@ O calendário de contribuições mostra sua atividade de contribuição.
 
 {% endnote %}
 
-![Gráfico de contribuição](/assets/images/help/profile/contributions_graph.png)
+![Gráfico de contribuição](/assets/images/2021/10/help/profile/contributions_graph.png)
 
 ### Como são calculados os horários de evento de contribuição
 
@@ -82,7 +82,7 @@ Os registros de data e hora são calculados de forma diferente para commits e pu
 
 {% data reusables.profile.activity-overview-summary %} Para obter mais informações, consulte "[Exibir a visão geral das atividades no perfil](/articles/showing-an-overview-of-your-activity-on-your-profile)".
 
-![Seção Visão geral de atividade no perfil](/assets/images/help/profile/activity-overview-section.png)
+![Seção Visão geral de atividade no perfil](/assets/images/2021/10/help/profile/activity-overview-section.png)
 
 As organizações retratadas na visão geral da atividade são priorizadas de acordo com a forma como você está ativo na organização. Se você for integrante de uma organização e @mencioná-la na bio do perfil, essa organização será priorizada na visão geral da atividade. Para obter mais informações, consulte "[Mencionando pessoas e equipes](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams)” ou "[Adicionando uma biografia ao seu perfil](/articles/adding-a-bio-to-your-profile/)."
 
@@ -90,7 +90,7 @@ As organizações retratadas na visão geral da atividade são priorizadas de ac
 
 A seção de atividade de contribuição contém uma linha do tempo detalhada do seu trabalho, incluindo commits feitos exclusivamente por você ou em coautoria, solicitações de pull que você propôs e problemas que você abriu. Para ver suas contribuições ao longo do tempo, clique em **Mostrar mais atividade** na parte inferior da atividade de contribuição ou clique no ano em que você está interessado em visualizar, no lado direito da página. Momentos importantes, como a data em que você ingressou na organização, propôs sua primeira pull request ou abriu um problema relevante, são realçados na atividade de contribuição. Se você não conseguir ver determinados eventos na sua linha do tempo, verifique se ainda tem acesso à organização ou ao repositório em que o evento aconteceu
 
-![Filtro de hora de atividade de contribuição](/assets/images/help/profile/contributions_activity_time_filter.png)
+![Filtro de hora de atividade de contribuição](/assets/images/2021/10/help/profile/contributions_activity_time_filter.png)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 

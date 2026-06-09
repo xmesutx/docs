@@ -40,7 +40,7 @@ Antes de habilitar {% data variables.product.prodname_actions %}, certifique-se 
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.actions %}
 {% data reusables.actions.enterprise-enable-checkbox %}
-1. Em "Artefato & Registro de armazenamento", selecione **Azure Blob Storage**, e insira a string de conexão da sua conta de do Azure Storage. Para obter mais informações sobre como obter a string de conexão para sua conta de armazenamento, consulte a [Documentação do Azure](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#view-account-access-keys). ![Botão de opção para selecionar o armazenamento do Azure Blob e o campo de string de conexão](/assets/images/enterprise/management-console/actions-azure-storage.png)
+1. Em "Artefato & Registro de armazenamento", selecione **Azure Blob Storage**, e insira a string de conexão da sua conta de do Azure Storage. Para obter mais informações sobre como obter a string de conexão para sua conta de armazenamento, consulte a [Documentação do Azure](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#view-account-access-keys). ![Botão de opção para selecionar o armazenamento do Azure Blob e o campo de string de conexão](/assets/images/2021/10/enterprise/management-console/actions-azure-storage.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.actions.enterprise-postinstall-nextsteps %}

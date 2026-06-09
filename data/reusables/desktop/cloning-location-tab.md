@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![Location tabs in the Clone a repository menu](/assets/images/help/desktop/choose-repository-location-mac.png)
+  ![Location tabs in the Clone a repository menu](/assets/images/2021/10/help/desktop/choose-repository-location-mac.png)
   
   {% endmac %}
 
   {% windows %}
   
-  ![Location tabs in the Clone a repository menu](/assets/images/help/desktop/choose-repository-location-win.png)
+  ![Location tabs in the Clone a repository menu](/assets/images/2021/10/help/desktop/choose-repository-location-win.png)
   
   {% endwindows %}

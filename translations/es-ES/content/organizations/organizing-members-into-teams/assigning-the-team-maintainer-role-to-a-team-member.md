@@ -44,6 +44,6 @@ Antes de que puedas promover a un miembro de la organización a mantenedor de eq
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_members_tab %}
-4. Selecciona la persona o las personas que desees promover a mantenedor del equipo. ![Casilla junto al miembro de la organización](/assets/images/help/teams/team-member-check-box.png)
-5. Por encima de la lista de miembros del equipo, utiliza el menú desplegable y haz clic en **Change role...** (Cambiar rol). ![Menú desplegable con opción para cambiar el rol](/assets/images/help/teams/bulk-edit-drop-down.png)
-6. Selecciona un rol nuevo y haz clic en **Change role** (Cambiar rol). ![Botones Radio para los roles de Mantenedor o Miembro](/assets/images/help/teams/team-role-modal.png)
+4. Selecciona la persona o las personas que desees promover a mantenedor del equipo. ![Casilla junto al miembro de la organización](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. Por encima de la lista de miembros del equipo, utiliza el menú desplegable y haz clic en **Change role...** (Cambiar rol). ![Menú desplegable con opción para cambiar el rol](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)
+6. Selecciona un rol nuevo y haz clic en **Change role** (Cambiar rol). ![Botones Radio para los roles de Mantenedor o Miembro](/assets/images/2021/10/help/teams/team-role-modal.png)

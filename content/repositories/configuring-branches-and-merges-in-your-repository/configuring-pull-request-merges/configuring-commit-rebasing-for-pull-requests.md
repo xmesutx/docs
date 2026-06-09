@@ -19,4 +19,4 @@ shortTitle: Configure commit rebasing
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 3. Under {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-6069 %}"Pull Requests"{% else %}"Merge button"{% endif %}, select **Allow rebase merging**. This allows contributors to merge a pull request by rebasing their individual commits onto the base branch. If you also select another merge method, collaborators will be able to choose the type of merge commit when merging a pull request. {% data reusables.repositories.squash-and-rebase-linear-commit-hisitory %}
-![Pull request rebased commits](/assets/images/help/repository/pr-merge-rebase.png)
+![Pull request rebased commits](/assets/images/2021/10/help/repository/pr-merge-rebase.png)

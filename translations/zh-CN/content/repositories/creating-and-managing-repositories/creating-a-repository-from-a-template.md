@@ -41,10 +41,10 @@ shortTitle: 从模板创建
 ## 从模板创建仓库
 
 {% data reusables.repositories.navigate-to-repo %}
-2. 在文件列表上方，单击 **Use this template（使用此模板）**。 ![使用此模板按钮](/assets/images/help/repository/use-this-template-button.png)
+2. 在文件列表上方，单击 **Use this template（使用此模板）**。 ![使用此模板按钮](/assets/images/2021/10/help/repository/use-this-template-button.png)
 {% data reusables.repositories.owner-drop-down %}
 {% data reusables.repositories.repo-name %}
 {% data reusables.repositories.choose-repo-visibility %}{% ifversion fpt or ghae or ghes or ghec %}
-6. （可选）要包括模板中所有分支的目录结构和文件，而不仅仅是默认分支，请选择 **Include all branches（包括所有分支）**。 ![Include all branches checkbox](/assets/images/help/repository/include-all-branches.png){% endif %}
+6. （可选）要包括模板中所有分支的目录结构和文件，而不仅仅是默认分支，请选择 **Include all branches（包括所有分支）**。 ![Include all branches checkbox](/assets/images/2021/10/help/repository/include-all-branches.png){% endif %}
 {% data reusables.repositories.select-marketplace-apps %}
 8. 单击 **Create repository from template（从模板创建仓库）**。

@@ -17,20 +17,20 @@ versions:
 
 各 Gist はどのフォークにアクティビティがあるのかを示すため、他のユーザによる興味深い変更を簡単に確認できます。
 
-![Gist フォーク](/assets/images/help/gist/gist_forks.png)
+![Gist フォーク](/assets/images/2021/10/help/gist/gist_forks.png)
 
 ## Gist をクローンする
 
 Gist にローカルの変更を加え、ウェブにプッシュしたい場合は、Gist をクローンして Git リポジトリと同様にコミットを行えます。 詳しい情報については[リポジトリのクローン](/articles/cloning-a-repository)を参照してください。
 
-![Gist クローンボタン](/assets/images/help/gist/gist_clone_btn.png)
+![Gist クローンボタン](/assets/images/2021/10/help/gist/gist_clone_btn.png)
 
 ## Gist のコミットの履歴を見る
 
 To view a gist's full commit history, click the "Revisions" tab at the top of the gist.
 
-![Gist [revisions] タブ](/assets/images/help/gist/gist_revisions_tab.png)
+![Gist [revisions] タブ](/assets/images/2021/10/help/gist/gist_revisions_tab.png)
 
 Gist の完全なコミットの履歴が diff とともに表示されます。
 
-![Gist [revisions] ページ](/assets/images/help/gist/gist_history.png)
+![Gist [revisions] ページ](/assets/images/2021/10/help/gist/gist_history.png)

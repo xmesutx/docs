@@ -27,13 +27,13 @@ Se houver algum hotpatch disponível para atualização, o `.hpkg` fará o downl
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.updates-tab %}
-4. Clique em **Yes, automatically check for updates** (Sim, verificar atualizações automaticamente). ![Botão para habilitar atualizações automáticas](/assets/images/enterprise/management-console/enable_updates_button.png)
+4. Clique em **Yes, automatically check for updates** (Sim, verificar atualizações automaticamente). ![Botão para habilitar atualizações automáticas](/assets/images/2021/10/enterprise/management-console/enable_updates_button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 Para ver se a sua instância está atualizada, verifique o banner na guia Updates (Atualizações).
 
-![Banner indicativo da versão do GitHub Enterprise Server](/assets/images/enterprise/management-console/up-to-date-banner.png)
+![Banner indicativo da versão do GitHub Enterprise Server](/assets/images/2021/10/enterprise/management-console/up-to-date-banner.png)
 
 Em **Logs**, consulte o status da verificação de atualização mais recente.
 
-![Logs para atualização](/assets/images/enterprise/management-console/update-log.png)
+![Logs para atualização](/assets/images/2021/10/enterprise/management-console/update-log.png)

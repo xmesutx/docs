@@ -33,7 +33,7 @@ Across all organizations owned by your enterprise, you can enable or disable org
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. 在“Organization projects”（组织项目）下，审查有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. 在“Organization projects”（组织项目）下，使用下拉菜单并选择策略。 ![带有组织项目板策略选项的下拉菜单](/assets/images/help/business-accounts/organization-projects-policy-drop-down.png)
+5. 在“Organization projects”（组织项目）下，使用下拉菜单并选择策略。 ![带有组织项目板策略选项的下拉菜单](/assets/images/2021/10/help/business-accounts/organization-projects-policy-drop-down.png)
 
 ## 实施仓库项目板的策略
 
@@ -43,4 +43,4 @@ Across all organizations owned by your enterprise, you can enable or disable rep
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. 在“Repository projects”（仓库项目）下，审查有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. 在“Repository projects”（仓库项目）下，使用下拉菜单并选择策略。 ![带有仓库项目板策略选项的下拉菜单](/assets/images/help/business-accounts/repository-projects-policy-drop-down.png)
+5. 在“Repository projects”（仓库项目）下，使用下拉菜单并选择策略。 ![带有仓库项目板策略选项的下拉菜单](/assets/images/2021/10/help/business-accounts/repository-projects-policy-drop-down.png)

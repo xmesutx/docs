@@ -49,7 +49,7 @@ A API de verificações envia o evento do webhook [`check_suite` webhook](/webho
 
 Para ter uma ideia do que seu servidor de CI da API de verificações fará quando você concluir este início rápido, confira a demonstração abaixo:
 
-![Demonstração do início rápido do servidor de CI da API de verificações](/assets/images/github-apps/github_apps_checks_api_ci_server.gif)
+![Demonstração do início rápido do servidor de CI da API de verificações](/assets/images/2021/10/github-apps/github_apps_checks_api_ci_server.gif)
 
 ## Pré-requisitos
 
@@ -175,7 +175,7 @@ $ ruby template_server.rb
 
 Agora abra um pull request no repositório em que você instalou seu aplicativo. Seu aplicativo deve responder, criando uma verificação executada em seu pull request. Clique na aba **Verificações** e você deve ver algo parecido com isso:
 
-![Execução de verificação enfileirada](/assets/images/github-apps/github_apps_queued_check_run.png)
+![Execução de verificação enfileirada](/assets/images/2021/10/github-apps/github_apps_queued_check_run.png)
 
 Se você vir outros aplicativos na aba Verificações, isso significa que você tem outros aplicativos instalados no seu repositório que têm acesso de **leitura & gravação ** para verificações e que estão inscritos em eventos **Conjunto de verificações** e **Execução de verificações**.
 
@@ -251,7 +251,7 @@ $ ruby template_server.rb
 
 Vá para seu pull request aberto e clique na aba **Verificações**. Clique no botão "Executar tudo novamente" no canto superior esquerdo. Você deverá ver a execução da verificação mover de `pendente` para `in_progress` e terminar com `sucesso`:
 
-![Execução de verificação concluída](/assets/images/github-apps/github_apps_complete_check_run.png)
+![Execução de verificação concluída](/assets/images/2021/10/github-apps/github_apps_complete_check_run.png)
 
 ## Parte 2. Criar o teste de CI do Octo RuboCop
 
@@ -587,15 +587,15 @@ $ ruby template_server.rb
 
 As anotações serão exibidas na aba **Verificações**.
 
-![Anotações da execução de verificação na aba verificações](/assets/images/github-apps/github_apps_checks_annotations.png)
+![Anotações da execução de verificação na aba verificações](/assets/images/2021/10/github-apps/github_apps_checks_annotations.png)
 
 Observe o botão "Corrija isso" que você criou ao adicionar uma ação solicitada.
 
-![Botão de ação solicitada de execução de verificação](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+![Botão de ação solicitada de execução de verificação](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 Se as anotações estiverem relacionadas a um arquivo já incluído no PR, as anotações também serão exibidas na aba **Arquivos alterados**.
 
-![Anotações da execução de verificação na aba Arquivos alterados](/assets/images/github-apps/github_apps_checks_annotation_diff.png)
+![Anotações da execução de verificação na aba Arquivos alterados](/assets/images/2021/10/github-apps/github_apps_checks_annotation_diff.png)
 
 ## Etapa 2.6. Corrigir erros do RuboCop automaticamente
 
@@ -689,11 +689,11 @@ Desta vez, clique no botão "Corrija isso" para corrigir automaticamente os erro
 
 Na aba **Commits**, você verá um novo commit pelo nome de usuário que você definiu na sua configuração do Git. Talvez seja necessário atualizar seu navegador para ver a atualização.
 
-![Um novo commit para corrigir as notificações do Octo RuboCop automaticamente](/assets/images/github-apps/github_apps_new_requested_action_commit.png)
+![Um novo commit para corrigir as notificações do Octo RuboCop automaticamente](/assets/images/2021/10/github-apps/github_apps_new_requested_action_commit.png)
 
 Como um novo commit foi enviado para o repositório, você verá um novo conjunto de verificações para Octo RuboCop na aba **Verificações**. Mas desta vez não haverá erros, porque o RuboCop resolveu todos eles. 🎉
 
-![Nenhum erro de conjunto de verificação ou de execução de verificação](/assets/images/github-apps/github_apps_checks_api_success.png)
+![Nenhum erro de conjunto de verificação ou de execução de verificação](/assets/images/2021/10/github-apps/github_apps_checks_api_success.png)
 
 Você pode encontrar o código concluído para o aplicativo que você acabou de criar no arquivo `server.rb` no repositório [Criar testes de CI com a API de verificações](https://github.com/github-developer/creating-ci-tests-with-the-checks-api).
 

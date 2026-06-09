@@ -29,9 +29,9 @@ shortTitle: Check out a PR locally
 
 {% data reusables.repositories.sidebar-pr %}
 2. プルリクエストのリストで、変更するプルリクエストをクリックします。{% ifversion fpt or ghec %}
-3. プルリクエストをオープンする場所を選択するには、[**Open with {% octicon "triangle-down" aria-label="The down triangle icon" %}**] ドロップダウンを選択して、いずれかのタブをクリックします。 ![Link to access command line pull request instructions](/assets/images/help/pull_requests/open-with-button.png){% else %}
-3. マージボックスで、[**command line instructions**] をクリックします。 手順に従い、提案されたプルリクエストをローカルにダウンロードしてください。 ![コマンドラインのプルリクエスト手順へのリンク](/assets/images/help/pull_requests/pull_request_show_command_line_merge.png)
-4. オプションで、提案された変更を {% data variables.product.prodname_desktop %} で表示するには、[**open this in {% data variables.product.prodname_desktop %}**] をクリックします。 ![Link to open a pull request locally in Desktop](/assets/images/help/desktop/open-pr-in-desktop.png){% endif %}
+3. プルリクエストをオープンする場所を選択するには、[**Open with {% octicon "triangle-down" aria-label="The down triangle icon" %}**] ドロップダウンを選択して、いずれかのタブをクリックします。 ![Link to access command line pull request instructions](/assets/images/2021/10/help/pull_requests/open-with-button.png){% else %}
+3. マージボックスで、[**command line instructions**] をクリックします。 手順に従い、提案されたプルリクエストをローカルにダウンロードしてください。 ![コマンドラインのプルリクエスト手順へのリンク](/assets/images/2021/10/help/pull_requests/pull_request_show_command_line_merge.png)
+4. オプションで、提案された変更を {% data variables.product.prodname_desktop %} で表示するには、[**open this in {% data variables.product.prodname_desktop %}**] をクリックします。 ![Link to open a pull request locally in Desktop](/assets/images/2021/10/help/desktop/open-pr-in-desktop.png){% endif %}
 
 {% endwebui %}
 
@@ -57,7 +57,7 @@ gh pr checkout <em>pull-request</em>
 
 {% data reusables.repositories.sidebar-issue-pr %}
 2. [Pull Requests] リストで、マージしたいプルリクエストをクリックします。
-3. アクティブではないプルリクエストの ID 番号を検索します。 ID 番号は、プルリクエストのタイトルの後に付いている数字です。 ![プルリクエストの ID 番号](/assets/images/help/pull_requests/pull_request_id_number.png)
+3. アクティブではないプルリクエストの ID 番号を検索します。 ID 番号は、プルリクエストのタイトルの後に付いている数字です。 ![プルリクエストの ID 番号](/assets/images/2021/10/help/pull_requests/pull_request_id_number.png)
 {% data reusables.command_line.open_the_multi_os_terminal %}
 5. ID 番号を元に、プルリクエストへの参照をフェッチします。この過程で、新しいブランチが作成されます。
   ```shell

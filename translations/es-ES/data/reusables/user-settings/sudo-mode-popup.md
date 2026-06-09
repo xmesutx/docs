@@ -1,1 +1,1 @@
-1. Si se te solicita, confirma tu contraseña {% data variables.product.product_name %}.![Diálogo Modo sudo](/assets/images/help/settings/sudo_mode_popup.png)
+1. Si se te solicita, confirma tu contraseña {% data variables.product.product_name %}.![Diálogo Modo sudo](/assets/images/2021/10/help/settings/sudo_mode_popup.png)

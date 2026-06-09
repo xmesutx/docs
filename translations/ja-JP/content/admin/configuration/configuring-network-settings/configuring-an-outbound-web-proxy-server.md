@@ -34,8 +34,8 @@ shortTitle: Configure an outbound proxy
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-1. **HTTP Proxy Server（HTTPプロキシサーバ）**の下に、プロキシサーバのURLを入力してください。 ![HTTP プロキシサーバーのURLを入力するためのフィールド](/assets/images/enterprise/management-console/http-proxy-field.png)
+1. **HTTP Proxy Server（HTTPプロキシサーバ）**の下に、プロキシサーバのURLを入力してください。 ![HTTP プロキシサーバーのURLを入力するためのフィールド](/assets/images/2021/10/enterprise/management-console/http-proxy-field.png)
 
-5. オプションで、プロキシのアクセスを要しないホストがあれば**HTTP Proxy Exclusion（HTTPプロキシの除外）**の下にカンマ区切りで入力してください。 ドメイン内のすべてのホストをプロキシアクセスの要求から除外するには `.` をワイルドカードプレフィックスとして使用できます。  たとえば、`.octo-org.tentacle` などです。 ![HTTP プロキシの除外を入力するためのフィールド](/assets/images/enterprise/management-console/http-proxy-exclusion-field.png)
+5. オプションで、プロキシのアクセスを要しないホストがあれば**HTTP Proxy Exclusion（HTTPプロキシの除外）**の下にカンマ区切りで入力してください。 ドメイン内のすべてのホストをプロキシアクセスの要求から除外するには `.` をワイルドカードプレフィックスとして使用できます。  たとえば、`.octo-org.tentacle` などです。 ![HTTP プロキシの除外を入力するためのフィールド](/assets/images/2021/10/enterprise/management-console/http-proxy-exclusion-field.png)
 
 {% data reusables.enterprise_management_console.save-settings %}

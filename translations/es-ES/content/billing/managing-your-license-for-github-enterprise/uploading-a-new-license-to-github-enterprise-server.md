@@ -28,7 +28,7 @@ Después de que compras o mejoras una licencia de {% data variables.product.prod
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
-1. Dentro de "Quick links (Vínculos rápidos)", haz clic en **Update license (Actualizar licencia)**. ![Actualizar enlace de la licencia](/assets/images/enterprise/business-accounts/update-license-link.png)
-1. Para seleccionar tu licencia, da clic en **Archivo de licencia**, o arrastra tu archivo de licencia a **Archivo de licencia**. ![Sube el archivo de licencia](/assets/images/enterprise/management-console/upload-license.png)
-1. Da clic en **Cargar**. ![Comenzar carga](/assets/images/enterprise/management-console/begin-upload.png)
+1. Dentro de "Quick links (Vínculos rápidos)", haz clic en **Update license (Actualizar licencia)**. ![Actualizar enlace de la licencia](/assets/images/2021/10/enterprise/business-accounts/update-license-link.png)
+1. Para seleccionar tu licencia, da clic en **Archivo de licencia**, o arrastra tu archivo de licencia a **Archivo de licencia**. ![Sube el archivo de licencia](/assets/images/2021/10/enterprise/management-console/upload-license.png)
+1. Da clic en **Cargar**. ![Comenzar carga](/assets/images/2021/10/enterprise/management-console/begin-upload.png)
 

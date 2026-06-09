@@ -24,12 +24,12 @@ shortTitle: 添加子团队
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. 在团队列表中，单击您要在其中添加子团队的父团队名称。 ![组织的团队列表](/assets/images/help/teams/click-team-name.png)
-5. 在团队页面顶部，单击 {% octicon "people" aria-label="The people icon" %} **Teams（团队）**。 ![团队页面上的团队选项卡](/assets/images/help/teams/team-teams-tab.png)
-6. 单击 **Add a team（添加团队）**。 ![团队页面上的添加团队按钮](/assets/images/help/teams/add-a-team.png)
-7. 键入要添加为子团队的团队名称，然后从下拉列表中选择它。 ![用于键入子团队名称的文本框和用于选择的下拉菜单](/assets/images/help/teams/type-child-team-name.png)
+4. 在团队列表中，单击您要在其中添加子团队的父团队名称。 ![组织的团队列表](/assets/images/2021/10/help/teams/click-team-name.png)
+5. 在团队页面顶部，单击 {% octicon "people" aria-label="The people icon" %} **Teams（团队）**。 ![团队页面上的团队选项卡](/assets/images/2021/10/help/teams/team-teams-tab.png)
+6. 单击 **Add a team（添加团队）**。 ![团队页面上的添加团队按钮](/assets/images/2021/10/help/teams/add-a-team.png)
+7. 键入要添加为子团队的团队名称，然后从下拉列表中选择它。 ![用于键入子团队名称的文本框和用于选择的下拉菜单](/assets/images/2021/10/help/teams/type-child-team-name.png)
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. 单击 **Confirm changes（确认更改）**以发送添加子团队的申请。 ![包含仓库访问权限更改相关信息的模态框](/assets/images/help/teams/confirm-new-parent-team.png)
+9. 单击 **Confirm changes（确认更改）**以发送添加子团队的申请。 ![包含仓库访问权限更改相关信息的模态框](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## 延伸阅读
 

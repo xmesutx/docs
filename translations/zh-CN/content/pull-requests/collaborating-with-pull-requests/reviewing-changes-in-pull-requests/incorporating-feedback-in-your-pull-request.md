@@ -27,10 +27,10 @@ shortTitle: 包含反馈
 {% data reusables.repositories.sidebar-pr %}
 2. 在拉取请求列表中，单击要对其应用提议的更改的拉取请求。
 3. 导航到您要应用的第一个提议的更改。
-    - 要在其自己的提交中应用更改，请单击 **Commit suggestion（提交建议）**。 ![提交建议按钮](/assets/images/help/pull_requests/commit-suggestion-button.png)
-    - 要将建议添加到一批更改，请单击 **Add suggestion to batch（添加建议到批次）**。 继续添加要包含在单一提交中的更改提议。 添加完提议的更改后，单击 **Commit suggestions（提交建议）**。 ![添加建议到批次按钮](/assets/images/help/pull_requests/add-suggestion-to-batch.png)
-4. 在提交消息字段中，输入简短、有意义的提交消息，以描述对文件的更改。 ![提交消息字段](/assets/images/help/pull_requests/suggested-change-commit-message-field.png)
-5. 单击 **Commit changes（提交更改）**。 ![提交更改按钮](/assets/images/help/pull_requests/commit-changes-button.png)
+    - 要在其自己的提交中应用更改，请单击 **Commit suggestion（提交建议）**。 ![提交建议按钮](/assets/images/2021/10/help/pull_requests/commit-suggestion-button.png)
+    - 要将建议添加到一批更改，请单击 **Add suggestion to batch（添加建议到批次）**。 继续添加要包含在单一提交中的更改提议。 添加完提议的更改后，单击 **Commit suggestions（提交建议）**。 ![添加建议到批次按钮](/assets/images/2021/10/help/pull_requests/add-suggestion-to-batch.png)
+4. 在提交消息字段中，输入简短、有意义的提交消息，以描述对文件的更改。 ![提交消息字段](/assets/images/2021/10/help/pull_requests/suggested-change-commit-message-field.png)
+5. 单击 **Commit changes（提交更改）**。 ![提交更改按钮](/assets/images/2021/10/help/pull_requests/commit-changes-button.png)
 
 ## 重新请求审核
 

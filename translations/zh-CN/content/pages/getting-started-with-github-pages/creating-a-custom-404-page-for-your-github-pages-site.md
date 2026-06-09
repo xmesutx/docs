@@ -19,7 +19,7 @@ shortTitle: 创建自定义 404 页面
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.pages.navigate-publishing-source %}
 {% data reusables.files.add-file %}
-3. 在文件名字段中，键入 `404.html` 或 `404.md`。 ![文件名字段](/assets/images/help/pages/404-file-name.png)
+3. 在文件名字段中，键入 `404.html` 或 `404.md`。 ![文件名字段](/assets/images/2021/10/help/pages/404-file-name.png)
 4. 如果将文件命名为 `404.md`，请将以下 YAML 前页添加到文件的开头：
   ```yaml
   ---

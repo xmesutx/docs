@@ -81,8 +81,8 @@ O nome do usuário de configuração é o código curto da sua empresa com o suf
 ### Efetuando a autenticação como {% data variables.product.prodname_managed_user %} por meio de {% data variables.product.prodname_dotcom_the_website %}
 
 1. Acesse [https://github.com/login](https://github.com/login).
-1. Na caixa de texto "Nome de usuário ou endereço de e-mail", insira seu nome de usuário, incluindo o sublinhado e o código curto. ![Screenshot showing login form](/assets/images/help/enterprises/emu-login-username.png) Quando o formulário reconhece o seu nome de usuário, o formulário será atualizado. Você não precisa digitar sua senha neste formulário.
-1. Para continuar acessando o seu provedor de identidade, clique em **Efetuar o login com seu provedor de identidade**. ![Captura de tela que mostra o botão "Efetuar o login com seu provedor de identidade"](/assets/images/help/enterprises/emu-login-submit.png)
+1. Na caixa de texto "Nome de usuário ou endereço de e-mail", insira seu nome de usuário, incluindo o sublinhado e o código curto. ![Screenshot showing login form](/assets/images/2022/01/help/enterprises/emu-login-username.png) Quando o formulário reconhece o seu nome de usuário, o formulário será atualizado. Você não precisa digitar sua senha neste formulário.
+1. Para continuar acessando o seu provedor de identidade, clique em **Efetuar o login com seu provedor de identidade**. ![Captura de tela que mostra o botão "Efetuar o login com seu provedor de identidade"](/assets/images/2022/01/help/enterprises/emu-login-submit.png)
 
 ## Nome de usuário e informações de perfil
 

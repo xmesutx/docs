@@ -35,7 +35,7 @@ Wikis 可显示 PNG、JPEG 和 GIF 图片。
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
 3. 使用 wiki 边栏，导航至要更改的页面，然后单击 **Edit（编辑）**。
-4. 在 wiki 工具栏上，单击 **Image（图像）**。 ![Wiki 添加图像按钮](/assets/images/help/wiki/wiki_add_image.png)
+4. 在 wiki 工具栏上，单击 **Image（图像）**。 ![Wiki 添加图像按钮](/assets/images/2021/10/help/wiki/wiki_add_image.png)
 5. 在“Insert Image”（插入图像）对话框，输入 URL 和 alt 文本（由搜索引擎和屏幕阅读器使用）。
 6. 单击 **OK（确定）**。
 

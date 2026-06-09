@@ -16,7 +16,7 @@ shortTitle: Adicionar recursos de suporte
 
 Para direcionar pessoas a recursos de suporte específicos, é possível adicionar um arquivo SUPPORT à pasta raiz, `docs` ou `.github` do seu repositório. Quando uma pessoa cria um problema no seu repositório, ela vê um link para o arquivo SUPPORT do projeto.
 
-![Diretrizes de suporte](/assets/images/help/issues/support_guidelines_in_issue.png)
+![Diretrizes de suporte](/assets/images/2021/10/help/issues/support_guidelines_in_issue.png)
 
 {% ifversion fpt or ghes or ghec %}
 

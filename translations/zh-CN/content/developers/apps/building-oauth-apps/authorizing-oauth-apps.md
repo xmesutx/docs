@@ -191,7 +191,7 @@ Accept: application/xml
 
 您的设备将显示用户验证码并提示用户在 {% data variables.product.device_authorization_url %} 中输入该代码。
 
-  ![用于输入设备上显示的用户验证码的字段](/assets/images/github-apps/device_authorization_page_for_user_code.png)
+  ![用于输入设备上显示的用户验证码的字段](/assets/images/2021/10/github-apps/device_authorization_page_for_user_code.png)
 
 ### 第 3 步：应用程序轮询 GitHub 以检查用户是否授权设备
 

@@ -19,9 +19,9 @@ Whenever a commit is pushed to {% data variables.product.prodname_enterprise %},
 1. Visit the user's profile page.
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 3. On the left side of the page, click **Admin**.
-  ![Admin tab](/assets/images/enterprise/site-admin-settings/admin-tab.png)
+  ![Admin tab](/assets/images/2021/10/enterprise/site-admin-settings/admin-tab.png)
 4. Under **Contributions data**, click **Rebuild**.
-![Rebuild button](/assets/images/enterprise/site-admin-settings/rebuild-button.png)
+![Rebuild button](/assets/images/2021/10/enterprise/site-admin-settings/rebuild-button.png)
 
 {% data variables.product.prodname_enterprise %} will now start background jobs to re-link commits with that user's account.
-  ![Queued rebuild jobs](/assets/images/enterprise/site-admin-settings/rebuild-jobs.png)
+  ![Queued rebuild jobs](/assets/images/2021/10/enterprise/site-admin-settings/rebuild-jobs.png)

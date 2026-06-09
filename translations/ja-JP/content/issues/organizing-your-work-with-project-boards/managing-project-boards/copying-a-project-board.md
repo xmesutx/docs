@@ -24,10 +24,10 @@ topics:
 
 1. コピーしたいプロジェクトボードに移動します。
 {% data reusables.project-management.click-menu %}
-3. {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックしてから、[**Copy**] をクリックします。 ![プロジェクトボードのサイドバーにある、ドロップダウンメニューの [Copy] オプション](/assets/images/help/projects/project-board-copy-setting.png)
-4. [Owner] の下にあるドロップダウンメニューで、プロジェクトボードのコピー先にするリポジトリまたは Organization をクリックします。 ![ドロップダウンメニューから、コピーしたプロジェクトボードのオーナーを選択](/assets/images/help/projects/copied-project-board-owner.png)
-5. 必要に応じて、[Project board name] の下に、コピーしたプロジェクトボードの名前を入力します。 ![コピーされたプロジェクトボードの名前を入力するフィールド](/assets/images/help/projects/copied-project-board-name.png)
-6. 必要に応じて、他の人に読んでもらうために、[Description] の下に、コピーしたプロジェクトボードについての説明を入力します。 ![コピーしたプロジェクトボードの説明を入力するフィールド](/assets/images/help/projects/copied-project-board-description.png)
-7. 必要に応じて、[Automation settings] の下で、設定済みの自動化されたワークフローをコピーするかどうかを選択します。 このオプションはデフォルトで有効になっています。 詳しい情報については「[プロジェクトボードの自動化について](/articles/about-automation-for-project-boards/)」を参照してください。 ![コピーしたプロジェクトボードの自動化設定を選択](/assets/images/help/projects/copied-project-board-automation-settings.png)
+3. {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}をクリックしてから、[**Copy**] をクリックします。 ![プロジェクトボードのサイドバーにある、ドロップダウンメニューの [Copy] オプション](/assets/images/2021/10/help/projects/project-board-copy-setting.png)
+4. [Owner] の下にあるドロップダウンメニューで、プロジェクトボードのコピー先にするリポジトリまたは Organization をクリックします。 ![ドロップダウンメニューから、コピーしたプロジェクトボードのオーナーを選択](/assets/images/2021/10/help/projects/copied-project-board-owner.png)
+5. 必要に応じて、[Project board name] の下に、コピーしたプロジェクトボードの名前を入力します。 ![コピーされたプロジェクトボードの名前を入力するフィールド](/assets/images/2021/10/help/projects/copied-project-board-name.png)
+6. 必要に応じて、他の人に読んでもらうために、[Description] の下に、コピーしたプロジェクトボードについての説明を入力します。 ![コピーしたプロジェクトボードの説明を入力するフィールド](/assets/images/2021/10/help/projects/copied-project-board-description.png)
+7. 必要に応じて、[Automation settings] の下で、設定済みの自動化されたワークフローをコピーするかどうかを選択します。 このオプションはデフォルトで有効になっています。 詳しい情報については「[プロジェクトボードの自動化について](/articles/about-automation-for-project-boards/)」を参照してください。 ![コピーしたプロジェクトボードの自動化設定を選択](/assets/images/2021/10/help/projects/copied-project-board-automation-settings.png)
 {% data reusables.project-management.choose-visibility %}
-9. [**Copy project**] をクリックします。 ![コピーを確定するボタン](/assets/images/help/projects/confirm-copy-project-board.png)
+9. [**Copy project**] をクリックします。 ![コピーを確定するボタン](/assets/images/2021/10/help/projects/confirm-copy-project-board.png)

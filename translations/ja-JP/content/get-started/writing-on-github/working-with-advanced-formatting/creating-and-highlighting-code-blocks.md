@@ -25,7 +25,7 @@ function test() {
 ```
 </pre>
 
-![表示されたコードブロック](/assets/images/help/writing/fenced-code-block-rendered.png)
+![表示されたコードブロック](/assets/images/2021/10/help/writing/fenced-code-block-rendered.png)
 
 {% tip %}
 
@@ -44,7 +44,7 @@ Look! You can see my backticks.
 ````
 </pre>
 
-![Rendered fenced code with backticks block](/assets/images/help/writing/fenced-code-show-backticks-rendered.png)
+![Rendered fenced code with backticks block](/assets/images/2021/10/help/writing/fenced-code-show-backticks-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -62,7 +62,7 @@ Look! You can see my backticks.
     puts markdown.to_html
     ```
 
-![Ruby の構文を強調して表示されたコードブロック](/assets/images/help/writing/code-block-syntax-highlighting-rendered.png)
+![Ruby の構文を強調して表示されたコードブロック](/assets/images/2021/10/help/writing/code-block-syntax-highlighting-rendered.png)
 
 構文強調表示のための言語検出の実行や[サードパーティの文法](https://github.com/github/linguist/blob/master/vendor/README.md)の選択には [Linguist](https://github.com/github/linguist) を使用します。 どのキーワードが有効かについては[言語 YAML ファイル](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)でご覧いただけます。
 

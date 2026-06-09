@@ -29,7 +29,7 @@ Para obter mais informações sobre exatamente como {% data variables.product.pr
 
 3. Acesse a página principal do repositório recém-criado. No nome do repositório, use o menu suspenso **Código de {% octicon "code" aria-label="The code icon" %}** e na aba **Codespaces** de código, clique em {% octicon "plus" aria-label="The plus icon" %} **Novo codespace**.
 
-  ![Botão de codespace novo](/assets/images/help/codespaces/new-codespace-button.png)
+  ![Botão de codespace novo](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
 ## Executando o aplicativo
 
@@ -37,13 +37,13 @@ Uma vez criado o seu codespace, seu repositório será automaticamente clonado. 
 
 1. Como esse exemplo usa um projeto Node.js, inicie o aplicativo digitando `npm run dev` no terminal. Este comando executa o script `dev` no arquivo package.json e inicia o aplicativo web definido no repositório de exemplo.
 
-   ![npm run dev no terminal](/assets/images/help/codespaces/codespaces-npm-run-dev.png)
+   ![npm run dev no terminal](/assets/images/2021/10/help/codespaces/codespaces-npm-run-dev.png)
 
     Se você estiver acompanhando com um tipo diferente de aplicativo, digite o comando inicial correspondente para esse projeto.
 
 2. Quando o aplicativo iniciar, o código reconhece a porta na qual o aplicativo está sendo executado e irá exibir uma instrução para encaminhar a porta para que você possa conectar-se a ele.
 
-  ![Notificação de encaminhamento de porta](/assets/images/help/codespaces/quickstart-port-toast.png)
+  ![Notificação de encaminhamento de porta](/assets/images/2021/10/help/codespaces/quickstart-port-toast.png)
 
 3. Clique em **Abrir no navegador** para visualizar seu aplicativo em execução em uma nova aba.
 
@@ -56,18 +56,18 @@ Uma vez criado o seu codespace, seu repositório será automaticamente clonado. 
 3. Volte à aba do aplicativo em execução no seu navegador e atualize para visualizar as suas alterações.
 
   {% octicon "light-bulb" aria-label="The lightbulb icon" %}  Se você fechou a aba, abra o painel de portas e clique no ícone **Abrir no navegador** para a porta em execução.
-  ![Painel de Encaminhamento de Portas](/assets/images/help/codespaces/quickstart-forward-port.png)
+  ![Painel de Encaminhamento de Portas](/assets/images/2021/10/help/codespaces/quickstart-forward-port.png)
 
 ## Enviando e fazendo push das suas alterações
 
 Agora que você fez algumas alterações, você poderá usar o terminal integrado ou a visão de origem para commit e fazer push das alterações de volta para remoto.
 
 {% data reusables.codespaces.source-control-display-dark %}
-1. Para testar suas alterações, clique  **+** ao lado do arquivo que você alterou, ou ao lado de **Alterações** se você mudou vários arquivos e quiser testar todos. ![Barra lateral de controle de origem com botão de staging destacado](/assets/images/help/codespaces/codespaces-commit-stage.png)
-1. Digite uma mensagem do commit que descreve a alteração que você fez. ![Barra lateral do controle de origem com uma mensagem de commit](/assets/images/help/codespaces/codespaces-commit-commit-message.png)
-1. Para fazer commit das alterações em fase de preparação, clique na marca de seleção na parte superior da barra lateral de controle de origem. ![Click the check mark icon](/assets/images/help/codespaces/codespaces-commit-checkmark-icon.png)  
+1. Para testar suas alterações, clique  **+** ao lado do arquivo que você alterou, ou ao lado de **Alterações** se você mudou vários arquivos e quiser testar todos. ![Barra lateral de controle de origem com botão de staging destacado](/assets/images/2021/10/help/codespaces/codespaces-commit-stage.png)
+1. Digite uma mensagem do commit que descreve a alteração que você fez. ![Barra lateral do controle de origem com uma mensagem de commit](/assets/images/2021/10/help/codespaces/codespaces-commit-commit-message.png)
+1. Para fazer commit das alterações em fase de preparação, clique na marca de seleção na parte superior da barra lateral de controle de origem. ![Click the check mark icon](/assets/images/2021/10/help/codespaces/codespaces-commit-checkmark-icon.png)  
    Você pode fazer push das alterações realizadas. Isso aplica essas alterações ao branch upstream no repositório remoto. Você pode querer fazer isso se ainda não estiver pronto para criar um pull request, ou se você preferir criar um pull request em {% data variables.product.prodname_dotcom %}.
-1. Na parte superior da barra lateral, clique na elipse (**...**). ![Botão Elipsis para visualizar e mais ações](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+1. Na parte superior da barra lateral, clique na elipse (**...**). ![Botão Elipsis para visualizar e mais ações](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. No menu suspenso, clique em **Push**.
 
 ## Personalizando com uma extensão
@@ -78,11 +78,11 @@ Dentro de um codespace, você tem acesso ao Marketplace do Visual Studio Code. P
 
 2.  Na barra de pesquisa, digite `fairyfloss` e instale a extensão fairyfloss.
 
-  ![Adicionar extensão](/assets/images/help/codespaces/add-extension.png)
+  ![Adicionar extensão](/assets/images/2021/10/help/codespaces/add-extension.png)
 
 3. Selecione o tema `fairyfloss` selecionando-o na lista.
 
-  ![Selecionar tema fairyfloss](/assets/images/help/codespaces/fairyfloss.png)
+  ![Selecionar tema fairyfloss](/assets/images/2021/10/help/codespaces/fairyfloss.png)
 
 4. As alterações feitas na configuração do seu ditor editor no codespace atual, como ligações de tema e teclado, são sincronizadas automaticamente por meio da [Sincronização das Configurações](https://code.visualstudio.com/docs/editor/settings-sync) para qualquer outro codespace que você abrir e quaisquer instâncias do Visual Studio Code que estiverem conectadas à sua conta do GitHub.
 

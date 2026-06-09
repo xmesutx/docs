@@ -53,7 +53,7 @@ Organization のプライベートリポジトリへの外部のコラボレー�
 
   {% endwarning %}
 
-  ![設定をリストアするか否かの選択](/assets/images/help/organizations/choose_whether_to_restore_org_member_info.png)
+  ![設定をリストアするか否かの選択](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info.png)
 {% else %}
 6. [**Add and reinstate**] をクリックして外部のコラボレータの Organization での以前の権限をリストアすることを選択するか、[**Add and start fresh**] をクリックして以前の権限をクリアして新たにアクセス権を設定することを選択します。
 
@@ -63,12 +63,12 @@ Organization のプライベートリポジトリへの外部のコラボレー�
 
   {% endwarning %}
 
-  ![設定をリストアするか否かの選択](/assets/images/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
+  ![設定をリストアするか否かの選択](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
 {% endif %}
 {% ifversion fpt or ghec %}
-7. 以前の外部コラボレーターの以前の権限をクリアした場合は、そのユーザのロールを選択し、オプションでいくつかのチームに追加してから、[**Send invitation**] をクリックします。 ![ロールとTeamオプションと招待の送信ボタン](/assets/images/help/organizations/add-role-send-invitation.png)
+7. 以前の外部コラボレーターの以前の権限をクリアした場合は、そのユーザのロールを選択し、オプションでいくつかのチームに追加してから、[**Send invitation**] をクリックします。 ![ロールとTeamオプションと招待の送信ボタン](/assets/images/2021/10/help/organizations/add-role-send-invitation.png)
 {% else %}
-7. 以前の外部コラボレーターの以前の権限をクリアした場合は、そのユーザのロールを選択し、オプションでいくつかのチームに追加してから、[**Add member**] をクリックします。 ![ロールと Team のオプションと [add member] ボタン](/assets/images/help/organizations/add-role-add-member.png)
+7. 以前の外部コラボレーターの以前の権限をクリアした場合は、そのユーザのロールを選択し、オプションでいくつかのチームに追加してから、[**Add member**] をクリックします。 ![ロールと Team のオプションと [add member] ボタン](/assets/images/2021/10/help/organizations/add-role-add-member.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 8. 招待された人物は、Organizationへの招待メールを受け取ります。 Organization で 外部コラボレーターになるには、招待を受諾する必要があります。 {% data reusables.organizations.cancel_org_invite %}

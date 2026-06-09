@@ -36,13 +36,13 @@ Ao habilitar o encaminhamento de registro, você deverá faer o upload de um cer
 {% elsif ghae %}
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-1. Em {% octicon "gear" aria-label="The Settings gear" %} **Configurações**, clique em **Encaminhamento de registro**. ![Aba de encaminhamento de log](/assets/images/enterprise/business-accounts/log-forwarding-tab.png)
-1. Em "Encaminhamento de registro", selecione **Habilitar o encaminhamento de registro**. ![Caixa de seleção para habilitar o encaminhamento de registro](/assets/images/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
-1. Em "Endereço do servidor, digite o endereço do servidor para o qual você deseja encaminhar o registro. ![Campo endereço do servidor](/assets/images/enterprise/business-accounts/server-address-field.png)
-1. Use o menu suspenso "Protocolo" e selecione um protocolo. ![Menu suspenso de protocolo](/assets/images/enterprise/business-accounts/protocol-drop-down-menu.png)
-1. Opcionalmente, para habilitar comunicação encriptada TLS entre os pontos de extremidade do syslog, selecione **Habilitar TLS**. ![Caixa de seleção para habilitar TLS](/assets/images/enterprise/business-accounts/enable-tls-checkbox.png)
-1. Em "Certificado público", cole o seu certificado x509. ![Caixa de texto para certificado público](/assets/images/enterprise/business-accounts/public-certificate-text-box.png)
-1. Clique em **Salvar**. ![Botão Salvar para encaminhamento de registro](/assets/images/enterprise/business-accounts/save-button-log-forwarding.png)
+1. Em {% octicon "gear" aria-label="The Settings gear" %} **Configurações**, clique em **Encaminhamento de registro**. ![Aba de encaminhamento de log](/assets/images/2021/10/enterprise/business-accounts/log-forwarding-tab.png)
+1. Em "Encaminhamento de registro", selecione **Habilitar o encaminhamento de registro**. ![Caixa de seleção para habilitar o encaminhamento de registro](/assets/images/2021/10/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
+1. Em "Endereço do servidor, digite o endereço do servidor para o qual você deseja encaminhar o registro. ![Campo endereço do servidor](/assets/images/2021/10/enterprise/business-accounts/server-address-field.png)
+1. Use o menu suspenso "Protocolo" e selecione um protocolo. ![Menu suspenso de protocolo](/assets/images/2021/10/enterprise/business-accounts/protocol-drop-down-menu.png)
+1. Opcionalmente, para habilitar comunicação encriptada TLS entre os pontos de extremidade do syslog, selecione **Habilitar TLS**. ![Caixa de seleção para habilitar TLS](/assets/images/2021/10/enterprise/business-accounts/enable-tls-checkbox.png)
+1. Em "Certificado público", cole o seu certificado x509. ![Caixa de texto para certificado público](/assets/images/2021/10/enterprise/business-accounts/public-certificate-text-box.png)
+1. Clique em **Salvar**. ![Botão Salvar para encaminhamento de registro](/assets/images/2021/10/enterprise/business-accounts/save-button-log-forwarding.png)
 {% endif %}
 
 {% ifversion ghes %}

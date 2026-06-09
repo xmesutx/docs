@@ -16,11 +16,11 @@ En medida que consideres dónde encontrar contribuyentes de código abierto para
 
 Si iniciaste sesión, los resultados de los patrocinadores comenzarán con las dependencias públicas de las cuales dependen tus repositorios.
 
-![El proyecto de código abierto Babel con texto resaltado que dice "4 de tus repositorios dependen de esto"](/assets/images/help/sponsors/example-of-open-source-project-dependency.png)
+![El proyecto de código abierto Babel con texto resaltado que dice "4 de tus repositorios dependen de esto"](/assets/images/2021/10/help/sponsors/example-of-open-source-project-dependency.png)
 
 También puedes alternar entre de cuáles de tus cuentas quieres ver resultados y filtrar o buscar más.
 
-![Opciones de búsqueda de la página de búsqueda de la comunidadde patrocinadores](/assets/images/help/sponsors/sponsors-search-options.png)
+![Opciones de búsqueda de la página de búsqueda de la comunidadde patrocinadores](/assets/images/2021/10/help/sponsors/sponsors-search-options.png)
 
 ## Explora aquién patrocinan los demás
 

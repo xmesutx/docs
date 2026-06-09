@@ -95,7 +95,7 @@ This procedure demonstrates how to create a starter workflow and metadata file. 
 
 To add another starter workflow, add your files to the same `workflow-templates` directory. 例:
 
-![Workflow files](/assets/images/help/images/workflow-template-files.png)
+![Workflow files](/assets/images/2021/10/help/images/workflow-template-files.png)
 
 ## 次のステップ
 

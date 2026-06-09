@@ -24,9 +24,9 @@ Para executar um fluxo de trabalho manualmente, o fluxo de trabalho deve ser con
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja executar. ![ações selecionam fluxo de trabalho](/assets/images/actions-select-workflow.png)
-1. Acima da lista de execuções de fluxo de trabalho, selecione **Executar**de fluxo de trabalho . ![expedição de fluxo de trabalho ações](/assets/images/actions-workflow-dispatch.png)
-1. Use o menu suspenso **Branch** para selecionar o branch do fluxo de trabalho e digite os parâmetros de entrada. Clique em **Executar**de fluxo de trabalho . ![ações executar manualmente fluxo de trabalho](/assets/images/actions-manually-run-workflow.png)
+1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja executar. ![ações selecionam fluxo de trabalho](/assets/images/2021/10/actions-select-workflow.png)
+1. Acima da lista de execuções de fluxo de trabalho, selecione **Executar**de fluxo de trabalho . ![expedição de fluxo de trabalho ações](/assets/images/2021/10/actions-workflow-dispatch.png)
+1. Use o menu suspenso **Branch** para selecionar o branch do fluxo de trabalho e digite os parâmetros de entrada. Clique em **Executar**de fluxo de trabalho . ![ações executar manualmente fluxo de trabalho](/assets/images/2021/10/actions-manually-run-workflow.png)
 
 {% endwebui %}
 

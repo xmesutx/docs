@@ -59,11 +59,11 @@ Atualmente, {% data variables.product.prodname_classroom %} não é compatível 
 1. Se sua sala de aula já tiver uma lista, você poderá atualizar a lista ou excluir a lista e criar uma nova lista. 
        - Para mais informações sobre a exclusão e criação de uma lista, consulte "[Excluir uma lista para uma sala de aula](/education/manage-coursework-with-github-classroom/manage-classrooms#deleting-a-roster-for-a-classroom)" e "[Criar uma lista de participantes para sua sala de aula](/education/manage-coursework-with-github-classroom/manage-classrooms#creating-a-roster-for-your-classroom)".
     - Para obter mais informações sobre como atualizar uma lista, consulte "[Adicionar alunos à lista para sua sala de aula](/education/manage-coursework-with-github-classroom/manage-classrooms#adding-students-to-the-roster-for-your-classroom)".
-1. Na lista de LMSes, clique no seu LMS. Se o seu LMS não for compatível, clique em **Outro LMS**. ![Lista de LMSes](/assets/images/help/classroom/classroom-settings-click-lms.png)
+1. Na lista de LMSes, clique no seu LMS. Se o seu LMS não for compatível, clique em **Outro LMS**. ![Lista de LMSes](/assets/images/2021/10/help/classroom/classroom-settings-click-lms.png)
 
 1. Leia sobre como conectar seu LMS e, em seguida, clique em **Conectar-se ao _LMS_**.
 
-1. Copie a "Chave do Consumidor", "Segredo Compartilhado" e "Iniciar URL" para a conexão com a sala de aula. ![Copie credenciais](/assets/images/help/classroom/classroom-copy-credentials.png)
+1. Copie a "Chave do Consumidor", "Segredo Compartilhado" e "Iniciar URL" para a conexão com a sala de aula. ![Copie credenciais](/assets/images/2021/10/help/classroom/classroom-copy-credentials.png)
 
 
 
@@ -172,6 +172,6 @@ Para obter mais informações sobre a importação da lista de participantes do 
 
 {% data reusables.classroom.click-settings %}
 
-1. Em "Conectar a um sistema de gerenciamento de aprendizagem (LMS)", clique em **Configurações de conexão**. ![Link "Configurações de conexão" nas configurações da sala de aula](/assets/images/help/classroom/classroom-settings-click-connection-settings.png)
+1. Em "Conectar a um sistema de gerenciamento de aprendizagem (LMS)", clique em **Configurações de conexão**. ![Link "Configurações de conexão" nas configurações da sala de aula](/assets/images/2021/10/help/classroom/classroom-settings-click-connection-settings.png)
 
-1. Em "Excluir conexão com o sistema de gerenciamento de aprendizagem", clique em **Desconectar do seu sistema de gerenciamento de aprendizagem**. ![Botão "Desconectar do seu sistema de gerenciamento de aprendizagem" nas configurações de conexão da sala de aula](/assets/images/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)
+1. Em "Excluir conexão com o sistema de gerenciamento de aprendizagem", clique em **Desconectar do seu sistema de gerenciamento de aprendizagem**. ![Botão "Desconectar do seu sistema de gerenciamento de aprendizagem" nas configurações de conexão da sala de aula](/assets/images/2021/10/help/classroom/classroom-settings-click-disconnect-from-your-lms-button.png)

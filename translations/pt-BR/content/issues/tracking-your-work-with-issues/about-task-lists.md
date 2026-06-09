@@ -43,7 +43,7 @@ Se você adicionar uma lista de tarefas ao texto de um problema, isso significa 
 - Se uma tarefa exigir mais rastreamento ou discussão, você poderá convertê-la em um problema, passando o mouse sobre a tarefa e clicando em {% octicon "issue-opened" aria-label="The issue opened icon" %} no canto superior direito da tarefa. Para adicionar mais detalhes antes de criar o problema, você pode usar atalhos de teclado para abrir o formulário do novo problema. Para obter mais informações, consulte "[Atalhos de teclado](/github/getting-started-with-github/using-github/keyboard-shortcuts#issues-and-pull-requests)".
 - Quaisquer problemas referenciados na lista de tarefas especificarão que são rastreados no problema de referência.
 
-![Lista de tarefas gerada](/assets/images/help/writing/task-list-rendered.png)
+![Lista de tarefas gerada](/assets/images/2021/10/help/writing/task-list-rendered.png)
 
 {% endif %}
 
@@ -61,8 +61,8 @@ Se você adicionar uma lista de tarefas ao texto de um problema, isso significa 
 
 Você pode reordenar os itens de uma lista de tarefas clicando à esquerda da caixa de seleção de uma tarefa arrastando a tarefa para uma nova localidade e soltando a tarefa. Você pode reordenar tarefas em diferentes listas no mesmo comentário, mas você não pode reordenar tarefas em diferentes comentários.
 
-{% ifversion fpt %} ![Lista de tarefas reordenadas](/assets/images/help/writing/task-list-reordered.gif)
-{% else %} ![Reordered task list](/assets/images/enterprise/writing/task-lists-reorder.gif) {% endif %}
+{% ifversion fpt %} ![Lista de tarefas reordenadas](/assets/images/2021/10/help/writing/task-list-reordered.gif)
+{% else %} ![Reordered task list](/assets/images/2021/11/enterprise/writing/task-lists-reorder.gif) {% endif %}
 
 {% ifversion fpt %}
 
@@ -70,7 +70,7 @@ Você pode reordenar os itens de uma lista de tarefas clicando à esquerda da ca
 
 Todos os problemas referenciados em uma lista de tarefas especificam que são acompanhados pelo problema que contém a lista de tarefas. Para Acessar o problema de rastreamento a partir do problema rastreado, clique no número de rastreamento do **Rastreado na seção** ao lado do status do problema.
 
-![Rastreado no exemplo](/assets/images/help/writing/task_list_tracked.png)
+![Rastreado no exemplo](/assets/images/2021/10/help/writing/task_list_tracked.png)
 
 {% endif %}
 

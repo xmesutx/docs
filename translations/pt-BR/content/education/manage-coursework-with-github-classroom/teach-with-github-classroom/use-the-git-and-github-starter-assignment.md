@@ -24,7 +24,7 @@ A atividade inicial do Git & {% data variables.product.company_short %} é um cu
 3. Na aba {% octicon "repo" aria-label="The repo icon" %} **Atividades**, clique em **Usar a atividade inicial**.
 
 <div class="procedural-image-wrapper">
-  <img alt="Criando sua primeira atividade" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-create-first-assignment.png">
+  <img alt="Criando sua primeira atividade" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-create-first-assignment.png">
 </div>
 
 ### Se já existirem recomendações na sala de aula
@@ -34,7 +34,7 @@ A atividade inicial do Git & {% data variables.product.company_short %} é um cu
 3. Na aba {% octicon "repo" aria-label="The repo icon" %} **Atividades**, clique no link do banner azul.
 
 <div class="procedural-image-wrapper">
-  <img alt="Botão &quot;Nova atividade&quot;" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-new-starter-assignment-button.png">
+  <img alt="Botão &quot;Nova atividade&quot;" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-new-starter-assignment-button.png">
 </div>
 
 ## Configurar os fundamentos para uma atividade
@@ -59,7 +59,7 @@ Importe o curso introdutório para a sua organização, nomeie sua atividade, de
 Primeiro, você precisa importar a atividade inicial do Git & {% data variables.product.product_name %} para a sua organização.
 
 <div class="procedural-image-wrapper">
-  <img alt="O botão &quot;Importar a atividade&quot;" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-import-starter-assignment.png">
+  <img alt="O botão &quot;Importar a atividade&quot;" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-import-starter-assignment.png">
 </div>
 
 ### Nomeando a atividade
@@ -79,7 +79,7 @@ Os repositórios de uma atividade podem ser públicos ou privados. Se você usar
 Ao terminar, clique em **Continuar**. {% data variables.product.prodname_classroom %} criará a atividade e direcionará você para a página da atividade.
 
 <div class="procedural-image-wrapper">
-  <img alt="Botão &quot;Continuar&quot;" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-click-continue-button.png">
+  <img alt="Botão &quot;Continuar&quot;" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-click-continue-button.png">
 </div>
 
 ## Convidar alunos para uma atividade
@@ -89,7 +89,7 @@ Ao terminar, clique em **Continuar**. {% data variables.product.prodname_classro
 Você pode ver se um aluno juntou-se à sala de aula e aceitou ou enviou uma atividade na aba **Todos os alunos** da atividade. {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="Atividade individual" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-individual-hero.png">
+  <img alt="Atividade individual" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-individual-hero.png">
 </div>
 
 A atividade inicial do Git & {% data variables.product.company_short %} só está disponível para alunos individuais, não para grupos. Depois de criar a atividade, os alunos poderão começar a trabalhar nela.

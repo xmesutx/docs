@@ -239,5 +239,5 @@ jobs:
 
 リポジトリから [**Actions**] タブをクリックして、最新のワークフロー実行を選択します。 Under **Jobs** or in the visualization graph, click **A job to say hello**. "Hello Mona the Octocat"、または`who-to-greet` 入力に指定した名前とタイムスタンプがログに出力されます。
 
-![ワークフローでアクションを使用しているスクリーンショット](/assets/images/help/repository/docker-action-workflow-run-updated.png)
+![ワークフローでアクションを使用しているスクリーンショット](/assets/images/2021/10/help/repository/docker-action-workflow-run-updated.png)
 

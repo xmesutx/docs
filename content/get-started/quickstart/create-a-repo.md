@@ -43,9 +43,9 @@ You can store a variety of projects in {% data variables.product.product_name %}
 
 {% data reusables.repositories.create_new %}
 2. Type a short, memorable name for your repository. For example, "hello-world".
-  ![Field for entering a repository name](/assets/images/help/repository/create-repository-name.png)
+  ![Field for entering a repository name](/assets/images/2021/10/help/repository/create-repository-name.png)
 3. Optionally, add a description of your repository. For example, "My first repository on {% data variables.product.product_name %}."
-  ![Field for entering a repository description](/assets/images/help/repository/create-repository-desc.png)
+  ![Field for entering a repository description](/assets/images/2021/10/help/repository/create-repository-desc.png)
 {% data reusables.repositories.choose-repo-visibility %}
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
@@ -76,13 +76,13 @@ When you created your new repository, you initialized it with a *README* file. *
 Let's commit a change to the *README* file.
 
 1. In your repository's list of files, click ***README.md***.
-  ![README file in file list](/assets/images/help/repository/create-commit-open-readme.png)
+  ![README file in file list](/assets/images/2021/10/help/repository/create-commit-open-readme.png)
 2. Above the file's content, click {% octicon "pencil" aria-label="The edit icon" %}.
 3. On the **Edit file** tab, type some information about yourself.
-  ![New content in file](/assets/images/help/repository/edit-readme-light.png)
+  ![New content in file](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
 5. Review the changes you made to the file. You'll see the new content in green.
-  ![File preview view](/assets/images/help/repository/create-commit-review.png)
+  ![File preview view](/assets/images/2021/10/help/repository/create-commit-review.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_file_change %}

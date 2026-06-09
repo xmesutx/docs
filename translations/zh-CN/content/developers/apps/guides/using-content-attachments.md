@@ -35,7 +35,7 @@ GitHub 应用程序可以注册将触发 `content_reference` 事件的域。 当
 
 **步骤 2.** 将注册域的 URL 添加到议题或拉取请求。 必须使用以 `http://` 或 `https://` 开头的完全合格 URL。
 
-![添加到议题的 URL](/assets/images/github-apps/github_apps_content_reference.png)
+![添加到议题的 URL](/assets/images/2021/10/github-apps/github_apps_content_reference.png)
 
 **步骤 3.**应用程序将收到带有操作 `created` 的 [`content_reference` web 挂钩](/webhooks/event-payloads/#content_reference)。
 
@@ -80,7 +80,7 @@ curl -X POST \
 
 **步骤 5.** 在拉取请求或议题注释中，您将看到新的内容附件显示在链接下：
 
-![附加到议题引用的内容](/assets/images/github-apps/content_reference_attachment.png)
+![附加到议题引用的内容](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 ## 在 GraphQL 中使用内容附件
 我们在 [`content_reference` web 挂钩](/webhooks/event-payloads/#content_reference)中提供 `node_id`，以便您可以在 GraphQL API 中引用 `createContentAttachment` 突变。
@@ -170,11 +170,11 @@ curl -X "POST" "{% data variables.product.api_url_code %}/graphql" \
 
 4. [在本地运行 GitHub 应用程序](https://probot.github.io/docs/development/#running-the-app-locally)。 导航到 `http://localhost:3000`， 然后单击 **Register GitHub App（注册 GitHub 应用程序）**按钮：
 
-   ![注册 Probot GitHub 应用程序](/assets/images/github-apps/github_apps_probot-registration.png)
+   ![注册 Probot GitHub 应用程序](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 5. 在测试仓库中安装应用程序。
 6. 在测试仓库中创建议题。
 7. 将注释添加到您打开的议题，包括您在 `app.yml` 文件中配置的 URL。
 8. 查看议题注释，您将看到如下所示的更新：
 
-   ![附加到议题引用的内容](/assets/images/github-apps/content_reference_attachment.png)
+   ![附加到议题引用的内容](/assets/images/2021/10/github-apps/content_reference_attachment.png)

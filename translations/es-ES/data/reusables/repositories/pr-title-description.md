@@ -1,1 +1,1 @@
-1. Escribe un título y una descripción para tu solicitud de extracción. ![Título y campos de descripción de la solicitud de extracción](/assets/images/help/pull_requests/pullrequest-description.png)
+1. Escribe un título y una descripción para tu solicitud de extracción. ![Título y campos de descripción de la solicitud de extracción](/assets/images/2021/10/help/pull_requests/pullrequest-description.png)

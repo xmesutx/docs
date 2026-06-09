@@ -19,8 +19,8 @@ Sempre que é enviado para o {% data variables.product.prodname_enterprise %}, o
 
 1. Acesse a página de perfil do usuário.
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. À esquerda na página, clique em **Admin** (Administrador). ![Guia Admin (Administrador)](/assets/images/enterprise/site-admin-settings/admin-tab.png)
-4. Em **Contributions data** (Dados de contribuição), clique em **Rebuild** (Recompilar). ![Botão Rebuild (Recompilar)](/assets/images/enterprise/site-admin-settings/rebuild-button.png)
+3. À esquerda na página, clique em **Admin** (Administrador). ![Guia Admin (Administrador)](/assets/images/2021/10/enterprise/site-admin-settings/admin-tab.png)
+4. Em **Contributions data** (Dados de contribuição), clique em **Rebuild** (Recompilar). ![Botão Rebuild (Recompilar)](/assets/images/2021/10/enterprise/site-admin-settings/rebuild-button.png)
 
 {% data variables.product.prodname_enterprise %} will now start background jobs to re-link commits with that user's account.
-  ![Trabalhos recompilados em fila](/assets/images/enterprise/site-admin-settings/rebuild-jobs.png)
+  ![Trabalhos recompilados em fila](/assets/images/2021/10/enterprise/site-admin-settings/rebuild-jobs.png)

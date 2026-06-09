@@ -22,5 +22,5 @@ Uma vez habilitado, os proprietários da organização e as pessoas com acesso d
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. Em "Issue deletion" (Exclusão do problema), selecione **Allow members to delete issues for this organization** (Permitir que integrantes excluam problemas dessa organização). ![Caixa de seleção para permitir que as pessoas excluam problemas](/assets/images/help/settings/issue-deletion.png)
+5. Em "Issue deletion" (Exclusão do problema), selecione **Allow members to delete issues for this organization** (Permitir que integrantes excluam problemas dessa organização). ![Caixa de seleção para permitir que as pessoas excluam problemas](/assets/images/2021/10/help/settings/issue-deletion.png)
 6. Clique em **Salvar**.

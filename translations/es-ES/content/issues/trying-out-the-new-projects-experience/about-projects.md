@@ -35,15 +35,15 @@ Puedes utilizar los campos personalizados para agregar metadatos a tus tareas. P
 
 Puedes ver tu proyecto como un diseño de tabla de densidad alta:
 
-![Tabla de proyectos](/assets/images/help/issues/projects_table.png)
+![Tabla de proyectos](/assets/images/2021/10/help/issues/projects_table.png)
 
 O como un tablero:
 
-![Tablero de proyectos](/assets/images/help/issues/projects_board.png)
+![Tablero de proyectos](/assets/images/2021/10/help/issues/projects_board.png)
 
 Para ayudar a que te enfoques en aspectos específicos de tu proyecto, puedes agrupar, clasificar o filtrar elementos:
 
-![Vista de proyecto](/assets/images/help/issues/project_view.png)
+![Vista de proyecto](/assets/images/2021/10/help/issues/project_view.png)
 
 Para obtener más información, consulta la sección "[Personalizar las vistas de tu proyecto](/issues/trying-out-the-new-projects-experience/customizing-your-project-views)".
 

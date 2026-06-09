@@ -18,7 +18,7 @@ topics:
 
 As verificações de status se baseiam em processos externos, como compilações de integração contínua, que são executados para cada push que você faz em um repositório. Você pode ver o estado de *pendência*, *aprovação* ou *falha* das verificações de status ao lado de commits individuais em sua pull request.
 
-![Lista de commits e status](/assets/images/help/pull_requests/commit-list-statuses.png)
+![Lista de commits e status](/assets/images/2021/10/help/pull_requests/commit-list-statuses.png)
 
 Qualquer pessoa com permissão de gravação em um repositório pode configurar o estado de qualquer verificação de status no repositório.
 
@@ -41,7 +41,7 @@ Os proprietários da organização e usuários com acesso push a um repositório
 
 Quando _verificações_ são configuradas em um repositório, as pull requests apresentam uma guia **Checks** (Verificações), onde é possível exibir o resultado detalhado da compilação de verificações de status e executar novamente as verificações com falha.
 
-![Verificações de status em uma pull request](/assets/images/help/pull_requests/checks.png)
+![Verificações de status em uma pull request](/assets/images/2021/10/help/pull_requests/checks.png)
 
 {% note %}
 
@@ -51,11 +51,11 @@ Quando _verificações_ são configuradas em um repositório, as pull requests a
 
 Quando uma linha específica em um commit causar a falha de uma verificação, você verá detalhes sobre a falha, o aviso ou a advertência ao lado do código relevante na guia **Files** (Arquivos) da pull request.
 
-![Detalhes de uma verificação de status](/assets/images/help/pull_requests/checks-detailed.png)
+![Detalhes de uma verificação de status](/assets/images/2021/10/help/pull_requests/checks-detailed.png)
 
 Você pode navegar entre os resumos das verificações de vários commits em uma pull request usando o menu suspenso do commit na guia **Conversation** (Conversa).
 
-![Resumos de verificação para diferentes commits em um menu suspenso](/assets/images/help/pull_requests/checks-summary-for-various-commits.png)
+![Resumos de verificação para diferentes commits em um menu suspenso](/assets/images/2021/10/help/pull_requests/checks-summary-for-various-commits.png)
 
 ### Ignorar e solicitar verificações para commits individuais
 

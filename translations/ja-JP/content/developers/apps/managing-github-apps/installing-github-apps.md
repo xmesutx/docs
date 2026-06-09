@@ -26,7 +26,7 @@ topics:
 1. [GitHub Appsの設定ページ](https://github.com/settings/apps)から、アプリケーションを選択してください。
 2. 左のサイドバーで、**Install App（アプリケーションのインストール）**をクリックしてください。
 3. 適切なリポジトリを含むOrganizationもしくはユーザアカウントの隣の** Install（インストール）**をクリックしてください。
-4. すべてのリポジトリ、もしくは選択したリポジトリにアプリケーションをインストールしてください。 ![アプリケーションのインストール権限](/assets/images/install_permissions.png)
+4. すべてのリポジトリ、もしくは選択したリポジトリにアプリケーションをインストールしてください。 ![アプリケーションのインストール権限](/assets/images/2021/10/install_permissions.png)
 5. インストールが終わると、選択したアカウントでアプリケーションの設定オプションが表示されます。 ここで変更をすることも、あるいは先のステップを繰り返して他のアカウントへアプリケーションをインストールすることもできます。
 
 {% ifversion fpt or ghec %}
@@ -49,8 +49,8 @@ topics:
 以下のステップでは、[{% data variables.product.prodname_github_app %}を構築](/apps/building-github-apps/)済みであるものとしています。
 
 1. [GitHub Appの設定ページ](https://github.com/settings/apps)から、他のユーザがインストールできるように設定したいパブリックなアプリケーションを選択してください。
-2. "Homepage URL（ホームページのURL）"にアプリケーションのホームページのURLを入力し、**Save changes（変更を保存）**をクリックしてください。 ![ホームページのURL](/assets/images/github-apps/github_apps_homepageURL.png)
-3. GitHubは、アプリケーションの「ホームページURL」へのリンクを含むアプリケーションのためのランディングページを提供します。 GitHub上のランディングページにアクセスするには、「Public link（公開リンク）」からURLをコピーし、ブラウザに貼り付けてください。 ![公開リンク](/assets/images/github-apps/github_apps_public_link.png)
+2. "Homepage URL（ホームページのURL）"にアプリケーションのホームページのURLを入力し、**Save changes（変更を保存）**をクリックしてください。 ![ホームページのURL](/assets/images/2021/10/github-apps/github_apps_homepageURL.png)
+3. GitHubは、アプリケーションの「ホームページURL」へのリンクを含むアプリケーションのためのランディングページを提供します。 GitHub上のランディングページにアクセスするには、「Public link（公開リンク）」からURLをコピーし、ブラウザに貼り付けてください。 ![公開リンク](/assets/images/2021/10/github-apps/github_apps_public_link.png)
 4. `{% data variables.product.oauth_host_code %}/apps/<app name>/installations/new`というアプリケーションのインストールURLを含む、アプリケーションのためのホームページを作成してください。
 
 ## インストール中のユーザの認可

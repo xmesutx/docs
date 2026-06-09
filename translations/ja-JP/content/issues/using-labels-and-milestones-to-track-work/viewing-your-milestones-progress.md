@@ -18,10 +18,10 @@ shortTitle: マイルストーンへの進捗の表示
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. 左上隅にある [**Milestones**] をクリックします。 ![Issue マイルストーンボタン](/assets/images/help/issues/issues_milestone_button.png)
+3. 左上隅にある [**Milestones**] をクリックします。 ![Issue マイルストーンボタン](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. 詳細を表示したいマイルストーンを選択します。
 
-![Issue マイルストーンの概要](/assets/images/help/issues/issues_milestone_overview.png)
+![Issue マイルストーンの概要](/assets/images/2021/10/help/issues/issues_milestone_overview.png)
 
 プロジェクトをよりよく管理するために、マイルストーン内のIssueやPull Requestに優先順位を付けられます。 詳細は「[マイルストーンについて](/articles/about-milestones#prioritizing-issues-and-pull-requests-in-milestones)」を参照してください。
 

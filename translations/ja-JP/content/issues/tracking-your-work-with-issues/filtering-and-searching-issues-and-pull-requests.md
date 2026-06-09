@@ -63,7 +63,7 @@ Issue およびPull Requestをフィルタリングして、以下を探すこ�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. [**Filters**] をクリックしてフィルタの種類を選びます。 ![[Filters] ドロップダウンメニューを使用する](/assets/images/help/issues/issues_filter_dropdown.png)
+3. [**Filters**] をクリックしてフィルタの種類を選びます。 ![[Filters] ドロップダウンメニューを使用する](/assets/images/2021/10/help/issues/issues_filter_dropdown.png)
 
 ## Issue およびPull Requestをアサインされた人でフィルタリングする
 
@@ -72,7 +72,7 @@ Issue およびPull Requestをフィルタリングして、以下を探すこ�
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 3. 右上にある [Assignee] ドロップダウンメニューをクリックします。
-4. [Assignee] ドロップダウンメニューには、リポジトリへの書き込み権限のあるすべてのユーザがリストされます。 確認したい割り当てられた項目を持つユーザの名前をクリックするか、[**Assigned to nobody**] をクリックして未割り当ての Issue を表示します。 ![[Assignee] ドロップダウンメニューを使用する](/assets/images/help/issues/issues_assignee_dropdown.png)
+4. [Assignee] ドロップダウンメニューには、リポジトリへの書き込み権限のあるすべてのユーザがリストされます。 確認したい割り当てられた項目を持つユーザの名前をクリックするか、[**Assigned to nobody**] をクリックして未割り当ての Issue を表示します。 ![[Assignee] ドロップダウンメニューを使用する](/assets/images/2021/10/help/issues/issues_assignee_dropdown.png)
 
 {% tip %}
 
@@ -87,7 +87,7 @@ Issue およびPull Requestをフィルタリングして、以下を探すこ�
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 {% data reusables.project-management.labels %}
-4. ラベルのリストでラベルをクリックして、割り当てられた Issue とプルリクエストを表示します。 ![リポジトリのラベルのリスト](/assets/images/help/issues/labels-page.png)
+4. ラベルのリストでラベルをクリックして、割り当てられた Issue とプルリクエストを表示します。 ![リポジトリのラベルのリスト](/assets/images/2021/10/help/issues/labels-page.png)
 
 {% tip %}
 
@@ -110,8 +110,8 @@ Pull Requestのリポジトリのリストをフィルタリングして、次�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-pr %}
-3. 右上にある [Reviews] ドロップダウンメニューをクリックします。 ![プルリクエストのリストの上にあるフィルタメニュー内の [Reviews] ドロップダウンメニュー](/assets/images/help/pull_requests/reviews-filter-dropdown.png)
-4. フィルタを選択してます。そのフィルタのステータスのPull Requestすべてが検索されます。 ![[Reviews] ドロップダウンメニュー内のフィルタのリスト](/assets/images/help/pull_requests/pr-review-filters.png)
+3. 右上にある [Reviews] ドロップダウンメニューをクリックします。 ![プルリクエストのリストの上にあるフィルタメニュー内の [Reviews] ドロップダウンメニュー](/assets/images/2021/10/help/pull_requests/reviews-filter-dropdown.png)
+4. フィルタを選択してます。そのフィルタのステータスのPull Requestすべてが検索されます。 ![[Reviews] ドロップダウンメニュー内のフィルタのリスト](/assets/images/2021/10/help/pull_requests/pr-review-filters.png)
 
 ## 検索を使用して Issue およびプルリクエストをフィルタリングする
 
@@ -123,7 +123,7 @@ Pull Requestのリポジトリのリストをフィルタリングして、次�
 
 Issue とPull Requestの検索バーを使用すると、独自のカスタムフィルターを定義し、さまざまな基準で並べ替えることができます。 検索バーは、各リポジトリの [**Issues**] および [**Pull requests**] タブ、ならびに[Issues および Pull requests のダッシュボード](/articles/viewing-all-of-your-issues-and-pull-requests)にあります。
 
-![Issue およびプルリクエストの検索バー](/assets/images/help/issues/issues_search_bar.png)
+![Issue およびプルリクエストの検索バー](/assets/images/2021/10/help/issues/issues_search_bar.png)
 
 {% tip %}
 
@@ -207,7 +207,7 @@ Pull Requestについては、検索を利用して以下の操作もできま�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-1. 右上にあるソートドロップダウンメニューをクリックします。 ![ソートドロップダウンタブを使用する](/assets/images/help/issues/issues_sort_dropdown.png)
+1. 右上にあるソートドロップダウンメニューをクリックします。 ![ソートドロップダウンタブを使用する](/assets/images/2021/10/help/issues/issues_sort_dropdown.png)
 
 ソートの選択を解除するには、[**Sort**] > [**Newest**] をクリックします。
 

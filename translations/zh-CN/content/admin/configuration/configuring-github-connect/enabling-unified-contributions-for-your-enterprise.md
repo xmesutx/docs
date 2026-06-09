@@ -46,7 +46,7 @@ Before enabling {% data variables.product.prodname_unified_contributions %} on {
 {% data reusables.enterprise-accounts.github-connect-tab %}{% else %}
 1. 登录到 {% data variables.product.product_location %} 和 {% data variables.product.prodname_dotcom_the_website %}。
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
-1. 在“Users can share contribution counts to {% data variables.product.prodname_dotcom_the_website %}”下，单击 **Request access**。 ![Request access to unified contributions option](/assets/images/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
+1. 在“Users can share contribution counts to {% data variables.product.prodname_dotcom_the_website %}”下，单击 **Request access**。 ![Request access to unified contributions option](/assets/images/2021/10/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
 2. [登录](https://enterprise.github.com/login) {% data variables.product.prodname_ghe_server %} 站点以接收其他说明。
 
 When you request access, we may redirect you to the {% data variables.product.prodname_ghe_server %} site to check your current terms of service.

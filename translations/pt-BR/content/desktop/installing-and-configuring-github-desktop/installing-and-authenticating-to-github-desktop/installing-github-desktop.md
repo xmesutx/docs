@@ -30,8 +30,8 @@ Se um usuário executa o pacote do Windows Installer para {% data variables.prod
 Você pode instalar o {% data variables.product.prodname_desktop %} nas versões {% data variables.desktop.mac-osx-versions %}.
 
 {% data reusables.desktop.download-desktop-page %}
-2. Clique em **Download para macOS**. ![Botão Download para macOS](/assets/images/help/desktop/download-for-mac.png)
-3. Na pasta `Downloads` do computador, clique duas vezes no arquivo zip **{% data variables.product.prodname_desktop %}**. ![O arquivo GitHubDesktop.zip](/assets/images/help/desktop/mac-zipfile.png)
+2. Clique em **Download para macOS**. ![Botão Download para macOS](/assets/images/2021/10/help/desktop/download-for-mac.png)
+3. Na pasta `Downloads` do computador, clique duas vezes no arquivo zip **{% data variables.product.prodname_desktop %}**. ![O arquivo GitHubDesktop.zip](/assets/images/2021/10/help/desktop/mac-zipfile.png)
 4. Depois de descompatar o arquivo zip, clique duas vezes no **{% data variables.product.prodname_desktop %}**.
 5. {% data variables.product.prodname_desktop %} será lançado após a instalação ser concluída.
 
@@ -48,8 +48,8 @@ Você pode instalar o {% data variables.product.prodname_desktop %} nas versões
 {% endwarning %}
 
 {% data reusables.desktop.download-desktop-page %}
-2. Clique em **Download para Windows**. ![Botão Download para Windows](/assets/images/help/desktop/download-for-windows.png)
-3. Na pasta `Downloads` do seu computador, clique duas vezes no arquivo de configuração **{% data variables.product.prodname_desktop %}**. ![Arquivo GitHubDesktopSetup](/assets/images/help/desktop/windows-githubdesktopsetup.png)
+2. Clique em **Download para Windows**. ![Botão Download para Windows](/assets/images/2021/10/help/desktop/download-for-windows.png)
+3. Na pasta `Downloads` do seu computador, clique duas vezes no arquivo de configuração **{% data variables.product.prodname_desktop %}**. ![Arquivo GitHubDesktopSetup](/assets/images/2021/10/help/desktop/windows-githubdesktopsetup.png)
 4. {% data variables.product.prodname_desktop %} será lançado após a instalação ser concluída.
 
 {% endwindows %}

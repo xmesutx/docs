@@ -6,4 +6,4 @@ Based on our experience helping customers with a successful deployment of GHAS, 
 
 Depending on the needs of your organization, you may need to modify this approach and alter or remove some phases or steps.
 
-![Diagram showing the three phases of GitHub Advanced Security rollout and deployment, including Phase 0: Planning & Kickoff, Phase 1: Pilot projects, Phase 2: Org Buy-in and Rollout for early adopters, and Phase 3: Full org rollout & change management](/assets/images/enterprise/security/advanced-security-phased-approach-diagram.png)
+![Diagram showing the three phases of GitHub Advanced Security rollout and deployment, including Phase 0: Planning & Kickoff, Phase 1: Pilot projects, Phase 2: Org Buy-in and Rollout for early adopters, and Phase 3: Full org rollout & change management](/assets/images/2021/10/enterprise/security/advanced-security-phased-approach-diagram.png)

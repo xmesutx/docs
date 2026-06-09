@@ -35,7 +35,7 @@ shortTitle: Editar arquivos
 
 1. No repositório, navegue até o arquivo que deseja editar.
 {% data reusables.repositories.edit-file %}
-3. Na guia **Edit file** (Editar arquivo), faça as alterações necessárias no arquivo. ![Novo conteúdo no arquivo](/assets/images/help/repository/edit-readme-light.png)
+3. Na guia **Edit file** (Editar arquivo), faça as alterações necessárias no arquivo. ![Novo conteúdo no arquivo](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
@@ -48,10 +48,10 @@ Ao editar um arquivo em um repositório de outro usuário, iremos [bifurcar o re
 
 1. No repositório de outro usuário, navegue até a pasta que contém o arquivo que deseja editar. Clique no nome do arquivo a ser editado.
 2. Acima do conteúdo do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %}. Neste ponto, o GitHub bifurca o repositório para você.
-3. Faça as alterações necessárias no arquivo. ![Novo conteúdo no arquivo](/assets/images/help/repository/edit-readme-light.png)
+3. Faça as alterações necessárias no arquivo. ![Novo conteúdo no arquivo](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
-6. Clique em **Propose file change** (Propor alteração no arquivo). ![Botão Commit Changes (Fazer commit de alterações)](/assets/images/help/repository/propose_file_change_button.png)
-7. Digite um título e uma descrição para a pull request. ![Página Pull Request description (Descrição da pull request)](/assets/images/help/pull_requests/pullrequest-description.png)
-8. Clique em **Create pull request** (Criar pull request). ![Botão Pull Request (Pull request)](/assets/images/help/pull_requests/pullrequest-send.png)
+6. Clique em **Propose file change** (Propor alteração no arquivo). ![Botão Commit Changes (Fazer commit de alterações)](/assets/images/2021/10/help/repository/propose_file_change_button.png)
+7. Digite um título e uma descrição para a pull request. ![Página Pull Request description (Descrição da pull request)](/assets/images/2021/10/help/pull_requests/pullrequest-description.png)
+8. Clique em **Create pull request** (Criar pull request). ![Botão Pull Request (Pull request)](/assets/images/2021/10/help/pull_requests/pullrequest-send.png)

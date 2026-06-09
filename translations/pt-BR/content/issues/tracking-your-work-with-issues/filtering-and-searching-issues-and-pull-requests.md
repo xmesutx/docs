@@ -63,7 +63,7 @@ Problemas e pull requests possuem um conjunto de filtros padrão que podem ser a
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. Clique em **Filters** (Filtros) para escolher o tipo de filtro desejado. ![Usar o menu suspenso Filters (Filtros)](/assets/images/help/issues/issues_filter_dropdown.png)
+3. Clique em **Filters** (Filtros) para escolher o tipo de filtro desejado. ![Usar o menu suspenso Filters (Filtros)](/assets/images/2021/10/help/issues/issues_filter_dropdown.png)
 
 ## Filtrar problemas e pull requests por responsáveis
 
@@ -72,7 +72,7 @@ Uma vez que você [atribuiu um problema ou pull request a alguém](/articles/ass
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 3. No canto superior direito, selecione o menu suspenso Assignee (Responsável).
-4. O menu suspenso Assignee (Responsável) lista todas as pessoas que têm acesso de gravação no repositório. Clique sobre o nome da pessoa cujos itens atribuídos você quer ver ou clique **Assigned to nobody** (Atribuído a ninguém) para verificar quais problemas estão sem responsáveis. ![Usar a aba suspensa Assignees (Responsáveis)](/assets/images/help/issues/issues_assignee_dropdown.png)
+4. O menu suspenso Assignee (Responsável) lista todas as pessoas que têm acesso de gravação no repositório. Clique sobre o nome da pessoa cujos itens atribuídos você quer ver ou clique **Assigned to nobody** (Atribuído a ninguém) para verificar quais problemas estão sem responsáveis. ![Usar a aba suspensa Assignees (Responsáveis)](/assets/images/2021/10/help/issues/issues_assignee_dropdown.png)
 
 {% tip %}
 
@@ -87,7 +87,7 @@ Depois que [aplicou etiquetas a um problema ou pull request](/articles/applying-
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 {% data reusables.project-management.labels %}
-4. Na lista de etiquetas, clique em uma etiqueta para visualizar os problemas e pull requests atribuídas a ela. ![Lista de etiquetas de um repositório](/assets/images/help/issues/labels-page.png)
+4. Na lista de etiquetas, clique em uma etiqueta para visualizar os problemas e pull requests atribuídas a ela. ![Lista de etiquetas de um repositório](/assets/images/2021/10/help/issues/labels-page.png)
 
 {% tip %}
 
@@ -110,8 +110,8 @@ Você pode filtrar uma lista de pull requests do repositório para encontrar:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-pr %}
-3. No canto superior direito, selecione o menu suspenso Reviews (Revisões). ![Menu suspenso Reviews (Revisões) no menu filter (filtro) acima da lista de pull requests](/assets/images/help/pull_requests/reviews-filter-dropdown.png)
-4. Escolha um filtro para encontrar todas as pull requests com o status do filtro. ![Lista de filtros no menu suspenso Reviews (Revisões)](/assets/images/help/pull_requests/pr-review-filters.png)
+3. No canto superior direito, selecione o menu suspenso Reviews (Revisões). ![Menu suspenso Reviews (Revisões) no menu filter (filtro) acima da lista de pull requests](/assets/images/2021/10/help/pull_requests/reviews-filter-dropdown.png)
+4. Escolha um filtro para encontrar todas as pull requests com o status do filtro. ![Lista de filtros no menu suspenso Reviews (Revisões)](/assets/images/2021/10/help/pull_requests/pr-review-filters.png)
 
 ## Usar a pesquisa para filtrar problemas e pull requests
 
@@ -123,7 +123,7 @@ Você pode usar filtros avançados para pesquisar problemas e pull requests que 
 
 A barra de pesquisa de problemas e pull requests permite que você defina seus próprios filtros personalizados e ordene por uma ampla variedade de critérios. A barra de pesquisa pode ser encontrada nas guias **Problemas** e **Pull requests** de cada repositório nos [Painéis de problemas e pull requests](/articles/viewing-all-of-your-issues-and-pull-requests).
 
-![A barra de pesquisa de problemas e pull request](/assets/images/help/issues/issues_search_bar.png)
+![A barra de pesquisa de problemas e pull request](/assets/images/2021/10/help/issues/issues_search_bar.png)
 
 {% tip %}
 
@@ -207,7 +207,7 @@ Você pode ordenar qualquer exibição filtrada por:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-1. No canto superior direito, selecione o menu suspenso Sort (Ordenar). ![Usar a aba suspensa Sort (Ordenar)](/assets/images/help/issues/issues_sort_dropdown.png)
+1. No canto superior direito, selecione o menu suspenso Sort (Ordenar). ![Usar a aba suspensa Sort (Ordenar)](/assets/images/2021/10/help/issues/issues_sort_dropdown.png)
 
 Para limpar a seleção da ordenação, clique em **Sort** (Ordenar) > **Newest** (Mais recente).
 

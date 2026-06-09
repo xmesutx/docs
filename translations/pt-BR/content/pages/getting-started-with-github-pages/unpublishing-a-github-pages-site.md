@@ -27,7 +27,7 @@ shortTitle: Cancelar a publicação do site de páginas
 3. Se o branch `gh-pages` fosse a sua fonte de publicação, {% ifversion fpt or ghec %}pule para a etapa 6{% else %}agora o seu site não está publicado e você pode pular as etapas restantes{% endif %}.
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-5. No "{% data variables.product.prodname_pages %}", use o menu suspenso **Source** (Fonte) e selecione **None** (Nenhuma). ![Menu suspenso para selecionar uma fonte de publicação](/assets/images/help/pages/publishing-source-drop-down.png)
+5. No "{% data variables.product.prodname_pages %}", use o menu suspenso **Source** (Fonte) e selecione **None** (Nenhuma). ![Menu suspenso para selecionar uma fonte de publicação](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
 {% data reusables.pages.update_your_dns_settings %}
 
 ## Cancelar a publicação de um site de usuário ou organização

@@ -70,12 +70,12 @@ topics:
 3. 选择 **Create new field（创建新字段）**。
 4. 在弹出窗口的文本框中输入 `Priority`。
 5. 在下拉菜单中，选择 **Single select（单选）**。
-6. 添加 `High`、`Medium` 和 `Low` 的选项。 您还可以在选项中包含表情符号。 ![新建单选字段示例](/assets/images/help/projects/new-single-select-field.png)
+6. 添加 `High`、`Medium` 和 `Low` 的选项。 您还可以在选项中包含表情符号。 ![新建单选字段示例](/assets/images/2021/10/help/projects/new-single-select-field.png)
 7. 单击 **Save（保存）**。
 
 指定项目中所有议题的优先级。
 
-![示例优先级](/assets/images/help/projects/priority_example.png)
+![示例优先级](/assets/images/2021/10/help/projects/priority_example.png)
 
 ## 按优先级对议题分组
 
@@ -90,7 +90,7 @@ topics:
 1. 选择议题.
 2. 将议题拖放到另一个优先级组。 当您这样做时，议题的优先级将更改为其新组的优先级。
 
-![在组之间移动议题](/assets/images/help/projects/move_between_group.gif)
+![在组之间移动议题](/assets/images/2021/10/help/projects/move_between_group.gif)
 
 ## 保存优先级视图
 
@@ -114,7 +114,7 @@ topics:
 
 板布局基于状态字段，因此会指定项目中每个议题的状态。
 
-![示例状态](/assets/images/help/projects/status_example.png)
+![示例状态](/assets/images/2021/10/help/projects/status_example.png)
 
 然后，创建新视图。
 
@@ -124,7 +124,7 @@ topics:
 
 1. {% data reusables.projects.open-command-palette %}
 2. 开始键入 "Switch layout: Board" 的任何部分。
-3. 选择 **Switch layout: Board（切换布局：板）**。 ![示例优先级](/assets/images/help/projects/example_board.png)
+3. 选择 **Switch layout: Board（切换布局：板）**。 ![示例优先级](/assets/images/2021/10/help/projects/example_board.png)
 
 更改布局时，项目显示一个指示来显示视图已修改。 保存此视图，以便您和您的协作者能够轻松地访问它。
 
@@ -136,7 +136,7 @@ topics:
 1. 将光标放在当前视图名称 **View 2** 中。
 2. 用新名称 `Progress` 替换现有文本。
 
-![示例优先级](/assets/images/help/projects/project-view-switch.gif)
+![示例优先级](/assets/images/2021/10/help/projects/project-view-switch.gif)
 
 ## 配置内置自动化
 

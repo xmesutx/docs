@@ -22,7 +22,7 @@ shortTitle: 查看 PR 评论
 
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.choose-pr-review %}
-3. 在“Conversation（对话）”选项卡中，滚动到您想要查看的评论，然后单击 **View changes（查看更改）**。 ![具有完整评论链接的审查标题](/assets/images/help/pull_requests/view-full-review-view-changes.png)
+3. 在“Conversation（对话）”选项卡中，滚动到您想要查看的评论，然后单击 **View changes（查看更改）**。 ![具有完整评论链接的审查标题](/assets/images/2021/10/help/pull_requests/view-full-review-view-changes.png)
 
 ## 延伸阅读
 

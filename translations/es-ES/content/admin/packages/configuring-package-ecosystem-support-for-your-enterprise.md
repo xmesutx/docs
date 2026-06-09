@@ -24,8 +24,8 @@ Para prevenir que los paquetes nuevos se carguen, puedes configurar un ecosistem
 {% data reusables.enterprise_site_admin_settings.packages-tab %}
 1. Debajo de "Alternación de ecosistema", para cada tipo de paquete, selecciona **Enabled**, **Read-Only**, o **Disabled**.
 {% ifversion ghes > 3.1 %}
-  ![Alternación de ecosistemas](/assets/images/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
-![Ecosystem toggles](/assets/images/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
+  ![Alternación de ecosistemas](/assets/images/2021/10/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
+![Ecosystem toggles](/assets/images/2022/01/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% ifversion ghes %}

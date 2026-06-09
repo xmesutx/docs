@@ -19,6 +19,6 @@ shortTitle: Validar la configuración de dominio
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.hostname-menu-item %}
-4. Para probar los parámetros DNS y SSL de tu aparato, haz clic en **Test domain settings (Pruebar parámetros de dominio)**. ![Botón Test domain settings (Probar configuraciones del dominio)](/assets/images/enterprise/management-console/test-domain-settings.png)
+4. Para probar los parámetros DNS y SSL de tu aparato, haz clic en **Test domain settings (Pruebar parámetros de dominio)**. ![Botón Test domain settings (Probar configuraciones del dominio)](/assets/images/2021/10/enterprise/management-console/test-domain-settings.png)
 {% data reusables.enterprise_management_console.test-domain-settings-failure %}
 {% data reusables.enterprise_management_console.save-settings %}

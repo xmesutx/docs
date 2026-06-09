@@ -24,7 +24,7 @@ topics:
 
 要将文件附加到议题或拉取请求对话，请将它拖放到评论框中。 或者，您也可以单击评论框底部的栏来浏览、选择和添加计算机中的文件。
 
-![从计算机选择附件](/assets/images/help/pull_requests/select-bar.png)
+![从计算机选择附件](/assets/images/2021/10/help/pull_requests/select-bar.png)
 
 {% tip %}
 
@@ -61,4 +61,4 @@ topics:
 {% endnote %}
 {% endif %}
 
-![附件动画 GIF](/assets/images/help/pull_requests/dragging_images.gif)
+![附件动画 GIF](/assets/images/2021/10/help/pull_requests/dragging_images.gif)

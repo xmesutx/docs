@@ -47,7 +47,7 @@ Para restrições no nível da instância que usam o Azure NSGs, entre em contat
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. Em "IP allow list" (Lista de permissões IP), selecione **Enable IP allow list** (Habilitar lista de permissões IP). ![Caixa de seleção para permitir endereços IP](/assets/images/help/security/enable-ip-allowlist-enterprise-checkbox.png)
+1. Em "IP allow list" (Lista de permissões IP), selecione **Enable IP allow list** (Habilitar lista de permissões IP). ![Caixa de seleção para permitir endereços IP](/assets/images/2021/10/help/security/enable-ip-allowlist-enterprise-checkbox.png)
 4. Clique em **Salvar**.
 
 ## Editar endereços IP permitidos

@@ -70,7 +70,7 @@ Los borradores de propuesta pueden tener un título, cuerpo de texto, asignados 
 3. Selecciona el proyecto al cual quieras agregar la propuesta o solicitud de cambios.
 4. Opcionalmente, llena los campos personalizados.
 
-   ![Barra lateral del proyecto](/assets/images/help/issues/project_side_bar.png)
+   ![Barra lateral del proyecto](/assets/images/2021/10/help/issues/project_side_bar.png)
 
 ## Convertir los borradores de propuestas en propuestas
 
@@ -118,7 +118,7 @@ Tu proyecto rastrea la información actualizada de las propuestas y solicitudes 
 
 Como alternativa, puedes hacer esto en la IU:
 
-1. Haz clic en {% octicon "plus" aria-label="the plus icon" %} en el encabezado de campo que está hasta la derecha. Aparecerá un menú desplegable con los campos de proyecto. ![Mostrar u ocultar los campos](/assets/images/help/issues/projects_fields_menu.png)
+1. Haz clic en {% octicon "plus" aria-label="the plus icon" %} en el encabezado de campo que está hasta la derecha. Aparecerá un menú desplegable con los campos de proyecto. ![Mostrar u ocultar los campos](/assets/images/2021/10/help/issues/projects_fields_menu.png)
 2. Selecciona el(los) campo(s) que quieras desplegar u ocultar. Un {% octicon "check" aria-label="check icon" %} indica qué campos se muestran.
 
 ### Agregar campos personalizados
@@ -135,7 +135,7 @@ Los campos personalizados pueden ser de texto, número, fecha, selección simple
 
 1. {% data reusables.projects.open-command-palette %} Comienza a teclear cualquier parte de "Create new field". Cuando se muestre "Create new field" en la paleta de comandos, selecciónalo.
 2. Como alternativa, haz clic en {% octicon "plus" aria-label="the plus icon" %} en el encabezado de campo que está lo más hacia la derecha. Aparecerá un menú desplegable con los campos de proyecto. Haz clic en **Campo nuevo**.
-3. Se mostrará una ventana emergente para que ingreses la información sobre el campo nuevo. ![Campo nuevo](/assets/images/help/issues/projects_new_field.png)
+3. Se mostrará una ventana emergente para que ingreses la información sobre el campo nuevo. ![Campo nuevo](/assets/images/2021/10/help/issues/projects_new_field.png)
 4. En la caja de texto, ingresa un nombre para el campo nuevo.
 5. Selecciona el menú desplegable y haz clic en el tipo deseado.
 6. Si especificaste **Selección simple** como el tipo, ingresa las opciones.

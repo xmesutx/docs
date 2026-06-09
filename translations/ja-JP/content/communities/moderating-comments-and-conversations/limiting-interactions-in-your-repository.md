@@ -30,7 +30,7 @@ shortTitle: リポジトリ内でのインタラクションの制限
 {% data reusables.repositories.sidebar-settings %}
 1. In the "Access" section of the sidebar, select **{% octicon "comment-discussion" aria-label="The comment-discussion icon" %} Moderation options**, then click **Interaction limits**.
 {% data reusables.community.set-interaction-limit %}
-  ![[Temporary interaction limits] のオプション](/assets/images/help/repository/temporary-interaction-limits-options.png)
+  ![[Temporary interaction limits] のオプション](/assets/images/2021/10/help/repository/temporary-interaction-limits-options.png)
 
 ## 参考リンク
 - [悪用あるいはスパムのレポート](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)

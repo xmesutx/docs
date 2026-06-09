@@ -48,7 +48,7 @@ Se você tiver várias chaves ou estiver tentando assinar commits ou tags com um
   ```
 4. No {% data variables.product.product_name %}, navegue até sua pull request.
 {% data reusables.repositories.review-pr-commits %}
-5. Para exibir informações mais detalhadas sobre a assinatura verificada, clique em Verified (Verificada). ![Commit assinado](/assets/images/help/commits/gpg-signed-commit-verified-without-details.png)
+5. Para exibir informações mais detalhadas sobre a assinatura verificada, clique em Verified (Verificada). ![Commit assinado](/assets/images/2021/10/help/commits/gpg-signed-commit-verified-without-details.png)
 
 ## Leia mais
 

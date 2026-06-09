@@ -35,7 +35,7 @@ topics:
 
 您的测试场景可能需要设置可提供免费试用并且可在免费和付费订阅之间切换的上架计划。 由于降级和取消要到下一个结算周期才会生效，因此 GitHub 提供一个开发者专用功能“应用待处理更改”，以强制 `changed` 和 `cancelled` 计划操作立即生效。 您可以在 https://github.com/settings/billing#pending-cycle 中对带有 Marketplace 上架_草稿_的应用程序使用 **Apply Pending Change（应用待处理更改）**：
 
-![应用待处理更改](/assets/images/github-apps/github-apps-apply-pending-changes.png)
+![应用待处理更改](/assets/images/2021/10/github-apps/github-apps-apply-pending-changes.png)
 
 ## 测试 API
 

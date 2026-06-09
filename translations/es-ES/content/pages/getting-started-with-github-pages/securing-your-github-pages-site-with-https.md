@@ -34,7 +34,7 @@ Todos los sitios {% data variables.product.prodname_pages %}, incluidos los siti
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. Debajo de "{% data variables.product.prodname_pages %}", selecciona **Enforce HTTPS** (Aplicar HTTPS). ![Aplicar casilla de verificación de HTTPS](/assets/images/help/pages/enforce-https-checkbox.png)
+3. Debajo de "{% data variables.product.prodname_pages %}", selecciona **Enforce HTTPS** (Aplicar HTTPS). ![Aplicar casilla de verificación de HTTPS](/assets/images/2021/10/help/pages/enforce-https-checkbox.png)
 
 ## Solución de problemas para el aprovisionamiento de certificados (error de tipo "Certificate not yet created")
 

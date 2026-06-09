@@ -99,9 +99,9 @@ If the upgrade target you're presented with is a feature release instead of a pa
 4. When a new hotpatch has been downloaded, use the Install package drop-down menu:
     - To install immediately, select **Now**:
     - To install later, select a later date.
-  ![Hotpatch installation date dropdown](/assets/images/enterprise/management-console/hotpatch-installation-date-dropdown.png)
+  ![Hotpatch installation date dropdown](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-date-dropdown.png)
 5. Click **Install**.
-  ![Hotpatch install button](/assets/images/enterprise/management-console/hotpatch-installation-install-button.png)
+  ![Hotpatch install button](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-install-button.png)
 
 #### Installing a hotpatch using the administrative shell
 

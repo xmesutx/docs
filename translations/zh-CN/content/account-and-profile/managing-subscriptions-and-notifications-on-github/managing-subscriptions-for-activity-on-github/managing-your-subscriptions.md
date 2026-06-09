@@ -46,14 +46,14 @@ shortTitle: 管理您的订阅
 
 {% data reusables.notifications.access_notifications %}
 1. 从通知收件箱中选择您想要取消订阅的通知。
-2. 单击 **Unsubscribe（取消订阅）**。 ![主收件箱中的取消订阅选项](/assets/images/help/notifications-v2/unsubscribe-from-main-inbox.png)
+2. 单击 **Unsubscribe（取消订阅）**。 ![主收件箱中的取消订阅选项](/assets/images/2021/10/help/notifications-v2/unsubscribe-from-main-inbox.png)
 
 ## 从订阅页面取消订阅通知
 
 {% data reusables.notifications.access_notifications %}
-1. 在左侧边栏中的仓库列表下，使用“Manage notifications（管理通知）”下拉按钮单击 **Subscriptions（订阅）**。 ![管理通知下拉菜单选项](/assets/images/help/notifications-v2/manage-notifications-options.png)
+1. 在左侧边栏中的仓库列表下，使用“Manage notifications（管理通知）”下拉按钮单击 **Subscriptions（订阅）**。 ![管理通知下拉菜单选项](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
-2. 选择要取消订阅的通知。 在右上角单击 **Unsubscribe（取消订阅）**。 ![订阅页面](/assets/images/help/notifications-v2/unsubscribe-from-subscriptions-page.png)
+2. 选择要取消订阅的通知。 在右上角单击 **Unsubscribe（取消订阅）**。 ![订阅页面](/assets/images/2021/10/help/notifications-v2/unsubscribe-from-subscriptions-page.png)
 
 ## 取消关注仓库
 
@@ -62,7 +62,7 @@ shortTitle: 管理您的订阅
 {% data reusables.notifications.access_notifications %}
 1. 在左侧边栏中的仓库列表下，使用“Manage notifications（管理通知）”下拉按钮单击 **Watched repositories（已关注的仓库）**。
 
-  ![管理通知下拉菜单选项](/assets/images/help/notifications-v2/manage-notifications-options.png)
+  ![管理通知下拉菜单选项](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
 2. 在关注的仓库页面上，评估您关注的仓库后，选择是否：
 
@@ -73,10 +73,10 @@ shortTitle: 管理您的订阅
 {%- ifversion fpt or ghec or ghes > 3.3 or ghae-issue-5819 %}
 1. （可选）要取消订阅指定用户或组织拥有的所有存储库，请选择 **Unwatch all（全部取消关注）**下拉列表，然后单击要取消订阅其存储库的组织。 取消关注所有存储库的按钮仅在您正在关注超过 10 个存储库上的所有活动或自定义通知时才可用。
 
-   ![“全部取消关注”按钮的屏幕截图](/assets/images/help/notifications-v2/unsubscribe-from-all-repos.png)
+   ![“全部取消关注”按钮的屏幕截图](/assets/images/2022/01/help/notifications-v2/unsubscribe-from-all-repos.png)
 
    - 单击 **Unwatch（取消关注）**以确认您要取消关注所选用户或组织拥有的存储库，或单击 **Cancel（取消）**以取消。
 
-   ![全部取消关注确认对话框的屏幕截图。](/assets/images/help/notifications-v2/unwatch-repo-dialog.png)
+   ![全部取消关注确认对话框的屏幕截图。](/assets/images/2022/01/help/notifications-v2/unwatch-repo-dialog.png)
 
 {% endif %}

@@ -61,7 +61,7 @@ You can find and view any package you've published across all organizations and 
 
 {% data reusables.profile.access_profile %}
 2. On the top of the profile page, in the main navigation, click **Packages**.
-  ![Project tab](/assets/images/help/package-registry/user-packages-tab.png)
+  ![Project tab](/assets/images/2021/10/help/package-registry/user-packages-tab.png)
 {% data reusables.package_registry.navigate-to-packages %}
 
 ## Further reading

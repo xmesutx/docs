@@ -39,7 +39,7 @@ Para usar o aplicativo GraphiQL, faça o download e instale-o em https://github.
 1. Obtenha um [token do OAuth](/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql).
 1. Iniciar GraphiQL.
 1. No canto superior direito do GraphiQL, clique em **Editar cabeçalhos de HTTP**.
-1. No campo **chave**, insira `autorização`. No campo **Valor**, insira `Bearer <token>`, em que `<token>` é o seu token do OAuth gerado. ![cabeçalhos do grafiql](/assets/images/developer/graphiql-headers.png)
+1. No campo **chave**, insira `autorização`. No campo **Valor**, insira `Bearer <token>`, em que `<token>` é o seu token do OAuth gerado. ![cabeçalhos do grafiql](/assets/images/2021/10/developer/graphiql-headers.png)
 1. Clique na marca de seleção à direita do token para salvá-lo.
 1. Para retornar ao editor, clique fora do modo **Editar cabeçalhos de HTTP**.
 1. No campo **Ponto de extremidade do GraphQL**, insira `{% data variables.product.graphql_url_pre %}`.

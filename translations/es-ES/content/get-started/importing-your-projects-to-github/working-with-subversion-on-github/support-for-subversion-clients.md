@@ -69,7 +69,7 @@ $ svn commit -m 'Added more_awesome topic branch'
 
 Puedes confirmar que la nueva rama existe en el menú desplegable de la rama del repositorio:
 
-![branch-snapshot](/assets/images/help/branch/svnflow-branch-snapshot.png)
+![branch-snapshot](/assets/images/2021/10/help/branch/svnflow-branch-snapshot.png)
 
 También puedes confirmar la nueva rama por medio de la línea de comando:
 

@@ -104,7 +104,7 @@ Opcionalmente, você pode classificar automaticamente as atividades e criar um e
 Você pode ver se um aluno entrou na sala de aula e aceitou ou enviou uma atividade na aba**Lista da sala de aula** para a atividade. Você também pode vincular os apelidos dos alunos de {% data variables.product.prodname_dotcom %} ao seu identificador de lista de participantes e vice-versa nesta aba. {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="Atividade individual" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-individual-hero.png">
+  <img alt="Atividade individual" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-individual-hero.png">
 </div>
 
 ## Monitorando o progresso dos alunos

@@ -183,7 +183,7 @@ echo "Inside group"
 echo "::endgroup::"
 ```
 
-![Grupo plegable en la bitácora de una ejecución de flujo de trabajo](/assets/images/actions-log-group.png)
+![Grupo plegable en la bitácora de una ejecución de flujo de trabajo](/assets/images/2021/10/actions-log-group.png)
 
 ## Enmascarar un valor en el registro
 

@@ -1,1 +1,1 @@
-1. Debajo de "{% octicon "gear" aria-label="The Settings gear" %} Configuraciones", haz clic en **Messages** (Mensajes). ![Pestaña Messages (Mensajes) en la barra lateral de parámetros de la empresa](/assets/images/enterprise/business-accounts/settings-messages-tab.png)
+1. Debajo de "{% octicon "gear" aria-label="The Settings gear" %} Configuraciones", haz clic en **Messages** (Mensajes). ![Pestaña Messages (Mensajes) en la barra lateral de parámetros de la empresa](/assets/images/2021/10/enterprise/business-accounts/settings-messages-tab.png)

@@ -20,7 +20,7 @@ How direct is the relationship between the suggested code and the code that info
 
 These are deliberate oversimplifications. Many {% data variables.product.prodname_dotcom %} Copilot suggestions feel pretty specifically tailored to the particular code base the user is working on. Often, it looks less like a parrot and more like a crow building novel tools out of small blocks<sup id="anchor3">[3](#footnote3)</sup>. But there’s no denying that {% data variables.product.prodname_dotcom %} Copilot has an impressive memory:
 
-![A movie demonstration of Copilot](/assets/images/help/copilot/resources_recitation_example_zen.gif)
+![A movie demonstration of Copilot](/assets/images/2021/10/help/copilot/resources_recitation_example_zen.gif)
 
 Here, I intentionally directed<sup id="anchor4">[4](#footnote4)</sup> {% data variables.product.prodname_dotcom %} Copilot to recite a well known text it obviously knows by heart. I, too, know a couple of texts by heart. For example, I still remember some poems I learnt in school. Yet no matter the topic, not once have I been tempted to derail a conversation by falling into iambic tetrameter and waxing about daffodils.
 
@@ -48,7 +48,7 @@ If the overlap extends to what the user has already written, that also counts fo
 
 In the following example, the user has started writing a very common snippet. {% data variables.product.prodname_dotcom %} Copilot completes it. Even though the completion itself is rather short, together with the already existing code it clears the threshold and is retained. 
 
-![Example code](/assets/images/help/copilot/example_last_straw.png)
+![Example code](/assets/images/2021/10/help/copilot/example_last_straw.png)
 
 This procedure is permissive enough to let many relatively “boring” examples through, like the two above. But it’s still effective at dialing in the human analysis to the interesting cases, sorting out over 99% of Copilot suggestions.
 
@@ -57,9 +57,9 @@ This procedure is permissive enough to let many relatively “boring” examples
 After filtering, there were 473 suggestions left. But they came in very different forms:
 
 1. Some were basically just repeats of another case that passed filtering. For example, sometimes {% data variables.product.prodname_dotcom %} Copilot makes a suggestion, the developer types a comment line, and {% data variables.product.prodname_dotcom %} Copilot offers a very similar suggestion again. I removed these cases from the analysis as duplicates.
-2. Some were long, repetitive sequences. Like the following example, where the repeated blocks of `‘<p>’` are of course found somewhere in the training set: <br>![Example repetitions](/assets/images/help/copilot/example_repetitions.png)<br> Such suggestions can be helpful (test cases, regular expressions) or not helpful (like this case, I suspect). But in any case, they do not fit the idea of rote learning I had in mind when I started this investigation.
-3. Some were standard inventories, like the natural numbers, or the prime numbers, or stock market tickers, or the Greek alphabet: <br>![Example of Greek alphabet](/assets/images/help/copilot/example_greek.png)
-4. Some were common, straightforward ways, perhaps even universal ways, of doing things with very few natural degrees of freedom. For example, the middle part of the following strikes me as very much the standard way of using the BeautifulSoup package to parse a Wikipedia list. In fact, the best matching snippet found in {% data variables.product.prodname_dotcom %} Copilot's training data<sup id="anchor5">[5](#footnote5)</sup> uses such code to parse a different article and goes on to do different things with the results. <br>![Example of Beautiful Soup](/assets/images/help/copilot/example_beautiful_soup.png) <br>This doesn’t fit my idea of a quote either. It’s a bit like when someone says “I’m taking out the trash; I’ll be back soon” -- that’s a matter of fact statement, not a quote, even though that particular phrase has been uttered many times before.
+2. Some were long, repetitive sequences. Like the following example, where the repeated blocks of `‘<p>’` are of course found somewhere in the training set: <br>![Example repetitions](/assets/images/2021/10/help/copilot/example_repetitions.png)<br> Such suggestions can be helpful (test cases, regular expressions) or not helpful (like this case, I suspect). But in any case, they do not fit the idea of rote learning I had in mind when I started this investigation.
+3. Some were standard inventories, like the natural numbers, or the prime numbers, or stock market tickers, or the Greek alphabet: <br>![Example of Greek alphabet](/assets/images/2021/10/help/copilot/example_greek.png)
+4. Some were common, straightforward ways, perhaps even universal ways, of doing things with very few natural degrees of freedom. For example, the middle part of the following strikes me as very much the standard way of using the BeautifulSoup package to parse a Wikipedia list. In fact, the best matching snippet found in {% data variables.product.prodname_dotcom %} Copilot's training data<sup id="anchor5">[5](#footnote5)</sup> uses such code to parse a different article and goes on to do different things with the results. <br>![Example of Beautiful Soup](/assets/images/2021/10/help/copilot/example_beautiful_soup.png) <br>This doesn’t fit my idea of a quote either. It’s a bit like when someone says “I’m taking out the trash; I’ll be back soon” -- that’s a matter of fact statement, not a quote, even though that particular phrase has been uttered many times before.
 5. And then there are all other cases. Those with at least some specific overlap in either code or comments. These are what interests me most, and what I’m going to concentrate on from now on.
 
 This bucketing necessarily has some edge cases<sup id="anchor6">[6](#footnote6)</sup>, and your mileage may vary in how you think they should be classified. Maybe you even disagree with the whole set of buckets in the first place.
@@ -68,7 +68,7 @@ That’s why we’ve open sourced that dataset<sup id="anchor7">[7](#footnote7)<
 
 ## Results
 
-![Overview Plot](/assets/images/help/copilot/plot_buckets.png)
+![Overview Plot](/assets/images/2021/10/help/copilot/plot_buckets.png)
 
 For most of {% data variables.product.prodname_dotcom %} Copilot's suggestions, our automatic filter didn’t find any significant overlap with the code used for training. But it did bring 473 cases to our attention. Removing the first bucket (cases that look very similar to other cases) left me with 185 suggestions. Of these, 144 got sorted out in buckets 2 - 4. This left 41 cases in the last bucket, the “recitations”, in the meaning of the term I have in mind.
 
@@ -86,17 +86,17 @@ Of the 41 main cases we singled out during manual labelling, none appear in less
 
 The following plot shows the number of matched files of the results in bucket 5 (one red mark on the bottom for each result) versus buckets 2-4. I left out bucket 1, which is really just a mix of duplicates of bucket 2-4 cases and duplicates of bucket 5 cases. The inferred distribution is displayed as a red line; it peaks between 100 and 1000 matches.
 
-![Number of Matches Plot](/assets/images/help/copilot/plot_copies.png)
+![Number of Matches Plot](/assets/images/2021/10/help/copilot/plot_copies.png)
 
 ### {% data variables.product.prodname_dotcom %} Copilot mostly quotes in generic contexts
 
 As time goes on, each file becomes unique. But {% data variables.product.prodname_dotcom %} Copilot doesn’t wait for that<sup id="anchor8">[8](#footnote8)</sup>: it will offer its solutions while your file is still extremely generic. And in the absence of anything specific to go on, it’s much more likely to quote from somewhere else than it would be otherwise.
 
-![Context Length Plot](/assets/images/help/copilot/plot_context.png)
+![Context Length Plot](/assets/images/2021/10/help/copilot/plot_context.png)
 
 Of course, software developers spend most of their time deep inside the files, where the context is unique enough that {% data variables.product.prodname_dotcom %} Copilot will offer unique suggestions. In contrast, the suggestions at the beginning are rather hit-and-miss, since {% data variables.product.prodname_dotcom %} Copilot cannot know what the program will be. But sometimes, especially in toy projects or standalone scripts, a modest amount of context can be enough to hazard a reasonable guess of what the user wanted to do. And sometimes it's still generic enough so that {% data variables.product.prodname_dotcom %} Copilot thinks one of the solutions it knows by heart looks promising:
 
-![Example code](/assets/images/help/copilot/example_robot.png)
+![Example code](/assets/images/2021/10/help/copilot/example_robot.png)
 
 This is pretty much directly taken from coursework for a robotics class uploaded in different variations<sup id="anchor9">[9](#footnote9)</sup>.
 
@@ -106,7 +106,7 @@ In its current form, the filter will turn up a good number of uninteresting case
 
 And nothing is ever foolproof of course: so this too can be tricked. Some cases are rather hard to detect by the tool we’re building, but still have an obvious source. To return to the Zen of Python:
 
-![Zen Variation](/assets/images/help/copilot/resources_recitation_example_zen_caw.gif)
+![Zen Variation](/assets/images/2021/10/help/copilot/resources_recitation_example_zen_caw.gif)
 
 ## Conclusion and Next Steps
 

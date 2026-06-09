@@ -21,6 +21,6 @@ If you did not save your recovery codes when you configured SAML SSO, you can st
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 
-1. Debajo de "Requerir la autenticación de SAML", haz clic en **Guardar tus códigos de recuperación**. ![Screenshot of the button to test SAML configuration before enforcing](/assets/images/help/enterprises/saml-recovery-codes-link.png)
+1. Debajo de "Requerir la autenticación de SAML", haz clic en **Guardar tus códigos de recuperación**. ![Screenshot of the button to test SAML configuration before enforcing](/assets/images/2021/10/help/enterprises/saml-recovery-codes-link.png)
 
-2. Para guardar tus códigos de recuperación, haz clic en **Descargar**, **Imprimir** o **Copiar**. ![Captura de pantalla de los botones para descargar, imprimir o copiar tus códigos de recuperación](/assets/images/help/saml/saml_recovery_code_options.png)
+2. Para guardar tus códigos de recuperación, haz clic en **Descargar**, **Imprimir** o **Copiar**. ![Captura de pantalla de los botones para descargar, imprimir o copiar tus códigos de recuperación](/assets/images/2021/10/help/saml/saml_recovery_code_options.png)

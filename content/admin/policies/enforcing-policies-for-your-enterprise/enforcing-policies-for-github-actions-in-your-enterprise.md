@@ -54,9 +54,9 @@ You can choose to disable {% data variables.product.prodname_actions %} for all 
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Under **Policies**, select **Allow select actions** and add your required actions to the list.
    {%- ifversion ghes or ghae-issue-5094 %}
-   ![Add actions to allow list](/assets/images/help/organizations/enterprise-actions-policy-allow-list.png)
+   ![Add actions to allow list](/assets/images/2021/10/help/organizations/enterprise-actions-policy-allow-list.png)
    {%- elsif ghae %}
-   ![Add actions to allow list](/assets/images/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
+   ![Add actions to allow list](/assets/images/2021/10/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
    {%- endif %}
 {% endif %}
 
@@ -125,7 +125,7 @@ You can set the default permissions for the `GITHUB_TOKEN` in the settings for y
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Under **Workflow permissions**, choose whether you want the `GITHUB_TOKEN` to have read and write access for all scopes, or just read access for the `contents` scope.
-  ![Set GITHUB_TOKEN permissions for this enterprise](/assets/images/help/settings/actions-workflow-permissions-enterprise.png)
+  ![Set GITHUB_TOKEN permissions for this enterprise](/assets/images/2021/10/help/settings/actions-workflow-permissions-enterprise.png)
 1. Click **Save** to apply the settings.
 
 {% endif %}

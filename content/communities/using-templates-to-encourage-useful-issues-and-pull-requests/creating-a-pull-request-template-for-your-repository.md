@@ -30,13 +30,13 @@ You can create default pull request templates for your organization{% ifversion 
 {% data reusables.files.add-file %}
 3. In the file name field:
     -  To make your pull request template visible in the repository's root directory, name the pull request template `pull_request_template.md`.
-  ![New pull request template name in root directory](/assets/images/help/repository/pr-template-file-name.png)
+  ![New pull request template name in root directory](/assets/images/2021/10/help/repository/pr-template-file-name.png)
     - To make your pull request template visible in the repository's `docs` directory, name the pull request template `docs/pull_request_template.md`.
-  ![New pull request template in docs directory](/assets/images/help/repository/pr-template-file-name-docs.png)
+  ![New pull request template in docs directory](/assets/images/2021/10/help/repository/pr-template-file-name-docs.png)
     - To store your file in a hidden directory, name the pull request template `.github/pull_request_template.md`.
-  ![New pull request template in hidden directory](/assets/images/help/repository/pr-template-hidden-directory.png)
+  ![New pull request template in hidden directory](/assets/images/2021/10/help/repository/pr-template-hidden-directory.png)
     - To create multiple pull request templates and use the `template` query parameter to specify a template to fill the pull request body, type *.github/PULL_REQUEST_TEMPLATE/*, then the name of your pull request template. For example, `.github/PULL_REQUEST_TEMPLATE/pull_request_template.md`. You can also store multiple pull request templates in a `PULL_REQUEST_TEMPLATE` subdirectory within the root or `docs/` directories. For more information, see "[About automation for issues and pull requests with query parameters](/articles/about-automation-for-issues-and-pull-requests-with-query-parameters)."
-  ![New multiple pull request template in hidden directory](/assets/images/help/repository/pr-template-multiple-hidden-directory.png)
+  ![New multiple pull request template in hidden directory](/assets/images/2021/10/help/repository/pr-template-multiple-hidden-directory.png)
 4. In the body of the new file, add your pull request template. This could include:
     - A [reference to a related issue](/articles/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests) in your repository.
     - A description of the changes proposed in the pull request.

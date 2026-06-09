@@ -30,9 +30,9 @@ You can also see a list of people who have contributed to the project's Python d
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 3. In the left sidebar, click **Contributors**.
-  ![Contributors tab](/assets/images/help/graphs/contributors_tab.png)
+  ![Contributors tab](/assets/images/2021/10/help/graphs/contributors_tab.png)
 4. Optionally, to view contributors during a specific time period, click, then drag until the time period is selected. The contributors graph sums weekly commit numbers onto each Sunday, so your time period must include a Sunday.
-  ![Selected time range in the contributors graph](/assets/images/help/graphs/repo_contributors_click_drag_graph.png)
+  ![Selected time range in the contributors graph](/assets/images/2021/10/help/graphs/repo_contributors_click_drag_graph.png)
 
 ## Troubleshooting contributors
 

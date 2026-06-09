@@ -23,8 +23,8 @@ To prevent new packages from being uploaded, you can set an ecosystem you previo
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_site_admin_settings.packages-tab %}
 1. Under "Ecosystem Toggles", for each package type, select **Enabled**, **Read-Only**, or **Disabled**.{% ifversion ghes > 3.1 %}
-  ![Ecosystem toggles](/assets/images/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
-  ![Ecosystem toggles](/assets/images/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
+  ![Ecosystem toggles](/assets/images/2021/10/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
+  ![Ecosystem toggles](/assets/images/2022/01/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% ifversion ghes %}

@@ -26,7 +26,7 @@ shortTitle: 协作
 
 {% data variables.product.product_name %} 不会渲染拉取请求中的 {% data variables.large_files.product_name_short %} 对象。 仅显示指针文件：
 
-![大文件的示例 PR](/assets/images/help/large_files/large_files_pr.png)
+![大文件的示例 PR](/assets/images/2021/10/help/large_files/large_files_pr.png)
 
 有关指针文件的更多信息，请参阅“[关于 {% data variables.large_files.product_name_long %}](/github/managing-large-files/about-git-large-file-storage#pointer-file-format)”。
 

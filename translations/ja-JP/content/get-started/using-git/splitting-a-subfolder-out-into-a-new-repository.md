@@ -57,7 +57,7 @@ shortTitle: Splitting a subfolder
 
 7. At the top of your new repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}'s Quick Setup page, click {% octicon "clippy" aria-label="The copy to clipboard icon" %} to copy the remote repository URL.
 
-   ![リモートリポジトリの URL フィールドのコピー](/assets/images/help/repository/copy-remote-repository-url-quick-setup.png)
+   ![リモートリポジトリの URL フィールドのコピー](/assets/images/2021/10/help/repository/copy-remote-repository-url-quick-setup.png)
 
    {% tip %}
 

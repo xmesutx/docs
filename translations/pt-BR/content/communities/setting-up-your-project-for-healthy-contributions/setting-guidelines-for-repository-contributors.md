@@ -18,7 +18,7 @@ shortTitle: Diretrizes de contribuidor
 ## Sobre diretrizes de contribuição
 Para ajudar os contribuidores do projeto a fazer um bom trabalho, você pode adicionar um arquivo com diretrizes de contribuição às pastas raiz, `docs` ou `.github` do repositório do projeto. Quando alguém abrir uma pull request ou criar um problema, verá um link para esse arquivo. O link para as diretrizes de contribuição também aparece na página `contribuir` do seu repositório. Para obter um exemplo da página de `contribuir`, consulte [github/docs/contribua](https://github.com/github/docs/contribute).
 
-![diretrizes de contribuição](/assets/images/help/pull_requests/contributing-guidelines.png)
+![diretrizes de contribuição](/assets/images/2021/10/help/pull_requests/contributing-guidelines.png)
 
 Para o proprietário do repositório, as diretrizes de contribuição são uma forma de informar como as pessoas devem contribuir.
 
@@ -42,7 +42,7 @@ Você pode criar diretrizes de contribuição padrão para sua organização{% i
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
-3. Decida se deseja armazenar as diretrizes de contribuição no diretório root, `docs` ou `.github` do repositório. Em seguida, no campo de nome do arquivo, digite o nome e a extensão do arquivo. Os nomes de arquivos com diretrizes de contribuição não são sensíveis a maiúsculas de minúsculas. Os arquivos são renderizados no formato de texto rich se a extensão do arquivo estiver em um formato compatível. Para obter mais informações, consulte "[Trabalhando com arquivos sem código](/repositories/working-with-files/using-files/working-with-non-code-files#rendering-differences-in-prose-documents)". ![Nome do novo arquivo](/assets/images/help/repository/new-file-name.png)
+3. Decida se deseja armazenar as diretrizes de contribuição no diretório root, `docs` ou `.github` do repositório. Em seguida, no campo de nome do arquivo, digite o nome e a extensão do arquivo. Os nomes de arquivos com diretrizes de contribuição não são sensíveis a maiúsculas de minúsculas. Os arquivos são renderizados no formato de texto rich se a extensão do arquivo estiver em um formato compatível. Para obter mais informações, consulte "[Trabalhando com arquivos sem código](/repositories/working-with-files/using-files/working-with-non-code-files#rendering-differences-in-prose-documents)". ![Nome do novo arquivo](/assets/images/2021/10/help/repository/new-file-name.png)
     - Para tornar as diretrizes de contribuição visíveis no diretório raiz do repositório, digite *CONTRIBUTING*.
     - Para tornar as diretrizes de contribuição visíveis no diretório `docs` do repositório, digite *docs/* para criar o diretório e, em seguida, digite *CONTRIBUTING*.
     - Se um repositório contiver mais de um arquivo *CONTRIBUTING*, o arquivo mostrado em links será escolhido entre locais na seguinte ordem: diretório do `.github`, em seguida, o diretório raiz do repositório e, finalmente, o diretório de `docs`.

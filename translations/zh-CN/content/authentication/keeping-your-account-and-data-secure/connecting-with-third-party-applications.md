@@ -22,11 +22,11 @@ shortTitle: 第三方应用程序
 
 由于应用程序是由不是 {% data variables.product.product_name %} 的第三方开发的，因此我们并不确切地了解应用程序如何使用它申请访问的数据。 如果您对这些应用程序有疑问或疑虑，您可以使用页面顶部的开发者信息联系应用程序管理员。
 
-![{% data variables.product.prodname_oauth_app %} 所有者信息](/assets/images/help/platform/oauth_owner_bar.png)
+![{% data variables.product.prodname_oauth_app %} 所有者信息](/assets/images/2021/10/help/platform/oauth_owner_bar.png)
 
 页面的右侧可能提供应用程序的详细说明及其相关网站，具体取决于开发者是否选择提供这些信息。
 
-![OAuth 应用程序信息和网站](/assets/images/help/platform/oauth_app_info.png)
+![OAuth 应用程序信息和网站](/assets/images/2021/10/help/platform/oauth_app_info.png)
 
 ## 应用程序数据访问权限的类型
 
@@ -51,7 +51,7 @@ shortTitle: 第三方应用程序
 
 以下是应用程序可能申请的几种数据类型。
 
-![OAuth 访问权限详细信息](/assets/images/help/platform/oauth_access_types.png)
+![OAuth 访问权限详细信息](/assets/images/2021/10/help/platform/oauth_access_types.png)
 
 {% tip %}
 
@@ -75,4 +75,4 @@ shortTitle: 第三方应用程序
 
 应用程序可以申请新的访问权限。 要求更新权限时，应用程序会通知您更新前后的差异。
 
-![更改第三方应用程序访问权限](/assets/images/help/platform/oauth_existing_access_pane.png)
+![更改第三方应用程序访问权限](/assets/images/2021/10/help/platform/oauth_existing_access_pane.png)

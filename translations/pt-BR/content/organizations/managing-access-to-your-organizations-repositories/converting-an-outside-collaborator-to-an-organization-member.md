@@ -28,9 +28,9 @@ Se sua organização [exigir integrantes, use a autenticação de dois fatores](
 {% data reusables.organizations.people %}
 {% data reusables.organizations.people_tab_outside_collaborators %}
 {% ifversion fpt or ghec %}
-5. À direita do nome do colaborador externo que você deseja que se torne integrante, use o menu suspenso {% octicon "gear" aria-label="The gear icon" %} e clique em **Convidar para a organização**.![Convidar colaboradores externos para a organização](/assets/images/help/organizations/invite_outside_collaborator_to_organization.png)
+5. À direita do nome do colaborador externo que você deseja que se torne integrante, use o menu suspenso {% octicon "gear" aria-label="The gear icon" %} e clique em **Convidar para a organização**.![Convidar colaboradores externos para a organização](/assets/images/2021/10/help/organizations/invite_outside_collaborator_to_organization.png)
 {% else %}
-5. À direita do nome do colaborador externo que você deseja que se torne integrante, clique em **Invite to organization** (Convidar para a organização).![Convidar colaboradores externos para a organização](/assets/images/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
+5. À direita do nome do colaborador externo que você deseja que se torne integrante, clique em **Invite to organization** (Convidar para a organização).![Convidar colaboradores externos para a organização](/assets/images/2021/10/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
 {% endif %}
 {% data reusables.organizations.choose-to-restore-privileges %}
 {% data reusables.organizations.choose-user-role-send-invitation %}

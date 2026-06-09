@@ -40,14 +40,14 @@ If you're a member of an {% data variables.product.prodname_emu_enterprise %}, y
 {% data reusables.repositories.sidebar-settings %}
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658%}
 {% data reusables.repositories.click-collaborators-teams %}
-1. [**Invite a collaborator**] をクリックします。 ![[Invite a collaborator] ボタン](/assets/images/help/repository/invite-a-collaborator-button.png)
-2. 検索フィールドで、招待する人の名前を入力し、一致するリストの名前をクリックします。 ![リポジトリに招待する人の名前を入力するための検索フィールド](/assets/images/help/repository/manage-access-invite-search-field-user.png)
-3. [**Add NAME to REPOSITORY**] をクリックします。 ![コラボレーターを追加するボタン](/assets/images/help/repository/add-collaborator-user-repo.png)
+1. [**Invite a collaborator**] をクリックします。 ![[Invite a collaborator] ボタン](/assets/images/2021/10/help/repository/invite-a-collaborator-button.png)
+2. 検索フィールドで、招待する人の名前を入力し、一致するリストの名前をクリックします。 ![リポジトリに招待する人の名前を入力するための検索フィールド](/assets/images/2021/10/help/repository/manage-access-invite-search-field-user.png)
+3. [**Add NAME to REPOSITORY**] をクリックします。 ![コラボレーターを追加するボタン](/assets/images/2021/10/help/repository/add-collaborator-user-repo.png)
 {% else %}
-5. 左サイドバーで [**Collaborators**] をクリックします。 ![リポジトリの [Settings] サイドバーで [Collaborators] を選択](/assets/images/help/repository/user-account-repo-settings-collaborators.png)
+5. 左サイドバーで [**Collaborators**] をクリックします。 ![リポジトリの [Settings] サイドバーで [Collaborators] を選択](/assets/images/2021/10/help/repository/user-account-repo-settings-collaborators.png)
 6. [Collaborators] で、コラボレーターのユーザ名の入力を始めます。
-7. ドロップダウンメニューからコラボレーターのユーザ名を選択します。 ![コラボレーター リストのドロップダウン メニュー](/assets/images/help/repository/repo-settings-collab-autofill.png)
-8. [**Add collaborator**] をクリックします。 !["Add collaborator" button](/assets/images/help/repository/repo-settings-collab-add.png)
+7. ドロップダウンメニューからコラボレーターのユーザ名を選択します。 ![コラボレーター リストのドロップダウン メニュー](/assets/images/2021/10/help/repository/repo-settings-collab-autofill.png)
+8. [**Add collaborator**] をクリックします。 !["Add collaborator" button](/assets/images/2021/10/help/repository/repo-settings-collab-add.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 9. リポジトリへの招待メールがユーザに届きます。 ユーザが招待を受諾すると、そのユーザはコラボレーターとしてリポジトリにアクセスできるようになります。

@@ -45,7 +45,7 @@ You can pull changes from the remote repository into your codespace at any time.
 
 {% data reusables.codespaces.source-control-display-dark %}
 1. At the top of the side bar, click the ellipsis (**...**).
-![Ellipsis button for View and More Actions](/assets/images/help/codespaces/source-control-ellipsis-button.png)
+![Ellipsis button for View and More Actions](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button.png)
 1. In the drop-down menu, click **Pull**.
 
 If the dev container configuration has been changed since you created the codespace, you can apply the changes by rebuilding the container for the codespace. For more information, see "[Introduction to dev containers](/codespaces/setting-up-your-codespace/configuring-codespaces-for-your-project#applying-changes-to-your-configuration)."
@@ -57,12 +57,12 @@ You can set your codespace to automatically fetch details of any new commits tha
 If the fetch operation detects new changes on the remote repository, you'll see the number of new commits in the status bar. You can then pull the changes into your local copy.
 
 1. Click the **Manage** button at the bottom of the Activity Bar.
-![Manage button](/assets/images/help/codespaces/manage-button.png)
+![Manage button](/assets/images/2021/10/help/codespaces/manage-button.png)
 1. In the menu, slick **Settings**.
 1. On the Settings page, search for: `autofetch`.
-![Search for autofetch](/assets/images/help/codespaces/autofetch-search.png)
+![Search for autofetch](/assets/images/2021/10/help/codespaces/autofetch-search.png)
 1. To fetch details of updates for all remotes registered for the current repository, set **Git: Autofetch** to `all`.
-![Enable Git autofetch](/assets/images/help/codespaces/autofetch-all.png)
+![Enable Git autofetch](/assets/images/2021/10/help/codespaces/autofetch-all.png)
 1. If you want to change the number of seconds between each automatic fetch, edit the value of **Git: Autofetch Period**.
 
 ## Committing your changes 
@@ -78,5 +78,5 @@ If the fetch operation detects new changes on the remote repository, you'll see 
 You can push the changes you've made. This applies those changes to the upstream branch on the remote repository. You might want to do this if you're not yet ready to create a pull request, or if you prefer to create a pull request on {% data variables.product.prodname_dotcom %}.
 
 1. At the top of the side bar, click the ellipsis (**...**).
-![Ellipsis button for View and More Actions](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+![Ellipsis button for View and More Actions](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. In the drop-down menu, click **Push**.

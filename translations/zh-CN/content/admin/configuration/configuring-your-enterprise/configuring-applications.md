@@ -19,6 +19,6 @@ topics:
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-3. 在左侧边栏中，单击 **Applications**。 ![设置侧边栏中的 Applications 选项卡](/assets/images/enterprise/management-console/sidebar-applications.png)
-4. 在“Avatar image cache time (seconds)（头像图像缓存时间（秒））”下，输入希望 {% data variables.product.product_location %} 缓存头像图像的秒数。 ![头像图像缓存表单字段](/assets/images/enterprise/management-console/add-image-caching-value-field.png)
+3. 在左侧边栏中，单击 **Applications**。 ![设置侧边栏中的 Applications 选项卡](/assets/images/2021/10/enterprise/management-console/sidebar-applications.png)
+4. 在“Avatar image cache time (seconds)（头像图像缓存时间（秒））”下，输入希望 {% data variables.product.product_location %} 缓存头像图像的秒数。 ![头像图像缓存表单字段](/assets/images/2021/10/enterprise/management-console/add-image-caching-value-field.png)
 {% data reusables.enterprise_management_console.save-settings %}

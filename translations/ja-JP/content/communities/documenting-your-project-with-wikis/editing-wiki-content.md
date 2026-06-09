@@ -35,7 +35,7 @@ topics:
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
 3. ウィキ サイドバーを使って、変更したいページにアクセスし、[**Edit**] をクリックします。
-4. ウィキ ツールバーで [**Image**] をクリックします。 ![ウィキの画像追加ボタン](/assets/images/help/wiki/wiki_add_image.png)
+4. ウィキ ツールバーで [**Image**] をクリックします。 ![ウィキの画像追加ボタン](/assets/images/2021/10/help/wiki/wiki_add_image.png)
 5. [Insert Image] ダイアログボックスで、画像の URL と代替テキスト (これは検索エンジンや画像リーダーで使われます) を入力します。
 6. [**OK**] をクリックします。
 

@@ -20,6 +20,6 @@ After your {% data variables.product.prodname_sponsors %} account is unpublished
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.settings-tab %}
 3. Under "Unpublish your GitHub Sponsors profile", click **Unpublish profile**.
-  !["Unpublish profile" button](/assets/images/help/sponsors/unpublish-profile-button.png)
+  !["Unpublish profile" button](/assets/images/2021/10/help/sponsors/unpublish-profile-button.png)
 4. To confirm, click "Unpublish GitHub Sponsors account".
-  !["Unpublish GitHub Sponsors profile" button](/assets/images/help/sponsors/unpublish-profile-dialog.png)
+  !["Unpublish GitHub Sponsors profile" button](/assets/images/2021/10/help/sponsors/unpublish-profile-dialog.png)

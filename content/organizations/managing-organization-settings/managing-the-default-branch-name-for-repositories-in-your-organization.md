@@ -29,11 +29,11 @@ If an enterprise owner has enforced a policy for the default branch name for you
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.repository-defaults %}
 3. Under "Repository default branch", click **Change default branch name now**.
-    ![Override button](/assets/images/help/organizations/repo-default-name-button.png)
+    ![Override button](/assets/images/2021/10/help/organizations/repo-default-name-button.png)
 4. Type the default name that you would like to use for new branches.
-    ![Text box for entering default name](/assets/images/help/organizations/repo-default-name-text.png)
+    ![Text box for entering default name](/assets/images/2021/10/help/organizations/repo-default-name-text.png)
 5. Click **Update**.
-    ![Update button](/assets/images/help/organizations/repo-default-name-update.png)
+    ![Update button](/assets/images/2021/10/help/organizations/repo-default-name-update.png)
 
 ## Further reading
 

@@ -24,9 +24,9 @@ shortTitle: Remove yourself
 2. In the "Code, planning, and automation" section of the sidebar, click **{% octicon "repo" aria-label="The repo icon" %} Repositories**.
 {% else %}
 2. In the left sidebar, click **Repositories**.
-  ![Repositories tab](/assets/images/help/settings/settings-sidebar-repositories.png)
+  ![Repositories tab](/assets/images/2021/10/help/settings/settings-sidebar-repositories.png)
 {% endif %}
 3. Next to the repository you want to leave, click **Leave**.
-  ![Leave button](/assets/images/help/repository/repo-leave.png)
+  ![Leave button](/assets/images/2021/10/help/repository/repo-leave.png)
 4. Read the warning carefully, then click "I understand, leave this repository."
-  ![Dialog box warning you to leave](/assets/images/help/repository/repo-leave-confirmation.png)
+  ![Dialog box warning you to leave](/assets/images/2021/10/help/repository/repo-leave-confirmation.png)

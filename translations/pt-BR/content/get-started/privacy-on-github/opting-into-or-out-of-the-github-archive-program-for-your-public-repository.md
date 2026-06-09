@@ -19,7 +19,7 @@ Se você optar por não participar do {% data variables.product.prodname_archive
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em "Recursos", selecione ou retire a seleção de **Preservar este repositório**. ![Caixa de seleção para permitir que {% data variables.product.prodname_dotcom %} inclua seu código no {% data variables.product.prodname_archive %}](/assets/images/help/repository/github-archive-program-checkbox.png)
+3. Em "Recursos", selecione ou retire a seleção de **Preservar este repositório**. ![Caixa de seleção para permitir que {% data variables.product.prodname_dotcom %} inclua seu código no {% data variables.product.prodname_archive %}](/assets/images/2021/10/help/repository/github-archive-program-checkbox.png)
 
 ## Leia mais
 - [{% data variables.product.prodname_archive %} FAQ](https://archiveprogram.github.com/faq/)

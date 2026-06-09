@@ -37,7 +37,7 @@ También puedes crear un archivo de CONTRIBUTING.md, específicamente para que c
 ### Ejemplo de README
 Podemos crear un README.md para introducir nuestro proyecto nuevo al Proyecto Octocat.
 
-![Ejemplo de cómo crear un README](/assets/images/help/issues/quickstart-creating-readme.png)
+![Ejemplo de cómo crear un README](/assets/images/2021/10/help/issues/quickstart-creating-readme.png)
 ## Crear plantillas de reporte de problemas
 
 Puedes utilizar las propuestas para rastrear los tipos de trabajo diferentes que tu equipo o proyecto inter-funcional cubre, así como para recopilar información de aquellos fuera de tu proyecto. Los siguientes son algunos casos de uso comunes para las propuestas.
@@ -52,25 +52,25 @@ Dependiendo del tipo de repositorio y proyecto en el que estés trabajando, podr
 ### Ejemplo de plantilla de propuesta
 A continuación, creamos una plantilla de propuesta para reportar un error en el Proyecto Octocat.
 
-![Ejemplo de cómo crear una plantilla de propuesta](/assets/images/help/issues/quickstart-creating-issue-template.png)
+![Ejemplo de cómo crear una plantilla de propuesta](/assets/images/2021/10/help/issues/quickstart-creating-issue-template.png)
 
 Ahora que creamos la plantilla de propuestas para reportes de errores, puedes seleccionarla cuando crees una propuesta nueva en el proyecto Octocat.
 
-![Ejemplo de elegir la plantilla de una propuesta](/assets/images/help/issues/quickstart-issue-creation-menu-with-template.png)
+![Ejemplo de elegir la plantilla de una propuesta](/assets/images/2021/10/help/issues/quickstart-issue-creation-menu-with-template.png)
 
 ## Abrir propuestas y utilizar las listas de tareas para rastrear el trabajo
 Puedes organizar y rastrear tu trabajo creando propuestas. Para obtener más información, consulta la sección "[Crear una propuesta](/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue)".
 ### Ejemplo de propuesta
 Aquí tienes un ejemplo de una propuesta que se creó para un trabajo de cara al usuario de una iniciativa grande en el proyecto Octocat.
 
-![Ejemplo de creación de propuesta para una iniciativa grande](/assets/images/help/issues/quickstart-create-large-initiative-issue.png)
+![Ejemplo de creación de propuesta para una iniciativa grande](/assets/images/2021/10/help/issues/quickstart-create-large-initiative-issue.png)
 ### Ejemplo de lista de tareas
 
 Puedes utilizar listas de tareas para dividir propuestas más grandes en otras más pequeñas y para rastrear propuestas como parte de una meta más grande. {% ifversion fpt or ghec %} Las listas de tareas tienen una funcionalidad adicional cuando se agregan al cuerpo de una propuesta. Puedes ver la cantidad de tareas que se completaron en comparación con las tareas totales en la parte superior de la propuesta y, si alguien cierra una propuesta que esté enlazada en la lista de tareas, la casilla de verificación se marcará automáticamente como completa.{% endif %} Para obtener más información, consulta la sección "[Acerca de las listas de tareas](/issues/tracking-your-work-with-issues/creating-issues/about-task-lists)".
 
 Debajo, agregamos una lista de tareas a nuestra propuesta del Proyecto Octocat, dividiéndola en propuestas más pequeñas.
 
-![Agregar una lista de tareas a un ejemplo de propuesta](/assets/images/help/issues/quickstart-add-task-list-to-issue.png)
+![Agregar una lista de tareas a un ejemplo de propuesta](/assets/images/2021/10/help/issues/quickstart-add-task-list-to-issue.png)
 
 ## Tomar deciciones como equipo
 Puedes utilizar las propuestas y debates para comunicarte y hacer decisiones como equipo sobre las mejoras planeadas o sobre las prioridades de tu proyecto. Las propuestas son útiles cuando las creas para debatir detalles específicos, tales como reportes de rendimiento o de errores, planeaciones para el siguiente trimestre o diseño para una iniciativa nueva. Los debates son útiles para la lluvia de ideas abierta o para la retroalmientación, fuera de la base de código y a través de los repositorios. Para obtener más información, consulta la sección "[¿Qué herramienta de debate debería utilizar?](/github/getting-started-with-github/quickstart/communicating-on-github#which-discussion-tool-should-i-use)".
@@ -79,7 +79,7 @@ Como equipo, puedes comunicar actualziaciones sobre las tareas del día a día d
 ### Ejemplo de propuesta con colaboradores de proyecto
 Aquí tienes un ejemplo de los colaboradores de proyecto dando una actualización de estado sobre su trabajo en la propuesta del Proyecto Octocat.
 
-![Colaborar con el ejemplo de propuesta](/assets/images/help/issues/quickstart-collaborating-on-issue.png)
+![Colaborar con el ejemplo de propuesta](/assets/images/2021/10/help/issues/quickstart-collaborating-on-issue.png)
 ## Utilizar etiquetas para resaltar las metas y el estado del proyecto
 Puedes crear etiquetas para que un repositorio categorice las propuestas, solicitudes de cambio y debates. {% data variables.product.prodname_dotcom %} también proporciona etiquetas predeterminadas para cada repositorio nuevo que puedas editar o borrar. Las etiquetas sirven para rastrear las metas del proyecto, los errores, los tipos de trabajo y el estado de una propuesta.
 
@@ -89,17 +89,17 @@ Una vez que hayas creado una etiqueta en un repositorio, puedes aplicarla a cual
 ### Ejemplo de etiqueta
 A continuación se encuentra un ejemplo de una etiqueta de `front-end` que creamos y agregamos a la propuesta.
 
-![Agregar una etiqueta a un ejemplo de propuesta](/assets/images/help/issues/quickstart-add-label-to-issue.png)
+![Agregar una etiqueta a un ejemplo de propuesta](/assets/images/2021/10/help/issues/quickstart-add-label-to-issue.png)
 ## Agregar propuestas a un tablero de proyecto
 {% ifversion fpt or ghec %}Puedes utilizar proyectos en {% data variables.product.prodname_dotcom %}, actualmente en el beta público limitado, para planear y rastrear el trabajo de tu equipo. Un proyecto es una hoja de cálculo personalizada que se integra con tus propuestas y solicitudes de cambvios en {% data variables.product.prodname_dotcom %} y que se actualiza automáticamente con la información de {% data variables.product.prodname_dotcom %}. Puedes personalziar el diseño si filtras, clasificas y agrupas tus propuestas y solicitudes de cambios. Para inciar con los proyectos, consulta la [Guía de inicio rápido para los proyectos (beta)](/issues/trying-out-the-new-projects-experience/quickstart)".
 ### Ejemplo de proyecto (beta)
 Aquí tienes el diseño de tabla de un proyecto ejemplo, la cual se llenó con propuestas del proyecto Octocat que hemos creado.
 
-![Ejemplo de diseño de tabla de proyectos (beta)](/assets/images/help/issues/quickstart-projects-table-view.png)
+![Ejemplo de diseño de tabla de proyectos (beta)](/assets/images/2021/10/help/issues/quickstart-projects-table-view.png)
 
 También podemos ver el mismo proyecto como un tablero.
 
-![Ejemplo de diseño de tablero de proyectos (beta)](/assets/images/help/issues/quickstart-projects-board-view.png)
+![Ejemplo de diseño de tablero de proyectos (beta)](/assets/images/2021/10/help/issues/quickstart-projects-board-view.png)
 
 {% endif %}
 
@@ -107,7 +107,7 @@ También puedes {% ifversion fpt or ghec %} utilizar los tableros de proyecto ex
 ### Ejemplo del trablero de proyecto
 A continuación, se presenta un tablero de proyecto para nuestro ejemplo del Proyecto Octocat, con la propuesta que creamos y las propuestas más pequeñas en las que lo dividimos agregadas a este.
 
-![Ejemplo del trablero de proyecto](/assets/images/help/issues/quickstart-project-board.png)
+![Ejemplo del trablero de proyecto](/assets/images/2021/10/help/issues/quickstart-project-board.png)
 ## Pasos siguientes
 
 Ya aprendiste sobre las herramientas que ofrece {% data variables.product.prodname_dotcom %} para planear y rastrear tu trabajo e iniciaste en la configuración de un equipo inter-funcional o repositorio de proyecto. Aquí te mostramos algunos recursos útiles para seguir personalizando tu repositorio y organizar tu trabajo.

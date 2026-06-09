@@ -27,7 +27,7 @@ shortTitle: Dejar de publicar el sitio de las páginas
 3. Si tu fuente de publicación fue la rama `gh-pages`, {% ifversion fpt or ghec %}pasa al paso 6{% else %}tu sitio ahora se dejó de publicar y puedes saltar al resto de los pasos{% endif %}.
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-5. Debajo de "{% data variables.product.prodname_pages %}", usa el menú desplegable **Source** (Fuente) y seleccionar **None** (Ninguno). ![Menú desplegable para seleccionar una fuente de publicación](/assets/images/help/pages/publishing-source-drop-down.png)
+5. Debajo de "{% data variables.product.prodname_pages %}", usa el menú desplegable **Source** (Fuente) y seleccionar **None** (Ninguno). ![Menú desplegable para seleccionar una fuente de publicación](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
 {% data reusables.pages.update_your_dns_settings %}
 
 ## Anular la publicación de un sitio de usuario o de organización

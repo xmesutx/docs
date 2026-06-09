@@ -31,7 +31,7 @@ shortTitle: 解决合并冲突
 
 {% data reusables.repositories.sidebar-pr %}
 1. 在“Pull Requests（拉取请求）”列表中，单击含有您想要解决的合并冲突的拉取请求。
-1. 在拉取请求底部附近，单击 **Resolve conflicts（解决冲突）**。 ![解决合并冲突按钮](/assets/images/help/pull_requests/resolve-merge-conflicts-button.png)
+1. 在拉取请求底部附近，单击 **Resolve conflicts（解决冲突）**。 ![解决合并冲突按钮](/assets/images/2021/10/help/pull_requests/resolve-merge-conflicts-button.png)
 
  {% tip %}
 
@@ -39,14 +39,14 @@ shortTitle: 解决合并冲突
 
  {% endtip %}
 {% data reusables.pull_requests.decide-how-to-resolve-competing-line-change-merge-conflict %}
- ![查看带有冲突标记的合并冲突示例](/assets/images/help/pull_requests/view-merge-conflict-with-markers.png)
+ ![查看带有冲突标记的合并冲突示例](/assets/images/2021/10/help/pull_requests/view-merge-conflict-with-markers.png)
 1. 如果文件中有多个合并冲突，请向下滚动到下一组冲突标记，然后重复步骤 4 和步骤 5 以解决合并冲突。
-1. 解决文件中的所有冲突后，单击 **Mark as resolved（标记为已解决）**。 ![单击“标记为已解决”按钮](/assets/images/help/pull_requests/mark-as-resolved-button.png)
-1. 如果您有多个冲突文件，请在“冲突文件”下的页面左侧选择您要编辑的下一个文件，并重复步骤 4 到 7，直到您解决所有拉取请求的合并冲突。 ![适用时选择下一个冲突文件](/assets/images/help/pull_requests/resolve-merge-conflict-select-conflicting-file.png)
-1. 解决所有合并冲突后，单击 **Commit merge（提交合并）**。 这会将整个基本分支合并到头部分支。 ![解决合并冲突按钮](/assets/images/help/pull_requests/merge-conflict-commit-changes.png)
+1. 解决文件中的所有冲突后，单击 **Mark as resolved（标记为已解决）**。 ![单击“标记为已解决”按钮](/assets/images/2021/10/help/pull_requests/mark-as-resolved-button.png)
+1. 如果您有多个冲突文件，请在“冲突文件”下的页面左侧选择您要编辑的下一个文件，并重复步骤 4 到 7，直到您解决所有拉取请求的合并冲突。 ![适用时选择下一个冲突文件](/assets/images/2021/10/help/pull_requests/resolve-merge-conflict-select-conflicting-file.png)
+1. 解决所有合并冲突后，单击 **Commit merge（提交合并）**。 这会将整个基本分支合并到头部分支。 ![解决合并冲突按钮](/assets/images/2021/10/help/pull_requests/merge-conflict-commit-changes.png)
 1. 如果出现提示，请审查您要提交的分支。
 
-   如果头部分支是仓库的默认分支，您可以选择使用为解决冲突所做的更改来更新此分支，或者选择创建一个新分支并将其用作拉取请求的头部分支。 ![提示审查将要更新的分支](/assets/images/help/pull_requests/conflict-resolution-merge-dialog-box.png)
+   如果头部分支是仓库的默认分支，您可以选择使用为解决冲突所做的更改来更新此分支，或者选择创建一个新分支并将其用作拉取请求的头部分支。 ![提示审查将要更新的分支](/assets/images/2021/10/help/pull_requests/conflict-resolution-merge-dialog-box.png)
 
    如果您选择创建一个新分支，请输入该分支的名称。
 

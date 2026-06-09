@@ -20,8 +20,8 @@ shortTitle: Administrar los debates de equipo
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-discussions-tab %}
 6. Haz clic en {% octicon "kebab-horizontal" aria-label="The edit icon" %} junto al debate de equipo que deseas editar o eliminar.
-7. Da clic en **Editar**. También puedes hacer clic en **Eliminar**. ![Botón Editar debate de equipo](/assets/images/help/projects/edit-team-discussions-button.png)
-8. Modifica el título y el comentario del debate de equipo según sea necesario, y haz clic en **Actualizar comentario**. ![Botón Actualizar comentario](/assets/images/help/projects/update-comment-button.png)
+7. Da clic en **Editar**. También puedes hacer clic en **Eliminar**. ![Botón Editar debate de equipo](/assets/images/2021/10/help/projects/edit-team-discussions-button.png)
+8. Modifica el título y el comentario del debate de equipo según sea necesario, y haz clic en **Actualizar comentario**. ![Botón Actualizar comentario](/assets/images/2021/10/help/projects/update-comment-button.png)
 
 ## Leer más
 

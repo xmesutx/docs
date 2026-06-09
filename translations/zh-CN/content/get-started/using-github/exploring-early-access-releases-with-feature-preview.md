@@ -28,4 +28,4 @@ shortTitle: 功能预览
 您可以查看测试版中可用的功能列表以及各功能的简短说明。 每项功能都包含一个链接，用于提供反馈。
 
 {% data reusables.feature-preview.feature-preview-setting  %}
-2. （可选）在功能右侧，单击 **Enable（启用）**或 **Disable（禁用）**。 ![在功能预览中启用按钮](/assets/images/help/settings/enable-feature-button.png)
+2. （可选）在功能右侧，单击 **Enable（启用）**或 **Disable（禁用）**。 ![在功能预览中启用按钮](/assets/images/2021/10/help/settings/enable-feature-button.png)

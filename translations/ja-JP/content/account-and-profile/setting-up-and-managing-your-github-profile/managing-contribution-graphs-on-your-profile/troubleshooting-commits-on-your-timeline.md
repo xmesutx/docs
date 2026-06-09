@@ -19,15 +19,15 @@ shortTitle: Troubleshoot commits
 
 プロフィールページのタイムライン上で、特定のリポジトリの隣にあるコミットの番号をクリックすると、リポジトリで行われた特定の変更の diff を含め、その期間のコミットの詳細を表示できます。
 
-![プロフィールタイムラインのコミットリンク](/assets/images/help/profile/commit-link-on-profile-timeline.png)
+![プロフィールタイムラインのコミットリンク](/assets/images/2021/10/help/profile/commit-link-on-profile-timeline.png)
 
-![コミットの詳細](/assets/images/help/commits/commit-details.png)
+![コミットの詳細](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## タイムラインのコミットにコミットの詳細がない場合
 
 プロフィールページからコミットのリンクをクリックし、リポジトリのコミットページにあるはずのコミットが表示されていない場合、Git のコミット履歴が上書きされたかコミット作者の日付とコミット日付が異なる可能性があります。
 
-!["no commits found for octocat" というメッセージのあるリポジトリページ](/assets/images/help/repository/no-commits-found.png)
+!["no commits found for octocat" というメッセージのあるリポジトリページ](/assets/images/2021/10/help/repository/no-commits-found.png)
 
 ## GitHub は Git のオーサー日付とコミット日付をどのように使っているか
 
@@ -62,7 +62,7 @@ CommitDate: Tue Apr 10 06:25:08 2018 +0900
 
 URL をコミット日付で修正して開くと、コミットの詳細を見ることができます。
 
-![コミットの詳細](/assets/images/help/commits/commit-details.png)
+![コミットの詳細](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## タイムラインにあるはずのコミットがない場合
 

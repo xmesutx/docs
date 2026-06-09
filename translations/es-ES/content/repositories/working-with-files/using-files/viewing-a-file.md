@@ -24,18 +24,18 @@ With the raw view, you can view or copy the raw content of a file without any st
 
 {% data reusables.repositories.navigate-to-repo %}
 1. Click the file that you want to view.
-2. In the upper-right corner of the file view, click **Raw**. ![Screenshot of the Raw button in the file header](/assets/images/help/repository/raw-file-button.png)
+2. In the upper-right corner of the file view, click **Raw**. ![Screenshot of the Raw button in the file header](/assets/images/2022/01/help/repository/raw-file-button.png)
 3. Optionally, to copy the raw file content, in the upper-right corner of the file view, click **{% octicon "copy" aria-label="The copy icon" %}**.
 
 ## Viewing the line-by-line revision history for a file
 
 Con la vista de último responsable, puedes ver el historial de revisión línea por línea para todo un archivo o ver el historial de revisión de una única línea dentro de un archivo haciendo clic en {% octicon "versions" aria-label="The prior blame icon" %}. Cada vez que hagas clic en {% octicon "versions" aria-label="The prior blame icon" %}, verás la información de revisión anterior para esa línea, incluido quién y cuándo confirmó el cambio.
 
-![Vista de último responsable de Git](/assets/images/help/repository/git_blame.png)
+![Vista de último responsable de Git](/assets/images/2021/10/help/repository/git_blame.png)
 
 En un archivo o solicitud de extracción, también puedes utilizar el menú {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} para ver el último responsable de Git para una línea o rango de líneas seleccionado.
 
-![Menú Kebab con opciones para ver el último responsable de Git para una línea seleccionada](/assets/images/help/repository/view-git-blame-specific-line.png)
+![Menú Kebab con opciones para ver el último responsable de Git para una línea seleccionada](/assets/images/2021/10/help/repository/view-git-blame-specific-line.png)
 
 {% tip %}
 
@@ -45,5 +45,5 @@ En un archivo o solicitud de extracción, también puedes utilizar el menú {% o
 
 {% data reusables.repositories.navigate-to-repo %}
 2. Haz clic para abrir el archivo cuyo historial de líneas quieres ver.
-3. En la esquina superior derecha de la vista del archivo, haz clic en **Blame** (Último responsable) para abrir la vista del último responsable. ![Botón Blame (Último responsable)](/assets/images/help/repository/blame-button.png)
-4. Para ver versiones anteriores de una línea específica, o el siguiente último responsable, haz clic en {% octicon "versions" aria-label="The prior blame icon" %} hasta que hayas encontrado los cambios que quieres ver. ![Botón Prior blame (Último responsable anterior)](/assets/images/help/repository/prior-blame-button.png)
+3. En la esquina superior derecha de la vista del archivo, haz clic en **Blame** (Último responsable) para abrir la vista del último responsable. ![Botón Blame (Último responsable)](/assets/images/2021/10/help/repository/blame-button.png)
+4. Para ver versiones anteriores de una línea específica, o el siguiente último responsable, haz clic en {% octicon "versions" aria-label="The prior blame icon" %} hasta que hayas encontrado los cambios que quieres ver. ![Botón Prior blame (Último responsable anterior)](/assets/images/2021/10/help/repository/prior-blame-button.png)

@@ -38,14 +38,14 @@ Utiliza uno de tus códigos de recuperación para recuperar automáticamente el 
 {% ifversion fpt or ghec %}
 1. Debajo de "¿Tienes problemas?", haz clic en **Utiliza un código de recuperación o solicita un restablecimiento**.
 
-   ![Captura de pantalla del enlace para utilizar un código de recuperación](/assets/images/help/2fa/2fa-recovery-code-link.png)
+   ![Captura de pantalla del enlace para utilizar un código de recuperación](/assets/images/2021/10/help/2fa/2fa-recovery-code-link.png)
 {%- else %}
 1. En la página 2FA, dentro de "Don't have your phone?" (¿No tienes tu teléfono?), haz clic en **Enter a two-factor recovery code (Ingresar un código de recuperación de dos factores)**.
 
-   ![Captura de pantalla del enlace para utilizar un código de recuperación](/assets/images/help/2fa/2fa_recovery_dialog_box.png){% endif %}
+   ![Captura de pantalla del enlace para utilizar un código de recuperación](/assets/images/2021/10/help/2fa/2fa_recovery_dialog_box.png){% endif %}
 1. Escribe uno de tus códigos de recuperación, después haz clic en **Verify (Verificar)**.
 
-   ![Campo para escribir un código de recuperación y botón Verificar](/assets/images/help/2fa/2fa-type-verify-recovery-code.png)
+   ![Campo para escribir un código de recuperación y botón Verificar](/assets/images/2021/10/help/2fa/2fa-type-verify-recovery-code.png)
 
 {% ifversion fpt or ghec %}
 ## Autenticar con un número de reserva
@@ -79,28 +79,28 @@ Puedes utilizar tus credenciales de autenticación de dos factores para recobrar
     {% endwarning %}
 1. Debajo de "¿Tienes problemas?", haz clic en **Utiliza un código de recuperación o solicita un restablecimiento**.
 
-   ![Captura de pantalla del enlace en caso de que no tengas tu dispositivo o códigos de recuperación de 2FA](/assets/images/help/2fa/no-access-link.png)
+   ![Captura de pantalla del enlace en caso de que no tengas tu dispositivo o códigos de recuperación de 2FA](/assets/images/2021/10/help/2fa/no-access-link.png)
 1. A la derecha de "¿Te quedaste fuera?", haz clic en **Intenta recuperar tu cuenta**.
 
-   ![Captura de pantalla del enlace para intentar recuperar tu cuenta](/assets/images/help/2fa/try-recovering-your-account-link.png)
+   ![Captura de pantalla del enlace para intentar recuperar tu cuenta](/assets/images/2022/02/help/2fa/try-recovering-your-account-link.png)
 1. Da clic en **Entiendo, comenzar** para solicitar un restablecimiento de tu configuración de autenticación.
 
-    ![Captura de pantalla del botón para comenzar a restablecer los ajustes de autenticación](/assets/images/help/2fa/reset-auth-settings.png)
+    ![Captura de pantalla del botón para comenzar a restablecer los ajustes de autenticación](/assets/images/2021/10/help/2fa/reset-auth-settings.png)
 1. Haz clic en **Enviar contraseña de única ocasión** para que se te envíe a todas las direcciones elegibles asociadas con tu cuenta. Solo las direcciones de correo electrónico verificadas serán elegibles para recuperar una cuenta. Si restringiste los restablecimientos de contraseña a tu dirección primaria o de respaldo, estas serán las únicas elegibles para recuperar tu cuenta.
 
-   ![Captura de pantalla del botó para enviar una contraseña de única ocasión](/assets/images/help/2fa/send-one-time-password.png)
+   ![Captura de pantalla del botó para enviar una contraseña de única ocasión](/assets/images/2021/10/help/2fa/send-one-time-password.png)
 1. Debajo de "Contraseña de una sola vez", teclea la contraseña temporal del correo electrónico de recuperación que envió {% data variables.product.prodname_dotcom %}.
 
-   ![Captura de pantalla del campo para teclear la contraseña de única ocasión](/assets/images/help/2fa/one-time-password-field.png)
+   ![Captura de pantalla del campo para teclear la contraseña de única ocasión](/assets/images/2021/10/help/2fa/one-time-password-field.png)
 1. Da clic en **Verificar dirección de correo electrónico**.
 
-   ![Captura de pantalla del botón para verificar las direcciones de correo electrónico](/assets/images/help/2fa/verify-email-address.png)
+   ![Captura de pantalla del botón para verificar las direcciones de correo electrónico](/assets/images/2022/02/help/2fa/verify-email-address.png)
 1. Escoge un factor de verificación alterno.
     - Si utilizaste tu dispositivo actual para ingresar en esta cuenta anteriormente y te gustaría utilizarlo para verificación, haz clic en **Verificar con este dispositivo**.
     - Si has configurado una llave SSH previamente en esta cuenta y quieres utilizarla para verificación, da clic en **Llave SSH**.
     - Si configuraste un token de acceso personal previamente y te gustaría utilizarlo para verificación, da clic en **Token de acceso personal**.
 
-   ![Captura de pantalla de los botones para verificación alterna](/assets/images/help/2fa/alt-verifications.png)
+   ![Captura de pantalla de los botones para verificación alterna](/assets/images/2021/10/help/2fa/alt-verifications.png)
 1. Un miembro de {% data variables.contact.github_support %} revisará tu solicitud y te enviará un correo electrónico en los tres días hábiles siguientes. Si se aprueba tu solicitud, recibirás un enlace para completar el proceso de recuperación de tu cuenta. Si se te niega la solicitud, el mensaje incluirá un medio para contactar a soporte con cualquier pregunta adicional.
 
 {% endif %}

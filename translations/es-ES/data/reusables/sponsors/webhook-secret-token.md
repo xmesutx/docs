@@ -1,1 +1,1 @@
-5. Teclea un token secreto. Para obtener más información, consulta la sección "[Asegurar tus webhooks](/webhooks/securing/#securing-your-secret-token)". ![Campos para token secreto y otras opciones de personalización](/assets/images/help/sponsors/webhook-secret-token.png)
+5. Teclea un token secreto. Para obtener más información, consulta la sección "[Asegurar tus webhooks](/webhooks/securing/#securing-your-secret-token)". ![Campos para token secreto y otras opciones de personalización](/assets/images/2021/10/help/sponsors/webhook-secret-token.png)

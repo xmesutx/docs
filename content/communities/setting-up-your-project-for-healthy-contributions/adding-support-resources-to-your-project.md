@@ -15,7 +15,7 @@ shortTitle: Add support resources
 ---
 To direct people to specific support resources, you can add a SUPPORT file to your repository's root, `docs`, or `.github` folder. When someone creates an issue in your repository, they will see a link to your project's SUPPORT file.
 
-![Support guidelines](/assets/images/help/issues/support_guidelines_in_issue.png)
+![Support guidelines](/assets/images/2021/10/help/issues/support_guidelines_in_issue.png)
 
 {% ifversion fpt or ghes or ghec %}
 

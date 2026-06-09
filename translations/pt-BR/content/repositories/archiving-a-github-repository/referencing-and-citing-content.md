@@ -27,11 +27,11 @@ Para facilitar o referenciamento dos seus repositórios na literatura acadêmica
 {% endtip %}
 
 1. Acesse o [Zenodo](http://zenodo.org/).
-2. No canto superior esquerdo da tela, clique em **Log in** (Fazer login). ![Botão de login do Zenodo](/assets/images/help/repository/zenodo_login.png)
-3. Clique em **Log in with GitHub** (Fazer login com o GitHub). ![Login no Zenodo com o GitHub](/assets/images/help/repository/zenodo_login_with_github.png)
-4. Leia as informações sobre permissões de acesso e clique em **Authorize application** (Autorizar aplicativo). ![Autorizar o Zenodo](/assets/images/help/repository/zenodo_authorize.png)
-5. Acesse a página do [GitHub no Zenodo](https://zenodo.org/account/settings/github/). ![Página do GitHub no Zenodo](/assets/images/help/repository/zenodo_github_page.png)
-6. À direita do nome do repositório que você deseja arquivar, altere o botão de **Off** para **On** para habilitar o repositório para arquivamento. ![Habilitar arquivamento do Zenodo no repositório](/assets/images/help/repository/zenodo_toggle_on.png)
+2. No canto superior esquerdo da tela, clique em **Log in** (Fazer login). ![Botão de login do Zenodo](/assets/images/2021/10/help/repository/zenodo_login.png)
+3. Clique em **Log in with GitHub** (Fazer login com o GitHub). ![Login no Zenodo com o GitHub](/assets/images/2021/10/help/repository/zenodo_login_with_github.png)
+4. Leia as informações sobre permissões de acesso e clique em **Authorize application** (Autorizar aplicativo). ![Autorizar o Zenodo](/assets/images/2021/10/help/repository/zenodo_authorize.png)
+5. Acesse a página do [GitHub no Zenodo](https://zenodo.org/account/settings/github/). ![Página do GitHub no Zenodo](/assets/images/2021/10/help/repository/zenodo_github_page.png)
+6. À direita do nome do repositório que você deseja arquivar, altere o botão de **Off** para **On** para habilitar o repositório para arquivamento. ![Habilitar arquivamento do Zenodo no repositório](/assets/images/2021/10/help/repository/zenodo_toggle_on.png)
 
 O Zenodo arquiva o repositório e emite um novo DOI sempre que você cria uma nova [versão ](/articles/about-releases/) do {% data variables.product.product_name %}. Siga as etapas do artigo "[Criar versões](/articles/creating-releases/)" para criar uma versão.
 

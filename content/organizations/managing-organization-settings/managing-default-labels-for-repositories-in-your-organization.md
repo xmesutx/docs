@@ -26,7 +26,7 @@ Default labels are included in every new repository in your organization, but an
 {% data reusables.organizations.repository-defaults %}
 
 5. Under "Repository labels", click **New label**.
-  ![New label button](/assets/images/help/organizations/new-label-button.png)
+  ![New label button](/assets/images/2021/10/help/organizations/new-label-button.png)
 {% data reusables.project-management.name-label %}
 {% data reusables.project-management.label-description %}
 {% data reusables.project-management.label-color-randomizer %}

@@ -21,8 +21,8 @@ shortTitle: Search GitHub Marketplace
 
 ## {% data variables.product.prodname_marketplace %} 内から検索する
 
-1. 任意のページの上部で**Marketplace**をクリックしてください。 ![Marketplace リンク](/assets/images/help/search/marketplace-link.png)
-2. キーワードを入力して **Enter**キーを押します。 ![{% data variables.product.prodname_marketplace %} で文法チェッカーを検索する](/assets/images/help/search/marketplace-apps-and-actions-search-field.png)
+1. 任意のページの上部で**Marketplace**をクリックしてください。 ![Marketplace リンク](/assets/images/2021/10/help/search/marketplace-link.png)
+2. キーワードを入力して **Enter**キーを押します。 ![{% data variables.product.prodname_marketplace %} で文法チェッカーを検索する](/assets/images/2021/10/help/search/marketplace-apps-and-actions-search-field.png)
 3. オプションで、左サイドバーの1つまたは複数のオプションをクリックして、検索結果を絞り込みます。
 
 ## {% data variables.product.prodname_dotcom_the_website %} を検索する
@@ -30,8 +30,8 @@ shortTitle: Search GitHub Marketplace
 {% data variables.product.prodname_dotcom_the_website %} の全体を検索するときは常に、検査結果を絞り込んでマッチするアプリケーションとアクションを {% data variables.product.prodname_marketplace %} から見つけることができます。
 
 1. Https://github.com/search に移動します。
-2. キーワードを入力して **Enter**キーを押します。 ![検索フィールド](/assets/images/help/search/search-field.png)
-3. 左のサイドバーで [**Marketplace**] をクリックします。 ![文法チェッカーの検索結果で、Marketplaceのサイドメニューオプションがハイライトされている](/assets/images/help/search/marketplace-left-side-navigation.png)
+2. キーワードを入力して **Enter**キーを押します。 ![検索フィールド](/assets/images/2021/10/help/search/search-field.png)
+3. 左のサイドバーで [**Marketplace**] をクリックします。 ![文法チェッカーの検索結果で、Marketplaceのサイドメニューオプションがハイライトされている](/assets/images/2021/10/help/search/marketplace-left-side-navigation.png)
 
 ## 参考リンク
 

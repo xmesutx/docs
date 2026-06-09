@@ -179,8 +179,8 @@ Puedes configurr ambientes con reglas de protección y secretos. Cad job en un f
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. Si tu repositorio ya cuenta con flujos de trabajo: En la esquina superior izquierda, da clic sobre **Flujo de trabajo nuevo**. ![Crear un flujo de trabajo nuevo](/assets/images/help/repository/actions-new-workflow.png)
-1. Debajo del nombre del flujo de trabajo inicial que te gustaría utilizar, haz clic en **Configurar este flujo de trabajo**. ![Configurar este flujo de trabajo](/assets/images/help/settings/actions-create-starter-workflow.png)
+1. Si tu repositorio ya cuenta con flujos de trabajo: En la esquina superior izquierda, da clic sobre **Flujo de trabajo nuevo**. ![Crear un flujo de trabajo nuevo](/assets/images/2021/10/help/repository/actions-new-workflow.png)
+1. Debajo del nombre del flujo de trabajo inicial que te gustaría utilizar, haz clic en **Configurar este flujo de trabajo**. ![Configurar este flujo de trabajo](/assets/images/2021/10/help/settings/actions-create-starter-workflow.png)
 
 ## Pasos siguientes
 

@@ -49,7 +49,7 @@ Quando um repositório é arquivado, seus problemas, pull requests, código, eti
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em "Danger Zone" (Zona de perigo), clique em **Archive this repository** (Arquivar este repositório) ou em **Unarchive this repository** (Desarquivar este repositório). ![Botão Archive this repository (Arquivar este repositório)](/assets/images/help/repository/archive-repository.png)
+3. Em "Danger Zone" (Zona de perigo), clique em **Archive this repository** (Arquivar este repositório) ou em **Unarchive this repository** (Desarquivar este repositório). ![Botão Archive this repository (Arquivar este repositório)](/assets/images/2021/10/help/repository/archive-repository.png)
 4. Leia os avisos.
-5. Digite o nome do repositório que deseja arquivar ou desarquivar. ![Avisos de arquivamento de repositório](/assets/images/help/repository/archive-repository-warnings.png)
+5. Digite o nome do repositório que deseja arquivar ou desarquivar. ![Avisos de arquivamento de repositório](/assets/images/2021/10/help/repository/archive-repository-warnings.png)
 6. Clique em **I understand the consequences, archive this repository** (Entendo as consequências, arquive este repositório).

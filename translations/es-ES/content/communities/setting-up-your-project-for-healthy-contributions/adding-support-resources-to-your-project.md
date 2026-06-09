@@ -16,7 +16,7 @@ shortTitle: Agregar recursos de soporte
 
 Para dirigir a las personas hasta recursos de soporte específicos, puedes agregar un archivo de SOPORTE a tu raíz de repositorio, `docs` (documentos), o carpeta `.github`. Cuando alguien crea una propuesta en tu repositorio, verá un enlace en el archivo de SOPORTE de tu proyecto.
 
-![Lineamientos de soporte](/assets/images/help/issues/support_guidelines_in_issue.png)
+![Lineamientos de soporte](/assets/images/2021/10/help/issues/support_guidelines_in_issue.png)
 
 {% ifversion fpt or ghes or ghec %}
 

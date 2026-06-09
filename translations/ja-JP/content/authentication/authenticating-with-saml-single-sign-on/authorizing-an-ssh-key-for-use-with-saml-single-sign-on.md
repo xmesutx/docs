@@ -25,9 +25,9 @@ shortTitle: SSH Key with SAML
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. 認可したい SSH キーの隣の [**Enable SSO**] (SSO を有効化) または [**Disable SSO**] (SSOを無効化) をクリックします。 ![SSO トークン認可ボタン](/assets/images/help/settings/ssh-sso-button.png)
+3. 認可したい SSH キーの隣の [**Enable SSO**] (SSO を有効化) または [**Disable SSO**] (SSOを無効化) をクリックします。 ![SSO トークン認可ボタン](/assets/images/2021/10/help/settings/ssh-sso-button.png)
 4. SSH キーを認可する Organization を見つけます。
-5. [**Authorize**] をクリックします。 ![トークン認可ボタン](/assets/images/help/settings/ssh-sso-authorize.png)
+5. [**Authorize**] をクリックします。 ![トークン認可ボタン](/assets/images/2021/10/help/settings/ssh-sso-authorize.png)
 
 ## 参考リンク
 

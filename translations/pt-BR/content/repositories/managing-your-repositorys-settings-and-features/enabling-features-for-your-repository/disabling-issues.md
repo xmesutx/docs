@@ -17,7 +17,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em Features (Recursos), desmarque a caixa de seleção **Issues** (Problemas). ![Caixa de seleção Remove Issues (Remover problemas)](/assets/images/help/issues/issues_settings_remove_from_repo.png)
+3. Em Features (Recursos), desmarque a caixa de seleção **Issues** (Problemas). ![Caixa de seleção Remove Issues (Remover problemas)](/assets/images/2021/10/help/issues/issues_settings_remove_from_repo.png)
 
 Se você decidir habilitar problemas novamente no futuro, qualquer problema que tenha sido adicionado anteriormente ficará disponível.
 

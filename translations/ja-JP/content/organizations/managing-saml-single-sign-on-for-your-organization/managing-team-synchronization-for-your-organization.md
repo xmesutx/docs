@@ -48,7 +48,7 @@ Organization と、サポートされている IdP について、SAMLシング�
 
 SAMLの設定は、**Issuer**フィールドに有効なIdP URLを含んで**いなければなりません**。
 
-![SAML Issuerフィールド](/assets/images/help/saml/saml_issuer.png)
+![SAML Issuerフィールド](/assets/images/2021/10/help/saml/saml_issuer.png)
 
 
 
@@ -62,7 +62,7 @@ SAMLの設定は、**Issuer**フィールドに有効なIdP URLを含んで**い
 {% data reusables.identity-and-permissions.team-sync-confirm-saml %}
 {% data reusables.identity-and-permissions.enable-team-sync-azure %}
 {% data reusables.identity-and-permissions.team-sync-confirm %}
-6. Organization に接続したいアイデンティティプロバイダのテナント情報を確認してから、[**Approve**] をクリックします。 ![特定の IdP テナントに対して、Team の同期を有効化するペンディングリクエストと、リクエストを承認またはキャンセルするオプション](/assets/images/help/teams/approve-team-synchronization.png)
+6. Organization に接続したいアイデンティティプロバイダのテナント情報を確認してから、[**Approve**] をクリックします。 ![特定の IdP テナントに対して、Team の同期を有効化するペンディングリクエストと、リクエストを承認またはキャンセルするオプション](/assets/images/2021/10/help/teams/approve-team-synchronization.png)
 
 ### Okta で Team の同期を有効化する
 
@@ -83,8 +83,8 @@ SCIMのリンクされたアイデンティティを書いているユーザの�
 {% data reusables.identity-and-permissions.team-sync-confirm-scim %}
 1. OrganizationでSAMLを施行し、OrganizationのメンバーがSAMLとSCIMのアイデンティティを確実にリンクするようにすることを検討してください。 詳細は「[Organization で SAML シングルサインオンを施行する](/organizations/managing-saml-single-sign-on-for-your-organization/enforcing-saml-single-sign-on-for-your-organization)」を参照してください。
 {% data reusables.identity-and-permissions.enable-team-sync-okta %}
-7. Organization 名の下で、有効な SSWS トークンと Okta インスタンスの URL を入力します。 ![Okta Organization で Team の同期を有効化するフォーム](/assets/images/help/teams/confirm-team-synchronization-okta-organization.png)
-6. Organization に接続したいアイデンティティプロバイダのテナント情報を確認してから、[**Create**] をクリックします。 ![Team の同期を有効化する [Create] ボタン](/assets/images/help/teams/confirm-team-synchronization-okta.png)
+7. Organization 名の下で、有効な SSWS トークンと Okta インスタンスの URL を入力します。 ![Okta Organization で Team の同期を有効化するフォーム](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta-organization.png)
+6. Organization に接続したいアイデンティティプロバイダのテナント情報を確認してから、[**Create**] をクリックします。 ![Team の同期を有効化する [Create] ボタン](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta.png)
 
 ## Team の同期を無効化する
 
@@ -93,4 +93,4 @@ SCIMのリンクされたアイデンティティを書いているユーザの�
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-5. [Team synchronization] の下にある [**Disable team synchronization**] をクリックします。 ![Team の同期を無効化する](/assets/images/help/teams/disable-team-synchronization.png)
+5. [Team synchronization] の下にある [**Disable team synchronization**] をクリックします。 ![Team の同期を無効化する](/assets/images/2021/10/help/teams/disable-team-synchronization.png)

@@ -32,4 +32,4 @@ Você também pode acessar o log de auditoria da sua empresa a partir da API RES
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
-1. Opcionalmente, acima da lista de eventos, selecione o menu suspenso **Exportar Eventos do Git** ou **Exportar** e escolha opções para exportar eventos do log de auditoria. ![Os menus suspensos "Exportar eventos do Git" e "Exportar" para o log de auditoria da empresa](/assets/images/help/enterprises/audit-log-export-drop-down-menus.png)
+1. Opcionalmente, acima da lista de eventos, selecione o menu suspenso **Exportar Eventos do Git** ou **Exportar** e escolha opções para exportar eventos do log de auditoria. ![Os menus suspensos "Exportar eventos do Git" e "Exportar" para o log de auditoria da empresa](/assets/images/2021/10/help/enterprises/audit-log-export-drop-down-menus.png)

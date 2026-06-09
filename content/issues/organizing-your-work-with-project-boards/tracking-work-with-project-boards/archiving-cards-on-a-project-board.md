@@ -21,14 +21,14 @@ Automation in your project board does not apply to archived project board cards.
 ## Archiving cards on a project board
 
 1. In a project board, find the card you want to archive, then click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
-![List of options for editing a project board card](/assets/images/help/projects/select-archiving-options-project-board-card.png)
+![List of options for editing a project board card](/assets/images/2021/10/help/projects/select-archiving-options-project-board-card.png)
 2. Click **Archive**.
-![Select archive option from menu](/assets/images/help/projects/archive-project-board-card.png)
+![Select archive option from menu](/assets/images/2021/10/help/projects/archive-project-board-card.png)
 
 ## Restoring cards on a project board from the sidebar
 
 {% data reusables.project-management.click-menu %}
 2. Click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, then click **View archive**.
-  ![Select view archive option from menu](/assets/images/help/projects/select-view-archive-option-project-board-card.png)
+  ![Select view archive option from menu](/assets/images/2021/10/help/projects/select-view-archive-option-project-board-card.png)
 3. Above the project board card you want to unarchive, click **Restore**.
-  ![Select restore project board card](/assets/images/help/projects/restore-card.png)
+  ![Select restore project board card](/assets/images/2021/10/help/projects/restore-card.png)

@@ -16,7 +16,7 @@ shortTitle: 强制 SAML 单点登录
 
 启用 SAML SSO 时，{% data variables.product.prodname_dotcom %} 将提示访问 {% data variables.product.prodname_dotcom_the_website %} 上组织资源的成员使用 IdP 进行身份验证，IdP 会将成员的用户帐户链接到 IdP 上的身份。 成员在使用 IdP 进行身份验证之前仍然可以访问组织的资源。
 
-![提示通过 SAML SSO 进行身份验证以访问组织的横幅](/assets/images/help/saml/sso-has-been-enabled.png)
+![提示通过 SAML SSO 进行身份验证以访问组织的横幅](/assets/images/2021/10/help/saml/sso-has-been-enabled.png)
 
 您也可以对组织实施 SAML SSO。 {% data reusables.saml.when-you-enforce %} 实施会从组织中删除尚未通过 IdP 进行身份验证的任何成员和管理员。 {% data variables.product.company_short %} 将向每个被删除的用户发送电子邮件通知。
 
@@ -39,8 +39,8 @@ shortTitle: 强制 SAML 单点登录
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-1. 在“SAML single sign-on（SAML 单点登录）”下，选择 **Require SAML SSO authentication for all members of the _ORGANIZATION_ organization（要求组织的所有成员进行 SAML SSO 身份验证）**。 !["需要 SAML SSO 身份验证" 复选框](/assets/images/help/saml/require-saml-sso-authentication.png)
-1. 如有任何组织成员尚未通过您的 IdP 进行身份验证，则 {% data variables.product.company_short %} 会显示这些成员。 如果您强制执行 SAML SSO，{% data variables.product.company_short %} 将从组织中删除成员。 查看警告并单击 **Remove members and require SAML single sign-on（删除成员并要求 SAML 单点登录）**。 ![包含要从组织删除的成员列表的"确认 SAML SSO 实施" 对话框](/assets/images/help/saml/confirm-saml-sso-enforcement.png)
+1. 在“SAML single sign-on（SAML 单点登录）”下，选择 **Require SAML SSO authentication for all members of the _ORGANIZATION_ organization（要求组织的所有成员进行 SAML SSO 身份验证）**。 !["需要 SAML SSO 身份验证" 复选框](/assets/images/2021/10/help/saml/require-saml-sso-authentication.png)
+1. 如有任何组织成员尚未通过您的 IdP 进行身份验证，则 {% data variables.product.company_short %} 会显示这些成员。 如果您强制执行 SAML SSO，{% data variables.product.company_short %} 将从组织中删除成员。 查看警告并单击 **Remove members and require SAML single sign-on（删除成员并要求 SAML 单点登录）**。 ![包含要从组织删除的成员列表的"确认 SAML SSO 实施" 对话框](/assets/images/2021/10/help/saml/confirm-saml-sso-enforcement.png)
 1. 在“Single sign-on recovery codes（单点登录恢复代码）”下，查看您的恢复代码。 将恢复代码存储在安全位置，如密码管理器。
 
 ## 延伸阅读

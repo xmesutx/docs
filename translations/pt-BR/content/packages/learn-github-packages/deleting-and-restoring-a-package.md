@@ -78,8 +78,8 @@ Para excluir uma versão de um pacote com escopo do repositório, você deve ter
 {% data reusables.package_registry.packages-from-code-tab %}
 {% data reusables.package_registry.package-settings-option %}
 5. À esquerda, clique em **Gerenciar versões**.
-5. À direita da versão que você deseja excluir, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e selecione **Excluir versão**. ![Botão para excluir a versão do pacote](/assets/images/help/package-registry/delete-container-package-version.png)
-6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua esta versão**. ![Botão de confirmar exclusão de pacote](/assets/images/help/package-registry/package-version-deletion-confirmation.png)
+5. À direita da versão que você deseja excluir, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e selecione **Excluir versão**. ![Botão para excluir a versão do pacote](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua esta versão**. ![Botão de confirmar exclusão de pacote](/assets/images/2021/10/help/package-registry/package-version-deletion-confirmation.png)
 
 {% ifversion fpt or ghec or ghes %}
 ### Excluir uma versão de um pacote com escopo do repositório com o GraphQL
@@ -120,8 +120,8 @@ Para revisar quem pode excluir uma versão de pacote, consulte "[Permissões nec
 {% data reusables.package_registry.package-settings-from-user-level %}
 {% data reusables.package_registry.package-settings-option %}
 5. À esquerda, clique em **Gerenciar versões**.
-5. À direita da versão que você deseja excluir, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e selecione **Excluir versão**. ![Botão para excluir a versão do pacote](/assets/images/help/package-registry/delete-container-package-version.png)
-6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua esta versão**. ![Botão de confirmar exclusão de pacote](/assets/images/help/package-registry/confirm-container-package-version-deletion.png)
+5. À direita da versão que você deseja excluir, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e selecione **Excluir versão**. ![Botão para excluir a versão do pacote](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua esta versão**. ![Botão de confirmar exclusão de pacote](/assets/images/2021/10/help/package-registry/confirm-container-package-version-deletion.png)
 
 ### Excluindo a versão de um pacote com escopo da organização em {% data variables.product.prodname_dotcom %}
 
@@ -132,8 +132,8 @@ Para revisar quem pode excluir uma versão de pacote, consulte "[Permissões nec
 {% data reusables.package_registry.package-settings-from-org-level %}
 {% data reusables.package_registry.package-settings-option %}
 5. À esquerda, clique em **Gerenciar versões**.
-5. À direita da versão que você deseja excluir, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e selecione **Excluir versão**. ![Botão para excluir a versão do pacote](/assets/images/help/package-registry/delete-container-package-version.png)
-6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua esta versão**. ![Botão para confirmar a exclusão da versão do pacote](/assets/images/help/package-registry/confirm-container-package-version-deletion.png)
+5. À direita da versão que você deseja excluir, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e selecione **Excluir versão**. ![Botão para excluir a versão do pacote](/assets/images/2021/10/help/package-registry/delete-container-package-version.png)
+6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua esta versão**. ![Botão para confirmar a exclusão da versão do pacote](/assets/images/2021/10/help/package-registry/confirm-container-package-version-deletion.png)
 {% endif %}
 
 ## Excluindo um pacote inteiro
@@ -146,7 +146,7 @@ Para excluir todo um pacote com escopo do repositório, você deve ter permissõ
 {% data reusables.package_registry.packages-from-code-tab %}
 {% data reusables.package_registry.package-settings-option %}
 4. Em "zona de perigo", clique em **Excluir este pacote**.
-5. Para confirmar, revise a mensagem de confirmação, digite o nome do seu pacote e clique em **Eu compreendo, exclua este pacote.** ![Botão de confirmar exclusão de pacote](/assets/images/help/package-registry/package-version-deletion-confirmation.png)
+5. Para confirmar, revise a mensagem de confirmação, digite o nome do seu pacote e clique em **Eu compreendo, exclua este pacote.** ![Botão de confirmar exclusão de pacote](/assets/images/2021/10/help/package-registry/package-version-deletion-confirmation.png)
 
 {% ifversion fpt or ghec %}
 ### Excluir um pacote inteiro com escopo do usuário em {% data variables.product.prodname_dotcom %}
@@ -155,9 +155,9 @@ Para revisar quem pode excluir um pacote, consulte "[Permissões necessárias](#
 
 {% data reusables.package_registry.package-settings-from-user-level %}
 {% data reusables.package_registry.package-settings-option %}
-5. À esquerda, clique em **Opções**. ![Opção do menu "Opções"](/assets/images/help/package-registry/options-for-container-settings.png)
-6. Em "Zona de Perigo" clique em **Excluir este pacote**. ![Botão para excluir a versão do pacote](/assets/images/help/package-registry/delete-container-package-button.png)
-6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua este pacote**. ![Botão para confirmar a exclusão da versão do pacote](/assets/images/help/package-registry/confirm-container-package-deletion.png)
+5. À esquerda, clique em **Opções**. ![Opção do menu "Opções"](/assets/images/2021/10/help/package-registry/options-for-container-settings.png)
+6. Em "Zona de Perigo" clique em **Excluir este pacote**. ![Botão para excluir a versão do pacote](/assets/images/2021/10/help/package-registry/delete-container-package-button.png)
+6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua este pacote**. ![Botão para confirmar a exclusão da versão do pacote](/assets/images/2021/10/help/package-registry/confirm-container-package-deletion.png)
 
 ### Excluir um pacote inteiro com escopo da organização em {% data variables.product.prodname_dotcom %}
 
@@ -165,9 +165,9 @@ Para revisar quem pode excluir um pacote, consulte "[Permissões necessárias](#
 
 {% data reusables.package_registry.package-settings-from-org-level %}
 {% data reusables.package_registry.package-settings-option %}
-5. À esquerda, clique em **Opções**. ![Opção do menu "Opções"](/assets/images/help/package-registry/options-for-container-settings.png)
-6. Em "Zona de Perigo" clique em **Excluir este pacote**. ![Botão de excluir pacote](/assets/images/help/package-registry/delete-container-package-button.png)
-6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua este pacote**. ![Botão de confirmar exclusão de pacote](/assets/images/help/package-registry/confirm-container-package-deletion.png)
+5. À esquerda, clique em **Opções**. ![Opção do menu "Opções"](/assets/images/2021/10/help/package-registry/options-for-container-settings.png)
+6. Em "Zona de Perigo" clique em **Excluir este pacote**. ![Botão de excluir pacote](/assets/images/2021/10/help/package-registry/delete-container-package-button.png)
+6. Para confirmar a exclusão, digite o nome do pacote e clique em **Eu entendo as consequências. Exclua este pacote**. ![Botão de confirmar exclusão de pacote](/assets/images/2021/10/help/package-registry/confirm-container-package-deletion.png)
 {% endif %}
 
 ## Restaurando pacotes
@@ -202,8 +202,8 @@ Para revisar quem pode restaurar um pacote em uma organização, consulte "[Perm
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 3. À esquerda, clique em **Pacotes**.
-4. Em "Pacotes excluídos", ao lado do pacote que você deseja restaurar, clique em **Restaurar**. ![Botão de restaurar](/assets/images/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
-5. Para confirmar, digite o nome do pacote e clique em **Eu entendo as consequências, restaure este pacote**. ![Restaurar botão de confirmação do pacote](/assets/images/help/package-registry/type-package-name-and-restore-button.png)
+4. Em "Pacotes excluídos", ao lado do pacote que você deseja restaurar, clique em **Restaurar**. ![Botão de restaurar](/assets/images/2021/10/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
+5. Para confirmar, digite o nome do pacote e clique em **Eu entendo as consequências, restaure este pacote**. ![Restaurar botão de confirmação do pacote](/assets/images/2021/10/help/package-registry/type-package-name-and-restore-button.png)
 
 {% ifversion fpt or ghec %}
 
@@ -213,8 +213,8 @@ Você pode restaurar um pacote excluído por meio das configurações da sua con
 
 {% data reusables.user-settings.access_settings %}
 2. À esquerda, clique em **Pacotes**.
-4. Em "Pacotes excluídos", ao lado do pacote que você deseja restaurar, clique em **Restaurar**. ![Botão de restaurar](/assets/images/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
-5. Para confirmar, digite o nome do pacote e clique em **Eu entendo as consequências, restaure este pacote**. ![Restaurar botão de confirmação do pacote](/assets/images/help/package-registry/type-package-name-and-restore-button.png)
+4. Em "Pacotes excluídos", ao lado do pacote que você deseja restaurar, clique em **Restaurar**. ![Botão de restaurar](/assets/images/2021/10/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
+5. Para confirmar, digite o nome do pacote e clique em **Eu entendo as consequências, restaure este pacote**. ![Restaurar botão de confirmação do pacote](/assets/images/2021/10/help/package-registry/type-package-name-and-restore-button.png)
 
 {% endif %}
 
@@ -225,6 +225,6 @@ Você pode restaurar uma versão do pacote a partir da página inicial do seu pa
 1. Acesse a página inicial do seu pacote.
 2. À direita, clique em **Configurações do pacote**.
 2. À esquerda, clique em **Gerenciar versões**.
-3. No canto superior direito, use o menu suspenso "Versões" e selecione **Excluído**. ![Menu suspenso de versões que mostra a opção excluída](/assets/images/help/package-registry/versions-drop-down-menu.png)
-4. Ao lado da versão excluída do pacote que você deseja restaurar, clique em **Restaurar**. ![Restaurar opção ao lado de uma versão excluída do pacote](/assets/images/help/package-registry/restore-package-version.png)
-5. Para confirmar, clique em **Eu entendo as consequências, restaure esta versão.** ![Confirmar restauração da versão do pacote](/assets/images/help/package-registry/confirm-package-version-restoration.png)
+3. No canto superior direito, use o menu suspenso "Versões" e selecione **Excluído**. ![Menu suspenso de versões que mostra a opção excluída](/assets/images/2021/10/help/package-registry/versions-drop-down-menu.png)
+4. Ao lado da versão excluída do pacote que você deseja restaurar, clique em **Restaurar**. ![Restaurar opção ao lado de uma versão excluída do pacote](/assets/images/2021/10/help/package-registry/restore-package-version.png)
+5. Para confirmar, clique em **Eu entendo as consequências, restaure esta versão.** ![Confirmar restauração da versão do pacote](/assets/images/2021/10/help/package-registry/confirm-package-version-restoration.png)

@@ -36,7 +36,7 @@ Wikis can display PNG, JPEG, and GIF images.
 {% data reusables.repositories.sidebar-wiki %}
 3. Using the wiki sidebar, navigate to the page you want to change, and then click **Edit**.
 4. On the wiki toolbar, click **Image**.
-   ![Wiki Add image button](/assets/images/help/wiki/wiki_add_image.png)
+   ![Wiki Add image button](/assets/images/2021/10/help/wiki/wiki_add_image.png)
 5. In the "Insert Image" dialog box, type the image URL and the alt text (which is used by search engines and screen readers).
 6. Click **OK**.
 

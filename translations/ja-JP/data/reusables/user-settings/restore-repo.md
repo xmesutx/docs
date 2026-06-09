@@ -1,1 +1,1 @@
-1. リストアしたいリポジトリの隣の**Restore（リストア）**をクリックしてください。 ![リストアボタン](/assets/images/help/settings/restore-button.png)
+1. リストアしたいリポジトリの隣の**Restore（リストア）**をクリックしてください。 ![リストアボタン](/assets/images/2021/10/help/settings/restore-button.png)

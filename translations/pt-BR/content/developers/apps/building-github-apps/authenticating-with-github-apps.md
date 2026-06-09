@@ -29,7 +29,7 @@ Para gerar uma chave privada:
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-5. Em "Chaves Privadas", clique em **Gerar uma chave privada**. ![Gerar chave privada](/assets/images/github-apps/github_apps_generate_private_keys.png)
+5. Em "Chaves Privadas", clique em **Gerar uma chave privada**. ![Gerar chave privada](/assets/images/2021/10/github-apps/github_apps_generate_private_keys.png)
 6. Você verá uma chave privada no formato PEM baixado no seu computador. Certifique-se de armazenar este arquivo porque o GitHub armazena apenas a parte pública da chave.
 
 {% note %}
@@ -43,7 +43,7 @@ O {% data variables.product.product_name %} gera uma impressão digital para cad
 
 Para verificar uma chave privada:
 
-1. Encontre a impressão digital para o par de chaves privada e pública que deseja verificar na seção "Chaves privadas" da página de configurações de desenvolvedor do seu {% data variables.product.prodname_github_app %}. Para obter mais informações, consulte [Gerar uma chave privada](#generating-a-private-key). ![Impressão digital de chave privada](/assets/images/github-apps/github_apps_private_key_fingerprint.png)
+1. Encontre a impressão digital para o par de chaves privada e pública que deseja verificar na seção "Chaves privadas" da página de configurações de desenvolvedor do seu {% data variables.product.prodname_github_app %}. Para obter mais informações, consulte [Gerar uma chave privada](#generating-a-private-key). ![Impressão digital de chave privada](/assets/images/2021/10/github-apps/github_apps_private_key_fingerprint.png)
 2. Gere a impressão digital da sua chave privada (PEM) localmente usando o comando a seguir:
     ```shell
     $ openssl rsa -in <em>PATH_TO_PEM_FILE</em> -pubout -outform DER | openssl sha256 -binary | openssl base64
@@ -51,7 +51,7 @@ Para verificar uma chave privada:
 3. Compare os resultados da impressão digital gerada localmente com a impressão digital que você vê no {% data variables.product.product_name %}.
 
 ## Apagar chaves privadas
-Você pode remover uma chave privada perdida ou comprometida excluindo-a. No entanto, você deve ter pelo menos uma chave privada. Quando você tem apenas uma chave, você deverá gerar uma nova antes de excluir a antiga. ![Excluir a última chave privada](/assets/images/github-apps/github_apps_delete_key.png)
+Você pode remover uma chave privada perdida ou comprometida excluindo-a. No entanto, você deve ter pelo menos uma chave privada. Quando você tem apenas uma chave, você deverá gerar uma nova antes de excluir a antiga. ![Excluir a última chave privada](/assets/images/2021/10/github-apps/github_apps_delete_key.png)
 
 ## Efetuar a autenticação um {% data variables.product.prodname_github_app %}
 

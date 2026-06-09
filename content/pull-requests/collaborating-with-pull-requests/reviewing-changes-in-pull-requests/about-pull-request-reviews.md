@@ -27,20 +27,20 @@ Reviews allow for discussion of proposed changes and help ensure that the change
 
 {% ifversion fpt or ghec %}You can schedule reminders for pull requests that need to be reviewed. For more information, see "[Managing scheduled reminders for pull requests](/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests)."{% endif %}
 
-![Header of review requesting changes with line comments](/assets/images/help/pull_requests/review-header-with-line-comment.png)
+![Header of review requesting changes with line comments](/assets/images/2021/10/help/pull_requests/review-header-with-line-comment.png)
 
 A review has three possible statuses:
 - **Comment**: Submit general feedback without explicitly approving the changes or requesting additional changes.
 - **Approve**: Submit feedback and approve merging the changes proposed in the pull request.
 - **Request changes**: Submit feedback that must be addressed before the pull request can be merged.
 
-![Image of review statuses](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+![Image of review statuses](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
 {% data reusables.repositories.request-changes-tips %}
 
 You can view all of the reviews a pull request has received in the Conversation timeline, and you can see reviews by repository owners and collaborators in the pull request's merge box.
 
-![Image of reviews in a merge box](/assets/images/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
+![Image of reviews in a merge box](/assets/images/2021/10/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
 
 {% data reusables.search.requested_reviews_search_tip %}
 

@@ -24,7 +24,7 @@ You can create tables with pipes `|` and hyphens `-`. Hyphens are used to create
 | Content Cell  | Content Cell  |
 ```
 
-![Rendered table](/assets/images/help/writing/table-basic-rendered.png)
+![Rendered table](/assets/images/2021/10/help/writing/table-basic-rendered.png)
 
 The pipes on either end of the table are optional.
 
@@ -37,7 +37,7 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git diff | Show file differences that haven't been staged |
 ```
 
-![Rendered table with varied cell width](/assets/images/help/writing/table-varied-columns-rendered.png)
+![Rendered table with varied cell width](/assets/images/2021/10/help/writing/table-varied-columns-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -52,7 +52,7 @@ You can use [formatting](/articles/basic-writing-and-formatting-syntax) such as 
 | `git diff` | Show file differences that **haven't been** staged |
 ```
 
-![Rendered table with formatted text](/assets/images/help/writing/table-inline-formatting-rendered.png)
+![Rendered table with formatted text](/assets/images/2021/10/help/writing/table-inline-formatting-rendered.png)
 
 You can align text to the left, right, or center of a column by including colons `:` to the left, right, or on both sides of the hyphens within the header row.
 
@@ -63,7 +63,7 @@ You can align text to the left, right, or center of a column by including colons
 | git diff     | git diff       | git diff      |
 ```
 
-![Rendered table with left, center, and right text alignment](/assets/images/help/writing/table-aligned-text-rendered.png)
+![Rendered table with left, center, and right text alignment](/assets/images/2021/10/help/writing/table-aligned-text-rendered.png)
 
 To include a pipe `|` as content within your cell, use a `\` before the pipe:
 
@@ -74,7 +74,7 @@ To include a pipe `|` as content within your cell, use a `\` before the pipe:
 | Pipe     | \|        |
 ```
 
-![Rendered table with an escaped pipe](/assets/images/help/writing/table-escaped-character-rendered.png)
+![Rendered table with an escaped pipe](/assets/images/2021/10/help/writing/table-escaped-character-rendered.png)
 
 ## Further reading
 

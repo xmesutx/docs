@@ -49,7 +49,7 @@ _检查套件_是一组_检查运行_（单个 CI 测试）。 套件和运行�
 
 要了解完成此快速入门后检查 API CI 服务器将执行的操作，请查看以下演示：
 
-![检查 API CI 服务器快速入门演示](/assets/images/github-apps/github_apps_checks_api_ci_server.gif)
+![检查 API CI 服务器快速入门演示](/assets/images/2021/10/github-apps/github_apps_checks_api_ci_server.gif)
 
 ## 基本要求
 
@@ -175,7 +175,7 @@ $ ruby template_server.rb
 
 现在，在安装应用程序的仓库中打开拉取请求。 您的应用程序应该通过对拉取请求创建检查运行来响应。 单击 **Checks（检查）**选项卡，您应该会看到以下内容：
 
-![排队检查运行](/assets/images/github-apps/github_apps_queued_check_run.png)
+![排队检查运行](/assets/images/2021/10/github-apps/github_apps_queued_check_run.png)
 
 如果您在“Checks（检查）”选项卡中看到其他应用程序，则意味着您的仓库中安装了其他应用程序，它们对检查具有 **Read & write（读取和写入）** 权限，并且订阅了 **Check suite（检查套件）**和 **Check run（检查运行）**事件。
 
@@ -250,7 +250,7 @@ $ ruby template_server.rb
 
 转到打开的拉取请求，然后单击 **Checks（检查）**选项卡。 单击左上角的“Re-run all（全部重新运行）”按钮。 您应该会看到检查运行的状态从 `pending` 变成 `in_progress`，最后变成 `success`：
 
-![完整的检查运行](/assets/images/github-apps/github_apps_complete_check_run.png)
+![完整的检查运行](/assets/images/2021/10/github-apps/github_apps_complete_check_run.png)
 
 ## 第 2 部分。 创建 Octo RuboCop CI 测试
 
@@ -586,15 +586,15 @@ $ ruby template_server.rb
 
 注释将显示在 **Checks（检查）**选项卡中。
 
-![检查选项卡中的检查运行注释](/assets/images/github-apps/github_apps_checks_annotations.png)
+![检查选项卡中的检查运行注释](/assets/images/2021/10/github-apps/github_apps_checks_annotations.png)
 
 请注意您通过添加请求的操作创建的“Fix this（修复此问题）”按钮。
 
-![检查运行请求操作按钮](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+![检查运行请求操作按钮](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 如果注释与 PR 中已包含的文件有关，则注释还将显示在 **Files changed（文件已更改）**选项卡中。
 
-![文件已更改选项卡中的检查运行注释](/assets/images/github-apps/github_apps_checks_annotation_diff.png)
+![文件已更改选项卡中的检查运行注释](/assets/images/2021/10/github-apps/github_apps_checks_annotation_diff.png)
 
 ## 步骤 2.6. 自动修复 RuboCop 错误
 
@@ -688,11 +688,11 @@ $ ruby template_server.rb
 
 在 **Commits（提交）**选项卡中，您会看到由 Git 配置中设置的用户名提供的全新提交。 您可能需要刷新浏览器才能看到更新。
 
-![自动修复 Octo RuboCop 通知的新提交](/assets/images/github-apps/github_apps_new_requested_action_commit.png)
+![自动修复 Octo RuboCop 通知的新提交](/assets/images/2021/10/github-apps/github_apps_new_requested_action_commit.png)
 
 由于新的提交被推送到仓库，您将在 **Checks（检查）**选项卡中看到新的 Octo RuboCop 检查套件。 但这次没有任何错误，因为 RuboCop 已经修复了所有错误。 🎉
 
-![没有检查套件或检查运行错误](/assets/images/github-apps/github_apps_checks_api_success.png)
+![没有检查套件或检查运行错误](/assets/images/2021/10/github-apps/github_apps_checks_api_success.png)
 
 您可以在[使用检查 API 创建 CI 测试](https://github.com/github-developer/creating-ci-tests-with-the-checks-api)仓库的 `server.rb` 文件中找到您刚才构建的应用程序的完整代码。
 

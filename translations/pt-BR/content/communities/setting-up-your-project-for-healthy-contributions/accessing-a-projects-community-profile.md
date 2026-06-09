@@ -15,7 +15,7 @@ shortTitle: Acessar perfis da comunidade
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Community** (Comunidade). ![Comunidade na barra lateral esquerda](/assets/images/help/graphs/graphs-sidebar-community-tab.png)
+3. Na barra lateral esquerda, clique em **Community** (Comunidade). ![Comunidade na barra lateral esquerda](/assets/images/2021/10/help/graphs/graphs-sidebar-community-tab.png)
 
 ## Leia mais
 

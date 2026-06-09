@@ -2,13 +2,13 @@
 
   {% mac %}
 
-  ![The contribute to the parent repository option in the Fork Behavior menu](/assets/images/help/desktop/mac-fork-behavior-menu-contribute.png)
+  ![The contribute to the parent repository option in the Fork Behavior menu](/assets/images/2021/10/help/desktop/mac-fork-behavior-menu-contribute.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![The contribute to the parent repository option in the Fork Behavior menu](/assets/images/help/desktop/windows-fork-behavior-menu-contribute.png)
+  ![The contribute to the parent repository option in the Fork Behavior menu](/assets/images/2021/10/help/desktop/windows-fork-behavior-menu-contribute.png)
 
   {% endwindows %}
 
@@ -16,13 +16,13 @@
 
   {% mac %}
 
-  ![The save button in the Fork Behavior menu](/assets/images/help/desktop/mac-fork-behavior-save.png)
+  ![The save button in the Fork Behavior menu](/assets/images/2021/10/help/desktop/mac-fork-behavior-save.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![The save button in the Fork Behavior menu](/assets/images/help/desktop/windows-fork-behavior-save.png)
+  ![The save button in the Fork Behavior menu](/assets/images/2021/10/help/desktop/windows-fork-behavior-save.png)
 
   {% endwindows %}
   

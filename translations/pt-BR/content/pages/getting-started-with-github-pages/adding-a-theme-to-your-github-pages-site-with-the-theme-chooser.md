@@ -35,10 +35,10 @@ Caso você tenha adicionado manualmente um tema do Jekyll ao repositório no pas
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. No "{% data variables.product.prodname_pages %}", clique em **Escolher um tema** ou **Alterar tema**. ![Botão Choose a theme (Escolher um tema)](/assets/images/help/pages/choose-a-theme.png)
-4. No topo da página, clique no tema desejado e depois em **Selecionar tema**. ![Opções de tema e botão Select theme (Selecionar tema)](/assets/images/help/pages/select-theme.png)
+3. No "{% data variables.product.prodname_pages %}", clique em **Escolher um tema** ou **Alterar tema**. ![Botão Choose a theme (Escolher um tema)](/assets/images/2021/10/help/pages/choose-a-theme.png)
+4. No topo da página, clique no tema desejado e depois em **Selecionar tema**. ![Opções de tema e botão Select theme (Selecionar tema)](/assets/images/2021/10/help/pages/select-theme.png)
 5. Talvez seja necessário editar o arquivo *README.md* do site.
-   - Para editá-lo mais tarde, clique em **Cancelar**. ![Link Cancel (Cancelar) ao editar um arquivo](/assets/images/help/pages/cancel-edit.png)
+   - Para editá-lo mais tarde, clique em **Cancelar**. ![Link Cancel (Cancelar) ao editar um arquivo](/assets/images/2021/10/help/pages/cancel-edit.png)
    - Para editar o arquivo agora, consulte "[Editando os arquivos](/repositories/working-with-files/managing-files/editing-files)".
 
 O tema escolhido será aplicado automaticamente aos arquivos markdown no repositório. Para aplicar o tema a arquivos HTML no repositório, é preciso adicionar a página inicial YAML que especifica um layout para cada arquivo. Para obter mais informações, consulte "[Página inicial](https://jekyllrb.com/docs/front-matter/)" no site do Jekyll.

@@ -26,7 +26,7 @@ You can use {% data variables.product.prodname_dotcom %} Flavored Markdown with 
 {% data reusables.pages.navigate-site-repo %}
 2. リポジトリの *_config.yml* ファイルを開きます。
 {% data reusables.repositories.edit-file %}
-4. `markdown` で始まる行を見つけ、値を `kramdown` または `GFM`に変更します。 ![config.yml での Markdown 設定](/assets/images/help/pages/config-markdown-value.png)
+4. `markdown` で始まる行を見つけ、値を `kramdown` または `GFM`に変更します。 ![config.yml での Markdown 設定](/assets/images/2021/10/help/pages/config-markdown-value.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}

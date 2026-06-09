@@ -37,7 +37,7 @@ shortTitle: 配置 2FA 恢复
 4. 将恢复代码保存在安全的位置。 在失去访问权限时，恢复代码可帮助您恢复帐户登录。
     - 要在设备上保存恢复代码，请单击 **Download（下载）**。
     - 要保存恢复代码的硬拷贝，请单击 **Print（打印）**。
-    - 要复制恢复代码以存储在密码管理器中，请单击**复制**。 ![可选择下载、打印或复制代码的恢复代码列表](/assets/images/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
+    - 要复制恢复代码以存储在密码管理器中，请单击**复制**。 ![可选择下载、打印或复制代码的恢复代码列表](/assets/images/2021/10/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
 
 ## 生成一组新的恢复代码
 
@@ -46,7 +46,7 @@ shortTitle: 配置 2FA 恢复
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 {% data reusables.two_fa.show-recovery-codes %}
-3. 要创建另一批恢复代码，请单击 **Generate new recovery codes（生成新的恢复代码）**。 ![生成新恢复代码按钮](/assets/images/help/2fa/generate-new-recovery-codes.png)
+3. 要创建另一批恢复代码，请单击 **Generate new recovery codes（生成新的恢复代码）**。 ![生成新恢复代码按钮](/assets/images/2021/10/help/2fa/generate-new-recovery-codes.png)
 
 ## 将安全密钥配置为附加双重身份验证方法
 
@@ -70,9 +70,9 @@ shortTitle: 配置 2FA 恢复
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. 在“Fallback SMS number（后备 SMS 号码）”旁边，单击 **Add（添加）**。 ![添加后备 SMS 号码按钮](/assets/images/help/2fa/add-fallback-sms-number-button.png)
-4. 在“Fallback SMS number（后备 SMS 号码）”下，单击 **Add fallback SMS number（添加后备 SMS 号码）**。 ![添加后备 SMS 号码文本](/assets/images/help/2fa/add_fallback_sms_number_text.png)
-5. 选择您的国家/地区代码并键入您的手机号码，包括区号。 确认信息无误后，单击 **Set fallback（设置后备号码）**。 ![设置后备 SMS 号码](/assets/images/help/2fa/2fa-fallback-number.png)
+3. 在“Fallback SMS number（后备 SMS 号码）”旁边，单击 **Add（添加）**。 ![添加后备 SMS 号码按钮](/assets/images/2021/10/help/2fa/add-fallback-sms-number-button.png)
+4. 在“Fallback SMS number（后备 SMS 号码）”下，单击 **Add fallback SMS number（添加后备 SMS 号码）**。 ![添加后备 SMS 号码文本](/assets/images/2021/10/help/2fa/add_fallback_sms_number_text.png)
+5. 选择您的国家/地区代码并键入您的手机号码，包括区号。 确认信息无误后，单击 **Set fallback（设置后备号码）**。 ![设置后备 SMS 号码](/assets/images/2021/10/help/2fa/2fa-fallback-number.png)
 
 设置完成后，备用设备将收到确认短信。
 

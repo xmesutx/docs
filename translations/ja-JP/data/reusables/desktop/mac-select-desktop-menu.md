@@ -1,1 +1,1 @@
-1. メニューバーで**{% data variables.product.prodname_desktop %}**ドロップダウンメニューを使い、続いて**Preferences（プリファレンス）**をクリックしてください。 ![{% data variables.product.prodname_desktop %}のドロップダウンメニュー内の環境設定値](/assets/images/help/desktop/mac-choose-preferences.png)
+1. メニューバーで**{% data variables.product.prodname_desktop %}**ドロップダウンメニューを使い、続いて**Preferences（プリファレンス）**をクリックしてください。 ![{% data variables.product.prodname_desktop %}のドロップダウンメニュー内の環境設定値](/assets/images/2021/10/help/desktop/mac-choose-preferences.png)

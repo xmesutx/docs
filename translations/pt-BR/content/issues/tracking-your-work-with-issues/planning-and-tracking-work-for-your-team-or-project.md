@@ -37,7 +37,7 @@ Você também pode criar um arquivo CONTRIBUTING.md específico para conter dire
 ### Exemplo README
 Podemos criar um README.md para introduzir nosso novo projeto, projeto do Octocat.
 
-![Criando um exemplo README](/assets/images/help/issues/quickstart-creating-readme.png)
+![Criando um exemplo README](/assets/images/2021/10/help/issues/quickstart-creating-readme.png)
 ## Criando modelos de problemas
 
 Você pode usar problemas para acompanhar os diferentes tipos de trabalho que sua equipe multifuncional ou seu projeto abrange, além de coletar informações daqueles que estão fora do seu projeto. A seguir, estão alguns casos comuns de utilização para os problemas.
@@ -52,25 +52,25 @@ Dependendo do tipo de repositório e projeto em que você está trabalhando, voc
 ### Exemplo de modelo de problema
 Abaixo, estamos criando um modelo de problema para relatar um erro no projeto Octocat.
 
-![Criar exemplo de modelo de problema](/assets/images/help/issues/quickstart-creating-issue-template.png)
+![Criar exemplo de modelo de problema](/assets/images/2021/10/help/issues/quickstart-creating-issue-template.png)
 
 Agora que criamos o modelo de problemas de relatório de erro, você pode selecioná-lo ao criar um novo problema no projeto Octocat.
 
-![Escolhendo o exemplo de modelo de problema](/assets/images/help/issues/quickstart-issue-creation-menu-with-template.png)
+![Escolhendo o exemplo de modelo de problema](/assets/images/2021/10/help/issues/quickstart-issue-creation-menu-with-template.png)
 
 ## Abrir problemas e usar listas de tarefas para monitorar o trabalho
 Você pode organizar e acompanhar seu trabalho criando problemas. Para obter mais informações, consulte "[Criar um problema](/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue)".
 ### Exemplo de problema
 Aqui está um exemplo de uma questão criada para uma grande iniciativa, um trabalho front-end no projeto Octocat.
 
-![Criando um exemplo problema de grande iniciativa](/assets/images/help/issues/quickstart-create-large-initiative-issue.png)
+![Criando um exemplo problema de grande iniciativa](/assets/images/2021/10/help/issues/quickstart-create-large-initiative-issue.png)
 ### Exemplo da lista de tarefas
 
 Você pode usar a lista de tarefas para dividir problemas maiores em tarefas menores e acompanhar problemas como parte de um objetivo maior. {% ifversion fpt or ghec %} A lista de tarefas tem funcionalidade adicional quando adicionada ao texto de um problema. Você pode ver o número de tarefas concluídas na parte superior do problema e se alguém fechar um problema vinculado na lista de tarefas, a caixa de seleção será automaticamente marcada como concluída.{% endif %} Para obter mais informações, consulte "[Sobre listas de tarefas](/issues/tracking-your-work-with-issues/creating-issues/about-task-lists)".
 
 Abaixo nós adicionamos uma lista de tarefas ao problema do projeto Octocat do nosso projeto, dividindo-a em problemas menores.
 
-![Adicionar uma lista de tarefas ao exemplo do problema](/assets/images/help/issues/quickstart-add-task-list-to-issue.png)
+![Adicionar uma lista de tarefas ao exemplo do problema](/assets/images/2021/10/help/issues/quickstart-add-task-list-to-issue.png)
 
 ## Tomando decisões em equipe
 Você pode usar problemas e discussões para comunicar-se e tomar decisões como equipe sobre melhorias planejadas ou prioridades para o seu projeto. Os problemas são úteis quando você os cria para discussão de detalhes específicos, como bug ou relatórios de desempenho, planejamento para o próximo trimestre ou design para uma nova iniciativa. As discussões são úteis para levantamento de hipóteses ou feedbacks abertos, fora da base de código e em todos os repositórios. Para obter mais informações, consulte "[Qual ferramenta de discussão devo usar?](/github/getting-started-with-github/quickstart/communicating-on-github#which-discussion-tool-should-i-use)".
@@ -79,7 +79,7 @@ Como uma equipe, você também pode comunicar atualizações sobre tarefas do di
 ### Exemplo de problema com colaboradores de projetos
 Aqui está um exemplo de colaboradores de projeto que fornecem uma atualização sobre o seu trabalho sobre o problema do projeto Octocat.
 
-![Colaborando no exemplo do problema](/assets/images/help/issues/quickstart-collaborating-on-issue.png)
+![Colaborando no exemplo do problema](/assets/images/2021/10/help/issues/quickstart-collaborating-on-issue.png)
 ## Usando etiquetas para destacar objetivos e status do projeto
 Você pode criar etiquetas para um repositório para categorizar problemas, pull requests e discussões. {% data variables.product.prodname_dotcom %} também fornece etiquetas padrão para cada novo repositório que você pode editar ou excluir. As etiquetas são úteis para manter o controle de objetivos, errps, tipos de trabalho e o status de um problema.
 
@@ -89,17 +89,17 @@ Depois de criar uma etiqueta em um repositório, é possível aplicá-lo em qual
 ### Exemplo de etiqueta
 Abaixo está um exemplo de uma etiqueta `front-end` que criamos e adicionamos ao problema.
 
-![Adicionando uma etiqueta a um exemplo do problema](/assets/images/help/issues/quickstart-add-label-to-issue.png)
+![Adicionando uma etiqueta a um exemplo do problema](/assets/images/2021/10/help/issues/quickstart-add-label-to-issue.png)
 ## Adicionando problemas a um quadro de projeto
 {% ifversion fpt or ghec %}Você pode usar projetos em {% data variables.product.prodname_dotcom %}, atualmente em beta público limitado, para planejar e acompanhar o trabalho da sua equipe. Um projeto é uma planilha personalizável integradas aos seus problemas e pull requests em {% data variables.product.prodname_dotcom %}, mantendo-se atualizada automaticamente com as informações em {% data variables.product.prodname_dotcom %}. Você pode personalizar o layout filtrando, organizando e agrupando seus problemas e PRs. Para começar com projetos, consulte "[Inicialização rápida para projetos (beta)](/issues/trying-out-the-new-projects-experience/quickstart). ".
 ### Exemplo de projeto (beta)
 Aqui está o layout da tabela de um projeto de exemplo, preenchido com os problemas do projeto Octocat que criamos.
 
-![Exemplo do layout da tabela de projetos (beta)](/assets/images/help/issues/quickstart-projects-table-view.png)
+![Exemplo do layout da tabela de projetos (beta)](/assets/images/2021/10/help/issues/quickstart-projects-table-view.png)
 
 Podemos também visualizar o mesmo projeto como um quadro.
 
-![Exemplo do quadro do layout de projetos (beta)](/assets/images/help/issues/quickstart-projects-board-view.png)
+![Exemplo do quadro do layout de projetos (beta)](/assets/images/2021/10/help/issues/quickstart-projects-board-view.png)
 
 {% endif %}
 
@@ -107,7 +107,7 @@ Você também pode {% ifversion fpt or ghec %} usar os quadros de projeto existe
 ### Exemplo de quadro de projeto
 Abaixo, está um painel de projeto para o nosso exemplo de projeto Octocat com o problema que criamos, e os problemas menores nos quais separamos, foram adicionados.
 
-![Exemplo de quadro de projeto](/assets/images/help/issues/quickstart-project-board.png)
+![Exemplo de quadro de projeto](/assets/images/2021/10/help/issues/quickstart-project-board.png)
 ## Próximas etapas
 
 Agora você aprendeu sobre as ferramentas que {% data variables.product.prodname_dotcom %} oferece para planejamento e acompanhamento do seu trabalho e deu o seu primeiro passo para definir a sua equipe multifuncional ou repositório de projetos! Aqui estão alguns recursos úteis para personalizar ainda mais seu repositório e organizar seu trabalho.

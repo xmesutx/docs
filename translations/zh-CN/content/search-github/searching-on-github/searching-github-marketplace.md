@@ -21,8 +21,8 @@ shortTitle: 搜索 GitHub Marketplace
 
 ## 在 {% data variables.product.prodname_marketplace %} 中搜索
 
-1. 在任一页面顶部，单击 **Marketplace**。 ![Marketplace 链接](/assets/images/help/search/marketplace-link.png)
-2. 输入任何关键字，然后按 **Enter**。 ![搜索 {% data variables.product.prodname_marketplace %} 上的语法检查](/assets/images/help/search/marketplace-apps-and-actions-search-field.png)
+1. 在任一页面顶部，单击 **Marketplace**。 ![Marketplace 链接](/assets/images/2021/10/help/search/marketplace-link.png)
+2. 输入任何关键字，然后按 **Enter**。 ![搜索 {% data variables.product.prodname_marketplace %} 上的语法检查](/assets/images/2021/10/help/search/marketplace-apps-and-actions-search-field.png)
 3. （可选）通过单击左边栏中的一个或多个选项来过滤结果。
 
 ## 在 {% data variables.product.prodname_dotcom_the_website %} 上搜索
@@ -30,8 +30,8 @@ shortTitle: 搜索 GitHub Marketplace
 每次在所有 {% data variables.product.prodname_dotcom_the_website %} 上搜索时，都可以过滤结果以查看 {% data variables.product.prodname_marketplace %} 中匹配的应用程序和操作。
 
 1. 导航到 https://github.com/search。
-2. 输入任何关键字，然后按 **Enter**。 ![搜索字段](/assets/images/help/search/search-field.png)
-3. 在左边栏中，单击 **Marketplace**。 ![Marketplace 侧菜单选项突出显示的语法检查搜索结果](/assets/images/help/search/marketplace-left-side-navigation.png)
+2. 输入任何关键字，然后按 **Enter**。 ![搜索字段](/assets/images/2021/10/help/search/search-field.png)
+3. 在左边栏中，单击 **Marketplace**。 ![Marketplace 侧菜单选项突出显示的语法检查搜索结果](/assets/images/2021/10/help/search/marketplace-left-side-navigation.png)
 
 ## 延伸阅读
 

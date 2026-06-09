@@ -27,5 +27,5 @@ shortTitle: 更新付费组织
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. 在“Payment method（付款方式）”下，单击 **New Card（新卡）**。 ![计费新卡按钮](/assets/images/help/billing/billing-new-card-button.png)
+1. 在“Payment method（付款方式）”下，单击 **New Card（新卡）**。 ![计费新卡按钮](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

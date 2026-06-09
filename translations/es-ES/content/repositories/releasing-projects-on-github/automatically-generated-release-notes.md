@@ -23,33 +23,33 @@ Las notas de lanzamiento generadas automáticamente proporcionan una alternativa
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-3. Haz clic en **Borrador de un nuevo lanzamiento**. ![Botón Borrador de lanzamientos](/assets/images/help/releases/draft_release_button.png)
+3. Haz clic en **Borrador de un nuevo lanzamiento**. ![Botón Borrador de lanzamientos](/assets/images/2021/10/help/releases/draft_release_button.png)
 4. {% ifversion fpt or ghec %}Haz clic en **Elige una etiqueta** y teclea {% else %}Teclea{% endif %} un número de versión para tu lanzamiento. Como alternativa, selecciona una etiqueta existente.
   {% ifversion fpt or ghec %}
-  ![Ingresa una etiqueta](/assets/images/help/releases/releases-tag-create.png)
-5. Si estás creando una etiqueta nueva, haz clic en **Crear etiqueta nueva**. ![Confirma si quieres crear una etiqueta nueva](/assets/images/help/releases/releases-tag-create-confirm.png)
+  ![Ingresa una etiqueta](/assets/images/2021/10/help/releases/releases-tag-create.png)
+5. Si estás creando una etiqueta nueva, haz clic en **Crear etiqueta nueva**. ![Confirma si quieres crear una etiqueta nueva](/assets/images/2021/10/help/releases/releases-tag-create-confirm.png)
   {% else %}
-  ![Versión de lanzamientos con etiquetas](/assets/images/enterprise/releases/releases-tag-version.png)
+  ![Versión de lanzamientos con etiquetas](/assets/images/2021/10/enterprise/releases/releases-tag-version.png)
 {% endif %}
 6. Si creaste una etiqueta nueva, utiliza el menú desplegable para seleccionar la rama que contiene el proyecto que quieres lanzar.
-  {% ifversion fpt or ghec %}![Elige una rama](/assets/images/help/releases/releases-choose-branch.png)
-  {% else %}![Rama de lanzamientos con etiquetas](/assets/images/enterprise/releases/releases-tag-branch.png)
+  {% ifversion fpt or ghec %}![Elige una rama](/assets/images/2021/10/help/releases/releases-choose-branch.png)
+  {% else %}![Rama de lanzamientos con etiquetas](/assets/images/2021/10/enterprise/releases/releases-tag-branch.png)
   {% endif %}
-7. En la caja de texto de descripción que se encuentra en la esquina superior derecha, haz clic en **Autogenerar notas de lanzamiento**. ![Autogenerar notas de lanzamiento](/assets/images/help/releases/auto-generate-release-notes.png)
+7. En la caja de texto de descripción que se encuentra en la esquina superior derecha, haz clic en **Autogenerar notas de lanzamiento**. ![Autogenerar notas de lanzamiento](/assets/images/2021/10/help/releases/auto-generate-release-notes.png)
 8. Verifica las notas generadas para garantizar que incluyan toda (y únicamente) la información que quieras incluir.
-9. Opcionalmente, para incluir los archivos binarios tales como programas compilados en tu lanzamiento, arrastra y suelta o selecciona manualmente los archivos en la caja de binarios. ![Proporcionar un DMG con el lanzamiento](/assets/images/help/releases/releases_adding_binary.gif)
-10. Para notificar a los usuarios que el lanzamiento no está listo para producción y puede ser inestable, selecciona **Esto es un pre-lanzamiento**. ![Casilla de verificación para marcar un lanzamiento como prelanzamiento](/assets/images/help/releases/prerelease_checkbox.png)
+9. Opcionalmente, para incluir los archivos binarios tales como programas compilados en tu lanzamiento, arrastra y suelta o selecciona manualmente los archivos en la caja de binarios. ![Proporcionar un DMG con el lanzamiento](/assets/images/2021/10/help/releases/releases_adding_binary.gif)
+10. Para notificar a los usuarios que el lanzamiento no está listo para producción y puede ser inestable, selecciona **Esto es un pre-lanzamiento**. ![Casilla de verificación para marcar un lanzamiento como prelanzamiento](/assets/images/2021/10/help/releases/prerelease_checkbox.png)
 {%- ifversion fpt %}
-11. Opcionalmente, selecciona **Crear un debate para este lanzamiento** y luego, selecciona el menú desplegable de **Categoría** y haz clic en aquella que describa el debate de dicho lanzamiento. ![Casilla de verificación para crear un debate de lanzamiento y menú desplegable para elegir una categoría](/assets/images/help/releases/create-release-discussion.png)
+11. Opcionalmente, selecciona **Crear un debate para este lanzamiento** y luego, selecciona el menú desplegable de **Categoría** y haz clic en aquella que describa el debate de dicho lanzamiento. ![Casilla de verificación para crear un debate de lanzamiento y menú desplegable para elegir una categoría](/assets/images/2021/10/help/releases/create-release-discussion.png)
 {%- endif %}
-12. Si estás listo para publicitar tu lanzamiento, haz clic en **Publicar lanzamiento**. Para seguir trabajando luego en el lanzamiento, haz clic en **Guardar borrador**. ![Botones Publicar lanzamiento y Borrador de lanzamiento](/assets/images/help/releases/release_buttons.png)
+12. Si estás listo para publicitar tu lanzamiento, haz clic en **Publicar lanzamiento**. Para seguir trabajando luego en el lanzamiento, haz clic en **Guardar borrador**. ![Botones Publicar lanzamiento y Borrador de lanzamiento](/assets/images/2021/10/help/releases/release_buttons.png)
 
 
 ## Configurar las notas de lanzamiento generadas automáticamente
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
-3. En el campo de nombre de archivo, teclea `.github/release.yml` para crear el archivo `release.yml` en el directorio `.github`. ![Crear archivo nuevo](/assets/images/help/releases/release-yml.png)
+3. En el campo de nombre de archivo, teclea `.github/release.yml` para crear el archivo `release.yml` en el directorio `.github`. ![Crear archivo nuevo](/assets/images/2021/10/help/releases/release-yml.png)
 4. En el archivo, el utilizar las opciones de configuración siguientes, especificarán en YAML las etiquetas de solicitudes de cambio y los autores que quieras excluir de este lanzamiento. También puedes crear categorías nuevas y listar las etiquetas de la solicitud de cambios que se deben incluir en cada una de ellas.
 
 ### Opciones de configuración

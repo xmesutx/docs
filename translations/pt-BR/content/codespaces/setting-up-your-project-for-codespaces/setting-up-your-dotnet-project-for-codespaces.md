@@ -30,7 +30,7 @@ Este guia mostra como configurar seu projeto C# (.NET) em {% data variables.prod
 
 1. No nome do repositório, use o menu suspenso **Código de {% octicon "code" aria-label="The code icon" %}** e na aba **Codespaces** de código, clique em {% octicon "plus" aria-label="The plus icon" %} **Novo codespace**.
 
-  ![Botão de codespace novo](/assets/images/help/codespaces/new-codespace-button.png)
+  ![Botão de codespace novo](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   Se você não vir esta opção, significa que {% data variables.product.prodname_codespaces %} não está disponível para o seu projeto. Consulte [Acesso a {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) para mais informações.
 
@@ -49,9 +49,9 @@ Para configurar seu projeto com um contêiner personalizado, você deverá usar 
 
 
 {% data reusables.codespaces.command-palette-container %}
-2. Para este exemplo, clique em **C# (.NET)**. Se você precisar de funcionalidades adicionais, você poderá selecionar qualquer contêiner específico para o C# (.NET) ou uma combinação de ferramentas como C# (.NET) e MS SQL. ![Selecione a opção C# (.NET) na lista](/assets/images/help/codespaces/add-dotnet-prebuilt-container.png)
-3. Clique na versão recomendada do .NET. ![Seleção da versão .NET](/assets/images/help/codespaces/add-dotnet-version.png)
-4. Aceite a opção padrão para adicionar Node.js à sua personalização. ![Adicionar seleção de Node.js](/assets/images/help/codespaces/dotnet-options.png)
+2. Para este exemplo, clique em **C# (.NET)**. Se você precisar de funcionalidades adicionais, você poderá selecionar qualquer contêiner específico para o C# (.NET) ou uma combinação de ferramentas como C# (.NET) e MS SQL. ![Selecione a opção C# (.NET) na lista](/assets/images/2021/10/help/codespaces/add-dotnet-prebuilt-container.png)
+3. Clique na versão recomendada do .NET. ![Seleção da versão .NET](/assets/images/2021/10/help/codespaces/add-dotnet-version.png)
+4. Aceite a opção padrão para adicionar Node.js à sua personalização. ![Adicionar seleção de Node.js](/assets/images/2021/10/help/codespaces/dotnet-options.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### Anatomia do seu contêiner de desenvolvimento
@@ -171,7 +171,7 @@ Com o seu contêiner de desenvolvimento adicionado e um entendimento básico do 
 
 1. No Explorador, expanda a pasta `.devcontainer` e selecione o arquivo `devcontainer.json` a partir da árvore para abri-lo.
 
-  ![Arquivo devcontainer.json no Explorador](/assets/images/help/codespaces/devcontainers-options.png)
+  ![Arquivo devcontainer.json no Explorador](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. Atualize a sua lista de `extensões` no seu arquivo `devcontainer.json` para adicionar algumas extensões úteis ao trabalhar com o seu projeto.
 
@@ -195,7 +195,7 @@ Com o seu contêiner de desenvolvimento adicionado e um entendimento básico do 
 
 5. Verifique se suas alterações foram aplicadas com sucesso verificando se a extensão "Code Spell Checker" foi instalada.
 
-    ![Lista de extensões](/assets/images/help/codespaces/dotnet-extensions.png)
+    ![Lista de extensões](/assets/images/2021/10/help/codespaces/dotnet-extensions.png)
 
 ## Etapa 4: Execute o seu aplicativo
 
@@ -205,7 +205,7 @@ Na seção anterior, você usou o `postCreateCommand` para instalar um conjunto 
 
 2. Quando o seu projeto for iniciado, você deverá ver um alerta no canto inferior direito com uma instrução para conectar-se à porta que seu projeto usa.
 
-  ![Notificação de encaminhamento de porta](/assets/images/help/codespaces/python-port-forwarding.png)
+  ![Notificação de encaminhamento de porta](/assets/images/2021/10/help/codespaces/python-port-forwarding.png)
 
 ## Etapa 5: Faça commit das suas alterações
 

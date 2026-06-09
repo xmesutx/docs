@@ -32,12 +32,12 @@ Proprietários de organizações podem mudar a principal de qualquer equipe. Man
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. Na lista de equipes, clique no nome da equipe cuja principal você deseja alterar. ![Lista das equipes da organização](/assets/images/help/teams/click-team-name.png)
+4. Na lista de equipes, clique no nome da equipe cuja principal você deseja alterar. ![Lista das equipes da organização](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
-6. Use o menu suspenso para escolher uma equipe principal ou para remover uma principal existente e selecione **Clear selected value** (Limpar valor selecionado). ![Menu suspenso listando as equipes da organização](/assets/images/help/teams/choose-parent-team.png)
+6. Use o menu suspenso para escolher uma equipe principal ou para remover uma principal existente e selecione **Clear selected value** (Limpar valor selecionado). ![Menu suspenso listando as equipes da organização](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. Clique em **Atualizar**.
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. Clique em **Confirm new parent team** (Confirmar nova equipe principal). ![Caixa de diálogo modal com informações sobre as alterações nas permissões de acesso ao repositório](/assets/images/help/teams/confirm-new-parent-team.png)
+9. Clique em **Confirm new parent team** (Confirmar nova equipe principal). ![Caixa de diálogo modal com informações sobre as alterações nas permissões de acesso ao repositório](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## Leia mais
 

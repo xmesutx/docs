@@ -46,14 +46,14 @@ To unwatch (or unsubscribe from) repositories quickly, navigate to [github.com/w
 
 {% data reusables.notifications.access_notifications %}
 1. 通知インボックスから、サブスクライブ解除する通知を選択します。
-2. Click **Unsubscribe.** ![メインインボックスの [Unsubcribe] オプション](/assets/images/help/notifications-v2/unsubscribe-from-main-inbox.png)
+2. Click **Unsubscribe.** ![メインインボックスの [Unsubcribe] オプション](/assets/images/2021/10/help/notifications-v2/unsubscribe-from-main-inbox.png)
 
 ## サブスクリプションページで通知をサブスクライブ解除する
 
 {% data reusables.notifications.access_notifications %}
-1. 左側のサイドバーの、リポジトリリストの下にある [Manage notifications] ドロップダウンを使用して、[**Subscriptions**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/help/notifications-v2/manage-notifications-options.png)
+1. 左側のサイドバーの、リポジトリリストの下にある [Manage notifications] ドロップダウンを使用して、[**Subscriptions**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
-2. サブスクライブ解除する通知を選択します。 右上にある [**Unsubscribe**] をクリックします。 ![サブスクリプションページ](/assets/images/help/notifications-v2/unsubscribe-from-subscriptions-page.png)
+2. サブスクライブ解除する通知を選択します。 右上にある [**Unsubscribe**] をクリックします。 ![サブスクリプションページ](/assets/images/2021/10/help/notifications-v2/unsubscribe-from-subscriptions-page.png)
 
 ## Unwatching repositories
 
@@ -62,7 +62,7 @@ To unwatch (or unsubscribe from) repositories quickly, navigate to [github.com/w
 {% data reusables.notifications.access_notifications %}
 1. 左側のサイドバーの、リポジトリリストの下にある [Manage notifications] ドロップダウンを使用して、[**Watched repositories**] をクリックします。
 
-  ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/help/notifications-v2/manage-notifications-options.png)
+  ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
 2. Watch しているリポジトリのページで、Watchしているリポジトリを評価した後、次のいずれかを選択します。
 
@@ -73,10 +73,10 @@ To unwatch (or unsubscribe from) repositories quickly, navigate to [github.com/w
 {%- ifversion fpt or ghec or ghes > 3.3 or ghae-issue-5819 %}
 1. Optionally, to unsubscribe from all repositories owned by a given user or organization, select the **Unwatch all** dropdown and click the organization whose repositories you'd like to unsubscribe from. The button to unwatch all repositories is only available if you are watching all activity or custom notifications on over 10 repositories.
 
-   ![Screenshot of the Unwatch All button.](/assets/images/help/notifications-v2/unsubscribe-from-all-repos.png)
+   ![Screenshot of the Unwatch All button.](/assets/images/2022/01/help/notifications-v2/unsubscribe-from-all-repos.png)
 
    - Click **Unwatch** to confirm that you want to unwatch the repositories owned by the selected user or organization, or click **Cancel** to cancel.
 
-   ![Screenshot of the unwatch all confirmation dialogue.](/assets/images/help/notifications-v2/unwatch-repo-dialog.png)
+   ![Screenshot of the unwatch all confirmation dialogue.](/assets/images/2022/01/help/notifications-v2/unwatch-repo-dialog.png)
 
 {% endif %}

@@ -42,4 +42,4 @@ jobs:
         # ...deployment-specific steps
 ```
 
-![Workflow graph with URL](/assets/images/help/images/deploy-graph.png)
+![Workflow graph with URL](/assets/images/2021/10/help/images/deploy-graph.png)

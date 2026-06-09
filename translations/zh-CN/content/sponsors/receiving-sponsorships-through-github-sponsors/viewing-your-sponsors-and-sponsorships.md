@@ -45,7 +45,7 @@ shortTitle: 查看赞助者和赞助
 ## 查看您的赞助者和赞助
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
-1. （可选）要按等级过滤赞助者，请使用 **Filter（过滤）**下拉菜单，单击 **Active tiers（活动等级）**或 **Retired tiers（已撤销等级）**，然后选择一个等级。 ![按等级过滤的下拉菜单](/assets/images/help/sponsors/filter-drop-down.png)
+1. （可选）要按等级过滤赞助者，请使用 **Filter（过滤）**下拉菜单，单击 **Active tiers（活动等级）**或 **Retired tiers（已撤销等级）**，然后选择一个等级。 ![按等级过滤的下拉菜单](/assets/images/2021/10/help/sponsors/filter-drop-down.png)
 
 ## 查看最近的赞助活动
 
@@ -58,5 +58,5 @@ shortTitle: 查看赞助者和赞助
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.activity-tab %}
-1. 单击 {% octicon "download" aria-label="The download icon" %} **Export（导出）**。 ![导出按钮](/assets/images/help/sponsors/export-all.png)
-1. 选择您想导出的数据的时间范围和格式，然后单击 **Start export（开始导出）**。 ![数据导出选项](/assets/images/help/sponsors/export-your-sponsors.png)
+1. 单击 {% octicon "download" aria-label="The download icon" %} **Export（导出）**。 ![导出按钮](/assets/images/2021/10/help/sponsors/export-all.png)
+1. 选择您想导出的数据的时间范围和格式，然后单击 **Start export（开始导出）**。 ![数据导出选项](/assets/images/2021/10/help/sponsors/export-your-sponsors.png)

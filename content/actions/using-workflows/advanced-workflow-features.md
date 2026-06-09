@@ -180,9 +180,9 @@ You can configure environments with protection rules and secrets. Each job in a 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
 1. If your repository already has existing workflows: In the upper-left corner, click **New workflow**.
-  ![Create a new workflow](/assets/images/help/repository/actions-new-workflow.png)
+  ![Create a new workflow](/assets/images/2021/10/help/repository/actions-new-workflow.png)
 1. Under the name of the starter workflow you'd like to use, click **Set up this workflow**.
-  ![Set up this workflow](/assets/images/help/settings/actions-create-starter-workflow.png)
+  ![Set up this workflow](/assets/images/2021/10/help/settings/actions-create-starter-workflow.png)
 
 ## Next steps
 

@@ -28,8 +28,8 @@ O resumo da lista de métodos e funções é criado a partir destes tipos de arq
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista de pull requests, clique na pull request onde você quer localizar os métodos e funções modificados.
 {% data reusables.repositories.changed-files %}
-4. Para ver um resumo da lista das funções e métodos modificados, clique em **Jump to...** (Pular para..). ![Menu suspenso Jump to (Pular para)](/assets/images/help/pull_requests/jump-to-menu.png)
-5. Selecione a função ou método modificado no menu suspenso. Também é possível inserir o nome da função ou método para filtrar os resultados. ![Filtrar funções e métodos](/assets/images/help/pull_requests/filter-function-and-methods.png)
+4. Para ver um resumo da lista das funções e métodos modificados, clique em **Jump to...** (Pular para..). ![Menu suspenso Jump to (Pular para)](/assets/images/2021/10/help/pull_requests/jump-to-menu.png)
+5. Selecione a função ou método modificado no menu suspenso. Também é possível inserir o nome da função ou método para filtrar os resultados. ![Filtrar funções e métodos](/assets/images/2021/10/help/pull_requests/filter-function-and-methods.png)
 
  {% note %}
 
@@ -37,7 +37,7 @@ O resumo da lista de métodos e funções é criado a partir destes tipos de arq
 
  {% endnote %}
 
-6. Você será redirecionado à primeira linha da função ou método selecionado. ![visualizar função ou método em arquivos modificados](/assets/images/help/pull_requests/view-selected-function-or-method.png)
+6. Você será redirecionado à primeira linha da função ou método selecionado. ![visualizar função ou método em arquivos modificados](/assets/images/2021/10/help/pull_requests/view-selected-function-or-method.png)
 
 ## Leia mais
 

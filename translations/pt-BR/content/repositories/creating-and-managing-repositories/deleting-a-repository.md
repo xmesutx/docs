@@ -33,7 +33,7 @@ Alguns repositórios excluídos podem ser restaurados dentro de 90 dias de exclu
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-2. Em Danger Zone (Zona de perigo), clique em **Delete this repository** (Excluir este repositório). ![Botão Repository deletion (Exclusão de repositório)](/assets/images/help/repository/repo-delete.png)
+2. Em Danger Zone (Zona de perigo), clique em **Delete this repository** (Excluir este repositório). ![Botão Repository deletion (Exclusão de repositório)](/assets/images/2021/10/help/repository/repo-delete.png)
 3. **Leia os avisos**.
-4. Digite o nome do repositório que deseja excluir para verificar se está eliminando o correto. ![Etiquetagem de exclusão](/assets/images/help/repository/repo-delete-confirmation.png)
+4. Digite o nome do repositório que deseja excluir para verificar se está eliminando o correto. ![Etiquetagem de exclusão](/assets/images/2021/10/help/repository/repo-delete-confirmation.png)
 5. Clique em **I understand the consequences, delete this repository** (Entendi as consequências; exclua este repositório).

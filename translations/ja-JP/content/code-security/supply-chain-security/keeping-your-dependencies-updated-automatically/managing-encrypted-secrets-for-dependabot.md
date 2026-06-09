@@ -57,7 +57,7 @@ password: ${{secrets.MY_ARTIFACTORY_PASSWORD}}
 
    シークレットの名前が、Dependabot シークレットのページに一覧表示されます。 [**Update**] をクリックすると、シークレットの値を変更できます。 [**Remove**] をクリックすると、シークレットを削除できます。
 
-   ![リポジトリシークレットの更新または削除](/assets/images/help/dependabot/update-remove-repo-secret.png)
+   ![リポジトリシークレットの更新または削除](/assets/images/2021/10/help/dependabot/update-remove-repo-secret.png)
 
 ## {% data variables.product.prodname_dependabot %} に Organization シークレットを追加する
 
@@ -76,14 +76,14 @@ Organizationでシークレットを作成する場合、ポリシーを使用�
 1. [**Selected repositories**] を選択した場合、以下の手順に従います。
 
    * {% octicon "gear" aria-label="The Gear icon" %} をクリックします。
-   * このシークレットにアクセスできるリポジトリを選択します。 ![シークレットに対するリポジトリの選択](/assets/images/help/dependabot/secret-repository-access.png)
+   * このシークレットにアクセスできるリポジトリを選択します。 ![シークレットに対するリポジトリの選択](/assets/images/2021/10/help/dependabot/secret-repository-access.png)
    * [**Update selection**] をクリックします。
 
 1. [**Add secret（シークレットの追加）**] をクリックします。
 
    シークレットの名前が、Dependabot シークレットのページに一覧表示されます。 [**Update**] をクリックすると、シークレットの値やアクセスポリシーを変更できます。 [**Remove**] をクリックすると、シークレットを削除できます。
 
-   ![Organization シークレットの更新または削除](/assets/images/help/dependabot/update-remove-org-secret.png)
+   ![Organization シークレットの更新または削除](/assets/images/2021/10/help/dependabot/update-remove-org-secret.png)
 
 ## レジストリのIP許可リストへの{% data variables.product.prodname_dependabot %}の追加
 

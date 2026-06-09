@@ -25,7 +25,7 @@ Você pode adicionar cartões de problema ou pull request ao seu quadro de proje
 
 É possível colocar 2.500 cartões, no máximo, em cada coluna do projeto. Se uma coluna atingir o número máximo de cartões, nenhum cartão poderá ser movido para essa coluna.
 
-![Cursor move cartão de problema da barra lateral de triagem para a coluna do quadro de projeto](/assets/images/help/projects/add-card-from-sidebar.gif)
+![Cursor move cartão de problema da barra lateral de triagem para a coluna do quadro de projeto](/assets/images/2021/10/help/projects/add-card-from-sidebar.gif)
 
 {% note %}
 
@@ -40,8 +40,8 @@ Você pode adicionar cartões de problema ou pull request ao seu quadro de proje
 ## Adicionar problemas e pull requests a um quadro de projeto
 
 1. Navegue até o quadro de projeto onde deseja adicionar problemas e pull requests.
-2. No quadro de projeto, clique em {% octicon "plus" aria-label="The plus icon" %} **Add cards** (Adicionar cartões). ![Botão Add cards (Adicionar cartões)](/assets/images/help/projects/add-cards-button.png)
-3. Pesquise problemas e pull requests para adicionar ao quadro de projeto usando qualificadores de pesquisa. Para obter mais informações sobre qualificadores de pesquisa que você pode usar, consulte [Pesquisar problemas](/articles/searching-issues)". ![Pesquisar problemas e pull requests](/assets/images/help/issues/issues_search_bar.png)
+2. No quadro de projeto, clique em {% octicon "plus" aria-label="The plus icon" %} **Add cards** (Adicionar cartões). ![Botão Add cards (Adicionar cartões)](/assets/images/2021/10/help/projects/add-cards-button.png)
+3. Pesquise problemas e pull requests para adicionar ao quadro de projeto usando qualificadores de pesquisa. Para obter mais informações sobre qualificadores de pesquisa que você pode usar, consulte [Pesquisar problemas](/articles/searching-issues)". ![Pesquisar problemas e pull requests](/assets/images/2021/10/help/issues/issues_search_bar.png)
 
   {% tip %}
 
@@ -60,11 +60,11 @@ Você pode adicionar cartões de problema ou pull request ao seu quadro de proje
 
 ## Adicionar problemas e pull request a um quadro de projeto da barra lateral
 
-1. No lado direito de um problema ou uma pull request, clique em **Projects (Projetos) {% octicon "gear" aria-label="The Gear icon" %}**. ![Botão Project board (Quadro de projeto) na barra lateral](/assets/images/help/projects/sidebar-project.png)
-2. Clique na aba **Recent** (Recente), **Repository** (Repositório), **User** (Usuário) ou **Organization** (Organização) do quadro de projeto ao qual deseja adicionar. ![Guias Recent (Recente), Repository (Repositório) e Organization (Organização)](/assets/images/help/projects/sidebar-project-tabs.png)
-3. Digite o nome do projeto no campo **Filter projects** (Filtrar projetos). ![Caixa de pesquisa Project board (Quadro de projeto)](/assets/images/help/projects/sidebar-search-project.png)
-4. Selecione um ou mais quadros de projeto ao qual você deseja adicionar o problema ou pull request. ![Quadro de projeto selecionado](/assets/images/help/projects/sidebar-select-project.png)
-5. Clique em {% octicon "triangle-down" aria-label="The down triangle icon" %} e depois na coluna onde você quer seu problema ou pull request. O cartão irá para a parte inferior da coluna do quadro de projeto que você selecionou. ![Menu Move card to column (Mover cartão para coluna)](/assets/images/help/projects/sidebar-select-project-board-column-menu.png)
+1. No lado direito de um problema ou uma pull request, clique em **Projects (Projetos) {% octicon "gear" aria-label="The Gear icon" %}**. ![Botão Project board (Quadro de projeto) na barra lateral](/assets/images/2021/10/help/projects/sidebar-project.png)
+2. Clique na aba **Recent** (Recente), **Repository** (Repositório), **User** (Usuário) ou **Organization** (Organização) do quadro de projeto ao qual deseja adicionar. ![Guias Recent (Recente), Repository (Repositório) e Organization (Organização)](/assets/images/2021/10/help/projects/sidebar-project-tabs.png)
+3. Digite o nome do projeto no campo **Filter projects** (Filtrar projetos). ![Caixa de pesquisa Project board (Quadro de projeto)](/assets/images/2021/10/help/projects/sidebar-search-project.png)
+4. Selecione um ou mais quadros de projeto ao qual você deseja adicionar o problema ou pull request. ![Quadro de projeto selecionado](/assets/images/2021/10/help/projects/sidebar-select-project.png)
+5. Clique em {% octicon "triangle-down" aria-label="The down triangle icon" %} e depois na coluna onde você quer seu problema ou pull request. O cartão irá para a parte inferior da coluna do quadro de projeto que você selecionou. ![Menu Move card to column (Mover cartão para coluna)](/assets/images/2021/10/help/projects/sidebar-select-project-board-column-menu.png)
 
 ## Leia mais
 

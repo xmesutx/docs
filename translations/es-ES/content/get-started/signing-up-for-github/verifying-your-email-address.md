@@ -45,8 +45,8 @@ Si no verificas tu dirección de correo electrónico, no podrás hacer lo siguie
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
-1. Debajo de tu dirección de correo electrónico, da clic en **Reenviar correo de verificación**. ![Reenviar enlace de verificación por correo electrónico](/assets/images/help/settings/email-verify-button.png)
-4. {% data variables.product.prodname_dotcom %} te enviará un correo electrónico con un enlace. Después de hacer clic en el enlace, se te llevará a tu tablero {% data variables.product.prodname_dotcom %} y verás un mensaje emergente de confirmación. ![Mensaje emergente que confirma que se verificó tu correo electrónico](/assets/images/help/settings/email-verification-confirmation-banner.png)
+1. Debajo de tu dirección de correo electrónico, da clic en **Reenviar correo de verificación**. ![Reenviar enlace de verificación por correo electrónico](/assets/images/2021/10/help/settings/email-verify-button.png)
+4. {% data variables.product.prodname_dotcom %} te enviará un correo electrónico con un enlace. Después de hacer clic en el enlace, se te llevará a tu tablero {% data variables.product.prodname_dotcom %} y verás un mensaje emergente de confirmación. ![Mensaje emergente que confirma que se verificó tu correo electrónico](/assets/images/2021/10/help/settings/email-verification-confirmation-banner.png)
 
 ## Solución de problemas de verificación de correo electrónico
 

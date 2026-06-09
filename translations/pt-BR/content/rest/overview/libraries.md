@@ -14,7 +14,7 @@ topics:
 ---
 
 <div class="jumbotron libraries-jumbotron">
-  <img src="/assets/images/gundamcat.png" class="gundamcat" alt="O Gundamcat" />
+  <img src="/assets/images/2021/10/gundamcat.png" class="gundamcat" alt="O Gundamcat" />
   <h1>O Octokit tem muitos sabores</h1>
   <p class="lead">Use a biblioteca oficial do Octokit ou escolha entre qualquer uma das bibliotecas de terceiros disponíveis.</p>
   <div class="octokit-links"><br/>

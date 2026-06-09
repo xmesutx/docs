@@ -27,15 +27,15 @@ shortTitle: Manage from your inbox
 
 To access your notifications inbox, in the upper-right corner of any page, click {% octicon "bell" aria-label="The notifications bell" %}.
 
-  ![Notification indicating any unread message](/assets/images/help/notifications/notifications_general_existence_indicator.png)
+  ![Notification indicating any unread message](/assets/images/2021/10/help/notifications/notifications_general_existence_indicator.png)
 
 Your inbox shows all of the notifications that you haven't unsubscribed to or marked as **Done.** You can customize your inbox to best suit your workflow using filters, viewing all or just unread notifications, and grouping your notifications to get a quick overview.
 
-  ![inbox view](/assets/images/help/notifications-v2/inbox-view.png)
+  ![inbox view](/assets/images/2021/10/help/notifications-v2/inbox-view.png)
 
 By default, your inbox will show read and unread notifications. To only see unread notifications, click **Unread** or use the `is:unread` query.
 
-  ![unread inbox view](/assets/images/help/notifications-v2/unread-inbox-view.png)
+  ![unread inbox view](/assets/images/2021/10/help/notifications-v2/unread-inbox-view.png)
 
 ## Triaging options
 
@@ -57,13 +57,13 @@ Before choosing a triage option, you can preview your notification's details fir
 
 To triage multiple notifications at once, select the relevant notifications and use the {% octicon "kebab-horizontal" aria-label="The edit icon" %} drop-down to choose a triage option.
 
-![Drop-down menu with triage options and selected notifications](/assets/images/help/notifications-v2/triage-multiple-notifications-together.png)
+![Drop-down menu with triage options and selected notifications](/assets/images/2021/10/help/notifications-v2/triage-multiple-notifications-together.png)
 
 ## Default notification filters
 
 By default, your inbox has filters for when you are assigned, participating in a thread, requested to review a pull request, or when your username is @mentioned directly or a team you're a member of is @mentioned.
 
-  ![Default custom filters](/assets/images/help/notifications-v2/default-filters.png)
+  ![Default custom filters](/assets/images/2021/10/help/notifications-v2/default-filters.png)
 
 ## Customizing your inbox with custom filters
 
@@ -80,7 +80,7 @@ You can add up to 15 of your own custom filters.
 
 3. Add a name for your filter and a filter query. For example, to only see notifications for a specific repository, you can create a filter using the query `repo:octocat/open-source-project-name reason:participating`. You can also add emojis with a native emoji keyboard. For a list of supported search queries, see "[Supported queries for custom filters](#supported-queries-for-custom-filters)."
 
-  ![Custom filter example](/assets/images/help/notifications-v2/custom-filter-example.png)
+  ![Custom filter example](/assets/images/2021/10/help/notifications-v2/custom-filter-example.png)
 
 4. Click **Create**.
 

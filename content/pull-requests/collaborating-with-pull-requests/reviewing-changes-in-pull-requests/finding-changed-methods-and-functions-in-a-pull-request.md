@@ -28,9 +28,9 @@ The summary list of methods and functions is created from these supported file t
 2. In the list of pull requests, click the pull request where you'd like to find the changed functions and methods.
 {% data reusables.repositories.changed-files %}
 4. To see a summary list of the changed functions and methods, click **Jump to...**.
-![Jump to drop-down menu](/assets/images/help/pull_requests/jump-to-menu.png)
+![Jump to drop-down menu](/assets/images/2021/10/help/pull_requests/jump-to-menu.png)
 5. Select the changed function or method from the drop-down menu. You can also enter the name of the function or method to filter results.
-  ![Filter function and methods](/assets/images/help/pull_requests/filter-function-and-methods.png)
+  ![Filter function and methods](/assets/images/2021/10/help/pull_requests/filter-function-and-methods.png)
 
  {% note %}
 
@@ -39,7 +39,7 @@ The summary list of methods and functions is created from these supported file t
  {% endnote %}
 
 6. You'll be redirected to the first line of the function or method you selected.
- ![view function or method in files changed](/assets/images/help/pull_requests/view-selected-function-or-method.png)
+ ![view function or method in files changed](/assets/images/2021/10/help/pull_requests/view-selected-function-or-method.png)
 
 ## Further reading
 

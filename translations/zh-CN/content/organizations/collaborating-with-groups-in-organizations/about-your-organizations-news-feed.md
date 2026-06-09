@@ -23,6 +23,6 @@ shortTitle: 组织消息馈送
 
 1. {% data variables.product.signin_link %} 到 {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} 上的帐户。
 2. 打开 {% data reusables.user-settings.personal_dashboard %}。
-3. 单击页面左上角的帐户上下文切换器。 ![Enterprise 中的上下文切换器按钮](/assets/images/help/organizations/account_context_switcher.png)
-4. 从下拉菜单中选择组织。{% ifversion fpt or ghec %} ![Context switcher menu in dotcom](/assets/images/help/organizations/account-context-switcher-selected-dotcom.png){% else %}
-![Context switcher menu in Enterprise](/assets/images/help/organizations/account_context_switcher.png){% endif %}
+3. 单击页面左上角的帐户上下文切换器。 ![Enterprise 中的上下文切换器按钮](/assets/images/2021/10/help/organizations/account_context_switcher.png)
+4. 从下拉菜单中选择组织。{% ifversion fpt or ghec %} ![Context switcher menu in dotcom](/assets/images/2021/10/help/organizations/account-context-switcher-selected-dotcom.png){% else %}
+![Context switcher menu in Enterprise](/assets/images/2021/10/help/organizations/account_context_switcher.png){% endif %}

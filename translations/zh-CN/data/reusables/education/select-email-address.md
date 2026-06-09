@@ -1,4 +1,4 @@
-1. 选择或添加用于学校的电子邮件地址。 ![选择电子邮件地址](/assets/images/help/education/select-email-address.png)
+1. 选择或添加用于学校的电子邮件地址。 ![选择电子邮件地址](/assets/images/2021/10/help/education/select-email-address.png)
 
     {% tip %}
 

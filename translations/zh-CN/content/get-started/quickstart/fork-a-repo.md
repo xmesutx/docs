@@ -57,7 +57,7 @@ topics:
 您可能为了对上游或原始仓库提议更改而复刻项目。 在这种情况下，最好定期将您的复刻与上游仓库同步。 为此，您需要在命令行上使用 Git。 您可以使用刚才复刻的 [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) 仓库练习设置上游仓库。
 
 1. 在 {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom_the_website %}{% else %}{% data variables.product.product_location %}{% endif %} 上，导航到 [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) 存储库。
-2. 在页面的右上角，单击 **Fork（复刻）**。 ![复刻按钮](/assets/images/help/repository/fork_button.jpg)
+2. 在页面的右上角，单击 **Fork（复刻）**。 ![复刻按钮](/assets/images/2021/10/help/repository/fork_button.jpg)
 
 {% endwebui %}
 

@@ -3,5 +3,5 @@
 {% else  %}
 1. 左のサイドバーで**Organization security（Organizationのセキュリティ）**をクリックしてください。
 
- ![Organizationのセキュリティ設定](/assets/images/help/organizations/org-security-settings-tab.png)
+ ![Organizationのセキュリティ設定](/assets/images/2021/10/help/organizations/org-security-settings-tab.png)
 {% endif %}

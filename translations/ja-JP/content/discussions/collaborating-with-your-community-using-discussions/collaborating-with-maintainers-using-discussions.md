@@ -19,7 +19,7 @@ Repository administrators and project maintainers can delete a discussion. 詳�
 
 {% data reusables.discussions.github-recognizes-members %} これらのメンバーは、プロジェクトのディスカッションに最も役立つコントリビューターのリストに表示されます。 プロジェクトが成長するにつれて、コミュニティのアクティブなメンバーにより高いアクセス許可を付与できます。 詳しい情報については、「[上位貢献者により高いアクセス許可を付与する](/discussions/guides/granting-higher-permissions-to-top-contributors) 」を参照してください。
 
-![プロジェクトのディスカッションに最も役立つ貢献者](/assets/images/help/discussions/most-helpful.png)
+![プロジェクトのディスカッションに最も役立つ貢献者](/assets/images/2021/10/help/discussions/most-helpful.png)
 
 ディスカッションへの参加に関する詳しい情報については、「[ディスカッションに参加する](/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)」を参照してください。
 
@@ -37,8 +37,8 @@ To collaborate with maintainers in discussions, a repository administrator or pr
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. [**Search all discussions**] フィールドに、検索クエリを入力します。 必要に応じて、検索フィールドの右側にあるボタンをクリックして、結果をさらにフィルタします。 ![ディスカッションをフィルタするための検索バーとボタン](/assets/images/help/discussions/search-and-filter-controls.png)
-1. ディスカッションのリストで、表示するディスカッションをクリックします。 ![ディスカッション検索結果](/assets/images/help/discussions/search-result.png)
+1. [**Search all discussions**] フィールドに、検索クエリを入力します。 必要に応じて、検索フィールドの右側にあるボタンをクリックして、結果をさらにフィルタします。 ![ディスカッションをフィルタするための検索バーとボタン](/assets/images/2021/10/help/discussions/search-and-filter-controls.png)
+1. ディスカッションのリストで、表示するディスカッションをクリックします。 ![ディスカッション検索結果](/assets/images/2021/10/help/discussions/search-result.png)
 
 ## Issue をディスカッションに変換する
 

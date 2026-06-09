@@ -40,11 +40,11 @@ Para configurar o provisionamento para o seu {% data variables.product.prodname_
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.personal_access_tokens %}
 {% data reusables.user-settings.generate_new_token %}
-1. Em **Observação**, dê ao seu token um nome descritivo. ![Captura de tela que mostra o nome do token](/assets/images/help/enterprises/emu-pat-name.png)
-1. Selecione o menu suspenso **Expiração** e, em seguida, clique **Sem vencimento**. ![Captura de tela que mostra o vencimento do token definido como sem vencimento](/assets/images/help/enterprises/emu-pat-no-expiration.png)
-1. Selecione o escopo **admin:enterprise**. ![Captura de tela que mostra o escopo admin:enterprise](/assets/images/help/enterprises/enterprise-pat-scope.png)
-1. Clique em **Generate token** (Gerar token). ![Botão Generate token (Gerar token)](/assets/images/help/settings/generate_token.png)
-1. Para copiar o token para a área de transferência, clique no {% octicon "paste" aria-label="The copy icon" %}. ![Token recém-criado](/assets/images/help/settings/personal_access_tokens.png)
+1. Em **Observação**, dê ao seu token um nome descritivo. ![Captura de tela que mostra o nome do token](/assets/images/2021/10/help/enterprises/emu-pat-name.png)
+1. Selecione o menu suspenso **Expiração** e, em seguida, clique **Sem vencimento**. ![Captura de tela que mostra o vencimento do token definido como sem vencimento](/assets/images/2021/10/help/enterprises/emu-pat-no-expiration.png)
+1. Selecione o escopo **admin:enterprise**. ![Captura de tela que mostra o escopo admin:enterprise](/assets/images/2021/10/help/enterprises/enterprise-pat-scope.png)
+1. Clique em **Generate token** (Gerar token). ![Botão Generate token (Gerar token)](/assets/images/2021/10/help/settings/generate_token.png)
+1. Para copiar o token para a área de transferência, clique no {% octicon "paste" aria-label="The copy icon" %}. ![Token recém-criado](/assets/images/2021/10/help/settings/personal_access_tokens.png)
 2. Para salvar o token para usar mais tarde, armazene o novo token de forma segura em um gerenciador de senhas.
 
 ## Configurando provisionamento para {% data variables.product.prodname_emus %}

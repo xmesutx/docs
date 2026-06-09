@@ -29,7 +29,7 @@ To offer a paid plan for your app, your app must be owned by an organization tha
 
 If your app is already published with a paid plan and you're a verified publisher, then you can publish a new paid plan from the "Edit a pricing plan" page in your Marketplace app listing settings. 
 
-![Publish this plan button](/assets/images/marketplace/publish-this-plan-button.png)
+![Publish this plan button](/assets/images/2021/10/marketplace/publish-this-plan-button.png)
 
 If your app is already published with a paid plan and but you are not a verified publisher, then you can cannot publish a new paid plan until you are a verified publisher. For more information about becoming a verified publisher, see "[Applying for publisher verification for your organization](/developers/github-marketplace/applying-for-publisher-verification-for-your-organization)."
 
@@ -68,7 +68,7 @@ When you click **New draft plan**, you'll see a form that allows you to customiz
 
 If a pricing plan for your {% data variables.product.prodname_marketplace %} listing is no longer needed, or if you need to adjust pricing details, you can remove it.
 
-![Button to remove your pricing plan](/assets/images/marketplace/marketplace_remove_this_plan.png)
+![Button to remove your pricing plan](/assets/images/2021/10/marketplace/marketplace_remove_this_plan.png)
 
 Once you publish a pricing plan for an app that is already listed in {% data variables.product.prodname_marketplace %}, you can't make changes to the plan. Instead, you'll need to remove the pricing plan and create a new plan. Customers who already purchased the removed pricing plan will continue to use it until they opt out and move onto a new pricing plan. For more on pricing plans, see "[{% data variables.product.prodname_marketplace %} pricing plans](/marketplace/selling-your-app/github-marketplace-pricing-plans/)."
 

@@ -48,7 +48,7 @@ shortTitle: 管理团队同步
 
 您的 SAML 设置**必须**包含**颁发者**字段的有效 IdP URL。
 
-![SAML 颁发者字段](/assets/images/help/saml/saml_issuer.png)
+![SAML 颁发者字段](/assets/images/2021/10/help/saml/saml_issuer.png)
 
 
 
@@ -62,7 +62,7 @@ shortTitle: 管理团队同步
 {% data reusables.identity-and-permissions.team-sync-confirm-saml %}
 {% data reusables.identity-and-permissions.enable-team-sync-azure %}
 {% data reusables.identity-and-permissions.team-sync-confirm %}
-6. 查看要与组织连接的身份提供程序租户信息，然后单击 **Approve（批准）**。 ![启用特定 IdP 租户团队同步且含有批准或取消请求选项的待处理请求](/assets/images/help/teams/approve-team-synchronization.png)
+6. 查看要与组织连接的身份提供程序租户信息，然后单击 **Approve（批准）**。 ![启用特定 IdP 租户团队同步且含有批准或取消请求选项的待处理请求](/assets/images/2021/10/help/teams/approve-team-synchronization.png)
 
 ### 为 Okta 启用团队同步
 
@@ -83,8 +83,8 @@ Okta 团队同步要求已为您的组织设置了具有 Okta 的 SAML 和 SCIM�
 {% data reusables.identity-and-permissions.team-sync-confirm-scim %}
 1. 请考虑在组织中强制实施 SAML，以确保组织成员链接其 SAML 和 SCIM 身份。 更多信息请参阅“[对组织实施 SAML 单点登录](/organizations/managing-saml-single-sign-on-for-your-organization/enforcing-saml-single-sign-on-for-your-organization)”。
 {% data reusables.identity-and-permissions.enable-team-sync-okta %}
-7. 在组织名称下，输入有效的 SSWS 令牌和 Okta 实例的 URL。 ![启用团队同步 Okta 组织表单](/assets/images/help/teams/confirm-team-synchronization-okta-organization.png)
-6. 查看要与组织连接的身份提供程序租户信息，然后单击 **Create（创建）**。 ![启用团队同步创建按钮](/assets/images/help/teams/confirm-team-synchronization-okta.png)
+7. 在组织名称下，输入有效的 SSWS 令牌和 Okta 实例的 URL。 ![启用团队同步 Okta 组织表单](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta-organization.png)
+6. 查看要与组织连接的身份提供程序租户信息，然后单击 **Create（创建）**。 ![启用团队同步创建按钮](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta.png)
 
 ## 禁用团队同步
 
@@ -93,4 +93,4 @@ Okta 团队同步要求已为您的组织设置了具有 Okta 的 SAML 和 SCIM�
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-5. 在“Team synchronization（团队同步）”下，单击 **Disable team synchronization（禁用团队同步）**。 ![禁用团队同步](/assets/images/help/teams/disable-team-synchronization.png)
+5. 在“Team synchronization（团队同步）”下，单击 **Disable team synchronization（禁用团队同步）**。 ![禁用团队同步](/assets/images/2021/10/help/teams/disable-team-synchronization.png)

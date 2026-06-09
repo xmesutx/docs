@@ -36,7 +36,7 @@ For information about renewing your {% data variables.product.prodname_student_p
 
 {% data reusables.education.benefits-page %}
 3. Under "Which best describes your academic status?", select **Student**.
-  ![Select academic status](/assets/images/help/education/academic-status-student.png)
+  ![Select academic status](/assets/images/2021/10/help/education/academic-status-student.png)
 {% data reusables.education.select-email-address %}
 {% data reusables.education.upload-proof-status %}
 {% data reusables.education.school-name %}
@@ -47,7 +47,7 @@ For information about renewing your {% data variables.product.prodname_student_p
 
 Once your {% data variables.product.prodname_student_pack %} access expires, you may reapply if you're still eligible, although some of our partner offers cannot renew. Most of the timed offers from our partners start once you set them up. To reapply, simply return to https://education.github.com, click your profile picture, then click **Reverify your academic affiliation**.
 
-![Menu option to reverify your academic affiliation](/assets/images/help/education/reverify-academic-affiliation.png)
+![Menu option to reverify your academic affiliation](/assets/images/2022/02/help/education/reverify-academic-affiliation.png)
 
 For more information, see the [{% data variables.product.prodname_student_pack %}](https://education.github.com/pack) page.
 

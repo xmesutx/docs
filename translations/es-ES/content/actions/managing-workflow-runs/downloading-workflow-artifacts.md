@@ -24,7 +24,7 @@ Predeterminadamente, {% data variables.product.product_name %} almacena las bit�
 {% data reusables.repositories.view-run %}
 1. Debajo de **Artefactos**, da clic en aquél que quieras descargar.
 
-    ![Menú desplegable Download artifact (Descargar artefacto)](/assets/images/help/repository/artifact-drop-down-updated.png)
+    ![Menú desplegable Download artifact (Descargar artefacto)](/assets/images/2021/10/help/repository/artifact-drop-down-updated.png)
 
 
 {% endwebui %}

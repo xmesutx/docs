@@ -21,8 +21,8 @@ Por padrão, integrantes da organização com acesso de leitura podem criar disc
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. Em "Discussões do repositório, selecione ou desmarque **Permitir que os usuários com acesso de leitura criem discussões**. ![Caixa de seleção para permitir que pessoas com acesso de leitura criem discussões](/assets/images/help/discussions/toggle-allow-users-with-read-access-checkbox.png)
-6. Clique em **Salvar**. ![Botão "Salvar" para configurações de discussões](/assets/images/help/discussions/click-save.png)
+5. Em "Discussões do repositório, selecione ou desmarque **Permitir que os usuários com acesso de leitura criem discussões**. ![Caixa de seleção para permitir que pessoas com acesso de leitura criem discussões](/assets/images/2021/10/help/discussions/toggle-allow-users-with-read-access-checkbox.png)
+6. Clique em **Salvar**. ![Botão "Salvar" para configurações de discussões](/assets/images/2021/10/help/discussions/click-save.png)
 
 ## Leia mais
 

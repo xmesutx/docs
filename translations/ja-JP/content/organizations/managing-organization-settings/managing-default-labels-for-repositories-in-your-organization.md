@@ -25,7 +25,7 @@ Organizationのオーナーは、Organization のリポジトリのデフォル�
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.repository-defaults %}
 
-5. [Repository labels] で、[**New label**] をクリックします。 ![[New label] ボタン](/assets/images/help/organizations/new-label-button.png)
+5. [Repository labels] で、[**New label**] をクリックします。 ![[New label] ボタン](/assets/images/2021/10/help/organizations/new-label-button.png)
 {% data reusables.project-management.name-label %}
 {% data reusables.project-management.label-description %}
 {% data reusables.project-management.label-color-randomizer %}

@@ -22,7 +22,7 @@ shortTitle: Comparar branches
 
 {% endnote %}
 
-É possível exibir alterações propostas em uma pull request na aba Arquivos alterados. ![Guia Files changed (Arquivos alterados) da pull request](/assets/images/help/pull_requests/pull-request-tabs-changed-files.png)
+É possível exibir alterações propostas em uma pull request na aba Arquivos alterados. ![Guia Files changed (Arquivos alterados) da pull request](/assets/images/2021/10/help/pull_requests/pull-request-tabs-changed-files.png)
 
 Em vez de exibir os commits em si, você pode ver as alterações propostas como elas aparecerão nos arquivos assim que a pull request passar pelo merge. Os arquivos aparecem em ordem alfabética na guia Files changed (Arquivos alterados). As adições aos arquivos aparecem em verde e são precedidas por um sinal de `+`, enquanto o conteúdo que foi removido aparece em vermelho e é precedido por um sinal de `-`.
 
@@ -42,11 +42,11 @@ Há várias opções de exibição de um diff:
 
 Também é possível optar por ignorar alterações de espaço em branco para obter uma exibição mais precisa das alterações importantes em uma pull request.
 
-![Menu de opções para exibição de diff](/assets/images/help/pull_requests/diff-settings-menu.png)
+![Menu de opções para exibição de diff](/assets/images/2021/10/help/pull_requests/diff-settings-menu.png)
 
 Para simplificar a revisão das alterações em um pull request extenso, é possível filtrar o diff para mostrar apenas os tipos de arquivo selecionados, mostrar arquivos dos quais você é CODEOWNER, ocultar arquivos que você já visualizou ou ocultar arquivos excluídos. Para obter mais informações, consulte "[Filtrar aquivos em uma pull request por tipo de arquivo](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/filtering-files-in-a-pull-request)".
 
-  ![Menu suspenso File filter (Filtro de arquivo)](/assets/images/help/pull_requests/file-filter-menu.png)
+  ![Menu suspenso File filter (Filtro de arquivo)](/assets/images/2021/10/help/pull_requests/file-filter-menu.png)
 
 ## Comparações de diff do Git de três pontos e dois pontos
 

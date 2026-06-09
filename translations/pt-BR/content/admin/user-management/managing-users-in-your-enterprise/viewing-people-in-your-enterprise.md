@@ -23,7 +23,7 @@ Você pode ver os proprietários corporativos {% ifversion ghec %} e gerentes de
 {% data reusables.enterprise-accounts.people-tab %}
 {% data reusables.enterprise-accounts.administrators-tab %}
 {% ifversion ghec %}1. Opcionalmente, para ver uma lista de convites pendentes, clique em **_NÚMERO_ pendente**.
-  ![Botão "NÚMERO pendente" à direita das opções de pesquisa e filtro](/assets/images/help/enterprises/administrators-pending.png){% endif %}
+  ![Botão "NÚMERO pendente" à direita das opções de pesquisa e filtro](/assets/images/2021/10/help/enterprises/administrators-pending.png){% endif %}
 
 ## Exibir integrantes e colaboradores externos
 
@@ -33,9 +33,9 @@ Você pode visualizar {% ifversion ghec %}todas as organizações de {% data var
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. Como alternativa, clique em **Outside collaborators** (Colaboradores externos) para exibir uma lista deles em vez de uma lista de integrantes. ![Guia Outside collaborators (Colaboradores externos) na página Organization members (Integrantes da organização)](/assets/images/help/business-accounts/outside-collaborators-tab.png)
+1. Como alternativa, clique em **Outside collaborators** (Colaboradores externos) para exibir uma lista deles em vez de uma lista de integrantes. ![Guia Outside collaborators (Colaboradores externos) na página Organization members (Integrantes da organização)](/assets/images/2021/10/help/business-accounts/outside-collaborators-tab.png)
 {% ifversion ghec %}1. Opcionalmente, para ver uma lista de convites pendentes, clique em **_NÚMERO_ pendente**.
-  ![Botão "NÚMERO pendente" à direita das opções de pesquisa e filtro](/assets/images/help/enterprises/members-pending.png){% endif %}
+  ![Botão "NÚMERO pendente" à direita das opções de pesquisa e filtro](/assets/images/2021/10/help/enterprises/members-pending.png){% endif %}
 
 {% ifversion ghec %}
 
@@ -45,7 +45,7 @@ Se sua empresa usa {% data variables.product.prodname_emus %}, você também pod
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. Para ver uma lista de integrantes suspensos, acima da lista de integrantes ativos, clique em **Suspensos**. ![Captura de tela que mostra a opção "Suspenso"](/assets/images/help/enterprises/view-suspended-members.png)
+1. Para ver uma lista de integrantes suspensos, acima da lista de integrantes ativos, clique em **Suspensos**. ![Captura de tela que mostra a opção "Suspenso"](/assets/images/2022/01/help/enterprises/view-suspended-members.png)
 
 {% endif %}
 

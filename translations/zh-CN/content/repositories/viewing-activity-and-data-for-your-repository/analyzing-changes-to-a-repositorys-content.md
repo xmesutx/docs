@@ -29,17 +29,17 @@ shortTitle: 分析更改
 
 顶部的图表按周显示整年的提交。
 
-![仓库提交年图](/assets/images/help/graphs/repo_commit_activity_year_graph.png)
+![仓库提交年图](/assets/images/2021/10/help/graphs/repo_commit_activity_year_graph.png)
 
 底部图表显示所选周按星期几的平均提交数。
 
-![仓库提交周图](/assets/images/help/graphs/repo_commit_activity_week_graph.png)
+![仓库提交周图](/assets/images/2021/10/help/graphs/repo_commit_activity_week_graph.png)
 
 ### 访问提交图
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 在左侧边栏中，单击 **Commits（提交）**。 ![提交选项卡](/assets/images/help/graphs/commits_tab.png)
+3. 在左侧边栏中，单击 **Commits（提交）**。 ![提交选项卡](/assets/images/2021/10/help/graphs/commits_tab.png)
 
 ## 可视化仓库内容的添加和删除
 
@@ -47,7 +47,7 @@ shortTitle: 分析更改
 
 {% ifversion fpt or ghec %}
 
-![代码频率图](/assets/images/help/graphs/repo_code_frequency_graph_dotcom.png)
+![代码频率图](/assets/images/2021/10/help/graphs/repo_code_frequency_graph_dotcom.png)
 
 {% endif %}
 
@@ -55,4 +55,4 @@ shortTitle: 分析更改
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 在左侧边栏中，单击 **Code frequency（代码频率）**。 ![代码频率选项卡](/assets/images/help/graphs/code_frequency_tab.png)
+3. 在左侧边栏中，单击 **Code frequency（代码频率）**。 ![代码频率选项卡](/assets/images/2021/10/help/graphs/code_frequency_tab.png)

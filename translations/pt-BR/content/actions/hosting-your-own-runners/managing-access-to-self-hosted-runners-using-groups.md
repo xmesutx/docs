@@ -66,7 +66,7 @@ Ao criar um grupo, você deverá escolher uma política que defina quais reposit
 {% data reusables.actions.settings-sidebar-actions-runners %}
 1. Em {% ifversion ghes > 3.1 or ghae %}"Executores"{% elsif ghes < 3.2 %}"Executores auto-hospedados"{% endif %}, clique em **Adicionar novo** e, em seguida, **Novo grupo**.
 
-    ![Adicionar grupo de executor](/assets/images/help/settings/actions-org-add-runner-group.png)
+    ![Adicionar grupo de executor](/assets/images/2021/10/help/settings/actions-org-add-runner-group.png)
 1. Insira um nome para o seu grupo de executor e atribua uma política para acesso ao repositório.
 
    É possível configurar o grupo de um executor para ser acessível a uma lista específica de repositórios ou a todos os repositórios na organização.{% ifversion ghec or ghes %} Por padrão, apenas repositórios privados podem acessar executores no grupo do executor, mas você pode substituir isso. Esta configuração não pode ser substituída se configurar o grupo de executores da organização que foi compartilhado por uma empresa.{% endif %}
@@ -83,7 +83,7 @@ Ao criar um grupo, você deverá escolher uma política que defina quais reposit
    {% endwarning %}
    {%- endif %}
 
-   ![Adicionar opções de grupo de executores](/assets/images/help/settings/actions-org-add-runner-group-options.png)
+   ![Adicionar opções de grupo de executores](/assets/images/2021/10/help/settings/actions-org-add-runner-group-options.png)
 1. Clique em **Salvar grupo** para criar o grupo e aplicar a política.
 {% endif %}
 
@@ -111,10 +111,10 @@ Ao criar um grupo, você deve escolher uma política que defina quais organizaç
    {%- endif %}
    {%- ifversion ghec or ghes %}
 
-   ![Adicionar opções de grupo de executores](/assets/images/help/settings/actions-enterprise-account-add-runner-group-options.png)
+   ![Adicionar opções de grupo de executores](/assets/images/2021/10/help/settings/actions-enterprise-account-add-runner-group-options.png)
    {%- elsif ghae %}
 
-   ![Adicionar opções de grupo de executores](/assets/images/help/settings/actions-enterprise-account-add-runner-group-options-ae.png)
+   ![Adicionar opções de grupo de executores](/assets/images/2022/03/help/settings/actions-enterprise-account-add-runner-group-options-ae.png)
    {%- endif %}
 1. Clique em **Salvar grupo** para criar o grupo e aplicar a política.
 
@@ -168,9 +168,9 @@ Se você não especificar o grupo de um executor durante o processo de registro,
 2. Selecione o menu suspenso **Grupo do executor**.
 3. Em "Transferir executor para o grupo", escolha um grupo de destino para o executor.
 {% elsif ghae or ghes < 3.4 %}
-1. Na seção {% ifversion ghes > 3.1 or ghae %}"Grupos de executores"{% elsif ghes < 3.2 %}"Executores auto-hospedados"{% endif %} da página de configurações, localize o grupo atual do executor que deseja mover e expandir a lista de integrantes do grupo. ![Visualizar integrantes do grupo de executores](/assets/images/help/settings/actions-org-runner-group-members.png)
-2. Marque a caixa de seleção ao lado do executor auto-hospedado e, em seguida, clique em **Mover para o grupo** para ver os destinos disponíveis. ![Mover um membro do grupo de executores](/assets/images/help/settings/actions-org-runner-group-member-move.png)
-3. Para mover o executor, clique no grupo de destino. ![Mover um membro do grupo de executores](/assets/images/help/settings/actions-org-runner-group-member-move-destination.png)
+1. Na seção {% ifversion ghes > 3.1 or ghae %}"Grupos de executores"{% elsif ghes < 3.2 %}"Executores auto-hospedados"{% endif %} da página de configurações, localize o grupo atual do executor que deseja mover e expandir a lista de integrantes do grupo. ![Visualizar integrantes do grupo de executores](/assets/images/2021/10/help/settings/actions-org-runner-group-members.png)
+2. Marque a caixa de seleção ao lado do executor auto-hospedado e, em seguida, clique em **Mover para o grupo** para ver os destinos disponíveis. ![Mover um membro do grupo de executores](/assets/images/2021/10/help/settings/actions-org-runner-group-member-move.png)
+3. Para mover o executor, clique no grupo de destino. ![Mover um membro do grupo de executores](/assets/images/2021/10/help/settings/actions-org-runner-group-member-move-destination.png)
 {% endif %}
 
 ## Remover um grupo de executor auto-hospedado
@@ -183,9 +183,9 @@ Os executores auto-hospedados são retornados automaticamente ao grupo-padrão q
 2. Para remover o grupo, clique em **Remover grupo**.
 3. Revise os avisos de confirmação e, em seguida, clique em **Remover este grupo de executores**.
 {% elsif ghes < 3.2 %}
-1. Na seção "Executores auto-hospedados" da página de configurações, localize o grupo que você deseja excluir e clique no botão {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} . ![Exibir configurações do grupo de executores](/assets/images/help/settings/actions-org-runner-group-kebab.png)
+1. Na seção "Executores auto-hospedados" da página de configurações, localize o grupo que você deseja excluir e clique no botão {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} . ![Exibir configurações do grupo de executores](/assets/images/2021/10/help/settings/actions-org-runner-group-kebab.png)
 
-1. Para remover o grupo, clique em **Remover grupo**. ![Exibir configurações do grupo de executores](/assets/images/help/settings/actions-org-runner-group-remove.png)
+1. Para remover o grupo, clique em **Remover grupo**. ![Exibir configurações do grupo de executores](/assets/images/2021/10/help/settings/actions-org-runner-group-remove.png)
 
 1. Revise os avisos de confirmação e, em seguida, clique em **Remover este grupo de executores**.
 {% endif %}

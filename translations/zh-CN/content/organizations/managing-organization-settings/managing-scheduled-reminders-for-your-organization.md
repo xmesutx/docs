@@ -30,7 +30,7 @@ shortTitle: 管理预定提醒
 {% data reusables.reminders.days-dropdown %}
 {% data reusables.reminders.times-dropdowns %}
 {% data reusables.reminders.tracked-repos %}
-1.  在“Filter by team assigned to review code（按分配给审查代码的团队过滤）”下，单击 **Add a team（添加团队）**下拉列表并选择一个或多个团队。 您最多可以添加 100 个团队。 如果您选择的团队无法访问上面选择的“跟踪的仓库”，您将无法创建预定提醒。 ![添加团队下拉菜单](/assets/images/help/organizations/scheduled-reminders-add-teams.png)
+1.  在“Filter by team assigned to review code（按分配给审查代码的团队过滤）”下，单击 **Add a team（添加团队）**下拉列表并选择一个或多个团队。 您最多可以添加 100 个团队。 如果您选择的团队无法访问上面选择的“跟踪的仓库”，您将无法创建预定提醒。 ![添加团队下拉菜单](/assets/images/2021/10/help/organizations/scheduled-reminders-add-teams.png)
 {% data reusables.reminders.ignore-drafts %}
 {% data reusables.reminders.no-review-requests %}
 {% data reusables.reminders.author-reviews %}

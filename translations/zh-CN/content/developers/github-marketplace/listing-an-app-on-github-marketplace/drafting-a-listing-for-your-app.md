@@ -41,11 +41,11 @@ shortTitle: 草拟应用程序列表
 
   {% endnote %}
 
-  ![应用程序类型选择](/assets/images/settings/apps_choose_app.png)
+  ![应用程序类型选择](/assets/images/2021/10/settings/apps_choose_app.png)
 
-4. 选择您想添加到 {% data variables.product.prodname_marketplace %} 的应用程序。 ![选择在 {% data variables.product.prodname_marketplace %} 中上架的应用程序](/assets/images/github-apps/github_apps_select-app.png)
+4. 选择您想添加到 {% data variables.product.prodname_marketplace %} 的应用程序。 ![选择在 {% data variables.product.prodname_marketplace %} 中上架的应用程序](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.edit_marketplace_listing %}
-5. 创建新的上架草稿后，您将看到在完成 {% data variables.product.prodname_marketplace %} 上架信息之前需要访问的部分的概览。 ![GitHub Marketplace 上架信息](/assets/images/marketplace/marketplace_listing_overview.png)
+5. 创建新的上架草稿后，您将看到在完成 {% data variables.product.prodname_marketplace %} 上架信息之前需要访问的部分的概览。 ![GitHub Marketplace 上架信息](/assets/images/2021/10/marketplace/marketplace_listing_overview.png)
 
 
 {% note %}

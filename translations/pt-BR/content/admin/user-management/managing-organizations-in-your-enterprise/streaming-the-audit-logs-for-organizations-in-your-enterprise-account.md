@@ -68,18 +68,18 @@ Para obter informações sobre como criar ou acessar sua chave de acesso e chave
 {% data reusables.enterprise.navigate-to-log-streaming-tab %}
 1. Clique **Configurar transmissão** e selecione **Amazon S3**.
 
-   ![Escolha o Amazon S3 no menu suspenso](/assets/images/help/enterprises/audit-stream-choice-s3.png)
+   ![Escolha o Amazon S3 no menu suspenso](/assets/images/2021/10/help/enterprises/audit-stream-choice-s3.png)
 
 1. Na página de configuração, insira:
    * O nome do bucket para o qual você deseja transmitir. Por exemplo, `auditlog-streaming-test`.
    * Seu ID da chave de acesso. Por exemplo, `ABCAIOSFODNN7EXAMPLE1`.
    * Sua chave do segredo. Por exemplo, `aBJalrXUtnWXYZ/A1MDENG/zPxRfiCYEXAMPLEKEY`.
 
-   ![Insira as configurações de transmissão](/assets/images/help/enterprises/audit-stream-add-s3.png)
+   ![Insira as configurações de transmissão](/assets/images/2021/10/help/enterprises/audit-stream-add-s3.png)
 
 1. Clique **Verificar ponto de extremidade** para verificar se {% data variables.product.prodname_dotcom %} pode conectar-se e gravar no ponto de extremidade do Amazon S3.
 
-   ![Verificar o ponto de extremidade](/assets/images/help/enterprises/audit-stream-check.png)
+   ![Verificar o ponto de extremidade](/assets/images/2021/10/help/enterprises/audit-stream-check.png)
 
 {% data reusables.enterprise.verify-audit-log-streaming-endpoint %}
 
@@ -93,16 +93,16 @@ Para configurar a transmissão em {% data variables.product.prodname_dotcom %}, 
 1. Na página inicial, clique em **Contas de armazenamento**.
 2. Clique no nome da conta de armazenamento que você deseja usar e clique em **Contêineres**.
 
-   ![O link dos contêineres no Azure](/assets/images/azure/azure-storage-containers.png)
+   ![O link dos contêineres no Azure](/assets/images/2022/01/azure/azure-storage-containers.png)
 
 1. Clique no nome do contêiner que você deseja usar.
 1. Clique **Tokens de acesso compartilhados**.
 
-   ![O link do token de acesso compartilhado no Azure](/assets/images/azure/azure-storage-shared-access-tokens.png)
+   ![O link do token de acesso compartilhado no Azure](/assets/images/2022/01/azure/azure-storage-shared-access-tokens.png)
 
 1. No menu suspenso **Permissões**, altere as permissões para somente permitir `Criar` e `Gravar`.
 
-   ![Menu suspenso de permissões](/assets/images/azure/azure-storage-permissions.png)
+   ![Menu suspenso de permissões](/assets/images/2022/01/azure/azure-storage-permissions.png)
 
 1. Defina uma data de validade que esteja em conformidade com sua política de rotação de segredo.
 1. Clique em **Gerar token SAS e URL**.
@@ -112,15 +112,15 @@ Para configurar a transmissão em {% data variables.product.prodname_dotcom %}, 
 {% data reusables.enterprise.navigate-to-log-streaming-tab %}
 1. Clique **Configurar a transmissão** e selecione **Azure Blob Storage**.
 
-   ![Escolha o Azure Blob Storage a partir do menu suspenso](/assets/images/help/enterprises/audit-stream-choice-azureblob.png)
+   ![Escolha o Azure Blob Storage a partir do menu suspenso](/assets/images/2022/01/help/enterprises/audit-stream-choice-azureblob.png)
 
 1. Na página de configuração, insira a URL do SAS do blob que você copiou no Azure. O campo **Contêiner** é preenchido automaticamente com base na URL.
 
-   ![Insira as configurações de transmissão](/assets/images/help/enterprises/audit-stream-add-azureblob.png)
+   ![Insira as configurações de transmissão](/assets/images/2022/01/help/enterprises/audit-stream-add-azureblob.png)
 
 1. Clique em **Verificar ponto de extremidade** para verificar se {% data variables.product.prodname_dotcom %} pode conectar e gravar no ponto de Azure Blob Storage.
 
-   ![Verificar o ponto de extremidade](/assets/images/help/enterprises/audit-stream-check.png)
+   ![Verificar o ponto de extremidade](/assets/images/2021/10/help/enterprises/audit-stream-check.png)
 
 {% data reusables.enterprise.verify-audit-log-streaming-endpoint %}
 
@@ -133,37 +133,37 @@ Você precisa de duas informações sobre seu centro de eventos: o nome da sua i
 **No portal do Microsoft Azure**:
 1. Pesquise "Centros de Evento".
 
-   ![Caixa de pesquisa do portal Azure](/assets/images/azure/azure-resources-search.png)
+   ![Caixa de pesquisa do portal Azure](/assets/images/2022/01/azure/azure-resources-search.png)
 
 1. Selecione **Centros de evento**. Os nomes dos centros de eventos serão listados.
 
-   ![Uma lista de centros de eventos](/assets/images/help/enterprises/azure-event-hubs-list.png)
+   ![Uma lista de centros de eventos](/assets/images/2021/10/help/enterprises/azure-event-hubs-list.png)
 
 1. Faça uma observação do nome do centro do evento para o qual você deseja transmitir.
 1. Clique no centro de eventos necessário. Em seguida, no menu à esquerda, selecione **Políticas de Acesso Compartilhado**.
 1. Selecione uma política de acesso compartilhada na lista de políticas ou crie uma nova política.
 
-   ![Uma lista de políticas de acesso compartilhadas](/assets/images/help/enterprises/azure-shared-access-policies.png)
+   ![Uma lista de políticas de acesso compartilhadas](/assets/images/2021/10/help/enterprises/azure-shared-access-policies.png)
 
 1. Clique no botão à direita do campo **Tecla primária da string de conexão** para copiar a string de conexão.
 
-   ![A string de conexão do centro do evento](/assets/images/help/enterprises/azure-connection-string.png)
+   ![A string de conexão do centro do evento](/assets/images/2021/10/help/enterprises/azure-connection-string.png)
 
 **Em {% data variables.product.prodname_dotcom %}**:
 {% data reusables.enterprise.navigate-to-log-streaming-tab %}
 1. Clique **Configurar a transmissão ** e selecione **Centros de Evento do Azure**.
 
-   ![Selecione Centro de Eventos do Azure no menu suspenso](/assets/images/help/enterprises/audit-stream-choice-azure.png)
+   ![Selecione Centro de Eventos do Azure no menu suspenso](/assets/images/2021/10/help/enterprises/audit-stream-choice-azure.png)
 
 1. Na página de configuração, insira:
    * O nome da instância do Centro de Eventos do Azure.
    * A string de conexão.
 
-   ![Insira as configurações de transmissão](/assets/images/help/enterprises/audit-stream-add-azure.png)
+   ![Insira as configurações de transmissão](/assets/images/2021/10/help/enterprises/audit-stream-add-azure.png)
 
 1. Clique **Check endpoint** para verificar se {% data variables.product.prodname_dotcom %} pode conectar e gravar no ponto de extremidade do Centro de Eventos do Azure.
 
-   ![Verificar o ponto de extremidade](/assets/images/help/enterprises/audit-stream-check.png)
+   ![Verificar o ponto de extremidade](/assets/images/2021/10/help/enterprises/audit-stream-check.png)
 
 {% data reusables.enterprise.verify-audit-log-streaming-endpoint %}
 
@@ -178,19 +178,19 @@ Para configurar a transmissão para o Google Cloud Storage, você deve criar uma
 {% data reusables.enterprise.navigate-to-log-streaming-tab %}
 1. Selecione o menu suspenso de configurar transmissão e clique em **Google Cloud Storage**.
 
-   ![Captura de tela do meu suspenso "Configurar fluxo"](/assets/images/help/enterprises/audit-stream-choice-google-cloud-storage.png)
+   ![Captura de tela do meu suspenso "Configurar fluxo"](/assets/images/2021/12/help/enterprises/audit-stream-choice-google-cloud-storage.png)
 
 1. Em "Bucket", digite o nome do seu bucket do Google Cloud Storage.
 
-   ![Captura de tela do campo de texto do "Bucket"](/assets/images/help/enterprises/audit-stream-bucket-google-cloud-storage.png)
+   ![Captura de tela do campo de texto do "Bucket"](/assets/images/2021/12/help/enterprises/audit-stream-bucket-google-cloud-storage.png)
 
 1. Em "Credenciais do JSON ", cole todo o conteúdo do arquivo para a chave do JSON da sua conta de serviço.
 
-   ![Captura de tela do campo de texto das "Credenciais do JSON"](/assets/images/help/enterprises/audit-stream-json-credentials-google-cloud-storage.png)
+   ![Captura de tela do campo de texto das "Credenciais do JSON"](/assets/images/2021/12/help/enterprises/audit-stream-json-credentials-google-cloud-storage.png)
 
 1. Para verificar que {% data variables.product.prodname_dotcom %} pode conectar e escrever no banco de armazenamento do Google Cloud Storage, clique em **Verificar ponto de extremidade**.
 
-   ![Captura de tela do botão "Verificar ponto de extremidade"](/assets/images/help/enterprises/audit-stream-check-endpoint-google-cloud-storage.png)
+   ![Captura de tela do botão "Verificar ponto de extremidade"](/assets/images/2021/12/help/enterprises/audit-stream-check-endpoint-google-cloud-storage.png)
 
 {% data reusables.enterprise.verify-audit-log-streaming-endpoint %}
 
@@ -201,7 +201,7 @@ Para transmitir os logs de auditoria para o Coletor de Eventos HTTP (HEC) do Spl
 {% data reusables.enterprise.navigate-to-log-streaming-tab %}
 1. Clique **Configurar transmissão** e selecione **Splunk**.
 
-   ![Escolha Splunk no menu suspenso](/assets/images/help/enterprises/audit-stream-choice-splunk.png)
+   ![Escolha Splunk no menu suspenso](/assets/images/2021/10/help/enterprises/audit-stream-choice-splunk.png)
 
 1. Na página de configuração, insira:
    * O domínio para o qual o aplicativo deseja que você transmita está hospedado.
@@ -214,12 +214,12 @@ Para transmitir os logs de auditoria para o Coletor de Eventos HTTP (HEC) do Spl
 
    * Um token que {% data variables.product.prodname_dotcom %} pode usar para efetuar a autenticação no aplicativo de terceiros.
 
-   ![Insira as configurações de transmissão](/assets/images/help/enterprises/audit-stream-add-splunk.png)
+   ![Insira as configurações de transmissão](/assets/images/2021/10/help/enterprises/audit-stream-add-splunk.png)
 
 1. Deixe a caixa de seleção **Habilitar verificação SSL** marcada.
 
     Os logs de auditoria são sempre transmitidos como dados criptografados. No entanto, com esta opção selecionada, {% data variables.product.prodname_dotcom %} verifica o certificado SSL da sua instância do Splunk ao realizar os eventos. A verificação SSL ajuda a garantir que os eventos sejam entregues no ponto de extremidade da sua URL de forma segura. Você pode limpar a seleção desta opção, mas recomendamos que saia da verificação SSL habilitada.
-1. Clique **Verificar ponto de extremidade** para verificar se {% data variables.product.prodname_dotcom %} pode conectar-se e gravar no ponto de extremidade do Splunk. ![Verificar o ponto de extremidade](/assets/images/help/enterprises/audit-stream-check-splunk.png)
+1. Clique **Verificar ponto de extremidade** para verificar se {% data variables.product.prodname_dotcom %} pode conectar-se e gravar no ponto de extremidade do Splunk. ![Verificar o ponto de extremidade](/assets/images/2021/10/help/enterprises/audit-stream-check-splunk.png)
 {% data reusables.enterprise.verify-audit-log-streaming-endpoint %}
 
 ## Pausando a transmissão do log de auditoria
@@ -229,7 +229,7 @@ A pausa da transmissão permite que você execute a manutenção no aplicativo d
 {% data reusables.enterprise.navigate-to-log-streaming-tab %}
 1. Clique **Pausar transmissão**.
 
-   ![Pausar a transmissão](/assets/images/help/enterprises/audit-stream-pause.png)
+   ![Pausar a transmissão](/assets/images/2021/10/help/enterprises/audit-stream-pause.png)
 
 1. Uma mensagem de confirmação é exibida. Clique **Pausar transmissão** para confirmar.
 
@@ -240,6 +240,6 @@ Quando o aplicativo estiver pronto para receber registros de auditoria novamente
 {% data reusables.enterprise.navigate-to-log-streaming-tab %}
 1. Clique **Excluir Transmissão**.
 
-   ![Excluir a transmissão](/assets/images/help/enterprises/audit-stream-delete.png)
+   ![Excluir a transmissão](/assets/images/2021/10/help/enterprises/audit-stream-delete.png)
 
 1. Uma mensagem de confirmação é exibida. Clique **Excluir transmissão** para confirmar.

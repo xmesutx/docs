@@ -26,9 +26,9 @@ Entre em contato com {% data variables.contact.contact_enterprise_sales %} para 
 
 O {% data variables.actions.azure_portal %} permite que você faça a implementação da conta do {% data variables.product.prodname_ghe_managed %} no seu grupo de recursos do Azure.
 
-1. No {% data variables.actions.azure_portal %}, digite `GitHub AE` no campo de busca. Em seguida, em _Serviços_, clique em {% data variables.product.prodname_ghe_managed %}. ![Resultado da pesquisa de {% data variables.actions.azure_portal %}](/assets/images/azure/github-ae-azure-portal-search.png)
+1. No {% data variables.actions.azure_portal %}, digite `GitHub AE` no campo de busca. Em seguida, em _Serviços_, clique em {% data variables.product.prodname_ghe_managed %}. ![Resultado da pesquisa de {% data variables.actions.azure_portal %}](/assets/images/2021/12/azure/github-ae-azure-portal-search.png)
 1. Para começar o processo de adicionar uma nova conta de {% data variables.product.prodname_ghe_managed %}, clique em **Criar conta do GitHub AE**.
-1. Insira as informações nos campos "Detalhes do projeto" e "Detalhes da instância". ![Resultado da pesquisa de {% data variables.actions.azure_portal %}](/assets/images/azure/github-ae-azure-portal-form.png)
+1. Insira as informações nos campos "Detalhes do projeto" e "Detalhes da instância". ![Resultado da pesquisa de {% data variables.actions.azure_portal %}](/assets/images/2021/12/azure/github-ae-azure-portal-form.png)
     - **Nome da conta:** O nome do host da sua empresa
     - **Nome de usuário administrador:** Um nome de usuário para o proprietário corporativo inicial que será criado em {% data variables.product.prodname_ghe_managed %}
     - E-mail do administrador **:** O endereço de e-mail que receberá as informações de login
@@ -48,7 +48,7 @@ O endereço de e-mail que você digitou acima receberá instruções sobre como 
 Você pode usar o {% data variables.actions.azure_portal %} para navegar para a sua implantação de {% data variables.product.prodname_ghe_managed %}. A lista resultante inclui todas as suas implantações de {% data variables.product.prodname_ghe_managed %} na sua região do Azure.
 
 1. No {% data variables.actions.azure_portal %}, no painel esquerdo, clique em **Todos os recursos**.
-1. Nos filtros disponíveis, clique em **Todos os tipos** e, em seguida, desmarque **Selecionar todos** e selecione **GitHub AE**: ![Resultado da pesquisa de {% data variables.actions.azure_portal %}](/assets/images/azure/github-ae-azure-portal-type-filter.png)
+1. Nos filtros disponíveis, clique em **Todos os tipos** e, em seguida, desmarque **Selecionar todos** e selecione **GitHub AE**: ![Resultado da pesquisa de {% data variables.actions.azure_portal %}](/assets/images/2021/12/azure/github-ae-azure-portal-type-filter.png)
 
 ## Próximas etapas
 

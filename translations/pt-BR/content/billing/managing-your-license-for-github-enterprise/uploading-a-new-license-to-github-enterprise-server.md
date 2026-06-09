@@ -28,7 +28,7 @@ Após comprar ou atualizar uma licença para {% data variables.product.prodname_
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
-1. Em "Quick links" (Links rápidos), clique em **Update license** (Atualizar licença). ![Link de atualização de licença](/assets/images/enterprise/business-accounts/update-license-link.png)
-1. Para selecionar sua licença, clique em **License file** (Arquivo de licença) ou arraste o arquivo de licença para o **License file** (Arquivo de licença). ![Fazer upload do arquivo de licença](/assets/images/enterprise/management-console/upload-license.png)
-1. Clique em **Fazer upload**. ![Iniciar upload](/assets/images/enterprise/management-console/begin-upload.png)
+1. Em "Quick links" (Links rápidos), clique em **Update license** (Atualizar licença). ![Link de atualização de licença](/assets/images/2021/10/enterprise/business-accounts/update-license-link.png)
+1. Para selecionar sua licença, clique em **License file** (Arquivo de licença) ou arraste o arquivo de licença para o **License file** (Arquivo de licença). ![Fazer upload do arquivo de licença](/assets/images/2021/10/enterprise/management-console/upload-license.png)
+1. Clique em **Fazer upload**. ![Iniciar upload](/assets/images/2021/10/enterprise/management-console/begin-upload.png)
 

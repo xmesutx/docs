@@ -26,9 +26,9 @@ shortTitle: 删除协作者
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. 在“Security Advisories（安全通告）”列表中，单击要从中删除协作者的安全通告。 ![列表中的安全通告](/assets/images/help/security/security-advisory-in-list.png)
-5. 在页面右侧的“Collaborators（协作者）”下，键入要从安全通告删除的用户或团队名称。 ![安全通告协作者](/assets/images/help/security/security-advisory-collaborator.png)
-6. 在要删除的协作者旁边，单击 **X** 图标。 ![用于删除安全通告协作者的 X 图标](/assets/images/help/security/security-advisory-remove-collaborator-x.png)
+4. 在“Security Advisories（安全通告）”列表中，单击要从中删除协作者的安全通告。 ![列表中的安全通告](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. 在页面右侧的“Collaborators（协作者）”下，键入要从安全通告删除的用户或团队名称。 ![安全通告协作者](/assets/images/2021/10/help/security/security-advisory-collaborator.png)
+6. 在要删除的协作者旁边，单击 **X** 图标。 ![用于删除安全通告协作者的 X 图标](/assets/images/2021/10/help/security/security-advisory-remove-collaborator-x.png)
 
 ## 延伸阅读
 

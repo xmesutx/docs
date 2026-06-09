@@ -82,6 +82,6 @@ Antes de que puedas convertirte en un desarrollador patrocinado, debes habilitar
 ## Enviar tu aplicación a {% data variables.product.prodname_dotcom %} para su aprobación
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
-4. Haz clic en **Request approval** (Solicitar aprobación). ![Botón Request approval (Solicitar aprobación)](/assets/images/help/sponsors/request-approval-button.png)
+4. Haz clic en **Request approval** (Solicitar aprobación). ![Botón Request approval (Solicitar aprobación)](/assets/images/2021/10/help/sponsors/request-approval-button.png)
 
 {% data reusables.sponsors.github-review-app %}

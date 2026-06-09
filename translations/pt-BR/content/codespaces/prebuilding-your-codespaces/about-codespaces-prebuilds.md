@@ -20,7 +20,7 @@ Sempre que você fizer alterações no repositório, {% data variables.product.p
 
 Quando as pré-criações estiverem disponíveis para um branch específic de um repositório e para sua região, você verá o a etiqueta "Pré-criação pronta de {% octicon "zap" aria-label="The zap icon" %}" na caixa de diálogo de tipo de máquina que é exibida quando você cria um codespace e vários tipos de máquina estão disponíveis.
 
-![A caixa de diálogo para escolher um tipo de máquina](/assets/images/help/codespaces/choose-custom-machine-type.png)
+![A caixa de diálogo para escolher um tipo de máquina](/assets/images/2021/10/help/codespaces/choose-custom-machine-type.png)
 
 ## Sobre a cobrança para pré-criações de {% data variables.product.prodname_codespaces %}
 

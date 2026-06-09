@@ -29,7 +29,7 @@ shortTitle: 组织仪表板
 
 在仪表板的左侧栏中，可以访问您参与的组织顶部仓库。
 
-![组织中您参与最多的仓库列表](/assets/images/help/dashboard/repositories-from-organization-dashboard.png)
+![组织中您参与最多的仓库列表](/assets/images/2021/10/help/dashboard/repositories-from-organization-dashboard.png)
 
 ## 了解组织中活动的最新信息
 

@@ -25,6 +25,6 @@ shortTitle: 暂停应用安装
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-1. 选择要暂停的 {% data variables.product.prodname_github_app %} 。 ![应用程序选择](/assets/images/github-apps/github_apps_select-app.png)
+1. 选择要暂停的 {% data variables.product.prodname_github_app %} 。 ![应用程序选择](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.github_apps_advanced %}
-6. 在安装设施的挂起设置旁边，单击 **Suspend（挂起）**或 **Unsuspend（取消挂起）**。 ![挂起 GitHub 应用程序](/assets/images/github-apps/suspend-a-github-app.png)
+6. 在安装设施的挂起设置旁边，单击 **Suspend（挂起）**或 **Unsuspend（取消挂起）**。 ![挂起 GitHub 应用程序](/assets/images/2021/10/github-apps/suspend-a-github-app.png)

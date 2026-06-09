@@ -30,8 +30,8 @@ Você também pode ver uma lista de pessoas que contribuíram para as dependênc
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Contributors** (Contribuiddores). ![Aba de colaboradores](/assets/images/help/graphs/contributors_tab.png)
-4. Como alternativa, para exibir os contribuidores durante um determinado período, clique no período desejado e arraste-o até que seja selecionado. Os gráficos de contribuidores somam o número de commit semanalmente para cada domingo, de modo que seu período de tempo deve incluir um domingo. ![Intervalo de tempo selecionado no gráfico de contribuidores](/assets/images/help/graphs/repo_contributors_click_drag_graph.png)
+3. Na barra lateral esquerda, clique em **Contributors** (Contribuiddores). ![Aba de colaboradores](/assets/images/2021/10/help/graphs/contributors_tab.png)
+4. Como alternativa, para exibir os contribuidores durante um determinado período, clique no período desejado e arraste-o até que seja selecionado. Os gráficos de contribuidores somam o número de commit semanalmente para cada domingo, de modo que seu período de tempo deve incluir um domingo. ![Intervalo de tempo selecionado no gráfico de contribuidores](/assets/images/2021/10/help/graphs/repo_contributors_click_drag_graph.png)
 
 ## Solucionar problemas com contribuidores
 

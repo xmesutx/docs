@@ -31,7 +31,7 @@ shortTitle: 管理成员的访问权限
 {% data reusables.project-management.select-project %}
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
-8. 在 "Organization member permission"（组织成员权限）下，为所有组织成员选择基线权限级别：**Read（读取）**、**Write（写入）**、**Admin（管理员）**或 **None（无）**。 ![用于所有组织成员的基线项目板权限选项](/assets/images/help/projects/baseline-project-permissions-for-organization-members.png)
+8. 在 "Organization member permission"（组织成员权限）下，为所有组织成员选择基线权限级别：**Read（读取）**、**Write（写入）**、**Admin（管理员）**或 **None（无）**。 ![用于所有组织成员的基线项目板权限选项](/assets/images/2021/10/help/projects/baseline-project-permissions-for-organization-members.png)
 9. 单击 **Save（保存）**。
 
 ## 延伸阅读

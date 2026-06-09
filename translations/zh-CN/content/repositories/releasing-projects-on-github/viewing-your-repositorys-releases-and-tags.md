@@ -35,7 +35,7 @@ shortTitle: 查看版本和标记
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-2. 在 Releases（版本）页面的顶部，单击 **Tags（标记）**。 ![标记页面](/assets/images/help/releases/tags-list.png)
+2. 在 Releases（版本）页面的顶部，单击 **Tags（标记）**。 ![标记页面](/assets/images/2021/10/help/releases/tags-list.png)
 
 ## 延伸阅读
 

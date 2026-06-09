@@ -80,11 +80,11 @@ See [our guide on creating a personal access token](/authentication/keeping-your
 #### Setup
 
 1. [Run the `ssh-keygen` procedure][generating-ssh-keys] on your server, and remember where you save the generated public and private rsa key pair key pair.
-2. In the upper-right corner of any {% data variables.product.product_name %} page, click your profile photo, then click **Your profile**. ![Navigation to profile](/assets/images/profile-page.png)
-3. On your profile page, click **Repositories**, then click the name of your repository. ![Repositories link](/assets/images/repos.png)
-4. From your repository, click **Settings**. ![Repository settings](/assets/images/repo-settings.png)
-5. In the sidebar, click **Deploy Keys**, then click **Add deploy key**. ![Add Deploy Keys link](/assets/images/add-deploy-key.png)
-6. Provide a title, paste in your public key.  ![Deploy Key page](/assets/images/deploy-key.png)
+2. In the upper-right corner of any {% data variables.product.product_name %} page, click your profile photo, then click **Your profile**. ![Navigation to profile](/assets/images/2021/10/profile-page.png)
+3. On your profile page, click **Repositories**, then click the name of your repository. ![Repositories link](/assets/images/2021/10/repos.png)
+4. From your repository, click **Settings**. ![Repository settings](/assets/images/2021/10/repo-settings.png)
+5. In the sidebar, click **Deploy Keys**, then click **Add deploy key**. ![Add Deploy Keys link](/assets/images/2021/10/add-deploy-key.png)
+6. Provide a title, paste in your public key.  ![Deploy Key page](/assets/images/2021/10/deploy-key.png)
 7. Select **Allow write access** if you want this key to have write access to the repository. A deploy key with write access lets a deployment push to the repository.
 8. Click **Add key**.
 

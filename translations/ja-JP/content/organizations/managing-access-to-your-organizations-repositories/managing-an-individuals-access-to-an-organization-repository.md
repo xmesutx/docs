@@ -34,18 +34,18 @@ Organization のリポジトリからコラボレーターを削除すると、�
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-manage-access %}
 {% data reusables.organizations.invite-teams-or-people %}
-1. 検索フィールドで、招待したい人の名前を入力し始め、マッチのリスト内の名前をクリックしてください。 ![リポジトリに招待する Team または人の名前を入力するための検索フィールド](/assets/images/help/repository/manage-access-invite-search-field.png)
-6. 「Choose a role（ロールの選択）」の下で、人に割り当てるリポジトリロールを選択し、続いて**Add NAME to REPOSITORY（リポジトリに名前を追加）**をクリックしてください。 ![Team または人の権限を選択する](/assets/images/help/repository/manage-access-invite-choose-role-add.png)
+1. 検索フィールドで、招待したい人の名前を入力し始め、マッチのリスト内の名前をクリックしてください。 ![リポジトリに招待する Team または人の名前を入力するための検索フィールド](/assets/images/2021/10/help/repository/manage-access-invite-search-field.png)
+6. 「Choose a role（ロールの選択）」の下で、人に割り当てるリポジトリロールを選択し、続いて**Add NAME to REPOSITORY（リポジトリに名前を追加）**をクリックしてください。 ![Team または人の権限を選択する](/assets/images/2021/10/help/repository/manage-access-invite-choose-role-add.png)
 
 ## Organization のリポジトリへの個人のアクセスを管理する
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. アクセスのタイプが異なるユーザを管理するには、[**Members**] または [**Outside collaborators**] をクリックします。 ![メンバーまたは外部コラボレーターを Organization に招待するボタン](/assets/images/help/organizations/select-outside-collaborators.png)
-5. 管理する個人の名前の右側にある {% octicon "gear" aria-label="The Settings gear" %}ドロップダウン メニューで、[**Manage**] をクリックします。 ![[Manage] アクセスリンク](/assets/images/help/organizations/member-manage-access.png)
-6. [Manage access] ページで、リポジトリの隣にある [**Manage access**] をクリックします。 ![リポジトリの [Manage access] ボタン](/assets/images/help/organizations/repository-manage-access.png)
-7. この個人がコラボレーターなのか、チーム メンバーとしてリポジトリにアクセスできるのかなど、特定のリポジトリに対するアクセスを確認します。 ![ユーザのリポジトリへのアクセスのマトリクス](/assets/images/help/organizations/repository-access-matrix-for-user.png)
+4. アクセスのタイプが異なるユーザを管理するには、[**Members**] または [**Outside collaborators**] をクリックします。 ![メンバーまたは外部コラボレーターを Organization に招待するボタン](/assets/images/2021/10/help/organizations/select-outside-collaborators.png)
+5. 管理する個人の名前の右側にある {% octicon "gear" aria-label="The Settings gear" %}ドロップダウン メニューで、[**Manage**] をクリックします。 ![[Manage] アクセスリンク](/assets/images/2021/10/help/organizations/member-manage-access.png)
+6. [Manage access] ページで、リポジトリの隣にある [**Manage access**] をクリックします。 ![リポジトリの [Manage access] ボタン](/assets/images/2021/10/help/organizations/repository-manage-access.png)
+7. この個人がコラボレーターなのか、チーム メンバーとしてリポジトリにアクセスできるのかなど、特定のリポジトリに対するアクセスを確認します。 ![ユーザのリポジトリへのアクセスのマトリクス](/assets/images/2021/10/help/organizations/repository-access-matrix-for-user.png)
 {% endif %}
 ## 参考リンク
 

@@ -28,7 +28,7 @@ shortTitle: Conexiones entre repositorios
 
 El gráfico de red muestra el historial de la rama de la red del repositorio completa, incluidas las ramas del repositorio raíz y las ramas de las bifurcaciones que contienen confirmaciones únicas de la red.
 
-![Gráfico de red del repositorio](/assets/images/help/graphs/repo_network_graph.png)
+![Gráfico de red del repositorio](/assets/images/2021/10/help/graphs/repo_network_graph.png)
 
 {% tip %}
 
@@ -40,7 +40,7 @@ El gráfico de red muestra el historial de la rama de la red del repositorio com
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. En la barra lateral izquierda, haz clic en **Network (Red)**. ![Pestaña de red](/assets/images/help/graphs/network_tab.png)
+3. En la barra lateral izquierda, haz clic en **Network (Red)**. ![Pestaña de red](/assets/images/2021/10/help/graphs/network_tab.png)
 
 ## Detallar las bifurcaciones de un repositorio
 
@@ -50,11 +50,11 @@ Las bifurcaciones se detallan alfabéticamente por el nombre de usuario de la pe
 
 {% ifversion fpt or ghec %}
 
-![Gráfico de miembros del repositorio](/assets/images/help/graphs/repo_forks_graph_dotcom.png)
+![Gráfico de miembros del repositorio](/assets/images/2021/10/help/graphs/repo_forks_graph_dotcom.png)
 
 {% else %}
 
-![Gráfico de miembros del repositorio](/assets/images/help/graphs/repo_members_graph.png)
+![Gráfico de miembros del repositorio](/assets/images/2021/10/help/graphs/repo_members_graph.png)
 
 {% endif %}
 
@@ -62,7 +62,7 @@ Las bifurcaciones se detallan alfabéticamente por el nombre de usuario de la pe
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. En la barra lateral izquierda, haz clic en **Forks** (Bifurcaciones). ![Pestaña Forks (Bifurcaciones)](/assets/images/help/graphs/graphs-sidebar-forks-tab.png)
+3. En la barra lateral izquierda, haz clic en **Forks** (Bifurcaciones). ![Pestaña Forks (Bifurcaciones)](/assets/images/2021/10/help/graphs/graphs-sidebar-forks-tab.png)
 
 {% ifversion fpt or ghes or ghae-issue-4864 or ghec %}
 ## Visualizar las dependencias de un repositorio

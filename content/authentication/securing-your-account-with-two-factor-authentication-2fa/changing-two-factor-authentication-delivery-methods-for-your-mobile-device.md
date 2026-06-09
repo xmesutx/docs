@@ -22,9 +22,9 @@ shortTitle: Change 2FA delivery method
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 3. Next to "SMS delivery", click **Edit**.
-  ![Edit SMS delivery options](/assets/images/help/2fa/edit-sms-delivery-option.png)
+  ![Edit SMS delivery options](/assets/images/2021/10/help/2fa/edit-sms-delivery-option.png)
 4. Under "Delivery options", click **Reconfigure two-factor authentication**.
-    ![Switching your 2FA delivery options](/assets/images/help/2fa/2fa-switching-methods.png)
+    ![Switching your 2FA delivery options](/assets/images/2021/10/help/2fa/2fa-switching-methods.png)
 5. Decide whether to set up two-factor authentication using a TOTP mobile app or text message. For more information, see "[Configuring two-factor authentication](/articles/configuring-two-factor-authentication)."
     - To set up two-factor authentication using a TOTP mobile app, click **Set up using an app**.
     - To set up two-factor authentication using text message (SMS), click **Set up using SMS**.

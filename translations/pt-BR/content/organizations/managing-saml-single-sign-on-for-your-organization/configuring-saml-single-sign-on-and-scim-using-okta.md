@@ -44,7 +44,7 @@ Como alternativa, você pode configurar o SAML SSO para uma empresa usando o Okt
 1. Clique em **Efetuar a autenticação com Github Enterprise Cloud - Organização**.
 1. À direita do nome da sua organização, clique em **Conceder**.
 
-  ![Botão "Conceder" para autorizar a integração do SCIM do Okta para acessar a organização](/assets/images/help/saml/okta-scim-integration-grant-organization-access.png)
+  ![Botão "Conceder" para autorizar a integração do SCIM do Okta para acessar a organização](/assets/images/2021/10/help/saml/okta-scim-integration-grant-organization-access.png)
 
   {% note %}
 

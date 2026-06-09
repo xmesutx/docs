@@ -23,7 +23,7 @@ Por padrão, os commits e tags são marcados como "Verificados" se forem assinad
 
 No entanto, você pode dar a outros usuários maior confiança na identidade atribuída aos seus commits e tags, habilitando o modo vigilante nas configurações do seu {% data variables.product.prodname_dotcom %} Com o modo vigilante habilitado, todos os seus commits e tags são marcados com um de três status de verificação.
 
-![Status de verificação de assinatura](/assets/images/help/commits/signature-verification-statuses.png)
+![Status de verificação de assinatura](/assets/images/2021/10/help/commits/signature-verification-statuses.png)
 
 {% data reusables.identity-and-permissions.vigilant-mode-verification-statuses %}
 
@@ -37,4 +37,4 @@ Você só deve habilitar o modo vigilante se assinar todos os seus commits e tag
 {% data reusables.user-settings.ssh %}
 3. Na página de configurações de SSH, em "Modo Vigilante", selecione **Sinalizar commits não assinados como não verificados**.
 
-   ![Sinalizar commits não assinados como caixa de seleção não verificada](/assets/images/help/commits/vigilant-mode-checkbox.png)
+   ![Sinalizar commits não assinados como caixa de seleção não verificada](/assets/images/2021/10/help/commits/vigilant-mode-checkbox.png)

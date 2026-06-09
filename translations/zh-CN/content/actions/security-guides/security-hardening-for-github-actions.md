@@ -89,11 +89,11 @@ miniTocMaxHeadingLevel: 3
 
 要将命令注入此工作流程，攻击者可以创建标题为 `a"; ls $GITHUB_WORKSPACE"` 的拉取请求：
 
-![PR 标题中的脚本注入示例](/assets/images/help/images/example-script-injection-pr-title.png)
+![PR 标题中的脚本注入示例](/assets/images/2021/10/help/images/example-script-injection-pr-title.png)
 
 在此示例中，`"` 字符用于中断 {% raw %}`title="${{ github.event.pull_request.title }}"`{% endraw %} 语句， 允许在运行器上执行 `ls` 命令。 您可以在日志中看到 `ls` 命令的输出：
 
-![脚本注入示例结果](/assets/images/help/images/example-script-injection-result.png)
+![脚本注入示例结果](/assets/images/2021/10/help/images/example-script-injection-result.png)
 
 ## 减少脚本注入攻击的良好做法
 
@@ -135,7 +135,7 @@ with:
 
 在此示例中，尝试的脚本注入失败：
 
-![缓减脚本注入示例](/assets/images/help/images/example-script-injection-mitigated.png)
+![缓减脚本注入示例](/assets/images/2021/10/help/images/example-script-injection-mitigated.png)
 
 使用此方法， {% raw %}`${{ github.event.issue.title }}`{% endraw %} 表达式的值存储在内存中用作变量，并且不与脚本生成过程交互。 此外，考虑使用双引号 shell 变量来避免 [单词拆分](https://github.com/koalaman/shellcheck/wiki/SC2086)，但这是是写入shell 脚本[的许多一般性建议之一](https://mywiki.wooledge.org/BashPitfalls)，不是专门针对 {% data variables.product.prodname_actions %} 的。
 
@@ -296,7 +296,7 @@ If you are using {% data variables.product.prodname_actions %} to deploy to a cl
 
 您可以使用审核日志来监控组织中的管理任务。 审核日志记录操作类型、操作的运行时间以及执行操作的用户帐户。
 
-例如，您可以使用审核日志跟踪 `org.update_actions_secret` 事件，这些事件跟踪组织秘密的变化： ![审核日志条目](/assets/images/help/repository/audit-log-entries.png)
+例如，您可以使用审核日志跟踪 `org.update_actions_secret` 事件，这些事件跟踪组织秘密的变化： ![审核日志条目](/assets/images/2021/10/help/repository/audit-log-entries.png)
 
 以下表格描述了您可以在审核日志中找到的 {% data variables.product.prodname_actions %} 事件。 有关使用审核日志的更多信息，请参阅“[查看组织的审核日志](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#searching-the-audit-log)”。
 

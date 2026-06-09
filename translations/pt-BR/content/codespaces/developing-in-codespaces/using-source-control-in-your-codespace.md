@@ -44,7 +44,7 @@ Um fluxo de trabalho típico para atualizar um arquivo que usa {% data variables
 Você pode fazer pull das alterações do repositório remoto para seu codespace a qualquer momento.
 
 {% data reusables.codespaces.source-control-display-dark %}
-1. Na parte superior da barra lateral, clique na elipse (**...**). ![Botão Elipsis para visualizar e mais ações](/assets/images/help/codespaces/source-control-ellipsis-button.png)
+1. Na parte superior da barra lateral, clique na elipse (**...**). ![Botão Elipsis para visualizar e mais ações](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button.png)
 1. No menu suspenso, clique em **Pull**.
 
 Se a configuração do contêiner dev foi alterada desde que você criou o codespace, você pode aplicar as alterações reconstruindo o contêiner para o codespace. Para obter mais informações, consulte "[Introdução a contêineres de desenvolvimento](/codespaces/setting-up-your-codespace/configuring-codespaces-for-your-project#applying-changes-to-your-configuration)".
@@ -55,10 +55,10 @@ Se a configuração do contêiner dev foi alterada desde que você criou o codes
 
 Se a operação de busca detectarem novas alterações no repositório remoto, você verá o número de novos commits na barra de status. Você pode fazer pull das alterações para a sua cópia local.
 
-1. Clique no botão **Gerenciar** na parte inferior da barra de atividades. ![Botão Gerenciar](/assets/images/help/codespaces/manage-button.png)
+1. Clique no botão **Gerenciar** na parte inferior da barra de atividades. ![Botão Gerenciar](/assets/images/2021/10/help/codespaces/manage-button.png)
 1. No menu, clique em **Configurações**.
-1. Na página de configurações, pesquise por: `Autofetch`. ![Pesquisar por busca automática](/assets/images/help/codespaces/autofetch-search.png)
-1. Para buscar os detalhes das atualizações para todos os controles remotos registrados no repositório atual, defina **Git: Autofetch** como `todos`. ![Habilite a busca automática do Git](/assets/images/help/codespaces/autofetch-all.png)
+1. Na página de configurações, pesquise por: `Autofetch`. ![Pesquisar por busca automática](/assets/images/2021/10/help/codespaces/autofetch-search.png)
+1. Para buscar os detalhes das atualizações para todos os controles remotos registrados no repositório atual, defina **Git: Autofetch** como `todos`. ![Habilite a busca automática do Git](/assets/images/2021/10/help/codespaces/autofetch-all.png)
 1. Se você deseja alterar o número de segundos entre cada busca automática, edite o valor de **Git: Período de Autofetch**.
 
 ## Fazendo commit das suas alterações
@@ -73,5 +73,5 @@ Se a operação de busca detectarem novas alterações no repositório remoto, v
 
 Você pode fazer push das alterações que fez. Isso aplica essas alterações ao branch upstream no repositório remoto. Você pode querer fazer isso se ainda não estiver pronto para criar um pull request, ou se você preferir criar um pull request em {% data variables.product.prodname_dotcom %}.
 
-1. Na parte superior da barra lateral, clique na elipse (**...**). ![Botão Elipsis para visualizar e mais ações](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+1. Na parte superior da barra lateral, clique na elipse (**...**). ![Botão Elipsis para visualizar e mais ações](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. No menu suspenso, clique em **Push**.

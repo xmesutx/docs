@@ -19,6 +19,6 @@ shortTitle: Validar as configurações de domínio
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.hostname-menu-item %}
-4. Para testar as configurações DNS e SSL, clique em **Test domain settings** (Testar configurações de domínio). ![Botão Test domain settings (Testar configurações de domínio)](/assets/images/enterprise/management-console/test-domain-settings.png)
+4. Para testar as configurações DNS e SSL, clique em **Test domain settings** (Testar configurações de domínio). ![Botão Test domain settings (Testar configurações de domínio)](/assets/images/2021/10/enterprise/management-console/test-domain-settings.png)
 {% data reusables.enterprise_management_console.test-domain-settings-failure %}
 {% data reusables.enterprise_management_console.save-settings %}

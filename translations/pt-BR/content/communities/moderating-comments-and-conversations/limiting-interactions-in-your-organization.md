@@ -35,7 +35,7 @@ Os proprietários da organização também podem bloquear os usuários por um de
 {% data reusables.profile.org_settings %}
 1. Na seção "Acesso" da barra lateral, selecione **Moderação de {% octicon "report" aria-label="The report icon" %}** e, em seguida, clique em **Limites de interação**.
 {% data reusables.community.set-interaction-limit %}
-  ![Opções Temporary interaction limit (Restrições de interação temporárias)](/assets/images/help/organizations/organization-temporary-interaction-limits-options.png)
+  ![Opções Temporary interaction limit (Restrições de interação temporárias)](/assets/images/2021/10/help/organizations/organization-temporary-interaction-limits-options.png)
 
 ## Leia mais
 - "[Denunciar abuso ou spam](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"

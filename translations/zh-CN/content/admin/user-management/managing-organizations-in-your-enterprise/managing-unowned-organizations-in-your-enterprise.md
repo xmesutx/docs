@@ -17,6 +17,6 @@ shortTitle: 管理未拥有的组织
 ---
 
 {% data reusables.enterprise-accounts.access-enterprise %}
-2. 在搜索字段的右侧，单击 **X unowned（没有所有者）**。 ![用于查看没有所有者的组织的按钮](/assets/images/help/business-accounts/unowned-organizations-button.png)
-3. 在您想拥有所有权的组织右侧，单击“**Become an owner（成为所有者）**”。 ![成为所有者按钮](/assets/images/help/business-accounts/become-an-owner-button.png)
-4. 阅读警告，然后单击 **Become an owner（成为所有者）**。 ![成为所有者按钮](/assets/images/help/business-accounts/become-an-owner-confirmation.png)
+2. 在搜索字段的右侧，单击 **X unowned（没有所有者）**。 ![用于查看没有所有者的组织的按钮](/assets/images/2021/10/help/business-accounts/unowned-organizations-button.png)
+3. 在您想拥有所有权的组织右侧，单击“**Become an owner（成为所有者）**”。 ![成为所有者按钮](/assets/images/2021/10/help/business-accounts/become-an-owner-button.png)
+4. 阅读警告，然后单击 **Become an owner（成为所有者）**。 ![成为所有者按钮](/assets/images/2021/10/help/business-accounts/become-an-owner-confirmation.png)

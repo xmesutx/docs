@@ -20,7 +20,7 @@ Para salvar uma única notificação para revisar mais tarde, à direita da noti
 
 As notificações salvas são mantidas indefinidamente e podem ser visualizadas clicando **Salva** na barra lateral ou com a consulta `is:saved`. Se sua notificação salva tiver mais de 5 meses e tornar-se não salva, a notificação desaparecerá da sua caixa de entrada em um dia.
 
-  ![Salvar opção de triagem](/assets/images/help/notifications-v2/save-triaging-option.png)
+  ![Salvar opção de triagem](/assets/images/2021/10/help/notifications-v2/save-triaging-option.png)
 
 ## Investigando uma notificação
 
@@ -39,10 +39,10 @@ Você pode escolher como deseja receber notificações futuras de um problema es
 
 1. Na coluna direita do problema ou da pull request, ao lado de "Notificações", clique em **Personalizar**.
 
-  ![Personalizar opção em "Notificações"](/assets/images/help/notifications-v2/customize-notifications-for-specific-thread.png)
+  ![Personalizar opção em "Notificações"](/assets/images/2021/10/help/notifications-v2/customize-notifications-for-specific-thread.png)
 
 2. Selecione **Personalizar** e escolha quando deseja receber uma atualização de notificação para este thread. Por exemplo, você pode optar por receber uma atualização quando a pull request tiver sido mesclada, fechada ou reaberta. Você será inscrito novamente se você participar do thread, seu nome de usuário for @mencionado, ou uma equipe da qual você é integrante for @mencionada.
 
-  ![Opções para notificações personalizadas](/assets/images/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
+  ![Opções para notificações personalizadas](/assets/images/2021/10/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
 
 3. Clique em **Salvar**.

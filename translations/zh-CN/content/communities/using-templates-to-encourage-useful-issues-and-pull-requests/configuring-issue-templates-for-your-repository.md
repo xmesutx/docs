@@ -29,14 +29,14 @@ shortTitle: 配置
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在“Features（功能）”部分的“Issues（议题）”下，单击 **Set up templates（设置模板）**。 ![开始模板设置按钮](/assets/images/help/repository/set-up-templates.png)
-4. 使用 Add template（添加模板）下拉菜单，单击要创建的模板类型。 ![添加模板下拉菜单](/assets/images/help/repository/add-template-drop-down-menu.png)
-5. 要在提交到仓库之前预览或编辑模板，请单击 **Preview and edit（预览和编辑）**。 ![预览和编辑按钮](/assets/images/help/repository/preview-and-edit-button.png)
-6. 要编辑模板，请单击 {% octicon "pencil" aria-label="The edit icon" %}，然后在字段中键入以编辑其内容。 ![议题模板编辑按钮](/assets/images/help/repository/issue-template-edit-button.png)
-7. 要自动设置默认的议题标题、将议题分配给对仓库有读取权限的人或者对议题模板应用标签，请在“Optional additional information（可选附加信息）”下输入这些详细信息。 还可以通过 YAML 前页格式中的 `title`、`labels` 或 `assignees` 为议题模板添加这些详细信息。 ![议题模板的其他信息](/assets/images/help/repository/additional-issue-template-info.png)
-8. 完成编辑和预览模板后，请单击页面右上角的 **Propose changes（提议更改）**。 ![提议更改按钮](/assets/images/help/repository/propose-changes-button.png)
-9. 输入提交消息，描述您的更改。 ![议题模板提交消息字段](/assets/images/help/repository/issue-template-commit-message-field.png)
-10. 在提交消息字段的下方，决定是直接将模板提交到默认分支，还是创建新分支并打开拉取请求。 有关拉取请求的更多信息，请参阅“[关于拉取请求](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)”。 ![选择将议题模板提交到主要或打开的拉取请求](/assets/images/help/repository/issue-template-commit-to-master-or-open-pull-request.png)
+3. 在“Features（功能）”部分的“Issues（议题）”下，单击 **Set up templates（设置模板）**。 ![开始模板设置按钮](/assets/images/2021/10/help/repository/set-up-templates.png)
+4. 使用 Add template（添加模板）下拉菜单，单击要创建的模板类型。 ![添加模板下拉菜单](/assets/images/2021/10/help/repository/add-template-drop-down-menu.png)
+5. 要在提交到仓库之前预览或编辑模板，请单击 **Preview and edit（预览和编辑）**。 ![预览和编辑按钮](/assets/images/2021/10/help/repository/preview-and-edit-button.png)
+6. 要编辑模板，请单击 {% octicon "pencil" aria-label="The edit icon" %}，然后在字段中键入以编辑其内容。 ![议题模板编辑按钮](/assets/images/2021/10/help/repository/issue-template-edit-button.png)
+7. 要自动设置默认的议题标题、将议题分配给对仓库有读取权限的人或者对议题模板应用标签，请在“Optional additional information（可选附加信息）”下输入这些详细信息。 还可以通过 YAML 前页格式中的 `title`、`labels` 或 `assignees` 为议题模板添加这些详细信息。 ![议题模板的其他信息](/assets/images/2021/10/help/repository/additional-issue-template-info.png)
+8. 完成编辑和预览模板后，请单击页面右上角的 **Propose changes（提议更改）**。 ![提议更改按钮](/assets/images/2021/10/help/repository/propose-changes-button.png)
+9. 输入提交消息，描述您的更改。 ![议题模板提交消息字段](/assets/images/2021/10/help/repository/issue-template-commit-message-field.png)
+10. 在提交消息字段的下方，决定是直接将模板提交到默认分支，还是创建新分支并打开拉取请求。 有关拉取请求的更多信息，请参阅“[关于拉取请求](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)”。 ![选择将议题模板提交到主要或打开的拉取请求](/assets/images/2021/10/help/repository/issue-template-commit-to-master-or-open-pull-request.png)
 11. 单击 **Commit changes（提交更改）**。 将这些更改合并到默认分支后，贡献者在仓库中打开新议题时便可使用该模板。
 
 {% ifversion fpt or ghec %}
@@ -53,7 +53,7 @@ shortTitle: 配置
 
 {% data reusables.community.issue-forms-sample %}
 
-下面是议题表单的呈现版本。 ![呈现的议题表单](/assets/images/help/repository/sample-issue-form.png)
+下面是议题表单的呈现版本。 ![呈现的议题表单](/assets/images/2021/10/help/repository/sample-issue-form.png)
 
 1. 选择要创建议题表单的仓库。 您可以使用您有写入权限的现有仓库，或者创建一个新的仓库。 关于创建仓库的更多信息，请参阅“[创建新仓库](/articles/creating-a-new-repository)”。
 2. 在您的仓库中，创建一个名为 `.github/ISSUE_TEMPLATE/FORM-NAME.yml` 的文件，用议题表单的名称替换 `FORM-NAME`。 有关在 GitHub 上创建新文件的更多信息，请参阅“[创建新文件](/github/managing-files-in-a-repository/creating-new-files)”。
@@ -94,8 +94,8 @@ contact_links:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
-3. 在文件名字段中，键入 `.github/ISSUE_TEMPLATE/config.yml`。 ![配置文件名](/assets/images/help/repository/template-config-file-name.png)
-4. 在新文件的正文中，键入配置文件的内容。 ![配置文件内容](/assets/images/help/repository/template-config-file-content.png)
+3. 在文件名字段中，键入 `.github/ISSUE_TEMPLATE/config.yml`。 ![配置文件名](/assets/images/2021/10/help/repository/template-config-file-name.png)
+4. 在新文件的正文中，键入配置文件的内容。 ![配置文件内容](/assets/images/2021/10/help/repository/template-config-file-content.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_new_file %}

@@ -36,21 +36,21 @@ Antes de gerar uma verificação de integridade, você deve criar um pacote de s
 1. Acesse [{% data variables.contact.support_portal %}](https://support.github.com/).
 2. No canto superior direito da página, clique em **Premium**.
 
-   ![Captura de tela do link "Premium" no cabeçalho do Portal de Suporte do GitHub.](/assets/images/enterprise/support/support-portal-header-premium.png)
+   ![Captura de tela do link "Premium" no cabeçalho do Portal de Suporte do GitHub.](/assets/images/2022/02/enterprise/support/support-portal-header-premium.png)
 
 3. À direita de **Verificações de integridade**, clique em **Solicitar verificação de integridade**.
 
-   ![Captura de tela do botão "Solicitar verificação de integridade"](/assets/images/enterprise/support/support-portal-request-health-check.png)
+   ![Captura de tela do botão "Solicitar verificação de integridade"](/assets/images/2022/02/enterprise/support/support-portal-request-health-check.png)
 
 4. Em "Selecionar uma conta corporativa", selecione o menu suspenso e clique em uma conta empresarial.
 
-   ![Captura de tela do menu suspenso "conta corporativa".](/assets/images/enterprise/support/health-check-dialog-ea.png)
+   ![Captura de tela do menu suspenso "conta corporativa".](/assets/images/2022/02/enterprise/support/health-check-dialog-ea.png)
 
 5. Em "Fazer o upload de um pacote de suporte", clique em **Escolher Arquivo** e escolha um arquivo para fazer o upload. Em seguida, clique em **Solicitar verificação de integridade**.
 
-   ![Captura de tela dos botões "Escolher arquivo" e "Solicitar verificação de integridade".](/assets/images/enterprise/support/health-check-dialog-choose-file.png)
+   ![Captura de tela dos botões "Escolher arquivo" e "Solicitar verificação de integridade".](/assets/images/2022/02/enterprise/support/health-check-dialog-choose-file.png)
 
 
 Após solicitar uma verificação de integridade, será agendado um trabalho para gerar a verificação de integridade. Após várias horas em um dia, a verificação de saúde gerada aparecerá na seção "Verificação de integridade" do {% data variables.contact.support_portal %}.
 
-![Captura de tela da seção Verificações de Integridadedo {% data variables.contact.support_portal %}.](/assets/images/enterprise/support/support-portal-health-checks-section.png)
+![Captura de tela da seção Verificações de Integridadedo {% data variables.contact.support_portal %}.](/assets/images/2022/02/enterprise/support/support-portal-health-checks-section.png)

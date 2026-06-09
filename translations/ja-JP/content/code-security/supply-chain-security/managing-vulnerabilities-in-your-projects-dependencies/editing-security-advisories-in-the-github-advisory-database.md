@@ -24,7 +24,7 @@ Only repository owners and administrators can edit repository-level security adv
 
 1. Https://github.com/advisories にアクセスします。
 2. Select the security advisory you would like to contribute to.
-3. On the right-hand side of the page, click the **Suggest improvements for this vulnerability** link. ![Suggest improvements link](/assets/images/help/security/suggest-improvements-to-advisory.png)
+3. On the right-hand side of the page, click the **Suggest improvements for this vulnerability** link. ![Suggest improvements link](/assets/images/2022/02/help/security/suggest-improvements-to-advisory.png)
 4. In the contribution form, make the desired improvements. You can edit or add any detail.
 5. When you finish editing the advisory, click **Submit improvements**.
 6. Once you submit your improvements, a pull request containing your changes will be created for review in [github/advisory-database](https://github.com/github/advisory-database) by the {% data variables.product.prodname_security %} curation team. If the advisory originated from a {% data variables.product.prodname_dotcom %} repository, we will also tag the original publisher for optional commentary. You can view the pull request and get notifications when it is updated or closed.

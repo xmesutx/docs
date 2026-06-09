@@ -29,7 +29,7 @@ $ git clone https://{% data variables.command_line.codeblock %}/<em>USERNAME</em
 
 You can choose from [several different URLs](/github/getting-started-with-github/about-remote-repositories) when cloning a repository. While logged in to {% data variables.product.prodname_dotcom %}, these URLs are available below the repository details:
 
-![Remote URL list](/assets/images/help/repository/remotes-url.png)
+![Remote URL list](/assets/images/2021/10/help/repository/remotes-url.png)
 
 When you run `git clone`, the following actions occur:
 - A new folder called `repo` is made

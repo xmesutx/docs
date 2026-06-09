@@ -48,4 +48,4 @@ For a full list of actions, see "[Audited actions](/admin/user-management/audite
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
 4. Type a search query.
-![Search query](/assets/images/enterprise/site-admin-settings/search-query.png)
+![Search query](/assets/images/2021/10/enterprise/site-admin-settings/search-query.png)

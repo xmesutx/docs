@@ -45,8 +45,8 @@ You can view the subscription and usage for your enterprise and download a file 
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
 1. [User licenses] の下に、合計ライセンス数、消費ライセンス数、プランの有効期限が表示されます。
-  {% ifversion ghec %}![License and subscription information in enterprise billing settings](/assets/images/help/business-accounts/billing-license-info.png){% else %}
-  ![Enterprise 支払い設定のライセンスおよびプラン情報](/assets/images/enterprise/enterprise-server/enterprise-server-billing-license-info.png){% endif %}
-1. Optionally, to view details for license usage or download a {% ifversion ghec %}CSV{% elsif ghes %}JSON{% endif %} file with license details{% ifversion ghec %}, to the right of "User Licenses"{% endif %}, click **View {% ifversion ghec %}details{% elsif ghes %}users{% endif %}** or {% ifversion ghec %}{% octicon "download" aria-label="The download icon" %}{% elsif ghes %}**Export license usage**{% endif %}.{% ifversion ghec %} !["View details" button and button with download icon to the right of "User Licenses"](/assets/images/help/business-accounts/billing-license-info-click-view-details-or-download.png){% endif %}{% ifversion ghec %}
-1. 必要に応じて、他の機能の使用状況の詳細を表示するには、左サイドバーで [**Billing**] をクリックします。 ![Enterpriseアカウント設定のサイドバーの支払いタブ](/assets/images/help/business-accounts/settings-billing-tab.png)
+  {% ifversion ghec %}![License and subscription information in enterprise billing settings](/assets/images/2021/10/help/business-accounts/billing-license-info.png){% else %}
+  ![Enterprise 支払い設定のライセンスおよびプラン情報](/assets/images/2021/10/enterprise/enterprise-server/enterprise-server-billing-license-info.png){% endif %}
+1. Optionally, to view details for license usage or download a {% ifversion ghec %}CSV{% elsif ghes %}JSON{% endif %} file with license details{% ifversion ghec %}, to the right of "User Licenses"{% endif %}, click **View {% ifversion ghec %}details{% elsif ghes %}users{% endif %}** or {% ifversion ghec %}{% octicon "download" aria-label="The download icon" %}{% elsif ghes %}**Export license usage**{% endif %}.{% ifversion ghec %} !["View details" button and button with download icon to the right of "User Licenses"](/assets/images/2021/10/help/business-accounts/billing-license-info-click-view-details-or-download.png){% endif %}{% ifversion ghec %}
+1. 必要に応じて、他の機能の使用状況の詳細を表示するには、左サイドバーで [**Billing**] をクリックします。 ![Enterpriseアカウント設定のサイドバーの支払いタブ](/assets/images/2021/10/help/business-accounts/settings-billing-tab.png)
 {% endif %}

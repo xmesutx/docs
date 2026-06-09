@@ -21,5 +21,5 @@ shortTitle: Eliminar a los miembros
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-4. Selecciona la persona o las personas que quieres eliminar. ![Casilla junto al miembro de la organización](/assets/images/help/teams/team-member-check-box.png)
-5. Arriba de la lista de miembros del equipo, utiliza el menú desplegable y haz clic en **Remove from team** (Eliminar del equipo). ![Menú desplegable con opción para cambiar el rol](/assets/images/help/teams/bulk-edit-drop-down.png)
+4. Selecciona la persona o las personas que quieres eliminar. ![Casilla junto al miembro de la organización](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. Arriba de la lista de miembros del equipo, utiliza el menú desplegable y haz clic en **Remove from team** (Eliminar del equipo). ![Menú desplegable con opción para cambiar el rol](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)

@@ -105,11 +105,11 @@ Uma vez que {% data variables.product.prodname_dependabot %} usa dados curados e
 
 Quando uma dependência tem várias vulnerabilidades, gera-se um alerta para cada vulnerabilidade no nível da consultoria mais manifesto.
 
-![Captura de tela da aba de {% data variables.product.prodname_dependabot_alerts %} que mostra dois alertas do mesmo pacote com manifestos diferentes.](/assets/images/help/repository/dependabot-alerts-view.png)
+![Captura de tela da aba de {% data variables.product.prodname_dependabot_alerts %} que mostra dois alertas do mesmo pacote com manifestos diferentes.](/assets/images/2021/10/help/repository/dependabot-alerts-view.png)
 
 O legado de {% data variables.product.prodname_dependabot_alerts %} foi agrupado em um único alerta agregado com todas as vulnerabilidades para a mesma dependência. Se você acessar um link para um alerta de legadode {% data variables.product.prodname_dependabot %}, você será redirecionado para a aba de {% data variables.product.prodname_dependabot_alerts %} filtrada para exibir vulnerabilidades para esse pacote e manifesto dependente.
 
-![Captura de tela da aba {% data variables.product.prodname_dependabot_alerts %} que mostra os alertas filtrados da navegação até um alerta de legado de {% data variables.product.prodname_dependabot %}.](/assets/images/help/repository/legacy-dependabot-alerts-view.png)
+![Captura de tela da aba {% data variables.product.prodname_dependabot_alerts %} que mostra os alertas filtrados da navegação até um alerta de legado de {% data variables.product.prodname_dependabot %}.](/assets/images/2022/02/help/repository/legacy-dependabot-alerts-view.png)
 
 A contagem de {% data variables.product.prodname_dependabot_alerts %} em {% data variables.product.prodname_dotcom %} mostra um total para o número de alertas, que é o número de vulnerabilidades, não o número de dependências.
 

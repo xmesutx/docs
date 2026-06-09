@@ -23,5 +23,5 @@ Enterprise のオーナーは、Enterprise アカウントにあるすべての 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. [Member organization permissions] で、[**Allow members to view dependency insights**] を選択または選択解除します。 ![insights の表示をメンバーに許可するチェックボックス](/assets/images/help/organizations/allow-members-to-view-insights.png)
+5. [Member organization permissions] で、[**Allow members to view dependency insights**] を選択または選択解除します。 ![insights の表示をメンバーに許可するチェックボックス](/assets/images/2021/10/help/organizations/allow-members-to-view-insights.png)
 6. [**Save**] をクリックします。

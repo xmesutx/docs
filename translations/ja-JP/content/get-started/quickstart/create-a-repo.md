@@ -43,8 +43,8 @@ topics:
 {% webui %}
 
 {% data reusables.repositories.create_new %}
-2. リポジトリに、短くて覚えやすい名前を入力します。 たとえば、"hello-world" といった名前です。 ![リポジトリ名を入力するフィールド](/assets/images/help/repository/create-repository-name.png)
-3. 必要な場合、リポジトリの説明を追加します。 たとえば、「{% data variables.product.product_name %} の最初のリポジトリ」などです。 ![リポジトリの説明を入力するフィールド](/assets/images/help/repository/create-repository-desc.png)
+2. リポジトリに、短くて覚えやすい名前を入力します。 たとえば、"hello-world" といった名前です。 ![リポジトリ名を入力するフィールド](/assets/images/2021/10/help/repository/create-repository-name.png)
+3. 必要な場合、リポジトリの説明を追加します。 たとえば、「{% data variables.product.product_name %} の最初のリポジトリ」などです。 ![リポジトリの説明を入力するフィールド](/assets/images/2021/10/help/repository/create-repository-desc.png)
 {% data reusables.repositories.choose-repo-visibility %}
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
@@ -74,11 +74,11 @@ topics:
 
 それでは、*README* ファイルに変更を加えてコミットしてみましょう。
 
-1. リポジトリのファイル一覧にある、[***README.md***] をクリックします。 ![ファイル一覧にある README ファイル](/assets/images/help/repository/create-commit-open-readme.png)
+1. リポジトリのファイル一覧にある、[***README.md***] をクリックします。 ![ファイル一覧にある README ファイル](/assets/images/2021/10/help/repository/create-commit-open-readme.png)
 2. ファイルの中身の上にある {% octicon "pencil" aria-label="The edit icon" %}をクリックします。
-3. [**Edit file**] タブで、あなた自身に関する情報を入力します。 ![ファイル内の新しいコンテンツ](/assets/images/help/repository/edit-readme-light.png)
+3. [**Edit file**] タブで、あなた自身に関する情報を入力します。 ![ファイル内の新しいコンテンツ](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
-5. ファイルに加えた変更を確認します。 新しいコンテンツは緑色で表示されます。 ![ファイルプレビュービュー](/assets/images/help/repository/create-commit-review.png)
+5. ファイルに加えた変更を確認します。 新しいコンテンツは緑色で表示されます。 ![ファイルプレビュービュー](/assets/images/2021/10/help/repository/create-commit-review.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_file_change %}

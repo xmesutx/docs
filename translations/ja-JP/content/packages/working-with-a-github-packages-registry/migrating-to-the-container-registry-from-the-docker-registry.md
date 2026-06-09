@@ -23,7 +23,7 @@ Dockerイメージが{% data variables.product.prodname_container_registry %}に
 * 以前はDockerロゴだったアイコンは{% data variables.product.prodname_container_registry %}ロゴになります。
 * 以前は`docker.pkg.github.com`だったプルURL内のドメインは、`ghcr.io`になります。
 
-![{% data variables.product.prodname_container_registry %}詳細ページ](/assets/images/help/package-registry/container-registry-details-page.png)
+![{% data variables.product.prodname_container_registry %}詳細ページ](/assets/images/2021/10/help/package-registry/container-registry-details-page.png)
 
 ## {% data variables.product.prodname_container_registry %}とDockerレジストリの主な違い
 

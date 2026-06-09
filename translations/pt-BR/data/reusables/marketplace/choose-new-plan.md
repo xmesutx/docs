@@ -1,1 +1,1 @@
-1. Em "Edit your plan" (Editar seu plano), use o menu suspenso e clique em um novo plano. ![Menu suspenso listando todos os planos disponíveis do aplicativo](/assets/images/help/marketplace/marketplace-choose-new-plan.png)
+1. Em "Edit your plan" (Editar seu plano), use o menu suspenso e clique em um novo plano. ![Menu suspenso listando todos os planos disponíveis do aplicativo](/assets/images/2021/10/help/marketplace/marketplace-choose-new-plan.png)

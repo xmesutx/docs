@@ -20,7 +20,7 @@ shortTitle: Use the visualization graph
 {% data reusables.repositories.view-run %}
 
 1. The graph displays each job in the workflow. An icon to the left of the job name indicates the status of the job. Lines between jobs indicate dependencies.
-   ![Workflow graph](/assets/images/help/images/workflow-graph.png)
+   ![Workflow graph](/assets/images/2021/10/help/images/workflow-graph.png)
 
 2. Click on a job to view the job log.
-   ![Workflow graph](/assets/images/help/images/workflow-graph-job.png)
+   ![Workflow graph](/assets/images/2021/10/help/images/workflow-graph-job.png)

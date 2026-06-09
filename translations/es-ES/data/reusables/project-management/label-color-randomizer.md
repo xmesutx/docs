@@ -1,1 +1,1 @@
-1. De manera opcional, para personalizar el color de tu etiqueta, edita el número hexadecimal, o da clic en el botón de actualización para obtener otra selección aleatoria. ![Emite un nuevo color de etiqueta cuando actualiza](/assets/images/help/issues/issues-color-refresh.png)
+1. De manera opcional, para personalizar el color de tu etiqueta, edita el número hexadecimal, o da clic en el botón de actualización para obtener otra selección aleatoria. ![Emite un nuevo color de etiqueta cuando actualiza](/assets/images/2021/10/help/issues/issues-color-refresh.png)

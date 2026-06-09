@@ -26,28 +26,28 @@ shortTitle: スケジュールされたリマインダーの管理
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.reminders.scheduled-reminders %}
-1. リマインダーをスケジュールしたい Organization の隣で [**Edit**] をクリックします。 ![[Scheduled reminders edit] ボタン](/assets/images/help/settings/scheduled-reminders-org-choice.png)
+1. リマインダーをスケジュールしたい Organization の隣で [**Edit**] をクリックします。 ![[Scheduled reminders edit] ボタン](/assets/images/2021/10/help/settings/scheduled-reminders-org-choice.png)
 {% data reusables.reminders.add-reminder %}
 {% data reusables.reminders.authorize-slack %}
 {% data reusables.reminders.days-dropdown %}
 {% data reusables.reminders.times-dropdowns %}
-8. オプションで、自分が割り当てられているレビュー担当者のスケジュールされたリマインダーを受け取るには、[**Review requests assigned to you**] を選択します。 ![[Review requests assigned to you] チェックボックス](/assets/images/help/profile/scheduled-reminders-your-requests.png)
-9. オプションで、自分がメンバーになっている Team に割り当てられているレビュー担当者のスケジュールされたリマインダーを受け取るには、[**Review requests assigned to your team**] を選択します。 ![[Review requests assigned to your team] チェックボックス](/assets/images/help/profile/scheduled-reminders-your-team-requests.png)
+8. オプションで、自分が割り当てられているレビュー担当者のスケジュールされたリマインダーを受け取るには、[**Review requests assigned to you**] を選択します。 ![[Review requests assigned to you] チェックボックス](/assets/images/2021/10/help/profile/scheduled-reminders-your-requests.png)
+9. オプションで、自分がメンバーになっている Team に割り当てられているレビュー担当者のスケジュールされたリマインダーを受け取るには、[**Review requests assigned to your team**] を選択します。 ![[Review requests assigned to your team] チェックボックス](/assets/images/2021/10/help/profile/scheduled-reminders-your-team-requests.png)
 {% data reusables.reminders.real-time-alerts %}
-![[Enable real-time alerts] チェックボックス](/assets/images/help/settings/scheduled-reminders-real-time-alerts-personal.png)
+![[Enable real-time alerts] チェックボックス](/assets/images/2021/10/help/settings/scheduled-reminders-real-time-alerts-personal.png)
 {% data reusables.reminders.create-reminder %}
 
 ## ユーザアカウントのスケジュールされたリマインダーを管理する
 {% data reusables.user-settings.access_settings %}
 {% data reusables.reminders.scheduled-reminders %}
-1. スケジュールされたリマインダーを編集したい Organization の隣で [**Edit**] をクリックします。 ![[Scheduled reminders edit] ボタン](/assets/images/help/settings/scheduled-reminders-org-choice.png)
+1. スケジュールされたリマインダーを編集したい Organization の隣で [**Edit**] をクリックします。 ![[Scheduled reminders edit] ボタン](/assets/images/2021/10/help/settings/scheduled-reminders-org-choice.png)
 {% data reusables.reminders.edit-page %}
 {% data reusables.reminders.update-buttons %}
 
 ## ユーザアカウントのスケジュールされたリマインダーを削除する
 {% data reusables.user-settings.access_settings %}
 {% data reusables.reminders.scheduled-reminders %}
-1. リマインダーを削除したい Organization の隣で [**Edit**] をクリックします。 ![[Scheduled reminders edit] ボタン](/assets/images/help/settings/scheduled-reminders-org-choice.png)
+1. リマインダーを削除したい Organization の隣で [**Edit**] をクリックします。 ![[Scheduled reminders edit] ボタン](/assets/images/2021/10/help/settings/scheduled-reminders-org-choice.png)
 {% data reusables.reminders.delete %}
 
 ## 参考リンク

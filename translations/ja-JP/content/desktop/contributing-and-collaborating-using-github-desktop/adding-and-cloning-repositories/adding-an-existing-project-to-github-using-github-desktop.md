@@ -14,13 +14,13 @@ shortTitle: Add an existing project
 2. [Add the repository to GitHub Desktop](/desktop/guides/contributing-to-projects/adding-a-repository-from-your-local-computer-to-github-desktop/).
 {% data reusables.desktop.publish-repository %}
 4. Type the desired name of the repository in the **Name** field or use the default current local repository name.
-  ![The Name field](/assets/images/help/desktop/publish-repository-name-mac.png)
+  ![The Name field](/assets/images/2021/10/help/desktop/publish-repository-name-mac.png)
 5. To publish a public repository, unselect **Keep this code private**.
-  ![Keep this code private checkbox](/assets/images/help/desktop/publish-repository-private-checkbox-mac.png)
+  ![Keep this code private checkbox](/assets/images/2021/10/help/desktop/publish-repository-private-checkbox-mac.png)
 6. Choose the organization in the **Organization** drop-down where you want to publish the repository, or select **None** to publish the repository to your personal account.
-  ![Organization drop-down](/assets/images/help/desktop/publish-repository-org-dropdown-mac.png)
+  ![Organization drop-down](/assets/images/2021/10/help/desktop/publish-repository-org-dropdown-mac.png)
 7. Click the **Publish Repository** button.
-  ![The Publish repository button in the Publish Repository dialog](/assets/images/help/desktop/publish-repository-dialog-button-mac.png)
+  ![The Publish repository button in the Publish Repository dialog](/assets/images/2021/10/help/desktop/publish-repository-dialog-button-mac.png)
 
 {% endmac %}
 
@@ -30,12 +30,12 @@ shortTitle: Add an existing project
 2. [Add the repository to GitHub Desktop](/desktop/guides/contributing-to-projects/adding-a-repository-from-your-local-computer-to-github-desktop/).
 {% data reusables.desktop.publish-repository %}
 4. Type the desired name of the repository in the **Name** field or use the default current local repository name.
-  ![The Name field](/assets/images/help/desktop/publish-repository-name-win.png)
+  ![The Name field](/assets/images/2021/10/help/desktop/publish-repository-name-win.png)
 5. To publish a public repository, unselect **Keep this code private**.
-  ![Keep this code private checkbox](/assets/images/help/desktop/publish-repository-private-checkbox-win.png)
+  ![Keep this code private checkbox](/assets/images/2021/10/help/desktop/publish-repository-private-checkbox-win.png)
 6. Choose the organization in the **Organization** drop-down where you want to publish the repository, or select **None** to publish the repository to your personal account.
-  ![Organization drop-down](/assets/images/help/desktop/publish-repository-org-dropdown-win.png)
+  ![Organization drop-down](/assets/images/2021/10/help/desktop/publish-repository-org-dropdown-win.png)
 7. Click the **Publish repository** button.
-  ![The Publish repository button in the Publish repository dialog](/assets/images/help/desktop/publish-repository-dialog-button-win.png)
+  ![The Publish repository button in the Publish repository dialog](/assets/images/2021/10/help/desktop/publish-repository-dialog-button-win.png)
 
 {% endwindows %}

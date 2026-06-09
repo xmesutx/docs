@@ -1,1 +1,1 @@
-1. Under "Organizations", next to the name of your organization, click **Settings**. ![Screenshot of an organization next to the "Settings" button](/assets/images/help/organizations/list-of-organizations.png)
+1. Under "Organizations", next to the name of your organization, click **Settings**. ![Screenshot of an organization next to the "Settings" button](/assets/images/2021/11/help/organizations/list-of-organizations.png)

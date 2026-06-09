@@ -62,10 +62,10 @@ Se você estiver conectando {% data variables.product.product_location %} a uma 
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
 1. Em "{% data variables.product.prodname_github_connect %} ainda não está habilitado", clique em **Habilitar {% data variables.product.prodname_github_connect %}**. Ao clicar em **Habilitar {% data variables.product.prodname_github_connect %}**, você concorda com os "<a href="/github/site-policy/github-terms-for-additional-products-and-features#connect" class="dotcom-only">Termos para Produtos e Funcionalidades adicionais de {% data variables.product.prodname_dotcom %}</a>.".
 {% ifversion ghes %}
-![Enable GitHub Connect button](/assets/images/enterprise/business-accounts/enable-github-connect-button.png){% else %}
-![Enable GitHub Connect button](/assets/images/enterprise/github-ae/enable-github-connect-button.png)
+![Enable GitHub Connect button](/assets/images/2021/10/enterprise/business-accounts/enable-github-connect-button.png){% else %}
+![Enable GitHub Connect button](/assets/images/2021/10/enterprise/github-ae/enable-github-connect-button.png)
 {% endif %}
-1. Ao lado da conta corporativa ou organização que você pretende conectar, clique em **Connect** (Conectar). ![Botão Connect (Conectar) ao lado de uma conta corporativa ou empresa](/assets/images/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
+1. Ao lado da conta corporativa ou organização que você pretende conectar, clique em **Connect** (Conectar). ![Botão Connect (Conectar) ao lado de uma conta corporativa ou empresa](/assets/images/2021/10/enterprise/business-accounts/choose-enterprise-or-org-connect.png)
 
 ## Desabilitar {% data variables.product.prodname_github_connect %}
 
@@ -77,9 +77,9 @@ When you disconnect from {% data variables.product.prodname_ghe_cloud %}, the {%
 {% data reusables.enterprise-accounts.github-connect-tab %}
 1. Ao lado da conta corporativa ou organização que você deseja desconectar, clique em **Desabilitar {% data variables.product.prodname_github_connect %}**.
 {% ifversion ghes %}
-  ![Desabilitar o botão GitHub Connect ao lado do nome de uma conta corporativa ou organização](/assets/images/enterprise/business-accounts/disable-github-connect-button.png)
-1. Leia as informações sobre desconexão e clique em **Desabilitar {% data variables.product.prodname_github_connect %}**. ![Botão Modal com informações de aviso sobre desconexão e confirmação](/assets/images/enterprise/business-accounts/confirm-disable-github-connect.png)
+  ![Desabilitar o botão GitHub Connect ao lado do nome de uma conta corporativa ou organização](/assets/images/2021/10/enterprise/business-accounts/disable-github-connect-button.png)
+1. Leia as informações sobre desconexão e clique em **Desabilitar {% data variables.product.prodname_github_connect %}**. ![Botão Modal com informações de aviso sobre desconexão e confirmação](/assets/images/2021/10/enterprise/business-accounts/confirm-disable-github-connect.png)
 {% else %}
-  ![Desabilitar o botão GitHub Connect ao lado do nome de uma conta corporativa ou organização](/assets/images/enterprise/github-ae/disable-github-connect-button.png)
-1. Leia as informações sobre desconexão e clique em **Desabilitar {% data variables.product.prodname_github_connect %}**. ![Botão Modal com informações de aviso sobre desconexão e confirmação](/assets/images/enterprise/github-ae/confirm-disable-github-connect.png)
+  ![Desabilitar o botão GitHub Connect ao lado do nome de uma conta corporativa ou organização](/assets/images/2021/10/enterprise/github-ae/disable-github-connect-button.png)
+1. Leia as informações sobre desconexão e clique em **Desabilitar {% data variables.product.prodname_github_connect %}**. ![Botão Modal com informações de aviso sobre desconexão e confirmação](/assets/images/2021/10/enterprise/github-ae/confirm-disable-github-connect.png)
 {% endif %} 

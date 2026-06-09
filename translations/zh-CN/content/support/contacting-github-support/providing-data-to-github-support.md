@@ -129,10 +129,10 @@ $ ssh -p122 admin@<em>hostname</em> -- 'ghe-diagnostics' > diagnostics.txt
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. 在左侧边栏中，单击 **Enterprise licensing（企业许可）**。 ![Screenshot showing "Enterprise licensing" link in the enterprise account settings sidebar.](/assets/images/help/enterprises/enterprise-licensing-tab.png)
-4. 在“{% data variables.product.prodname_enterprise %} 帮助”下，单击 **Upload a support bundle（上传支持包）**。 ![Screenshot showing "Upload a support bundle link".](/assets/images/enterprise/support/upload-support-bundle.png)
-5. 在“Select an enterprise account（选择企业帐户）”下，从下拉菜单选择支持包的相关帐户。 ![Screenshot showing the dropdown menu to select the support bundle's enterprise account.](/assets/images/enterprise/support/support-bundle-account.png)
-6. 在“为 {% data variables.contact.enterprise_support %} 上传支持包”下，选择您的支持包，单击 **Choose file（选择文件）**，或将您的支持包文件拖到 **Choose file（选择文件）**上。 ![Screenshot showing the "Choose file" button to upload a support bundle file.](/assets/images/enterprise/support/choose-support-bundle-file.png)
+3. 在左侧边栏中，单击 **Enterprise licensing（企业许可）**。 ![Screenshot showing "Enterprise licensing" link in the enterprise account settings sidebar.](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
+4. 在“{% data variables.product.prodname_enterprise %} 帮助”下，单击 **Upload a support bundle（上传支持包）**。 ![Screenshot showing "Upload a support bundle link".](/assets/images/2021/10/enterprise/support/upload-support-bundle.png)
+5. 在“Select an enterprise account（选择企业帐户）”下，从下拉菜单选择支持包的相关帐户。 ![Screenshot showing the dropdown menu to select the support bundle's enterprise account.](/assets/images/2021/10/enterprise/support/support-bundle-account.png)
+6. 在“为 {% data variables.contact.enterprise_support %} 上传支持包”下，选择您的支持包，单击 **Choose file（选择文件）**，或将您的支持包文件拖到 **Choose file（选择文件）**上。 ![Screenshot showing the "Choose file" button to upload a support bundle file.](/assets/images/2021/10/enterprise/support/choose-support-bundle-file.png)
 7. 单击 **Upload（上传）**。
 
 ### 使用 SSH 直接上传支持包

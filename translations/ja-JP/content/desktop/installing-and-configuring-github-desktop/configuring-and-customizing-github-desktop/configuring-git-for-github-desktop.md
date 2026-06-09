@@ -27,13 +27,13 @@ versions:
 {% data reusables.desktop.copy-email-git-config %}
 {% data reusables.desktop.return-to-desktop %}
 {% data reusables.desktop.mac-select-desktop-menu %}
-7. [Preferences] ウィンドウで [**Git**] を選択します。 ![[Preferences] メニュー内の Git ペイン](/assets/images/help/desktop/mac-select-git-pane.png)
+7. [Preferences] ウィンドウで [**Git**] を選択します。 ![[Preferences] メニュー内の Git ペイン](/assets/images/2021/10/help/desktop/mac-select-git-pane.png)
 {% data reusables.desktop.name-field-git-config %}
-  ![Git コンフィグレーション内の [Name] フィールド](/assets/images/help/desktop/mac-name-git-config.png)
+  ![Git コンフィグレーション内の [Name] フィールド](/assets/images/2021/10/help/desktop/mac-name-git-config.png)
 {% data reusables.desktop.paste-email-git-config %}
-  ![Gitコンフィグレーションフィールドに貼り付けられたEメールアドレス](/assets/images/help/desktop/mac-email-git-config.png)
+  ![Gitコンフィグレーションフィールドに貼り付けられたEメールアドレス](/assets/images/2021/10/help/desktop/mac-email-git-config.png)
 {% data reusables.desktop.click-save-git-config %}
-  ![Git 設定フィールドの [Save] ボタン](/assets/images/help/desktop/mac-save-git-config.png)
+  ![Git 設定フィールドの [Save] ボタン](/assets/images/2021/10/help/desktop/mac-save-git-config.png)
 
 {% endmac %}
 
@@ -45,13 +45,13 @@ versions:
 {% data reusables.desktop.copy-email-git-config %}
 {% data reusables.desktop.return-to-desktop %}
 {% data reusables.desktop.windows-choose-options %}
-8. [Options] ウィンドウで [**Git**] を選択します。 ![[Options] メニュー内の Git ペイン](/assets/images/help/desktop/windows-select-git-pane.png)
+8. [Options] ウィンドウで [**Git**] を選択します。 ![[Options] メニュー内の Git ペイン](/assets/images/2021/10/help/desktop/windows-select-git-pane.png)
 {% data reusables.desktop.name-field-git-config %}
-  ![Git コンフィグレーション内の [Name] フィールド](/assets/images/help/desktop/windows-name-git-config.png)
+  ![Git コンフィグレーション内の [Name] フィールド](/assets/images/2021/10/help/desktop/windows-name-git-config.png)
 {% data reusables.desktop.paste-email-git-config %}
-  ![Gitコンフィグレーションフィールドに貼り付けられたEメールアドレス](/assets/images/help/desktop/windows-email-git-config.png)
+  ![Gitコンフィグレーションフィールドに貼り付けられたEメールアドレス](/assets/images/2021/10/help/desktop/windows-email-git-config.png)
 {% data reusables.desktop.click-save-git-config %}
-  ![Git 設定フィールドの [Save] ボタン](/assets/images/help/desktop/windows-save-git-config.png)
+  ![Git 設定フィールドの [Save] ボタン](/assets/images/2021/10/help/desktop/windows-save-git-config.png)
 
 {% endwindows %}
 

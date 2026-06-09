@@ -32,16 +32,16 @@ Para obter informações sobre como escolher um tipo de máquina ao criar um cod
 
    O tipo de máquina atual para cada um dos seus codespaces é exibido.
 
-   ![Lista "Seus codespaces"](/assets/images/help/codespaces/your-codespaces-list.png)
+   ![Lista "Seus codespaces"](/assets/images/2021/10/help/codespaces/your-codespaces-list.png)
 
 1. Clique nas reticências (**...**) à direita do codespace que você deseja modificar.
 1. Clique **Alterar tipo de máquina**.
 
-   ![Opção de menu '"Alterar tipo de máquina"](/assets/images/help/codespaces/change-machine-type-menu-option.png)
+   ![Opção de menu '"Alterar tipo de máquina"](/assets/images/2021/10/help/codespaces/change-machine-type-menu-option.png)
 
 1. Se vários tipos de máquina estiverem disponíveis para seu codespace, escolha o tipo de máquina que você deseja usar.
 
-   ![Caixa de diálogo que mostra tipos de máquinas disponíveis para escolher](/assets/images/help/codespaces/change-machine-type-choice.png)
+   ![Caixa de diálogo que mostra tipos de máquinas disponíveis para escolher](/assets/images/2021/10/help/codespaces/change-machine-type-choice.png)
 
    {% data reusables.codespaces.codespaces-machine-type-availability %}
 
@@ -55,12 +55,12 @@ Se você mudar o tipo de máquina de um codespace que você está usando atualme
 
 1. No canto inferior esquerdo da janela do seu codespace, clique em **{% data variables.product.prodname_codespaces %}**.
 
-   ![Clique em "{% data variables.product.prodname_codespaces %}"](/assets/images/help/codespaces/codespaces-button.png)
+   ![Clique em "{% data variables.product.prodname_codespaces %}"](/assets/images/2021/10/help/codespaces/codespaces-button.png)
 
 1. Entre opções que são exibidas na parte superior da página, selecione **Codespaces: Parar os codespaces atuais**.
 
-   ![Opção "Suspender codespace atual"](/assets/images/help/codespaces/suspend-current-codespace.png)
+   ![Opção "Suspender codespace atual"](/assets/images/2021/10/help/codespaces/suspend-current-codespace.png)
 
 1. Após a interrupção do codespace, clique em **Reiniciar o codespace**.
 
-   ![Clique em "Retomar"](/assets/images/help/codespaces/resume-codespace.png)
+   ![Clique em "Retomar"](/assets/images/2021/10/help/codespaces/resume-codespace.png)

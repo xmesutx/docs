@@ -21,4 +21,4 @@ shortTitle: 删除帐单管理员
 {% endwarning %}
 
 {% data reusables.organizations.billing-settings %}
-1. 在“Billing management（帐单管理）”下“Billing managers（帐单管理员）”列表中您要删除的人员姓名旁边，单击 **Remove（删除）**。 ![删除帐单管理员](/assets/images/help/billing/settings_billing_managers_remove_manager.png)
+1. 在“Billing management（帐单管理）”下“Billing managers（帐单管理员）”列表中您要删除的人员姓名旁边，单击 **Remove（删除）**。 ![删除帐单管理员](/assets/images/2021/10/help/billing/settings_billing_managers_remove_manager.png)

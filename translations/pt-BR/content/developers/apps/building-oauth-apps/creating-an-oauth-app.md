@@ -25,14 +25,14 @@ topics:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
-4. Clique em **Novo aplicativo OAuth**. ![Botão para criar um novo aplicativo OAuth](/assets/images/oauth-apps/oauth_apps_new_app.png)
+4. Clique em **Novo aplicativo OAuth**. ![Botão para criar um novo aplicativo OAuth](/assets/images/2021/10/oauth-apps/oauth_apps_new_app.png)
 
   {% note %}
 
   **Observação:** Se você não criou um aplicativo antes, este botão informará: **Registre um novo aplicativo**.
 
   {% endnote %}
-6. Em "Nome do aplicativo", digite o nome do seu aplicativo. ![Campo para o nome do seu aplicativo](/assets/images/oauth-apps/oauth_apps_application_name.png)
+6. Em "Nome do aplicativo", digite o nome do seu aplicativo. ![Campo para o nome do seu aplicativo](/assets/images/2021/10/oauth-apps/oauth_apps_application_name.png)
 
   {% warning %}
 
@@ -40,9 +40,9 @@ topics:
 
   {% endwarning %}
 
-7. Em "URL da página inicial", digite a URL completa do site do seu aplicativo. ![Campo para a URL da página inicial de seu aplicativo](/assets/images/oauth-apps/oauth_apps_homepage_url.png)
-8. Opcionalmente, em "Descrição do aplicativo", digite uma descrição do seu aplicativo que os usuários irão ver. ![Campo para uma descrição do seu aplicativo](/assets/images/oauth-apps/oauth_apps_application_description.png)
-9. Em "URL de retorno de chamada de autorização", digite a URL de retorno de chamada do seu aplicativo. ![Campo para a URL de retorno de chamada de autorização do seu aplicativo](/assets/images/oauth-apps/oauth_apps_authorization_callback_url.png)
+7. Em "URL da página inicial", digite a URL completa do site do seu aplicativo. ![Campo para a URL da página inicial de seu aplicativo](/assets/images/2021/10/oauth-apps/oauth_apps_homepage_url.png)
+8. Opcionalmente, em "Descrição do aplicativo", digite uma descrição do seu aplicativo que os usuários irão ver. ![Campo para uma descrição do seu aplicativo](/assets/images/2021/10/oauth-apps/oauth_apps_application_description.png)
+9. Em "URL de retorno de chamada de autorização", digite a URL de retorno de chamada do seu aplicativo. ![Campo para a URL de retorno de chamada de autorização do seu aplicativo](/assets/images/2021/10/oauth-apps/oauth_apps_authorization_callback_url.png)
 {% ifversion fpt or ghes or ghec %}
    {% note %}
 
@@ -50,4 +50,4 @@ topics:
 
    {% endnote %}
 {% endif %}
-10. Clique em **Register application** (Registrar aplicativo). ![Botão para registrar um aplicativo](/assets/images/oauth-apps/oauth_apps_register_application.png)
+10. Clique em **Register application** (Registrar aplicativo). ![Botão para registrar um aplicativo](/assets/images/2021/10/oauth-apps/oauth_apps_register_application.png)

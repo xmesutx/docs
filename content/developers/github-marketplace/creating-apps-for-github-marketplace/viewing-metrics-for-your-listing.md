@@ -42,7 +42,7 @@ The Insights page displays these performance metrics, for the selected time peri
 * **Unique visitors to checkout page:** Number of people who viewed one of your GitHub App's checkout pages.
 * **Checkout page to new subscriptions:** Total number of paid subscriptions, free trials, and free subscriptions. See the "Breakdown of total subscriptions" for the specific number of each type of subscription.
 
-![Marketplace insights](/assets/images/marketplace/marketplace_insights.png)
+![Marketplace insights](/assets/images/2021/10/marketplace/marketplace_insights.png)
 
 To access {% data variables.product.prodname_marketplace %} Insights:
 
@@ -53,4 +53,4 @@ To access {% data variables.product.prodname_marketplace %} Insights:
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. Click the **Insights** tab.
 7. Optionally, select a different time period by clicking the Period dropdown in the upper-right corner of the Insights page.
-![Marketplace time period](/assets/images/marketplace/marketplace_insights_time_period.png)
+![Marketplace time period](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

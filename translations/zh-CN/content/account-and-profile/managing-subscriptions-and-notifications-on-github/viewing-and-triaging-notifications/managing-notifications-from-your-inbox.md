@@ -28,15 +28,15 @@ shortTitle: 从收件箱管理
 
 要访问通知收件箱，请在任意页面的右上角单击 {% octicon "bell" aria-label="The notifications bell" %}。
 
-  ![表示任何未读消息的通知](/assets/images/help/notifications/notifications_general_existence_indicator.png)
+  ![表示任何未读消息的通知](/assets/images/2021/10/help/notifications/notifications_general_existence_indicator.png)
 
 收件箱显示您尚未取消订阅或标记为**完成**的所有通知。您可以使用过滤器自定义收件箱，使之最适合您的工作流程，查看所有通知或只查看未读通知，对通知分组通知以获取快速概览。
 
-  ![收件箱视图](/assets/images/help/notifications-v2/inbox-view.png)
+  ![收件箱视图](/assets/images/2021/10/help/notifications-v2/inbox-view.png)
 
 默认情况下，您的收件箱将显示已读和未读通知。 如果只想查看未读通知，请单击 **Unread（未读）**或使用 `is:unread` 查询。
 
-  ![未读收件箱视图](/assets/images/help/notifications-v2/unread-inbox-view.png)
+  ![未读收件箱视图](/assets/images/2021/10/help/notifications-v2/unread-inbox-view.png)
 
 ## 分类选项
 
@@ -58,13 +58,13 @@ shortTitle: 从收件箱管理
 
 要一次对多种通知分类，请选择相关通知并使用 {% octicon "kebab-horizontal" aria-label="The edit icon" %} 下拉列表以选择分类选项。
 
-![带有分类选项和选定通知的下拉菜单](/assets/images/help/notifications-v2/triage-multiple-notifications-together.png)
+![带有分类选项和选定通知的下拉菜单](/assets/images/2021/10/help/notifications-v2/triage-multiple-notifications-together.png)
 
 ## 默认通知过滤器
 
 默认情况下，收件箱中有针对您被分配任务、参与帖子、请求审查拉取请求的过滤器，或者针对您的用户名被直接 @提及或您所属团队被 @提及的过滤器。
 
-  ![默认自定义过滤器](/assets/images/help/notifications-v2/default-filters.png)
+  ![默认自定义过滤器](/assets/images/2021/10/help/notifications-v2/default-filters.png)
 
 ## 使用自定义过滤器自定义收件箱
 
@@ -81,7 +81,7 @@ shortTitle: 从收件箱管理
 
 3. 为过滤器和过滤器查询添加名称。 例如，如果只想看特定仓库的通知，可以使用查询 `repo:octocat/open-source-project-name reason:participating` 创建一个过滤器。 您也可以用原生表情键盘添加表情符号。 有关受支持的搜索查询的列表，请参阅“[支持的自定义过滤器查询](#supported-queries-for-custom-filters)”。
 
-  ![自定义过滤器示例](/assets/images/help/notifications-v2/custom-filter-example.png)
+  ![自定义过滤器示例](/assets/images/2021/10/help/notifications-v2/custom-filter-example.png)
 
 4. 单击 **Create（创建）**。
 

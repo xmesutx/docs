@@ -29,7 +29,7 @@ Na seção "Recent activity" (Atividade recente) do feed de notícias, você pod
 
 Na barra lateral esquerda do painel, é possível acessar os principais repositórios da sua organização nos quais você está ativo.
 
-![Lista de repositórios em que você é mais ativo na sua organização](/assets/images/help/dashboard/repositories-from-organization-dashboard.png)
+![Lista de repositórios em que você é mais ativo na sua organização](/assets/images/2021/10/help/dashboard/repositories-from-organization-dashboard.png)
 
 ## Permanecer atualizado com a atividade da organização
 

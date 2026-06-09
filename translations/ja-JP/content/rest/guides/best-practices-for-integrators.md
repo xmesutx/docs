@@ -39,7 +39,7 @@ GitHubは、webhookペイロードを受信後{% ifversion fpt or ghec %}10{% el
 
 各webhookには、デプロイメントが成功したかどうかを列挙する独自の「最近のデリバリ」セクションがあります。
 
-![[Recent Deliveries] ビュー](/assets/images/webhooks_recent_deliveries.png)
+![[Recent Deliveries] ビュー](/assets/images/2021/10/webhooks_recent_deliveries.png)
 
 ユーザへの通知には、適切なHTTPステータスコードを使用するべきです。 (デフォルトでないブランチから配信されたペイロードなど) 処理できないペイロードの受信を知らせるため、`201`や`202`といったコードを使用できます。 `500`のエラーコードは、致命的な障害に用いましょう。
 
@@ -47,7 +47,7 @@ GitHubは、webhookペイロードを受信後{% ifversion fpt or ghec %}10{% el
 
 ユーザはGitHubに返信したサーバーの応答を調べることができます。 メッセージは明確で参考になるものとしてください。
 
-![ペイロードレスポンスの表示](/assets/images/payload_response_tab.png)
+![ペイロードレスポンスの表示](/assets/images/2021/10/payload_response_tab.png)
 
 ## APIが送信するあらゆるAPIに従う
 

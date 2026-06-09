@@ -24,4 +24,4 @@ shortTitle: 阻止创建组织
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. 在“Users can create organizations”下，使用下拉菜单，然后单击 **Enabled** 或 **Disabled**。 ![Users can create organizations 下拉菜单](/assets/images/enterprise/site-admin-settings/users-create-orgs-dropdown.png)
+4. 在“Users can create organizations”下，使用下拉菜单，然后单击 **Enabled** 或 **Disabled**。 ![Users can create organizations 下拉菜单](/assets/images/2021/10/enterprise/site-admin-settings/users-create-orgs-dropdown.png)

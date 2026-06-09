@@ -24,7 +24,7 @@ For more information about viewing the subscription and usage for your enterpris
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 4. Under "Current Invoice", click **View invoice**.
-  ![View invoice link](/assets/images/help/business-accounts/view-invoice-link.png)
+  ![View invoice link](/assets/images/2021/10/help/business-accounts/view-invoice-link.png)
 
 ## Paying your current invoice
 
@@ -32,9 +32,9 @@ For more information about viewing the subscription and usage for your enterpris
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 4. Under "Payment Due", click **Pay invoice**.
-  ![Pay invoice link](/assets/images/help/business-accounts/pay-invoice-link.png)
+  ![Pay invoice link](/assets/images/2021/10/help/business-accounts/pay-invoice-link.png)
 5. Under "Pay invoice", type your credit card information in the secure form, then click **Pay Invoice**.
-  ![Confirm and pay invoice](/assets/images/help/business-accounts/pay-invoice.png)
+  ![Confirm and pay invoice](/assets/images/2021/10/help/business-accounts/pay-invoice.png)
 
 ## Downloading your current invoice
 
@@ -42,7 +42,7 @@ For more information about viewing the subscription and usage for your enterpris
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 4. Under "Quick Actions", click **Download current invoice**.
-  ![Download current invoice link](/assets/images/help/business-accounts/download-current-invoice.png)
+  ![Download current invoice link](/assets/images/2021/10/help/business-accounts/download-current-invoice.png)
 
 ## Viewing your payment history
 
@@ -50,4 +50,4 @@ For more information about viewing the subscription and usage for your enterpris
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 4. To see a summary of your past billing activity, under "Billing", click the **Past Invoices** tab.
-  ![View payment history tab](/assets/images/help/business-accounts/view-payment-history.png)
+  ![View payment history tab](/assets/images/2021/10/help/business-accounts/view-payment-history.png)

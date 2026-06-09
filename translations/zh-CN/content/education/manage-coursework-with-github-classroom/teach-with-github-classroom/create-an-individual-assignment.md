@@ -104,7 +104,7 @@ shortTitle: 个人作业
 您可以在作业的 **Classroom roster（课堂花名册）**选项卡中查看学生是否已进入教室或提交作业。 您还可以在此选项卡中将学生的 {% data variables.product.prodname_dotcom %} 别名链接到其关联的花名册标识符，反之亦然。 {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="个人作业" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-individual-hero.png">
+  <img alt="个人作业" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-individual-hero.png">
 </div>
 
 ## 监控学生的进度

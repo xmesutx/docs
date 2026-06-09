@@ -16,7 +16,7 @@ shortTitle: Insignias personalizadas
 
 Predeterminadamente, una GitHUb App tendrá un [identicon](https://github.com/blog/1586-identicons) generado automáticamente. Una insignia de identicon se ve más o menos así:
 
-![Identicon](/assets/images/identicon.png)
+![Identicon](/assets/images/2021/10/identicon.png)
 
 Después de crear una GitHub App, puedes personalizar la insignia de tu app si subes un logo y seleccionas un color de fondo. Una insignia es una imagen de logo cuadrado dentro de una insignia circular. Puedes escoger un color de fondo para la insignia, el cual puede distinguir visualmente a tu app.
 
@@ -34,9 +34,9 @@ Para crear una insignia personalizada:
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-5. En "Mostrar información", arrastra y suelta una imagen de una carpeta local, o da clic en **Cargar un logo** para seleccionar una imagen de tu ordenador. ![Cargar un logo](/assets/images/github-apps/github_apps_upload_logo.png)
-6. Recorta tu imagen. Cuando termines, da clic en **Confirmar avatar nuevo**. ![Cortar y confirmar logo ](/assets/images/github-apps/github_apps_crop_and_set_avatar.png)
-7. En "Color de fondo de la insignia", teclea el [código hexadecimal de color](http://www.color-hex.com/) para el color de fondo de tu insignia. {% ifversion fpt or ghec %}**Nota:** El campo de ingreso para el "Color de fondo de la insignia" únicamente aparecerá después de que cargues un logo para la aplicación.{% endif %} ![Color de fondo de la insignia](/assets/images/github-apps/github_apps_badge_background_color.png)
+5. En "Mostrar información", arrastra y suelta una imagen de una carpeta local, o da clic en **Cargar un logo** para seleccionar una imagen de tu ordenador. ![Cargar un logo](/assets/images/2021/10/github-apps/github_apps_upload_logo.png)
+6. Recorta tu imagen. Cuando termines, da clic en **Confirmar avatar nuevo**. ![Cortar y confirmar logo ](/assets/images/2021/10/github-apps/github_apps_crop_and_set_avatar.png)
+7. En "Color de fondo de la insignia", teclea el [código hexadecimal de color](http://www.color-hex.com/) para el color de fondo de tu insignia. {% ifversion fpt or ghec %}**Nota:** El campo de ingreso para el "Color de fondo de la insignia" únicamente aparecerá después de que cargues un logo para la aplicación.{% endif %} ![Color de fondo de la insignia](/assets/images/2021/10/github-apps/github_apps_badge_background_color.png)
 
 {% ifversion fpt or ghec %}
 

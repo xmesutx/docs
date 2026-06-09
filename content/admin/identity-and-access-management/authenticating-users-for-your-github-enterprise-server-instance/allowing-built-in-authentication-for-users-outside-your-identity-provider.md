@@ -36,9 +36,9 @@ Built-in authentication for a specific IdP is disabled by default.
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
 4. Select your identity provider.
-  ![Select identity provider option](/assets/images/enterprise/management-console/identity-provider-select.gif)
+  ![Select identity provider option](/assets/images/2021/10/enterprise/management-console/identity-provider-select.gif)
 5. Select **Allow creation of accounts with built-in authentication**.
-  ![Select built-in authentication option](/assets/images/enterprise/management-console/built-in-auth-identity-provider-select.png)
+  ![Select built-in authentication option](/assets/images/2021/10/enterprise/management-console/built-in-auth-identity-provider-select.png)
 6. Read the warning, then click **Ok**.
 
 {% data reusables.enterprise_user_management.two_factor_auth_header %}

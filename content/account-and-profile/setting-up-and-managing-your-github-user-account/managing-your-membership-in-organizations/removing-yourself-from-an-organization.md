@@ -30,4 +30,4 @@ For more information, see "[Transferring organization ownership](/articles/trans
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.organizations %}
 3. Under "Organizations", find the organization you'd like to remove yourself from, then click **Leave**.
-  ![Leave organization button with roles shown](/assets/images/help/organizations/context-leave-organization-with-roles-shown.png)
+  ![Leave organization button with roles shown](/assets/images/2021/10/help/organizations/context-leave-organization-with-roles-shown.png)

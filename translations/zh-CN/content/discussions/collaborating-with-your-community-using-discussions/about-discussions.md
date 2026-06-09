@@ -15,7 +15,7 @@ With {% data variables.product.prodname_discussions %}, the community for your p
 - Ask questions, discuss and answer the questions, and mark the discussions as answered
 - Foster an inviting atmosphere for visitors and contributors to discuss goals, development, administration, and workflows
 
-![Discussions tab for a repository](/assets/images/help/discussions/hero.png)
+![Discussions tab for a repository](/assets/images/2021/10/help/discussions/hero.png)
 
 You don't need to close a discussion like you close an issue or a pull request.
 

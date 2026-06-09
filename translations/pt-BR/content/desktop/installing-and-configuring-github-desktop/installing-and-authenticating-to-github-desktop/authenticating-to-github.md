@@ -22,8 +22,8 @@ Antes de autenticar, {% data reusables.desktop.get-an-account %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
 {% data reusables.desktop.mac-select-accounts %}
-3. À direita de "{% data variables.product.prodname_dotcom_the_website %}," clique **Iniciar sessão**. ![Botão Sign In (Entrar) do GitHub](/assets/images/help/desktop/mac-sign-in-github.png)
-4. No painel "Entrar", clique em **Entrar usando seu navegador**. {% data variables.product.prodname_desktop %} abrirá seu navegador padrão. ![Link Sign in using your browser (Entrar via navegador)](/assets/images/help/desktop/sign-in-browser.png)
+3. À direita de "{% data variables.product.prodname_dotcom_the_website %}," clique **Iniciar sessão**. ![Botão Sign In (Entrar) do GitHub](/assets/images/2021/10/help/desktop/mac-sign-in-github.png)
+4. No painel "Entrar", clique em **Entrar usando seu navegador**. {% data variables.product.prodname_desktop %} abrirá seu navegador padrão. ![Link Sign in using your browser (Entrar via navegador)](/assets/images/2021/10/help/desktop/sign-in-browser.png)
 
   {% data reusables.user-settings.password-authentication-deprecation-desktop %}
 
@@ -38,7 +38,7 @@ Antes de autenticar, {% data reusables.desktop.get-an-account %}
 {% data reusables.desktop.mac-select-desktop-menu %}
 {% data reusables.desktop.mac-select-accounts %}
 {% data reusables.desktop.choose-product-authenticate %}
-4. Para adicionar uma conta no {% data variables.product.prodname_enterprise %}, digite suas credenciais em "Endereço de servidor corporativo" e clique em **Continuar**. ![Botão Sign In (Entrar) do GitHub Enterprise](/assets/images/help/desktop/mac-sign-in-button-enterprise.png)
+4. Para adicionar uma conta no {% data variables.product.prodname_enterprise %}, digite suas credenciais em "Endereço de servidor corporativo" e clique em **Continuar**. ![Botão Sign In (Entrar) do GitHub Enterprise](/assets/images/2021/10/help/desktop/mac-sign-in-button-enterprise.png)
 {% data reusables.desktop.retrieve-2fa %}
 
 {% endmac %}
@@ -49,8 +49,8 @@ Antes de autenticar, {% data reusables.desktop.get-an-account %}
 
 {% data reusables.desktop.windows-choose-options %}
 {% data reusables.desktop.windows-select-accounts %}
-3. À direita do "GitHub.com", clique **Iniciar sessão**. ![Botão Sign In (Entrar) do GitHub](/assets/images/help/desktop/windows-sign-in-github.png)
-4. No painel Sign in (Entrar), clique em **Sign in using your browser** (Entrar via navegador). ![Link Sign in using your browser (Entrar via navegador)](/assets/images/help/desktop/sign-in-browser.png)
+3. À direita do "GitHub.com", clique **Iniciar sessão**. ![Botão Sign In (Entrar) do GitHub](/assets/images/2021/10/help/desktop/windows-sign-in-github.png)
+4. No painel Sign in (Entrar), clique em **Sign in using your browser** (Entrar via navegador). ![Link Sign in using your browser (Entrar via navegador)](/assets/images/2021/10/help/desktop/sign-in-browser.png)
 
   {% data reusables.user-settings.password-authentication-deprecation-desktop %}
 
@@ -64,7 +64,7 @@ Antes de autenticar, {% data reusables.desktop.get-an-account %}
 {% data reusables.desktop.windows-choose-options %}
 {% data reusables.desktop.windows-select-accounts %}
 {% data reusables.desktop.choose-product-authenticate %}
-4. Para adicionar uma conta no {% data variables.product.prodname_enterprise %}, digite suas credenciais em "Endereço de servidor corporativo" e clique em **Continuar**. ![Botão Sign In (Entrar) do GitHub Enterprise](/assets/images/help/desktop/windows-sign-in-button-enterprise.png)
+4. Para adicionar uma conta no {% data variables.product.prodname_enterprise %}, digite suas credenciais em "Endereço de servidor corporativo" e clique em **Continuar**. ![Botão Sign In (Entrar) do GitHub Enterprise](/assets/images/2021/10/help/desktop/windows-sign-in-button-enterprise.png)
 {% data reusables.desktop.retrieve-2fa %}
 
 {% endwindows %}
@@ -79,14 +79,14 @@ Para alguns erros, {% data variables.product.prodname_desktop %} enviará a voc�
 
 {% mac %}
 
-1. Use o menu suspenso **Help** (Ajuda) e clique em **Show Logs in Finder** (Mostrar Logs no Finder). ![O botão Mostrar Logs no Finder](/assets/images/help/desktop/mac-show-logs.png)
+1. Use o menu suspenso **Help** (Ajuda) e clique em **Show Logs in Finder** (Mostrar Logs no Finder). ![O botão Mostrar Logs no Finder](/assets/images/2021/10/help/desktop/mac-show-logs.png)
 2. Selecione o arquivo de log a partir da data em que você encontrou o erro de autenticação.
 
 {% endmac %}
 
 {% windows %}
 
-1. Use o menu suspenso **Help** (Ajuda) e clique em **Show Logs in Explorer** (Mostrar Logs no Explorer). ![O botão Mostrar Logs no Explorer](/assets/images/help/desktop/windows-show-logs.png)
+1. Use o menu suspenso **Help** (Ajuda) e clique em **Show Logs in Explorer** (Mostrar Logs no Explorer). ![O botão Mostrar Logs no Explorer](/assets/images/2021/10/help/desktop/windows-show-logs.png)
 2. Selecione o arquivo de log a partir da data em que você encontrou o erro de autenticação.
 
 {% endwindows %}

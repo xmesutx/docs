@@ -65,7 +65,7 @@ When creating a group, you must choose a policy that defines which repositories 
 {% data reusables.actions.settings-sidebar-actions-runners %}
 1. Under {% ifversion ghes > 3.1 or ghae %}"Runners"{% elsif ghes < 3.2 %}"Self-hosted runners"{% endif %}, click **Add new**, and then **New group**.
 
-    ![Add runner group](/assets/images/help/settings/actions-org-add-runner-group.png)
+    ![Add runner group](/assets/images/2021/10/help/settings/actions-org-add-runner-group.png)
 1. Enter a name for your runner group, and assign a policy for repository access.
 
    You can configure a runner group to be accessible to a specific list of repositories, or to all repositories in the organization.{% ifversion ghec or ghes %} By default, only private repositories can access runners in a runner group, but you can override this. This setting can't be overridden if configuring an organization's runner group that was shared by an enterprise.{% endif %}
@@ -82,7 +82,7 @@ When creating a group, you must choose a policy that defines which repositories 
    {% endwarning %}
    {%- endif %}
 
-   ![Add runner group options](/assets/images/help/settings/actions-org-add-runner-group-options.png)
+   ![Add runner group options](/assets/images/2021/10/help/settings/actions-org-add-runner-group-options.png)
 1. Click **Save group** to create the group and apply the policy.
 {% endif %}
 
@@ -110,10 +110,10 @@ When creating a group, you must choose a policy that defines which organizations
    {%- endif %}
    {%- ifversion ghec or ghes %}
 
-   ![Add runner group options](/assets/images/help/settings/actions-enterprise-account-add-runner-group-options.png)
+   ![Add runner group options](/assets/images/2021/10/help/settings/actions-enterprise-account-add-runner-group-options.png)
    {%- elsif ghae %}
 
-   ![Add runner group options](/assets/images/help/settings/actions-enterprise-account-add-runner-group-options-ae.png)
+   ![Add runner group options](/assets/images/2022/03/help/settings/actions-enterprise-account-add-runner-group-options-ae.png)
    {%- endif %}
 1. Click **Save group** to create the group and apply the policy.
 
@@ -168,11 +168,11 @@ If you don't specify a runner group during the registration process, your new se
 3. In "Move runner to group", choose a destination group for the runner.
 {% elsif ghae or ghes < 3.4 %}
 1. In the {% ifversion ghes > 3.1 or ghae %}"Runner groups"{% elsif ghes < 3.2 %}"Self-hosted runners"{% endif %} section of the settings page, locate the current group of the runner you want to move and expand the list of group members.
-    ![View runner group members](/assets/images/help/settings/actions-org-runner-group-members.png)
+    ![View runner group members](/assets/images/2021/10/help/settings/actions-org-runner-group-members.png)
 2. Select the checkbox next to the self-hosted runner, and then click **Move to group** to see the available destinations.
-    ![Runner group member move](/assets/images/help/settings/actions-org-runner-group-member-move.png)
+    ![Runner group member move](/assets/images/2021/10/help/settings/actions-org-runner-group-member-move.png)
 3. To move the runner, click on the destination group.
-    ![Runner group member move](/assets/images/help/settings/actions-org-runner-group-member-move-destination.png)
+    ![Runner group member move](/assets/images/2021/10/help/settings/actions-org-runner-group-member-move-destination.png)
 {% endif %}
 
 ## Removing a self-hosted runner group
@@ -186,10 +186,10 @@ Self-hosted runners are automatically returned to the default group when their g
 3. Review the confirmation prompts, and click **Remove this runner group**.
 {% elsif ghes < 3.2 %}
 1. In the "Self-hosted runners" section of the settings page, locate the group you want to delete, and click the {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} button.
-    ![View runner group settings](/assets/images/help/settings/actions-org-runner-group-kebab.png)
+    ![View runner group settings](/assets/images/2021/10/help/settings/actions-org-runner-group-kebab.png)
 
 1. To remove the group, click **Remove group**.
-    ![View runner group settings](/assets/images/help/settings/actions-org-runner-group-remove.png)
+    ![View runner group settings](/assets/images/2021/10/help/settings/actions-org-runner-group-remove.png)
 
 1. Review the confirmation prompts, and click **Remove this runner group**.
 {% endif %}

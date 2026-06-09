@@ -29,13 +29,13 @@ shortTitle: ボードへのノートの追加
 
 Issue、プルリクエスト、あるいは他のプロジェクトボードの URL をノートに追加すると、テキストの下のサマリーカードにプレビューが表示されます。
 
-![Issue および他のプロジェクトボードのプレビューを表示しているプロジェクトボードカード](/assets/images/help/projects/note-with-summary-card.png)
+![Issue および他のプロジェクトボードのプレビューを表示しているプロジェクトボードカード](/assets/images/2021/10/help/projects/note-with-summary-card.png)
 
 ## プロジェクトボードへのノートの追加
 
 1. ノートを追加したいプロジェクトボードに移動します。
-2. ノートを追加したい列で {% octicon "plus" aria-label="The plus icon" %} をクリックします。 ![列ヘッダ内のプラスアイコン](/assets/images/help/projects/add-note-button.png)
-3. ノートを入力し、[**Add**] をクリックします。 ![ノートの入力フィールドとカードの追加ボタン](/assets/images/help/projects/create-and-add-note-button.png)
+2. ノートを追加したい列で {% octicon "plus" aria-label="The plus icon" %} をクリックします。 ![列ヘッダ内のプラスアイコン](/assets/images/2021/10/help/projects/add-note-button.png)
+3. ノートを入力し、[**Add**] をクリックします。 ![ノートの入力フィールドとカードの追加ボタン](/assets/images/2021/10/help/projects/create-and-add-note-button.png)
 
   {% tip %}
 
@@ -57,9 +57,9 @@ Issue、プルリクエスト、あるいは他のプロジェクトボードの
 
 1. Issue に変換したいノートにアクセスしてください。
 {% data reusables.project-management.project-note-more-options %}
-3. [**Convert to issue**] をクリックします。 ![[Convert to issue] ボタン](/assets/images/help/projects/convert-to-issue.png)
-4. カードが Organization 全体のプロジェクトボード上にあるなら、ドロップダウンメニューから Issue を追加したいリポジトリを選択してください。 ![Issue を作成できるリポジトリのリストを示しているドロップダウンメニュー](/assets/images/help/projects/convert-note-choose-repository.png)
-5. 事前に記入された Issue のタイトルを編集することもできます。そして Issue の本文を入力してください。 ![Issue のタイトルと本体のためのフィールド](/assets/images/help/projects/convert-note-issue-title-body.png)
+3. [**Convert to issue**] をクリックします。 ![[Convert to issue] ボタン](/assets/images/2021/10/help/projects/convert-to-issue.png)
+4. カードが Organization 全体のプロジェクトボード上にあるなら、ドロップダウンメニューから Issue を追加したいリポジトリを選択してください。 ![Issue を作成できるリポジトリのリストを示しているドロップダウンメニュー](/assets/images/2021/10/help/projects/convert-note-choose-repository.png)
+5. 事前に記入された Issue のタイトルを編集することもできます。そして Issue の本文を入力してください。 ![Issue のタイトルと本体のためのフィールド](/assets/images/2021/10/help/projects/convert-note-issue-title-body.png)
 6. [**Convert to issue**] をクリックします。
 7. ノートは自動的に Issue に変換されます。 プロジェクトボードでは、新しい Issue のカードが以前のノートと同じ場所に置かれます。
 
@@ -67,8 +67,8 @@ Issue、プルリクエスト、あるいは他のプロジェクトボードの
 
 1. 編集あるいは削除したいノートにアクセスします。
 {% data reusables.project-management.project-note-more-options %}
-3. ノートの内容を編集したい場合には、**[Edit note]** をクリックしてください。 ![ノートの編集ボタン](/assets/images/help/projects/edit-note.png)
-4. ノートの内容を削除するには、[**Delete note**] をクリックします。 ![ノートの削除ボタン](/assets/images/help/projects/delete-note.png)
+3. ノートの内容を編集したい場合には、**[Edit note]** をクリックしてください。 ![ノートの編集ボタン](/assets/images/2021/10/help/projects/edit-note.png)
+4. ノートの内容を削除するには、[**Delete note**] をクリックします。 ![ノートの削除ボタン](/assets/images/2021/10/help/projects/delete-note.png)
 
 ## 参考リンク
 

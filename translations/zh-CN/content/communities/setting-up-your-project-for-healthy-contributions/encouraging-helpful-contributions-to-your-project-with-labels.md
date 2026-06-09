@@ -20,7 +20,7 @@ shortTitle: 鼓励参与
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 {% data reusables.repositories.select-items-in-issue-or-pr-list %}
-4. 在右上角单击 **Label（标签）**，然后开始输入 `good first issue`。 单击标签名称以将其与所选项目关联。 ![议题里程碑分配下拉菜单](/assets/images/help/issues/issues_applying_labels_dropdown.png)
+4. 在右上角单击 **Label（标签）**，然后开始输入 `good first issue`。 单击标签名称以将其与所选项目关联。 ![议题里程碑分配下拉菜单](/assets/images/2021/10/help/issues/issues_applying_labels_dropdown.png)
 
 ## 延伸阅读
 

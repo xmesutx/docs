@@ -20,7 +20,7 @@ shortTitle: Clone a GitHub repo
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.open-with-github-desktop %}
 5. Click **Choose...** and, using the Finder window, navigate to a local path where you want to clone the repository.
-![The choose button on the URL tab](/assets/images/help/desktop/clone-choose-button-url-mac.png)
+![The choose button on the URL tab](/assets/images/2021/10/help/desktop/clone-choose-button-url-mac.png)
 
   {% note %}
 
@@ -29,7 +29,7 @@ shortTitle: Clone a GitHub repo
   {% endnote %}
 
 5. Click **Clone**.
-![The clone button on the URL tab](/assets/images/help/desktop/clone-button-url-mac.png)
+![The clone button on the URL tab](/assets/images/2021/10/help/desktop/clone-button-url-mac.png)
 
 {% endmac %}
 
@@ -39,7 +39,7 @@ shortTitle: Clone a GitHub repo
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.open-with-github-desktop %}
 5. Click **Choose...** and, using Windows Explorer, navigate to a local path where you want to clone the repository.
-![The choose button](/assets/images/help/desktop/clone-choose-button-url-win.png)
+![The choose button](/assets/images/2021/10/help/desktop/clone-choose-button-url-win.png)
 
   {% note %}
 
@@ -48,6 +48,6 @@ shortTitle: Clone a GitHub repo
   {% endnote %}
 
 5. Click **Clone**.
-![The clone button](/assets/images/help/desktop/clone-button-url-win.png)
+![The clone button](/assets/images/2021/10/help/desktop/clone-button-url-win.png)
 
 {% endwindows %}

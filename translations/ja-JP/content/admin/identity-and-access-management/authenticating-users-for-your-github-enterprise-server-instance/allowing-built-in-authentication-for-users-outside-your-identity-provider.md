@@ -36,8 +36,8 @@ shortTitle: Authentication outside IdP
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-4. アイデンティティプロバイダを選択してください。 ![アイデンティティプロバイダの選択オプション](/assets/images/enterprise/management-console/identity-provider-select.gif)
-5. **Allow creation of accounts with built-in authentication（ビルトイン認証でのアカウントの作成の許可）**を選択してください。 ![ビルトイン認証のオプションの選択](/assets/images/enterprise/management-console/built-in-auth-identity-provider-select.png)
+4. アイデンティティプロバイダを選択してください。 ![アイデンティティプロバイダの選択オプション](/assets/images/2021/10/enterprise/management-console/identity-provider-select.gif)
+5. **Allow creation of accounts with built-in authentication（ビルトイン認証でのアカウントの作成の許可）**を選択してください。 ![ビルトイン認証のオプションの選択](/assets/images/2021/10/enterprise/management-console/built-in-auth-identity-provider-select.png)
 6. 警告を読んで、**Ok**をクリックしてください。
 
 {% data reusables.enterprise_user_management.two_factor_auth_header %}

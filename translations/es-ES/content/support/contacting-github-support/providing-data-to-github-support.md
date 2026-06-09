@@ -129,10 +129,10 @@ Puedes utilizar estos pasos para crear y compartir un paquete de soporte si tien
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. En la barra lateral izquierda, da clic en **Licenciamiento empresarial**. ![Captura de pantalla que muestra el enlace de "Licencia empresarial" en la barra lateral de ajustes de cuenta empresarial.](/assets/images/help/enterprises/enterprise-licensing-tab.png)
-4. Debajo de "Ayuda de {% data variables.product.prodname_enterprise %}", da clic en **Cargar un paquete de soporte**. ![Captura de pantalla que muestra "Cargar un enlace de paquete de soporte".](/assets/images/enterprise/support/upload-support-bundle.png)
-5. Debajo de "Selecciona una cuenta empresarial", selecciona la cuenta asociada al paquete de soporte del menú desplegable. ![Captura de pantalla que muestra el menú desplegable para seleccionar la cuenta empresarial del paquete de soporte.](/assets/images/enterprise/support/support-bundle-account.png)
-6. Debajo de "Cargar un paquete de soporte para {% data variables.contact.enterprise_support %}", para seleccionar tu paquete de soporte, da clic en **Elegir archivo**, o arrastra tu archivo de paquete de soporte hacia **Escoger archivo**. ![Captura de pantalla que muestra el botón "Elegir archivo" para cargar un archivo de paquete de soporte.](/assets/images/enterprise/support/choose-support-bundle-file.png)
+3. En la barra lateral izquierda, da clic en **Licenciamiento empresarial**. ![Captura de pantalla que muestra el enlace de "Licencia empresarial" en la barra lateral de ajustes de cuenta empresarial.](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
+4. Debajo de "Ayuda de {% data variables.product.prodname_enterprise %}", da clic en **Cargar un paquete de soporte**. ![Captura de pantalla que muestra "Cargar un enlace de paquete de soporte".](/assets/images/2021/10/enterprise/support/upload-support-bundle.png)
+5. Debajo de "Selecciona una cuenta empresarial", selecciona la cuenta asociada al paquete de soporte del menú desplegable. ![Captura de pantalla que muestra el menú desplegable para seleccionar la cuenta empresarial del paquete de soporte.](/assets/images/2021/10/enterprise/support/support-bundle-account.png)
+6. Debajo de "Cargar un paquete de soporte para {% data variables.contact.enterprise_support %}", para seleccionar tu paquete de soporte, da clic en **Elegir archivo**, o arrastra tu archivo de paquete de soporte hacia **Escoger archivo**. ![Captura de pantalla que muestra el botón "Elegir archivo" para cargar un archivo de paquete de soporte.](/assets/images/2021/10/enterprise/support/choose-support-bundle-file.png)
 7. Da clic en **Cargar**.
 
 ### Cargar paquete de soporte mediante SSH

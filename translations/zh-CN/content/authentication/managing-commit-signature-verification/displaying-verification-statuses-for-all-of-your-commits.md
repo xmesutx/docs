@@ -23,7 +23,7 @@ redirect_from:
 
 但是，您可以通过在 {% data variables.product.prodname_dotcom %} 设置中启用警戒模式，让其他用户对您的提交和标签所赋予的身份更加有信心。 启用警戒模式后，您的所有提交和标记都将被标记为三个验证状态之一。
 
-![签名验证状态](/assets/images/help/commits/signature-verification-statuses.png)
+![签名验证状态](/assets/images/2021/10/help/commits/signature-verification-statuses.png)
 
 {% data reusables.identity-and-permissions.vigilant-mode-verification-statuses %}
 
@@ -37,4 +37,4 @@ redirect_from:
 {% data reusables.user-settings.ssh %}
 3. 在 SSH 设置页面的“Vigilant mode（警戒模式）”下，选择 **Flag unsigned commits as unverified（将未签名的提交标记为未验证）**。
 
-   ![将未签名的提交标记为未验证的复选框](/assets/images/help/commits/vigilant-mode-checkbox.png)
+   ![将未签名的提交标记为未验证的复选框](/assets/images/2021/10/help/commits/vigilant-mode-checkbox.png)

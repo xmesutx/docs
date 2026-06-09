@@ -45,8 +45,8 @@ Depois que sua solicitação para desconto de educador ou pesquisador for aprova
 ### Atualizar uma nova organização
 
 {% data reusables.education.upgrade-page %}
-1. Clique em {% octicon "plus" aria-label="The plus symbol" %} **Create an organization** (Criar uma organização). ![Botão Create an organization (Criar uma organização)](/assets/images/help/education/create-org-button.png)
-3. Leia as informações e clique em **Criar organização**. ![Botão Create an organization (Criar uma organização)](/assets/images/help/education/create-organization-button.png)
+1. Clique em {% octicon "plus" aria-label="The plus symbol" %} **Create an organization** (Criar uma organização). ![Botão Create an organization (Criar uma organização)](/assets/images/2021/10/help/education/create-org-button.png)
+3. Leia as informações e clique em **Criar organização**. ![Botão Create an organization (Criar uma organização)](/assets/images/2021/10/help/education/create-organization-button.png)
 4. Em "Choose a plan" (Escolher um plano), clique em **Escolher {% data variables.product.prodname_free_team %}**.
 5. Siga as instruções para criar sua organização.
 {% data reusables.education.upgrade-page %}

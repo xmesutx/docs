@@ -24,12 +24,12 @@ Si eres propietario de la organización o tienes permisos de mantenedor del equi
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. En la lista de equipos, haz clic en el nombre del equipo que quieres anidar bajo un padre. ![Lista de los equipos de la organización](/assets/images/help/teams/click-team-name.png)
+4. En la lista de equipos, haz clic en el nombre del equipo que quieres anidar bajo un padre. ![Lista de los equipos de la organización](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
-6. En "Parent team" (Equipo padre), utiliza el menú desplegable "Select parent team" (Seleccionar equipo padre) y haz clic en el nombre del nuevo equipo padre. ![Menú desplegable que enumera los equipos de la organización](/assets/images/help/teams/choose-parent-team.png)
+6. En "Parent team" (Equipo padre), utiliza el menú desplegable "Select parent team" (Seleccionar equipo padre) y haz clic en el nombre del nuevo equipo padre. ![Menú desplegable que enumera los equipos de la organización](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. Haz clic en **Guardar cambios**.
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. Haz clic en **Confirm changes** (Confirmar cambios) para enviar una solicitud para agregar o modificar el padre de tu equipo. ![Casilla modal para información acerca de los cambios en los permisos de acceso del repositorio](/assets/images/help/teams/confirm-new-parent-team.png)
+9. Haz clic en **Confirm changes** (Confirmar cambios) para enviar una solicitud para agregar o modificar el padre de tu equipo. ![Casilla modal para información acerca de los cambios en los permisos de acceso del repositorio](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## Leer más
 

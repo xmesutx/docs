@@ -82,11 +82,11 @@ Para obtener más información acerca de la creación de un entorno chroot, cons
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.hooks-tab %}
-5. Haz clic en **Manage environments** (Administrar entornos). ![Administrar entornos](/assets/images/enterprise/site-admin-settings/manage-pre-receive-environments.png)
-6. Haz clic en **Add environment** (Agregar entorno). ![Agregar entorno](/assets/images/enterprise/site-admin-settings/add-pre-receive-environment.png)
-7. Escribe el nombre que desees en el campo **Environment name** (Nombre del entorno). ![Nombre del entorno](/assets/images/enterprise/site-admin-settings/pre-receive-environment-name.png)
-8. Escribe la URL del archivo `*.tar.gz` que contiene tu entorno. ![Cargar un entorno desde una URL](/assets/images/enterprise/site-admin-settings/upload-environment-from-url.png)
-9. Haz clic en **Add environment** (Agregar entorno). ![Agregar el botón de entorno](/assets/images/enterprise/site-admin-settings/add-environment-button.png)
+5. Haz clic en **Manage environments** (Administrar entornos). ![Administrar entornos](/assets/images/2021/10/enterprise/site-admin-settings/manage-pre-receive-environments.png)
+6. Haz clic en **Add environment** (Agregar entorno). ![Agregar entorno](/assets/images/2021/10/enterprise/site-admin-settings/add-pre-receive-environment.png)
+7. Escribe el nombre que desees en el campo **Environment name** (Nombre del entorno). ![Nombre del entorno](/assets/images/2021/10/enterprise/site-admin-settings/pre-receive-environment-name.png)
+8. Escribe la URL del archivo `*.tar.gz` que contiene tu entorno. ![Cargar un entorno desde una URL](/assets/images/2021/10/enterprise/site-admin-settings/upload-environment-from-url.png)
+9. Haz clic en **Add environment** (Agregar entorno). ![Agregar el botón de entorno](/assets/images/2021/10/enterprise/site-admin-settings/add-environment-button.png)
 
 ## Cargar un entorno de pre-recepción mediante el shell administrativo
 1. Carga un archivo `*.tar.gz` legible que contenga tu entorno a un host web y copia la URL o transfiere el archivo al aparato del {% data variables.product.prodname_ghe_server %} mediante `scp`. Al usar `scp`, es posible que necesites ajustar los permisos del archivo `*.tar.gz` para que todos puedan leerlo.

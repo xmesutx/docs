@@ -84,12 +84,12 @@ GraphQL 可用于仅请求和返回您指定的数据。 例如，您可以创�
 
 2. 要进行身份验证，请打开身份验证选项菜单，并选择 **Bearer token（不记名令牌）**。 接下来，添加您之前复制的个人访问令牌。
 
- ![个人访问令牌的权限选项](/assets/images/developer/graphql/insomnia-base-url-and-pat.png)
+ ![个人访问令牌的权限选项](/assets/images/2021/10/developer/graphql/insomnia-base-url-and-pat.png)
 
- ![个人访问令牌的权限选项](/assets/images/developer/graphql/insomnia-bearer-token-option.png)
+ ![个人访问令牌的权限选项](/assets/images/2021/10/developer/graphql/insomnia-bearer-token-option.png)
 
 3. 加入标头信息。
-   - 添加 `Content-Type` 作为标头，`application/json` 作为值。 ![标准标头](/assets/images/developer/graphql/json-content-type-header.png) ![含审核日志 API 预览值的标头](/assets/images/developer/graphql/preview-header-for-2.18.png)
+   - 添加 `Content-Type` 作为标头，`application/json` 作为值。 ![标准标头](/assets/images/2021/10/developer/graphql/json-content-type-header.png) ![含审核日志 API 预览值的标头](/assets/images/2021/10/developer/graphql/preview-header-for-2.18.png)
 
 现在可以开始执行查询了。
 

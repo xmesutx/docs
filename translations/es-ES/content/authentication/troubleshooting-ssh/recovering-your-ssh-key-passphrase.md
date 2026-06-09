@@ -21,10 +21,10 @@ shortTitle: Recuperar la frase deacceso de la llave SSH
 
 Si [configuraste tu contraseña SSH con la keychain de macOS](/articles/working-with-ssh-key-passphrases#saving-your-passphrase-in-the-keychain) es posible que la puedas recuperar.
 
-1. En Finder (Buscador), busca la aplicación **Keychain Access** (Acceso keychain). ![Barra Spotlight Search (Búsqueda de Spotlight)](/assets/images/help/setup/keychain-access.png)
+1. En Finder (Buscador), busca la aplicación **Keychain Access** (Acceso keychain). ![Barra Spotlight Search (Búsqueda de Spotlight)](/assets/images/2021/10/help/setup/keychain-access.png)
 2. En Keychain Access (Acceso keychain), busca **SSH**.
 3. Haz doble clic en la entrada de tu clave SSH para abrir un nuevo cuadro de diálogo.
-4. En la esquina inferior izquierda, selecciona **Show password** (Mostrar contraseña). ![Diálogo Keychain access (Acceso keychain)](/assets/images/help/setup/keychain_show_password_dialog.png)
+4. En la esquina inferior izquierda, selecciona **Show password** (Mostrar contraseña). ![Diálogo Keychain access (Acceso keychain)](/assets/images/2021/10/help/setup/keychain_show_password_dialog.png)
 5. Se te solicitará tu contraseña administrativa. Escríbela en el cuadro de diálogo "Keychain Access" (Acceso keychain).
 6. Se revelará tu contraseña.
 

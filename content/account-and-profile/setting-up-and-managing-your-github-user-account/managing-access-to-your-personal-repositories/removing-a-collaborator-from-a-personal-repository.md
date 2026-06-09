@@ -32,12 +32,12 @@ While forks of private repositories are deleted when a collaborator is removed, 
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 {% data reusables.repositories.click-collaborators-teams %}
 4. To the right of the collaborator you want to remove, click {% octicon "trash" aria-label="The trash icon" %}.
-  ![Button to remove collaborator](/assets/images/help/repository/collaborator-remove.png)
+  ![Button to remove collaborator](/assets/images/2021/10/help/repository/collaborator-remove.png)
 {% else %}
 3. In the left sidebar, click **Collaborators & teams**.
-  ![Collaborators tab](/assets/images/help/repository/repo-settings-collaborators.png)
+  ![Collaborators tab](/assets/images/2021/10/help/repository/repo-settings-collaborators.png)
 4. Next to the collaborator you want to remove, click the **X** icon.
-  ![Remove link](/assets/images/help/organizations/Collaborator-Remove.png)
+  ![Remove link](/assets/images/2021/10/help/organizations/Collaborator-Remove.png)
 {% endif %}
 
 ## Further reading

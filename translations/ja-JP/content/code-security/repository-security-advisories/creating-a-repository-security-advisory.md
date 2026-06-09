@@ -25,13 +25,13 @@ shortTitle: Create repository advisories
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. [**New draft security advisory**] をクリックします。 ![[Open draft advisory] ボタン](/assets/images/help/security/security-advisory-new-draft-security-advisory-button.png)
+4. [**New draft security advisory**] をクリックします。 ![[Open draft advisory] ボタン](/assets/images/2021/10/help/security/security-advisory-new-draft-security-advisory-button.png)
 5. セキュリティアドバイザリのタイトルを入力します。
 {% data reusables.repositories.security-advisory-edit-details %}
 {% data reusables.repositories.security-advisory-edit-severity %}
 {% data reusables.repositories.security-advisory-edit-cwe-cve %}
 {% data reusables.repositories.security-advisory-edit-description %}
-11. [**Create draft security advisory**] をクリックします。 ![[Create security advisory] ボタン](/assets/images/help/security/security-advisory-create-security-advisory-button.png)
+11. [**Create draft security advisory**] をクリックします。 ![[Create security advisory] ボタン](/assets/images/2021/10/help/security/security-advisory-create-security-advisory-button.png)
 
 ## 次のステップ
 

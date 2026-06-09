@@ -29,17 +29,17 @@ Puedes ver todas las confirmaciones realizadas a un repositorio en el último a�
 
 El gráfico superior muestra las confirmaciones del año completo por semana.
 
-![Gráfico anual de confirmaciones de un repositorio](/assets/images/help/graphs/repo_commit_activity_year_graph.png)
+![Gráfico anual de confirmaciones de un repositorio](/assets/images/2021/10/help/graphs/repo_commit_activity_year_graph.png)
 
 El gráfico inferior muestra la cantidad promedio de confirmaciones por día de la semana para la semana seleccionada.
 
-![Gráfico semanal de confirmaciones de un repositorio](/assets/images/help/graphs/repo_commit_activity_week_graph.png)
+![Gráfico semanal de confirmaciones de un repositorio](/assets/images/2021/10/help/graphs/repo_commit_activity_week_graph.png)
 
 ### Acceder al gráfico de confirmación
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. En la barra lateral izquierda, haz clic en **Commits (Confirmaciones)**. ![Pestaña de confirmaciones](/assets/images/help/graphs/commits_tab.png)
+3. En la barra lateral izquierda, haz clic en **Commits (Confirmaciones)**. ![Pestaña de confirmaciones](/assets/images/2021/10/help/graphs/commits_tab.png)
 
 ## Ver incorporaciones y eliminaciones del contenido de un repositorio
 
@@ -47,7 +47,7 @@ El gráfico de frecuencia de código muestra las incorporaciones y eliminaciones
 
 {% ifversion fpt or ghec %}
 
-![Gráfico de frecuencia de código](/assets/images/help/graphs/repo_code_frequency_graph_dotcom.png)
+![Gráfico de frecuencia de código](/assets/images/2021/10/help/graphs/repo_code_frequency_graph_dotcom.png)
 
 {% endif %}
 
@@ -55,4 +55,4 @@ El gráfico de frecuencia de código muestra las incorporaciones y eliminaciones
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. En la barra lateral izquierda, haz clic en **Code frequency (Frecuencia del código)**. ![Pestaña de frecuencia de código](/assets/images/help/graphs/code_frequency_tab.png)
+3. En la barra lateral izquierda, haz clic en **Code frequency (Frecuencia del código)**. ![Pestaña de frecuencia de código](/assets/images/2021/10/help/graphs/code_frequency_tab.png)

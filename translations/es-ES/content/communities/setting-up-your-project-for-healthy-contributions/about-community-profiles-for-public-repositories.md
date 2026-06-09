@@ -23,7 +23,7 @@ Si un proyecto no tiene un archivo recomendado, puedes hacer clic en **Agregar**
 
 {% data reusables.repositories.valid-community-issues %} Para obtener más información, consulta "[Acerca de las plantillas de propuestas y solicitudes de extracción](/articles/about-issue-and-pull-request-templates)".
 
-![Lista de verificación del perfil de comunidad con estándares de comunidad recomendados para mantenedores](/assets/images/help/repository/add-button-community-profile.png)
+![Lista de verificación del perfil de comunidad con estándares de comunidad recomendados para mantenedores](/assets/images/2021/10/help/repository/add-button-community-profile.png)
 
 {% data reusables.repositories.security-guidelines %}
 
@@ -33,7 +33,7 @@ Como posible colaborador, usa la lista de verificación del perfil de comunidad 
 
 Si un proyecto no tiene un archivo recomendado, puedes hacer clic en **Proponer** para redactar y enviar un archivo para que el mantenedor del repositorio lo apruebe.
 
-![Lista de verificación del perfil de comunidad con estándares de comunidad recomendados para colaboradores](/assets/images/help/repository/propose-button-community-profile.png)
+![Lista de verificación del perfil de comunidad con estándares de comunidad recomendados para colaboradores](/assets/images/2021/10/help/repository/propose-button-community-profile.png)
 
 ## Leer más
 

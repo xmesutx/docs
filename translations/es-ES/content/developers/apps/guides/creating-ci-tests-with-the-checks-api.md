@@ -49,7 +49,7 @@ La API de Verificaciones envía el [evento de webhook `check_suite`](/webhooks/e
 
 Para obtener una idea de lo que hará tu servidor de IC para la API de Verificaciones cuando completes este inicio rápido, revisa el siguiente demo:
 
-![Demostración de la guía de inicio rápido para el servidor de IC de la API de Verificaciones](/assets/images/github-apps/github_apps_checks_api_ci_server.gif)
+![Demostración de la guía de inicio rápido para el servidor de IC de la API de Verificaciones](/assets/images/2021/10/github-apps/github_apps_checks_api_ci_server.gif)
 
 ## Prerrequisitos
 
@@ -175,7 +175,7 @@ $ ruby template_server.rb
 
 Ahora abre una solicitud de extracción en el repositorio en donde instalaste tu app. Tu app deberá responder creando una ejecución de verificación en tu solicitud de cambios. Da clic en la pestaña de **Verificaciones** y deberías ver algo como esto:
 
-![Ejecución de verificación en cola](/assets/images/github-apps/github_apps_queued_check_run.png)
+![Ejecución de verificación en cola](/assets/images/2021/10/github-apps/github_apps_queued_check_run.png)
 
 Si ves otras apps en la pestaña de verificaciones, significa que tienes otras apps instaladas en tu repositorio las cuales cuentan con acceso de **Lectura & escritura** en las verificaciones y que están suscritas a los eventos de **conjuntos de verificaciones** y de **ejecución de verificación**.
 
@@ -251,7 +251,7 @@ $ ruby template_server.rb
 
 Diríjete a tu solicitud de extracción abierta y da clic en la pestaña **Verificaciones**. Da clic en el botón "Re-ejecutar todo" en la esquina superior derecha. Deberías ver que la ejecución de verificación cambia de `pending` a `in_progress` y termina en `success`:
 
-![Ejecución de verificación completada](/assets/images/github-apps/github_apps_complete_check_run.png)
+![Ejecución de verificación completada](/assets/images/2021/10/github-apps/github_apps_complete_check_run.png)
 
 ## Parte 2. Crear la prueba de IC de Octo RuboCop
 
@@ -587,15 +587,15 @@ $ ruby template_server.rb
 
 Las anotaciones se mostrarán en la pestaña de **Verificaciones**.
 
-![Anotaciones de la ejecución de verificación en la pestaña de verificaciones](/assets/images/github-apps/github_apps_checks_annotations.png)
+![Anotaciones de la ejecución de verificación en la pestaña de verificaciones](/assets/images/2021/10/github-apps/github_apps_checks_annotations.png)
 
 Nota el botón de "Arreglar esto" que creaste al agregar la acción solicitada.
 
-![Botón de acción solicitada para la ejecución de verificación](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+![Botón de acción solicitada para la ejecución de verificación](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 Si las anotaciones se relacionan con un archivo que ya se incluya en la solicitud de extracción, estas también se mostrarán en la pestaña de **Archivos cambiados**.
 
-![Anotaciones de la ejecución de verificación en la pestaña de archivos cambiados](/assets/images/github-apps/github_apps_checks_annotation_diff.png)
+![Anotaciones de la ejecución de verificación en la pestaña de archivos cambiados](/assets/images/2021/10/github-apps/github_apps_checks_annotation_diff.png)
 
 ## Paso 2.6. Corregir automáticamente los errores de RuboCop
 
@@ -689,11 +689,11 @@ Esta vez, da clic en el botón "Arreglar esto" para corregir automáticamente lo
 
 En la pestaña de **Confirmaciones** encontrarás una confirmación nueva con el nombre de usuario que configuraste en los ajustes de Git. Puede que necesites actualizar tu buscador para ver esto.
 
-![Una confirmación nueva para corregir los avisos de Octo RuboCop automáticamente](/assets/images/github-apps/github_apps_new_requested_action_commit.png)
+![Una confirmación nueva para corregir los avisos de Octo RuboCop automáticamente](/assets/images/2021/10/github-apps/github_apps_new_requested_action_commit.png)
 
 Ya que se cargó una confirmación nueva al repositorio, verás un conjunto de verificaciones nuevo para Octo RuboCop en la pestaña de **Verificaciones**. Pero esta vez no habrá errores, ya que RuboCop los arregló todos. 🎉
 
-![Sin errores en los conjuntos de verificaciones o en la ejecución de verificación](/assets/images/github-apps/github_apps_checks_api_success.png)
+![Sin errores en los conjuntos de verificaciones o en la ejecución de verificación](/assets/images/2021/10/github-apps/github_apps_checks_api_success.png)
 
 Puedes encontrar todo el código de la app que acabas de crear en el archivo `server.rb` dentro del repositorio [Crear pruebas de IC con la API de Verificaciones](https://github.com/github-developer/creating-ci-tests-with-the-checks-api).
 

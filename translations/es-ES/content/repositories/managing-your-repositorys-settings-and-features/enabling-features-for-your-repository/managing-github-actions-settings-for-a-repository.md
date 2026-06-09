@@ -47,7 +47,7 @@ Puedes inhabilitar todos los flujos de trabajo para un repositorio o configurar 
 {% data reusables.repositories.settings-sidebar-actions %}
 1. Debajo de **Permisos de las acciones**, selecciona una opción.
 
-  ![Configurar la política de acciones para esta organización](/assets/images/help/repository/actions-policy.png)
+  ![Configurar la política de acciones para esta organización](/assets/images/2021/10/help/repository/actions-policy.png)
 
 1. Haz clic en **Save ** (guardar).
 
@@ -61,9 +61,9 @@ Puedes inhabilitar todos los flujos de trabajo para un repositorio o configurar 
 1. Debajo de **Permisos de las acciones**, selecciona **Permitir acciones seleccionadas** y agrega tus acciones requeridas a la lista.
 
    {%- ifversion ghes %}
-   ![Agregar acciones a la lista de permitidos](/assets/images/help/repository/actions-policy-allow-list.png)
+   ![Agregar acciones a la lista de permitidos](/assets/images/2021/10/help/repository/actions-policy-allow-list.png)
    {%- else %}
-   ![Agregar acciones a la lista de permitidos](/assets/images/enterprise/github-ae/repository/actions-policy-allow-list.png)
+   ![Agregar acciones a la lista de permitidos](/assets/images/2021/10/enterprise/github-ae/repository/actions-policy-allow-list.png)
    {%- endif %}
 
 1. Haz clic en **Save ** (guardar).
@@ -114,7 +114,7 @@ Los permisos predeterminados también pueden configurarse en los ajustes de la o
 {% data reusables.repositories.settings-sidebar-actions %}
 1. Debajo de **Permisos del flujo de trabajo**, elige si quieres que el `GITHUB_TOKEN` tenga permisos de lectura y escritura para todos los alcances o solo acceso de lectura para el alcance `contents`.
 
-  ![Configurar los permisos del GITHUB_TOKEN para este repositorio](/assets/images/help/settings/actions-workflow-permissions-repository.png)
+  ![Configurar los permisos del GITHUB_TOKEN para este repositorio](/assets/images/2021/10/help/settings/actions-workflow-permissions-repository.png)
 
 1. Da clic en **Guardar** para aplicar la configuración.
 {% endif %}
@@ -131,7 +131,7 @@ You can use the steps below to configure whether {% if internal-actions%}actions
 {% data reusables.repositories.settings-sidebar-actions %}
 1. Debajo de **Acceso**, elige uno de los ajustes de acceso:
 
-   {% ifversion ghes > 3.4 or ghae-issue-6090 or ghec %}![Set the access to Actions components](/assets/images/help/settings/actions-access-settings.png){% else %}![Set the access to Actions components](/assets/images/enterprise/3.4/actions-access-settings.png){% endif %}
+   {% ifversion ghes > 3.4 or ghae-issue-6090 or ghec %}![Set the access to Actions components](/assets/images/2021/10/help/settings/actions-access-settings.png){% else %}![Set the access to Actions components](/assets/images/2022/01/enterprise/3.4/actions-access-settings.png){% endif %}
 
    * **Sin acceso** - Los flujos de trabajo en otros repositorios no pueden acceder a este.
    * **Con acceso desde los repositorios de la organización 'ORGANIZATION NAME'** - {% ifversion ghes > 3.4 or ghae-issue-6090 or ghec %}Los flujos de trabajo en otros repositorios que sean parte de la organización 'ORGANIZATION NAME' pueden acceder a las acciones y flujos de trabajo de este repositorio. Se permite el acceso solo desde los repositorios internos o privados.{% else %}Los flujos de trabajo en otros repositorios pueden utilizar flujos de trabajo en este si son parte de la misma organización y su visibilidad es privada o interna.{% endif %}

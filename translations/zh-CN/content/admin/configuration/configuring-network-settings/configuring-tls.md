@@ -44,9 +44,9 @@ topics:
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
 {% data reusables.enterprise_management_console.select-tls-only %}
-4. 在“TLS Protocol support”下，选择您想要允许的协议。 ![包含用于选择 TLS 协议的选项的单选按钮](/assets/images/enterprise/management-console/tls-protocol-support.png)
-5. 在“Certificate”下，单击 **Choose File**，选择要安装的 TLS 证书或证书链（PEM 格式）。 此文件通常采用 *.pem*、*.crt* 或 *.cer* 扩展名。 ![用于查找 TLS 证书文件的按钮](/assets/images/enterprise/management-console/install-tls-certificate.png)
-6. 在“Unencrypted key（未加密密钥）”下，单击 **Choose File（选择文件）**选择要安装的 RSA 密钥（PEM 格式）。 此文件通常采用 *.key* 扩展名。 ![用于查找 TLS 密钥文件的按钮](/assets/images/enterprise/management-console/install-tls-key.png)
+4. 在“TLS Protocol support”下，选择您想要允许的协议。 ![包含用于选择 TLS 协议的选项的单选按钮](/assets/images/2021/10/enterprise/management-console/tls-protocol-support.png)
+5. 在“Certificate”下，单击 **Choose File**，选择要安装的 TLS 证书或证书链（PEM 格式）。 此文件通常采用 *.pem*、*.crt* 或 *.cer* 扩展名。 ![用于查找 TLS 证书文件的按钮](/assets/images/2021/10/enterprise/management-console/install-tls-certificate.png)
+6. 在“Unencrypted key（未加密密钥）”下，单击 **Choose File（选择文件）**选择要安装的 RSA 密钥（PEM 格式）。 此文件通常采用 *.key* 扩展名。 ![用于查找 TLS 密钥文件的按钮](/assets/images/2021/10/enterprise/management-console/install-tls-key.png)
 
   {% warning %}
 
@@ -75,9 +75,9 @@ Let's Encrypt 是公共证书颁发机构，他们使用 ACME 协议颁发受浏
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
 {% data reusables.enterprise_management_console.select-tls-only %}
-5. 选择 **Enable automation of TLS certificate management using Let's Encrypt**。 ![启用 Let's Encrypt 复选框](/assets/images/enterprise/management-console/lets-encrypt-checkbox.png)
+5. 选择 **Enable automation of TLS certificate management using Let's Encrypt**。 ![启用 Let's Encrypt 复选框](/assets/images/2021/10/enterprise/management-console/lets-encrypt-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 {% data reusables.enterprise_management_console.privacy %}
-7. 单击 **Request TLS certificate**。 ![Request TLS Certificate 按钮](/assets/images/enterprise/management-console/request-tls-button.png)
-8. 等待“状态”从“开始”更改为“完成”。 ![Let's Encrypt 状态](/assets/images/enterprise/management-console/lets-encrypt-status.png)
+7. 单击 **Request TLS certificate**。 ![Request TLS Certificate 按钮](/assets/images/2021/10/enterprise/management-console/request-tls-button.png)
+8. 等待“状态”从“开始”更改为“完成”。 ![Let's Encrypt 状态](/assets/images/2021/10/enterprise/management-console/lets-encrypt-status.png)
 9. 单击 **Save configuration**。

@@ -1,1 +1,1 @@
-1. A la derecha dekl nivel que quieres, haz clic en **Seleccionar**. Si quieres seleccionar una cantidad personalizada, ingresa la cantidad de patrocinio antes de hacer clic en "Seleccionar". ![Caja de selección de nivel](/assets/images/help/sponsors/select-a-tier-box.png)
+1. A la derecha dekl nivel que quieres, haz clic en **Seleccionar**. Si quieres seleccionar una cantidad personalizada, ingresa la cantidad de patrocinio antes de hacer clic en "Seleccionar". ![Caja de selección de nivel](/assets/images/2021/10/help/sponsors/select-a-tier-box.png)

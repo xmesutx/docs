@@ -56,11 +56,11 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 为了帮助 GitHub 将 web 挂钩发送到您的本地计算机而不将其暴露在互联网上，您可以使用一个名为 Smee 的工具。 首先，转到 https://smee.io，然后单击 **Start a new channel（启动新通道）**。 如果您已经习惯使用将本地计算机暴露到互联网上的其他工具，例如 [`ngrok`](https://dashboard.ngrok.com/get-started) 或 [`localtunnel`](https://localtunnel.github.io/www/)，请随意使用。
 
-![Smee 新通道按钮](/assets/images/smee-new-channel.png)
+![Smee 新通道按钮](/assets/images/2021/10/smee-new-channel.png)
 
 启动一个新的 Smee 通道并创建一个唯一的域，供 GitHub 发送 web 挂钩有效负载。 下一步需要了解此域。 以下是 `https://smee.io/qrfeVRbFbffd6vD` 上的唯一域示例：
 
-![Smee 唯一通道](/assets/images/smee-unique-domain.png)
+![Smee 唯一通道](/assets/images/2021/10/smee-unique-domain.png)
 
 接下来，返回终端并按照以下步骤运行 Smee 命令行接口 (CLI) 客户端：
 
@@ -97,7 +97,7 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 如果您还没有 GitHub 帐户，现在[是时候注册了](https://github.com/join)。 在继续之前，不要忘记验证您的电子邮件地址！ 要注册新应用程序，请访问您的 GitHub 个人资料中的[应用程序设置页面](https://github.com/settings/apps)，然后单击 **New GitHub App（新建 GitHub 应用程序）**。
 
-![GitHub 网站，显示 **新应用程序**](/assets/images/new-app.png)
+![GitHub 网站，显示 **新应用程序**](/assets/images/2021/10/new-app.png)
 
 您将看到一个表单，您可以在其中输入有关应用程序的详细信息。 有关此页面上字段的一般信息，请参阅“[创建 GitHub 应用程序](/apps/building-github-apps/creating-a-github-app/)”。 在本指南中，您需要在几个字段中输入特定数据：
 
@@ -109,21 +109,21 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 * 对于“主页 URL”，请使用 Smee 发布的域名。 例如：
 
-    ![为主页 URL 填写 Smee 域的表单](/assets/images/homepage-url.png)
+    ![为主页 URL 填写 Smee 域的表单](/assets/images/2021/10/homepage-url.png)
 
 * 对于“web 挂钩 URL”，也请使用 Smee 发布的域名。 例如：
 
-    ![为 web 挂钩 URL 填写 Smee 域的表单](/assets/images/webhook-url.png)
+    ![为 web 挂钩 URL 填写 Smee 域的表单](/assets/images/2021/10/webhook-url.png)
 
 * 对于“web 挂钩密钥”，请创建密码来保护您的 web 挂钩端点。 这应该是只有您（和 GitHub 通过此表单）知道的密码。 此密钥很重要，因为您将从公共互联网接收有效负载，并且您将使用此密钥来验证 web 挂钩发送者。 请注意，GitHub 应用程序设置表示 web 挂钩密钥是可选的，在大多数情况下确实如此，但要使模板应用程序代码正常工作，您必须设置 web 挂钩密钥。
 
-    ![填写 web 挂钩密钥的表单](/assets/images/webhook-secret.png)
+    ![填写 web 挂钩密钥的表单](/assets/images/2021/10/webhook-secret.png)
 
 * 在 Permissions & Webhooks（权限和 web 挂钩）页面上，您可以为应用程序指定一组权限，这些权限决定了应用程序有权访问多少数据。 在“Repository permissions（仓库权限）”部分下，向下滚动到“Metadata（元数据）”并选择 `Access: Read-only（访问：只读）`。 如果您决定扩展此模板应用程序，可以在以后更新这些权限。
 
 * 在 Permissions & Webhooks（权限和 web 挂钩）页面的底部，指定这是私有应用程序还是公共应用程序。 这是指谁可以安装它：是只有您自己，还是世界上任何人？ 现在，选择 **Only on this account（仅在此帐户上）**将应用程序保留为私有应用程序。
 
-    ![GitHub 应用程序隐私](/assets/images/create_app.png)
+    ![GitHub 应用程序隐私](/assets/images/2021/10/create_app.png)
 
 单击 **Create GitHub App（创建 GitHub 应用程序）**以创建您的应用程序！
 
@@ -133,11 +133,11 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 * **为应用程序生成私钥。**这是以后验证应用程序所必需的。 向下滚动页面，然后单击 **Generate a private key（生成私钥）**。 将生成的 `PEM` 文件（称为 _`app-name`_-_`date`_-`private-key.pem` 等）保存在可以再次找到的目录中。
 
-    ![私钥生成对话框](/assets/images/private_key.png)
+    ![私钥生成对话框](/assets/images/2021/10/private_key.png)
 
 * **请注意 GitHub 已为您的应用程序分配了应用程序 ID。**您需要使用它来准备运行时环境。
 
-    <img src="/assets/images/app_id.png" alt="应用程序的 ID" width="200px" />
+    <img src="/assets/images/2021/10/app_id.png" alt="应用程序的 ID" width="200px" />
 
 ## 步骤 4. 准备运行时环境
 
@@ -353,7 +353,7 @@ $ ruby template_server.rb
 
 服务器运行后，您可以在浏览器中转到 `http://localhost:3000` 来测试它。 如果应用程序按预期工作，您将看到一个有用的错误页面：
 
-<img src="/assets/images/sinatra-404.png" alt="Sinatra 的 404 错误页面" width="500px" />
+<img src="/assets/images/2021/10/sinatra-404.png" alt="Sinatra 的 404 错误页面" width="500px" />
 
 很好！ 即使它是一个错误页面，它也是一个 _Sinatra_ 错误页面，这意味着您的应用程序已按预期连接到服务器。 之所以会看到此消息，是因为您还没有给应用程序提供任何要显示的内容。
 
@@ -365,7 +365,7 @@ $ ruby template_server.rb
 
 系统会询问您是在所有仓库还是所选仓库上安装应用程序。 如果您不想在_所有_仓库上安装该应用程序，那没关系！ 您可能需要创建一个沙箱仓库用于测试，并在那里安装您的应用程序。
 
-<img src="/assets/images/install_permissions.png" alt="应用程序安装权限" width="500px" />
+<img src="/assets/images/2021/10/install_permissions.png" alt="应用程序安装权限" width="500px" />
 
 单击 **Install（安装）**后，在终端中查看输出。 您应该会看到以下内容：
 

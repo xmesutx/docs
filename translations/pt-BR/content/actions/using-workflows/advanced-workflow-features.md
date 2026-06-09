@@ -179,8 +179,8 @@ Você pode configurar ambientes com regras de proteção e segredos. Cada trabal
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. Caso o seu repositório tenha fluxos de trabalho existentes: No canto superior esquerdo, clique em **Novo fluxo de trabalho**. ![Criar um novo fluxo de trabalho](/assets/images/help/repository/actions-new-workflow.png)
-1. No nome do fluxo de trabalho inicial que você gostaria de usar, clique em **Configurar esse fluxo de trabalho**. ![Configurar este fluxo de trabalho](/assets/images/help/settings/actions-create-starter-workflow.png)
+1. Caso o seu repositório tenha fluxos de trabalho existentes: No canto superior esquerdo, clique em **Novo fluxo de trabalho**. ![Criar um novo fluxo de trabalho](/assets/images/2021/10/help/repository/actions-new-workflow.png)
+1. No nome do fluxo de trabalho inicial que você gostaria de usar, clique em **Configurar esse fluxo de trabalho**. ![Configurar este fluxo de trabalho](/assets/images/2021/10/help/settings/actions-create-starter-workflow.png)
 
 ## Próximas etapas
 

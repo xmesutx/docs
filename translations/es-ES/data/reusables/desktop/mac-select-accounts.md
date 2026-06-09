@@ -1,1 +1,1 @@
-1. En la ventana Preferences (Preferencias), selecciona **Accounts (Cuentas)**. ![El panel Accounts (Cuentas) en la ventana Preferences (Preferencias)](/assets/images/help/desktop/mac-select-accounts-pane.png)
+1. En la ventana Preferences (Preferencias), selecciona **Accounts (Cuentas)**. ![El panel Accounts (Cuentas) en la ventana Preferences (Preferencias)](/assets/images/2021/10/help/desktop/mac-select-accounts-pane.png)

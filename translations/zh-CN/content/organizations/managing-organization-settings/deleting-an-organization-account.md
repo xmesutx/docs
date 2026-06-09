@@ -40,4 +40,4 @@ shortTitle: 删除组织
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-4. 在组织设置页面底部附近，单击 **Delete this Organization（删除此组织）**。 ![删除此组织按钮](/assets/images/help/settings/settings-organization-delete.png)
+4. 在组织设置页面底部附近，单击 **Delete this Organization（删除此组织）**。 ![删除此组织按钮](/assets/images/2021/10/help/settings/settings-organization-delete.png)

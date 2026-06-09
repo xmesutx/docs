@@ -24,10 +24,10 @@ shortTitle: 将仓库链接到板
 1. 导航到您要在其中链接仓库的项目板。
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
-4. 在左侧边栏中，单击 **Linked repositories（链接的仓库）**。 ![左侧边栏中链接的仓库菜单选项](/assets/images/help/projects/project-board-linked-repositories-setting.png)
-5. 单击 **Link a repository（链接仓库）**。 ![链接的仓库选项卡中的链接仓库按钮](/assets/images/help/projects/link-repository-button.png)
-6. 搜索要链接的仓库。 ![链接仓库窗口中的搜索字段](/assets/images/help/projects/search-to-link-repository.png)
-7. 单击 **Link（链接）**。 要取消链接，请单击 **Unlink（取消链接）**。 ![链接按钮](/assets/images/help/projects/link-button.png)
+4. 在左侧边栏中，单击 **Linked repositories（链接的仓库）**。 ![左侧边栏中链接的仓库菜单选项](/assets/images/2021/10/help/projects/project-board-linked-repositories-setting.png)
+5. 单击 **Link a repository（链接仓库）**。 ![链接的仓库选项卡中的链接仓库按钮](/assets/images/2021/10/help/projects/link-repository-button.png)
+6. 搜索要链接的仓库。 ![链接仓库窗口中的搜索字段](/assets/images/2021/10/help/projects/search-to-link-repository.png)
+7. 单击 **Link（链接）**。 要取消链接，请单击 **Unlink（取消链接）**。 ![链接按钮](/assets/images/2021/10/help/projects/link-button.png)
 
 {% note %}
 

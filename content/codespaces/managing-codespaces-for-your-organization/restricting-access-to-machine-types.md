@@ -52,23 +52,23 @@ If you add an organization-wide policy, you should set it to the largest choice 
 3. Enter a name for your new policy.
 4. Click **Add constraint** and choose **Machine types**.
 
-   ![Add a constraint for machine types](/assets/images/help/codespaces/add-constraint-dropdown.png)
+   ![Add a constraint for machine types](/assets/images/2022/01/help/codespaces/add-constraint-dropdown.png)
 
 5. Click {% octicon "pencil" aria-label="The edit icon" %} to edit the constraint, then clear the selection of any machine types that you don't want to be available.
 
-   ![Edit the machine type constraint](/assets/images/help/codespaces/edit-machine-constraint.png)
+   ![Edit the machine type constraint](/assets/images/2022/01/help/codespaces/edit-machine-constraint.png)
 
 6. In the "Change policy target" area, click the dropdown button.
 7. Choose either **All repositories** or **Selected repositories** to determine which repositories this policy will apply to.
 8. If you chose **Selected repositories**:
    1. Click {% octicon "gear" aria-label="The settings icon" %}.
 
-      ![Edit the settings for the policy](/assets/images/help/codespaces/policy-edit.png)
+      ![Edit the settings for the policy](/assets/images/2022/01/help/codespaces/policy-edit.png)
 
    2. Select the repositories you want this policy to apply to.
    3. At the bottom of the repository list, click **Select repositories**.
 
-      ![Select repositories for this policy](/assets/images/help/codespaces/policy-select-repos.png)
+      ![Select repositories for this policy](/assets/images/2022/01/help/codespaces/policy-select-repos.png)
 
 9. Click **Save**.
 
@@ -83,7 +83,7 @@ If you add an organization-wide policy, you should set it to the largest choice 
 1. Display the "Codespace policies" page. For more information, see "[Adding a policy to limit the available machine types](#adding-a-policy-to-limit-the-available-machine-types)."
 1. Click the delete button to the right of the policy you want to delete.
 
-   ![The delete button for a policy](/assets/images/help/codespaces/policy-delete.png)
+   ![The delete button for a policy](/assets/images/2022/01/help/codespaces/policy-delete.png)
 
 ## Further reading
 

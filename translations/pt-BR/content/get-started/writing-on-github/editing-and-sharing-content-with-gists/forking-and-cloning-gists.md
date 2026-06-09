@@ -17,20 +17,20 @@ versions:
 
 Cada gist indica quais bifurcações têm atividade, facilitando o processo de encontrar mudanças interessantes de outros.
 
-![Bifurcações gist](/assets/images/help/gist/gist_forks.png)
+![Bifurcações gist](/assets/images/2021/10/help/gist/gist_forks.png)
 
 ## Clonar gists
 
 Para fazer modificações locais em um gist e fazer o push delas na Web, é possível clonar um gist e fazer commits, assim como em qualquer repositório Git. Para obter mais informações, consulte "[Clonar um repositório](/articles/cloning-a-repository)".
 
-![Botão gist clone (clonar)](/assets/images/help/gist/gist_clone_btn.png)
+![Botão gist clone (clonar)](/assets/images/2021/10/help/gist/gist_clone_btn.png)
 
 ## Visualizar o histórico de commits do gist
 
 Para visualizar o histórico completo de commit de um gist, clique na aba "Revisões" na parte superior do gist.
 
-![Aba gist revisions (revisões)](/assets/images/help/gist/gist_revisions_tab.png)
+![Aba gist revisions (revisões)](/assets/images/2021/10/help/gist/gist_revisions_tab.png)
 
 Você verá o histórico completo do gist com os diffs.
 
-![Página gist revisions (revisões)](/assets/images/help/gist/gist_history.png)
+![Página gist revisions (revisões)](/assets/images/2021/10/help/gist/gist_history.png)

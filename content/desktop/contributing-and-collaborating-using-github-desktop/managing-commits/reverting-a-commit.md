@@ -19,7 +19,7 @@ When you revert to a previous commit, the revert is also a commit. The original 
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![The Revert option above the diff view](/assets/images/help/desktop/commit-revert-mac.png)
+  ![The Revert option above the diff view](/assets/images/2021/10/help/desktop/commit-revert-mac.png)
 
 {% endmac %}
 
@@ -27,6 +27,6 @@ When you revert to a previous commit, the revert is also a commit. The original 
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![The Revert option above the diff view](/assets/images/help/desktop/commit-revert-win.png)
+  ![The Revert option above the diff view](/assets/images/2021/10/help/desktop/commit-revert-win.png)
 
 {% endwindows %}

@@ -34,5 +34,5 @@ topics:
 
 {% data reusables.repositories.sidebar-pr %}
 2. 在“Pull Requests（拉取请求）”列表中，单击要还原的拉取请求。
-3. 在拉取请求底部附近，单击 **Revert（还原）**。 If the **Revert** option isn't displayed, you'll need to ask the repository administrator for write permissions. ![还原拉取请求链接](/assets/images/help/pull_requests/revert-pull-request-link.png)
+3. 在拉取请求底部附近，单击 **Revert（还原）**。 If the **Revert** option isn't displayed, you'll need to ask the repository administrator for write permissions. ![还原拉取请求链接](/assets/images/2021/10/help/pull_requests/revert-pull-request-link.png)
 4. 合并产生的拉取请求。 更多信息请参阅“[合并拉取请求](/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)”。

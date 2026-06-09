@@ -17,8 +17,8 @@ shortTitle: Agregar a los hitos
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. Selecciona la casilla de verificación junto a los elementos que deseas asociar a un hito. ![Casilla de verificación de metadatos de propuestas](/assets/images/help/issues/issues_assign_checkbox.png)
-4. En el margen superior derecho, haz clic en **Milestone** (Hito), luego comienza a escribir el nombre de un [hito existente](/articles/creating-and-editing-milestones-for-issues-and-pull-requests). Haz clic en el nombre del hito para asociarlo con el elemento. ![Desplegable de la asignación de los hitos de propuestas](/assets/images/help/issues/issues_assigning_milestone_dropdown.png)
+3. Selecciona la casilla de verificación junto a los elementos que deseas asociar a un hito. ![Casilla de verificación de metadatos de propuestas](/assets/images/2021/10/help/issues/issues_assign_checkbox.png)
+4. En el margen superior derecho, haz clic en **Milestone** (Hito), luego comienza a escribir el nombre de un [hito existente](/articles/creating-and-editing-milestones-for-issues-and-pull-requests). Haz clic en el nombre del hito para asociarlo con el elemento. ![Desplegable de la asignación de los hitos de propuestas](/assets/images/2021/10/help/issues/issues_assigning_milestone_dropdown.png)
 
 {% tip %}
 

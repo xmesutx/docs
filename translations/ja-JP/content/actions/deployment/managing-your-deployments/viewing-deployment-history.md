@@ -19,8 +19,8 @@ You can deliver deployments through {% data variables.product.prodname_actions %
 
 現在及び過去のデプロイメントを表示するには、リポジトリのホームページの** Environments（環境）**をクリックしてください。
 {% ifversion ghae %}
-![環境](/assets/images/enterprise/2.22/environments-sidebar.png){% else %}
-![Environments](/assets/images/environments-sidebar.png){% endif %}
+![環境](/assets/images/2021/10/enterprise/2.22/environments-sidebar.png){% else %}
+![Environments](/assets/images/2021/10/environments-sidebar.png){% endif %}
 
 デプロイメントページは、リポジトリの各環境の最新のアクティブなデプロイメントを表示します。 If the deployment includes an environment URL, a **View deployment** button that links to the URL is shown next to the deployment.
 

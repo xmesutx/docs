@@ -44,12 +44,12 @@ After adding a new SSH key to your account on {% ifversion ghae %}{% data variab
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 4. Click **New SSH key** or **Add SSH key**.
-  ![SSH Key button](/assets/images/help/settings/ssh-add-ssh-key.png)
+  ![SSH Key button](/assets/images/2021/10/help/settings/ssh-add-ssh-key.png)
 5. In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air".
 6. Paste your key into the "Key" field.
-  ![The key field](/assets/images/help/settings/ssh-key-paste.png)
+  ![The key field](/assets/images/2021/10/help/settings/ssh-key-paste.png)
 7. Click **Add SSH key**.
-  ![The Add key button](/assets/images/help/settings/ssh-add-key.png)
+  ![The Add key button](/assets/images/2021/10/help/settings/ssh-add-key.png)
 {% data reusables.user-settings.sudo-mode-popup %}
 
 {% endwebui %}
@@ -78,14 +78,14 @@ After adding a new SSH key to your account on {% ifversion ghae %}{% data variab
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 4. Click **New SSH key** or **Add SSH key**.
-  ![SSH Key button](/assets/images/help/settings/ssh-add-ssh-key.png)
+  ![SSH Key button](/assets/images/2021/10/help/settings/ssh-add-ssh-key.png)
 5. In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air".
 6. Paste your key into the "Key" field.
-  ![The key field](/assets/images/help/settings/ssh-key-paste.png)
+  ![The key field](/assets/images/2021/10/help/settings/ssh-key-paste.png)
 7. Click **Add SSH key**.
-  ![The Add key button](/assets/images/help/settings/ssh-add-key.png)
+  ![The Add key button](/assets/images/2021/10/help/settings/ssh-add-key.png)
 8. If prompted, confirm your {% data variables.product.product_name %} password.
-  ![Sudo mode dialog](/assets/images/help/settings/sudo_mode_popup.png)
+  ![Sudo mode dialog](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 {% endwebui %}
 
@@ -114,14 +114,14 @@ After adding a new SSH key to your account on {% ifversion ghae %}{% data variab
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 4. Click **New SSH key** or **Add SSH key**.
-  ![SSH Key button](/assets/images/help/settings/ssh-add-ssh-key.png)
+  ![SSH Key button](/assets/images/2021/10/help/settings/ssh-add-ssh-key.png)
 5. In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air".
 6. Paste your key into the "Key" field.
-  ![The key field](/assets/images/help/settings/ssh-key-paste.png)
+  ![The key field](/assets/images/2021/10/help/settings/ssh-key-paste.png)
 7. Click **Add SSH key**.
-  ![The Add key button](/assets/images/help/settings/ssh-add-key.png)
+  ![The Add key button](/assets/images/2021/10/help/settings/ssh-add-key.png)
 8. If prompted, confirm your {% data variables.product.product_name %} password.
-  ![Sudo mode dialog](/assets/images/help/settings/sudo_mode_popup.png)
+  ![Sudo mode dialog](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 {% endwebui %}
 

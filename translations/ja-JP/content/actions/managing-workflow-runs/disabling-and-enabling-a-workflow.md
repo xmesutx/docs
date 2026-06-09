@@ -35,9 +35,9 @@ REST API を使用して、ワークフローを無効化または有効化す�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. 左サイドバーで、無効にするワークフローをクリックします。 ![アクション選択ワークフロー](/assets/images/actions-select-workflow.png)
-1. {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックします。 ![アクションケバブメニュー](/assets/images/help/repository/actions-workflow-menu-kebab.png)
-1. [**Disable workflow**] をクリックします。 ![actions disable workflow](/assets/images/help/repository/actions-disable-workflow.png)無効化されたワークフローには、そのステータスを示すために {% octicon "stop" aria-label="The stop icon" %} のマークが付けられます。 ![無効なワークフローをリストするアクション](/assets/images/help/repository/actions-find-disabled-workflow.png)
+1. 左サイドバーで、無効にするワークフローをクリックします。 ![アクション選択ワークフロー](/assets/images/2021/10/actions-select-workflow.png)
+1. {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックします。 ![アクションケバブメニュー](/assets/images/2021/10/help/repository/actions-workflow-menu-kebab.png)
+1. [**Disable workflow**] をクリックします。 ![actions disable workflow](/assets/images/2021/10/help/repository/actions-disable-workflow.png)無効化されたワークフローには、そのステータスを示すために {% octicon "stop" aria-label="The stop icon" %} のマークが付けられます。 ![無効なワークフローをリストするアクション](/assets/images/2021/10/help/repository/actions-find-disabled-workflow.png)
 
 {% endwebui %}
 
@@ -61,8 +61,8 @@ gh workflow disable <em>workflow</em>
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. 左サイドバーで、有効にするワークフローをクリックします。 ![無効なワークフローを選択するアクション](/assets/images/help/repository/actions-select-disabled-workflow.png)
-1. [**Enable workflow**] をクリックします。 ![ワークフローを有効にするアクション](/assets/images/help/repository/actions-enable-workflow.png)
+1. 左サイドバーで、有効にするワークフローをクリックします。 ![無効なワークフローを選択するアクション](/assets/images/2021/10/help/repository/actions-select-disabled-workflow.png)
+1. [**Enable workflow**] をクリックします。 ![ワークフローを有効にするアクション](/assets/images/2021/10/help/repository/actions-enable-workflow.png)
 
 {% endwebui %}
 

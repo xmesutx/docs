@@ -18,7 +18,7 @@ You can use discussions insights to help understand the contribution activity, p
 - **Discussions daily contributors** shows the daily count of unique users who have reacted, upvoted, marked an answer, commented, or posted in the selected time period.
 - **Discussions new contributors** shows the daily count of unique new users who have reacted, upvoted, marked an answer, commented, or posted in the selected time period.
 
-![Screenshot of the discussions dashboard](/assets/images/help/discussions/discussions-dashboard.png)
+![Screenshot of the discussions dashboard](/assets/images/2022/01/help/discussions/discussions-dashboard.png)
 
 {% tip %}
 
@@ -30,5 +30,5 @@ You can use discussions insights to help understand the contribution activity, p
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 在左侧栏中，单击 **Community（社区）**。 ![Screenshot of the "Community" tab in left sidebar](/assets/images/help/graphs/graphs-sidebar-community-tab.png)
-1. Optionally, in the upper-right corner of the page, select the **Period** dropdown menu and click the time period for which you want to view data: **30 days**, **3 months**, or **1 year**. ![Screenshot of the date range selector for discussions insights](/assets/images/help/discussions/discussions-dashboard-date-selctor.png)
+3. 在左侧栏中，单击 **Community（社区）**。 ![Screenshot of the "Community" tab in left sidebar](/assets/images/2021/10/help/graphs/graphs-sidebar-community-tab.png)
+1. Optionally, in the upper-right corner of the page, select the **Period** dropdown menu and click the time period for which you want to view data: **30 days**, **3 months**, or **1 year**. ![Screenshot of the date range selector for discussions insights](/assets/images/2022/01/help/discussions/discussions-dashboard-date-selctor.png)

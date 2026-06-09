@@ -34,7 +34,7 @@ Do not make test purchases with an app that is live in {% data variables.product
 
 Your testing scenarios may require setting up listing plans that offer free trials and switching between free and paid subscriptions. Because downgrades and cancellations don't take effect until the next billing cycle, GitHub provides a developer-only feature to "Apply Pending Change" to force `changed` and `cancelled` plan actions to take effect immediately. You can access **Apply Pending Change** for apps with _draft_ Marketplace listings in https://github.com/settings/billing#pending-cycle:
 
-![Apply pending change](/assets/images/github-apps/github-apps-apply-pending-changes.png)
+![Apply pending change](/assets/images/2021/10/github-apps/github-apps-apply-pending-changes.png)
 
 ## Testing APIs
 

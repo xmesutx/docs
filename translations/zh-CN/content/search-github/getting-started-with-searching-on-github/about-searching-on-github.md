@@ -60,7 +60,7 @@ You can search {% data variables.product.product_name %} using the {% data varia
 
 {% data variables.search.advanced_url %} 提供用于构建搜索查询的可视界面。 您可以按各种因素过滤搜索，例如仓库具有的星标数或复刻数。 在填写高级搜索字段时，您的查询将在顶部搜索栏中自动构建。
 
-![高级搜索](/assets/images/help/search/advanced_search_demo.gif)
+![高级搜索](/assets/images/2021/10/help/search/advanced_search_demo.gif)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 

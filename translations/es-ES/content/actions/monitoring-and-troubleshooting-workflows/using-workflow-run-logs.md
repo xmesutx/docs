@@ -46,7 +46,7 @@ Puedes buscar en los registros de construcción un paso en particular. Cuando bu
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 {% data reusables.repositories.navigate-to-job %}
-1. En el cuadro de búsqueda **Buscar registros** en la esquina superior derecha de la salida del registro, escribe una consulta de búsqueda. ![Cuadro de búsqueda para buscar registros](/assets/images/help/repository/search-log-box-updated-2.png)
+1. En el cuadro de búsqueda **Buscar registros** en la esquina superior derecha de la salida del registro, escribe una consulta de búsqueda. ![Cuadro de búsqueda para buscar registros](/assets/images/2021/10/help/repository/search-log-box-updated-2.png)
 
 ## Descargar bitácoras
 
@@ -59,7 +59,7 @@ Puedes descargar los archivos de bitácora desde tu ejecución de flujo de traba
 {% data reusables.repositories.navigate-to-job %}
 1. En la esquina superior derecha, da clic en {% octicon "gear" aria-label="The gear icon" %} y selecciona **Descargar archivo de bitácora**.
 
-  ![Menú desplegable para descargar registros](/assets/images/help/repository/download-logs-drop-down-updated-2.png)
+  ![Menú desplegable para descargar registros](/assets/images/2021/10/help/repository/download-logs-drop-down-updated-2.png)
 
 
 ## Borrar bitácoras
@@ -72,11 +72,11 @@ Puedes borrar los archivos de bitácora de tu ejecución de flujo de trabajo. {%
 {% data reusables.repositories.view-run %}
 1. En la esquina superior derecha, haz clic en el {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
 
-    ![Icono de Kebab horizontal](/assets/images/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
+    ![Icono de Kebab horizontal](/assets/images/2021/10/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
 
 2. Para borrar los archivos de bitácora, da clic en el botón **Borrar todas las bitácoras** y revisa el aviso de confirmación.
 
-  ![Borrar todas las bitácoras](/assets/images/help/repository/delete-all-logs-updated-2.png)
+  ![Borrar todas las bitácoras](/assets/images/2021/10/help/repository/delete-all-logs-updated-2.png)
 
 Después de borrar las bitácoras, el botón de **Borrar todas las bitácoras** se elimina para indicar que ya no quedan archivos en la ejecución de flujo de trabajo.
 

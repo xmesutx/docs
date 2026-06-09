@@ -30,7 +30,7 @@ shortTitle: 设置上市定价计划
 
 如果含有付费计划的应用程序已发布，并且您是经验证的发布者，则您可以在 Marketplace 应用程序上架设置中的“Edit a pricing plan（编辑定价计划）”页面发布新的付费计划。
 
-![发布此计划按钮](/assets/images/marketplace/publish-this-plan-button.png)
+![发布此计划按钮](/assets/images/2021/10/marketplace/publish-this-plan-button.png)
 
 如果您的应用已经在付费计划中发布，但您不是验证的发布者，则您可以发布新的付费计划，直到您成为验证的发布者。 有关成为验证的发布者的更多信息，请参阅“[为组织申请发布者验证](/developers/github-marketplace/applying-for-publisher-verification-for-your-organization)”。
 
@@ -69,7 +69,7 @@ shortTitle: 设置上市定价计划
 
 如果不再需要 {% data variables.product.prodname_marketplace %} 上架产品的定价计划，或者需要调整定价细节，您可以删除它。
 
-![删除定价计划的按钮](/assets/images/marketplace/marketplace_remove_this_plan.png)
+![删除定价计划的按钮](/assets/images/2021/10/marketplace/marketplace_remove_this_plan.png)
 
 为 {% data variables.product.prodname_marketplace %} 中已上架的应用程序发布定价计划后，就无法对该计划进行更改。 您需要删除该定价计划，然后创建一个新计划。 已经购买已删除定价计划的客户将继续使用它，直到他们选择退出并转到新的定价计划。 有关定价计划的更多信息，请参阅“[{% data variables.product.prodname_marketplace %} 定价计划](/marketplace/selling-your-app/github-marketplace-pricing-plans/)”。
 

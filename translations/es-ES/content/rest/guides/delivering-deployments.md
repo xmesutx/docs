@@ -50,7 +50,7 @@ Inicia este servidor. Predeterminadamente, Sinatra inicia en el puerto `4567`, a
 
 Para que este servidor funcione, necesitaremos configurar un repositorio con un webhook. El webhook debe configurarse para que se active cada que se crea o fusiona una solicitud de extracción. Sigue adelante y crea un repositorio en el que quieras hacer tus experimentos. ¿Podríamos sugerirte que sea [el repositorio Spoon/Knife de @octocat](https://github.com/octocat/Spoon-Knife)? Después de esto, crearás un webhook nuevo en tu repositorio y lo alimentarás con la URL que te dio ngrok para luego escoger a `application/x-www-form-urlencoded` como el tipo de contenido:
 
-![Una URL de ngrok nueva](/assets/images/webhook_sample_url.png)
+![Una URL de ngrok nueva](/assets/images/2021/10/webhook_sample_url.png)
 
 Haz clic en **Actualizar webhook**. Deberás ver una respuesta en el cuerpo que diga `Well, it worked!`. ¡Genial! Da clic en **Déjame selecionar eventos individuales**, y selecciona lo siguiente:
 

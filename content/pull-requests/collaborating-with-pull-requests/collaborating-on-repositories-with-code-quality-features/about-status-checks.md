@@ -17,7 +17,7 @@ topics:
 ---
 Status checks are based on external processes, such as continuous integration builds, which run for each push you make to a repository. You can see the *pending*, *passing*, or *failing* state of status checks next to individual commits in your pull request.
 
-![List of commits and statuses](/assets/images/help/pull_requests/commit-list-statuses.png)
+![List of commits and statuses](/assets/images/2021/10/help/pull_requests/commit-list-statuses.png)
 
 Anyone with write permissions to a repository can set the state for any status check in the repository.
 
@@ -40,7 +40,7 @@ Organization owners and users with push access to a repository can create checks
 
 When _checks_ are set up in a repository, pull requests have a **Checks** tab where you can view detailed build output from status checks and rerun failed checks.
 
-![Status checks within a pull request](/assets/images/help/pull_requests/checks.png)
+![Status checks within a pull request](/assets/images/2021/10/help/pull_requests/checks.png)
 
 {% note %}
 
@@ -50,11 +50,11 @@ When _checks_ are set up in a repository, pull requests have a **Checks** tab wh
 
 When a specific line in a commit causes a check to fail, you will see details about the failure, warning, or notice next to the relevant code in the **Files** tab of the pull request.
 
-![Details of a status check](/assets/images/help/pull_requests/checks-detailed.png)
+![Details of a status check](/assets/images/2021/10/help/pull_requests/checks-detailed.png)
 
 You can navigate between the checks summaries for various commits in a pull request, using the commit drop-down menu under the **Conversation** tab.
 
-![Check summaries for different commits in a drop-down menu](/assets/images/help/pull_requests/checks-summary-for-various-commits.png)
+![Check summaries for different commits in a drop-down menu](/assets/images/2021/10/help/pull_requests/checks-summary-for-various-commits.png)
 
 ### Skipping and requesting checks for individual commits
 

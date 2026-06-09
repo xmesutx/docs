@@ -24,8 +24,8 @@ shortTitle: 配置包生态系统
 {% data reusables.enterprise_site_admin_settings.packages-tab %}
 1. 在“Ecosystem Toggles（生态系统切换）”下，为每个包类型选择 **Enabled（启用）**、**Read-Only（只读）**或 **Disabled（禁用）**。
 {% ifversion ghes > 3.1 %}
-  ![生态系统切换](/assets/images/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
-![Ecosystem toggles](/assets/images/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
+  ![生态系统切换](/assets/images/2021/10/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
+![Ecosystem toggles](/assets/images/2022/01/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% ifversion ghes %}

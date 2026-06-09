@@ -26,4 +26,4 @@ If you allow auto-merge for pull requests in your repository, people with write 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 1. Under {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-6069 %}"Pull Requests"{% else %}"Merge button"{% endif %}, select or deselect **Allow auto-merge**.
-  ![Checkbox to allow or disallow auto-merge](/assets/images/help/pull_requests/allow-auto-merge-checkbox.png)
+  ![Checkbox to allow or disallow auto-merge](/assets/images/2021/10/help/pull_requests/allow-auto-merge-checkbox.png)

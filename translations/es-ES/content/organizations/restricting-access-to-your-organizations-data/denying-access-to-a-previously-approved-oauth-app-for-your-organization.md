@@ -17,5 +17,5 @@ shortTitle: Negar una App de OAuth
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. Junto a la aplicación que deseas inhabilitar, haz clic en {% octicon "pencil" aria-label="The edit icon" %}. ![Icono Editar](/assets/images/help/settings/settings-third-party-deny-edit.png)
-6. Haz clic en **Denegar acceso**. ![Botón Denegar confirmación](/assets/images/help/settings/settings-third-party-deny-confirm.png)
+5. Junto a la aplicación que deseas inhabilitar, haz clic en {% octicon "pencil" aria-label="The edit icon" %}. ![Icono Editar](/assets/images/2021/10/help/settings/settings-third-party-deny-edit.png)
+6. Haz clic en **Denegar acceso**. ![Botón Denegar confirmación](/assets/images/2021/10/help/settings/settings-third-party-deny-confirm.png)

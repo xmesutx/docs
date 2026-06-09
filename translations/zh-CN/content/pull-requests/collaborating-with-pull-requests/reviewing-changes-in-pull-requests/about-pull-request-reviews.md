@@ -28,20 +28,20 @@ shortTitle: 关于 PR 审查
 
 {% ifversion fpt or ghec %}您可以对需要审查的拉取请求预定提醒。 更多信息请参阅“[管理拉取请求的预定提醒](/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests)”。{% endif %}
 
-![包含行注释的拉取请求更改的标头](/assets/images/help/pull_requests/review-header-with-line-comment.png)
+![包含行注释的拉取请求更改的标头](/assets/images/2021/10/help/pull_requests/review-header-with-line-comment.png)
 
 审查有三种可能的状态：
 - **评论**：提交一般反馈，但不明确批准更改或申请其他更改。
 - **批准**：提交反馈并批准合并拉取请求中提议的更改。
 - **申请更改**：提交在拉取请求合并之前必须解决的反馈。
 
-![审查状态图像](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+![审查状态图像](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
 {% data reusables.repositories.request-changes-tips %}
 
 您可以在“对话”时间表中查看拉取请求收到的所有审查，也可在拉取请求的合并框中按仓库所有者和协作者查看审查。
 
-![合并框中的审查图像](/assets/images/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
+![合并框中的审查图像](/assets/images/2021/10/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
 
 {% data reusables.search.requested_reviews_search_tip %}
 

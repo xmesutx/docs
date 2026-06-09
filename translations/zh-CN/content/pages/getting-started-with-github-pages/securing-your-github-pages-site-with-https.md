@@ -34,7 +34,7 @@ shortTitle: 使用 HTTPS 保护站点
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. 在 "{% data variables.product.prodname_pages %}" 下，选择 **Enforce HTTPS（实施 HTTPS）**。 ![强制实施 HTTPS 复选框](/assets/images/help/pages/enforce-https-checkbox.png)
+3. 在 "{% data variables.product.prodname_pages %}" 下，选择 **Enforce HTTPS（实施 HTTPS）**。 ![强制实施 HTTPS 复选框](/assets/images/2021/10/help/pages/enforce-https-checkbox.png)
 
 ## 证书预配疑难解答（”证书尚未创建“错误）
 

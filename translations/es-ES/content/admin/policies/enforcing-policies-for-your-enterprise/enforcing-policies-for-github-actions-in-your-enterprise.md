@@ -54,9 +54,9 @@ Puedes elegir inhabilitar {% data variables.product.prodname_actions %} para tod
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Debajo de **Políticas**, selecciona **Permitir las acciones seleccionadas** y agrega tus acciones requeridas a la lista.
    {%- ifversion ghes or ghae-issue-5094 %}
-   ![Agregar acciones a la lista de permitidos](/assets/images/help/organizations/enterprise-actions-policy-allow-list.png)
+   ![Agregar acciones a la lista de permitidos](/assets/images/2021/10/help/organizations/enterprise-actions-policy-allow-list.png)
    {%- elsif ghae %}
-   ![Agregar acciones a la lista de permitidos](/assets/images/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
+   ![Agregar acciones a la lista de permitidos](/assets/images/2021/10/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
    {%- endif %}
 {% endif %}
 
@@ -124,7 +124,7 @@ Puedes configurar los permisos predeterminados para del `GITHUB_TOKEN` en la con
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.actions-tab %}
-1. Debajo de **Permisos del flujo de trabajo**, elige si quieres que el `GITHUB_TOKEN` tenga permisos de lectura y escritura para todos los alcances o solo acceso de lectura para el alcance `contents`. ![Configurar los permisos del GITHUB_TOKEN para esta empresa](/assets/images/help/settings/actions-workflow-permissions-enterprise.png)
+1. Debajo de **Permisos del flujo de trabajo**, elige si quieres que el `GITHUB_TOKEN` tenga permisos de lectura y escritura para todos los alcances o solo acceso de lectura para el alcance `contents`. ![Configurar los permisos del GITHUB_TOKEN para esta empresa](/assets/images/2021/10/help/settings/actions-workflow-permissions-enterprise.png)
 1. Da clic en **Guardar** para aplicar la configuración.
 
 {% endif %}

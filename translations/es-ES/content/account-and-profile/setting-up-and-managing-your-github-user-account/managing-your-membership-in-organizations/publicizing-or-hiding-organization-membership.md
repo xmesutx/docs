@@ -16,14 +16,14 @@ topics:
 shortTitle: Mostrar u ocultar la membrecía
 ---
 
-![Casilla de perfil de organizaciones](/assets/images/help/profile/profile_orgs_box.png)
+![Casilla de perfil de organizaciones](/assets/images/2021/10/help/profile/profile_orgs_box.png)
 
 ## Cambiar la visibilidad de la membresía de tu organización
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Ubica tu nombre de usuario en la lista de miembros. Si la lista es grande, puedes buscar tu nombre de usuario en la casilla de búsqueda. ![Casilla de búsqueda de miembro de la organización](/assets/images/help/organizations/member-search-box.png)
+4. Ubica tu nombre de usuario en la lista de miembros. Si la lista es grande, puedes buscar tu nombre de usuario en la casilla de búsqueda. ![Casilla de búsqueda de miembro de la organización](/assets/images/2021/10/help/organizations/member-search-box.png)
 5. En el menú a la derecha de tu nombre de usuario, elige una nueva opción de visibilidad:
     - Para divulgar tu membresía, elige **Public (Pública)**.
-    - Para esconder tu membresía, elige **Private (Privada)**. ![Enlace de visibilidad de un miembro de la organización](/assets/images/help/organizations/member-visibility-link.png)
+    - Para esconder tu membresía, elige **Private (Privada)**. ![Enlace de visibilidad de un miembro de la organización](/assets/images/2021/10/help/organizations/member-visibility-link.png)

@@ -38,7 +38,7 @@ shortTitle: 访问管理 shell (SSH)
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-3. 在“SSH access”下，将密钥粘贴到文本框中，然后单击 **Add key**。 ![添加 SSH 密钥的文本框和按钮](/assets/images/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
+3. 在“SSH access”下，将密钥粘贴到文本框中，然后单击 **Add key**。 ![添加 SSH 密钥的文本框和按钮](/assets/images/2021/10/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## 通过 SSH 连接到管理 shell

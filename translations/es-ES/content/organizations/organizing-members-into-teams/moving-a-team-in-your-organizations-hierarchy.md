@@ -32,12 +32,12 @@ Los propietarios de la organización pueden cambiar el padre de cualquier equipo
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. En la lista de equipos, haz clic en el nombre del equipo cuyo padre deseas cambiar. ![Lista de los equipos de la organización](/assets/images/help/teams/click-team-name.png)
+4. En la lista de equipos, haz clic en el nombre del equipo cuyo padre deseas cambiar. ![Lista de los equipos de la organización](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
-6. Utiliza el menú desplegable para elegir un equipo padre, o para eliminar un equipo padre existente, selecciona **Clear selected value (Borrar el valor seleccionado)**. ![Menú desplegable que enumera los equipos de la organización](/assets/images/help/teams/choose-parent-team.png)
+6. Utiliza el menú desplegable para elegir un equipo padre, o para eliminar un equipo padre existente, selecciona **Clear selected value (Borrar el valor seleccionado)**. ![Menú desplegable que enumera los equipos de la organización](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. Da clic en **Actualizar**.
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. Haz clic en **Confirm new parent team (Confirmar nuevo equipo padre)**. ![Casilla modal para información acerca de los cambios en los permisos de acceso del repositorio](/assets/images/help/teams/confirm-new-parent-team.png)
+9. Haz clic en **Confirm new parent team (Confirmar nuevo equipo padre)**. ![Casilla modal para información acerca de los cambios en los permisos de acceso del repositorio](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## Leer más
 

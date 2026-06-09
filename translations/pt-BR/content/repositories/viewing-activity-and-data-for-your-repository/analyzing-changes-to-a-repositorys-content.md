@@ -29,17 +29,17 @@ No gráfico de commits, é possível ver todos os commits feitos em um repositó
 
 O gráfico superior mostra commits do ano inteiro, por semana.
 
-![Gráfico anual de commits do repositório](/assets/images/help/graphs/repo_commit_activity_year_graph.png)
+![Gráfico anual de commits do repositório](/assets/images/2021/10/help/graphs/repo_commit_activity_year_graph.png)
 
 O gráfico inferior mostra a média de commits por dia da semana para a semana selecionada.
 
-![Gráfico semanal de commits do repositório](/assets/images/help/graphs/repo_commit_activity_week_graph.png)
+![Gráfico semanal de commits do repositório](/assets/images/2021/10/help/graphs/repo_commit_activity_week_graph.png)
 
 ### Acessar o gráfico de commits
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Commits** (Commits). ![Guia Commits (Commits)](/assets/images/help/graphs/commits_tab.png)
+3. Na barra lateral esquerda, clique em **Commits** (Commits). ![Guia Commits (Commits)](/assets/images/2021/10/help/graphs/commits_tab.png)
 
 ## Visualizando adições e exclusão de conteúdo em um repositório
 
@@ -47,7 +47,7 @@ O gráfico de código de frequência mostra as adições e exclusões de conteú
 
 {% ifversion fpt or ghec %}
 
-![gráfico de código de frequência](/assets/images/help/graphs/repo_code_frequency_graph_dotcom.png)
+![gráfico de código de frequência](/assets/images/2021/10/help/graphs/repo_code_frequency_graph_dotcom.png)
 
 {% endif %}
 
@@ -55,4 +55,4 @@ O gráfico de código de frequência mostra as adições e exclusões de conteú
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Code frequency** (Frequência de código). ![Guia Code frequency (Frequência de código)](/assets/images/help/graphs/code_frequency_tab.png)
+3. Na barra lateral esquerda, clique em **Code frequency** (Frequência de código). ![Guia Code frequency (Frequência de código)](/assets/images/2021/10/help/graphs/code_frequency_tab.png)

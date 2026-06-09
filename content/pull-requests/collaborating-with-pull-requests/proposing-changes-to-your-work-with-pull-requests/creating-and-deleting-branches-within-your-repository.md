@@ -20,11 +20,11 @@ shortTitle: Create & delete branches
 {% data reusables.repositories.navigate-to-repo %}
 
 1. Optionally, if you want to create your new branch from a branch other than the default branch for the repository, click {% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> branches** then choose another branch:
-    ![Branches link on overview page](/assets/images/help/branches/branches-link.png)
+    ![Branches link on overview page](/assets/images/2021/10/help/branches/branches-link.png)
 1. Click the branch selector menu.
-    ![branch selector menu](/assets/images/help/branch/branch-selection-dropdown.png)
+    ![branch selector menu](/assets/images/2021/10/help/branch/branch-selection-dropdown.png)
 1. Type a unique name for your new branch, then select **Create branch**.
-    ![branch creation text box](/assets/images/help/branch/branch-creation-text-box.png)
+    ![branch creation text box](/assets/images/2021/10/help/branch/branch-creation-text-box.png)
 
 ## Deleting a branch
 
@@ -41,7 +41,7 @@ If the branch you want to delete is associated with an open pull request, you mu
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-branches %}
 1. Scroll to the branch that you want to delete, then click {% octicon "trash" aria-label="The trash icon to delete the branch" %}.
-    ![delete the branch](/assets/images/help/branches/branches-delete.png)
+    ![delete the branch](/assets/images/2021/10/help/branches/branches-delete.png)
 
 {% data reusables.pull_requests.retargeted-on-branch-deletion %}
 For more information, see "[About branches](/github/collaborating-with-issues-and-pull-requests/about-branches#working-with-branches)."

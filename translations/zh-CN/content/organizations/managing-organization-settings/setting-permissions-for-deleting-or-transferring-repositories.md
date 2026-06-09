@@ -21,5 +21,5 @@ shortTitle: 设置仓库管理策略
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. 在 Repository deletion and transfer（仓库删除和转让）下，选择或取消选择 **Allow members to delete or transfer repositories for this organization（允许成员删除或转让此组织的仓库）**。 ![允许成员删除仓库的复选框](/assets/images/help/organizations/disallow-members-to-delete-repositories.png)
+5. 在 Repository deletion and transfer（仓库删除和转让）下，选择或取消选择 **Allow members to delete or transfer repositories for this organization（允许成员删除或转让此组织的仓库）**。 ![允许成员删除仓库的复选框](/assets/images/2021/10/help/organizations/disallow-members-to-delete-repositories.png)
 6. 单击 **Save（保存）**。

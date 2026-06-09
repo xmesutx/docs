@@ -70,7 +70,7 @@ Puedes crear y participar de propuestas, solicitudes de extracción y debates de
 
 Este ejemplo demuestra cómo un usuario de {% data variables.product.prodname_dotcom %} creó una propuesta en nuestro repositorio de documentación de código abierto para concientizarnos de un error y debatir sobre cómo arreglarlo.
 
-![Ejemplo de propuesta](/assets/images/help/issues/issue-example.png)
+![Ejemplo de propuesta](/assets/images/2021/10/help/issues/issue-example.png)
 
 - Un usuario notó que el color azul del letrero en la parte superior de la página de la versión china de los documentos de {% data variables.product.prodname_dotcom %} hace que el texto contenido sea ilegible.
 - El usurio creó una propuesta en el repositorio, la cual declaraba el problema y sugería un arreglo (el cual es utilizar un color de fondo diferente para el letrero).
@@ -90,11 +90,11 @@ Este ejemplo ilustra cómo un usuario de {% data variables.product.prodname_dotc
 
 En la pestaña de **Conversación** de la solicitud de cambios, el autor explica por qué crearon la solicitud de cambios.
 
-![Ejemplo de solicitud de cambios - Pestaña de conversación](/assets/images/help/pull_requests/pr-conversation-example.png)
+![Ejemplo de solicitud de cambios - Pestaña de conversación](/assets/images/2021/10/help/pull_requests/pr-conversation-example.png)
 
 La pestaña **Archivos que cambiaron** de la solicitud de cambios muestra la solución implementada.
 
-![Ejemplo de solicitud de cambios - Pestaña de archivos que cambiaron](/assets/images/help/pull_requests/pr-files-changed-example.png)
+![Ejemplo de solicitud de cambios - Pestaña de archivos que cambiaron](/assets/images/2021/10/help/pull_requests/pr-files-changed-example.png)
 
 - Este contribuyente nota un error tipográfico en el repositorio.
 - El usuario crea una solicitud de cambios con la solución.
@@ -112,7 +112,7 @@ La pestaña **Archivos que cambiaron** de la solicitud de cambios muestra la sol
 
 Este ejemplo muestra la publicación de bienvenida de {% data variables.product.prodname_discussions %} para el repositorio de código abierto de los documentos de {% data variables.product.prodname_dotcom %} e ilustra cómo el equipo quiere colaborar con su comunidad.
 
-![Ejemplo de un {% data variables.product.prodname_discussions %}](/assets/images/help/discussions/github-discussions-example.png)
+![Ejemplo de un {% data variables.product.prodname_discussions %}](/assets/images/2021/10/help/discussions/github-discussions-example.png)
 
 El mantenedor de la comunidad inició un debate para recibir a la comunidad y para pedir a los miembros que se presentaran a sí mismos. Esta publicación fomenta un ambiente acogedor para los visitantes y contribuyentes. Esta publicación también aclara que al equipo le complace ayudar a los contribuyentes del repositorio.
 
@@ -133,7 +133,7 @@ Como puedes ver, los debates de equipo son muy similares a los {% data variables
 
 Este ejemplo muestra una publicación de equipo para el equipo `octo-team`.
 
-![Ejemplo de debate de equipo](/assets/images/help/projects/team-discussions-example.png)
+![Ejemplo de debate de equipo](/assets/images/2021/10/help/projects/team-discussions-example.png)
 
 Un miembro del equipo `octocat` publicó un debate de equipo que les informaba sobre varias cosas:
 - Un miembro del equipo llamado Mona inició eventos de juego remotos.

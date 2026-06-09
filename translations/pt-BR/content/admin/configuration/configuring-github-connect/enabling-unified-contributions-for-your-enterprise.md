@@ -46,7 +46,7 @@ Antes de habilitar {% data variables.product.prodname_unified_contributions %} e
 {% data reusables.enterprise-accounts.github-connect-tab %}{% else %}
 1. Entre na {% data variables.product.product_location %} e no {% data variables.product.prodname_dotcom_the_website %}.
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
-1. Em "Usuários podem compartilhar contagens de contribuição em {% data variables.product.prodname_dotcom_the_website %}", clique em **Solicitar acesso**. ![Request access to unified contributions option](/assets/images/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
+1. Em "Usuários podem compartilhar contagens de contribuição em {% data variables.product.prodname_dotcom_the_website %}", clique em **Solicitar acesso**. ![Request access to unified contributions option](/assets/images/2021/10/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
 2. [Faça login](https://enterprise.github.com/login) no site do {% data variables.product.prodname_ghe_server %} para obter mais instruções.
 
 Ao solicitar acesso, podemos redirecioná-lo para o site {% data variables.product.prodname_ghe_server %} para verificar os termos de serviço atuais.

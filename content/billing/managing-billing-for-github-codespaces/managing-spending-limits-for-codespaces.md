@@ -45,7 +45,7 @@ Enterprise owners and billing managers can manage the spending limit for {% data
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Above "{% data variables.product.prodname_codespaces %} monthly usage", click **Spending Limit**.
-  ![Spending limit tab](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+  ![Spending limit tab](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 
@@ -58,7 +58,7 @@ Email notifications are sent to account owners and billing managers when spendin
 
 You can disable these notifications anytime by navigating to the bottom of the **Spending Limit** page.
 
-![Screenshot of the billing email notification settings](/assets/images/help/billing/codespaces-spending-limit-notifications.png)
+![Screenshot of the billing email notification settings](/assets/images/2022/02/help/billing/codespaces-spending-limit-notifications.png)
 
 ## Further reading
 

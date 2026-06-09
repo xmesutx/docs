@@ -48,8 +48,8 @@ shortTitle: セキュリティポリシーの追加
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
-3. 左のサイドバーで**Security policy（セキュリティポリシー）**をクリックしてください。 ![セキュリティポリシータブ](/assets/images/help/security/security-policy-tab.png)
-4. [**Start setup**] をクリックします。 ![[Start setup] ボタン](/assets/images/help/security/start-setup-security-policy-button.png)
+3. 左のサイドバーで**Security policy（セキュリティポリシー）**をクリックしてください。 ![セキュリティポリシータブ](/assets/images/2021/10/help/security/security-policy-tab.png)
+4. [**Start setup**] をクリックします。 ![[Start setup] ボタン](/assets/images/2021/10/help/security/start-setup-security-policy-button.png)
 5. 新しい _SECURITY.md_ ファイルに、プロジェクトがサポートするバージョンと、脆弱性を報告する方法についての情報を追加します。
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}

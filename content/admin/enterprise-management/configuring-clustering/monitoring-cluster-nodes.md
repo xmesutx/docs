@@ -117,4 +117,4 @@ You can configure [Nagios](https://www.nagios.org/) to monitor {% data variables
 
 Once you add the definition to Nagios, the service check executes according to your configuration. You should be able to see the newly configured service in the Nagios web interface.
 
-![Nagios Example](/assets/images/enterprise/cluster/nagios-example.png)
+![Nagios Example](/assets/images/2021/10/enterprise/cluster/nagios-example.png)

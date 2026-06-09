@@ -31,9 +31,9 @@ As pessoas ou equipes mencionadas no problema receberão uma notificação infor
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 3. Na lista de problemas, clique no problema que deseja transferir.
-4. Na barra lateral direita, clique em **Transfer issue** (Transferir problema). ![Botão para transferir problema](/assets/images/help/repository/transfer-issue.png)
-5. Use o menu **Choose a repository** (Escolher um repositório) e selecione o repositório para o qual deseja transferir o problema. ![Seleção em Choose a repository (Escolher um repositório)](/assets/images/help/repository/choose-a-repository.png)
-6. Clique em **Transfer issue** (Transferir problema). ![Botão Transfer issue (Transferir problema)](/assets/images/help/repository/transfer-issue-button.png)
+4. Na barra lateral direita, clique em **Transfer issue** (Transferir problema). ![Botão para transferir problema](/assets/images/2021/10/help/repository/transfer-issue.png)
+5. Use o menu **Choose a repository** (Escolher um repositório) e selecione o repositório para o qual deseja transferir o problema. ![Seleção em Choose a repository (Escolher um repositório)](/assets/images/2021/10/help/repository/choose-a-repository.png)
+6. Clique em **Transfer issue** (Transferir problema). ![Botão Transfer issue (Transferir problema)](/assets/images/2021/10/help/repository/transfer-issue-button.png)
 
 {% endwebui %}
 

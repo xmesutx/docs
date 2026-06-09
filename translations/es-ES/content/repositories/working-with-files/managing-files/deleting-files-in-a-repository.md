@@ -39,7 +39,7 @@ Si el archivo{% ifversion fpt or ghes or ghec %} o directorio{% endif %} que bor
 ## Borrar un directorio
 
 1. Navega hasta el directorio que deseas borrar en tu repositorio.
-1. En la esquina superior derecha, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Borrar directorio**. ![Botón para borrar un directorio](/assets/images/help/repository/delete-directory-button.png)
+1. En la esquina superior derecha, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Borrar directorio**. ![Botón para borrar un directorio](/assets/images/2021/10/help/repository/delete-directory-button.png)
 1. Revisa los archivos que borrarás.
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}

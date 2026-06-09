@@ -28,12 +28,12 @@ Enterprise owners can configure email for notifications.
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 2. At the top of the page, click **Settings**.
-![Settings tab](/assets/images/enterprise/management-console/settings-tab.png)
+![Settings tab](/assets/images/2021/10/enterprise/management-console/settings-tab.png)
 3. In the left sidebar, click **Email**.
-![Email tab](/assets/images/enterprise/management-console/email-sidebar.png)
+![Email tab](/assets/images/2021/10/enterprise/management-console/email-sidebar.png)
 4. Select **Enable email**. This will enable both outbound and inbound email, however for inbound email to work you will also need to configure your DNS settings as described below in "[Configuring DNS and firewall
 settings to allow incoming emails](#configuring-dns-and-firewall-settings-to-allow-incoming-emails)."
-![Enable outbound email](/assets/images/enterprise/management-console/enable-outbound-email.png)
+![Enable outbound email](/assets/images/2021/10/enterprise/management-console/enable-outbound-email.png)
 5. Type the settings for your SMTP server.
       - In the **Server address** field, type the address of your SMTP server.
       - In the **Port** field, type the port that your SMTP server uses to send email.
@@ -41,18 +41,18 @@ settings to allow incoming emails](#configuring-dns-and-firewall-settings-to-all
       - Select the **Authentication** dropdown, and choose the type of encryption used by your SMTP server.
       - In the **No-reply email address** field, type the email address to use in the From and To fields for all notification emails.      
 6. If you want to discard all incoming emails that are addressed to the no-reply email address, select **Discard email addressed to the no-reply email address**.
-![Checkbox to discard emails addressed to the no-reply email address](/assets/images/enterprise/management-console/discard-noreply-emails.png)
+![Checkbox to discard emails addressed to the no-reply email address](/assets/images/2021/10/enterprise/management-console/discard-noreply-emails.png)
 7. Under **Support**, choose a type of link to offer additional support to your users.
     - **Email:** An internal email address.
     - **URL:** A link to an internal support site. You must include either `http://` or `https://`.
-  ![Support email or URL](/assets/images/enterprise/management-console/support-email-url.png)
+  ![Support email or URL](/assets/images/2021/10/enterprise/management-console/support-email-url.png)
 8. [Test email delivery](#testing-email-delivery).
 {% elsif ghae %}
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.email-tab %}
 2. Select **Enable email**.
-  !["Enable" checkbox for email settings configuration](/assets/images/enterprise/configuration/ae-enable-email-configure.png)
+  !["Enable" checkbox for email settings configuration](/assets/images/2021/10/enterprise/configuration/ae-enable-email-configure.png)
 3. Type the settings for your email server.
     - In the **Server address** field, type the address of your SMTP server.
     - In the **Port** field, type the port that your SMTP server uses to send email.
@@ -60,24 +60,24 @@ settings to allow incoming emails](#configuring-dns-and-firewall-settings-to-all
     - Select the **Authentication** dropdown, and choose the type of encryption used by your SMTP server.
     - In the **No-reply email address** field, type the email address to use in the From and To fields for all notification emails.
 4. If you want to discard all incoming emails that are addressed to the no-reply email address, select **Discard email addressed to the no-reply email address**.
-  !["Discard" checkbox for email settings configuration](/assets/images/enterprise/configuration/ae-discard-email.png)
+  !["Discard" checkbox for email settings configuration](/assets/images/2021/10/enterprise/configuration/ae-discard-email.png)
 5. Click **Test email settings**.
-  !["Test email settings" button for email settings configuration](/assets/images/enterprise/configuration/ae-test-email.png)
+  !["Test email settings" button for email settings configuration](/assets/images/2021/10/enterprise/configuration/ae-test-email.png)
 6. Under "Send test email to," type the email address where you want to send a test email, then click **Send test email**.
-  !["Send test email" button for email settings configuration](/assets/images/enterprise/configuration/ae-send-test-email.png)
+  !["Send test email" button for email settings configuration](/assets/images/2021/10/enterprise/configuration/ae-send-test-email.png)
 7. Click **Save**.
-  !["Save" button for enterprise support contact configuration](/assets/images/enterprise/configuration/ae-save.png)
+  !["Save" button for enterprise support contact configuration](/assets/images/2021/10/enterprise/configuration/ae-save.png)
 {% endif %}
 
 {% ifversion ghes %}
 ## Testing email delivery
 
 1. At the top of the **Email** section, click **Test email settings**.
-![Test email settings](/assets/images/enterprise/management-console/test-email.png)
+![Test email settings](/assets/images/2021/10/enterprise/management-console/test-email.png)
 2. In the **Send test email to** field, type an address to send the test email to.
-![Test email address](/assets/images/enterprise/management-console/test-email-address.png)
+![Test email address](/assets/images/2021/10/enterprise/management-console/test-email-address.png)
 3. Click **Send test email**.
-![Send test email](/assets/images/enterprise/management-console/test-email-address-send.png)
+![Send test email](/assets/images/2021/10/enterprise/management-console/test-email-address-send.png)
 
   {% tip %}
 
@@ -87,7 +87,7 @@ settings to allow incoming emails](#configuring-dns-and-firewall-settings-to-all
 
 4. If the test email fails, [troubleshoot your email settings](#troubleshooting-email-delivery).
 5. When the test email succeeds, at the bottom of the page, click **Save settings**.
-![Save settings button](/assets/images/enterprise/management-console/save-settings.png)
+![Save settings button](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 {% data reusables.enterprise_site_admin_settings.wait-for-configuration-run %}
 
 ## Configuring DNS and firewall settings to allow incoming emails

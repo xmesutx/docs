@@ -1,1 +1,1 @@
-1. Team ページの上部で、{% octicon "comment-discussion" aria-label="The discussion icon" %} **Discussions（ディスカッション）**をクリックします。 ![Teamディスカッションタブ](/assets/images/help/teams/org-team-page-discussions-tab.png)
+1. Team ページの上部で、{% octicon "comment-discussion" aria-label="The discussion icon" %} **Discussions（ディスカッション）**をクリックします。 ![Teamディスカッションタブ](/assets/images/2021/10/help/teams/org-team-page-discussions-tab.png)

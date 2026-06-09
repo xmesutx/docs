@@ -43,7 +43,7 @@ topics:
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
-4. 在设置页面底部附近的“Rename organization（重命名组织）”下，单击 **Rename Organization（重命名组织）**。 ![重命名组织按钮](/assets/images/help/settings/settings-rename-organization.png)
+4. 在设置页面底部附近的“Rename organization（重命名组织）”下，单击 **Rename Organization（重命名组织）**。 ![重命名组织按钮](/assets/images/2021/10/help/settings/settings-rename-organization.png)
 
 ## 延伸阅读
 

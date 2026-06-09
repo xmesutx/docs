@@ -26,7 +26,7 @@ topics:
 
 选择创建新代码空间的选项并为代码空间选择计算机类型后，在代码空间可供您使用之前，某些步骤将在后台进行。
 
-![使用 Codespaces 打开按钮](/assets/images/help/codespaces/new-codespace-button.png)
+![使用 Codespaces 打开按钮](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
 ### 步骤 1：将虚拟机和存储分配给代码空间
 
@@ -83,7 +83,7 @@ topics:
 
 端口转发确定可从远程计算机访问哪些端口。 即使不转发端口，在代码空间本身内运行的其他进程仍然可以访问该端口。
 
-![显示端口转发在代码空间中的工作方式的图示](/assets/images/help/codespaces/port-forwarding.png)
+![显示端口转发在代码空间中的工作方式的图示](/assets/images/2021/10/help/codespaces/port-forwarding.png)
 
 当在 {% data variables.product.prodname_codespaces %} 内运行的应用程序将端口输出到控制台时，{% data variables.product.prodname_codespaces %} 会检测本地主机 URL 模式并自动转发该端口。 可以单击终端或 Toast 消息中的 URL，以在浏览器中打开端口。 默认情况下， {% data variables.product.prodname_codespaces %} 使用 HTTP 转发端口。 有关端口转发的详细信息，请参阅“[代码空间中的转发端口](/codespaces/developing-in-codespaces/forwarding-ports-in-your-codespace)”。
 
@@ -95,7 +95,7 @@ topics:
 
 默认情况下，Git 在代码空间中可用，因此您可以依赖现有的 Git 工作流程。 您可以通过终端或使用 [Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol) 的源代码管理 UI 在代码空间中使用 Git。 更多信息请参阅“[在代码空间中使用源控制](/codespaces/developing-in-codespaces/using-source-control-in-your-codespace)”。
 
-![在代码空间终端中运行 git 状态](/assets/images/help/codespaces/git-status.png)
+![在代码空间终端中运行 git 状态](/assets/images/2021/10/help/codespaces/git-status.png)
 
 您可以从项目中的任何分支、提交或拉取请求创建代码空间，也可以从活动代码空间中切换到新的或现有的分支。 由于 {% data variables.product.prodname_codespaces %} 设计为临时的，因此您可以将其用作隔离环境来试验、检查团队成员的拉取请求或修复合并冲突。 每个仓库甚至每个分支可创建多个代码空间。 However, each user account has a limit of 10 codespaces. 如果您已达到上限，想要创建一个新的代码空间，必须先删除一个旧代码空间。
 

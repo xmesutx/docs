@@ -86,7 +86,7 @@ Caso o seu repositório use uma licença listada no site Choose a License que n�
 
 O selecionador de licenças somente está disponível quando você cria um novo projeto no GitHub. Você pode adicionar uma licença manualmente usando o navegador. Para obter mais informações sobre adicionar uma licença em um repositório, consulte "[Adicionar uma licença em um repositório](/articles/adding-a-license-to-a-repository)".
 
-![Captura de tela do selecionador de licenças no GitHub.com](/assets/images/help/repository/repository-license-picker.png)
+![Captura de tela do selecionador de licenças no GitHub.com](/assets/images/2021/10/help/repository/repository-license-picker.png)
 
 ## Isenção de responsabilidade
 

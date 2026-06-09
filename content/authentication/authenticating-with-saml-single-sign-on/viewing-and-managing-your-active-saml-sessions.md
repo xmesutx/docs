@@ -14,11 +14,11 @@ shortTitle: Active SAML sessions
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 3. Under "Sessions," you can see your active SAML sessions.
-   ![List of active SAML sessions](/assets/images/help/settings/saml-active-sessions.png)
+   ![List of active SAML sessions](/assets/images/2021/10/help/settings/saml-active-sessions.png)
 4. To see the session details, click **See more**.
-   ![Button to open SAML session details](/assets/images/help/settings/saml-expand-session-details.png)
+   ![Button to open SAML session details](/assets/images/2021/10/help/settings/saml-expand-session-details.png)
 5. To revoke a session, click **Revoke SAML**.
-   ![Button to revoke a SAML session](/assets/images/help/settings/saml-revoke-session.png)
+   ![Button to revoke a SAML session](/assets/images/2021/10/help/settings/saml-revoke-session.png)
 
   {% note %}
 

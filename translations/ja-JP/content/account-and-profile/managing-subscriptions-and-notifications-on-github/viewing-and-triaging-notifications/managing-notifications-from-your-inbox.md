@@ -28,15 +28,15 @@ shortTitle: Manage from your inbox
 
 インボックスへアクセスするには、任意のページの右上で、{% octicon "bell" aria-label="The notifications bell" %} をクリックします。
 
-  ![未読メッセージを示す通知](/assets/images/help/notifications/notifications_general_existence_indicator.png)
+  ![未読メッセージを示す通知](/assets/images/2021/10/help/notifications/notifications_general_existence_indicator.png)
 
 インボックスには、登録を解除していないか、**Done** とマークされていないすべての通知が表示されます。ワークフローに対して最適な形になるよう、フィルタを使用してインボックスをカスタマイズし、すべてまたは未読の通知を表示して、通知をグループ化することで概要をすばやく確認できます。
 
-  ![インボックスビュー](/assets/images/help/notifications-v2/inbox-view.png)
+  ![インボックスビュー](/assets/images/2021/10/help/notifications-v2/inbox-view.png)
 
 デフォルトでは、インボックスに既読と未読の通知が表示されます。 未読の通知のみを表示するには、[**Unread**] をクリックするか、`is:unread` クエリを使用します。
 
-  ![未読のインボックスイビュー](/assets/images/help/notifications-v2/unread-inbox-view.png)
+  ![未読のインボックスイビュー](/assets/images/2021/10/help/notifications-v2/unread-inbox-view.png)
 
 ## トリアージオプション
 
@@ -58,13 +58,13 @@ shortTitle: Manage from your inbox
 
 複数の通知を同時にトリアージするには、関連する通知を選択し、{% octicon "kebab-horizontal" aria-label="The edit icon" %} ドロップダウンを使用してトリアージオプションを選択します。
 
-![トリアージオプションと選択した通知を含むドロップダウンメニュー](/assets/images/help/notifications-v2/triage-multiple-notifications-together.png)
+![トリアージオプションと選択した通知を含むドロップダウンメニュー](/assets/images/2021/10/help/notifications-v2/triage-multiple-notifications-together.png)
 
 ## デフォルト通知フィルタ
 
 デフォルトでは、インボックスには、割り当てられたとき、スレッドに参加したとき、プルリクエストの確認をリクエストされたとき、ユーザ名が直接 @メンションされたとき、またはメンバーになっている Team が @メンションされたときのフィルタがあります。
 
-  ![デフォルトのカスタムフィルタ](/assets/images/help/notifications-v2/default-filters.png)
+  ![デフォルトのカスタムフィルタ](/assets/images/2021/10/help/notifications-v2/default-filters.png)
 
 ## カスタムフィルタでインボックスをカスタマイズする
 
@@ -81,7 +81,7 @@ shortTitle: Manage from your inbox
 
 3. フィルタの名前とフィルタクエリを追加します。 たとえば、特定のリポジトリの通知のみを表示するには、`repo:octocat/open-source-project-name reason:participating` クエリを使用してフィルタを作成できます。 ネイティブの絵文字キーボードを使用して、絵文字を追加することもできます。 サポートされている検索クエリのリストについては、「[カスタムフィルタでサポートされているクエリ](#supported-queries-for-custom-filters)」を参照してください。
 
-  ![カスタムフィルタの例](/assets/images/help/notifications-v2/custom-filter-example.png)
+  ![カスタムフィルタの例](/assets/images/2021/10/help/notifications-v2/custom-filter-example.png)
 
 4. ** Create（作成）**をクリックしてください。
 

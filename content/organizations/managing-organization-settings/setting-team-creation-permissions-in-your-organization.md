@@ -23,5 +23,5 @@ If you do not set team creation permissions, all organization members will be ab
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
 5. Under "Team creation rules", select or deselect **Allow members to create teams**.
-![Checkbox to allow members to create teams](/assets/images/help/organizations/allow-members-to-create-teams.png)
+![Checkbox to allow members to create teams](/assets/images/2021/10/help/organizations/allow-members-to-create-teams.png)
 6. Click **Save**.

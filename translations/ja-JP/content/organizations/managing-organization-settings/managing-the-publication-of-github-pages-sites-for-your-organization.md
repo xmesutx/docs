@@ -26,8 +26,8 @@ Organizationが{% data variables.product.prodname_ghe_cloud %} を使用して�
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}{% ifversion fpt or ghec %}
-1. [Pages creation] で、許可する可視性を選択し、禁止する可視性を選択解除します。 ![Checkboxes to allow or disallow creation of {% data variables.product.prodname_pages %} sites](/assets/images/help/organizations/github-pages-creation-checkboxes.png){% else %}
-1. [Pages creation] で、[**Allow members to publish sites**] を選択または選択解除します。 ![Unselected checkbox for "Allow members to publish sites" option](/assets/images/help/organizations/org-settings-pages-disable-publication-checkbox.png){% endif %}
+1. [Pages creation] で、許可する可視性を選択し、禁止する可視性を選択解除します。 ![Checkboxes to allow or disallow creation of {% data variables.product.prodname_pages %} sites](/assets/images/2021/10/help/organizations/github-pages-creation-checkboxes.png){% else %}
+1. [Pages creation] で、[**Allow members to publish sites**] を選択または選択解除します。 ![Unselected checkbox for "Allow members to publish sites" option](/assets/images/2021/10/help/organizations/org-settings-pages-disable-publication-checkbox.png){% endif %}
 1. [**Save**] をクリックします。
 
 ## 参考リンク

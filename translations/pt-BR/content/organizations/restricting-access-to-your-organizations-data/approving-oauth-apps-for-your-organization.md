@@ -19,8 +19,8 @@ Quando as restrições de acesso do {% data variables.product.prodname_oauth_app
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. Ao lado do aplicativo que deseja aprovar, clique em **Review** (Revisar). ![Link de solicitação de revisão](/assets/images/help/settings/settings-third-party-approve-review.png)
-6. Depois que revisar as informações sobre o aplicativo solicitado, clique em **Grant access** (Conceder acesso). ![Botão Grant access (Conceder acesso)](/assets/images/help/settings/settings-third-party-approve-grant.png)
+5. Ao lado do aplicativo que deseja aprovar, clique em **Review** (Revisar). ![Link de solicitação de revisão](/assets/images/2021/10/help/settings/settings-third-party-approve-review.png)
+6. Depois que revisar as informações sobre o aplicativo solicitado, clique em **Grant access** (Conceder acesso). ![Botão Grant access (Conceder acesso)](/assets/images/2021/10/help/settings/settings-third-party-approve-grant.png)
 
 ## Leia mais
 

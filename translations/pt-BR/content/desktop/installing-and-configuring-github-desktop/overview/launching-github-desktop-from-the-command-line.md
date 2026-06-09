@@ -11,7 +11,7 @@ versions:
 
 {% mac %}
 
-1. Na barra de menu, selecione o menu **{% data variables.product.prodname_desktop %}** e, em seguida, clique em **Instalar Ferramenta da Linha de Comando**. ![Instalar opção de Ferramenta de Linha de Comando no menu suspenso {% data variables.product.prodname_desktop %}](/assets/images/help/desktop/mac-install-command-line-tool.png)
+1. Na barra de menu, selecione o menu **{% data variables.product.prodname_desktop %}** e, em seguida, clique em **Instalar Ferramenta da Linha de Comando**. ![Instalar opção de Ferramenta de Linha de Comando no menu suspenso {% data variables.product.prodname_desktop %}](/assets/images/2021/10/help/desktop/mac-install-command-line-tool.png)
 2. Abra o terminal.
 3. {% data reusables.desktop.launch-desktop-from-command-line %}
 

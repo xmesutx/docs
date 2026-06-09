@@ -26,9 +26,9 @@ shortTitle: 配置发布源
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. 在“{% data variables.product.prodname_pages %}”下，使用 **None（无）**或 **Branch（分支）**下拉菜单选择发布源。 ![用于选择发布源的下拉菜单](/assets/images/help/pages/publishing-source-drop-down.png)
-4. （可选）使用下拉菜单选择发布源的文件夹。 ![用于选择发布源文件夹的下拉菜单](/assets/images/help/pages/publishing-source-folder-drop-down.png)
-5. 单击 **Save（保存）**。 ![用于保存对发布源设置的更改的按钮](/assets/images/help/pages/publishing-source-save.png)
+3. 在“{% data variables.product.prodname_pages %}”下，使用 **None（无）**或 **Branch（分支）**下拉菜单选择发布源。 ![用于选择发布源的下拉菜单](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
+4. （可选）使用下拉菜单选择发布源的文件夹。 ![用于选择发布源文件夹的下拉菜单](/assets/images/2021/10/help/pages/publishing-source-folder-drop-down.png)
+5. 单击 **Save（保存）**。 ![用于保存对发布源设置的更改的按钮](/assets/images/2021/10/help/pages/publishing-source-save.png)
 
 ## {% data variables.product.prodname_pages %} 站点发布问题疑难排解
 

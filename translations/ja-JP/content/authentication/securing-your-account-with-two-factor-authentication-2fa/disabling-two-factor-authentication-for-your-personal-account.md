@@ -30,7 +30,7 @@ Organization から自分を削除するには:
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. [**Disable**] をクリックします。 ![[Disable two-factor authentication] ボタン](/assets/images/help/2fa/disable-two-factor-authentication.png)
+3. [**Disable**] をクリックします。 ![[Disable two-factor authentication] ボタン](/assets/images/2021/10/help/2fa/disable-two-factor-authentication.png)
 
 ## 参考リンク
 

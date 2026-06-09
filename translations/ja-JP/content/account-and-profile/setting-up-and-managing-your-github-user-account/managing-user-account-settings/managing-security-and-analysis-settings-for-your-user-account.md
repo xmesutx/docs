@@ -32,11 +32,11 @@ For an overview of repository-level security, see "[Securing your repository](/c
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security-analysis %}
 3. Under "Code security and analysis", to the right of the feature, click **Disable all** or **Enable all**.
-  {% ifversion ghes > 3.2 %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/enterprise/3.3/settings/security-and-analysis-disable-or-enable-all.png){% else %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/help/settings/security-and-analysis-disable-or-enable-all.png){% endif %}
+  {% ifversion ghes > 3.2 %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-disable-or-enable-all.png){% else %}!["Enable all" or "Disable all" button for "Configure security and analysis" features](/assets/images/2021/10/help/settings/security-and-analysis-disable-or-enable-all.png){% endif %}
 6. Optionally, enable the feature by default for new repositories that you own.
-  {% ifversion ghes > 3.2 %}!["Enable by default" option for new repositories](/assets/images/enterprise/3.3/settings/security-and-analysis-enable-by-default-in-modal.png){% else %}!["Enable by default" option for new repositories](/assets/images/help/settings/security-and-analysis-enable-by-default-in-modal.png){% endif %}
+  {% ifversion ghes > 3.2 %}!["Enable by default" option for new repositories](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-enable-by-default-in-modal.png){% else %}!["Enable by default" option for new repositories](/assets/images/2021/10/help/settings/security-and-analysis-enable-by-default-in-modal.png){% endif %}
 7. すべてのリポジトリに対してこの機能を有効または無効にするには、[**Disable FEATURE**] または [**Enable FEATURE**] をクリックします。
-  {% ifversion ghes > 3.2 %}![Button to disable or enable feature](/assets/images/enterprise/3.3/settings/security-and-analysis-enable-dependency-graph.png){% else %}![Button to disable or enable feature](/assets/images/help/settings/security-and-analysis-enable-dependency-graph.png){% endif %}
+  {% ifversion ghes > 3.2 %}![Button to disable or enable feature](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-enable-dependency-graph.png){% else %}![Button to disable or enable feature](/assets/images/2021/10/help/settings/security-and-analysis-enable-dependency-graph.png){% endif %}
 
 {% data reusables.security.displayed-information %}
 
@@ -45,7 +45,7 @@ For an overview of repository-level security, see "[Securing your repository](/c
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security-analysis %}
 3. Under "Code security and analysis", to the right of the feature, enable or disable the feature by default for new repositories that you own.
-  {% ifversion ghes > 3.2 %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/enterprise/3.3/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% else %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/help/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% endif %}
+  {% ifversion ghes > 3.2 %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/2021/11/enterprise/3.3/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% else %}![Checkbox for enabling or disabling a feature for new repositories](/assets/images/2021/10/help/settings/security-and-analysis-enable-or-disable-feature-checkbox.png){% endif %}
 
 ## 参考リンク
 

@@ -33,7 +33,7 @@ Algunos repositorios borrados pueden restablecerse dentro de los primeros 90 dí
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-2. En la Zona de peligro, haz clic en **Eliminar este repositorio**. ![Botón Eliminar repositorio](/assets/images/help/repository/repo-delete.png)
+2. En la Zona de peligro, haz clic en **Eliminar este repositorio**. ![Botón Eliminar repositorio](/assets/images/2021/10/help/repository/repo-delete.png)
 3. **Lee las advertencias**.
-4. Para verificar que está eliminando el repositorio correcto, escribe el nombre del repositorio que deseas eliminar. ![Etiqueta de eliminación](/assets/images/help/repository/repo-delete-confirmation.png)
+4. Para verificar que está eliminando el repositorio correcto, escribe el nombre del repositorio que deseas eliminar. ![Etiqueta de eliminación](/assets/images/2021/10/help/repository/repo-delete-confirmation.png)
 5. Haga clic en **Comprendo las consecuencias. Eliminar este repositorio**.

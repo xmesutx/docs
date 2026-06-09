@@ -22,7 +22,7 @@ shortTitle: Fazer commit da verificação de assinatura
 
 Você pode assinar commits e tags localmente para dar a outras pessoas confiança sobre a origem de uma alteração que você fez. Se um commit ou tag tiver uma assinatura GPG ou S/MIME que seja verificável criptograficamente, o GitHub marcará o commit ou a tag {% ifversion fpt or ghec %}"Verificado" ou "Verificado parcialmente."{% else %}"Verificado."{% endif %}
 
-![Commit verificado](/assets/images/help/commits/verified-commit.png)
+![Commit verificado](/assets/images/2021/10/help/commits/verified-commit.png)
 
 {% ifversion fpt or ghec %}
 Os commits e tags têm o seguinte status de verificação, dependendo se você habilitou o modo vigilante. Por padrão, o modo vigilante não está habilitado. Para obter informações sobre como habilitar o modo vigilante, consulte "[Exibir status de verificação para todos os seus commits](/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits)".

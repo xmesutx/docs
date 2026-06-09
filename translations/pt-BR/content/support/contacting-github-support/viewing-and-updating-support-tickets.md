@@ -23,14 +23,14 @@ Você pode usar o [Portal de Suporte do GitHub](https://support.github.com/) par
 ## Visualizando seus tíquetes de suporte
 
 {% data reusables.support.view-open-tickets %}
-1. Na caixa de texto, você pode ler o histórico de comentários. A resposta mais recente está na parte superior. ![Captura de tela do histórico de comentários do tíquete com a resposta mais recente na parte superior.](/assets/images/help/support/support-recent-response.png)
+1. Na caixa de texto, você pode ler o histórico de comentários. A resposta mais recente está na parte superior. ![Captura de tela do histórico de comentários do tíquete com a resposta mais recente na parte superior.](/assets/images/2022/01/help/support/support-recent-response.png)
 
 ## Atualizando suporte a tíquetes
 
 {% data reusables.support.view-open-tickets %}
-1. Opcionalmente, se o problema for resolvido, na caixa de texto, clique em **Fechar tíquete**. ![Captura de tela que mostra a localização do botão "Fechar tíquete".](/assets/images/help/support/close-ticket.png)
-1. Para responder ao suporte do GitHub e adicionar um novo comentário ao tíquete, digite sua resposta na caixa de texto. ![Captura de tela do campo de texto "Adicionar um comentário".](/assets/images/help/support/new-comment-field.png)
-1. Para adicionar o seu comentário ao tíquete, clique em **Comentário**. ![Captura de tela do botão "Comentário"](/assets/images/help/support/add-comment.png)
+1. Opcionalmente, se o problema for resolvido, na caixa de texto, clique em **Fechar tíquete**. ![Captura de tela que mostra a localização do botão "Fechar tíquete".](/assets/images/2022/01/help/support/close-ticket.png)
+1. Para responder ao suporte do GitHub e adicionar um novo comentário ao tíquete, digite sua resposta na caixa de texto. ![Captura de tela do campo de texto "Adicionar um comentário".](/assets/images/2022/01/help/support/new-comment-field.png)
+1. Para adicionar o seu comentário ao tíquete, clique em **Comentário**. ![Captura de tela do botão "Comentário"](/assets/images/2022/01/help/support/add-comment.png)
 
 {% ifversion ghec or ghes %}
 ## Colaborando nos tíquetes de suporte

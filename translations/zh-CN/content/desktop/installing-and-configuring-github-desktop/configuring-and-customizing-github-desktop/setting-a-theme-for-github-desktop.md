@@ -13,7 +13,7 @@ shortTitle: 设置主题
 
 {% data reusables.desktop.mac-select-desktop-menu %}
 {% data reusables.desktop.choose-a-theme %}
-  ![Mac 外观选项卡上的主题选项](/assets/images/help/desktop/mac-appearance-tab-themes.png)
+  ![Mac 外观选项卡上的主题选项](/assets/images/2021/10/help/desktop/mac-appearance-tab-themes.png)
 
 {% endmac %}
 
@@ -21,6 +21,6 @@ shortTitle: 设置主题
 
 {% data reusables.desktop.windows-choose-options %}
 {% data reusables.desktop.choose-a-theme %}
-  ![Windows 外观选项卡上的主题选项](/assets/images/help/desktop/windows-appearance-tab-themes.png)
+  ![Windows 外观选项卡上的主题选项](/assets/images/2021/10/help/desktop/windows-appearance-tab-themes.png)
 
 {% endwindows %}

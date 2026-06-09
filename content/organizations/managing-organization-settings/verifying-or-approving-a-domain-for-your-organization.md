@@ -62,7 +62,7 @@ To verify a domain, you must have access to modify domain records with your doma
 1. After confirming your TXT record is added to your DNS, follow steps one through three above to navigate to your organization's approved and verified domains.
 {% data reusables.organizations.continue-verifying-domain %}
 11. Optionally, once the "Verified" badge is visible on your organization's profile page, you can delete the TXT entry from the DNS record at your domain hosting service.
-![Verified badge](/assets/images/help/organizations/verified-badge.png)
+![Verified badge](/assets/images/2021/10/help/organizations/verified-badge.png)
 
 ## Approving a domain for your organization
 
@@ -86,4 +86,4 @@ To verify a domain, you must have access to modify domain records with your doma
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.verified-domains %}
 1. To the right of the domain to remove, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, then click **Delete**.
-    !["Delete" for a domain](/assets/images/help/organizations/domains-delete.png)
+    !["Delete" for a domain](/assets/images/2021/10/help/organizations/domains-delete.png)

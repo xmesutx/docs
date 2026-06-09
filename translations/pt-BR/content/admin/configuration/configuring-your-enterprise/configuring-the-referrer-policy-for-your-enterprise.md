@@ -32,5 +32,5 @@ Você pode habilitar a política de indicação de `same-origin` para orientar n
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-1. Em "Política do Agente Indicador do Usuário", selecione **Habilitar a mesma política de indicação de origem para todas as organizações**. ![Caixa de seleção para habilitar a mesma política de indicação de origem](/assets/images/enterprise/settings/referrer-policy-checkbox.png)
-1. Clique em **Salvar**. ![Botão salvar para habilitar a mesma política de indicação de origem](/assets/images/enterprise/settings/referrer-policy-save-button.png)
+1. Em "Política do Agente Indicador do Usuário", selecione **Habilitar a mesma política de indicação de origem para todas as organizações**. ![Caixa de seleção para habilitar a mesma política de indicação de origem](/assets/images/2021/10/enterprise/settings/referrer-policy-checkbox.png)
+1. Clique em **Salvar**. ![Botão salvar para habilitar a mesma política de indicação de origem](/assets/images/2021/10/enterprise/settings/referrer-policy-save-button.png)

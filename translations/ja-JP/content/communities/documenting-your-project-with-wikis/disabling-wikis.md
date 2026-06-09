@@ -18,7 +18,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Features] の下で [**Wiki**] の選択を解除します。 ![ウィキの無効化チェックボックス](/assets/images/help/wiki/wiki_enable_disable.png)
+3. [Features] の下で [**Wiki**] の選択を解除します。 ![ウィキの無効化チェックボックス](/assets/images/2021/10/help/wiki/wiki_enable_disable.png)
 
 ## 参考リンク
 

@@ -20,8 +20,8 @@ shortTitle: Gerenciar uma discussão de equipe
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-discussions-tab %}
 6. Clique em {% octicon "kebab-horizontal" aria-label="The edit icon" %} ao lado da discussão de equipe que deseja editar ou excluir.
-7. Clique em **Editar**. Ou clique em **Delete** (Excluir). ![Botão Edit team discussion (Editar discussão de equipe)](/assets/images/help/projects/edit-team-discussions-button.png)
-8. Modifique o título e o comentário da discussão de equipe conforme necessário e clique em **Update comment** (Atualizar comentário). ![Botão Update comment (Atualizar comentário)](/assets/images/help/projects/update-comment-button.png)
+7. Clique em **Editar**. Ou clique em **Delete** (Excluir). ![Botão Edit team discussion (Editar discussão de equipe)](/assets/images/2021/10/help/projects/edit-team-discussions-button.png)
+8. Modifique o título e o comentário da discussão de equipe conforme necessário e clique em **Update comment** (Atualizar comentário). ![Botão Update comment (Atualizar comentário)](/assets/images/2021/10/help/projects/update-comment-button.png)
 
 ## Leia mais
 

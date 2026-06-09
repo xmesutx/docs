@@ -166,7 +166,7 @@ topics:
 
 对视图进行更改（例如，对视图中的数据进行排序、重新排序、过滤或分组）时，视图名称旁边会显示一个点，以指示存在未保存的更改。
 
-![未保存的更改指示符](/assets/images/help/projects/unsaved-changes.png)
+![未保存的更改指示符](/assets/images/2021/11/help/projects/unsaved-changes.png)
 
 如果您不想保存更改，可以忽略此指示。 没有其他人会看到您的更改。
 

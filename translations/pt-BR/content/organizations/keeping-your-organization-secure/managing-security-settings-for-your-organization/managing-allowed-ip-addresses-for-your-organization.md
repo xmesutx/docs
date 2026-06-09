@@ -43,7 +43,7 @@ Você também pode configurar endereços IP permitidos para as organizações em
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-1. Em "IP allow list" (Lista de permissões IP), selecione **Enable IP allow list** (Habilitar lista de permissões IP). ![Caixa de seleção para permitir endereços IP](/assets/images/help/security/enable-ip-allowlist-organization-checkbox.png)
+1. Em "IP allow list" (Lista de permissões IP), selecione **Enable IP allow list** (Habilitar lista de permissões IP). ![Caixa de seleção para permitir endereços IP](/assets/images/2021/10/help/security/enable-ip-allowlist-organization-checkbox.png)
 1. Clique em **Salvar**.
 
 ## Permitindo acesso de {% data variables.product.prodname_github_apps %}
@@ -59,7 +59,7 @@ Para mais informações sobre como criar uma lista de permissões para uma {% da
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-1. Em "Lista de permissão do IP", selecione **Habilitar o IP para a configuração da lista de aplicativos instalados no GitHub**. ![Caixa de seleção para permitir endereços IP do aplicativo GitHub](/assets/images/help/security/enable-ip-allowlist-githubapps-checkbox.png)
+1. Em "Lista de permissão do IP", selecione **Habilitar o IP para a configuração da lista de aplicativos instalados no GitHub**. ![Caixa de seleção para permitir endereços IP do aplicativo GitHub](/assets/images/2021/10/help/security/enable-ip-allowlist-githubapps-checkbox.png)
 1. Clique em **Salvar**.
 
 ## Editar endereços IP permitidos

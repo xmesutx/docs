@@ -2,13 +2,13 @@
 
   {% mac %}
 
-  ![Contribute to the parent project menu option](/assets/images/help/desktop/mac-fork-options-prompt.png)
+  ![Contribute to the parent project menu option](/assets/images/2021/10/help/desktop/mac-fork-options-prompt.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Contribute to the parent project menu option](/assets/images/help/desktop/windows-fork-options-prompt.png)
+  ![Contribute to the parent project menu option](/assets/images/2021/10/help/desktop/windows-fork-options-prompt.png)
 
   {% endwindows %}
 
@@ -16,13 +16,13 @@
 
   {% mac %}
 
-  ![Contribute to an independent project menu option](/assets/images/help/desktop/mac-fork-own-purposes.png)
+  ![Contribute to an independent project menu option](/assets/images/2021/10/help/desktop/mac-fork-own-purposes.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Contribute to an independent project menu option](/assets/images/help/desktop/windows-fork-own-purposes.png)
+  ![Contribute to an independent project menu option](/assets/images/2021/10/help/desktop/windows-fork-own-purposes.png)
 
   {% endwindows %}
 
@@ -30,13 +30,13 @@
 
   {% mac %}
 
-  ![The continue button](/assets/images/help/desktop/mac-forking-continue.png)
+  ![The continue button](/assets/images/2021/10/help/desktop/mac-forking-continue.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![The continue button](/assets/images/help/desktop/windows-forking-continue.png)
+  ![The continue button](/assets/images/2021/10/help/desktop/windows-forking-continue.png)
 
   {% endwindows %}
   

@@ -16,14 +16,14 @@ topics:
 shortTitle: Exibir ou ocultar associação
 ---
 
-![Caixa perfil da organização](/assets/images/help/profile/profile_orgs_box.png)
+![Caixa perfil da organização](/assets/images/2021/10/help/profile/profile_orgs_box.png)
 
 ## Alterar a visibilidade da associação da organização
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Localize seu nome de usuário na lista de integrantes. Se for uma lista grande, você pode pesquisar seu nome de usuário na caixa de pesquisa. ![Caixa de pesquisa organization member (integrante da organização)](/assets/images/help/organizations/member-search-box.png)
+4. Localize seu nome de usuário na lista de integrantes. Se for uma lista grande, você pode pesquisar seu nome de usuário na caixa de pesquisa. ![Caixa de pesquisa organization member (integrante da organização)](/assets/images/2021/10/help/organizations/member-search-box.png)
 5. No menu ao lado direito do seu nome de usuário, escolha uma nova opção de visibilidade:
     - Para mostrar sua associação, escolha **Public** (Público).
-    - Para ocultar sua associação, escolha **Private** (Privado). ![Link visibilidade de integrante da organização](/assets/images/help/organizations/member-visibility-link.png)
+    - Para ocultar sua associação, escolha **Private** (Privado). ![Link visibilidade de integrante da organização](/assets/images/2021/10/help/organizations/member-visibility-link.png)

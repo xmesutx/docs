@@ -17,8 +17,8 @@ shortTitle: Adicionar aos marcos
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. Marque a caixa de seleção ao lado dos itens que deseja associar a um marco. ![Caixa de seleção de metadados de problemas](/assets/images/help/issues/issues_assign_checkbox.png)
-4. No canto superior direito, clique em **Milestone** (Marco) e comece a digitar o nome de [um marco existente](/articles/creating-and-editing-milestones-for-issues-and-pull-requests). Clique no nome do marco para associá-lo ao item. ![Menu suspenso atribuição Marco Problemas](/assets/images/help/issues/issues_assigning_milestone_dropdown.png)
+3. Marque a caixa de seleção ao lado dos itens que deseja associar a um marco. ![Caixa de seleção de metadados de problemas](/assets/images/2021/10/help/issues/issues_assign_checkbox.png)
+4. No canto superior direito, clique em **Milestone** (Marco) e comece a digitar o nome de [um marco existente](/articles/creating-and-editing-milestones-for-issues-and-pull-requests). Clique no nome do marco para associá-lo ao item. ![Menu suspenso atribuição Marco Problemas](/assets/images/2021/10/help/issues/issues_assigning_milestone_dropdown.png)
 
 {% tip %}
 

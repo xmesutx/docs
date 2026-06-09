@@ -26,7 +26,7 @@ Si eliges un plan pago, pagarás tu suscripción a la app en la fecha de factura
 {% data reusables.marketplace.confirm-install-account-personal %}
 {% data reusables.marketplace.add-payment-method-personal %}
 {% data reusables.marketplace.complete-order-begin-installation %}
-8. Decide si le darás acceso a la aplicación a todos tus repositorios o a determinados repositorios, luego selecciona **All repositories** (Todos los repositorios) o **Only select repositories** (Solo repositorios seleccionados). ![Botones de radio con opciones para instalar una aplicación en todos tus repositorios o en determinados repositorios](/assets/images/help/marketplace/marketplace-choose-repo-install-option.png)
+8. Decide si le darás acceso a la aplicación a todos tus repositorios o a determinados repositorios, luego selecciona **All repositories** (Todos los repositorios) o **Only select repositories** (Solo repositorios seleccionados). ![Botones de radio con opciones para instalar una aplicación en todos tus repositorios o en determinados repositorios](/assets/images/2021/10/help/marketplace/marketplace-choose-repo-install-option.png)
 {% data reusables.marketplace.select-installation-repos %}
 {% data reusables.marketplace.review-app-perms-install %}
 

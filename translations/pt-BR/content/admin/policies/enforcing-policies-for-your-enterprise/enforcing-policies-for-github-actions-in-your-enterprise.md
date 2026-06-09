@@ -54,9 +54,9 @@ Você pode optar por desativar {% data variables.product.prodname_actions %} par
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Em **Políticas**, selecione **Permitir ações específicas** e adicione as suas ações necessárias à lista.
    {%- ifversion ghes or ghae-issue-5094 %}
-   ![Adicionar ações para permitir lista](/assets/images/help/organizations/enterprise-actions-policy-allow-list.png)
+   ![Adicionar ações para permitir lista](/assets/images/2021/10/help/organizations/enterprise-actions-policy-allow-list.png)
    {%- elsif ghae %}
-   ![Adicionar ações para permitir lista](/assets/images/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
+   ![Adicionar ações para permitir lista](/assets/images/2021/10/enterprise/github-ae/enterprise-actions-policy-allow-list.png)
    {%- endif %}
 {% endif %}
 
@@ -125,7 +125,7 @@ Você pode definir as permissões padrão para o `GITHUB_TOKEN` nas configuraç�
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Em **permissões do fluxo de trabalho**, escolha se você quer que o `GITHUB_TOKEN` tenha acesso de leitura e gravação para todos os escopos, ou apenas acesso de leitura para o escopo do </code>conteúdo.
-<img src="/assets/images/help/settings/actions-workflow-permissions-enterprise.png" alt="Definir permissões do GITHUB_TOKEN para esta empresa" /></p></li>
+<img src="/assets/images/2021/10/help/settings/actions-workflow-permissions-enterprise.png" alt="Definir permissões do GITHUB_TOKEN para esta empresa" /></p></li>
 <li><p spaces-before="0">Clique em <strong x-id="1">Salvar</strong> para aplicar as configurações.</p></li>
 </ol>
 

@@ -51,5 +51,5 @@ If you plan to rename a repository that has a {% data variables.product.prodname
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 3. Under the **Repository Name** heading, type the new name of your repository.
-   ![Repository rename](/assets/images/help/repository/repository-name-change.png)
+   ![Repository rename](/assets/images/2021/10/help/repository/repository-name-change.png)
 4. Click **Rename**. You're done!

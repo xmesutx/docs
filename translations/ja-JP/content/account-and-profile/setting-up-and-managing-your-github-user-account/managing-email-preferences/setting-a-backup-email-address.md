@@ -18,7 +18,7 @@ shortTitle: Set backup email address
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
-3. [Backup email address] の下で、ドロップダウンメニューを使って、バックアップメールアドレスに設定したいアドレスを選択します。 ![バックアップメールアドレス](/assets/images/help/settings/backup-email-address.png)
+3. [Backup email address] の下で、ドロップダウンメニューを使って、バックアップメールアドレスに設定したいアドレスを選択します。 ![バックアップメールアドレス](/assets/images/2021/10/help/settings/backup-email-address.png)
 4. [**Save**] をクリックします。
 
 ## 参考リンク

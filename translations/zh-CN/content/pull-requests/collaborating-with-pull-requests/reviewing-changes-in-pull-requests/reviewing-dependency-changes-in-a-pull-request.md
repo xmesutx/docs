@@ -41,7 +41,7 @@ shortTitle: 查看依赖项更改
 
 1. 如果拉取请求包含许多文件，请使用 **File filter（文件过滤器）**下拉菜单折叠所有不记录依赖项的文件。 这将有助于您将审查的重点放在依赖项更改上。
 
-   ![文件过滤器菜单](/assets/images/help/pull_requests/file-filter-menu-json.png) The dependency review provides a clearer view of what has changed in large lock files, where the source diff is not rendered by default.
+   ![文件过滤器菜单](/assets/images/2021/10/help/pull_requests/file-filter-menu-json.png) The dependency review provides a clearer view of what has changed in large lock files, where the source diff is not rendered by default.
 
   {% note %}
 
@@ -51,11 +51,11 @@ shortTitle: 查看依赖项更改
 
 1. 在清单或锁定文件标头的右侧，单击 **{% octicon "file" aria-label="The rich diff icon" %}** 多差异按钮以显示依赖项审查。
 
-   ![多差异按钮](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![多差异按钮](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 2. 检查依赖项审查中列出的依赖项。
 
-   ![依赖项审查中的漏洞警告](/assets/images/help/pull_requests/dependency-review-vulnerability.png)
+   ![依赖项审查中的漏洞警告](/assets/images/2021/10/help/pull_requests/dependency-review-vulnerability.png)
 
    任何已添加或更改的有漏洞依赖项先按严重程度排序，然后按依赖项名称排序。 这意味着严重程度最高的依赖项始终处于依赖项审查的顶部。 其他依赖项按其名称的字母顺序排列。
 

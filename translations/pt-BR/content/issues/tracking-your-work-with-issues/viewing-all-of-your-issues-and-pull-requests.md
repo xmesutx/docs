@@ -20,8 +20,8 @@ type: how_to
 
 Os painéis de problemas e pull requests estão disponíveis na parte superior de qualquer página. Em cada painel, é possível filtrar a lista para encontrar problemas ou pull requests que você criou, que foram atribuídos a você ou nos quais você foi mencionado. Também é possível encontrar pull requests que você deverá revisar.
 
-1. Na parte superior de qualquer página, clique em **Pull requests** (Pull requests) ou em **Issues** (Problemas). ![Os painéis globais de problemas e pull requests](/assets/images/help/overview/issues_and_pr_dashboard.png)
-2. Outra opção é escolher um filtro ou [usar a barra de pesquisa para filtrar resultados mais específicos](/articles/using-search-to-filter-issues-and-pull-requests). ![Lista de pull requests com o filtro "Created" (Criado) selecionado](/assets/images/help/overview/pr_dashboard_created.png)
+1. Na parte superior de qualquer página, clique em **Pull requests** (Pull requests) ou em **Issues** (Problemas). ![Os painéis globais de problemas e pull requests](/assets/images/2021/10/help/overview/issues_and_pr_dashboard.png)
+2. Outra opção é escolher um filtro ou [usar a barra de pesquisa para filtrar resultados mais específicos](/articles/using-search-to-filter-issues-and-pull-requests). ![Lista de pull requests com o filtro "Created" (Criado) selecionado](/assets/images/2021/10/help/overview/pr_dashboard_created.png)
 
 ## Leia mais
 

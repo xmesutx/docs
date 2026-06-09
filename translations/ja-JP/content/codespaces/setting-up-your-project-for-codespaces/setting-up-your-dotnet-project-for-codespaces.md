@@ -30,7 +30,7 @@ hidden: true
 
 1. Under the repository name, use the **{% octicon "code" aria-label="The code icon" %} Code** drop-down menu, and in the **Codespaces** tab, click {% octicon "plus" aria-label="The plus icon" %} **New codespace**.
 
-  ![[New codespace] ボタン](/assets/images/help/codespaces/new-codespace-button.png)
+  ![[New codespace] ボタン](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   If you don’t see this option, {% data variables.product.prodname_codespaces %} isn't available for your project. See [Access to {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) for more information.
 
@@ -49,9 +49,9 @@ vCPU と RAM の量を調整したり、[ドットファイルを追加して環
 
 
 {% data reusables.codespaces.command-palette-container %}
-2. この例では、**C# (.NET)** をクリックします。 追加機能が必要な場合は、C# (.NET) に固有の任意のコンテナ、または C# (.NET) や MSSQL などのツールの組み合わせを選択できます。 ![リストから C# (.NET) オプションの選択](/assets/images/help/codespaces/add-dotnet-prebuilt-container.png)
-3. .NET の推奨バージョンをクリックします。 ![.NET バージョンの選択](/assets/images/help/codespaces/add-dotnet-version.png)
-4. デフォルトのオプションを使用して、Node.js をカスタマイズに追加します。 ![Node.js の選択に追加](/assets/images/help/codespaces/dotnet-options.png)
+2. この例では、**C# (.NET)** をクリックします。 追加機能が必要な場合は、C# (.NET) に固有の任意のコンテナ、または C# (.NET) や MSSQL などのツールの組み合わせを選択できます。 ![リストから C# (.NET) オプションの選択](/assets/images/2021/10/help/codespaces/add-dotnet-prebuilt-container.png)
+3. .NET の推奨バージョンをクリックします。 ![.NET バージョンの選択](/assets/images/2021/10/help/codespaces/add-dotnet-version.png)
+4. デフォルトのオプションを使用して、Node.js をカスタマイズに追加します。 ![Node.js の選択に追加](/assets/images/2021/10/help/codespaces/dotnet-options.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### 開発コンテナの構造
@@ -171,7 +171,7 @@ Dockerfile を使用して、コンテナレイヤーを追加し、コンテナ
 
 1. Explorer で `.devcontainer` フォルダを展開し、ツリーから `devcontainer.json` ファイルを選択して開きます。
 
-  ![devcontainer.json file in the Explorer](/assets/images/help/codespaces/devcontainers-options.png)
+  ![devcontainer.json file in the Explorer](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. `devcontainer.json` ファイルの `extensions` リストを更新し、プロジェクトでの作業に役立ついくつかの機能拡張を追加します。
 
@@ -195,7 +195,7 @@ Dockerfile を使用して、コンテナレイヤーを追加し、コンテナ
 
 5. 「Code Spell Checker」機能拡張がインストールされていることを確認して、変更が正常に適用されたことを確認します。
 
-    ![機能拡張のリスト](/assets/images/help/codespaces/dotnet-extensions.png)
+    ![機能拡張のリスト](/assets/images/2021/10/help/codespaces/dotnet-extensions.png)
 
 ## Step 4: アプリケーションを実行する
 
@@ -205,7 +205,7 @@ Dockerfile を使用して、コンテナレイヤーを追加し、コンテナ
 
 2. プロジェクトが開始されると、プロジェクトが使用するポートに接続するためのプロンプトが表示されたトーストが右下隅に表示されます。
 
-  ![ポートフォワーディングトースト](/assets/images/help/codespaces/python-port-forwarding.png)
+  ![ポートフォワーディングトースト](/assets/images/2021/10/help/codespaces/python-port-forwarding.png)
 
 ## ステップ 5: 変更をコミットする
 

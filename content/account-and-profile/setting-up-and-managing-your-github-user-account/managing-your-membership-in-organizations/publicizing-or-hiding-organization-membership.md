@@ -15,7 +15,7 @@ topics:
   - Accounts
 shortTitle: Show or hide membership
 ---
-![Profile organizations box](/assets/images/help/profile/profile_orgs_box.png)
+![Profile organizations box](/assets/images/2021/10/help/profile/profile_orgs_box.png)
 
 ## Changing the visibility of your organization membership
 
@@ -23,8 +23,8 @@ shortTitle: Show or hide membership
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
 4. Locate your username in the list of members. If the list is large, you can search for your username in the search box.
-![Organization member search box](/assets/images/help/organizations/member-search-box.png)
+![Organization member search box](/assets/images/2021/10/help/organizations/member-search-box.png)
 5. In the menu to the right of your username, choose a new visibility option:
     - To publicize your membership, choose **Public**.
     - To hide your membership, choose **Private**.
-  ![Organization member visibility link](/assets/images/help/organizations/member-visibility-link.png)
+  ![Organization member visibility link](/assets/images/2021/10/help/organizations/member-visibility-link.png)

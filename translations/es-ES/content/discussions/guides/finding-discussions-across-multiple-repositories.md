@@ -11,7 +11,7 @@ shortTitle: Encontrar debates
 ## Encontrar debates
 
 1. Ve a {% data variables.product.prodname_dotcom_the_website %}.
-1. En la esquina superior derecha de {% data variables.product.prodname_dotcom_the_website %}, da clic en tu foto de perfil y luego en **Tus debates**. !["Tus debates" en el menú desplegable de la foto de perfil en {% data variables.product.product_name %}](/assets/images/help/discussions/your-discussions.png)
+1. En la esquina superior derecha de {% data variables.product.prodname_dotcom_the_website %}, da clic en tu foto de perfil y luego en **Tus debates**. !["Tus debates" en el menú desplegable de la foto de perfil en {% data variables.product.product_name %}](/assets/images/2021/10/help/discussions/your-discussions.png)
 1. Alterna entre **Creados** y **Comentados** para ver los debates que creaste o en los que has participado.
 
 ## Leer más

@@ -1,1 +1,1 @@
-1. Na parte superior de qualquer página, clique em **Marketplace**. ![Link do Marketplace no menu de navegação global no topo de todas as páginas](/assets/images/help/marketplace/marketplace-link-global-navigation.png)
+1. Na parte superior de qualquer página, clique em **Marketplace**. ![Link do Marketplace no menu de navegação global no topo de todas as páginas](/assets/images/2021/10/help/marketplace/marketplace-link-global-navigation.png)

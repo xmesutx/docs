@@ -41,15 +41,15 @@ LDAPグループに同期しているTeamの既存メンバーを削除するに
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-4. 削除する個人を選択します。 ![Organization メンバーの横のチェックボックス](/assets/images/help/teams/team-member-check-box.png)
-5. Team メンバーのリストの上のドロップダウンメニューで、[**Remove from team**] をクリックします。 ![ロールを変更するオプションのあるドロップダウンメニュー](/assets/images/help/teams/bulk-edit-drop-down.png)
+4. 削除する個人を選択します。 ![Organization メンバーの横のチェックボックス](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. Team メンバーのリストの上のドロップダウンメニューで、[**Remove from team**] をクリックします。 ![ロールを変更するオプションのあるドロップダウンメニュー](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)
 
 ## Organizationからのユーザの削除
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Organization から削除したいユーザの名前の隣で、チェックボックをクリックします。 ![削除するユーザを選択する](/assets/images/help/organizations/Organization-remove-user.png)
-5. ページの上部のOrganizationの名前の下で**Remove from organization（Organizationから削除）**をクリックしてください。 ![Organizationボタンからの削除](/assets/images/help/organizations/Organization-remove-from-organization-button.png)
+4. Organization から削除したいユーザの名前の隣で、チェックボックをクリックします。 ![削除するユーザを選択する](/assets/images/2021/10/help/organizations/Organization-remove-user.png)
+5. ページの上部のOrganizationの名前の下で**Remove from organization（Organizationから削除）**をクリックしてください。 ![Organizationボタンからの削除](/assets/images/2021/10/help/organizations/Organization-remove-from-organization-button.png)
 
 {% data reusables.organizations.data_saved_for_reinstating_a_former_org_member %}

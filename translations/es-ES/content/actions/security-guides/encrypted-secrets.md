@@ -202,7 +202,7 @@ Puedes revisar qué políticas de acceso se están aplicando a un secreto en tu 
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. La lista de secretos incluye cualquier política y permiso configurado. Por ejemplo: ![Lista de secretos](/assets/images/help/settings/actions-org-secrets-list.png)
+1. La lista de secretos incluye cualquier política y permiso configurado. Por ejemplo: ![Lista de secretos](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. Para encontrar más detalles sobre los permisos configurados para cada secreto, da clic en **Actualizar**.
 
 ## Usar secretos cifrados en un flujo de trabajo

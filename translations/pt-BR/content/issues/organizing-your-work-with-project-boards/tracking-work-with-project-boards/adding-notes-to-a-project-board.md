@@ -29,13 +29,13 @@ shortTitle: Adicionar notas ao quadro
 
 Ao adicionar a uma observação uma URL para um problema, uma pull request ou outro quadro de projeto, você vê uma visualização em um cartão de resumo abaixo do seu texto.
 
-![Cartões de quadro de projeto mostrando a visualização de um problema e outro quadro de projeto](/assets/images/help/projects/note-with-summary-card.png)
+![Cartões de quadro de projeto mostrando a visualização de um problema e outro quadro de projeto](/assets/images/2021/10/help/projects/note-with-summary-card.png)
 
 ## Adicionar observações a um quadro de projeto
 
 1. Navegue até o quadro de projeto onde deseja adicionar observações.
-2. Na coluna que deseja adicionar uma observação, clique em {% octicon "plus" aria-label="The plus icon" %}. ![Ícone de mais no header da coluna](/assets/images/help/projects/add-note-button.png)
-3. Digite sua observação e clique em **Add** (Adicionar). ![Campo para digitar uma observação e botão Add card (Adicionar cartão)](/assets/images/help/projects/create-and-add-note-button.png)
+2. Na coluna que deseja adicionar uma observação, clique em {% octicon "plus" aria-label="The plus icon" %}. ![Ícone de mais no header da coluna](/assets/images/2021/10/help/projects/add-note-button.png)
+3. Digite sua observação e clique em **Add** (Adicionar). ![Campo para digitar uma observação e botão Add card (Adicionar cartão)](/assets/images/2021/10/help/projects/create-and-add-note-button.png)
 
   {% tip %}
 
@@ -57,9 +57,9 @@ Quando você converte uma observação em um problema, o problema é criado auto
 
 1. Navegue para a observação que deseja converter em um problema.
 {% data reusables.project-management.project-note-more-options %}
-3. Clique em **Convert to issue** (Converter em problema). ![Botão Convert to issue (Converter em problema)](/assets/images/help/projects/convert-to-issue.png)
-4. Se o cartão estiver em um quadro de projeto em toda a organização, no menu suspenso, escolha o repositório ao qual deseja adicionar o problema. ![Menu suspenso listando repositórios onde é possível criar o problema](/assets/images/help/projects/convert-note-choose-repository.png)
-5. Se desejar, edite o título do problema previamente preenchido e digite um texto para o problema. ![Campos para título e texto do problema](/assets/images/help/projects/convert-note-issue-title-body.png)
+3. Clique em **Convert to issue** (Converter em problema). ![Botão Convert to issue (Converter em problema)](/assets/images/2021/10/help/projects/convert-to-issue.png)
+4. Se o cartão estiver em um quadro de projeto em toda a organização, no menu suspenso, escolha o repositório ao qual deseja adicionar o problema. ![Menu suspenso listando repositórios onde é possível criar o problema](/assets/images/2021/10/help/projects/convert-note-choose-repository.png)
+5. Se desejar, edite o título do problema previamente preenchido e digite um texto para o problema. ![Campos para título e texto do problema](/assets/images/2021/10/help/projects/convert-note-issue-title-body.png)
 6. Clique em **Convert to issue** (Converter em problema).
 7. A observação é convertida automaticamente em um problema. No quadro de projeto, o novo cartão de problema estará no mesmo local que a observação anterior.
 
@@ -67,8 +67,8 @@ Quando você converte uma observação em um problema, o problema é criado auto
 
 1. Navegue para a observação que deseja editar ou remover.
 {% data reusables.project-management.project-note-more-options %}
-3. Para editar o conteúdo da observação, clique em **Edit note** (Editar observação). ![Botão Edit note (Editar observação)](/assets/images/help/projects/edit-note.png)
-4. Para excluir o conteúdo das observações, clique em **Delete note** (Excluir observação). ![Botão Delete note (Excluir observação)](/assets/images/help/projects/delete-note.png)
+3. Para editar o conteúdo da observação, clique em **Edit note** (Editar observação). ![Botão Edit note (Editar observação)](/assets/images/2021/10/help/projects/edit-note.png)
+4. Para excluir o conteúdo das observações, clique em **Delete note** (Excluir observação). ![Botão Delete note (Excluir observação)](/assets/images/2021/10/help/projects/delete-note.png)
 
 ## Leia mais
 

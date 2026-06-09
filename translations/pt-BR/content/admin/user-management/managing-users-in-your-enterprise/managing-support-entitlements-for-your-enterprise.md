@@ -27,9 +27,9 @@ Os proprietários das empresas e os gerentes de cobrança têm automaticamente d
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. Em "Configurações", clique em **Suporte**. ![Item do Menu Suporte](/assets/images/help/enterprises/settings-support.png)
-4. Em "Adicionar integrante de suporte", comece a digitar o nome ou nome de usuário da pessoa que você deseja conceder o direito de suporte. Clique no nome deles na lista de correspondência. ![Adicionar suporte a pesquisa titularidade](/assets/images/help/enterprises/settings-support-entitlement-search.png)
-5. Clique em **Adicionar direito de suporte**. ![Adicionar botão de titularidade de suporte](/assets/images/help/enterprises/settings-support-add-entitlement.png)
+3. Em "Configurações", clique em **Suporte**. ![Item do Menu Suporte](/assets/images/2021/10/help/enterprises/settings-support.png)
+4. Em "Adicionar integrante de suporte", comece a digitar o nome ou nome de usuário da pessoa que você deseja conceder o direito de suporte. Clique no nome deles na lista de correspondência. ![Adicionar suporte a pesquisa titularidade](/assets/images/2021/10/help/enterprises/settings-support-entitlement-search.png)
+5. Clique em **Adicionar direito de suporte**. ![Adicionar botão de titularidade de suporte](/assets/images/2021/10/help/enterprises/settings-support-add-entitlement.png)
 
 ## Removendo o direito de suporte de um integrante da empresa
 
@@ -37,8 +37,8 @@ Você pode remover o direito de suporte de um integrante da empresa. Você não 
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. Na barra lateral em "Configurações", clique em **Suporte**. ![Item do Menu Suporte](/assets/images/help/enterprises/settings-support.png)
-4. Em "Integrantes de suporte", à direita da pessoa que você deseja remover o direito de suporte, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Remover direito de suporte](/assets/images/help/enterprises/settings-support-remove-entitlement.png)
+3. Na barra lateral em "Configurações", clique em **Suporte**. ![Item do Menu Suporte](/assets/images/2021/10/help/enterprises/settings-support.png)
+4. Em "Integrantes de suporte", à direita da pessoa que você deseja remover o direito de suporte, clique em {% octicon "trash" aria-label="The trash icon" %}. ![Remover direito de suporte](/assets/images/2021/10/help/enterprises/settings-support-remove-entitlement.png)
 
 ## Leia mais
 

@@ -1,1 +1,1 @@
-1. Debajo de {% octicon "gear" aria-label="The Settings gear" %} **Configuración**, haz clic en **Correo electrónico**. ![Pestaña de correo elecrónico en la barra lateral de la cuenta empresarial](/assets/images/enterprise/configuration/enterprise-account-email-tab.png)
+1. Debajo de {% octicon "gear" aria-label="The Settings gear" %} **Configuración**, haz clic en **Correo electrónico**. ![Pestaña de correo elecrónico en la barra lateral de la cuenta empresarial](/assets/images/2021/10/enterprise/configuration/enterprise-account-email-tab.png)

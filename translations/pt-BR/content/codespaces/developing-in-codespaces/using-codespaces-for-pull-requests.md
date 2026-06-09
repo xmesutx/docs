@@ -27,7 +27,7 @@ topics:
 
 2. Na lista de pull requests, clique no pull request que deseja abrir em {% data variables.product.prodname_codespaces %}.
 3. No lado direito da sua tela, clique em **Código de {% octicon "code" aria-label="The code icon" %}**.
-4. Na aba de {% data variables.product.prodname_codespaces %}, clique em **Novo codespace**. ![Opção para abrir RP em um codespace](/assets/images/help/codespaces/open-with-codespaces-pr.png)
+4. Na aba de {% data variables.product.prodname_codespaces %}, clique em **Novo codespace**. ![Opção para abrir RP em um codespace](/assets/images/2021/10/help/codespaces/open-with-codespaces-pr.png)
 
 ## Revendo um pull request em {% data variables.product.prodname_codespaces %}
 
@@ -39,4 +39,4 @@ Para obter mais informações sobre a revisão de um pull request, consulte "[Re
 
 Depois de receber feedback em um pull request, você poderá [abri-lo em um codespace](#opening-a-pull-request-in-codespaces) para ver os [comentários de revisão](#reviewing-a-pull-request-in-codespaces). A partir de lá você pode responder a comentários, adicionar reações ou ignorar a revisão.
 
-  ![Opção para abrir RP em um codespace](/assets/images/help/codespaces/incorporating-codespaces.png)
+  ![Opção para abrir RP em um codespace](/assets/images/2021/10/help/codespaces/incorporating-codespaces.png)

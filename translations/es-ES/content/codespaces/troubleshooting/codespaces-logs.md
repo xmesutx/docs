@@ -102,4 +102,4 @@ Estas bitácoras son útiles únicamente si quieres depurar problemas con el uso
 
 1. En la ventana del buscador del codespace que quieres depurar, abre la ventana de herramientas de desarrollador.
 1. Muestra la pestaña de "Consola" y haz clic en **errores** en la barra lateral izquierda para mostrar únicamente los errores.
-1. En el área de bitácora a la derecha, da clic derecho y selecciona **Guardar como** para guardar una copia de los errores en tu máquina local. ![Guardar los errores](/assets/images/help/codespaces/browser-console-log-save.png)
+1. En el área de bitácora a la derecha, da clic derecho y selecciona **Guardar como** para guardar una copia de los errores en tu máquina local. ![Guardar los errores](/assets/images/2021/10/help/codespaces/browser-console-log-save.png)

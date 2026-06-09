@@ -64,7 +64,7 @@ Only the user who created the pull request can give you permission to push commi
   $ cd <em>FORK-OF-THE-REPOSITORY</em>
   ```
 7. Switch branches to the compare branch of the pull request where the original changes were made. If you navigate to the original pull request, you'll see the compare branch at the top of the pull request.
-![compare-branch-example](/assets/images/help/pull_requests/compare-branch-example.png)
+![compare-branch-example](/assets/images/2021/10/help/pull_requests/compare-branch-example.png)
  In this example, the compare branch is `test-branch`:
   ```shell
   $ git checkout <em>test-branch</em>

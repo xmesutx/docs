@@ -18,7 +18,7 @@ shortTitle: 管理组织中的滥用
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
-4. 在“Reported content（报告的内容）”下，选择或取消选择 **Accept content reports from collaborators and prior contributors（接受协作者和先前贡献者的内容报告）**。 ![用于选择加入或退出仓库报告内容的复选框](/assets/images/help/repository/reported-content-opt-in-checkbox.png)
+4. 在“Reported content（报告的内容）”下，选择或取消选择 **Accept content reports from collaborators and prior contributors（接受协作者和先前贡献者的内容报告）**。 ![用于选择加入或退出仓库报告内容的复选框](/assets/images/2021/10/help/repository/reported-content-opt-in-checkbox.png)
 
 ## 延伸阅读
 

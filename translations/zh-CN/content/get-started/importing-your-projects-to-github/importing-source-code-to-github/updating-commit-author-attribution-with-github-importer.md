@@ -15,8 +15,8 @@ GitHub 导入工具查找其电子邮件地址匹配您所导入仓库中提交�
 
 ## 更新提交作者
 
-1. 导入仓库后，在导入状态页面上，单击 **Match authors（匹配作者）**。 ![匹配作者按钮](/assets/images/help/importer/match-authors-button.png)
-2. 在您想要更新其信息的作者旁边，单击 **Connect（连接）**。 ![提交作者列表](/assets/images/help/importer/connect-commit-author.png)
+1. 导入仓库后，在导入状态页面上，单击 **Match authors（匹配作者）**。 ![匹配作者按钮](/assets/images/2021/10/help/importer/match-authors-button.png)
+2. 在您想要更新其信息的作者旁边，单击 **Connect（连接）**。 ![提交作者列表](/assets/images/2021/10/help/importer/connect-commit-author.png)
 3. 输入作者的电子邮件地址或 GitHub 用户名，然后按 **Enter** 键。
 
 ## 将提交归于具有公共电子邮件地址的 GitHub 用户

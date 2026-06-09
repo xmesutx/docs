@@ -22,8 +22,8 @@ Antes de realizar la autenticación, {% data reusables.desktop.get-an-account %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
 {% data reusables.desktop.mac-select-accounts %}
-3. A la derecha de "{% data variables.product.prodname_dotcom_the_website %}", da clic en **Iniciar sesión**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/help/desktop/mac-sign-in-github.png)
-4. En el recuadro de "Iniciar sesión", da clic en **Iniciar sesión utilizando tu buscador**. {% data variables.product.prodname_desktop %} abrirá tu buscador predeterminado. ![Inicio de sesión mediante el enlace de su navegador](/assets/images/help/desktop/sign-in-browser.png)
+3. A la derecha de "{% data variables.product.prodname_dotcom_the_website %}", da clic en **Iniciar sesión**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/2021/10/help/desktop/mac-sign-in-github.png)
+4. En el recuadro de "Iniciar sesión", da clic en **Iniciar sesión utilizando tu buscador**. {% data variables.product.prodname_desktop %} abrirá tu buscador predeterminado. ![Inicio de sesión mediante el enlace de su navegador](/assets/images/2021/10/help/desktop/sign-in-browser.png)
 
   {% data reusables.user-settings.password-authentication-deprecation-desktop %}
 
@@ -38,7 +38,7 @@ Antes de realizar la autenticación, {% data reusables.desktop.get-an-account %}
 {% data reusables.desktop.mac-select-desktop-menu %}
 {% data reusables.desktop.mac-select-accounts %}
 {% data reusables.desktop.choose-product-authenticate %}
-4. Para agregar una cuenta de {% data variables.product.prodname_enterprise %}, teclea tus credenciales bajo el campo "Dirección de Enterprise Server", y luego da clic en **Continuar**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/help/desktop/mac-sign-in-button-enterprise.png)
+4. Para agregar una cuenta de {% data variables.product.prodname_enterprise %}, teclea tus credenciales bajo el campo "Dirección de Enterprise Server", y luego da clic en **Continuar**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/2021/10/help/desktop/mac-sign-in-button-enterprise.png)
 {% data reusables.desktop.retrieve-2fa %}
 
 {% endmac %}
@@ -49,8 +49,8 @@ Antes de realizar la autenticación, {% data reusables.desktop.get-an-account %}
 
 {% data reusables.desktop.windows-choose-options %}
 {% data reusables.desktop.windows-select-accounts %}
-3. A la derecha de "GitHub.com", da clic en **Iniciar sesión**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/help/desktop/windows-sign-in-github.png)
-4. En el panel de inicio de sesión, haz clic en **Sign in using your browser** (Iniciar sesión usando el navegador). ![Inicio de sesión mediante el enlace de su navegador](/assets/images/help/desktop/sign-in-browser.png)
+3. A la derecha de "GitHub.com", da clic en **Iniciar sesión**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/2021/10/help/desktop/windows-sign-in-github.png)
+4. En el panel de inicio de sesión, haz clic en **Sign in using your browser** (Iniciar sesión usando el navegador). ![Inicio de sesión mediante el enlace de su navegador](/assets/images/2021/10/help/desktop/sign-in-browser.png)
 
   {% data reusables.user-settings.password-authentication-deprecation-desktop %}
 
@@ -64,7 +64,7 @@ Antes de realizar la autenticación, {% data reusables.desktop.get-an-account %}
 {% data reusables.desktop.windows-choose-options %}
 {% data reusables.desktop.windows-select-accounts %}
 {% data reusables.desktop.choose-product-authenticate %}
-4. Para agregar una cuenta de {% data variables.product.prodname_enterprise %}, teclea tus credenciales bajo el campo "Dirección de Enterprise Server", y luego da clic en **Continuar**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/help/desktop/windows-sign-in-button-enterprise.png)
+4. Para agregar una cuenta de {% data variables.product.prodname_enterprise %}, teclea tus credenciales bajo el campo "Dirección de Enterprise Server", y luego da clic en **Continuar**. ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/2021/10/help/desktop/windows-sign-in-button-enterprise.png)
 {% data reusables.desktop.retrieve-2fa %}
 
 {% endwindows %}
@@ -79,14 +79,14 @@ En el caso de algunos errores, {% data variables.product.prodname_desktop %} te 
 
 {% mac %}
 
-1. Utiliza el menú desplegable de **Ayuda** y da clic en **Mostrar bitácoras en el buscador**. ![El botón de Mostrar Bitácoras en el Buscador](/assets/images/help/desktop/mac-show-logs.png)
+1. Utiliza el menú desplegable de **Ayuda** y da clic en **Mostrar bitácoras en el buscador**. ![El botón de Mostrar Bitácoras en el Buscador](/assets/images/2021/10/help/desktop/mac-show-logs.png)
 2. Selecciona el archivo de bitácora desde la fecha en donde encontraste el error de autenticación.
 
 {% endmac %}
 
 {% windows %}
 
-1. Utiliza el menú desplegable de **Ayuda** y da clic en **Mostrar las bitácoras en el explorador**. ![El botón de Mostrar Bitácoras en el Buscador](/assets/images/help/desktop/windows-show-logs.png)
+1. Utiliza el menú desplegable de **Ayuda** y da clic en **Mostrar las bitácoras en el explorador**. ![El botón de Mostrar Bitácoras en el Buscador](/assets/images/2021/10/help/desktop/windows-show-logs.png)
 2. Selecciona el archivo de bitácora desde la fecha en donde encontraste el error de autenticación.
 
 {% endwindows %}

@@ -35,7 +35,7 @@ GitHub App の権限やイベントのサブスクリプションを設定する
 
 **ステップ2。**IssueもしくはPull Requestに登録したドメインのURLを追加します。 `http://`もしくは`https://`で始まる完全修飾URLを使わなければなりません。
 
-![Issueに追加されたURL](/assets/images/github-apps/github_apps_content_reference.png)
+![Issueに追加されたURL](/assets/images/2021/10/github-apps/github_apps_content_reference.png)
 
 **ステップ3。**アプリケーションは`created`アクション付きで[`content_reference` webhook](/webhooks/event-payloads/#content_reference)を受信します。
 
@@ -80,7 +80,7 @@ curl -X POST \
 
 **ステップ5。** Pull RequestもしくはIssueコメント内のリンクの下に、新しい添付コンテンツが表示されます。
 
-![Issueのリファレンスに添付されたコンテンツ](/assets/images/github-apps/content_reference_attachment.png)
+![Issueのリファレンスに添付されたコンテンツ](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 ## GraphQLでの添付コンテンツの利用
 [`content_reference` webhook](/webhooks/event-payloads/#content_reference)イベント中で`node_id`を提供しているので、GraphQL APIの`createContentAttachment`ミューテーションを参照できます。
@@ -170,11 +170,11 @@ Probotアプリケーションを作成するには、以下のステップに�
 
 4. [GitHub Appをローカルで動作させます](https://probot.github.io/docs/development/#running-the-app-locally)。 `http://localhost:3000`にアクセスして、**Register GitHub App**ボタンをクリックしてください。
 
-   ![Probot GitHub App の登録](/assets/images/github-apps/github_apps_probot-registration.png)
+   ![Probot GitHub App の登録](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 5. テストリポジトリにアプリケーションをインストールしてください。
 6. テストリポジトリでIssueを作成してください。
 7. オープンしたIssueに`app.yml`ファイルで設定したURLを含むコメントを追加してください。
 8. Issueのコメントを見ると、以下のように更新されています。
 
-   ![Issueのリファレンスに添付されたコンテンツ](/assets/images/github-apps/content_reference_attachment.png)
+   ![Issueのリファレンスに添付されたコンテンツ](/assets/images/2021/10/github-apps/content_reference_attachment.png)

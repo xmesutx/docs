@@ -42,4 +42,4 @@ Predeterminadamente, las entregas de webhook están "Activas". También puedes e
 
 Una vez que hayas configurado tu webhook de {% data variables.product.prodname_marketplace %}, podrás inspecionar las cargas útiles de las solicitudes de tipo `POST` desde la página del **Webhooks** del [listado de {% data variables.product.prodname_marketplace %}](https://github.com/marketplace/manage) de tu aplicación. GitHub no reenvía los intentos fallidos de entrega. Asegúrate de que tu app pueda recibir toda la carga útil del webhook que envíe GitHub.
 
-![Inspeccionar las entregas de webhooks de {% data variables.product.prodname_marketplace %} recientes](/assets/images/marketplace/marketplace_webhook_deliveries.png)
+![Inspeccionar las entregas de webhooks de {% data variables.product.prodname_marketplace %} recientes](/assets/images/2021/10/marketplace/marketplace_webhook_deliveries.png)

@@ -57,14 +57,14 @@ Antes de que puedas patrocinar una cuenta, debes tener una dirección de correo 
 
 1. En {% data variables.product.product_name %}, navega al perfil del usuario u organización que quieras patrocinar.
 1. Navega a tu panel de patrocinios para la cuenta.
-   - Para patrocinar a un desarrollador, debajo de su nombre, da clic en **Patrocinar**. ![Botón de Patrocinador](/assets/images/help/profile/sponsor-button.png)
-   - Para patrocinar una organización, a la derecha del nombre de esta, haz clic en **Patrocinar**. ![Botón de Patrocinador](/assets/images/help/sponsors/sponsor-org-button.png)
-1. Opcionalmente, a la derecha de la página, para patrocinar una cuenta en nombre de tu organización, utiliza el menú desplegable de **Patrocinar como**, y da clic en la organización. ![Menú desplegable para elegier la cuenta bajo la cual harás el patrocinio](/assets/images/help/sponsors/sponsor-as-drop-down-menu.png)
+   - Para patrocinar a un desarrollador, debajo de su nombre, da clic en **Patrocinar**. ![Botón de Patrocinador](/assets/images/2021/10/help/profile/sponsor-button.png)
+   - Para patrocinar una organización, a la derecha del nombre de esta, haz clic en **Patrocinar**. ![Botón de Patrocinador](/assets/images/2021/10/help/sponsors/sponsor-org-button.png)
+1. Opcionalmente, a la derecha de la página, para patrocinar una cuenta en nombre de tu organización, utiliza el menú desplegable de **Patrocinar como**, y da clic en la organización. ![Menú desplegable para elegier la cuenta bajo la cual harás el patrocinio](/assets/images/2021/10/help/sponsors/sponsor-as-drop-down-menu.png)
 {% data reusables.sponsors.select-a-tier %}
 {% data reusables.sponsors.pay-prorated-amount %}
 {% data reusables.sponsors.select-sponsorship-billing %}
-  ![Botón de Editar pago](/assets/images/help/sponsors/edit-sponsorship-payment-button.png)
+  ![Botón de Editar pago](/assets/images/2021/10/help/sponsors/edit-sponsorship-payment-button.png)
 {% data reusables.sponsors.who-can-see-your-sponsorship %}
-  ![Botones radiales para elegir quién puede ver tu patrocinio](/assets/images/help/sponsors/who-can-see-sponsorship.png)
+  ![Botones radiales para elegir quién puede ver tu patrocinio](/assets/images/2021/10/help/sponsors/who-can-see-sponsorship.png)
 {% data reusables.sponsors.choose-updates %}
 {% data reusables.sponsors.sponsor-account %}

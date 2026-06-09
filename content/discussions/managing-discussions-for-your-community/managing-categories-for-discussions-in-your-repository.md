@@ -33,11 +33,11 @@ Each category must have a unique name and emoji pairing, and can be accompanied 
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.edit-categories %}
 1. Click **New category**.
-  !["New category" button above list of discussion categories for a repository](/assets/images/help/discussions/click-new-category-button.png)
+  !["New category" button above list of discussion categories for a repository](/assets/images/2021/10/help/discussions/click-new-category-button.png)
 1. Edit the emoji, title, description, and discussion format for the category. For more information about discussion formats, see "[About discussions](/discussions/collaborating-with-your-community-using-discussions/about-discussions#about-categories-and-formats-for-discussions)."
-  ![Emoji, title, description, and discussion format for new category](/assets/images/help/discussions/edit-category-details.png)
+  ![Emoji, title, description, and discussion format for new category](/assets/images/2021/10/help/discussions/edit-category-details.png)
 1. Click **Create**.
-  !["Create" button for new category](/assets/images/help/discussions/new-category-click-create-button.png)
+  !["Create" button for new category](/assets/images/2021/10/help/discussions/new-category-click-create-button.png)
 
 ## Editing a category
 
@@ -46,11 +46,11 @@ You can edit a category to change the category's emoji, title, description, and 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 1. To the right of a category in the list, click {% octicon "pencil" aria-label="The pencil icon" %}.
-  ![Edit button to the right of category in list of categories for a repository](/assets/images/help/discussions/click-edit-for-category.png)
+  ![Edit button to the right of category in list of categories for a repository](/assets/images/2021/10/help/discussions/click-edit-for-category.png)
 1. {% data reusables.discussions.edit-category-details %}
-  ![Editing emoji, title, description, and discussion format for existing category](/assets/images/help/discussions/edit-existing-category-details.png)
+  ![Editing emoji, title, description, and discussion format for existing category](/assets/images/2021/10/help/discussions/edit-existing-category-details.png)
 1. Click **Save changes**.
-  !["Save changes" button for existing category](/assets/images/help/discussions/existing-category-click-save-changes-button.png)
+  !["Save changes" button for existing category](/assets/images/2021/10/help/discussions/existing-category-click-save-changes-button.png)
 
 ## Deleting a category
 
@@ -59,8 +59,8 @@ When you delete a category, {% data variables.product.product_name %} will move 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 1. To the right of a category in the list, click {% octicon "trash" aria-label="The trash icon" %}.
-  ![Trash button to the right of category in list of categories for a repository](/assets/images/help/discussions/click-delete-for-category.png)
+  ![Trash button to the right of category in list of categories for a repository](/assets/images/2021/10/help/discussions/click-delete-for-category.png)
 1. Use the drop-down menu, and choose a new category for any discussions in the category you're deleting.
-  ![Drop-down menu for choosing new category when deleting an existing category](/assets/images/help/discussions/choose-new-category.png)
+  ![Drop-down menu for choosing new category when deleting an existing category](/assets/images/2021/10/help/discussions/choose-new-category.png)
 1. Click **Delete & Move**.
-  ![Drop-down menu for choosing new category when deleting an existing category](/assets/images/help/discussions/click-delete-and-move-button.png)
+  ![Drop-down menu for choosing new category when deleting an existing category](/assets/images/2021/10/help/discussions/click-delete-and-move-button.png)

@@ -20,9 +20,9 @@ shortTitle: Criar & excluir branches
 
 {% data reusables.repositories.navigate-to-repo %}
 
-1. Opcionalmente, se quiser criar um novo branch a partir de um branch diferente do branch padrão para o repositório, clique em {% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> branches** e escolha outro branch: ![Link de branches numa página de visão geral](/assets/images/help/branches/branches-link.png)
-1. Clique no menu seletor de branch. ![menu seletor de branch](/assets/images/help/branch/branch-selection-dropdown.png)
-1. Digite um nome exclusivo para o novo branch e selecione **Create branch** (Criar branch). ![caixa de texto de criação de branch](/assets/images/help/branch/branch-creation-text-box.png)
+1. Opcionalmente, se quiser criar um novo branch a partir de um branch diferente do branch padrão para o repositório, clique em {% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> branches** e escolha outro branch: ![Link de branches numa página de visão geral](/assets/images/2021/10/help/branches/branches-link.png)
+1. Clique no menu seletor de branch. ![menu seletor de branch](/assets/images/2021/10/help/branch/branch-selection-dropdown.png)
+1. Digite um nome exclusivo para o novo branch e selecione **Create branch** (Criar branch). ![caixa de texto de criação de branch](/assets/images/2021/10/help/branch/branch-creation-text-box.png)
 
 ## Excluir um branch
 
@@ -38,7 +38,7 @@ Se o branch que você deseja excluir estiver associado a um pull request aberto,
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-branches %}
-1. Role até o branch que deseja excluir e clique em {% octicon "trash" aria-label="The trash icon to delete the branch" %}. ![excluir o branch](/assets/images/help/branches/branches-delete.png)
+1. Role até o branch que deseja excluir e clique em {% octicon "trash" aria-label="The trash icon to delete the branch" %}. ![excluir o branch](/assets/images/2021/10/help/branches/branches-delete.png)
 
 {% data reusables.pull_requests.retargeted-on-branch-deletion %}
 Para obter mais informações, consulte "[Sobre branches](/github/collaborating-with-issues-and-pull-requests/about-branches#working-with-branches)".

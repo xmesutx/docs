@@ -32,7 +32,7 @@ Este guia mostra como configurar seu projeto Python em {% data variables.product
 
 1. No nome do repositório, use o menu suspenso **Código de {% octicon "code" aria-label="The code icon" %}** e na aba **Codespaces** de código, clique em {% octicon "plus" aria-label="The plus icon" %} **Novo codespace**.
 
-  ![Botão de codespace novo](/assets/images/help/codespaces/new-codespace-button.png)
+  ![Botão de codespace novo](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   Se você não vir esta opção, significa que {% data variables.product.prodname_codespaces %} não está disponível para o seu projeto. Consulte [Acesso a {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) para mais informações.
 
@@ -53,9 +53,9 @@ Para configurar seu projeto com um contêiner personalizado, você deverá usar 
 
 
 {% data reusables.codespaces.command-palette-container %}
-2. Para este exemplo, clique em **Python 3**. Se precisar de funcionalidades adicionais, você poderá selecionar qualquer contêiner específico para Python ou uma combinação de ferramentas como Python 3 e PostgreSQL. ![Selecione a opção Python na lista](/assets/images/help/codespaces/add-python-prebuilt-container.png)
-3. Clique na versão recomendada do Python. ![Seleção de versão Python](/assets/images/help/codespaces/add-python-version.png)
-4. Aceite a opção padrão para adicionar Node.js à sua personalização. ![Adicionar seleção de Node.js](/assets/images/help/codespaces/add-nodejs-selection.png)
+2. Para este exemplo, clique em **Python 3**. Se precisar de funcionalidades adicionais, você poderá selecionar qualquer contêiner específico para Python ou uma combinação de ferramentas como Python 3 e PostgreSQL. ![Selecione a opção Python na lista](/assets/images/2021/10/help/codespaces/add-python-prebuilt-container.png)
+3. Clique na versão recomendada do Python. ![Seleção de versão Python](/assets/images/2021/10/help/codespaces/add-python-version.png)
+4. Aceite a opção padrão para adicionar Node.js à sua personalização. ![Adicionar seleção de Node.js](/assets/images/2021/10/help/codespaces/add-nodejs-selection.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### Anatomia do seu contêiner de desenvolvimento
@@ -163,7 +163,7 @@ Com o seu contêiner de desenvolvimento adicionado e um entendimento básico do 
 
 1. No Explorador, expanda a pasta `.devcontainer` e selecione o arquivo `devcontainer.json` a partir da árvore para abri-lo.
 
-  ![Arquivo devcontainer.json no Explorador](/assets/images/help/codespaces/devcontainers-options.png)
+  ![Arquivo devcontainer.json no Explorador](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. Atualize a lista de extensões `` no seu arquivo `devcontainer.json` para adicionar algumas extensões que são úteis ao trabalhar com seu projeto.
 
@@ -188,7 +188,7 @@ Com o seu contêiner de desenvolvimento adicionado e um entendimento básico do 
 
 5. Verifique se suas alterações foram aplicadas com sucesso verificando se as extensões Code Spell Checker e Flask Snippet foram instaladas.
 
-    ![Lista de extensões](/assets/images/help/codespaces/python-extensions.png)
+    ![Lista de extensões](/assets/images/2021/10/help/codespaces/python-extensions.png)
 
 ## Etapa 4: Execute o seu aplicativo
 
@@ -198,7 +198,7 @@ Na seção anterior, você usou o `postCreateCommand` para instalar um conjunto 
 
 2. Quando o seu projeto for iniciado, você deverá ver um alerta no canto inferior direito com uma instrução para conectar-se à porta que seu projeto usa.
 
-  ![Notificação de encaminhamento de porta](/assets/images/help/codespaces/python-port-forwarding.png)
+  ![Notificação de encaminhamento de porta](/assets/images/2021/10/help/codespaces/python-port-forwarding.png)
 
 ## Etapa 5: Faça commit das suas alterações
 

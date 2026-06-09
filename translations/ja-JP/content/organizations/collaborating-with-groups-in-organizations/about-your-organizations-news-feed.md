@@ -24,7 +24,7 @@ An organization's news feed shows other people's activity on repositories owned 
 1. {% data variables.product.signin_link %} to your account on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}.
 2. Open your {% data reusables.user-settings.personal_dashboard %}.
 3. Click the account context switcher in the upper-left corner of the page.
-  ![Context switcher button in Enterprise](/assets/images/help/organizations/account_context_switcher.png)
+  ![Context switcher button in Enterprise](/assets/images/2021/10/help/organizations/account_context_switcher.png)
 4. Select an organization from the drop-down menu.{% ifversion fpt or ghec %}
-  ![Context switcher menu in dotcom](/assets/images/help/organizations/account-context-switcher-selected-dotcom.png){% else %}
-  ![Context switcher menu in Enterprise](/assets/images/help/organizations/account_context_switcher.png){% endif %}
+  ![Context switcher menu in dotcom](/assets/images/2021/10/help/organizations/account-context-switcher-selected-dotcom.png){% else %}
+  ![Context switcher menu in Enterprise](/assets/images/2021/10/help/organizations/account_context_switcher.png){% endif %}

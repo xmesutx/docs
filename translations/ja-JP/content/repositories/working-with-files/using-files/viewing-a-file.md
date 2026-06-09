@@ -24,18 +24,18 @@ With the raw view, you can view or copy the raw content of a file without any st
 
 {% data reusables.repositories.navigate-to-repo %}
 1. Click the file that you want to view.
-2. In the upper-right corner of the file view, click **Raw**. ![Screenshot of the Raw button in the file header](/assets/images/help/repository/raw-file-button.png)
+2. In the upper-right corner of the file view, click **Raw**. ![Screenshot of the Raw button in the file header](/assets/images/2022/01/help/repository/raw-file-button.png)
 3. Optionally, to copy the raw file content, in the upper-right corner of the file view, click **{% octicon "copy" aria-label="The copy icon" %}**.
 
 ## Viewing the line-by-line revision history for a file
 
 Blame ビューでは、{% octicon "versions" aria-label="The prior blame icon" %} をクリックすることで、ファイル全体の行ごとのリビジョン履歴やファイル内の 1 つの行のリビジョン履歴を表示することができます。 {% octicon "versions" aria-label="The prior blame icon" %} をクリックするたびに、変更をコミットした者と時間を含む、その行の過去のリビジョン情報が表示されます。
 
-![Git blame ビュー](/assets/images/help/repository/git_blame.png)
+![Git blame ビュー](/assets/images/2021/10/help/repository/git_blame.png)
 
 ファイルやプルリクエストでは、{% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} メニューを使って、選択した行や行の範囲の Git blame を表示することもできます。
 
-![選択した行の Git blame を表示するオプションのあるケバブメニュー](/assets/images/help/repository/view-git-blame-specific-line.png)
+![選択した行の Git blame を表示するオプションのあるケバブメニュー](/assets/images/2021/10/help/repository/view-git-blame-specific-line.png)
 
 {% tip %}
 
@@ -45,5 +45,5 @@ Blame ビューでは、{% octicon "versions" aria-label="The prior blame icon" 
 
 {% data reusables.repositories.navigate-to-repo %}
 2. クリックして、表示したい行の履歴のファイルを開きます。
-3. ファイルビューの右上隅で [**Blame**] をクリックして blame ビューを開きます。 ![[Blame] ボタン](/assets/images/help/repository/blame-button.png)
-4. 特定の行の過去のリビジョンを表示するには、見てみたい変更が見つかるまで {% octicon "versions" aria-label="The prior blame icon" %} をクリックします。 ![さらに前の状態に遡るボタン](/assets/images/help/repository/prior-blame-button.png)
+3. ファイルビューの右上隅で [**Blame**] をクリックして blame ビューを開きます。 ![[Blame] ボタン](/assets/images/2021/10/help/repository/blame-button.png)
+4. 特定の行の過去のリビジョンを表示するには、見てみたい変更が見つかるまで {% octicon "versions" aria-label="The prior blame icon" %} をクリックします。 ![さらに前の状態に遡るボタン](/assets/images/2021/10/help/repository/prior-blame-button.png)

@@ -32,10 +32,10 @@ shortTitle: 请求 PR 审查
 {% data reusables.repositories.sidebar-pr %}
 1. 在拉取请求列表中，单击您想要请求特定人员或团队审查的拉取请求。
 2. 导航到右侧边栏中的 **Reviewers（审查者）**。
-3. 要向建议的人员请求审查，在 **Reviewers（审查者）**下其用户名旁边，单击 **Request（请求）**。 ![右侧边栏中的审查者请求图标](/assets/images/help/pull_requests/request-suggested-review.png)
-5. （可选）要向建议人员以外的其他人请求审查，请单击 **Reviewers（审查者）**，然后单击下拉列表中的姓名。 ![右侧边栏中的审查者齿轮图标](/assets/images/help/pull_requests/request-a-review-not-suggested.png)
-6. （可选）如果您知道想要其审查的人员或团队的名称，请单击 **Reviewers（审查者）**，然后输入您请求审查更改的人员用户名或团队名称。 单击其团队名称或用户名以请求审查。 ![用于输入审查者用户名的字段和带审查者姓名的下拉菜单](/assets/images/help/pull_requests/choose-pull-request-reviewer.png)
-7. 审查您的拉取请求并且您已进行必要的更改后，可以请求审查者重新审查您的拉取请求。 导航到右侧边栏中的 **Reviewers（审查者）**，然后单击您想要其审查的审查者姓名旁边的 {% octicon "sync" aria-label="The sync icon" %}。 ![重新审查右侧边栏中的同步图标](/assets/images/help/pull_requests/request-re-review.png)
+3. 要向建议的人员请求审查，在 **Reviewers（审查者）**下其用户名旁边，单击 **Request（请求）**。 ![右侧边栏中的审查者请求图标](/assets/images/2021/10/help/pull_requests/request-suggested-review.png)
+5. （可选）要向建议人员以外的其他人请求审查，请单击 **Reviewers（审查者）**，然后单击下拉列表中的姓名。 ![右侧边栏中的审查者齿轮图标](/assets/images/2021/10/help/pull_requests/request-a-review-not-suggested.png)
+6. （可选）如果您知道想要其审查的人员或团队的名称，请单击 **Reviewers（审查者）**，然后输入您请求审查更改的人员用户名或团队名称。 单击其团队名称或用户名以请求审查。 ![用于输入审查者用户名的字段和带审查者姓名的下拉菜单](/assets/images/2021/10/help/pull_requests/choose-pull-request-reviewer.png)
+7. 审查您的拉取请求并且您已进行必要的更改后，可以请求审查者重新审查您的拉取请求。 导航到右侧边栏中的 **Reviewers（审查者）**，然后单击您想要其审查的审查者姓名旁边的 {% octicon "sync" aria-label="The sync icon" %}。 ![重新审查右侧边栏中的同步图标](/assets/images/2021/10/help/pull_requests/request-re-review.png)
 
 ## 延伸阅读
 

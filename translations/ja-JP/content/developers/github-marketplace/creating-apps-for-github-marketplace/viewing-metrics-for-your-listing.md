@@ -43,7 +43,7 @@ Insightsページには、選択された期間に対する以下のパフォー
 * **Unique visitors to checkout page:** GitHub Appのチェックアウトページのいずれかを閲覧した人数。
 * **Checkout page to new subscriptions:** 有料サブスクリプション、無料トライアル、無料サブスクリプションの総数。 それぞれの種類のサブスクリプションの特定の数値については「合計サブスクリプションの内訳」を参照してください。
 
-![Marketplace insights](/assets/images/marketplace/marketplace_insights.png)
+![Marketplace insights](/assets/images/2021/10/marketplace/marketplace_insights.png)
 
 {% data variables.product.prodname_marketplace %} Insightsには以下のようにしてアクセスしてください。
 
@@ -53,4 +53,4 @@ Insightsページには、選択された期間に対する以下のパフォー
 4. Insightを表示させる{% data variables.product.prodname_github_app %}を選択します。
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. **Insights**タブをクリックしてください。
-7. Insightsページの右上にあるPeriod（期間）ドロップダウンをクリックして、異なる期間を選択することもできます。 ![Marketplaceの期間](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. Insightsページの右上にあるPeriod（期間）ドロップダウンをクリックして、異なる期間を選択することもできます。 ![Marketplaceの期間](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

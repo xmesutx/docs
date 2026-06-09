@@ -72,4 +72,4 @@ O clustering permite que os serviços que compõem o {% data variables.product.p
 
 {% endnote %}
 
-<img src="/assets/images/enterprise/cluster/cluster-diagram.png" alt="Cluster de exemplo" style="width: 800px;border:0" />
+<img src="/assets/images/2021/10/enterprise/cluster/cluster-diagram.png" alt="Cluster de exemplo" style="width: 800px;border:0" />

@@ -48,7 +48,7 @@ Você deve ter uma identidade SAML vinculada. Para criar uma identidade vinculad
 
 As suas configurações do SAML **devem** conter um IdP válido para o campo **Emissor**.
 
-![Campo emissor do SAML](/assets/images/help/saml/saml_issuer.png)
+![Campo emissor do SAML](/assets/images/2021/10/help/saml/saml_issuer.png)
 
 
 
@@ -62,7 +62,7 @@ As suas configurações do SAML **devem** conter um IdP válido para o campo **E
 {% data reusables.identity-and-permissions.team-sync-confirm-saml %}
 {% data reusables.identity-and-permissions.enable-team-sync-azure %}
 {% data reusables.identity-and-permissions.team-sync-confirm %}
-6. Reveja as informações do encarregado do provedor de identidade que você deseja conectar à organização e clique em **Approve** (Aprovar). ![Solicitação pendente para habilitar a sincronização de equipes para um determinado encarregado do IdP com opção de aprovar ou cancelar a solicitação](/assets/images/help/teams/approve-team-synchronization.png)
+6. Reveja as informações do encarregado do provedor de identidade que você deseja conectar à organização e clique em **Approve** (Aprovar). ![Solicitação pendente para habilitar a sincronização de equipes para um determinado encarregado do IdP com opção de aprovar ou cancelar a solicitação](/assets/images/2021/10/help/teams/approve-team-synchronization.png)
 
 ### Habilitar a sincronização de equipe para o Okta
 
@@ -83,8 +83,8 @@ Para obter ajuda sobre o provisionamento de usuários que não tenham uma identi
 {% data reusables.identity-and-permissions.team-sync-confirm-scim %}
 1. Considere aplicar o SAML na sua organização para garantir que os integrantes da organização vinculem suas identidades ao SAML e ao SCIM. Para obter mais informações, consulte "[Aplicando o logon único SAML para a sua organização](/organizations/managing-saml-single-sign-on-for-your-organization/enforcing-saml-single-sign-on-for-your-organization)".
 {% data reusables.identity-and-permissions.enable-team-sync-okta %}
-7. No nome da sua organização, digite um token SSWS válido e a URL para sua instância do Okta. ![Formulário da organização do Okta para habilitar a sincronização de equipes](/assets/images/help/teams/confirm-team-synchronization-okta-organization.png)
-6. Revise as informações do locatário do provedor de identidade que você deseja conectar à sua organização e clique em **Criar**. ![Botão de criar em habilitar a sincronização de equipes](/assets/images/help/teams/confirm-team-synchronization-okta.png)
+7. No nome da sua organização, digite um token SSWS válido e a URL para sua instância do Okta. ![Formulário da organização do Okta para habilitar a sincronização de equipes](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta-organization.png)
+6. Revise as informações do locatário do provedor de identidade que você deseja conectar à sua organização e clique em **Criar**. ![Botão de criar em habilitar a sincronização de equipes](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta.png)
 
 ## Desabilitar a sincronização de equipes
 
@@ -93,4 +93,4 @@ Para obter ajuda sobre o provisionamento de usuários que não tenham uma identi
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-5. Em "Team synchronization" (Sincronização de equipes), clique em **Disable team synchronization** (Desabilitar sincronização de equipes). ![Desabilitar a sincronização de equipes](/assets/images/help/teams/disable-team-synchronization.png)
+5. Em "Team synchronization" (Sincronização de equipes), clique em **Disable team synchronization** (Desabilitar sincronização de equipes). ![Desabilitar a sincronização de equipes](/assets/images/2021/10/help/teams/disable-team-synchronization.png)

@@ -28,4 +28,4 @@ shortTitle: 创建模板仓库
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-1. 选择 **Template repository（模板仓库）**。 ![将仓库设置为模板的复选框](/assets/images/help/repository/template-repository-checkbox.png)
+1. 选择 **Template repository（模板仓库）**。 ![将仓库设置为模板的复选框](/assets/images/2021/10/help/repository/template-repository-checkbox.png)

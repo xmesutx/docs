@@ -19,5 +19,5 @@ shortTitle: Unpublish your profile
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.settings-tab %}
-3. [Unpublish your GitHub Sponsors profile] で [**Unpublish profile**] をクリックします。 ![[Unpublish profile] ボタン](/assets/images/help/sponsors/unpublish-profile-button.png)
-4. [Unpublish GitHub Sponsors account] をクリックして確認します。 ![[Unpublish GitHub Sponsors profile] ボタン](/assets/images/help/sponsors/unpublish-profile-dialog.png)
+3. [Unpublish your GitHub Sponsors profile] で [**Unpublish profile**] をクリックします。 ![[Unpublish profile] ボタン](/assets/images/2021/10/help/sponsors/unpublish-profile-button.png)
+4. [Unpublish GitHub Sponsors account] をクリックして確認します。 ![[Unpublish GitHub Sponsors profile] ボタン](/assets/images/2021/10/help/sponsors/unpublish-profile-dialog.png)

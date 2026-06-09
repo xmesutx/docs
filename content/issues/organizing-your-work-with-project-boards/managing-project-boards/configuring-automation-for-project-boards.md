@@ -34,13 +34,13 @@ type: how_to
 
 1. Navigate to the project board you want to automate.
 2. In the column you want to automate, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
-![Edit icon](/assets/images/help/projects/edit-column-button.png)
+![Edit icon](/assets/images/2021/10/help/projects/edit-column-button.png)
 3. Click **Manage automation**.
-![Manage automation button](/assets/images/help/projects/manage-automation-button.png)
+![Manage automation button](/assets/images/2021/10/help/projects/manage-automation-button.png)
 4. Using the Preset drop-down menu, select an automation preset.
-![Select preset automation from menu](/assets/images/help/projects/select-automation.png)
+![Select preset automation from menu](/assets/images/2021/10/help/projects/select-automation.png)
 5. Select the workflow automations you want to configure for the column.
-![List of options for automating the column](/assets/images/help/projects/select-automation-options-existing-column.png)
+![List of options for automating the column](/assets/images/2021/10/help/projects/select-automation-options-existing-column.png)
 6. Click **Update automation**.
 
 ## Further reading

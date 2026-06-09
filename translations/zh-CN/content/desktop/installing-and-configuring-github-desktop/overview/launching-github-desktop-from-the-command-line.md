@@ -11,7 +11,7 @@ versions:
 
 {% mac %}
 
-1. 在菜单栏中，选择 **{% data variables.product.prodname_desktop %}** 菜单，然后单击 **Install Command Line Tool（安装命令行工具）**。 ![在 {% data variables.product.prodname_desktop %} 下拉菜单中安装命令行工具选项](/assets/images/help/desktop/mac-install-command-line-tool.png)
+1. 在菜单栏中，选择 **{% data variables.product.prodname_desktop %}** 菜单，然后单击 **Install Command Line Tool（安装命令行工具）**。 ![在 {% data variables.product.prodname_desktop %} 下拉菜单中安装命令行工具选项](/assets/images/2021/10/help/desktop/mac-install-command-line-tool.png)
 2. 打开终端。
 3. {% data reusables.desktop.launch-desktop-from-command-line %}
 

@@ -30,7 +30,7 @@ $ git clone https://{% data variables.command_line.codeblock %}/<em>ユーザ名
 
 リポジトリのクローン時は、[複数の異なる URL](/github/getting-started-with-github/about-remote-repositories) から選択できます。 {% data variables.product.prodname_dotcom %}にログインした状態である間は、これらの URL はリポジトリの詳細の下に表示されます:
 
-![リモート URL リスト](/assets/images/help/repository/remotes-url.png)
+![リモート URL リスト](/assets/images/2021/10/help/repository/remotes-url.png)
 
 `git clone` を実行すると、以下のアクションが発生します:
 - `repo` と呼ばれる新たなフォルダが作成される

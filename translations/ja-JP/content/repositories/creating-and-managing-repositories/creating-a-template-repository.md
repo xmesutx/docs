@@ -28,4 +28,4 @@ After you make your repository a template, anyone with access to the repository 
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-1. [**Template repository**] を選択します。 ![リポジトリをテンプレート化するチェックボックス](/assets/images/help/repository/template-repository-checkbox.png)
+1. [**Template repository**] を選択します。 ![リポジトリをテンプレート化するチェックボックス](/assets/images/2021/10/help/repository/template-repository-checkbox.png)

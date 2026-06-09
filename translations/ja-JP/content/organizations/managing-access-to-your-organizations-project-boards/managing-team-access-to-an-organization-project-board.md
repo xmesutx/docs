@@ -40,8 +40,8 @@ shortTitle: Teamのアクセスの管理
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
 8. 左サイトバーで [**Teams**] をクリックします。
-9. チームを追加する場合は、[**Add a team: Select team**] をクリックします。 次に、ドロップダウン メニューからチームを選択するか、追加したいチームを検索します。 ![Organization のチームのリストが表示される [Add a team] ドロップダウン メニュー](/assets/images/help/projects/add-a-team.png)
-10. チーム名の隣にあるドロップダウン メニューを使って、目的の権限レベルを [**Read**]、[**Write**]、[**Admin**] から選択します。 ![[Read]、[Write]、[Admin] のオプションがあるチームの権限](/assets/images/help/projects/org-project-team-choose-permissions.png)
+9. チームを追加する場合は、[**Add a team: Select team**] をクリックします。 次に、ドロップダウン メニューからチームを選択するか、追加したいチームを検索します。 ![Organization のチームのリストが表示される [Add a team] ドロップダウン メニュー](/assets/images/2021/10/help/projects/add-a-team.png)
+10. チーム名の隣にあるドロップダウン メニューを使って、目的の権限レベルを [**Read**]、[**Write**]、[**Admin**] から選択します。 ![[Read]、[Write]、[Admin] のオプションがあるチームの権限](/assets/images/2021/10/help/projects/org-project-team-choose-permissions.png)
 
 ## プロジェクトボードへのチームのアクセスを設定する
 
@@ -50,5 +50,5 @@ shortTitle: Teamのアクセスの管理
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-4. チームの会話の上にある {% octicon "project" aria-label="The Projects icon" %}[**Projects**] をクリックします。 ![チームの [Repositories] タブ](/assets/images/help/organizations/team-project-board-button.png)
-5. 権限レベルを変更するには、更新するプロジェクトボードの右にあるドロップダウンを使用します。 プロジェクトボードを削除するには、[**{% octicon "trash" aria-label="The trash icon" %}**] をクリックします。 ![チームからプロジェクトボードを削除する [Trash] ボタン](/assets/images/help/organizations/trash-button.png)
+4. チームの会話の上にある {% octicon "project" aria-label="The Projects icon" %}[**Projects**] をクリックします。 ![チームの [Repositories] タブ](/assets/images/2021/10/help/organizations/team-project-board-button.png)
+5. 権限レベルを変更するには、更新するプロジェクトボードの右にあるドロップダウンを使用します。 プロジェクトボードを削除するには、[**{% octicon "trash" aria-label="The trash icon" %}**] をクリックします。 ![チームからプロジェクトボードを削除する [Trash] ボタン](/assets/images/2021/10/help/organizations/trash-button.png)

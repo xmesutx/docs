@@ -27,13 +27,13 @@ versions:
 {% data reusables.desktop.return-to-desktop %}
 {% data reusables.desktop.mac-select-desktop-menu %}
 7. In the Preferences window, click **Git**.
-  ![The Git Pane in the Preferences menu](/assets/images/help/desktop/mac-select-git-pane.png)
+  ![The Git Pane in the Preferences menu](/assets/images/2021/10/help/desktop/mac-select-git-pane.png)
 {% data reusables.desktop.name-field-git-config %}
-  ![The name field of the Git configuration](/assets/images/help/desktop/mac-name-git-config.png)
+  ![The name field of the Git configuration](/assets/images/2021/10/help/desktop/mac-name-git-config.png)
 {% data reusables.desktop.paste-email-git-config %}
-  ![Pasted email address in Git configuration field](/assets/images/help/desktop/mac-email-git-config.png)
+  ![Pasted email address in Git configuration field](/assets/images/2021/10/help/desktop/mac-email-git-config.png)
 {% data reusables.desktop.click-save-git-config %}
-  ![Save button in Git configuration field](/assets/images/help/desktop/mac-save-git-config.png)
+  ![Save button in Git configuration field](/assets/images/2021/10/help/desktop/mac-save-git-config.png)
 
 {% endmac %}
 
@@ -46,13 +46,13 @@ versions:
 {% data reusables.desktop.return-to-desktop %}
 {% data reusables.desktop.windows-choose-options %}
 8. In the Options window, click **Git**.
-![The Git Pane in the Options menu](/assets/images/help/desktop/windows-select-git-pane.png)
+![The Git Pane in the Options menu](/assets/images/2021/10/help/desktop/windows-select-git-pane.png)
 {% data reusables.desktop.name-field-git-config %}
-  ![The name field of the Git configuration](/assets/images/help/desktop/windows-name-git-config.png)
+  ![The name field of the Git configuration](/assets/images/2021/10/help/desktop/windows-name-git-config.png)
 {% data reusables.desktop.paste-email-git-config %}
-  ![Pasted email address in Git configuration field](/assets/images/help/desktop/windows-email-git-config.png)
+  ![Pasted email address in Git configuration field](/assets/images/2021/10/help/desktop/windows-email-git-config.png)
 {% data reusables.desktop.click-save-git-config %}
-  ![Save button in Git configuration field](/assets/images/help/desktop/windows-save-git-config.png)
+  ![Save button in Git configuration field](/assets/images/2021/10/help/desktop/windows-save-git-config.png)
 
 {% endwindows %}
 

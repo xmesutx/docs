@@ -33,7 +33,7 @@ Creamos un enfoque gradual para las implementaciones de la GHAS que se desarroll
 
 Si bien se recomienda el enfoque gradual, los ajustes pueden realizarse con base en las necesidades de tu compañía. También te sugerimos crear y apegarte a una línea de tiempo para tu implementación y despliegue. Conforme comienzas tu planeación, podemos trabajar en conjunto para identificar el enfoque y línea de tiempo ideales que funcionen mejor para tu compañía.
 
-![Diagrama que muestra las tres fases de implementación y despliegue de la Seguridad Avanzada de GitHub, incluyendo la Fase 0: Planeación & Inicio, Fase 1: Proyectos piloto, Fase 2: Participación organizacional e implementación para los primeros participantes y Fase 3: Implementación organizacional completa & administración de cambios](/assets/images/enterprise/security/advanced-security-phased-approach-diagram.png)
+![Diagrama que muestra las tres fases de implementación y despliegue de la Seguridad Avanzada de GitHub, incluyendo la Fase 0: Planeación & Inicio, Fase 1: Proyectos piloto, Fase 2: Participación organizacional e implementación para los primeros participantes y Fase 3: Implementación organizacional completa & administración de cambios](/assets/images/2021/10/enterprise/security/advanced-security-phased-approach-diagram.png)
 
 
 Con base en nuestra experiencia ayudando a los clientes a tener un despliegue exitoso de la {% data variables.product.prodname_GH_advanced_security %}, esperamos que la mayoría de ellos estén dispuestos a seguir estas fases. Dependiendo de las necesidades de tu compañía, podrías necesitar modificar este enfoque y modificar o eliminar algunas fases o pasos.

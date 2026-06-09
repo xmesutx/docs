@@ -30,7 +30,7 @@ For example, an integrated development environment (IDE) may use a {% data varia
 
 When a {% data variables.product.prodname_github_app %} acts on your behalf in this way, this is identified on GitHub via a special icon that shows a small avatar for the {% data variables.product.prodname_github_app %} overlaid onto your own avatar, similar to the one shown below.
 
-![An issue created by a "user-to-server" request from a {% data variables.product.prodname_github_app %}](/assets/images/help/apps/github-apps-new-issue.png)
+![An issue created by a "user-to-server" request from a {% data variables.product.prodname_github_app %}](/assets/images/2021/10/help/apps/github-apps-new-issue.png)
 
 ## To what extent can a {% data variables.product.prodname_github_app %} know which resources you can access  and act on your behalf?
 

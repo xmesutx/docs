@@ -22,13 +22,13 @@ shortTitle: アカウントのブロックの解除
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. [Blocked users] の下で、ブロックを解除したいユーザの横にある [**Unblock**] をクリックします。 ![ユーザブロックの解除ボタン](/assets/images/help/organizations/org-unblock-user-button.png)
+3. [Blocked users] の下で、ブロックを解除したいユーザの横にある [**Unblock**] をクリックします。 ![ユーザブロックの解除ボタン](/assets/images/2021/10/help/organizations/org-unblock-user-button.png)
 
 ## プロフィールページからのユーザのブロックの解除
 
 {% data reusables.profile.user_profile_page_navigation %}
-2. 左のサイドバーのユーザのプロフィール写真の下にある [ {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}] をクリックしてから、[**Block or report user（ユーザをブロックもしくは報告）**] をクリックします。 ![ユーザリンクのブロックの解除または報告](/assets/images/help/profile/profile-unblock-or-report-user.png)
-3. [**Unblock user**] をクリックします。 ![ユーザのブロックの解除あるいは悪用のレポートの選択肢を持つモーダルボックス](/assets/images/help/profile/profile-unblockuser.png)
+2. 左のサイドバーのユーザのプロフィール写真の下にある [ {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}] をクリックしてから、[**Block or report user（ユーザをブロックもしくは報告）**] をクリックします。 ![ユーザリンクのブロックの解除または報告](/assets/images/2021/10/help/profile/profile-unblock-or-report-user.png)
+3. [**Unblock user**] をクリックします。 ![ユーザのブロックの解除あるいは悪用のレポートの選択肢を持つモーダルボックス](/assets/images/2021/10/help/profile/profile-unblockuser.png)
 
 {% tip %}
 

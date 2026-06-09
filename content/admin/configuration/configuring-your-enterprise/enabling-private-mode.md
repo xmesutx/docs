@@ -31,5 +31,5 @@ With private mode enabled, you can allow unauthenticated Git operations (and any
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
 4. Select **Private mode**.
-  ![Checkbox for enabling private mode](/assets/images/enterprise/management-console/private-mode-checkbox.png)
+  ![Checkbox for enabling private mode](/assets/images/2021/10/enterprise/management-console/private-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}

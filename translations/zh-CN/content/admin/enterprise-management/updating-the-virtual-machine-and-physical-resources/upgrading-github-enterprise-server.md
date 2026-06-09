@@ -98,8 +98,8 @@ shortTitle: 升级 GHES
 {% data reusables.enterprise_management_console.updates-tab %}
 4. 在新的热补丁下载完毕后，请使用 Install package 下拉菜单：
     - 要立即安装，请选择 **Now**：
-    - 要稍后安装，请选择以后的日期。 ![热补丁安装日期下拉菜单](/assets/images/enterprise/management-console/hotpatch-installation-date-dropdown.png)
-5. 单击 **Install（安装）**。 ![热补丁安装按钮](/assets/images/enterprise/management-console/hotpatch-installation-install-button.png)
+    - 要稍后安装，请选择以后的日期。 ![热补丁安装日期下拉菜单](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-date-dropdown.png)
+5. 单击 **Install（安装）**。 ![热补丁安装按钮](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-install-button.png)
 
 #### 使用管理 shell 安装热补丁
 

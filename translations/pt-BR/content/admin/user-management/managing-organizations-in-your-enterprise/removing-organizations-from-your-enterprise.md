@@ -23,6 +23,6 @@ shortTitle: Removendo organizações
 ## Removendo uma organização da sua empresa
 
 {% data reusables.enterprise-accounts.access-enterprise %}
-2. Em "Organizações", na barra de pesquisa, comece a digitar o nome da organização até que a organização apareça nos resultados de busca. ![Captura de tela do campo de busca para organizações](/assets/images/help/enterprises/organization-search.png)
-3. À direita do nome da organização, selecione o menu suspenso {% octicon "gear" aria-label="The gear icon" %} e clique em **Remover organização**. ![Captura de tela de uma organização nos resultados de busca](/assets/images/help/enterprises/remove-organization.png)
-4. Revise as advertências e clique em **Remover organização**. ![Captura de tela de uma mensagem de aviso e botão para remover a organização](/assets/images/help/enterprises/remove-organization-warning.png)
+2. Em "Organizações", na barra de pesquisa, comece a digitar o nome da organização até que a organização apareça nos resultados de busca. ![Captura de tela do campo de busca para organizações](/assets/images/2021/12/help/enterprises/organization-search.png)
+3. À direita do nome da organização, selecione o menu suspenso {% octicon "gear" aria-label="The gear icon" %} e clique em **Remover organização**. ![Captura de tela de uma organização nos resultados de busca](/assets/images/2021/12/help/enterprises/remove-organization.png)
+4. Revise as advertências e clique em **Remover organização**. ![Captura de tela de uma mensagem de aviso e botão para remover a organização](/assets/images/2021/12/help/enterprises/remove-organization-warning.png)

@@ -20,9 +20,9 @@ shortTitle: Request OAuth App approval
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.access_applications %}
 {% data reusables.user-settings.access_authorized_oauth_apps %}
-3. アプリケーションのリストで、アクセスを要求する {% data variables.product.prodname_oauth_app %} の名前をクリックします。 ![[View application] ボタン](/assets/images/help/settings/settings-third-party-view-app.png)
-4. {% data variables.product.prodname_oauth_app %} にアクセスさせる Organization の横で、[**Request access**] をクリックします。 ![[Request access] ボタン](/assets/images/help/settings/settings-third-party-request-access.png)
-5. {% data variables.product.prodname_oauth_app %} アクセスをリクエストすることに関する情報を読み、[**Request approval from owners**] をクリックします。 ![[Request approval] ボタン](/assets/images/help/settings/oauth-access-request-approval.png)
+3. アプリケーションのリストで、アクセスを要求する {% data variables.product.prodname_oauth_app %} の名前をクリックします。 ![[View application] ボタン](/assets/images/2021/10/help/settings/settings-third-party-view-app.png)
+4. {% data variables.product.prodname_oauth_app %} にアクセスさせる Organization の横で、[**Request access**] をクリックします。 ![[Request access] ボタン](/assets/images/2021/10/help/settings/settings-third-party-request-access.png)
+5. {% data variables.product.prodname_oauth_app %} アクセスをリクエストすることに関する情報を読み、[**Request approval from owners**] をクリックします。 ![[Request approval] ボタン](/assets/images/2021/10/help/settings/oauth-access-request-approval.png)
 
 ## 参考リンク
 

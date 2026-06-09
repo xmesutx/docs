@@ -19,8 +19,8 @@ shortTitle: OAuth Appの承認
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. 承認したいアプリケーションの隣で [**Review**] をクリックします。 ![レビューのリクエストリンク](/assets/images/help/settings/settings-third-party-approve-review.png)
-6. リクエストされたアプリケーションに関する情報をレビューしたら、[**Grant access**] をクリックします。 ![アクセスの許可ボタン](/assets/images/help/settings/settings-third-party-approve-grant.png)
+5. 承認したいアプリケーションの隣で [**Review**] をクリックします。 ![レビューのリクエストリンク](/assets/images/2021/10/help/settings/settings-third-party-approve-review.png)
+6. リクエストされたアプリケーションに関する情報をレビューしたら、[**Grant access**] をクリックします。 ![アクセスの許可ボタン](/assets/images/2021/10/help/settings/settings-third-party-approve-grant.png)
 
 ## 参考リンク
 

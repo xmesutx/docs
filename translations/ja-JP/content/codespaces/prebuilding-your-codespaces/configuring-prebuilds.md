@@ -34,11 +34,11 @@ Before you can configure prebuilds for your project the following must be true:
 1. In the "Code & automation" section of the sidebar, click **{% octicon "codespaces" aria-label="The Codespaces icon" %} {% data variables.product.prodname_codespaces %}**.
 1. Under "Prebuild configuration", click **Set up prebuild**.
 
-   ![The 'Set up prebuilds' button](/assets/images/help/codespaces/prebuilds-set-up.png)
+   ![The 'Set up prebuilds' button](/assets/images/2022/02/help/codespaces/prebuilds-set-up.png)
 
 1. Choose the branch for which you want to set up a prebuild. 
 
-   ![The Branch drop-down menu](/assets/images/help/codespaces/prebuilds-choose-branch.png)
+   ![The Branch drop-down menu](/assets/images/2022/02/help/codespaces/prebuilds-choose-branch.png)
 
    {% note %} 
 
@@ -48,7 +48,7 @@ Before you can configure prebuilds for your project the following must be true:
 
 1. Choose the regions in which you want to set up a prebuild. Developers must be located in a region you select to be able to create codespaces from a prebuild. Alternatively, select **All regions**.
 
-   ![The region selection options](/assets/images/help/codespaces/prebuilds-regions.png)
+   ![The region selection options](/assets/images/2022/02/help/codespaces/prebuilds-regions.png)
 
    {% note %}
 

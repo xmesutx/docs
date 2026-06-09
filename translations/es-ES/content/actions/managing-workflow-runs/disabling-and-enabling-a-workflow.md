@@ -35,9 +35,9 @@ También puedes inhabilitar y habilitar un flujo de trabajo utilizando la API de
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. En la barra lateral, da clic en el flujo de trabajo que quieras inhabilitar. ![flujo de trabajo de la selección en las acciones](/assets/images/actions-select-workflow.png)
-1. Da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}. ![menú de kebab de las acciones](/assets/images/help/repository/actions-workflow-menu-kebab.png)
-1. Da clic en **Inhabilitar flujo de trabajo**. ![actions disable workflow](/assets/images/help/repository/actions-disable-workflow.png)El flujo de trabajo inhabilitado se marca con {% octicon "stop" aria-label="The stop icon" %} para indicar su estado. ![lista de acciones del flujo de trabajo inhabilitado](/assets/images/help/repository/actions-find-disabled-workflow.png)
+1. En la barra lateral, da clic en el flujo de trabajo que quieras inhabilitar. ![flujo de trabajo de la selección en las acciones](/assets/images/2021/10/actions-select-workflow.png)
+1. Da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}. ![menú de kebab de las acciones](/assets/images/2021/10/help/repository/actions-workflow-menu-kebab.png)
+1. Da clic en **Inhabilitar flujo de trabajo**. ![actions disable workflow](/assets/images/2021/10/help/repository/actions-disable-workflow.png)El flujo de trabajo inhabilitado se marca con {% octicon "stop" aria-label="The stop icon" %} para indicar su estado. ![lista de acciones del flujo de trabajo inhabilitado](/assets/images/2021/10/help/repository/actions-find-disabled-workflow.png)
 
 {% endwebui %}
 
@@ -61,8 +61,8 @@ Puedes volver a habilitar un flujo de trabajo que se había inhabilitado previam
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. En la barra lateral izquierda, da clic en el flujo de trabajo que quieres habiitar. ![acciones para seleccional el flujo de trabajo inhabilitado](/assets/images/help/repository/actions-select-disabled-workflow.png)
-1. Da clic en **Habilitar flujo de trabajo**. ![acciones para habilitar flujo de trabajo](/assets/images/help/repository/actions-enable-workflow.png)
+1. En la barra lateral izquierda, da clic en el flujo de trabajo que quieres habiitar. ![acciones para seleccional el flujo de trabajo inhabilitado](/assets/images/2021/10/help/repository/actions-select-disabled-workflow.png)
+1. Da clic en **Habilitar flujo de trabajo**. ![acciones para habilitar flujo de trabajo](/assets/images/2021/10/help/repository/actions-enable-workflow.png)
 
 {% endwebui %}
 

@@ -24,8 +24,8 @@ Once you enable GPG verification, it will immediately take effect for all your c
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. [GPG verification] で、GPG 検証の設定を選択します。 ![GPG 検証を管理するラジオボタン](/assets/images/help/settings/codespaces-gpg-verification-radio-buttons.png)
-1. [Selected repositories] を選択した場合、ドロップダウンメニューを選択してから、GPG 検証を有効にするリポジトリをクリックします。 GPG 検証を有効にするすべてのリポジトリについて、同じ手順を繰り返します。 ![[Selected repositories]ドロップダウンメニュー](/assets/images/help/settings/codespaces-gpg-verification-repository-drop-down.png)
+1. [GPG verification] で、GPG 検証の設定を選択します。 ![GPG 検証を管理するラジオボタン](/assets/images/2021/10/help/settings/codespaces-gpg-verification-radio-buttons.png)
+1. [Selected repositories] を選択した場合、ドロップダウンメニューを選択してから、GPG 検証を有効にするリポジトリをクリックします。 GPG 検証を有効にするすべてのリポジトリについて、同じ手順を繰り返します。 ![[Selected repositories]ドロップダウンメニュー](/assets/images/2021/10/help/settings/codespaces-gpg-verification-repository-drop-down.png)
 
 
 {% note %}

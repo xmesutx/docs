@@ -38,13 +38,13 @@ shortTitle: 在 GitHub Marketplace 中发布
 要草拟新发行版并将操作发布到 {% data variables.product.prodname_marketplace %}，请遵循以下说明：
 
 {% data reusables.repositories.navigate-to-repo %}
-1. 当仓库包含操作元数据文件（`action.yml` 或 `action.yaml`），您会看到一个用于将操作发布到 {% data variables.product.prodname_marketplace %} 的横幅。 单击 **Draft a release（草拟发行版）**。 ![将此操作发布到 Markeplace 按钮](/assets/images/help/repository/publish-github-action-to-markeplace-button.png)
-1. 选择**将此操作发布到 {% data variables.product.prodname_marketplace %}**。 如果无法选择**将此操作发布到 {% data variables.product.prodname_marketplace %}** 复选框，则需要先阅读并接受 {% data variables.product.prodname_marketplace %} 协议。 ![选择发布到 Marketplace](/assets/images/help/repository/marketplace_actions_publish.png)
-1. 如果元数据文件中的标签包含任何问题，您将看到一条错误消息。 ![查看通知](/assets/images/help/repository/marketplace_actions_fixerrors.png)
-1. 如果您看到任何屏幕上的建议，请通过更新元数据文件来解决这些问题。 完成后，您将看到一条“Everything looks good!（一切看起来都不错！）”的消息。 ![修复错误](/assets/images/help/repository/marketplace_actions_looksgood.png)
-1. 选择“Primary Category（主要类别）”，然后按需要选择“Another Category（另一个类别）”，这将有助于人们找到您的 {% data variables.product.prodname_marketplace %} 中的操作。 ![选择类别](/assets/images/help/repository/marketplace_actions_categories.png)
-1. 使用版本标记操作，并添加发行版标题。 这有助于人们知道发行版包含哪些变化或特征。 人们将在操作的专门 {% data variables.product.prodname_marketplace %} 页面中看到版本。 ![标记版本](/assets/images/help/repository/marketplace_actions_version.png)
-1. 完成所有其他字段，然后单击 **Publish release（发布发行版）**。 发布需要使用双重身份验证。 更多信息请参阅“[配置双重身份验证](/articles/configuring-two-factor-authentication/)”。 ![发布版本](/assets/images/help/repository/marketplace_actions_publishrelease.png)
+1. 当仓库包含操作元数据文件（`action.yml` 或 `action.yaml`），您会看到一个用于将操作发布到 {% data variables.product.prodname_marketplace %} 的横幅。 单击 **Draft a release（草拟发行版）**。 ![将此操作发布到 Markeplace 按钮](/assets/images/2021/10/help/repository/publish-github-action-to-markeplace-button.png)
+1. 选择**将此操作发布到 {% data variables.product.prodname_marketplace %}**。 如果无法选择**将此操作发布到 {% data variables.product.prodname_marketplace %}** 复选框，则需要先阅读并接受 {% data variables.product.prodname_marketplace %} 协议。 ![选择发布到 Marketplace](/assets/images/2021/10/help/repository/marketplace_actions_publish.png)
+1. 如果元数据文件中的标签包含任何问题，您将看到一条错误消息。 ![查看通知](/assets/images/2021/10/help/repository/marketplace_actions_fixerrors.png)
+1. 如果您看到任何屏幕上的建议，请通过更新元数据文件来解决这些问题。 完成后，您将看到一条“Everything looks good!（一切看起来都不错！）”的消息。 ![修复错误](/assets/images/2021/10/help/repository/marketplace_actions_looksgood.png)
+1. 选择“Primary Category（主要类别）”，然后按需要选择“Another Category（另一个类别）”，这将有助于人们找到您的 {% data variables.product.prodname_marketplace %} 中的操作。 ![选择类别](/assets/images/2021/10/help/repository/marketplace_actions_categories.png)
+1. 使用版本标记操作，并添加发行版标题。 这有助于人们知道发行版包含哪些变化或特征。 人们将在操作的专门 {% data variables.product.prodname_marketplace %} 页面中看到版本。 ![标记版本](/assets/images/2021/10/help/repository/marketplace_actions_version.png)
+1. 完成所有其他字段，然后单击 **Publish release（发布发行版）**。 发布需要使用双重身份验证。 更多信息请参阅“[配置双重身份验证](/articles/configuring-two-factor-authentication/)”。 ![发布版本](/assets/images/2021/10/help/repository/marketplace_actions_publishrelease.png)
 
 ## 从 {% data variables.product.prodname_marketplace %} 删除操作
 
@@ -52,6 +52,6 @@ shortTitle: 在 GitHub Marketplace 中发布
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-3. 在发行版页面上，要编辑的发行版右侧，单击 **Edit（编辑）**。 ![发行版编辑按钮](/assets/images/help/releases/release-edit-btn.png)
-4. 选择**将此操作发布到 {% data variables.product.prodname_marketplace %}**以取消勾选此复选框。 ![发布此操作按钮](/assets/images/help/repository/actions-marketplace-unpublish.png)
-5. 单击页面底部的 **Update release（更新发行版）**。 ![更新发行版按钮](/assets/images/help/repository/actions-marketplace-update-release.png)
+3. 在发行版页面上，要编辑的发行版右侧，单击 **Edit（编辑）**。 ![发行版编辑按钮](/assets/images/2021/10/help/releases/release-edit-btn.png)
+4. 选择**将此操作发布到 {% data variables.product.prodname_marketplace %}**以取消勾选此复选框。 ![发布此操作按钮](/assets/images/2021/10/help/repository/actions-marketplace-unpublish.png)
+5. 单击页面底部的 **Update release（更新发行版）**。 ![更新发行版按钮](/assets/images/2021/10/help/repository/actions-marketplace-update-release.png)

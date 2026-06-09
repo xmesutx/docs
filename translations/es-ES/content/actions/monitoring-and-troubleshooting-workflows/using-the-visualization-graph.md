@@ -19,6 +19,6 @@ shortTitle: Utiliza la gráfica de visualización
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 
-1. La gráfica muestra cda job en el flujo de trabajo. Un icono a la izquierda del nombre del job indica el estado del mismo. Las líneas entre los jobs indican las dependencias. ![Gráfica del flujo de trabajo](/assets/images/help/images/workflow-graph.png)
+1. La gráfica muestra cda job en el flujo de trabajo. Un icono a la izquierda del nombre del job indica el estado del mismo. Las líneas entre los jobs indican las dependencias. ![Gráfica del flujo de trabajo](/assets/images/2021/10/help/images/workflow-graph.png)
 
-2. Da clic en un job para ver la bitácora del mismo.![Gráfica del flujo de trabajo](/assets/images/help/images/workflow-graph-job.png)
+2. Da clic en un job para ver la bitácora del mismo.![Gráfica del flujo de trabajo](/assets/images/2021/10/help/images/workflow-graph-job.png)

@@ -88,16 +88,16 @@ Members of an {% data variables.product.prodname_emu_enterprise %} can only set 
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在“Danger Zone（危险区域）”下的“Change repository visibility（更改仓库可见性）”右侧，单击 **Change visibility（更改可见性）**。 ![更改可见性按钮](/assets/images/help/repository/repo-change-vis.png)
+3. 在“Danger Zone（危险区域）”下的“Change repository visibility（更改仓库可见性）”右侧，单击 **Change visibility（更改可见性）**。 ![更改可见性按钮](/assets/images/2021/10/help/repository/repo-change-vis.png)
 4. 选择可见性。
 {% ifversion fpt or ghec %}
-   ![仓库可见性选项对话框](/assets/images/help/repository/repo-change-select.png){% else %}
-![Dialog of options for repository visibility](/assets/images/enterprise/repos/repo-change-select.png){% endif %}
+   ![仓库可见性选项对话框](/assets/images/2021/10/help/repository/repo-change-select.png){% else %}
+![Dialog of options for repository visibility](/assets/images/2021/10/enterprise/repos/repo-change-select.png){% endif %}
 5. 要验证您是否正在更改正确仓库的可见性，请键入您想要更改其可见性的仓库名称。
 6. 单击 **I understand, change repository visibility（我了解，更改仓库可见性）**。
 {% ifversion fpt or ghec %}
-   ![确认更改仓库可见性按钮](/assets/images/help/repository/repo-change-confirm.png){% else %}
-![Confirm change of repository visibility button](/assets/images/enterprise/repos/repo-change-confirm.png){% endif %}
+   ![确认更改仓库可见性按钮](/assets/images/2021/10/help/repository/repo-change-confirm.png){% else %}
+![Confirm change of repository visibility button](/assets/images/2021/10/enterprise/repos/repo-change-confirm.png){% endif %}
 
 
 ## 延伸阅读

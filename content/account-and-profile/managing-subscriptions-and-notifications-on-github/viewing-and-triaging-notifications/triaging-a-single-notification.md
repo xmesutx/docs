@@ -19,7 +19,7 @@ To save a single notification to review later, to the right of the notification,
 
 Saved notifications are kept indefinitely and can be viewed by clicking **Saved** in the sidebar or with the `is:saved` query. If your saved notification is older than 5 months and becomes unsaved, the notification will disappear from your inbox within a day.
 
-  ![Save triaging option](/assets/images/help/notifications-v2/save-triaging-option.png)
+  ![Save triaging option](/assets/images/2021/10/help/notifications-v2/save-triaging-option.png)
 
 ## Investigating a notification
 
@@ -38,10 +38,10 @@ You can choose how you want to receive future notifications for a specific issue
 
 1. In the right column of the issue or pull request, next to "Notifications", click **Customize**.
 
-  ![Customize option under "Notifications"](/assets/images/help/notifications-v2/customize-notifications-for-specific-thread.png)
+  ![Customize option under "Notifications"](/assets/images/2021/10/help/notifications-v2/customize-notifications-for-specific-thread.png)
 
 2. Select **Custom** and choose when you'd like to receive a notification update for this thread. For example, you can choose to receive an update when the pull request has been merged, closed, or reopened. You will be subscribed again if you participate in the thread, your username is @mentioned, or a team you're a member of is @mentioned.
 
-  ![Options for customizing notifications](/assets/images/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
+  ![Options for customizing notifications](/assets/images/2021/10/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
 
 3. Click **Save**.

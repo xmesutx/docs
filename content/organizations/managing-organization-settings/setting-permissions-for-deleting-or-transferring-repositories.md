@@ -22,5 +22,5 @@ Owners can set permissions for deleting or transferring repositories in an organ
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
 5. Under "Repository deletion and transfer", select or deselect **Allow members to delete or transfer repositories for this organization**.
-![Checkbox to allow members to delete repositories](/assets/images/help/organizations/disallow-members-to-delete-repositories.png)
+![Checkbox to allow members to delete repositories](/assets/images/2021/10/help/organizations/disallow-members-to-delete-repositories.png)
 6. Click **Save**.

@@ -18,5 +18,5 @@ topics:
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-5. Em "Informações básicas", modifique as informações do aplicativo GitHub que você gostaria de alterar. ![Seção de informações básicas para o seu aplicativo GitHub](/assets/images/github-apps/github_apps_basic_information.png)
-6. Clique em **Save changes** (Salvar alterações). ![Botão para salvar alterações para o seu aplicativo GitHub](/assets/images/github-apps/github_apps_save_changes.png)
+5. Em "Informações básicas", modifique as informações do aplicativo GitHub que você gostaria de alterar. ![Seção de informações básicas para o seu aplicativo GitHub](/assets/images/2021/10/github-apps/github_apps_basic_information.png)
+6. Clique em **Save changes** (Salvar alterações). ![Botão para salvar alterações para o seu aplicativo GitHub](/assets/images/2021/10/github-apps/github_apps_save_changes.png)

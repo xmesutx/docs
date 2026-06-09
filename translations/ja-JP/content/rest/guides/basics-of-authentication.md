@@ -80,7 +80,7 @@ end
 
 URLはアプリケーションに要求された[スコープ][oauth scopes]を`scope`クエリパラメータで定義していることにも注目しましょう。 このアプリケーションでは、プライベートのメールアドレスを読み込むため、`user:email`スコープをリクエストしています。
 
-ブラウザで`http://localhost:4567`に移動します。 リンクをクリックすると、{% data variables.product.product_name %}に移動し、以下のようなダイアログが表示されます。 ![GitHubのOAuthプロンプト](/assets/images/oauth_prompt.png)
+ブラウザで`http://localhost:4567`に移動します。 リンクをクリックすると、{% data variables.product.product_name %}に移動し、以下のようなダイアログが表示されます。 ![GitHubのOAuthプロンプト](/assets/images/2021/10/oauth_prompt.png)
 
 あなた自身を信用する場合は、[**Authorize App**]をクリックします。 おっと、 Sinatraが`404`エラーを吐き出しました。 いったい何が起こったのでしょうか。
 

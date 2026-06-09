@@ -39,19 +39,19 @@ The following provisioning features are available for all Okta users that you as
 {% data reusables.saml.okta-ae-applications-menu %}
 1. Click **Browse App Catalog**
 
-  !["Browse App Catalog"](/assets/images/help/saml/okta-ae-browse-app-catalog.png)
+  !["Browse App Catalog"](/assets/images/2021/12/help/saml/okta-ae-browse-app-catalog.png)
 
 1. In the search field, type "GitHub AE", then click **GitHub AE** in the results.
 
-  !["Search result"](/assets/images/help/saml/okta-ae-search.png)
+  !["Search result"](/assets/images/2021/12/help/saml/okta-ae-search.png)
 
 1. Click **Add**.
 
-  !["Add GitHub AE app"](/assets/images/help/saml/okta-ae-add-github-ae.png)
+  !["Add GitHub AE app"](/assets/images/2021/12/help/saml/okta-ae-add-github-ae.png)
 
 1. For "Base URL", type the URL of your enterprise on {% data variables.product.prodname_ghe_managed %}.
 
-  !["Configure Base URL"](/assets/images/help/saml/okta-ae-configure-base-url.png)
+  !["Configure Base URL"](/assets/images/2021/12/help/saml/okta-ae-configure-base-url.png)
 
 1. Click **Done**.
 
@@ -63,11 +63,11 @@ To enable single sign-on (SSO) for {% data variables.product.prodname_ghe_manage
 {% data reusables.saml.okta-ae-configure-app %}
 1. Click **Sign On**.
 
-  ![Sign On tab](/assets/images/help/saml/okta-ae-sign-on-tab.png)
+  ![Sign On tab](/assets/images/2021/12/help/saml/okta-ae-sign-on-tab.png)
 
 1. Click **View Setup Instructions**.
 
-  ![Sign On tab](/assets/images/help/saml/okta-ae-view-setup-instructions.png)
+  ![Sign On tab](/assets/images/2021/12/help/saml/okta-ae-view-setup-instructions.png)
 
 1. Take note of the "Sign on URL", "Issuer", and "Public certificate" details. 
 1. Use the details to enable SAML SSO for your enterprise on {% data variables.product.prodname_ghe_managed %}. For more information, see "[Configuring SAML single sign-on for your enterprise](/admin/authentication/managing-identity-and-access-for-your-enterprise/configuring-saml-single-sign-on-for-your-enterprise)."
@@ -90,7 +90,7 @@ The "GitHub AE" app in Okta uses the {% data variables.product.product_name %} A
 
 1. Select **Enable API integration**.
 
-  ![Enable API integration](/assets/images/help/saml/okta-ae-enable-api-integration.png)
+  ![Enable API integration](/assets/images/2021/12/help/saml/okta-ae-enable-api-integration.png)
 
 1. For "API Token", type the {% data variables.product.prodname_ghe_managed %} personal access token you generated previously.
 
@@ -111,7 +111,7 @@ This procedure demonstrates how to configure the SCIM settings for Okta provisio
 {% data reusables.saml.okta-ae-provisioning-tab %}
 1. Under "Settings", click **To App**.
 
-  !["To App" settings](/assets/images/help/saml/okta-ae-to-app-settings.png)
+  !["To App" settings](/assets/images/2021/12/help/saml/okta-ae-to-app-settings.png)
 
 1. To the right of "Provisioning to App", click **Edit**.
 1. To the right of "Create Users", select **Enable**.
@@ -132,19 +132,19 @@ Before your Okta users can use their credentials to sign in to {% data variables
 
 1. Click **Assignments**.
 
-  ![Assignments tab](/assets/images/help/saml/okta-ae-assignments-tab.png)
+  ![Assignments tab](/assets/images/2021/12/help/saml/okta-ae-assignments-tab.png)
 
 1. Select the Assign drop-down menu and click **Assign to People**.
 
-  !["Assign to People" button](/assets/images/help/saml/okta-ae-assign-to-people.png)
+  !["Assign to People" button](/assets/images/2021/12/help/saml/okta-ae-assign-to-people.png)
 
 1. To the right of the required user account, click **Assign**.
 
-  ![List of users](/assets/images/help/saml/okta-ae-assign-user.png)
+  ![List of users](/assets/images/2021/12/help/saml/okta-ae-assign-user.png)
 
 1. To the right of "Role", click a role for the user, then click **Save and go back**.
 
-  ![Role selection](/assets/images/help/saml/okta-ae-assign-role.png)
+  ![Role selection](/assets/images/2021/12/help/saml/okta-ae-assign-role.png)
 
 1. Click **Done**.
 

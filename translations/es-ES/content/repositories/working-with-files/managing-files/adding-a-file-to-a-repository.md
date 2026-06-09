@@ -32,11 +32,11 @@ Los archivos que agregues a un repositorio mediante un navegador están limitado
 {% endtip %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. Sobre la lista de archivos, da clic en **Cargar archivos** utilizando el menú desplegable de **Agregar archivo**. !["Archivos cargados" en el menú desplegable de "Agregar archivo"](/assets/images/help/repository/upload-files-button.png)
-3. Arrastra y suelta el archivo o la carpeta que te gustaría cargar en tu repositorio en el árbol del archivo. ![Área para arrastrar y soltar](/assets/images/help/repository/upload-files-drag-and-drop.png)
+2. Sobre la lista de archivos, da clic en **Cargar archivos** utilizando el menú desplegable de **Agregar archivo**. !["Archivos cargados" en el menú desplegable de "Agregar archivo"](/assets/images/2021/10/help/repository/upload-files-button.png)
+3. Arrastra y suelta el archivo o la carpeta que te gustaría cargar en tu repositorio en el árbol del archivo. ![Área para arrastrar y soltar](/assets/images/2021/10/help/repository/upload-files-drag-and-drop.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
-6. Haz clic en **Commit changes** (Confirmar cambios). ![Botón Commit changes (Confirmar cambios)](/assets/images/help/repository/commit-changes-button.png)
+6. Haz clic en **Commit changes** (Confirmar cambios). ![Botón Commit changes (Confirmar cambios)](/assets/images/2021/10/help/repository/commit-changes-button.png)
 
 ## Agregar un archivo a un repositorio utilizando la línea de comando
 

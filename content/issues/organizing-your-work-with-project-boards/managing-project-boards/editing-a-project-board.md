@@ -27,7 +27,7 @@ topics:
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.click-edit-sidebar-menu-project-board %} 
 4. Modify the project board name and description as needed, then click **Save project**.
-![Fields with the project board name and description, and Save project button](/assets/images/help/projects/edit-project-board-save-button.png)
+![Fields with the project board name and description, and Save project button](/assets/images/2021/10/help/projects/edit-project-board-save-button.png)
 
 ## Further reading
 

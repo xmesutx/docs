@@ -12,7 +12,7 @@ shortTitle: Configure basic settings
 
 {% data reusables.desktop.mac-select-desktop-menu %}
 3. To view or change your settings, toggle between these panes:
-  ![The Preferences menu navigation](/assets/images/help/desktop/mac-select-accounts-pane.png)
+  ![The Preferences menu navigation](/assets/images/2021/10/help/desktop/mac-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endmac %}
@@ -21,7 +21,7 @@ shortTitle: Configure basic settings
 
 {% data reusables.desktop.windows-choose-options %}
 2. To view or change your settings, toggle between these panes:
-  ![The Options menu navigation](/assets/images/help/desktop/windows-select-accounts-pane.png)
+  ![The Options menu navigation](/assets/images/2021/10/help/desktop/windows-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endwindows %}

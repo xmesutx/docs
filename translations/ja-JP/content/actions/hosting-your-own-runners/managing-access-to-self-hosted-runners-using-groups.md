@@ -66,7 +66,7 @@ Enterprise の管理者が Organization にランナーグループへのアク�
 {% data reusables.actions.settings-sidebar-actions-runners %}
 1. Under {% ifversion ghes > 3.1 or ghae %}"Runners"{% elsif ghes < 3.2 %}"Self-hosted runners"{% endif %}, click **Add new**, and then **New group**.
 
-    ![新しいランナーを追加](/assets/images/help/settings/actions-org-add-runner-group.png)
+    ![新しいランナーを追加](/assets/images/2021/10/help/settings/actions-org-add-runner-group.png)
 1. ランナーグループの名前を入力し、リポジトリアクセスのポリシーを割り当てます。
 
    You can configure a runner group to be accessible to a specific list of repositories, or to all repositories in the organization.{% ifversion ghec or ghes %} By default, only private repositories can access runners in a runner group, but you can override this. This setting can't be overridden if configuring an organization's runner group that was shared by an enterprise.{% endif %}
@@ -83,7 +83,7 @@ Enterprise の管理者が Organization にランナーグループへのアク�
    {% endwarning %}
    {%- endif %}
 
-   ![ランナーグループのオプションを追加](/assets/images/help/settings/actions-org-add-runner-group-options.png)
+   ![ランナーグループのオプションを追加](/assets/images/2021/10/help/settings/actions-org-add-runner-group-options.png)
 1. [**Save group**] をクリックしてグループを作成し、ポリシーを適用します。
 {% endif %}
 
@@ -111,10 +111,10 @@ Enterprise は、セルフホストランナーをグループに追加して、
    {%- endif %}
    {%- ifversion ghec or ghes %}
 
-   ![ランナーグループのオプションを追加](/assets/images/help/settings/actions-enterprise-account-add-runner-group-options.png)
+   ![ランナーグループのオプションを追加](/assets/images/2021/10/help/settings/actions-enterprise-account-add-runner-group-options.png)
    {%- elsif ghae %}
 
-   ![ランナーグループのオプションを追加](/assets/images/help/settings/actions-enterprise-account-add-runner-group-options-ae.png)
+   ![ランナーグループのオプションを追加](/assets/images/2022/03/help/settings/actions-enterprise-account-add-runner-group-options-ae.png)
    {%- endif %}
 1. [**Save group**] をクリックしてグループを作成し、ポリシーを適用します。
 
@@ -168,9 +168,9 @@ If you don't specify a runner group during the registration process, your new se
 2. Select the **Runner group** drop-down.
 3. In "Move runner to group", choose a destination group for the runner.
 {% elsif ghae or ghes < 3.4 %}
-1. In the {% ifversion ghes > 3.1 or ghae %}"Runner groups"{% elsif ghes < 3.2 %}"Self-hosted runners"{% endif %} section of the settings page, locate the current group of the runner you want to move and expand the list of group members. ![ランナーグループのメンバーを表示](/assets/images/help/settings/actions-org-runner-group-members.png)
-2. セルフホストランナーの横にあるチェックボックスを選択し、[**Move to group**] をクリックして、利用可能な移動先を確認します。 ![ランナーグループのメンバーを移動](/assets/images/help/settings/actions-org-runner-group-member-move.png)
-3. 移動先のグループをクリックして、ランナーを移動します。 ![ランナーグループのメンバーを移動](/assets/images/help/settings/actions-org-runner-group-member-move-destination.png)
+1. In the {% ifversion ghes > 3.1 or ghae %}"Runner groups"{% elsif ghes < 3.2 %}"Self-hosted runners"{% endif %} section of the settings page, locate the current group of the runner you want to move and expand the list of group members. ![ランナーグループのメンバーを表示](/assets/images/2021/10/help/settings/actions-org-runner-group-members.png)
+2. セルフホストランナーの横にあるチェックボックスを選択し、[**Move to group**] をクリックして、利用可能な移動先を確認します。 ![ランナーグループのメンバーを移動](/assets/images/2021/10/help/settings/actions-org-runner-group-member-move.png)
+3. 移動先のグループをクリックして、ランナーを移動します。 ![ランナーグループのメンバーを移動](/assets/images/2021/10/help/settings/actions-org-runner-group-member-move-destination.png)
 {% endif %}
 
 ## セルフホストランナーグループを削除する
@@ -183,9 +183,9 @@ If you don't specify a runner group during the registration process, your new se
 2. グループを削除するには、[**Remove group**] をクリックします。
 3. 確認プロンプトを確認し、[**Remove this runner group**] をクリックします。
 {% elsif ghes < 3.2 %}
-1. In the "Self-hosted runners" section of the settings page, locate the group you want to delete, and click the {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} button. ![ランナーグループの設定を表示](/assets/images/help/settings/actions-org-runner-group-kebab.png)
+1. In the "Self-hosted runners" section of the settings page, locate the group you want to delete, and click the {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} button. ![ランナーグループの設定を表示](/assets/images/2021/10/help/settings/actions-org-runner-group-kebab.png)
 
-1. グループを削除するには、[**Remove group**] をクリックします。 ![ランナーグループの設定を表示](/assets/images/help/settings/actions-org-runner-group-remove.png)
+1. グループを削除するには、[**Remove group**] をクリックします。 ![ランナーグループの設定を表示](/assets/images/2021/10/help/settings/actions-org-runner-group-remove.png)
 
 1. 確認プロンプトを確認し、[**Remove this runner group**] をクリックします。
 {% endif %}

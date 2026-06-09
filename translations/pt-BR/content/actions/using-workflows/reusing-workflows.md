@@ -27,7 +27,7 @@ A reutilização dosfluxos de trabalho evita duplicação. Isso torna os fluxos 
 
 O diagrama abaixo mostra três trabalhos de criação à esquerda do diagrama. Depois que cada um desses trabalhos é concluído com sucesso, executa-se uma tarefa dependente denominada "Implantação". Esse trabalho chama um fluxo de trabalho reutilizável que contém três trabalhos: "Treinamento", "Revisão" e "Produção". A tarefa de implantação "Produção" só é executada após a tarefa de "Treinamento" ter sido concluída com sucesso. O uso um fluxo de trabalho reutilizável para executar trabalhos de implantação permite que você execute esses trabalhos para cada compilação sem duplicar o código nos fluxos de trabalho.
 
-![Diagrama de um fluxo de trabalho reutilizável para implantação](/assets/images/help/images/reusable-workflows-ci-cd.png)
+![Diagrama de um fluxo de trabalho reutilizável para implantação](/assets/images/2021/11/help/images/reusable-workflows-ci-cd.png)
 
 Um fluxo de trabalho que usa outro fluxo de trabalho é referido como um fluxo de trabalho "de chamada". O fluxo de trabalho reutilizável é um fluxo de trabalho "chamado". Um fluxo de trabalho de chamada pode usar vários fluxos de trabalho chamados. Cada fluxo de trabalho chamado é referenciado em uma única linha. O resultado é que o arquivo de fluxo de trabalho de chamadas pode conter apenas algumas linhas de YAML mas pode executar um grande número de tarefas quando for executado. Quando um fluxo de trabalho é reutilizado, todo o fluxo de trabalho chamado é usado, como se fosse parte do fluxo de trabalho de chamada.
 

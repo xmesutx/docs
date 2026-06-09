@@ -19,7 +19,7 @@ Repository administrators and project maintainers can delete a discussion. For m
 
 {% data reusables.discussions.github-recognizes-members %} These members appear in a list of the most helpful contributors to the project's discussions. As your project grows, you can grant higher access permissions to active members of your community. For more information, see "[Granting higher permissions to top contributors](/discussions/guides/granting-higher-permissions-to-top-contributors)"
 
-![Most helpful contributors to discussions for a project](/assets/images/help/discussions/most-helpful.png)
+![Most helpful contributors to discussions for a project](/assets/images/2021/10/help/discussions/most-helpful.png)
 
 For more information about participation in discussions, see "[Participating in a discussion](/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)."
 
@@ -38,9 +38,9 @@ You can search for discussions and filter the list of discussions in a repositor
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 1. In the **Search all discussions** field, type a search query. Optionally, to the right of the search field, click a button to further filter the results.
-  ![Search bar and buttons for filtering discussions](/assets/images/help/discussions/search-and-filter-controls.png)
+  ![Search bar and buttons for filtering discussions](/assets/images/2021/10/help/discussions/search-and-filter-controls.png)
 1. In the list of discussions, click the discussion you want to view.
-  ![Discussion search results](/assets/images/help/discussions/search-result.png)
+  ![Discussion search results](/assets/images/2021/10/help/discussions/search-result.png)
 
 ## Converting an issue to a discussion
 

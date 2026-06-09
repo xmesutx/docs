@@ -17,7 +17,7 @@ shortTitle: 更改访问权限
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在 Features（功能）下，取消选中 **Restrict edits to collaborators only（仅限于协作者编辑）**。 ![Wiki 编辑限制](/assets/images/help/wiki/wiki_restrict_editing.png)
+3. 在 Features（功能）下，取消选中 **Restrict edits to collaborators only（仅限于协作者编辑）**。 ![Wiki 编辑限制](/assets/images/2021/10/help/wiki/wiki_restrict_editing.png)
 
 ## 延伸阅读
 

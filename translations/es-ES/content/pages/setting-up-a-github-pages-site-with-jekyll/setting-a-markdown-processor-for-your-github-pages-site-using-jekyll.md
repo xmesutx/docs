@@ -26,7 +26,7 @@ Puedes utilizar el Lenguaje de Marcado Enriquecido de {% data variables.product.
 {% data reusables.pages.navigate-site-repo %}
 2. En tu repositorio, navega hasta el archivo *_config.yml*.
 {% data reusables.repositories.edit-file %}
-4. Encuentra la línea que comienza con `markdown:` y cambia el valor a `kramdown` o `GFM`. ![Configuración Markdown en config.yml](/assets/images/help/pages/config-markdown-value.png)
+4. Encuentra la línea que comienza con `markdown:` y cambia el valor a `kramdown` o `GFM`. ![Configuración Markdown en config.yml](/assets/images/2021/10/help/pages/config-markdown-value.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}

@@ -32,7 +32,7 @@ shortTitle: Ownership continuity
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
-3. [Successor settings] で後継者を招待し、ユーザ名、フルネーム、メールアドレスを入力して、名前が必要されたらそれをクリックします。 ![後継者招待の検索フィールド](/assets/images/help/settings/settings-invite-successor-search-field.png)
+3. [Successor settings] で後継者を招待し、ユーザ名、フルネーム、メールアドレスを入力して、名前が必要されたらそれをクリックします。 ![後継者招待の検索フィールド](/assets/images/2021/10/help/settings/settings-invite-successor-search-field.png)
 4. [**Add successor**] をクリックします。
 {% data reusables.user-settings.sudo-mode-popup %}
-5. 招待したユーザーは、後継者になることに合意するまで "Pending" としてリストされます。 ![後継者招待が Pending](/assets/images/help/settings/settings-pending-successor.png)
+5. 招待したユーザーは、後継者になることに合意するまで "Pending" としてリストされます。 ![後継者招待が Pending](/assets/images/2021/10/help/settings/settings-pending-successor.png)

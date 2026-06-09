@@ -36,13 +36,13 @@ Cuando habilitas el reenvío de bitácoras, debes cargar un certificado de CA pa
 {% elsif ghae %}
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
-1. Debajo de {% octicon "gear" aria-label="The Settings gear" %} **Configuración**, da clic en **Reenvío de bitácoras**. ![Pestaña de reenvío de bitácoras](/assets/images/enterprise/business-accounts/log-forwarding-tab.png)
-1. Debajo de "Reenvío de bitácoras", selecciona **Habilitar el reenvío de bitácoras**. ![Casilla de verificación para habilitar el reenvío de bitácoras](/assets/images/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
-1. Debajo de "Dirección del servidor", ingresa la dirección del servidor al cual quieras reenviar las bitácoras. ![Campo de dirección del servidor](/assets/images/enterprise/business-accounts/server-address-field.png)
-1. Utiliza el menú desplegable de "Protocolo", y selecciona un protocolo. ![Menú desplegable del protocolo](/assets/images/enterprise/business-accounts/protocol-drop-down-menu.png)
-1. Opcionalmente, para habilitar la comunicación cifrada con TLS entre las terminales de syslog, selecciona **Habilitar TLS**. ![Casilla de verificación para habilitar TLS](/assets/images/enterprise/business-accounts/enable-tls-checkbox.png)
-1. Debajo de "Certificado público", pega tu certificado x509. ![Caja de texto para el certificado público](/assets/images/enterprise/business-accounts/public-certificate-text-box.png)
-1. Haz clic en **Save ** (guardar). ![Botón de guardar para el reenvío de bitácoras](/assets/images/enterprise/business-accounts/save-button-log-forwarding.png)
+1. Debajo de {% octicon "gear" aria-label="The Settings gear" %} **Configuración**, da clic en **Reenvío de bitácoras**. ![Pestaña de reenvío de bitácoras](/assets/images/2021/10/enterprise/business-accounts/log-forwarding-tab.png)
+1. Debajo de "Reenvío de bitácoras", selecciona **Habilitar el reenvío de bitácoras**. ![Casilla de verificación para habilitar el reenvío de bitácoras](/assets/images/2021/10/enterprise/business-accounts/enable-log-forwarding-checkbox.png)
+1. Debajo de "Dirección del servidor", ingresa la dirección del servidor al cual quieras reenviar las bitácoras. ![Campo de dirección del servidor](/assets/images/2021/10/enterprise/business-accounts/server-address-field.png)
+1. Utiliza el menú desplegable de "Protocolo", y selecciona un protocolo. ![Menú desplegable del protocolo](/assets/images/2021/10/enterprise/business-accounts/protocol-drop-down-menu.png)
+1. Opcionalmente, para habilitar la comunicación cifrada con TLS entre las terminales de syslog, selecciona **Habilitar TLS**. ![Casilla de verificación para habilitar TLS](/assets/images/2021/10/enterprise/business-accounts/enable-tls-checkbox.png)
+1. Debajo de "Certificado público", pega tu certificado x509. ![Caja de texto para el certificado público](/assets/images/2021/10/enterprise/business-accounts/public-certificate-text-box.png)
+1. Haz clic en **Save ** (guardar). ![Botón de guardar para el reenvío de bitácoras](/assets/images/2021/10/enterprise/business-accounts/save-button-log-forwarding.png)
 {% endif %}
 
 {% ifversion ghes %}

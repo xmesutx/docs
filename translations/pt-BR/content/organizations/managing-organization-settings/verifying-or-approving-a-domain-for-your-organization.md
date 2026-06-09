@@ -61,7 +61,7 @@ Para verificar um domínio, você deve ter acesso para modificar registros de do
    ```
 1. Depois de confirmar que o seu registro TXT foi adicionado ao seu DNS, siga os passos um a três acima para acessar os domínios aprovados e verificados da sua organização.
 {% data reusables.organizations.continue-verifying-domain %}
-11. Depois que o selo "Verified" (Verificado) estiver visível na página de perfil da sua organização, a entrada TXT poderá ser excluída do registro DNS no serviço de hospedagem de domínio. ![Selo Verified (Verificado)](/assets/images/help/organizations/verified-badge.png)
+11. Depois que o selo "Verified" (Verificado) estiver visível na página de perfil da sua organização, a entrada TXT poderá ser excluída do registro DNS no serviço de hospedagem de domínio. ![Selo Verified (Verificado)](/assets/images/2021/10/help/organizations/verified-badge.png)
 
 ## Aprovando um domínio para a sua organização
 
@@ -84,4 +84,4 @@ Para verificar um domínio, você deve ter acesso para modificar registros de do
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.verified-domains %}
-1. À direita do domínio a ser removido, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e, em seguida, clique em **Excluir**. !["Excluir" para um domínio](/assets/images/help/organizations/domains-delete.png)
+1. À direita do domínio a ser removido, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} e, em seguida, clique em **Excluir**. !["Excluir" para um domínio](/assets/images/2021/10/help/organizations/domains-delete.png)

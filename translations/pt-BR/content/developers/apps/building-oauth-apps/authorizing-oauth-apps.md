@@ -191,7 +191,7 @@ Accept: application/xml
 
 O seu dispositivo mostrará o código de verificação do usuário e solicitará que o usuário insira o código em {% data variables.product.device_authorization_url %}.
 
-  ![Campo para digitar o código de verificação do usuário exibido no seu dispositivo](/assets/images/github-apps/device_authorization_page_for_user_code.png)
+  ![Campo para digitar o código de verificação do usuário exibido no seu dispositivo](/assets/images/2021/10/github-apps/device_authorization_page_for_user_code.png)
 
 ### Passo 3: O aplicativo solicita que o GitHub verifique se o usuário autorizou o dispositivo
 

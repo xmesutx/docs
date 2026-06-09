@@ -60,7 +60,7 @@ Puedes ver y encontrar un paquete que se ubique en los repositorios de una organ
 Puedes encontrar y ver cualquier paquete que hayas publicado en cualquier organización y repositorio.
 
 {% data reusables.profile.access_profile %}
-2. En la zona de navegación principal, sobre la página de perfil, da clic en **Paquetes**. ![Pestaña Project (Proyecto)](/assets/images/help/package-registry/user-packages-tab.png)
+2. En la zona de navegación principal, sobre la página de perfil, da clic en **Paquetes**. ![Pestaña Project (Proyecto)](/assets/images/2021/10/help/package-registry/user-packages-tab.png)
 {% data reusables.package_registry.navigate-to-packages %}
 
 ## Leer más

@@ -17,8 +17,8 @@ Cada confirmación muestra:
  - El hash SHA-1 de la confirmación (el ID exclusivo)
 
 {% data reusables.desktop.history-tab %}
-2. En la pestaña **History** (Historial), haz clic en la confirmación que deseas revisar. ![Una confirmación en la pestaña History (Historial)](/assets/images/help/desktop/branch-history-commit.png)
-3. Si existen múltiples archivos en la confirmación, haz clic en un archivo individual para ver los cambios que se realizan a ese archivo en esa confirmación. ![Un archivo en la confirmación](/assets/images/help/desktop/branch-history-file.png)
+2. En la pestaña **History** (Historial), haz clic en la confirmación que deseas revisar. ![Una confirmación en la pestaña History (Historial)](/assets/images/2021/10/help/desktop/branch-history-commit.png)
+3. Si existen múltiples archivos en la confirmación, haz clic en un archivo individual para ver los cambios que se realizan a ese archivo en esa confirmación. ![Un archivo en la confirmación](/assets/images/2021/10/help/desktop/branch-history-file.png)
 
 ## Leer más
 

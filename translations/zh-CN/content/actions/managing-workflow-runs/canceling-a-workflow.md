@@ -18,8 +18,8 @@ versions:
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
-1. 从工作流程运行列表中，单击您要取消的`已排队`或`进行中`运行的名称。 ![工作流程运行的名称](/assets/images/help/repository/in-progress-run.png)
-1. 在工作流程右上角单击 **Cancel workflow（取消工作流程）**。 ![取消检查套件按钮](/assets/images/help/repository/cancel-check-suite-updated.png)
+1. 从工作流程运行列表中，单击您要取消的`已排队`或`进行中`运行的名称。 ![工作流程运行的名称](/assets/images/2021/10/help/repository/in-progress-run.png)
+1. 在工作流程右上角单击 **Cancel workflow（取消工作流程）**。 ![取消检查套件按钮](/assets/images/2021/10/help/repository/cancel-check-suite-updated.png)
 
 ## {% data variables.product.prodname_dotcom %} 取消工作流程运行所执行的步骤
 

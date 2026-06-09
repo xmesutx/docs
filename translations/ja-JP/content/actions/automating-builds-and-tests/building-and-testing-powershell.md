@@ -74,7 +74,7 @@ jobs:
 * `Should -Be $true` - Pesterを使って期待される結果を定義します。 結果が期待どおりではなかった場合、{% data variables.product.prodname_actions %}はこれを失敗したテストとしてフラグを立てます。 例:
 
 
-  ![失敗したPesterテスト](/assets/images/help/repository/actions-failed-pester-test-updated.png)
+  ![失敗したPesterテスト](/assets/images/2021/10/help/repository/actions-failed-pester-test-updated.png)
 
 
 * `Invoke-Pester Unit.Tests.ps1 -Passthru` - Pesterを使って`Unit.Tests.ps1`というファイルに定義されたテストを実行します。 たとえば上記の同じテストを実行するには、`Unit.Tests.ps1`には以下を含めます。

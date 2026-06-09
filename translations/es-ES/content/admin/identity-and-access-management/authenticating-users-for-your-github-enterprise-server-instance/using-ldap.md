@@ -58,8 +58,8 @@ Cuando configuras el acceso de LDAP para los usuarios a través de {% data varia
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-3. En "Authentication" (Autenticación), selecciona **LDAP**. ![Seleccionar LDAP](/assets/images/enterprise/management-console/ldap-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Seleccionar la casilla de verificación autenticación integrada LDAP](/assets/images/enterprise/management-console/ldap-built-in-authentication.png)
+3. En "Authentication" (Autenticación), selecciona **LDAP**. ![Seleccionar LDAP](/assets/images/2021/10/enterprise/management-console/ldap-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![Seleccionar la casilla de verificación autenticación integrada LDAP](/assets/images/2021/10/enterprise/management-console/ldap-built-in-authentication.png)
 5. Agrega tus parámetros de configuración.
 
 ## Atributos de LDAP
@@ -88,7 +88,7 @@ Usa estos atributos para terminar de configurar LDAP para {% data variables.prod
 
 Selecciona **Disable username and password authentication for Git operations** (Desactivar la autenticación de nombre de usuario y contraseña para las operaciones de Git) en los parámetros de tu LDAP para implementar el uso de los tokens de acceso personal o las claves SSH para el acceso a Git, que pueden ayudarte a prevenir que tu servidor se sobrecargue de solicitudes de autenticación LDAP. Recomendamos esta configuración, ya que un servidor LDAP de respuesta lenta, en especial combinado con una gran cantidad de solicitudes debido al sondeo, suele ser una causa de problemas e interrupciones.
 
-![Desactivar la casilla de verificación autenticación de contraseña LDAP](/assets/images/enterprise/management-console/ldap-disable-password-auth-for-git.png)
+![Desactivar la casilla de verificación autenticación de contraseña LDAP](/assets/images/2021/10/enterprise/management-console/ldap-disable-password-auth-for-git.png)
 
 Cuando se selecciona esta opción, si un usuario intenta usar una contraseña para las operaciones de Git a través de la línea de comando, recibirá un mensaje de error que dice: `La autenticación de contraseña no está permitida para las operaciones de Git. Debes usar un token de acceso personal.`
 
@@ -96,7 +96,7 @@ Cuando se selecciona esta opción, si un usuario intenta usar una contraseña pa
 
 Selecciona **Enable LDAP certificate verification** (Activar verificación de certificado LDAP) en tus parámetros LDAP para validar el certificado del servidor LDAP que usas con TLS.
 
-![Casilla de verificación de certificado LDAP](/assets/images/enterprise/management-console/ldap-enable-certificate-verification.png)
+![Casilla de verificación de certificado LDAP](/assets/images/2021/10/enterprise/management-console/ldap-enable-certificate-verification.png)
 
 Cuando se selecciona esta opción, el certificado se valida para garantizar que:
 - Si el certificado contiene al menos un nombre alternativo del firmante (SAN), uno de los SAN coincida con el nombre del host de LDAP. De lo contrario, que el nombre común (CN) coincida con el nombre del host de LDAP.
@@ -115,7 +115,7 @@ La sincronización LDAP te permite sincronizar usuarios y miembros del equipo de
 
 Para activar la sincronización LDAP, en tus parámetros LDAP, selecciona **Synchronize Emails** (Sincronizar correos electrónicos), **Synchronize SSH Keys** (Sincronizar claves SSH) o **Synchronize GPG Keys** (Sincronizar claves GPG).
 
-![Casilla de verificación de Sincronización](/assets/images/enterprise/management-console/ldap-synchronize.png)
+![Casilla de verificación de Sincronización](/assets/images/2021/10/enterprise/management-console/ldap-synchronize.png)
 
 Una vez que actives la sincronización LDAP, se ejecutará un trabajo de sincronización en el intervalo de tiempo especificado para realizar las siguientes operaciones en cada cuenta de usuario:
 
@@ -177,8 +177,8 @@ Puedes ver la lista completa de usuarios LDAP que tienen acceso a tu instancia y
 
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. En la barra lateral izquierda, haz clic en **LDAP users** (Usuarios LDAP). ![Pestaña LDAP users (Usuarios LDAP)](/assets/images/enterprise/site-admin-settings/ldap-users-tab.png)
-4. Para buscar un usuario, escribe un nombre de usuario completo o parcial y haz clic en **Search** (Buscar). Se mostrarán los usuarios existentes en los resultados de búsqueda. Si un usuario no existe, haz clic en **Create** (Crear) para aprovisionar la nueva cuenta de usuario. ![Búsqueda LDAP](/assets/images/enterprise/site-admin-settings/ldap-users-search.jpg)
+3. En la barra lateral izquierda, haz clic en **LDAP users** (Usuarios LDAP). ![Pestaña LDAP users (Usuarios LDAP)](/assets/images/2021/10/enterprise/site-admin-settings/ldap-users-tab.png)
+4. Para buscar un usuario, escribe un nombre de usuario completo o parcial y haz clic en **Search** (Buscar). Se mostrarán los usuarios existentes en los resultados de búsqueda. Si un usuario no existe, haz clic en **Create** (Crear) para aprovisionar la nueva cuenta de usuario. ![Búsqueda LDAP](/assets/images/2022/02/enterprise/site-admin-settings/ldap-users-search.jpg)
 
 ## Actualizar cuentas LDAP
 
@@ -196,7 +196,7 @@ A menos que [la sincronización LDAP esté activada](#enabling-ldap-sync), las m
 {% data reusables.enterprise_site_admin_settings.click-user %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-5. En "LDAP", haz clic en **Sync now** (Sincronizar ahora) para actualizar de forma manual la cuenta con los datos de tu servidor LDAP. ![Botón LDAP sync now (Sincronizar LDAP ahora)](/assets/images/enterprise/site-admin-settings/ldap-sync-now-button.png)
+5. En "LDAP", haz clic en **Sync now** (Sincronizar ahora) para actualizar de forma manual la cuenta con los datos de tu servidor LDAP. ![Botón LDAP sync now (Sincronizar LDAP ahora)](/assets/images/2021/10/enterprise/site-admin-settings/ldap-sync-now-button.png)
 
 También puedes [utilizar la API para activar una sincronización manual](/enterprise/{{ currentVersion }}/user/rest/reference/enterprise-admin#ldap).
 

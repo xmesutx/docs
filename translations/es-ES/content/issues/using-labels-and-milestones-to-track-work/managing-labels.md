@@ -77,7 +77,7 @@ Cualquiera con acceso de escritura en un repositorio puede crear una etiqueta.
 Cualquiera con acceso de clasificación en un repositorio puede aplicar y descartar etiquetas.
 
 1. Navega a la {% ifversion fpt or ghec %}propuesta, solicitud de cambios o debate{% else %}propuesta o solicitud de cambios{% endif %}.
-1. En la barra lateral derecha, a la derecha de "Etiquetas", haz clic en {% octicon "gear" aria-label="The gear icon" %} y luego en la etiqueta. ![Menú desplegable de "Labels"](/assets/images/help/issues/labels-drop-down.png)
+1. En la barra lateral derecha, a la derecha de "Etiquetas", haz clic en {% octicon "gear" aria-label="The gear icon" %} y luego en la etiqueta. ![Menú desplegable de "Labels"](/assets/images/2021/10/help/issues/labels-drop-down.png)
 
 ## Editar una etiqueta
 

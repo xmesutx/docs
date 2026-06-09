@@ -32,11 +32,11 @@ Você deve efetuar a autenticação na sua conta corporativa usando SAML SSO e o
 ## Atribuindo o seu grupo Okta ao aplicativo "GitHub AE"
 
 1. No painel do Okta, abra as configurações do seu grupo.
-1. Clique **Gerenciar aplicativos**. ![Adicionar grupo ao aplicativo](/assets/images/help/saml/okta-ae-group-add-app.png)
+1. Clique **Gerenciar aplicativos**. ![Adicionar grupo ao aplicativo](/assets/images/2021/12/help/saml/okta-ae-group-add-app.png)
 
 1. À direita do "GitHub AE", clique em **Atribuir**.
 
-  ![Atribuir aplicativo](/assets/images/help/saml/okta-ae-assign-group-to-app.png)
+  ![Atribuir aplicativo](/assets/images/2021/12/help/saml/okta-ae-assign-group-to-app.png)
 
 1. Clique em **Cpncluído**.
 
@@ -49,15 +49,15 @@ Ao fazer envio por push de um grupo do Okta e mapear o grupo com uma equipe, tod
 
 1. Clique **Envio por push de grupos**.
 
-  ![Aba de Grupos Push](/assets/images/help/saml/okta-ae-push-groups-tab.png)
+  ![Aba de Grupos Push](/assets/images/2021/12/help/saml/okta-ae-push-groups-tab.png)
 
 1. Selecione o menu suspenso de grupos de push e clique em **Encontrar grupos por nome**.
 
-  ![Adicionar botão do grupo](/assets/images/help/saml/okta-ae-push-groups-add.png)
+  ![Adicionar botão do grupo](/assets/images/2021/12/help/saml/okta-ae-push-groups-add.png)
 
 1. Digite o nome do grupo para faer envio por push para {% data variables.product.prodname_ghe_managed %}e, em seguida, clique em **Salvar**.
 
-  ![Adicionar nome do grupo](/assets/images/help/saml/okta-ae-push-groups-by-name.png)
+  ![Adicionar nome do grupo](/assets/images/2021/12/help/saml/okta-ae-push-groups-by-name.png)
 
 ## Mapeando uma equipe para o grupo do Okta
 
@@ -67,26 +67,26 @@ Você pode mapear uma equipe na sua empresa com um grupo do Okta que você envio
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
-6. Em "Grupo de Provedores de identidade", selecione o menu suspenso e clique em um grupo de provedores de identidade. ![Menu suspenso para escolher grupo de provedores de identidade](/assets/images/enterprise/github-ae/teams/choose-an-idp-group.png)
+6. Em "Grupo de Provedores de identidade", selecione o menu suspenso e clique em um grupo de provedores de identidade. ![Menu suspenso para escolher grupo de provedores de identidade](/assets/images/2021/10/enterprise/github-ae/teams/choose-an-idp-group.png)
 7. Clique em **Save changes** (Salvar alterações).
 
 ## Verificando o status das suas equipes mapeadas
 
 Os proprietários de empresas podem usar o painel de administração do site para verificar como os grupos do Okta são mapeados com as equipes em {% data variables.product.prodname_ghe_managed %}.
 
-1. Para acessar o painel, clique em {% octicon "rocket" aria-label="The rocket ship" %} no canto superior direito de qualquer página. ![Ícone de foguete para acessar as configurações de administrador do site](/assets/images/enterprise/site-admin-settings/access-new-settings.png)
+1. Para acessar o painel, clique em {% octicon "rocket" aria-label="The rocket ship" %} no canto superior direito de qualquer página. ![Ícone de foguete para acessar as configurações de administrador do site](/assets/images/2021/10/enterprise/site-admin-settings/access-new-settings.png)
 
 1. No painel esquerdo, clique em **Grupos externos**.
 
-  ![Adicionar nome do grupo](/assets/images/help/saml/okta-ae-site-admin-external-groups.png)
+  ![Adicionar nome do grupo](/assets/images/2021/12/help/saml/okta-ae-site-admin-external-groups.png)
 
 1. Para visualizar mais informações sobre um grupo, na lista de grupos externos, clique em um grupo.
 
-  ![Lista de grupos externos](/assets/images/help/saml/okta-ae-site-admin-list-groups.png)
+  ![Lista de grupos externos](/assets/images/2021/12/help/saml/okta-ae-site-admin-list-groups.png)
 
 1. Os detalhes do grupo incluem o nome do grupo do Okta, uma lista dos usuários do Okta que são integrantes do grupo, e a equipe correspondente mapeada em {% data variables.product.prodname_ghe_managed %}.
 
-  ![Lista de grupos externos](/assets/images/help/saml/okta-ae-site-admin-group-details.png)
+  ![Lista de grupos externos](/assets/images/2021/12/help/saml/okta-ae-site-admin-group-details.png)
 
 ## Visualizando eventos de log de auditoria para grupos mapeados
 

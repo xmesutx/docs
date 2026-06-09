@@ -38,15 +38,15 @@ shortTitle: 个性化
 ### 设置头像
 
 {% data reusables.user-settings.access_settings %}
-2. 在 **Profile Picture（头像）**下，单击 {% octicon "pencil" aria-label="The edit icon" %} **Edit（编辑）**。 ![编辑头像](/assets/images/help/profile/edit-profile-photo.png)
-3. 单击 **Upload a photo...（上传图片...）**。 ![更新头像](/assets/images/help/profile/edit-profile-picture-options.png)
-3. 裁剪图片。 完成后，单击 **Set new profile picture（设置新头像）**。 ![裁剪上传的照片](/assets/images/help/profile/avatar_crop_and_save.png)
+2. 在 **Profile Picture（头像）**下，单击 {% octicon "pencil" aria-label="The edit icon" %} **Edit（编辑）**。 ![编辑头像](/assets/images/2021/10/help/profile/edit-profile-photo.png)
+3. 单击 **Upload a photo...（上传图片...）**。 ![更新头像](/assets/images/2021/10/help/profile/edit-profile-picture-options.png)
+3. 裁剪图片。 完成后，单击 **Set new profile picture（设置新头像）**。 ![裁剪上传的照片](/assets/images/2021/10/help/profile/avatar_crop_and_save.png)
 
 ### 将头像重置为默认肖像
 
 {% data reusables.user-settings.access_settings %}
-2. 在 **Profile Picture（头像）**下，单击 {% octicon "pencil" aria-label="The edit icon" %} **Edit（编辑）**。 ![编辑头像](/assets/images/help/profile/edit-profile-photo.png)
-3. 要还原为默认肖像，请单击 **Remove photo（删除照片）**。 如果您的电子邮件地址与[个人全球统一标识](https://en.gravatar.com/)关联，则无法还原到默认肖像。 此时请单击 **Revert to Gravatar（还原到个人全球统一标识）**。 ![更新头像](/assets/images/help/profile/edit-profile-picture-options.png)
+2. 在 **Profile Picture（头像）**下，单击 {% octicon "pencil" aria-label="The edit icon" %} **Edit（编辑）**。 ![编辑头像](/assets/images/2021/10/help/profile/edit-profile-photo.png)
+3. 要还原为默认肖像，请单击 **Remove photo（删除照片）**。 如果您的电子邮件地址与[个人全球统一标识](https://en.gravatar.com/)关联，则无法还原到默认肖像。 此时请单击 **Revert to Gravatar（还原到个人全球统一标识）**。 ![更新头像](/assets/images/2021/10/help/profile/edit-profile-picture-options.png)
 
 ## 更改个人资料名称
 
@@ -61,7 +61,7 @@ shortTitle: 个性化
 {% endif %}
 
 {% data reusables.user-settings.access_settings %}
-2. 在“Name（名称）”下，键入要显示在个人资料中的名称。 ![个人资料设置中的名称字段](/assets/images/help/profile/name-field.png)
+2. 在“Name（名称）”下，键入要显示在个人资料中的名称。 ![个人资料设置中的名称字段](/assets/images/2021/10/help/profile/name-field.png)
 
 ## 在个人资料中添加个人简历
 
@@ -80,7 +80,7 @@ shortTitle: 个性化
 {% endnote %}
 
 {% data reusables.user-settings.access_settings %}
-2. 在 **Bio（个人简历）**下，添加您要显示在个人资料中的内容。 个人资料字段限于 160 个字符。 ![更新个人资料中的个人简历](/assets/images/help/profile/bio-field.png)
+2. 在 **Bio（个人简历）**下，添加您要显示在个人资料中的内容。 个人资料字段限于 160 个字符。 ![更新个人资料中的个人简历](/assets/images/2021/10/help/profile/bio-field.png)
 
   {% tip %}
 
@@ -88,7 +88,7 @@ shortTitle: 个性化
 
   {% endtip %}
 
-3. 单击 **Update profile（更新个人资料）**。 ![更新个人资料按钮](/assets/images/help/profile/update-profile-button.png)
+3. 单击 **Update profile（更新个人资料）**。 ![更新个人资料按钮](/assets/images/2021/10/help/profile/update-profile-button.png)
 
 ## 设置状态
 
@@ -100,19 +100,19 @@ shortTitle: 个性化
 
 在设置状态时，您也可以让人们知道您在 {% data variables.product.product_name %} 上的可用性有限。
 
-![@提及的用户名在用户名旁边显示“忙碌”注释](/assets/images/help/profile/username-with-limited-availability-text.png)
+![@提及的用户名在用户名旁边显示“忙碌”注释](/assets/images/2021/10/help/profile/username-with-limited-availability-text.png)
 
-![申请的审查者在用户名旁边显示“忙碌”注释](/assets/images/help/profile/request-a-review-limited-availability-status.png)
+![申请的审查者在用户名旁边显示“忙碌”注释](/assets/images/2021/10/help/profile/request-a-review-limited-availability-status.png)
 
 如果选择“Busy（忙碌）”选项，当人们 @提及您的用户名、向您分配议题或拉取请求或者申请您进行拉取请求审查时，您的用户名旁边将会出现一条表示您在忙碌的注释。 您还将被排除在分配给您所属的任何团队的拉取请求的自动审核任务之外。 更多信息请参阅“[管理团队的代码审查设置](/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team)”。
 
-1. 在 {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom_the_website %}{% else %}{% data variables.product.product_name %}{% endif %}的右上角，单击您的头像，然后单击 **Set your status（设置状态）**，或者，如果您已经设置了状态，请单击您的当前状态。 ![个人资料中用于设置状态的按钮](/assets/images/help/profile/set-status-on-profile.png)
-2. 要添加自定义文本到状态，请单击文本字段，然后输入状态消息。 ![用于输入状态消息的字段](/assets/images/help/profile/type-a-status-message.png)
-3. （可选）要设置表情符号状态，请单击笑脸图标并从列表中选择表情符号。 ![用于选择表情符号状态的按钮](/assets/images/help/profile/select-emoji-status.png)
-4. （可选）如果想表示您的可用性受限，请选择“Busy（忙碌）”。 ![在编辑状态选项中选择的忙碌选项](/assets/images/help/profile/limited-availability-status.png)
-5. 使用 **Clear status（清除状态）**下拉菜单，选择状态的到期时间。 如果不选择状态到期时间，您的状态将保持到您清除或编辑状态为止。 ![用于选择状态到期时间的下拉菜单](/assets/images/help/profile/status-expiration.png)
-6. 使用下拉菜单，单击您要向其显示状态的组织。 如果不选择组织，您的状态将是公共的。 ![用于选择您的状态可见者的下拉菜单](/assets/images/help/profile/status-visibility.png)
-7. 单击 **Set status（设置状态）**。 ![用于设置状态的按钮](/assets/images/help/profile/set-status-button.png)
+1. 在 {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom_the_website %}{% else %}{% data variables.product.product_name %}{% endif %}的右上角，单击您的头像，然后单击 **Set your status（设置状态）**，或者，如果您已经设置了状态，请单击您的当前状态。 ![个人资料中用于设置状态的按钮](/assets/images/2021/10/help/profile/set-status-on-profile.png)
+2. 要添加自定义文本到状态，请单击文本字段，然后输入状态消息。 ![用于输入状态消息的字段](/assets/images/2021/10/help/profile/type-a-status-message.png)
+3. （可选）要设置表情符号状态，请单击笑脸图标并从列表中选择表情符号。 ![用于选择表情符号状态的按钮](/assets/images/2021/10/help/profile/select-emoji-status.png)
+4. （可选）如果想表示您的可用性受限，请选择“Busy（忙碌）”。 ![在编辑状态选项中选择的忙碌选项](/assets/images/2021/10/help/profile/limited-availability-status.png)
+5. 使用 **Clear status（清除状态）**下拉菜单，选择状态的到期时间。 如果不选择状态到期时间，您的状态将保持到您清除或编辑状态为止。 ![用于选择状态到期时间的下拉菜单](/assets/images/2021/10/help/profile/status-expiration.png)
+6. 使用下拉菜单，单击您要向其显示状态的组织。 如果不选择组织，您的状态将是公共的。 ![用于选择您的状态可见者的下拉菜单](/assets/images/2021/10/help/profile/status-visibility.png)
+7. 单击 **Set status（设置状态）**。 ![用于设置状态的按钮](/assets/images/2021/10/help/profile/set-status-button.png)
 
 {% ifversion fpt or ghec %}
 ## 在个人资料中显示徽章
@@ -121,9 +121,9 @@ shortTitle: 个性化
 
 | 徽章                                                                                                            | 计划                                                             | 描述                                                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Mars 2020 Helicopter 贡献者徽章图标](/assets/images/help/profile/badge-mars-2020-small.png)                        | **Mars 2020 Helicopter 贡献者**                                   | 如果您在提交历史记录中撰写了对 Mars 2020 Helicopter 任务中使用的开放源码库相关标记的任何提交， 您将在个人资料上获得 Mars 2020 Helicopter 贡献者徽章。 悬停在徽章上会显示您参与的任务中使用的几个仓库。 要查看符合您徽章资格的完整仓库列表，请参阅“[Mars 2020 Helicopter 贡献者徽章的合格仓库列表](/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge)”。 |
-| ![Arctic Code Vault 贡献者徽章图标](/assets/images/help/profile/badge-arctic-code-vault-small.png)                   | **{% data variables.product.prodname_arctic_vault %} 贡献者**   | 如果您在存档于 2020 Arctic Vault 计划的仓库默认分支上编写了任何提交，您的个人资料上会获得一个 {% data variables.product.prodname_arctic_vault %} 贡献者徽章。 悬停在徽章上显示您参与的属于计划一部分的几个仓库。 有关该计划的更多信息，请参阅 [{% data variables.product.prodname_archive %}](https://archiveprogram.github.com)。                                                                                                 |
-| ![{% data variables.product.prodname_dotcom %} 赞助者徽章图标](/assets/images/help/profile/badge-sponsors-small.png) | **{% data variables.product.prodname_dotcom %} 赞助者**           | 如果您通过 {% data variables.product.prodname_sponsors %} 赞助了开源贡献者，您的个人资料中将获得一个 {% data variables.product.prodname_dotcom %} 赞助者徽章。 单击徽章将带您到个人资料的 **Sponsoring（赞助）**选项卡。 更多信息请参阅“[赞助开源贡献者](/github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-contributors)”。                                                  |
+| ![Mars 2020 Helicopter 贡献者徽章图标](/assets/images/2021/10/help/profile/badge-mars-2020-small.png)                        | **Mars 2020 Helicopter 贡献者**                                   | 如果您在提交历史记录中撰写了对 Mars 2020 Helicopter 任务中使用的开放源码库相关标记的任何提交， 您将在个人资料上获得 Mars 2020 Helicopter 贡献者徽章。 悬停在徽章上会显示您参与的任务中使用的几个仓库。 要查看符合您徽章资格的完整仓库列表，请参阅“[Mars 2020 Helicopter 贡献者徽章的合格仓库列表](/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge)”。 |
+| ![Arctic Code Vault 贡献者徽章图标](/assets/images/2021/10/help/profile/badge-arctic-code-vault-small.png)                   | **{% data variables.product.prodname_arctic_vault %} 贡献者**   | 如果您在存档于 2020 Arctic Vault 计划的仓库默认分支上编写了任何提交，您的个人资料上会获得一个 {% data variables.product.prodname_arctic_vault %} 贡献者徽章。 悬停在徽章上显示您参与的属于计划一部分的几个仓库。 有关该计划的更多信息，请参阅 [{% data variables.product.prodname_archive %}](https://archiveprogram.github.com)。                                                                                                 |
+| ![{% data variables.product.prodname_dotcom %} 赞助者徽章图标](/assets/images/2021/10/help/profile/badge-sponsors-small.png) | **{% data variables.product.prodname_dotcom %} 赞助者**           | 如果您通过 {% data variables.product.prodname_sponsors %} 赞助了开源贡献者，您的个人资料中将获得一个 {% data variables.product.prodname_dotcom %} 赞助者徽章。 单击徽章将带您到个人资料的 **Sponsoring（赞助）**选项卡。 更多信息请参阅“[赞助开源贡献者](/github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-contributors)”。                                                  |
 | {% octicon "cpu" aria-label="The Developer Program icon" %}                                                   | **开发者计划成员**                                                    | 如果您是 {% data variables.product.prodname_dotcom %} 开发者计划的注册成员，使用 {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom %}{% else %}{% data variables.product.product_name %}{% endif %} API 构建应用程序，您的个人资料上将获得开发者计划成员徽章。 有关 {% data variables.product.prodname_dotcom %} 开发者计划的更多信息，请参阅 [GitHub 开发者](/program/)。                 |
 | {% octicon "star-fill" aria-label="The star icon" %}                                                          | **Pro**                                                        | 如果您使用 {% data variables.product.prodname_pro %}，您的个人资料中将获得一个 PRO 徽章。 有关 {% data variables.product.prodname_pro %} 的更多信息，请参阅“[{% data variables.product.prodname_dotcom %} 的产品](/github/getting-started-with-github/githubs-products#github-pro)”。                                                                                               |
 | {% octicon "lock" aria-label="The lock icon" %}                                                               | **Security Bug Bounty Hunter**                                 | 如果你帮助寻找安全漏洞，您的个人资料上将获得 Security Bug Bounty Hunter 徽章。 有关 {% data variables.product.prodname_dotcom %} 安全计划的更多信息，请参阅 [{% data variables.product.prodname_dotcom %} 安全性](https://bounty.github.com/)。                                                                                                                                               |
@@ -134,7 +134,7 @@ shortTitle: 个性化
 您可以对您参与的 {% data variables.product.prodname_dotcom %} 计划禁用某些徽章，包括 PRO、{% data variables.product.prodname_arctic_vault %} 和 Mars 2020 Helicopter 贡献者徽章。
 
 {% data reusables.user-settings.access_settings %}
-2. 在“Profile settings（个人资料设置）”下，取消选择您想要禁用的徽章。 ![不再在个人资料中显示徽章的复选框](/assets/images/help/profile/profile-badge-settings.png)
+2. 在“Profile settings（个人资料设置）”下，取消选择您想要禁用的徽章。 ![不再在个人资料中显示徽章的复选框](/assets/images/2021/10/help/profile/profile-badge-settings.png)
 3. 单击 **Update preferences（更新首选项）**。
 
 {% endif %}

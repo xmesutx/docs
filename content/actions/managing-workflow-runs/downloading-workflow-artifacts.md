@@ -24,7 +24,7 @@ By default, {% data variables.product.product_name %} stores build logs and arti
 {% data reusables.repositories.view-run %}
 1. Under **Artifacts**, click the artifact you want to download.
     
-    ![Download artifact drop-down menu](/assets/images/help/repository/artifact-drop-down-updated.png)
+    ![Download artifact drop-down menu](/assets/images/2021/10/help/repository/artifact-drop-down-updated.png)
     
 
 {% endwebui %}

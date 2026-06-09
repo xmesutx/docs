@@ -34,12 +34,12 @@ Para obtener más información, consulta la sección "[Roles de repositorio para
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.teams_sidebar %}
-1. Revisa tus equipos de administradores heredados de la organización, después haz clic en **Migrate all teams (Migrar todos los equipos)**. ![Botón Migrar todos los equipos](/assets/images/help/teams/migrate-all-legacy-admin-teams.png)
-1. Lee la información sobre los posibles cambios en permisos para los miembros de estos equipos, después haz clic en **Migrate all teams (Migrar todos los equipos).** ![Botón Confirmar migración](/assets/images/help/teams/confirm-migrate-all-legacy-admin-teams.png)
+1. Revisa tus equipos de administradores heredados de la organización, después haz clic en **Migrate all teams (Migrar todos los equipos)**. ![Botón Migrar todos los equipos](/assets/images/2021/10/help/teams/migrate-all-legacy-admin-teams.png)
+1. Lee la información sobre los posibles cambios en permisos para los miembros de estos equipos, después haz clic en **Migrate all teams (Migrar todos los equipos).** ![Botón Confirmar migración](/assets/images/2021/10/help/teams/confirm-migrate-all-legacy-admin-teams.png)
 
 ## Migrar un equipo de administradores único
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-1. En la casilla de descripción de equipo, haz clic en **Migrate team (Migrar equipo)**. ![Botón Migrar equipo](/assets/images/help/teams/migrate-a-legacy-admin-team.png)
+1. En la casilla de descripción de equipo, haz clic en **Migrate team (Migrar equipo)**. ![Botón Migrar equipo](/assets/images/2021/10/help/teams/migrate-a-legacy-admin-team.png)

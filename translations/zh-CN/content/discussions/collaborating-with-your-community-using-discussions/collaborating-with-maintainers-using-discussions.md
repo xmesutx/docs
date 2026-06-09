@@ -19,7 +19,7 @@ versions:
 
 {% data reusables.discussions.github-recognizes-members %} 这些成员出现在对项目讨论最有帮助的贡献者名单中。 随着项目的发展，您可以向社区的活动成员授予更高的访问权限。 更多信息请参阅“[向顶级贡献者授予更高权限](/discussions/guides/granting-higher-permissions-to-top-contributors)”
 
-![对项目讨论最有帮助的贡献者](/assets/images/help/discussions/most-helpful.png)
+![对项目讨论最有帮助的贡献者](/assets/images/2021/10/help/discussions/most-helpful.png)
 
 有关参与讨论的信息，请参阅“[参与讨论](/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)”。
 
@@ -37,8 +37,8 @@ versions:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. 在 **Search all discussions（搜索所有讨论）** 字段中输入搜索查询。 （可选）在搜索字段右侧，单击按钮以进一步过滤结果。 ![用于过滤讨论的搜索栏和按钮](/assets/images/help/discussions/search-and-filter-controls.png)
-1. 在讨论列表中，单击要查看的讨论。 ![讨论搜索结果](/assets/images/help/discussions/search-result.png)
+1. 在 **Search all discussions（搜索所有讨论）** 字段中输入搜索查询。 （可选）在搜索字段右侧，单击按钮以进一步过滤结果。 ![用于过滤讨论的搜索栏和按钮](/assets/images/2021/10/help/discussions/search-and-filter-controls.png)
+1. 在讨论列表中，单击要查看的讨论。 ![讨论搜索结果](/assets/images/2021/10/help/discussions/search-result.png)
 
 ## 将议题转换为讨论
 

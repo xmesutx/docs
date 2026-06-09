@@ -28,8 +28,8 @@ shortTitle: 访问控制和可见性
 如果您的软件包是私人或内部的并且由组织拥有，则您只能向其他组织成员或团队授予访问。
 
 {% data reusables.package_registry.package-settings-from-user-level %}
-1. 在软件包设置页面上，单击 **Invite teams or people（邀请团队或人员）**，然后输入名称、用户名或您想要授予访问权限的人员的电子邮件地址。 不能授予团队访问用户帐户拥有的容器映像。 ![容器访问邀请按钮](/assets/images/help/package-registry/container-access-invite.png)
-1. 在用户名或团队名称旁边，使用“Role（角色）”下拉菜单选择所需的权限级别。 ![容器访问选项](/assets/images/help/package-registry/container-access-control-options.png)
+1. 在软件包设置页面上，单击 **Invite teams or people（邀请团队或人员）**，然后输入名称、用户名或您想要授予访问权限的人员的电子邮件地址。 不能授予团队访问用户帐户拥有的容器映像。 ![容器访问邀请按钮](/assets/images/2021/10/help/package-registry/container-access-invite.png)
+1. 在用户名或团队名称旁边，使用“Role（角色）”下拉菜单选择所需的权限级别。 ![容器访问选项](/assets/images/2021/10/help/package-registry/container-access-control-options.png)
 
 所选用户将自动被授予访问权限，不需要先接受邀请。
 
@@ -40,8 +40,8 @@ shortTitle: 访问控制和可见性
 如果您的软件包是私人或内部的并且由组织拥有，则您只能向其他组织成员或团队授予访问。
 
 {% data reusables.package_registry.package-settings-from-org-level %}
-1. 在软件包设置页面上，单击 **Invite teams or people（邀请团队或人员）**，然后输入名称、用户名或您想要授予访问权限的人员的电子邮件地址。 您还可以从组织输入团队名称，以允许所有团队成员访问。 ![容器访问邀请按钮](/assets/images/help/package-registry/container-access-invite.png)
-1. 在用户名或团队名称旁边，使用“Role（角色）”下拉菜单选择所需的权限级别。 ![容器访问选项](/assets/images/help/package-registry/container-access-control-options.png)
+1. 在软件包设置页面上，单击 **Invite teams or people（邀请团队或人员）**，然后输入名称、用户名或您想要授予访问权限的人员的电子邮件地址。 您还可以从组织输入团队名称，以允许所有团队成员访问。 ![容器访问邀请按钮](/assets/images/2021/10/help/package-registry/container-access-invite.png)
+1. 在用户名或团队名称旁边，使用“Role（角色）”下拉菜单选择所需的权限级别。 ![容器访问选项](/assets/images/2021/10/help/package-registry/container-access-control-options.png)
 
 所选用户或团队将自动被授予访问权限，不需要先接受邀请。
 
@@ -54,7 +54,7 @@ shortTitle: 访问控制和可见性
 仓库一旦同步，您就无法访问包的精细访问设置。 要通过精细的包访问设置自定义包的权限，您必须先删除同步的仓库。
 
 {% data reusables.package_registry.package-settings-from-org-level %}
-2. 在“Repository source（仓库来源）”下，选择 **Inherit access from repository (recommended)（从仓库继承访问权限 [推荐]）**。 ![继承仓库访问权限复选框](/assets/images/help/package-registry/inherit-repo-access-for-package.png)
+2. 在“Repository source（仓库来源）”下，选择 **Inherit access from repository (recommended)（从仓库继承访问权限 [推荐]）**。 ![继承仓库访问权限复选框](/assets/images/2021/10/help/package-registry/inherit-repo-access-for-package.png)
 
 ## 确保工作流程访问您的包
 
@@ -71,18 +71,18 @@ shortTitle: 访问控制和可见性
 ### 用户帐户拥有的容器映像的 {% data variables.product.prodname_actions %} 访问权限
 
 {% data reusables.package_registry.package-settings-from-user-level %}
-1. 在左侧边栏中，单击 **Actions access（操作访问）**。 ![左侧菜单中的"Actions access（操作访问）"选项](/assets/images/help/package-registry/organization-repo-access-for-a-package.png)
-2. 为确保工作流程有权访问容器包，您必须添加存储工作流程的仓库。 单击 **Add repository（添加仓库）**并搜索要添加的仓库。 !["添加仓库"按钮](/assets/images/help/package-registry/add-repository-button.png)
-3. （使用“role（角色）”下拉菜单，选择您希望仓库访问您的容器映像所必须拥有的默认访问权限。 ![授予仓库的权限访问级别](/assets/images/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
+1. 在左侧边栏中，单击 **Actions access（操作访问）**。 ![左侧菜单中的"Actions access（操作访问）"选项](/assets/images/2021/10/help/package-registry/organization-repo-access-for-a-package.png)
+2. 为确保工作流程有权访问容器包，您必须添加存储工作流程的仓库。 单击 **Add repository（添加仓库）**并搜索要添加的仓库。 !["添加仓库"按钮](/assets/images/2021/10/help/package-registry/add-repository-button.png)
+3. （使用“role（角色）”下拉菜单，选择您希望仓库访问您的容器映像所必须拥有的默认访问权限。 ![授予仓库的权限访问级别](/assets/images/2021/10/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
 
 要进一步自定义对容器映像的访问，请参阅“[配置对个人帐户的容器映像的访问](#configuring-access-to-container-images-for-your-personal-account)”。
 
 ### 组织拥有的容器映像的 {% data variables.product.prodname_actions %} 访问权限
 
 {% data reusables.package_registry.package-settings-from-org-level %}
-1. 在左侧边栏中，单击 **Actions access（操作访问）**。 ![左侧菜单中的"Actions access（操作访问）"选项](/assets/images/help/package-registry/organization-repo-access-for-a-package.png)
-2. 单击 **Add repository（添加仓库）**并搜索要添加的仓库。 !["添加仓库"按钮](/assets/images/help/package-registry/add-repository-button.png)
-3. 使用“role（角色）”下拉菜单，选择您希望仓库成员访问您的容器映像所必须拥有的默认访问权限。 外部协作者将不包括在内。 ![授予仓库的权限访问级别](/assets/images/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
+1. 在左侧边栏中，单击 **Actions access（操作访问）**。 ![左侧菜单中的"Actions access（操作访问）"选项](/assets/images/2021/10/help/package-registry/organization-repo-access-for-a-package.png)
+2. 单击 **Add repository（添加仓库）**并搜索要添加的仓库。 !["添加仓库"按钮](/assets/images/2021/10/help/package-registry/add-repository-button.png)
+3. 使用“role（角色）”下拉菜单，选择您希望仓库成员访问您的容器映像所必须拥有的默认访问权限。 外部协作者将不包括在内。 ![授予仓库的权限访问级别](/assets/images/2021/10/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
 
 要进一步自定义对容器映像的访问，请参阅“[配置对组织的容器映像的访问](#configuring-access-to-container-images-for-an-organization)”。
 
@@ -98,21 +98,21 @@ shortTitle: 访问控制和可见性
 
 1. 在右侧边栏单击 **Package settings（包设置）**。
 
-   ![右侧菜单中的"Package settings（包设置）"选项](/assets/images/help/package-registry/package-settings.png)
+   ![右侧菜单中的"Package settings（包设置）"选项](/assets/images/2021/11/help/package-registry/package-settings.png)
 
 2. 在“Manage Codespaces access（管理 Codespaces 访问）”下，单击 **Add repository（添加仓库）**。
 
-   !["添加仓库"按钮](/assets/images/help/package-registry/manage-codespaces-access-blank.png)
+   !["添加仓库"按钮](/assets/images/2021/11/help/package-registry/manage-codespaces-access-blank.png)
 
 3. 搜索要添加的仓库。
 
-   !["添加仓库"按钮](/assets/images/help/package-registry/manage-codespaces-access-search.png)
+   !["添加仓库"按钮](/assets/images/2021/11/help/package-registry/manage-codespaces-access-search.png)
 
 4. 对要允许访问的任何其他仓库重复此步骤。
 
 5. 如果仓库的代码空间不再需要访问映像，则可以删除访问权限。
 
-   !["Remove repository（删除仓库）"按钮](/assets/images/help/package-registry/manage-codespaces-access-item.png)
+   !["Remove repository（删除仓库）"按钮](/assets/images/2021/11/help/package-registry/manage-codespaces-access-item.png)
 
 ## 为个人帐户配置容器映像的可见性
 
@@ -128,7 +128,7 @@ shortTitle: 访问控制和可见性
     **警告：**包一旦被设为公共，便无法再次将其设为私有。
 
     {% endwarning %}
-    - 要使容器映像只对选择的人员可见，请单击“**Make private（设为私有）**”。 ![容器可见性选项](/assets/images/help/package-registry/container-visibility-option.png)
+    - 要使容器映像只对选择的人员可见，请单击“**Make private（设为私有）**”。 ![容器可见性选项](/assets/images/2021/10/help/package-registry/container-visibility-option.png)
 
 ## 组织成员的容器创建可见性
 
@@ -140,7 +140,7 @@ shortTitle: 访问控制和可见性
 6. 在“Container creation（容器创建）”下，选择是要启用公共、私有或内部容器映像。
     - 要让组织成员创建公共容器映像，请单击 **Public（公共）**。
     - 要让组织成员创建只对其他组织成员可见的私有容器映像，请单击 **Private（私有）**。 您可以进一步自定义私有容器映像的可见性。
-    - 要使组织成员能够创建对所有组织成员可见的内部容器映像，请单击 **Internal（内部）**。 如果组织属于企业，则容器映像将对所有企业成员可见。 ![组织成员发布的容器图像的可见性选项](/assets/images/help/package-registry/container-creation-org-settings.png)
+    - 要使组织成员能够创建对所有组织成员可见的内部容器映像，请单击 **Internal（内部）**。 如果组织属于企业，则容器映像将对所有企业成员可见。 ![组织成员发布的容器图像的可见性选项](/assets/images/2021/10/help/package-registry/container-creation-org-settings.png)
 
 ## 为组织配置容器映像的可见性
 
@@ -156,4 +156,4 @@ shortTitle: 访问控制和可见性
     **警告：**包一旦被设为公共，便无法再次将其设为私有。
 
     {% endwarning %}
-    - 要使容器映像只对选择的人员可见，请单击“**Make private（设为私有）**”。 ![容器可见性选项](/assets/images/help/package-registry/container-visibility-option.png)
+    - 要使容器映像只对选择的人员可见，请单击“**Make private（设为私有）**”。 ![容器可见性选项](/assets/images/2021/10/help/package-registry/container-visibility-option.png)

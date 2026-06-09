@@ -21,7 +21,7 @@ Puedes utiizar un marco de trabajo de prueba, ejecutar un comando personalizado,
 
 Puedes ver un resumen de qué estudiantes están pasando las pruebas con calificación automática si navegas a la tarea en {% data variables.product.prodname_classroom %}. Una marca verde significa que el alumno está pasando todas las pruebas, la X roja significa que el alumno falló en algunas o todas las pruebas. Si otorgas puntos para una o más pruebas, entonces una burbuja mostrará la puntuación de éstas con base en la puntuación máxima posible para la tarea.
 
-![Resumen de una tarea con resultados de calificación automática](/assets/images/help/classroom/assignment-individual-hero.png)
+![Resumen de una tarea con resultados de calificación automática](/assets/images/2021/10/help/classroom/assignment-individual-hero.png)
 
 ## Métodos para calificar
 
@@ -65,12 +65,12 @@ Puedes agregar, editar o borrar las pruebas de calificación automática para un
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.assignments-click-pencil %}
-1. En la barra lateral, da clic en **Calificaciones y retroalimentación**. !["Calificaciones y retroalimentación" a la izquierda de los puntos básicos de la tarea](/assets/images/help/classroom/assignments-click-grading-and-feedback.png)
+1. En la barra lateral, da clic en **Calificaciones y retroalimentación**. !["Calificaciones y retroalimentación" a la izquierda de los puntos básicos de la tarea](/assets/images/2021/10/help/classroom/assignments-click-grading-and-feedback.png)
 1. Agrega, edita o borra una prueba de calificación automática.
-    - Para agregar una prueba, debajo de "Agregar pruebas de calificación automática", selecciona el menú desplegable **Agregar prueba** y luego da clic en el método de calificación que quieras utilizar. ![Using the "Add test" drop-down menu to click a grading method](/assets/images/help/classroom/autograding-click-grading-method.png) Configura la prueba y luego da clic en **Guardar caso de prueba**. ![Botón de "Guardar caso de prueba" para una prueba de calificación automática](/assets/images/help/classroom/assignments-click-save-test-case-button.png)
-    - Para editar una prueba, a la derecha del nombre de ésta, da clic en {% octicon "pencil" aria-label="The pencil icon" %}. ![Pencil icon for editing an autograding test](/assets/images/help/classroom/autograding-click-pencil.png) Configura la prueba y luego da clic en **Guardar caso de prueba**. ![Botón de "Guardar caso de prueba" para una prueba de calificación automática](/assets/images/help/classroom/assignments-click-save-test-case-button.png)
-    - Para borrar una prueba, a la derecha del nombre de ésta, da clic en {% octicon "trash" aria-label="The trash icon" %}. ![Icono de cesta de basura para borrar una prueba de calificación automática](/assets/images/help/classroom/autograding-click-trash.png)
-1. En la parte inferior de la página, da clic en **Actualizar tarea**. ![Botón de "Actualizar tarea" en la parte inferior de la página](/assets/images/help/classroom/assignments-click-update-assignment.png)
+    - Para agregar una prueba, debajo de "Agregar pruebas de calificación automática", selecciona el menú desplegable **Agregar prueba** y luego da clic en el método de calificación que quieras utilizar. ![Using the "Add test" drop-down menu to click a grading method](/assets/images/2021/10/help/classroom/autograding-click-grading-method.png) Configura la prueba y luego da clic en **Guardar caso de prueba**. ![Botón de "Guardar caso de prueba" para una prueba de calificación automática](/assets/images/2021/10/help/classroom/assignments-click-save-test-case-button.png)
+    - Para editar una prueba, a la derecha del nombre de ésta, da clic en {% octicon "pencil" aria-label="The pencil icon" %}. ![Pencil icon for editing an autograding test](/assets/images/2021/10/help/classroom/autograding-click-pencil.png) Configura la prueba y luego da clic en **Guardar caso de prueba**. ![Botón de "Guardar caso de prueba" para una prueba de calificación automática](/assets/images/2021/10/help/classroom/assignments-click-save-test-case-button.png)
+    - Para borrar una prueba, a la derecha del nombre de ésta, da clic en {% octicon "trash" aria-label="The trash icon" %}. ![Icono de cesta de basura para borrar una prueba de calificación automática](/assets/images/2021/10/help/classroom/autograding-click-trash.png)
+1. En la parte inferior de la página, da clic en **Actualizar tarea**. ![Botón de "Actualizar tarea" en la parte inferior de la página](/assets/images/2021/10/help/classroom/assignments-click-update-assignment.png)
 
 ## Ver y descargar los resultados de las pruebas de autoevaluación
 
@@ -78,13 +78,13 @@ Puedes agregar, editar o borrar las pruebas de calificación automática para un
 
 También puedes descargar un CSV de las puntuaciones de autoevaluación de tus alumnos a través del botón "Descargar". Esto generará un CSV de descarga que contiene un enlace al repositorio del alumno, a su manejador de {% data variables.product.prodname_dotcom %}, identificador de lista, marca de tiempo de emisión y puntuación de autoevaluación.
 
-![Botón de "Descargar" seleccionado mostrando "Descargar las calificaciones resaltadas" y una opción adicional para "Descargar repositorios"](/assets/images/help/classroom/download-grades.png)
+![Botón de "Descargar" seleccionado mostrando "Descargar las calificaciones resaltadas" y una opción adicional para "Descargar repositorios"](/assets/images/2021/10/help/classroom/download-grades.png)
 
 ### Ver bitácoras individuales
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-assignment-in-list %}
-1. A la derecha de una emisión, da clic en **Ver prueba**. ![Botón de "Ver tarea" para una emisión de una tarea](/assets/images/help/classroom/assignments-click-view-test.png)
+1. A la derecha de una emisión, da clic en **Ver prueba**. ![Botón de "Ver tarea" para una emisión de una tarea](/assets/images/2021/10/help/classroom/assignments-click-view-test.png)
 1. Revisa la salida de la prueba. Para obtener más información, consulta la sección "[Utilizar bitácoras de ejecución de flujos de trabajo](/actions/managing-workflow-runs/using-workflow-run-logs)".
 
 ## Leer más

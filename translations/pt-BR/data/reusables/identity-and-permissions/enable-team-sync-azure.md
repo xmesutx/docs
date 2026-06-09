@@ -1,1 +1,1 @@
-1. Em "Team synchronization", clique em **Enable for Azure AD**. ![Botão Enable team synchronization (Habilitar sincronização de equipes) na página de configurações de segurança](/assets/images/help/teams/enable-team-synchronization.png)
+1. Em "Team synchronization", clique em **Enable for Azure AD**. ![Botão Enable team synchronization (Habilitar sincronização de equipes) na página de configurações de segurança](/assets/images/2021/10/help/teams/enable-team-synchronization.png)

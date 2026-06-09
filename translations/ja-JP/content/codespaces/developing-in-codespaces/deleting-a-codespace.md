@@ -33,7 +33,7 @@ shortTitle: Delete a codespace
 
 2. 削除する codespace の右側で {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックし、**{% octicon "trash" aria-label="The trash icon" %} [Delete]** をクリックします。
 
-   ![削除ボタン](/assets/images/help/codespaces/delete-codespace.png)
+   ![削除ボタン](/assets/images/2021/10/help/codespaces/delete-codespace.png)
 
 {% endwebui %}
 

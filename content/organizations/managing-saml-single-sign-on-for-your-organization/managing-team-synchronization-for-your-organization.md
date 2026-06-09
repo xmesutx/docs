@@ -48,7 +48,7 @@ You must have a linked SAML identity. To create a linked identity, you must auth
 
 Your SAML settings **must** contain a valid IdP URL for the **Issuer** field. 
 
-![SAML Issuer field](/assets/images/help/saml/saml_issuer.png)
+![SAML Issuer field](/assets/images/2021/10/help/saml/saml_issuer.png)
 
 
 
@@ -63,7 +63,7 @@ Your SAML settings **must** contain a valid IdP URL for the **Issuer** field.
 {% data reusables.identity-and-permissions.enable-team-sync-azure %}
 {% data reusables.identity-and-permissions.team-sync-confirm %}
 6. Review the identity provider tenant information you want to connect to your organization, then click **Approve**.
-  ![Pending request to enable team synchronization to a specific IdP tenant with option to approve or cancel request](/assets/images/help/teams/approve-team-synchronization.png)
+  ![Pending request to enable team synchronization to a specific IdP tenant with option to approve or cancel request](/assets/images/2021/10/help/teams/approve-team-synchronization.png)
 
 ### Enabling team synchronization for Okta
 
@@ -85,9 +85,9 @@ For help on provisioning users that have missing a missing SCIM linked identity,
 1. Consider enforcing SAML in your organization to ensure that organization members link their SAML and SCIM identities. For more information, see "[Enforcing SAML single sign-on for your organization](/organizations/managing-saml-single-sign-on-for-your-organization/enforcing-saml-single-sign-on-for-your-organization)."
 {% data reusables.identity-and-permissions.enable-team-sync-okta %}
 7. Under your organization's name, type a valid SSWS token and the URL to your Okta instance.
-  ![Enable team synchronization Okta organization form](/assets/images/help/teams/confirm-team-synchronization-okta-organization.png)
+  ![Enable team synchronization Okta organization form](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta-organization.png)
 6. Review the identity provider tenant information you want to connect to your organization, then click **Create**.
-  ![Enable team synchronization create button](/assets/images/help/teams/confirm-team-synchronization-okta.png)
+  ![Enable team synchronization create button](/assets/images/2021/10/help/teams/confirm-team-synchronization-okta.png)
 
 ## Disabling team synchronization
 
@@ -97,4 +97,4 @@ For help on provisioning users that have missing a missing SCIM linked identity,
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
 5. Under "Team synchronization", click **Disable team synchronization**.
-  ![Disable team synchronization](/assets/images/help/teams/disable-team-synchronization.png)
+  ![Disable team synchronization](/assets/images/2021/10/help/teams/disable-team-synchronization.png)

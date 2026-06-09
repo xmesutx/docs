@@ -166,7 +166,7 @@ La vista nueva se guarda automáticamente.
 
 Cuando haces cambios en una vista, por ejemplo: clasificar, reordenar, filtrar o agrupar los datos en una vista, se muestra un punto junto al nombre de la vista para indicar que hay cambios sin guardar.
 
-![Indicador de cambios sin guardar](/assets/images/help/projects/unsaved-changes.png)
+![Indicador de cambios sin guardar](/assets/images/2021/11/help/projects/unsaved-changes.png)
 
 Si no quieres guardar los cambios, puedes ignorar este indicador. Nadie verá tus cambios.
 

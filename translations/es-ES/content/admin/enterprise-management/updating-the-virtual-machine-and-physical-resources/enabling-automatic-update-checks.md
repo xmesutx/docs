@@ -27,13 +27,13 @@ Si está disponible un hotpatch para una actualización, el `.hpkg` se descargar
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.updates-tab %}
-4. Haz clic en **Yes, automatically check for updates** (Sí, buscar actualizaciones automáticamente). ![Botón para habilitar actualizaciones automáticas](/assets/images/enterprise/management-console/enable_updates_button.png)
+4. Haz clic en **Yes, automatically check for updates** (Sí, buscar actualizaciones automáticamente). ![Botón para habilitar actualizaciones automáticas](/assets/images/2021/10/enterprise/management-console/enable_updates_button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 Para saber si tu instancia está actualizada, busca el mensaje emergente en la pestaña de actualizaciones.
 
-![Mensaje emergente que indica tu lanzamiento del servidor de GitHub Enterprise](/assets/images/enterprise/management-console/up-to-date-banner.png)
+![Mensaje emergente que indica tu lanzamiento del servidor de GitHub Enterprise](/assets/images/2021/10/enterprise/management-console/up-to-date-banner.png)
 
 En **Logs** (Registros), puedes ver el estado de la búsqueda de actualizaciones más reciente.
 
-![Registros para actualización](/assets/images/enterprise/management-console/update-log.png)
+![Registros para actualización](/assets/images/2021/10/enterprise/management-console/update-log.png)

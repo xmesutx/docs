@@ -1,1 +1,1 @@
-1. Si tu ejecutor está en un grupo, ubica el grupo ejecutor y da clic en {% octicon "chevron-down" aria-label="The downward chevron" %} para ver la lista de ejecutores. ![Listar el grupo ejecutor](/assets/images/help/settings/actions-org-enterprise-list-group-runners.png)
+1. Si tu ejecutor está en un grupo, ubica el grupo ejecutor y da clic en {% octicon "chevron-down" aria-label="The downward chevron" %} para ver la lista de ejecutores. ![Listar el grupo ejecutor](/assets/images/2021/10/help/settings/actions-org-enterprise-list-group-runners.png)

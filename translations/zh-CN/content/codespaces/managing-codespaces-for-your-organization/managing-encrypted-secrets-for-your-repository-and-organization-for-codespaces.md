@@ -59,7 +59,7 @@ topics:
 2. 在页面顶部，单击 **New organization secret（新组织密钥）**。
 3. 在 **Name（名称）**输入框中键入密码的名称。
 4. 输入密码的 **Value（值）**。
-5. 从 **Repository access（仓库访问权限）**下拉列表，选择访问策略。 ![已选定私有仓库的仓库访问列表](/assets/images/help/codespaces/secret-repository-access.png)
+5. 从 **Repository access（仓库访问权限）**下拉列表，选择访问策略。 ![已选定私有仓库的仓库访问列表](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 6. 单击 **Add secret（添加密码）**。
 
 ## 审查对组织级别密码的访问权限
@@ -69,7 +69,7 @@ topics:
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. 密码列表包括任何已配置的权限和策略。 例如： ![密码列表](/assets/images/help/settings/actions-org-secrets-list.png)
+1. 密码列表包括任何已配置的权限和策略。 例如： ![密码列表](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. 有关已为每个密码配置的权限的更多信息，请单击 **Update（更新）**。
 
 ## 延伸阅读

@@ -60,7 +60,7 @@ topics:
 
 有关项目板自动化的更多信息，请参阅“[关于项目板的自动化](/articles/about-automation-for-project-boards)”。
 
-![带看板模板的项目板](/assets/images/help/projects/project-board-basic-kanban-template.png)
+![带看板模板的项目板](/assets/images/2021/10/help/projects/project-board-basic-kanban-template.png)
 
 {% data reusables.project-management.copy-project-boards %}
 

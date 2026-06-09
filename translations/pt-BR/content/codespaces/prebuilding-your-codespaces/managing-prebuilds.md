@@ -31,26 +31,26 @@ Você pode visualizar o status atual da última execução do fluxo de trabalho 
 
 Para ver a saída de registro para a última execução do fluxo de trabalho de pré-compilação, clique em **Ver saída**.
 
-![O botão 'Ver saída'](/assets/images/help/codespaces/prebuilds-see-output.png)
+![O botão 'Ver saída'](/assets/images/2022/02/help/codespaces/prebuilds-see-output.png)
 
 Ele exibe a saída da execução mais recente do fluxo de trabalho na aba **Ações**.
 
-![A saída de fluxo de trabalho de pré-compilação](/assets/images/help/codespaces/prebuilds-log-output.png)
+![A saída de fluxo de trabalho de pré-compilação](/assets/images/2022/02/help/codespaces/prebuilds-log-output.png)
 
 Como alternativa, para visualizar todas as execuções de fluxo de trabalho pré-compilado associadas a um branch especificada, clique no botão de retiências e selecione **Visualizar execuções** no menu suspenso.
 
-![A opção 'Visualizar execuções' no menu suspenso](/assets/images/help/codespaces/prebuilds-view-runs.png)
+![A opção 'Visualizar execuções' no menu suspenso](/assets/images/2022/02/help/codespaces/prebuilds-view-runs.png)
 
 Exibe o histórico de execução de fluxo de trabalho para pré-compilações para o branch associado.
 
-![Histórico de execução do fluxo de trabalho](/assets/images/help/codespaces/prebuilds-workflow-runs.png)
+![Histórico de execução do fluxo de trabalho](/assets/images/2022/02/help/codespaces/prebuilds-workflow-runs.png)
 
 ### Editando uma configuração de pré-compilação
 
 1. Na página de {% data variables.product.prodname_codespaces %} das configurações do repositório, clique nas reticências à direita da configuração de pré-compilação que você deseja editar.
 1. No menu suspenso, clique em **Editar**.
 
-   ![A opção 'Editar' no menu suspenso](/assets/images/help/codespaces/prebuilds-edit.png)
+   ![A opção 'Editar' no menu suspenso](/assets/images/2022/02/help/codespaces/prebuilds-edit.png)
 
 1. Faça as alterações necessárias na configuração de pré-compilação e, em seguida, clique em **Atualizar**.
 
@@ -63,7 +63,7 @@ Depois que você excluir uma configuração de pré-compilação, as execuções
 1. Na página de {% data variables.product.prodname_codespaces %} das configurações do repositório, clique nas reticências à direita da configuração de pré-compilação que você deseja excluir.
 1. No menu suspenso, clique em **Excluir**.
 
-   ![A opção "Excluir" no menu suspenso](/assets/images/help/codespaces/prebuilds-delete.png)
+   ![A opção "Excluir" no menu suspenso](/assets/images/2022/02/help/codespaces/prebuilds-delete.png)
 
 1. Clique em **OK** para confirmar a exclusão.
 
@@ -74,7 +74,7 @@ Pode ser útil acionar manualmente a execução de um fluxo de trabalho para uma
 1. Na página de {% data variables.product.prodname_codespaces %} das configurações do repositório, clique nas reticências à direita da configuração de pré-compilação cujo fluxo de trabalho você deseja acionar.
 1. No menu suspenso, clique em **Acionar manualmente**.
 
-   ![A opção "Acionar manualmente" no menu suspenso](/assets/images/help/codespaces/prebuilds-manually-trigger.png)
+   ![A opção "Acionar manualmente" no menu suspenso](/assets/images/2022/02/help/codespaces/prebuilds-manually-trigger.png)
 
 ## Permitir que uma pré-compilação acesse recursos externos
 
@@ -90,12 +90,12 @@ Por padrão, o fluxo de trabalho de {% data variables.product.prodname_actions %
 1. Dê a nova conta acesso de leitura aos repositórios necessários. Para obter mais informações, consulte "[Gerenciar o acesso de um indivíduo ao repositório de uma organização](/organizations/managing-access-to-your-organizations-repositories/managing-an-individuals-access-to-an-organization-repository)".
 1. Enquanto estiver conectado à nova conta, crie um PAT com o escopo `repo`. Opcionalmente, se a pré-compilação tiver de fazer o download do {% data variables.product.company_short %} {% data variables.product.prodname_container_registry %}, selecione também o escopo `read:packages`. Para obter mais informações, consulte "[Criando um token de acesso pessoal](/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)."
 
-   ![Escopos "repo" e "pacotes" selecionados para um PAT](/assets/images/help/codespaces/prebuilds-select-scopes.png)
+   ![Escopos "repo" e "pacotes" selecionados para um PAT](/assets/images/2022/02/help/codespaces/prebuilds-select-scopes.png)
 
    Se a pré-compilação usar um pacote do {% data variables.product.company_short %} {% data variables.product.prodname_container_registry %}, você deverá conceder o novo acesso à nova conta ao pacote ou configurar o pacote para herdar as permissões de acesso do repositório que você está pré-compilando. Para obter mais informações, consulte "[Configurar o controle de acesso e visibilidade de um pacote](/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility)".
 {% ifversion ghec %}1. Autorizar o token para uso com o logon único SAML (SSO), para que ele possa acessar repositórios que são propriedade de organizações com SSO habilitado. Para obter mais informações, consulte "[Autorizar um token de acesso pessoal para uso com o logon único SAML](/authentication/authenticating-with-saml-single-sign-on/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on)".
 
-   ![O botão para configurar o SSO para um PAT](/assets/images/help/codespaces/configure-SSO-for-PAT.png)
+   ![O botão para configurar o SSO para um PAT](/assets/images/2022/02/help/codespaces/configure-SSO-for-PAT.png)
 
 {% endif %}
 1. Copie a string do token. Você irá atribuir isto a um segredo de repositório de {% data variables.product.prodname_codespaces %}.

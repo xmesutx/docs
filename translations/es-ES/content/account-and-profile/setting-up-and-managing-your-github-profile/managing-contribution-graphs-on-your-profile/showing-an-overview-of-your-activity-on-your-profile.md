@@ -17,7 +17,7 @@ shortTitle: Mostrar un resumen
 
 {% data reusables.profile.activity-overview-summary %} Para obtener más información, consulta "[Ver contribuciones en tu perfil](/articles/viewing-contributions-on-your-profile)."
 
-![Sección de resumen de actividad en el perfil](/assets/images/help/profile/activity-overview-section.png)
+![Sección de resumen de actividad en el perfil](/assets/images/2021/10/help/profile/activity-overview-section.png)
 
 {% data reusables.profile.access_profile %}
-2. Arriba de tu gráfica de contribuyentes, utiliza el menú desplegable de **configuración de contribuciones** y selecciona o deselecciona **Resumen de la actividad**. ![Habilita el resumen de actividad desde el menú desplegable de configuraciones de contribuciones](/assets/images/help/profile/activity-overview.png)
+2. Arriba de tu gráfica de contribuyentes, utiliza el menú desplegable de **configuración de contribuciones** y selecciona o deselecciona **Resumen de la actividad**. ![Habilita el resumen de actividad desde el menú desplegable de configuraciones de contribuciones](/assets/images/2021/10/help/profile/activity-overview.png)

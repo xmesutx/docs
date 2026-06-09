@@ -17,7 +17,7 @@ Você pode obter uma lista de todos os trabalhos atualmente em execução em exe
 {% data reusables.actions.github-hosted-runners-table-entry %}
 1. Revise a seção "Trabalhos Ativos", que contém uma lista com todos os trabalhos em execução atualmente nos executores hospedados em {% data variables.product.prodname_dotcom %}.
 
-  ![Captura de tela da lista de trabalhos ativos](/assets/images/help/settings/actions-runner-active-jobs.png)
+  ![Captura de tela da lista de trabalhos ativos](/assets/images/2022/02/help/settings/actions-runner-active-jobs.png)
 
 ## Visualizando tarefas em fila na sua organização ou empresa
 
@@ -27,4 +27,4 @@ O procedimento seguinte demonstra como verificar o número máximo de trabalhos 
 
 {% data reusables.actions.github-hosted-runners-navigate-to-repo-org-enterprise %}
 {% data reusables.actions.github-hosted-runners-table-entry %}
-1. Revise a seção "Uso de todos os trabalhos", que lista o número de trabalhos ativos e o número máximo de trabalhos que você pode executar. Neste exemplo, `9` trabalhos estão atualmente em execução em um total de `180`. ![Captura de tela do máximo de trabalhos para uma conta](/assets/images/help/settings/github-hosted-runners-max-jobs.png)
+1. Revise a seção "Uso de todos os trabalhos", que lista o número de trabalhos ativos e o número máximo de trabalhos que você pode executar. Neste exemplo, `9` trabalhos estão atualmente em execução em um total de `180`. ![Captura de tela do máximo de trabalhos para uma conta](/assets/images/2022/02/help/settings/github-hosted-runners-max-jobs.png)

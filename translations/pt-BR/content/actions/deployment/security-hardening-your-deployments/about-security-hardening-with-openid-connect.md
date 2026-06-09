@@ -35,7 +35,7 @@ Ao atualizar seus fluxos de trabalho para usar tokens do OIDC, você pode adotar
 
 O diagrama a seguir fornece uma visão geral de como o provedor OIDC de {% data variables.product.prodname_dotcom %} integra-se aos seus fluxos de trabalho e provedor de nuvem:
 
-![Diagrama do OIDC](/assets/images/help/images/oidc-architecture.png)
+![Diagrama do OIDC](/assets/images/2021/10/help/images/oidc-architecture.png)
 
 1. No seu provedor de nuvem, crie uma confiança do OIDC entre a sua função na nuvem e o(s) seu(s) fluxo(s) de trabalho {% data variables.product.prodname_dotcom %} que precisam acessar a nuvem.
 2. Toda vez que o seu trabalho é executado, o provedor OIDC de {% data variables.product.prodname_dotcom %} gera um token de OIDC automaticamente. Esse token contém várias reivindicações para estabelecer uma identidade de segurança reforçada e verificável sobre o fluxo de trabalho específico que está tentando autenticar.

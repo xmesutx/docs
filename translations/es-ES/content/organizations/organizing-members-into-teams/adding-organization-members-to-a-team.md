@@ -22,7 +22,7 @@ shortTitle: Agregar miembros a un equipo
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_members_tab %}
-6. Encima de la lista de los miembros del equipo, haz clic en **Add a member** (Agregar un miembro). ![Botón Add member (Agregar miembro)](/assets/images/help/teams/add-member-button.png)
+6. Encima de la lista de los miembros del equipo, haz clic en **Add a member** (Agregar un miembro). ![Botón Add member (Agregar miembro)](/assets/images/2021/10/help/teams/add-member-button.png)
 {% data reusables.organizations.invite_to_team %}
 {% data reusables.organizations.review-team-repository-access %}
 

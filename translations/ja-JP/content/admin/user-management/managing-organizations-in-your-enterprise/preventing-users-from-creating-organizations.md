@@ -24,4 +24,4 @@ shortTitle: Prevent organization creation
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. [Users can create organizations（ユーザによるOrganizationの作成可能）] の下で、ドロップダウンメニューを使って [**Enabled（有効化）**] あるいは [**Disabled（無効化）**] を選択してください。 ![[Users can create organizations] ドロップダウン](/assets/images/enterprise/site-admin-settings/users-create-orgs-dropdown.png)
+4. [Users can create organizations（ユーザによるOrganizationの作成可能）] の下で、ドロップダウンメニューを使って [**Enabled（有効化）**] あるいは [**Disabled（無効化）**] を選択してください。 ![[Users can create organizations] ドロップダウン](/assets/images/2021/10/enterprise/site-admin-settings/users-create-orgs-dropdown.png)

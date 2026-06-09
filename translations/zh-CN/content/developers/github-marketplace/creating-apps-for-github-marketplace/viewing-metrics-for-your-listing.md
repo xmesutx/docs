@@ -43,7 +43,7 @@ Insights 页面显示选定时段的以下性能指标：
 * **Unique visitors to checkout page（结账页面的绝对访客数）：**查看过 GitHub 应用程序结账页面的人数。
 * **Checkout page to new subscriptions（结账页面产生的新订阅数）：**付费订阅、免费试用和免费订阅的总数。 有关每种类型订阅的具体数量，请参阅“订阅总数的细分”。
 
-![Marketplace insights](/assets/images/marketplace/marketplace_insights.png)
+![Marketplace insights](/assets/images/2021/10/marketplace/marketplace_insights.png)
 
 要访问 {% data variables.product.prodname_marketplace %} Insights：
 
@@ -53,4 +53,4 @@ Insights 页面显示选定时段的以下性能指标：
 4. 选择要查看其 Insights 的 {% data variables.product.prodname_github_app %}。
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. 单击 **Insights** 选项卡。
-7. （可选）通过单击 Insights 页面右上角的 Period（时段）下拉列表选择不同的时间段。 ![Marketplace 时段](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. （可选）通过单击 Insights 页面右上角的 Period（时段）下拉列表选择不同的时间段。 ![Marketplace 时段](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

@@ -6,4 +6,4 @@
 
       {% endnote %}
 
-3. 要查看特定更改的详细信息，请从编辑列表中选择该更改。 ![查看评论的编辑详情](/assets/images/help/repository/choose-comment-edit-to-expand.png)
+3. 要查看特定更改的详细信息，请从编辑列表中选择该更改。 ![查看评论的编辑详情](/assets/images/2021/10/help/repository/choose-comment-edit-to-expand.png)

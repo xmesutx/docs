@@ -18,11 +18,11 @@ topics:
 
 Todo miembro de una organización puede publicar en la página de tu equipo o participar de un debate público. {% data reusables.organizations.team-discussions-permissions %}
 
-![Pestaña Debayes de la página del equipo con debates privados y públicos](/assets/images/help/organizations/team-page-discussions-tab.png)
+![Pestaña Debayes de la página del equipo con debates privados y públicos](/assets/images/2021/10/help/organizations/team-page-discussions-tab.png)
 
 Puedes vincularte a cualquier debate de equipo para hacer referencia al mismo en otro lugar. Puedes anclar publicaciones importantes a la página de tu equipo para una referencia rápida a futuro. Para obtener más información, consulta "[Anclar un debate del equipo](/organizations/collaborating-with-your-team/pinning-a-team-discussion)".
 
-![Pestaña Debates anclados de la página del equipo con debate anclado](/assets/images/help/organizations/team-discussions-pinned.png)
+![Pestaña Debates anclados de la página del equipo con debate anclado](/assets/images/2021/10/help/organizations/team-discussions-pinned.png)
 
 {% data reusables.organizations.team-discussions-default %} Los propietarios pueden desactivar debates del equipo para toda la organización. Para obtener más información, consulta "[Desactivar los debates del equipo para tu organización](/articles/disabling-team-discussions-for-your-organization)".
 

@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![Clone menu option in the Mac app](/assets/images/help/desktop/clone-file-menu-mac.png)
+  ![Clone menu option in the Mac app](/assets/images/2021/10/help/desktop/clone-file-menu-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![Clone menu option in the Windows app](/assets/images/help/desktop/clone-file-menu-windows.png)
+  ![Clone menu option in the Windows app](/assets/images/2021/10/help/desktop/clone-file-menu-windows.png)
 
   {% endwindows %}

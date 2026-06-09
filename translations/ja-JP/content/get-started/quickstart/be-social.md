@@ -28,7 +28,7 @@ topics:
 
 人をフォローするには、その人のプロフィールページで [**Follow**] をクリックします。
 
-![ユーザのフォローボタン](/assets/images/help/profile/follow-user-button.png)
+![ユーザのフォローボタン](/assets/images/2021/10/help/profile/follow-user-button.png)
 
 ## リポジトリを Watch する
 
@@ -36,7 +36,7 @@ topics:
 
 リポジトリを Watch するには、リポジトリの上部で [**Watch**] をクリックします。
 
-![リポジトリの Watch ボタン](/assets/images/help/repository/repo-actions-watch.png)
+![リポジトリの Watch ボタン](/assets/images/2021/10/help/repository/repo-actions-watch.png)
 
 ## 会話に参加する
 
@@ -52,19 +52,19 @@ topics:
 
  機能を追加したり、バグを修正したりして、他者のプロジェクトにコントリビュートしたいこともあるでしょう。 変更を行ったら、プルリクエストを送信してオリジナルの作者に知らせましょう。 詳しい情報については[プルリクエストについて](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)を参照してください。
 
- ![プルリクエストボタン](/assets/images/help/repository/repo-actions-pullrequest.png)
+ ![プルリクエストボタン](/assets/images/2021/10/help/repository/repo-actions-pullrequest.png)
 
 ### Issue を使用する
 
 リポジトリでコラボレーションする際に、Issue を使ってアイデア、拡張、タスク、バグを追跡してください。 詳細は「[Issues について](/articles/about-issues/)」を参照してください。
 
-![Issue ボタン](/assets/images/help/repository/repo-tabs-issues.png)
+![Issue ボタン](/assets/images/2021/10/help/repository/repo-tabs-issues.png)
 
 ### Organization への参加
 
 Organizationは、企業やオープンソースプロジェクトが多くのプロジェクトにわたって一度にコラボレーションできる共有アカウントです。 オーナーや管理者は、特殊な権限を持つ Team を作ることができ、パブリックな Organization のプロフィールを持つことができ、Organization 内でのアクティビティを追跡することができます。 詳細は「[Organization について](/articles/about-organizations/)」を参照してください。
 
-![アカウントのコンテキストの切り替えのドロップダウン](/assets/images/help/overview/dashboard-contextswitcher.png)
+![アカウントのコンテキストの切り替えのドロップダウン](/assets/images/2021/10/help/overview/dashboard-contextswitcher.png)
 
 ### {% data variables.product.prodname_dotcom %} 上の他のプロジェクトを調べる
 
@@ -72,7 +72,7 @@ Organizationは、企業やオープンソースプロジェクトが多くの�
 
 ## おめでとうございます
 
-これで、{% data variables.product.product_name %} コミュニティにつながりました。 次に何をしたいですか? ![プロジェクトに Star を付ける](/assets/images/help/stars/star-a-project.png)
+これで、{% data variables.product.product_name %} コミュニティにつながりました。 次に何をしたいですか? ![プロジェクトに Star を付ける](/assets/images/2021/10/help/stars/star-a-project.png)
 
 
 - To synchronize your {% data variables.product.product_name %} projects with your computer, you can set up Git. For more information see "[Set up Git](/articles/set-up-git)."

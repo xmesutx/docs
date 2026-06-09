@@ -88,16 +88,16 @@ For information about improving repository security, see "[Securing your reposit
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Danger Zone] の [Change repository visibility] の右側にある [**Change visibility**] をクリックします。 ![[Change visibility] ボタン](/assets/images/help/repository/repo-change-vis.png)
+3. [Danger Zone] の [Change repository visibility] の右側にある [**Change visibility**] をクリックします。 ![[Change visibility] ボタン](/assets/images/2021/10/help/repository/repo-change-vis.png)
 4. 可視性を選択します。
 {% ifversion fpt or ghec %}
-   ![リポジトリの可視性オプションのダイアログ](/assets/images/help/repository/repo-change-select.png){% else %}
-![Dialog of options for repository visibility](/assets/images/enterprise/repos/repo-change-select.png){% endif %}
+   ![リポジトリの可視性オプションのダイアログ](/assets/images/2021/10/help/repository/repo-change-select.png){% else %}
+![Dialog of options for repository visibility](/assets/images/2021/10/enterprise/repos/repo-change-select.png){% endif %}
 5. 正しいリポジトリの可視性を変更していることを確認するには、可視性を変更するリポジトリの名前を入力します。
 6. [**I understand, change repository visibility**] をクリックします。
 {% ifversion fpt or ghec %}
-   ![リポジトリの可視性ボタンの変更確認](/assets/images/help/repository/repo-change-confirm.png){% else %}
-![Confirm change of repository visibility button](/assets/images/enterprise/repos/repo-change-confirm.png){% endif %}
+   ![リポジトリの可視性ボタンの変更確認](/assets/images/2021/10/help/repository/repo-change-confirm.png){% else %}
+![Confirm change of repository visibility button](/assets/images/2021/10/enterprise/repos/repo-change-confirm.png){% endif %}
 
 
 ## 参考リンク

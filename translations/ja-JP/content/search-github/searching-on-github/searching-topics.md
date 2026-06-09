@@ -19,11 +19,11 @@ topics:
 {% data variables.product.product_name %} 上でトピックを検索したり、関連するトピックを調べたり、特定のトピックに関連するリポジトリがどのくらいあるのかを確認したりできます。
 
 1. Https://github.com/search に移動します。
-2. トピックのキーワードを入力します。 ![検索フィールド](/assets/images/help/search/search-field.png)
+2. トピックのキーワードを入力します。 ![検索フィールド](/assets/images/2021/10/help/search/search-field.png)
 3. 検索をトピックに絞るため、左サイドバーで [**Topics**] をクリックします。
 {% ifversion fpt or ghec %}
-  ![サイドメニューのオプションが強調されたトピックを含む Jekyll リポジトリ検索結果ページ](/assets/images/help/search/topic-left-side-navigation-dotcom.png){% else %}
-![Jekyll repository search results page on dotcom with topics side-menu option highlighted](/assets/images/help/search/topic-left-side-navigation.png)
+  ![サイドメニューのオプションが強調されたトピックを含む Jekyll リポジトリ検索結果ページ](/assets/images/2021/10/help/search/topic-left-side-navigation-dotcom.png){% else %}
+![Jekyll repository search results page on dotcom with topics side-menu option highlighted](/assets/images/2021/10/help/search/topic-left-side-navigation.png)
 {% endif %}
 
 ## 検索修飾子で検索を絞り込む

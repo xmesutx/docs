@@ -18,7 +18,7 @@ topics:
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-discussions-tab %}
-5. Clique em {% octicon "pin" aria-label="The pin icon" %} ao lado da discussão de equipe que deseja fixar. Você também pode desafixar uma discussão ao clicar no ícone. ![Fixar uma discussão](/assets/images/help/projects/pin-discussion-button.png)
+5. Clique em {% octicon "pin" aria-label="The pin icon" %} ao lado da discussão de equipe que deseja fixar. Você também pode desafixar uma discussão ao clicar no ícone. ![Fixar uma discussão](/assets/images/2021/10/help/projects/pin-discussion-button.png)
 
 ## Leia mais
 

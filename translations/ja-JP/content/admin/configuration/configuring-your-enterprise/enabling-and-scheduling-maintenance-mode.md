@@ -33,21 +33,21 @@ shortTitle: Configure maintenance mode
 
 メンテナンスウィンドウのスケジュールは、ユーザに準備時間を与えるために少なくとも30分は先にすることをおすすめします。 メンテナンスウィンドウがスケジューリングされると、すべてのユーザにはサイトにアクセスしたときにバナーが表示されます。
 
-![スケジューリングされたメンテナンスに関するエンドユーザ向けバナー](/assets/images/enterprise/maintenance/maintenance-scheduled.png)
+![スケジューリングされたメンテナンスに関するエンドユーザ向けバナー](/assets/images/2021/10/enterprise/maintenance/maintenance-scheduled.png)
 
 インスタンスがメンテナンスモードに入ると、通常のHTTP及びGitアクセスはすべて拒否されます。 Git fetch、clone、pushの操作も、サイトが一時的に利用できなくなっていることを示すエラーメッセージと共に拒否されます。 GitHub Actions jobs will not be executed. サイトにブラウザーでアクセスすると、メンテナンスページが表示されます。
 
-![メンテナンスモードのスプラッシュスクリーン](/assets/images/enterprise/maintenance/maintenance-mode-maintenance-page.png)
+![メンテナンスモードのスプラッシュスクリーン](/assets/images/2021/10/enterprise/maintenance/maintenance-mode-maintenance-page.png)
 
 ## メンテナンスモードの即時有効化あるいは後のためのメンテナンスウィンドウのスケジューリング
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. {% data variables.enterprise.management_console %}の上部で**Maintenance（メンテナンス）**をクリックしてください ![[Maintenance] タブ](/assets/images/enterprise/management-console/maintenance-tab.png)
+2. {% data variables.enterprise.management_console %}の上部で**Maintenance（メンテナンス）**をクリックしてください ![[Maintenance] タブ](/assets/images/2021/10/enterprise/management-console/maintenance-tab.png)
 3. "Enable and schedule（有効化とスケジュール）"の下で、即時にメンテナンスモードを有効化するか、将来にメンテナンスウィンドウをスケジューリングするかを決めてください。
-    - メンテナンスモードを直ちに有効にするには、プルダウンメニューを使用して [**now**] をクリックします。 ![メンテナンスモードを有効にするオプションが選択されたドロップダウンメニュー](/assets/images/enterprise/maintenance/enable-maintenance-mode-now.png)
-    - 今後のメンテナンス時間枠をスケジュール設定するには、ドロップダウンメニューを使用して開始時間をクリックします。 ![メンテナンス時間枠を 2 時間でスケジュール設定するオプションが選択されたドロップダウンメニュー](/assets/images/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
-4. **Enable maintenance mode（メンテナンスモードの有効化）**を選択してください。 ![メンテナンスモードの有効化とスケジューリングのためのチェックボックス](/assets/images/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
+    - メンテナンスモードを直ちに有効にするには、プルダウンメニューを使用して [**now**] をクリックします。 ![メンテナンスモードを有効にするオプションが選択されたドロップダウンメニュー](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-now.png)
+    - 今後のメンテナンス時間枠をスケジュール設定するには、ドロップダウンメニューを使用して開始時間をクリックします。 ![メンテナンス時間枠を 2 時間でスケジュール設定するオプションが選択されたドロップダウンメニュー](/assets/images/2021/10/enterprise/maintenance/schedule-maintenance-mode-two-hours.png)
+4. **Enable maintenance mode（メンテナンスモードの有効化）**を選択してください。 ![メンテナンスモードの有効化とスケジューリングのためのチェックボックス](/assets/images/2021/10/enterprise/maintenance/enable-maintenance-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## {% data variables.product.prodname_enterprise_api %}でのメンテナンスモードのスケジューリング

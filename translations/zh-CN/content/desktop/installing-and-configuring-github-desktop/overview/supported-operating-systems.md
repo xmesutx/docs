@@ -26,8 +26,8 @@ shortTitle: 支持的操作系统
 要解决此错误，请按照以下步骤操作。
 
 1. 打开“Keychain Access”应用程序。
-2. 右键单击 **login（登录）**，然后单击 **Lock Keychain "login"（锁定密钥链 [登录]）**。 !["锁定密钥链 "登录" 选项](/assets/images/help/desktop/mac-lock-keychain.png)
-3. 右键单击 **login（登录）**，然后单击 **Unlock Keychain "login"（解锁密钥链 [登录]）**。 按照屏幕上的提示完成解锁密钥链“登录”。 !["解锁密钥链 "登录" 选项](/assets/images/help/desktop/mac-unlock-keychain.png)
+2. 右键单击 **login（登录）**，然后单击 **Lock Keychain "login"（锁定密钥链 [登录]）**。 !["锁定密钥链 "登录" 选项](/assets/images/2021/10/help/desktop/mac-lock-keychain.png)
+3. 右键单击 **login（登录）**，然后单击 **Unlock Keychain "login"（解锁密钥链 [登录]）**。 按照屏幕上的提示完成解锁密钥链“登录”。 !["解锁密钥链 "登录" 选项](/assets/images/2021/10/help/desktop/mac-unlock-keychain.png)
 4. 重新验证您在 {% data variables.product.prodname_dotcom %} 或 {% data variables.product.prodname_enterprise %} 上的帐户。
 
 ### 检查更新后发生 `Could not create temporary directory: Permission denied` 错误
@@ -40,7 +40,7 @@ shortTitle: 支持的操作系统
 2. 打开 "Finder" 并导航到 `~/Library/Caches/`。
 3. 右键单击 `.github.githubClient.shipIt` ，然后单击 **Get Info（获取信息）**。
 4. 单击“Sharing & Permissions（共享和权限）”左边的箭头。
-5. 如果用户帐户右侧的权限没有显示“Read & Write（读取和写入）”，请单击文本，然后单击 **Read & Write（读取和写入）**。 !["共享和权限"选项](/assets/images/help/desktop/mac-adjust-permissions.png)
+5. 如果用户帐户右侧的权限没有显示“Read & Write（读取和写入）”，请单击文本，然后单击 **Read & Write（读取和写入）**。 !["共享和权限"选项](/assets/images/2021/10/help/desktop/mac-adjust-permissions.png)
 6. 打开 {% data variables.product.prodname_desktop %} 并检查更新。
 
 ## Windows 问题疑难排解

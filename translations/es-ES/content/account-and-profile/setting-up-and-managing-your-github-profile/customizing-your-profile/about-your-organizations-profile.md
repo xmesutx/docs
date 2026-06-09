@@ -21,9 +21,9 @@ Opcionalmente, puedes elegir agregar una descripción, ubicación, sitio web y d
 {% ifversion fpt or ghec %}Para confirmar la identidad de tu organización y mostrar el distintivo "Verificada" en la página del perfil de tu organización, debes verificar los dominios de tu organización con {% data variables.product.product_name %}. Para obtener más información, consulta la sección "[Verificar o aprobar un dominio para tu organización](/organizations/managing-organization-settings/verifying-or-approving-a-domain-for-your-organization)".{% endif %}
 
 {% ifversion fpt or ghes > 3.2 or ghec %}
-![Muestra de la página de perfil de una organización](/assets/images/help/organizations/org_profile_with_overview.png)
+![Muestra de la página de perfil de una organización](/assets/images/2021/10/help/organizations/org_profile_with_overview.png)
 {% else %}
-![Muestra de la página de perfil de una organización](/assets/images/help/profile/org_profile.png)
+![Muestra de la página de perfil de una organización](/assets/images/2021/10/help/profile/org_profile.png)
 {% endif %}
 
 ## Leer más

@@ -3,5 +3,5 @@ Puedes prevenir que los alumnos cambien los archivos que contienen pruebas para 
 Debajo de "Rutas de archivo protegidas", teclea las rutas relativas que se deben proteger dentro del repositorio.
 
 <div class="procedural-image-wrapper">
-  <img alt="Campo de texto para teclear las rutas de archivo protegidas" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-type-protected-file-paths.png">
+  <img alt="Campo de texto para teclear las rutas de archivo protegidas" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-type-protected-file-paths.png">
 </div>

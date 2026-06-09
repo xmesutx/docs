@@ -19,7 +19,7 @@ shortTitle: 提交和审核更改
 
 1. [创建新分支](/desktop/guides/contributing-to-projects/managing-branches)，或者单击工具栏中的 {% octicon "git-branch" aria-label="The branch icon" %} **Current Branch（当前分支）**并从列表中选择现有分支。
 
-  ![用于切换当前分支的下拉菜单](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![用于切换当前分支的下拉菜单](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.make-changes %}
 
 ## 选择如何显示差异
@@ -30,13 +30,13 @@ shortTitle: 提交和审核更改
 - 要更改整个差异的显示方式，在“Diff display（差异显示）”下选择 **Unified（统一）**或 **Split（分割）**。 统一视图线性显示变化，而分割视图则在左侧显示旧内容，在右侧显示新内容。
 - 要隐藏白空间更改，以便您可以专注于更实质性的更改，请选择 **Hide Whitespace Changes（隐藏白空间更改）**。
 
-![差异选项菜单](/assets/images/help/desktop/diff-selection.png)
+![差异选项菜单](/assets/images/2021/10/help/desktop/diff-selection.png)
 
 如果您需要查看的文件比默认情况下显示的 {% data variables.product.prodname_desktop %} 更多，则可以扩展差异。
 - 要查看突出显示的更改的上下几行，请单击行号上方或下方的箭头。
 - 要查看整个文件，请在差异视图中右键单击，然后单击 **Expand Whole File（扩展整个文件）**。
 
-![扩展差异视图](/assets/images/help/desktop/expand-diff-view.png)
+![扩展差异视图](/assets/images/2021/10/help/desktop/expand-diff-view.png)
 
 ## 选择要包含在提交中的更改
 
@@ -47,13 +47,13 @@ shortTitle: 提交和审核更改
 * 绿色的 {% octicon "diff-added" aria-label="The diff added icon color-green" %} 图标表示添加的文件。
 * 要访问隐藏的更改，请单击 **Stashed Changes（隐藏的更改）**。
 
-  ![隐藏的更改选项](/assets/images/help/desktop/stashed-changes.png)
+  ![隐藏的更改选项](/assets/images/2021/10/help/desktop/stashed-changes.png)
 * {% data reusables.desktop.commit-all-desc %}
 
-  ![选中复选框以提交所有更改的文件](/assets/images/help/desktop/commit-all.png)
+  ![选中复选框以提交所有更改的文件](/assets/images/2021/10/help/desktop/commit-all.png)
 * {% data reusables.desktop.commit-some-desc %}
 
-  ![选中要提交的文件旁边的复选框](/assets/images/help/desktop/commit-some.png)
+  ![选中要提交的文件旁边的复选框](/assets/images/2021/10/help/desktop/commit-some.png)
 
 ### 创建部分提交
 
@@ -61,7 +61,7 @@ shortTitle: 提交和审核更改
 
 要从提交中排除更改的行，请单击一条或多条更改的行，以使蓝色消失。 仍以蓝色突出显示的行将包含在提交中。
 
-  ![文件中取消选择的行](/assets/images/help/desktop/partial-commit.png)
+  ![文件中取消选择的行](/assets/images/2021/10/help/desktop/partial-commit.png)
 
 ## 放弃更改
 如果您有不想保留的未提交更改，可以放弃这些更改。 这将从计算机上的文件中删除更改。 您可以放弃一个或多个文件中所有未提交的更改，也可以丢弃添加的特定行。
@@ -73,10 +73,10 @@ shortTitle: 提交和审核更改
 {% data reusables.desktop.select-discard-files %}
 {% data reusables.desktop.click-discard-files %}
 
-  ![上下文菜单中的 Discard Changes（放弃更改）选项](/assets/images/help/desktop/discard-changes-mac.png)
+  ![上下文菜单中的 Discard Changes（放弃更改）选项](/assets/images/2021/10/help/desktop/discard-changes-mac.png)
 {% data reusables.desktop.confirm-discard-files %}
 
-  ![确认对话框中的放弃更改按钮](/assets/images/help/desktop/discard-changes-confirm-mac.png)
+  ![确认对话框中的放弃更改按钮](/assets/images/2021/10/help/desktop/discard-changes-confirm-mac.png)
 
 ### 丢弃一行或多行中的更改
 您可以丢弃一个或多个未提交的已更改行。
@@ -89,11 +89,11 @@ shortTitle: 提交和审核更改
 
 要丢弃一个添加的行，请在已更改的行列表中，右键单击要丢弃的行，然后选择 **Discard added line（丢弃添加的行）**。
 
-  ![在确认对话框中丢弃单行](/assets/images/help/desktop/discard-single-line.png)
+  ![在确认对话框中丢弃单行](/assets/images/2021/10/help/desktop/discard-single-line.png)
 
 要丢弃一组更改的行，请右键单击要丢弃的行编号右侧的垂直条，然后选择 **Discard added lines（丢弃添加的行）**。
 
-  ![在确认对话框中丢弃一组添加的行](/assets/images/help/desktop/discard-multiple-lines.png)
+  ![在确认对话框中丢弃一组添加的行](/assets/images/2021/10/help/desktop/discard-multiple-lines.png)
 
 
 ## 编写提交消息并推送更改
@@ -108,18 +108,18 @@ shortTitle: 提交和审核更改
 
 {% data reusables.desktop.commit-message %}
 
-  ![提交消息字段](/assets/images/help/desktop/commit-message.png)
+  ![提交消息字段](/assets/images/2021/10/help/desktop/commit-message.png)
 1. （可选）要将某个提交归于另一个作者，请单击合作作者图标并输入要包含的用户名。
 
-  ![添加合作作者到提交消息](/assets/images/help/desktop/add-co-author-commit.png)
+  ![添加合作作者到提交消息](/assets/images/2021/10/help/desktop/add-co-author-commit.png)
 {% data reusables.desktop.commit-button %}
 
-  ![提交按钮](/assets/images/help/desktop/commit-button.png)
+  ![提交按钮](/assets/images/2021/10/help/desktop/commit-button.png)
 4. 如果您尝试提交的分支受保护，Desktop 将警告您。
     - 要移动变更，请单击 **switch branches（切换分支）**。
     - 要将变更提交至受保护分支，请单击 **Commit to（提交至） _BRANCH（分支）_**。
 
   有关受保护分支的更多信息，请参阅“[关于受保护分支](/github/administering-a-repository/about-protected-branches)”。
 
-  ![受保护分支警告](/assets/images/help/desktop/protected-branch-warning.png)
+  ![受保护分支警告](/assets/images/2021/10/help/desktop/protected-branch-warning.png)
 {% data reusables.desktop.push-origin %}

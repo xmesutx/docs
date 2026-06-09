@@ -1,1 +1,1 @@
-1. 左側のサイドバーの、リポジトリリストの下にある [Manage notifications] ドロップダウンを使用して、[**Notification settings**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/help/notifications-v2/manage-notifications-options.png)
+1. 左側のサイドバーの、リポジトリリストの下にある [Manage notifications] ドロップダウンを使用して、[**Notification settings**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)

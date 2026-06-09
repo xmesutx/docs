@@ -20,7 +20,7 @@ Para guardar una notificación y revisarla más tarde, a la derecha de la misma,
 
 Las notificaciones guardadas se mantienen indefinidamente y se pueden ver si das clic en **Guardado** en la barra lateral o con la consulta `is:saved`. Si guardas las notificaciones por más de 5 meses y luego las dejas de guardar, estas desaparecerán de tu bandeja de entrada en un día.
 
-  ![Opción de clasificación en guardados](/assets/images/help/notifications-v2/save-triaging-option.png)
+  ![Opción de clasificación en guardados](/assets/images/2021/10/help/notifications-v2/save-triaging-option.png)
 
 ## Investigar una notificación
 
@@ -39,10 +39,10 @@ Puedes elegir como quieres recibir las notificaciones posteriores para una solic
 
 1. En la columna derecha del informe de problemas o solicitud de extracción, a un costado de "Notificaciones", da clic en **Personalizar**".
 
-  ![Personalizar opción debajo de "Notificaciones"](/assets/images/help/notifications-v2/customize-notifications-for-specific-thread.png)
+  ![Personalizar opción debajo de "Notificaciones"](/assets/images/2021/10/help/notifications-v2/customize-notifications-for-specific-thread.png)
 
 2. Selecciona **Personalizado** y elige cuando quieres recibir una actualización de notificación para este hilo. Por ejemplo, puedes elegir recibir una actualización cuando se fusiona, cierra o reabre la solicitud de extracción. Te suscribirás nuevamente si participas en el hilo, si se @menciona a tu nombre de usuario, o si se @menciona a algún equipo del cual formes parte.
 
-  ![Opciones para personalizar las notificaciones](/assets/images/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
+  ![Opciones para personalizar las notificaciones](/assets/images/2021/10/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
 
 3. Haz clic en **Save ** (guardar).

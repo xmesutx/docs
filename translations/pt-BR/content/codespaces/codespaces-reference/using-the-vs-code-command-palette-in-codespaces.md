@@ -29,13 +29,13 @@ Você pode acessar o {% data variables.product.prodname_vscode_command_palette %
 - <kbd>F1</kbd>
 - No Menu de Aplicativos, clique em **Ver > Paleta de Comando…**.
 
-  ![Menu do aplicativo](/assets/images/help/codespaces/codespaces-view-menu.png)
+  ![Menu do aplicativo](/assets/images/2021/10/help/codespaces/codespaces-view-menu.png)
 
 ## Comandos para {% data variables.product.prodname_github_codespaces %}
 
 Para ver todos os comandos relacionados a {% data variables.product.prodname_github_codespaces %}, [acesse o {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette) e, em seguida, comece a digitar "Codespaces".
 
-![Uma lista de todos os comandos que se referem a codespaces](/assets/images/help/codespaces/codespaces-command-palette.png)
+![Uma lista de todos os comandos que se referem a codespaces](/assets/images/2021/10/help/codespaces/codespaces-command-palette.png)
 
 ### Suspender ou interromper um codespace
 
@@ -43,13 +43,13 @@ Se você adicionar um novo segredo ou alterar o tipo de máquina, você terá qu
 
 Para suspender ou interromper o contêiner do seu codespace, [acesse o {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette)e, em seguida, comece a digitar "parar". Selecione **Codespaces: Parar o codespace atual**.
 
-![Comando para parar um codespace](/assets/images/help/codespaces/codespaces-stop.png)
+![Comando para parar um codespace](/assets/images/2021/10/help/codespaces/codespaces-stop.png)
 
 ### Adicionando um contêiner de desenvolvimento a partir de um modelo
 
 Para adicionar um contêiner de desenvolvimento a partir de um modelo, [acesse o {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette) e, em seguida, comece a digitar "dev container". Selecione **Codespaces: Adicionar arquivos de configuração de Contêiner do Desenvolvimento...**
 
-![Comando para adicionar um contêiner de desenvolvimento](/assets/images/help/codespaces/add-prebuilt-container-command.png)
+![Comando para adicionar um contêiner de desenvolvimento](/assets/images/2021/10/help/codespaces/add-prebuilt-container-command.png)
 
 ### Reconstruindo um codespace
 
@@ -57,7 +57,7 @@ Se você adicionar um contêiner de desenvolvimento ou editar qualquer um dos ar
 
 Para reconstruir seu contêiner, [acesse o {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette)e, em seguida, comece a digitar "recriar". Selecione **Codespaces: Reconstruir Contêiner**.
 
-![Comando para reconstruir um codespace](/assets/images/help/codespaces/codespaces-rebuild.png)
+![Comando para reconstruir um codespace](/assets/images/2021/10/help/codespaces/codespaces-rebuild.png)
 
 ### Registros de codespaces
 
@@ -65,4 +65,4 @@ Você pode usar o {% data variables.product.prodname_vscode_command_palette %} p
 
 Para recuperar os registros para os codespaces, [acesse o {% data variables.product.prodname_vscode_command_palette %}](#accessing-the-command-palette)e, em seguida, comece a digitar "registro". Selecione **Codespaces: Exportar registros** para exportar todos os registros relacionados aos codespaces ou selecione **Codespaces: Visualizar o registro de criação** para visualizar os registros relacionados à configuração.
 
-![Comando para acessar os registros](/assets/images/help/codespaces/codespaces-logs.png)
+![Comando para acessar os registros](/assets/images/2021/10/help/codespaces/codespaces-logs.png)

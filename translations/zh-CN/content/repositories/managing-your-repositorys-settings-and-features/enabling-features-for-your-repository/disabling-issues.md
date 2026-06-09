@@ -17,7 +17,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在 Features（功能）下，取消选择 **Issues（议题）**复选框。 ![删除议题复选框](/assets/images/help/issues/issues_settings_remove_from_repo.png)
+3. 在 Features（功能）下，取消选择 **Issues（议题）**复选框。 ![删除议题复选框](/assets/images/2021/10/help/issues/issues_settings_remove_from_repo.png)
 
 如果您决定未来再次启用议题，先前添加的任何议题将可用。
 

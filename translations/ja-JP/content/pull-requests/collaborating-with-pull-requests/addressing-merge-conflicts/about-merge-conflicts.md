@@ -20,7 +20,7 @@ Git がブランチ間の差異を自動的に解決してマージできる場�
 
 {% data variables.product.product_name %}上でプルリクエストをマージできるようにするには、すべてのマージコンフリクトを解決しなければなりません。 プルリクエスト中の比較ブランチとベースブランチ間でマージコンフリクトがある場合、[**Merge pull request**] ボタンの上に、競合する変更を持つファイルのリストが表示されます。 [**Merge pull request**] ボタンは、比較ブランチとベースブランチ間のすべての競合が解決されるまで、非アクティブになっています。
 
-![マージコンフリクトのエラーメッセージ](/assets/images/help/pull_requests/merge_conflict_error_on_github.png)
+![マージコンフリクトのエラーメッセージ](/assets/images/2021/10/help/pull_requests/merge_conflict_error_on_github.png)
 
 ## マージコンフリクトを解決する
 

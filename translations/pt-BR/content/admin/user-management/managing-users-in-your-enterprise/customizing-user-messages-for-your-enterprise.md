@@ -37,12 +37,12 @@ Você pode usar markdown para formatar sua mensagem. Para obter mais informaçõ
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-5. {% ifversion ghes %}À direita de{% else %}em{% endif %} "Página de login", clique **Adicionar mensagem** ou **Editar mensagem**. ![{% ifversion ghes %}Botão de mensagem de Adicionar{% else %}Editar{% endif %}](/assets/images/enterprise/site-admin-settings/edit-message.png)
-6. Em **Sign in message** (Mensagem de login), digite a mensagem que você pretende exibir para os usuários. ![Sign in message](/assets/images/enterprise/site-admin-settings/sign-in-message.png){% ifversion ghes %}
+5. {% ifversion ghes %}À direita de{% else %}em{% endif %} "Página de login", clique **Adicionar mensagem** ou **Editar mensagem**. ![{% ifversion ghes %}Botão de mensagem de Adicionar{% else %}Editar{% endif %}](/assets/images/2021/10/enterprise/site-admin-settings/edit-message.png)
+6. Em **Sign in message** (Mensagem de login), digite a mensagem que você pretende exibir para os usuários. ![Sign in message](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message.png){% ifversion ghes %}
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}{% else %}
 {% data reusables.enterprise_site_admin_settings.click-preview %}
-  ![Botão Preview (Visualizar)](/assets/images/enterprise/site-admin-settings/sign-in-message-preview-button.png)
-8. Revise a mensagem renderizada. ![Mensagem de login renderizada](/assets/images/enterprise/site-admin-settings/sign-in-message-rendered.png)
+  ![Botão Preview (Visualizar)](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message-preview-button.png)
+8. Revise a mensagem renderizada. ![Mensagem de login renderizada](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message-rendered.png)
 {% data reusables.enterprise_site_admin_settings.save-changes %}{% endif %}
 {% endif %}
 
@@ -51,12 +51,12 @@ Você pode usar markdown para formatar sua mensagem. Para obter mais informaçõ
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-5. {% ifversion ghes or ghae %}À direita de{% else %}em{% endif %} "página de logout", clique em **Adicionar mensagem** ou **Editar mensagem**. ![Botão Add message (Adicionar mensagem)](/assets/images/enterprise/site-admin-settings/sign-out-add-message-button.png)
-6. Em **Sign out message** (Mensagem de logout), digite a mensagem que você pretende exibir para os usuários. ![Sign two_factor_auth_header message](/assets/images/enterprise/site-admin-settings/sign-out-message.png){% ifversion ghes or ghae %}
+5. {% ifversion ghes or ghae %}À direita de{% else %}em{% endif %} "página de logout", clique em **Adicionar mensagem** ou **Editar mensagem**. ![Botão Add message (Adicionar mensagem)](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-add-message-button.png)
+6. Em **Sign out message** (Mensagem de logout), digite a mensagem que você pretende exibir para os usuários. ![Sign two_factor_auth_header message](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message.png){% ifversion ghes or ghae %}
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}{% else %}
 {% data reusables.enterprise_site_admin_settings.click-preview %}
-  ![Botão Preview (Visualizar)](/assets/images/enterprise/site-admin-settings/sign-out-message-preview-button.png)
-8. Revise a mensagem renderizada. ![Mensagem de logout renderizada](/assets/images/enterprise/site-admin-settings/sign-out-message-rendered.png)
+  ![Botão Preview (Visualizar)](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message-preview-button.png)
+8. Revise a mensagem renderizada. ![Mensagem de logout renderizada](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message-rendered.png)
 {% data reusables.enterprise_site_admin_settings.save-changes %}{% endif %}
 
 {% ifversion ghes or ghae %}
@@ -83,8 +83,8 @@ Cada vez que um usuário vê uma mensagem obrigatória, um evento de log de audi
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-1. À direita da "Mensagem obrigatória", clique em **Adicionar mensagem**. ![Botão de adicionar mensagem obrigatória](/assets/images/enterprise/site-admin-settings/add-mandatory-message-button.png)
-1. Em "Mensagem obrigatória", na caixa de texto, digite sua mensagem. ![Caixa de texto obrigatória](/assets/images/enterprise/site-admin-settings/mandatory-message-text-box.png)
+1. À direita da "Mensagem obrigatória", clique em **Adicionar mensagem**. ![Botão de adicionar mensagem obrigatória](/assets/images/2021/10/enterprise/site-admin-settings/add-mandatory-message-button.png)
+1. Em "Mensagem obrigatória", na caixa de texto, digite sua mensagem. ![Caixa de texto obrigatória](/assets/images/2021/10/enterprise/site-admin-settings/mandatory-message-text-box.png)
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}
 
 {% endif %}
@@ -105,8 +105,8 @@ Você também pode definir um banner de anúncio no shell administrativo usando 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-1. {% ifversion ghes or ghae %}À direita de{% else %}em{% endif %} "Anúncio", clique em **Adicionar anúncio**. ![Botão Add message (Adicionar mensagem)](/assets/images/enterprise/site-admin-settings/add-announcement-button.png)
-1. Em "Anúncio", no campo de texto, digite o anúncio que deseja exibir em um banner. ![Campo de texto para digitar o anúncio](/assets/images/enterprise/site-admin-settings/announcement-text-field.png)
-1. Opcionalmente, em "Expira em", selecione o menu suspenso do calendário e clique em uma data de validade. ![Menu suspenso do calendário para escolher data de vencimento](/assets/images/enterprise/site-admin-settings/expiration-drop-down.png)
+1. {% ifversion ghes or ghae %}À direita de{% else %}em{% endif %} "Anúncio", clique em **Adicionar anúncio**. ![Botão Add message (Adicionar mensagem)](/assets/images/2021/10/enterprise/site-admin-settings/add-announcement-button.png)
+1. Em "Anúncio", no campo de texto, digite o anúncio que deseja exibir em um banner. ![Campo de texto para digitar o anúncio](/assets/images/2021/10/enterprise/site-admin-settings/announcement-text-field.png)
+1. Opcionalmente, em "Expira em", selecione o menu suspenso do calendário e clique em uma data de validade. ![Menu suspenso do calendário para escolher data de vencimento](/assets/images/2021/10/enterprise/site-admin-settings/expiration-drop-down.png)
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}
 {% endif %}

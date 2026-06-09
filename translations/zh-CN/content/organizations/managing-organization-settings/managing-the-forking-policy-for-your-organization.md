@@ -27,9 +27,9 @@ shortTitle: 管理复刻策略
 1. 在“Repository forking（仓库复刻）”下，选择**允许私有{% ifversion ghec or ghes or ghae %}和内部{% endif %}仓库复刻**。
 
    {%- ifversion fpt %}
-   ![允许或禁止组织复刻的复选框](/assets/images/help/repository/allow-disable-forking-fpt.png)
+   ![允许或禁止组织复刻的复选框](/assets/images/2021/12/help/repository/allow-disable-forking-fpt.png)
    {%- elsif ghes or ghec or ghae %}
-   ![允许或禁止组织复刻的复选框](/assets/images/help/repository/allow-disable-forking-organization.png)
+   ![允许或禁止组织复刻的复选框](/assets/images/2021/10/help/repository/allow-disable-forking-organization.png)
    {%- endif %}
 6. 单击 **Save（保存）**。
 

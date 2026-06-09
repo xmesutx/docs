@@ -21,7 +21,7 @@ redirect_from:
 
 {% data variables.product.prodname_classroom %}の課題に移動して、自動採点テストでどの学生が合格したかの概要を表示できます。 緑色のチェックマークは、その学生がすべてのテストに合格したことを意味します。赤色のXは、その学生が一部またはすべてのテストで不合格だったことを意味します。 1つ以上のテストに得点を与えている場合、課題で獲得できる最高得点が吹き出しに表示されます。
 
-![自動採点結果を含む課題の概要](/assets/images/help/classroom/assignment-individual-hero.png)
+![自動採点結果を含む課題の概要](/assets/images/2021/10/help/classroom/assignment-individual-hero.png)
 
 ## 採点方法
 
@@ -65,12 +65,12 @@ redirect_from:
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.assignments-click-pencil %}
-1. 左サイトバーで、[**Grading and feedback**] をクリックします。 ![課題の基本情報の右側にある [Grading and feedback]](/assets/images/help/classroom/assignments-click-grading-and-feedback.png)
+1. 左サイトバーで、[**Grading and feedback**] をクリックします。 ![課題の基本情報の右側にある [Grading and feedback]](/assets/images/2021/10/help/classroom/assignments-click-grading-and-feedback.png)
 1. 自動採点テストを追加、編集、または削除します。
-    - テストを追加するには、[Add autograding tests] の下にある [**Add test**] ドロップダウンメニューを選択し、使用する採点方法をクリックします。 ![Using the "Add test" drop-down menu to click a grading method](/assets/images/help/classroom/autograding-click-grading-method.png) テストを設定し、[**Save test case**] をクリックします。 ![自動採点テストの [Save test case] ボタン](/assets/images/help/classroom/assignments-click-save-test-case-button.png)
-    - テストを編集するには、テスト名の右側にある {% octicon "pencil" aria-label="The pencil icon" %} をクリックします。 ![Pencil icon for editing an autograding test](/assets/images/help/classroom/autograding-click-pencil.png) テストを設定し、[**Save test case**] をクリックします。 ![自動採点テストの [Save test case] ボタン](/assets/images/help/classroom/assignments-click-save-test-case-button.png)
-    - テストを削除するには、テスト名の右側にある {% octicon "trash" aria-label="The trash icon" %} をクリックします。  ![自動採点テストを削除するためのゴミ箱アイコン](/assets/images/help/classroom/autograding-click-trash.png)
-1. ページの下部で、[**Update assignment**] をクリックします。 ![ページカブの [Update assignment] ボタン](/assets/images/help/classroom/assignments-click-update-assignment.png)
+    - テストを追加するには、[Add autograding tests] の下にある [**Add test**] ドロップダウンメニューを選択し、使用する採点方法をクリックします。 ![Using the "Add test" drop-down menu to click a grading method](/assets/images/2021/10/help/classroom/autograding-click-grading-method.png) テストを設定し、[**Save test case**] をクリックします。 ![自動採点テストの [Save test case] ボタン](/assets/images/2021/10/help/classroom/assignments-click-save-test-case-button.png)
+    - テストを編集するには、テスト名の右側にある {% octicon "pencil" aria-label="The pencil icon" %} をクリックします。 ![Pencil icon for editing an autograding test](/assets/images/2021/10/help/classroom/autograding-click-pencil.png) テストを設定し、[**Save test case**] をクリックします。 ![自動採点テストの [Save test case] ボタン](/assets/images/2021/10/help/classroom/assignments-click-save-test-case-button.png)
+    - テストを削除するには、テスト名の右側にある {% octicon "trash" aria-label="The trash icon" %} をクリックします。  ![自動採点テストを削除するためのゴミ箱アイコン](/assets/images/2021/10/help/classroom/autograding-click-trash.png)
+1. ページの下部で、[**Update assignment**] をクリックします。 ![ページカブの [Update assignment] ボタン](/assets/images/2021/10/help/classroom/assignments-click-update-assignment.png)
 
 ## Viewing and downloading results from autograding tests
 
@@ -78,13 +78,13 @@ redirect_from:
 
 You can also download a CSV of your students' autograding scores via the "Download" button. This will generate and download a CSV containing a link to the student's repository, their {% data variables.product.prodname_dotcom %} handle, roster identifier, submission timestamp, and autograding score.
 
-!["Download" button selected showing "Download grades highlighted" and an additional option to "Download repositories"](/assets/images/help/classroom/download-grades.png)
+!["Download" button selected showing "Download grades highlighted" and an additional option to "Download repositories"](/assets/images/2021/10/help/classroom/download-grades.png)
 
 ### View individual logs
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-assignment-in-list %}
-1. 提出物の右側にある、[**View text**] をクリックします。 ![課題提出物の [View test] ボタン](/assets/images/help/classroom/assignments-click-view-test.png)
+1. 提出物の右側にある、[**View text**] をクリックします。 ![課題提出物の [View test] ボタン](/assets/images/2021/10/help/classroom/assignments-click-view-test.png)
 1. テストの出力結果をレビューします。 詳しい情報については、「[ワークフロー実行ログを使用する](/actions/managing-workflow-runs/using-workflow-run-logs)」を参照してください。
 
 ## 参考リンク

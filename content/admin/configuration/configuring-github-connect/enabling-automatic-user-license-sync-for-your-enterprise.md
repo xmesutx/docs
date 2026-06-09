@@ -38,4 +38,4 @@ Before enabling license synchronization on {% data variables.product.product_loc
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.github-connect-tab %}
 1. Under "Server can sync user license count and usage", use the drop-down menu and select **Enabled**.
-  ![Drop-down menu to enable automatic user license sync](/assets/images/enterprise/site-admin-settings/enable-user-license-drop-down.png)
+  ![Drop-down menu to enable automatic user license sync](/assets/images/2021/10/enterprise/site-admin-settings/enable-user-license-drop-down.png)

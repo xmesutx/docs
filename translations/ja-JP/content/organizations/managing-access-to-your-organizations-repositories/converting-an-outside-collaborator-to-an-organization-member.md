@@ -28,9 +28,9 @@ Organization が[メンバーに 2 要素認証を使うことを要求](/articl
 {% data reusables.organizations.people %}
 {% data reusables.organizations.people_tab_outside_collaborators %}
 {% ifversion fpt or ghec %}
-5. メンバーにしたい外部のコラボレーターの名前の右側にある {% octicon "gear" aria-label="The gear icon" %} ドロップダウンメニューで、[**Invite to organization**] をクリックします。![外部のコラボレーターを Organization に招待](/assets/images/help/organizations/invite_outside_collaborator_to_organization.png)
+5. メンバーにしたい外部のコラボレーターの名前の右側にある {% octicon "gear" aria-label="The gear icon" %} ドロップダウンメニューで、[**Invite to organization**] をクリックします。![外部のコラボレーターを Organization に招待](/assets/images/2021/10/help/organizations/invite_outside_collaborator_to_organization.png)
 {% else %}
-5. メンバーにしたい外部のコラボレーターの名前の右側で、[**Invite to organization**] をクリックします。![外部のコラボレーターを Organization に招待](/assets/images/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
+5. メンバーにしたい外部のコラボレーターの名前の右側で、[**Invite to organization**] をクリックします。![外部のコラボレーターを Organization に招待](/assets/images/2021/10/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
 {% endif %}
 {% data reusables.organizations.choose-to-restore-privileges %}
 {% data reusables.organizations.choose-user-role-send-invitation %}

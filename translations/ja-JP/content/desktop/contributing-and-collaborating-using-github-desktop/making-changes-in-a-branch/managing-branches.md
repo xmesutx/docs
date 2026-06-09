@@ -34,47 +34,47 @@ You can also create a branch starting from a previous commit in a branch's histo
 {% mac %}
 
 {% data reusables.desktop.click-base-branch-in-drop-down %}
-  ![現在のブランチを切り替えるドロップダウンメニュー](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![現在のブランチを切り替えるドロップダウンメニュー](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.create-new-branch %}
-  ![ブランチメニュー内の [New Branch] オプション](/assets/images/help/desktop/new-branch-button-mac.png)
+  ![ブランチメニュー内の [New Branch] オプション](/assets/images/2021/10/help/desktop/new-branch-button-mac.png)
 {% data reusables.desktop.name-branch %}
-  ![新しいブランチの名前を作成するフィールド](/assets/images/help/desktop/create-branch-name-mac.png)
+  ![新しいブランチの名前を作成するフィールド](/assets/images/2021/10/help/desktop/create-branch-name-mac.png)
 {% data reusables.desktop.select-base-branch %}
-  ![ベースブランチのオプション](/assets/images/help/desktop/create-branch-choose-branch-mac.png)
+  ![ベースブランチのオプション](/assets/images/2021/10/help/desktop/create-branch-choose-branch-mac.png)
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![Create Branchボタン](/assets/images/help/desktop/create-branch-button-mac.png)
+  ![Create Branchボタン](/assets/images/2021/10/help/desktop/create-branch-button-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
 {% data reusables.desktop.click-base-branch-in-drop-down %}
-  ![現在のブランチを切り替えるドロップダウンメニュー](/assets/images/help/desktop/click-branch-in-drop-down-win.png)
+  ![現在のブランチを切り替えるドロップダウンメニュー](/assets/images/2021/10/help/desktop/click-branch-in-drop-down-win.png)
 {% data reusables.desktop.create-new-branch %}
-  ![ブランチメニュー内の [New Branch] オプション](/assets/images/help/desktop/new-branch-button-win.png)
+  ![ブランチメニュー内の [New Branch] オプション](/assets/images/2021/10/help/desktop/new-branch-button-win.png)
 {% data reusables.desktop.name-branch %}
-  ![新しいブランチの名前を作成するフィールド](/assets/images/help/desktop/create-branch-name-win.png)
+  ![新しいブランチの名前を作成するフィールド](/assets/images/2021/10/help/desktop/create-branch-name-win.png)
 {% data reusables.desktop.select-base-branch %}
-  ![ベースブランチのオプション](/assets/images/help/desktop/create-branch-choose-branch-win.png)
+  ![ベースブランチのオプション](/assets/images/2021/10/help/desktop/create-branch-choose-branch-win.png)
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![Create branchボタン](/assets/images/help/desktop/create-branch-button-win.png)
+  ![Create branchボタン](/assets/images/2021/10/help/desktop/create-branch-button-win.png)
 
 {% endwindows %}
 
 ## Creating a branch from a previous commit
 
 {% data reusables.desktop.history-tab %}
-2. Right-click on the commit you would like to create a new branch from and select **Create Branch from Commit**. ![Create branch from commit context menu](/assets/images/help/desktop/create-branch-from-commit-context-menu.png)
+2. Right-click on the commit you would like to create a new branch from and select **Create Branch from Commit**. ![Create branch from commit context menu](/assets/images/2021/10/help/desktop/create-branch-from-commit-context-menu.png)
 {% data reusables.desktop.name-branch %}
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![Create branch from commit](/assets/images/help/desktop/create-branch-from-commit-overview.png)
+  ![Create branch from commit](/assets/images/2021/10/help/desktop/create-branch-from-commit-overview.png)
 
 ## ブランチを公開する
 
 {% data variables.product.product_name %} にブランチを作成する場合は、ブランチを公開して、{% data variables.product.prodname_dotcom %} でのコラボレーションに使用できるようにする必要があります。
 
-1. アプリの上部で、{% octicon "git-branch" aria-label="The branch icon" %} [**Current Branch**] をクリックし、公開するブランチをクリックします。 ![公開するブランチを選択するドロップダウンメニュー](/assets/images/help/desktop/select-branch-from-dropdown.png)
-2. [**Publish branch**] をクリックします。 ![[Publish branch] ボタン](/assets/images/help/desktop/publish-branch-button.png)
+1. アプリの上部で、{% octicon "git-branch" aria-label="The branch icon" %} [**Current Branch**] をクリックし、公開するブランチをクリックします。 ![公開するブランチを選択するドロップダウンメニュー](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
+2. [**Publish branch**] をクリックします。 ![[Publish branch] ボタン](/assets/images/2021/10/help/desktop/publish-branch-button.png)
 
 ## ブランチ間の切り替え
 リポジトリのどんなブランチに対しても、コミットを表示したり、コミットを行ったりすることができます。 まだコミットしていない、保存した変更がある場合は、その変更の扱いについて、ブランチを切り替える前に決める必要があります。 You can commit your changes on the current branch, stash your changes to temporarily save them on the current branch, or bring the changes to your new branch. If you want to commit your changes before switching branches, see "[Committing and reviewing changes to your project](/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project)."
@@ -86,8 +86,8 @@ You can also create a branch starting from a previous commit in a branch's histo
 
 {% data reusables.desktop.current-branch-menu %}
 {% data reusables.desktop.switching-between-branches %}
-  ![リポジトリ内ブランチのリスト](/assets/images/help/desktop/select-branch-from-dropdown.png)
-3. 保存していて、まだコミットしていない変更がある場合は、[**Leave my changes**] または [**Bring my changes**] を選択してから、[**Switch Branch**] をクリックしてください。 ![[Switch branch] と変更オプション](/assets/images/help/desktop/stash-changes-options.png)
+  ![リポジトリ内ブランチのリスト](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
+3. 保存していて、まだコミットしていない変更がある場合は、[**Leave my changes**] または [**Bring my changes**] を選択してから、[**Switch Branch**] をクリックしてください。 ![[Switch branch] と変更オプション](/assets/images/2021/10/help/desktop/stash-changes-options.png)
 
 ## ブランチの削除
 
@@ -96,18 +96,18 @@ You can also create a branch starting from a previous commit in a branch's histo
 {% mac %}
 
 {% data reusables.desktop.select-branch-to-delete %}
-  ![削除するブランチを選択するドロップダウンメニュー](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![削除するブランチを選択するドロップダウンメニュー](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.delete-branch-mac %}
-  ![ブランチメニュー内の [Delete...] オプション](/assets/images/help/desktop/delete-branch-mac.png)
+  ![ブランチメニュー内の [Delete...] オプション](/assets/images/2021/10/help/desktop/delete-branch-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
 {% data reusables.desktop.select-branch-to-delete %}
-  ![削除するブランチを選択するドロップダウンメニュー](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![削除するブランチを選択するドロップダウンメニュー](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.delete-branch-win %}
-  ![ブランチメニュー内の [Delete...] オプション](/assets/images/help/desktop/delete-branch-win.png)
+  ![ブランチメニュー内の [Delete...] オプション](/assets/images/2021/10/help/desktop/delete-branch-win.png)
 
 {% endwindows %}
 

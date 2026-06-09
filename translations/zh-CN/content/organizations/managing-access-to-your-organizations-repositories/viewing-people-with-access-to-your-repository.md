@@ -17,9 +17,9 @@ shortTitle: 查看有访问权限的人
 
 管理员可以使用此信息帮助非内部人员，收集数据用于合规性以及其他常规安全检查。
 {% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-5974 %}
-![访问权限管理概览](/assets/images/help/repository/manage-access-overview.png)
+![访问权限管理概览](/assets/images/2021/10/help/repository/manage-access-overview.png)
 {% else %}
-![仓库人员权限列表](/assets/images/help/repository/repository-permissions-list.png)
+![仓库人员权限列表](/assets/images/2021/10/help/repository/repository-permissions-list.png)
 {% endif %}
 ## 查看具有仓库访问权限的人员
 
@@ -37,4 +37,4 @@ shortTitle: 查看有访问权限的人
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.accessing-repository-people %}
-4. 单击 **Export CSV（导出 CSV）**。 ![仓库边栏中的人员选项卡](/assets/images/help/repository/export-repository-permissions.png)
+4. 单击 **Export CSV（导出 CSV）**。 ![仓库边栏中的人员选项卡](/assets/images/2021/10/help/repository/export-repository-permissions.png)

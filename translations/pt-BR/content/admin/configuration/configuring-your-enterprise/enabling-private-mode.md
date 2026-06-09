@@ -31,5 +31,5 @@ Com o modo privado habilitado, você pode permitir que operações não autentic
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-4. Selecione **Private mode** (Modo privado). ![Caixa de seleção para habilitar o modo privado](/assets/images/enterprise/management-console/private-mode-checkbox.png)
+4. Selecione **Private mode** (Modo privado). ![Caixa de seleção para habilitar o modo privado](/assets/images/2021/10/enterprise/management-console/private-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}

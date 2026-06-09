@@ -70,7 +70,7 @@ Você pode criar e participar de problemas, pull requests e discussões de equip
 
 Este exemplo ilustra como um usuário do {% data variables.product.prodname_dotcom %} criou um problema na nossa documentação de repositório de código aberto para chamar a nossa atenção para um erro e discutir uma correção.
 
-![Exemplo de problema](/assets/images/help/issues/issue-example.png)
+![Exemplo de problema](/assets/images/2021/10/help/issues/issue-example.png)
 
 - Um usuário notou que a cor azul do banner na parte superior da página na versão em chinês da documentação do {% data variables.product.prodname_dotcom %} torna o texto no banner ilegível.
 - O usuário criou um problema no repositório, identificando o problema e sugerindo uma correção (que se trata de usar uma cor de fundo diferente para o banner).
@@ -90,11 +90,11 @@ Este exemplo ilustra como um usuário do {% data variables.product.prodname_dotc
 
 Na aba **Conversa** do pull request, o autor explica por que criou o pull request.
 
-![Exemplo de pull request - aba Conversa](/assets/images/help/pull_requests/pr-conversation-example.png)
+![Exemplo de pull request - aba Conversa](/assets/images/2021/10/help/pull_requests/pr-conversation-example.png)
 
 A aba**Arquivos alterados** do pull request mostra a correção implementada.
 
-![Exemplo de pull request - Aba de Arquivos alterados](/assets/images/help/pull_requests/pr-files-changed-example.png)
+![Exemplo de pull request - Aba de Arquivos alterados](/assets/images/2021/10/help/pull_requests/pr-files-changed-example.png)
 
 - Este contribuidor observa um erro de digitação no repositório.
 - O usuário cria um pull request com a correção.
@@ -112,7 +112,7 @@ A aba**Arquivos alterados** do pull request mostra a correção implementada.
 
 Este exemplo mostra a postagem de boas-vindas de {% data variables.product.prodname_discussions %} para a documentação do repositório de código aberto {% data variables.product.prodname_dotcom %} e ilustra como a equipe quer colaborar com sua comunidade.
 
-![Exemplo de {% data variables.product.prodname_discussions %}](/assets/images/help/discussions/github-discussions-example.png)
+![Exemplo de {% data variables.product.prodname_discussions %}](/assets/images/2021/10/help/discussions/github-discussions-example.png)
 
 Este mantenedor da comunidade iniciou uma discussão para dar as boas-vindas à comunidade e pedir aos integrantes que se apresentem. Esta postagem promove uma atmosfera de acolhedora para visitantes e contribuidores. A postagem também esclarece que a equipe tem o prazer em ajudar com as contribuições para o repositório.
 
@@ -133,7 +133,7 @@ Como você pode ver, as discussões da equipe são muito parecidas com {% data v
 
 Este exemplo mostra uma postagem de equipe para a equipe `octo-team`.
 
-![Exemplo de discussão em equipe](/assets/images/help/projects/team-discussions-example.png)
+![Exemplo de discussão em equipe](/assets/images/2021/10/help/projects/team-discussions-example.png)
 
 O integrante da equipe do `octocat` publicou uma discussão sobre a equipe, informando a equipe de várias coisas:
 - Um integrante da equipe denominado Mona iniciou eventos remotos de jogos.

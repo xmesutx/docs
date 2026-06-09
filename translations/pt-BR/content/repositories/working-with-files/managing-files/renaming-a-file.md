@@ -32,8 +32,8 @@ Renomear um arquivo também dá a oportunidade de [transferir o arquivo para um 
 {% endtip %}
 
 1. No repositório, navegue até o arquivo que deseja renomear.
-2. No canto superior direito da exibição do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor de arquivos. ![Ícone Edit file (Editar arquivo)](/assets/images/help/repository/edit-file-icon.png)
-3. No campo de nome do arquivo, insira o nome de arquivo que deseja atribuir. Você também pode atualizar o conteúdo do arquivo ao mesmo tempo. ![Editar um nome de arquivo](/assets/images/help/repository/changing-file-name.png)
+2. No canto superior direito da exibição do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor de arquivos. ![Ícone Edit file (Editar arquivo)](/assets/images/2021/10/help/repository/edit-file-icon.png)
+3. No campo de nome do arquivo, insira o nome de arquivo que deseja atribuir. Você também pode atualizar o conteúdo do arquivo ao mesmo tempo. ![Editar um nome de arquivo](/assets/images/2021/10/help/repository/changing-file-name.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_file_change %}

@@ -51,5 +51,5 @@ Se você planeja renomear um repositório que tenha um site do {% data variables
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. No cabeçalho **Repository Name** (Nome do repositório), insira o novo nome do repositório. ![Renomeação do repositório](/assets/images/help/repository/repository-name-change.png)
+3. No cabeçalho **Repository Name** (Nome do repositório), insira o novo nome do repositório. ![Renomeação do repositório](/assets/images/2021/10/help/repository/repository-name-change.png)
 4. Clique em **Rename** (Renomear). Pronto!

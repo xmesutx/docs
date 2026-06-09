@@ -19,5 +19,5 @@ shortTitle: Anonymous Git read access
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 「Enable anonymous Git read access」の横で、[**Enable**] をクリックします。 !["Anonymous Git read access" の下の "Enabled" ボタン](/assets/images/help/repository/enable-git-read-access-for-a-repo.png)
+3. 「Enable anonymous Git read access」の横で、[**Enable**] をクリックします。 !["Anonymous Git read access" の下の "Enabled" ボタン](/assets/images/2021/10/help/repository/enable-git-read-access-for-a-repo.png)
 4. 変更を確認します。 リポジトリの名前を入力し、[**I understand, enable anonymous Git read access.**] をクリックして確定します。

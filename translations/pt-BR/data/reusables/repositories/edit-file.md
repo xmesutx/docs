@@ -1,1 +1,1 @@
-1. No canto superior direito da exibição do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor de arquivos. ![Botão Edit file (Editar arquivo)](/assets/images/help/repository/edit-file-edit-button.png)
+1. No canto superior direito da exibição do arquivo, clique em {% octicon "pencil" aria-label="The edit icon" %} para abrir o editor de arquivos. ![Botão Edit file (Editar arquivo)](/assets/images/2021/10/help/repository/edit-file-edit-button.png)

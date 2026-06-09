@@ -33,7 +33,7 @@ Después de que hayas instalado {% data variables.product.prodname_desktop %}, p
 
 1. Antes de que te puedas autenticar en {% data variables.product.prodname_dotcom %} o en {% data variables.product.prodname_enterprise %}, necesitarás una cuenta. Para obtener más información acerca de cómo crear una cuenta, consulta la sección "[Registrar una cuenta de {% data variables.product.prodname_dotcom %} nueva](/github/getting-started-with-github/signing-up-for-a-new-github-account)" o contacta a tu administrador de stio de {% data variables.product.prodname_enterprise %}.
 
-2. En el menú desplegable de {% data variables.product.prodname_desktop %}, da clic en **Preferencias**. En la ventana de preferencias, da clic en **Cuentas** y sigue los pasos para iniciar sesión. Para obtener más información sobre la autenticación, consulta la sección "[Autenticarte en {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/help/desktop/mac-sign-in-github.png)
+2. En el menú desplegable de {% data variables.product.prodname_desktop %}, da clic en **Preferencias**. En la ventana de preferencias, da clic en **Cuentas** y sigue los pasos para iniciar sesión. Para obtener más información sobre la autenticación, consulta la sección "[Autenticarte en {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/2021/10/help/desktop/mac-sign-in-github.png)
 
 {% endmac %}
 
@@ -41,7 +41,7 @@ Después de que hayas instalado {% data variables.product.prodname_desktop %}, p
 
 1. Antes de que te puedas autenticar en {% data variables.product.prodname_dotcom %} o en {% data variables.product.prodname_enterprise %}, necesitarás una cuenta. Para obtener más información acerca de cómo crear una cuenta, consulta la sección "[Registrar una cuenta de {% data variables.product.prodname_dotcom %} nueva](/github/getting-started-with-github/signing-up-for-a-new-github-account)" o contacta a tu administrador de stio de {% data variables.product.prodname_enterprise %}.
 
-2. En el menú desplegable de archivo, da clic en **Opciones**. En la ventana de opciones, da clic en **Cuentas** y sigue los pasos para iniciar sesión. Para obtener más información sobre la autenticación, consulta la sección "[Autenticarte en {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/help/desktop/windows-sign-in-github.png)
+2. En el menú desplegable de archivo, da clic en **Opciones**. En la ventana de opciones, da clic en **Cuentas** y sigue los pasos para iniciar sesión. Para obtener más información sobre la autenticación, consulta la sección "[Autenticarte en {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![El botón Sign In (Iniciar sesión) para GitHub Enterprise](/assets/images/2021/10/help/desktop/windows-sign-in-github.png)
 
 {% endwindows %}
 
@@ -52,7 +52,7 @@ Después de que instales {% data variables.product.prodname_desktop %}, puedes c
 
 Puedes conectar o eliminar cuentas en {% data variables.product.prodname_dotcom %} o en {% data variables.product.prodname_enterprise %}, elegir un editor de texto o shell predeterminado, editar tu configuración de Git, cambiar la apariencia de {% data variables.product.prodname_desktop %}, personalizar las cajas de diálogo del sistema y configurar las preferencias de privacidad en la ventana de Preferencias de {% data variables.product.prodname_desktop %}. Para obtener más información, consulta la sección "[Configurar los ajustes básicos](/desktop/getting-started-with-github-desktop/configuring-basic-settings)".
 
-  ![Los ajustes básicos en la ventana de Preferencias](/assets/images/help/desktop/mac-appearance-tab-themes.png)
+  ![Los ajustes básicos en la ventana de Preferencias](/assets/images/2021/10/help/desktop/mac-appearance-tab-themes.png)
 
 {% endmac %}
 
@@ -60,7 +60,7 @@ Puedes conectar o eliminar cuentas en {% data variables.product.prodname_dotcom 
 
 Puedes conectar o eliminar cuentas en {% data variables.product.prodname_dotcom %} o en {% data variables.product.prodname_enterprise %}, elegir un editor de texto o shell predeterminado, editar tu configuración de Git, cambiar la apariencia de {% data variables.product.prodname_desktop %}, personalizar las cajas de diálogo del sistema y configurar las preferencias de privacidad en la ventana de Opciones de {% data variables.product.prodname_desktop %}. Para obtener más información, consulta la sección "[Configurar los ajustes básicos](/desktop/getting-started-with-github-desktop/configuring-basic-settings)".
 
-  ![Los ajustes básicos en la ventana de Opciones](/assets/images/help/desktop/windows-appearance-tab-themes.png)
+  ![Los ajustes básicos en la ventana de Opciones](/assets/images/2021/10/help/desktop/windows-appearance-tab-themes.png)
 
 {% endwindows %}
 
@@ -76,24 +76,24 @@ Puedes clonar un repositorio desde {% data variables.product.prodname_dotcom %} 
 
 {% mac %}
 
-  ![Las opciones del menú de Archivo para crear, agregar, y clonar repositorios](/assets/images/help/desktop/mac-file-menu.png)
+  ![Las opciones del menú de Archivo para crear, agregar, y clonar repositorios](/assets/images/2021/10/help/desktop/mac-file-menu.png)
 
 {% endmac %}
 
 {% windows %}
 
-  ![Las opciones del menú de Archivo para crear, agregar, y clonar repositorios](/assets/images/help/desktop/windows-file-menu.png)
+  ![Las opciones del menú de Archivo para crear, agregar, y clonar repositorios](/assets/images/2021/10/help/desktop/windows-file-menu.png)
 
 {% endwindows %}
 
 ### Realizar cambios en una rama
 Puedes utilizar {% data variables.product.prodname_desktop %} para crearuna rama de un proyecto. Las ramas aislan tu trabajo de desarrollo de otras ramas en el repositorio para que puedas experimentar con varios cambios de manera segura. Para obtener más información, consulta la sección "[Administrar ramas](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches)".
 
-  ![El botón de Rama Nueva](/assets/images/help/desktop/new-branch-button-mac.png)
+  ![El botón de Rama Nueva](/assets/images/2021/10/help/desktop/new-branch-button-mac.png)
 
 Después de que hagas cambios a una rama, puedes revisarlos en {% data variables.product.prodname_desktop %} y hacer una confirmación para controlar dichos cambios. Para obtener más información, consulta la sección "[Confirmar y revisar cambios hechos a tu proyecto](/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project)".
 
-  ![Viualizar y hacer confirmaciones](/assets/images/help/desktop/commit-button.png)
+  ![Viualizar y hacer confirmaciones](/assets/images/2021/10/help/desktop/commit-button.png)
 
 Si quieres acceder a tus cambios de manera remota o si quieres compartirlos con otras personas, puedes cargar tus confirmaciones en {% data variables.product.prodname_dotcom %}. Para obtener más información, consulta la sección "[Subir los cambios a {% data variables.product.prodname_dotcom %}](/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github)".
 

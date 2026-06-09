@@ -29,7 +29,7 @@ shortTitle: Organizationダッシュボード
 
 ダッシュボードの左サイドバーでは、自分がアクティブになっている Organization 内のリポジトリにアクセスできます。
 
-![Organization 内で自分が最もアクティブなリポジトリのリスト](/assets/images/help/dashboard/repositories-from-organization-dashboard.png)
+![Organization 内で自分が最もアクティブなリポジトリのリスト](/assets/images/2021/10/help/dashboard/repositories-from-organization-dashboard.png)
 
 ## Organization からのアクティビティの更新を受ける
 

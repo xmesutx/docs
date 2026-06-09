@@ -30,7 +30,7 @@ Your listing's name will appear on the [{% data variables.product.prodname_marke
 
 The community will see the "very short" description under your app's name on the [{% data variables.product.prodname_marketplace %} homepage](https://github.com/marketplace).
 
-![{% data variables.product.prodname_marketplace %} app short description](/assets/images/marketplace/marketplace_short_description.png)
+![{% data variables.product.prodname_marketplace %} app short description](/assets/images/2021/10/marketplace/marketplace_short_description.png)
 
 #### Length
 
@@ -102,11 +102,11 @@ If your app only works with specific languages, select up to 10 programming lang
 
 {% data variables.product.prodname_marketplace %} displays all listings with a square logo image inside a circular badge to visually distinguish apps.
 
-![GitHub Marketplace logo and badge images](/assets/images/marketplace/marketplace-logo-and-badge.png)
+![GitHub Marketplace logo and badge images](/assets/images/2021/10/marketplace/marketplace-logo-and-badge.png)
 
 A feature card consists of your app's logo, name, and a custom background image that captures your brand personality. {% data variables.product.prodname_marketplace %} displays this card if your app is one of the four randomly featured apps at the top of the [homepage](https://github.com/marketplace). Each app's very short description is displayed below its feature card.
 
-![Feature card](/assets/images/marketplace/marketplace_feature_card.png)
+![Feature card](/assets/images/2021/10/marketplace/marketplace_feature_card.png)
 
 As you upload images and select colors, your {% data variables.product.prodname_marketplace %} draft listing will display a preview of your logo and feature card.
 
@@ -134,11 +134,11 @@ To get to your app's landing page, click your app's name from the {% data variab
 
 Your "Introductory description" is displayed at the top of your app's {% data variables.product.prodname_marketplace %} landing page.
 
-![{% data variables.product.prodname_marketplace %} introductory description](/assets/images/marketplace/marketplace_intro_description.png)
+![{% data variables.product.prodname_marketplace %} introductory description](/assets/images/2021/10/marketplace/marketplace_intro_description.png)
 
 Clicking **Read more...**, displays the "Detailed description."
 
-![{% data variables.product.prodname_marketplace %} detailed description](/assets/images/marketplace/marketplace_detailed_description.png)
+![{% data variables.product.prodname_marketplace %} detailed description](/assets/images/2021/10/marketplace/marketplace_detailed_description.png)
 
 Follow these guidelines for writing these descriptions.
 
@@ -193,4 +193,4 @@ You can upload up to five screenshot images of your app to display on your app's
 - GitHub displays the screenshots you upload in a box on your app's landing page, so you don't need to add boxes or borders around your screenshots.
 - Captions are most effective when they are short and snappy.
 
-![GitHub Marketplace screenshot image](/assets/images/marketplace/marketplace-screenshots.png)
+![GitHub Marketplace screenshot image](/assets/images/2021/10/marketplace/marketplace-screenshots.png)

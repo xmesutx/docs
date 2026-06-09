@@ -43,11 +43,11 @@ En los repositorios de tu organización, los usuarios bloqueados tampoco podrán
 ## Bloquear a un usuario en un comentario
 
 1. Desplázate hasta el comentario cuyo autor deseas bloquear.
-2. En la esquina superior derecha del comentario, haz clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} (el ícono de kebab horizontal) , después haz clic en **Block user** (Bloquear usuario). ![El ícono de kebab horizontal y el menú de moderación de comentario que muestra las opciones de bloqueo del usuario](/assets/images/help/repository/comment-menu-block-user.png)
-3. Si deseas establecer un límite de tiempo para el bloqueo, usa el menú desplegable Block user (Bloquear usuario), y selecciona el período que deseas bloquear al usuario. ![Bloquear límite de tiempo en el menú desplegable para bloquear al usuario](/assets/images/help/organizations/org-block-options-menu-from-comment.png)
-4. Si deseas ocultar todos los comentarios que realizó el usuario en la organización, selecciona **Hide this user's comments** (Ocultar los comentarios del usuario) y elige un motivo. ![Enviar una notificación en el menú desplegable para bloquear al usuario](/assets/images/help/organizations/org-block-options-menu-hide-user-comments.png)
-5. Si te gustaría notificar al usuario sobre el motivo por el que fue bloqueado, selecciona **Send a notification to this user** (Enviar una notificación a este usuario). ![Enviar una notificación en el menú desplegable para bloquear al usuario](/assets/images/help/organizations/org-block-options-menu-send-notification.png)
-6. Para bloquear al usuario, haz clic en **Block user from organization** (Bloquear usuario de la organización) o **Block user from organization and send message** (Bloquear usuario de la organización y enviar mensaje). ![Botón Block user (Bloquear usuario)](/assets/images/help/organizations/org-block-user-button-in-comment.png)
+2. En la esquina superior derecha del comentario, haz clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} (el ícono de kebab horizontal) , después haz clic en **Block user** (Bloquear usuario). ![El ícono de kebab horizontal y el menú de moderación de comentario que muestra las opciones de bloqueo del usuario](/assets/images/2021/10/help/repository/comment-menu-block-user.png)
+3. Si deseas establecer un límite de tiempo para el bloqueo, usa el menú desplegable Block user (Bloquear usuario), y selecciona el período que deseas bloquear al usuario. ![Bloquear límite de tiempo en el menú desplegable para bloquear al usuario](/assets/images/2021/10/help/organizations/org-block-options-menu-from-comment.png)
+4. Si deseas ocultar todos los comentarios que realizó el usuario en la organización, selecciona **Hide this user's comments** (Ocultar los comentarios del usuario) y elige un motivo. ![Enviar una notificación en el menú desplegable para bloquear al usuario](/assets/images/2021/10/help/organizations/org-block-options-menu-hide-user-comments.png)
+5. Si te gustaría notificar al usuario sobre el motivo por el que fue bloqueado, selecciona **Send a notification to this user** (Enviar una notificación a este usuario). ![Enviar una notificación en el menú desplegable para bloquear al usuario](/assets/images/2021/10/help/organizations/org-block-options-menu-send-notification.png)
+6. Para bloquear al usuario, haz clic en **Block user from organization** (Bloquear usuario de la organización) o **Block user from organization and send message** (Bloquear usuario de la organización y enviar mensaje). ![Botón Block user (Bloquear usuario)](/assets/images/2021/10/help/organizations/org-block-user-button-in-comment.png)
 
 ## Bloquear a un usuario en los parámetros de la organización
 
@@ -56,9 +56,9 @@ En los repositorios de tu organización, los usuarios bloqueados tampoco podrán
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.block_users %}
-6. En "Block a user" (Bloquear a un usuario), escribe el nombre de usuario del usuario que deseas bloquear. ![Campo Username (Nombre de usuario)](/assets/images/help/organizations/org-block-username-field.png)
-7. Si deseas establecer un límite de tiempo para el bloqueo, usa el menú desplegable Block options (Bloquear opciones), y selecciona el período que deseas bloquear al usuario. ![Menú desplegable con las opciones de bloqueo](/assets/images/help/organizations/org-block-options-menu.png)
-8. Haz clic en **Block user** (Bloquear usuario). ![Botón Block (Bloquear)](/assets/images/help/organizations/org-block-user-button.png)
+6. En "Block a user" (Bloquear a un usuario), escribe el nombre de usuario del usuario que deseas bloquear. ![Campo Username (Nombre de usuario)](/assets/images/2021/10/help/organizations/org-block-username-field.png)
+7. Si deseas establecer un límite de tiempo para el bloqueo, usa el menú desplegable Block options (Bloquear opciones), y selecciona el período que deseas bloquear al usuario. ![Menú desplegable con las opciones de bloqueo](/assets/images/2021/10/help/organizations/org-block-options-menu.png)
+8. Haz clic en **Block user** (Bloquear usuario). ![Botón Block (Bloquear)](/assets/images/2021/10/help/organizations/org-block-user-button.png)
 
 ## Leer más
 

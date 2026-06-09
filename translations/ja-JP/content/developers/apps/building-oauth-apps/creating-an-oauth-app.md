@@ -25,14 +25,14 @@ topics:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
-4. [**New OAuth App**] をクリックします。 ![新しい OAuth App を作成するボタン](/assets/images/oauth-apps/oauth_apps_new_app.png)
+4. [**New OAuth App**] をクリックします。 ![新しい OAuth App を作成するボタン](/assets/images/2021/10/oauth-apps/oauth_apps_new_app.png)
 
   {% note %}
 
   **注釈:** アプリをまだ作成したことがない場合、このボタンに [**Register a new application**] と表示されます。
 
   {% endnote %}
-6. [Application name] に、アプリケーションの名前を入力します。 ![アプリケーションの名前フィールド](/assets/images/oauth-apps/oauth_apps_application_name.png)
+6. [Application name] に、アプリケーションの名前を入力します。 ![アプリケーションの名前フィールド](/assets/images/2021/10/oauth-apps/oauth_apps_application_name.png)
 
   {% warning %}
 
@@ -40,9 +40,9 @@ topics:
 
   {% endwarning %}
 
-7. [Homepage URL] に、アプリケーションのウェブサイトの完全な URL を入力します。 ![アプリケーションのホームページ URL フィールド](/assets/images/oauth-apps/oauth_apps_homepage_url.png)
-8. 必要に応じて、ユーザーに表示されるアプリケーションの説明を [Application description] に入力します。 ![アプリケーションの説明フィールド](/assets/images/oauth-apps/oauth_apps_application_description.png)
-9. [Authorization callback URL] に、アプリケーションのコールバック URL を入力します。 ![アプリケーションの認可コールバック URL フィールド](/assets/images/oauth-apps/oauth_apps_authorization_callback_url.png)
+7. [Homepage URL] に、アプリケーションのウェブサイトの完全な URL を入力します。 ![アプリケーションのホームページ URL フィールド](/assets/images/2021/10/oauth-apps/oauth_apps_homepage_url.png)
+8. 必要に応じて、ユーザーに表示されるアプリケーションの説明を [Application description] に入力します。 ![アプリケーションの説明フィールド](/assets/images/2021/10/oauth-apps/oauth_apps_application_description.png)
+9. [Authorization callback URL] に、アプリケーションのコールバック URL を入力します。 ![アプリケーションの認可コールバック URL フィールド](/assets/images/2021/10/oauth-apps/oauth_apps_authorization_callback_url.png)
 {% ifversion fpt or ghes or ghec %}
    {% note %}
 
@@ -50,4 +50,4 @@ topics:
 
    {% endnote %}
 {% endif %}
-10. **Register application** をクリックする。 ![アプリケーションを登録するボタン](/assets/images/oauth-apps/oauth_apps_register_application.png)
+10. **Register application** をクリックする。 ![アプリケーションを登録するボタン](/assets/images/2021/10/oauth-apps/oauth_apps_register_application.png)

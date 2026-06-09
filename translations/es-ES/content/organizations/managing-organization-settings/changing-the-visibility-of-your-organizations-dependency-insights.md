@@ -23,5 +23,5 @@ Los propietarios de la empresa pueden establecer limitaciones para ver la inform
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. En "Member organization permissions" (Permisos para miembros de la organización), selecciona o quita la marca de selección de **Allow members to view dependency insights** (Permitir que los miembros vean información de dependencias). ![Casilla de verificación para permitir que los miembros vean información](/assets/images/help/organizations/allow-members-to-view-insights.png)
+5. En "Member organization permissions" (Permisos para miembros de la organización), selecciona o quita la marca de selección de **Allow members to view dependency insights** (Permitir que los miembros vean información de dependencias). ![Casilla de verificación para permitir que los miembros vean información](/assets/images/2021/10/help/organizations/allow-members-to-view-insights.png)
 6. Haz clic en **Save ** (guardar).

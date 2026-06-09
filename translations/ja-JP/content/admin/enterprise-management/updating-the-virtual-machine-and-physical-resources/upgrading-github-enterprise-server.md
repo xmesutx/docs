@@ -98,8 +98,8 @@ If the upgrade target you're presented with is a feature release instead of a pa
 {% data reusables.enterprise_management_console.updates-tab %}
 4. 新しいホットパッチがダウンロードされたなら、Install package（パッケージのインストール）ドロップダウンメニューを使ってください。
     - すぐにインストールするなら**Now（即時）**を選択してください。
-    - 後でインストールするなら、後の日付を選択してください。 ![ホットパッチインストール日のドロップダウン](/assets/images/enterprise/management-console/hotpatch-installation-date-dropdown.png)
-5. [**Install**] をクリックします。 ![ホットパッチインストールボタン](/assets/images/enterprise/management-console/hotpatch-installation-install-button.png)
+    - 後でインストールするなら、後の日付を選択してください。 ![ホットパッチインストール日のドロップダウン](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-date-dropdown.png)
+5. [**Install**] をクリックします。 ![ホットパッチインストールボタン](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-install-button.png)
 
 #### 管理シェルを使ったホットパッチのインストール
 

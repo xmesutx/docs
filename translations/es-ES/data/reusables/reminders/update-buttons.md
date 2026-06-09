@@ -1,1 +1,1 @@
-1. Para guardar tus cambios, da clic en **Actualizar recordatorio**. Opcionalmente, para probar tus cambios mientras los actualizas, da clic en **Actualizar y probar recordatorio**. ![Botones de actualización](/assets/images/help/settings/scheduled-reminders-update-buttons.png)
+1. Para guardar tus cambios, da clic en **Actualizar recordatorio**. Opcionalmente, para probar tus cambios mientras los actualizas, da clic en **Actualizar y probar recordatorio**. ![Botones de actualización](/assets/images/2021/10/help/settings/scheduled-reminders-update-buttons.png)

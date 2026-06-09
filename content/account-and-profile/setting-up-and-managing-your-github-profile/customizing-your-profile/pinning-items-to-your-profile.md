@@ -24,15 +24,15 @@ You can reorder the items in the "Pinned" section. In the upper-right corner of 
 
 {% data reusables.profile.access_profile %}
 2. In the "Popular repositories" or "Pinned" section, click **Customize your pins**.
-	![Customize your pins button](/assets/images/help/profile/customize-pinned-repositories.png)
+	![Customize your pins button](/assets/images/2021/10/help/profile/customize-pinned-repositories.png)
 3. To display a searchable list of items to pin, select "Repositories", "Gists", or both.
-	![Checkboxes to select the types of items to display](/assets/images/help/profile/pinned-repo-picker.png)
+	![Checkboxes to select the types of items to display](/assets/images/2021/10/help/profile/pinned-repo-picker.png)
 4. Optionally, to make it easier to find a specific item, in the filter field, type the name of a user, organization, repository, or gist.
-	![Filter items](/assets/images/help/profile/pinned-repo-search.png)
+	![Filter items](/assets/images/2021/10/help/profile/pinned-repo-search.png)
 5. Select a combination of up to six repositories and/or gists to display.
-	![Select items](/assets/images/help/profile/select-items-to-pin.png)
+	![Select items](/assets/images/2021/10/help/profile/select-items-to-pin.png)
 6. Click **Save pins**.
-	![Save pins button](/assets/images/help/profile/save-pinned-repositories.png)
+	![Save pins button](/assets/images/2021/10/help/profile/save-pinned-repositories.png)
 
 ## Further reading
 

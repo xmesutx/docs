@@ -34,7 +34,7 @@ También puedes usar la barra de búsqueda "Filtrar tarjetas" en la parte superi
 - Filtrar tarjetas por repositorio en un tablero de proyecto de toda la organización utilizando `repo:ORGANIZATION/REPOSITORY`{% endif %}
 
 1. Dirígete al tablero de proyecto que contenga las tarjetas que desees filtrar.
-2. Sobre las columnas de las tarjetas del proyecto, haz clic en la barra de búsqueda "Filtrar tarjetas" y escribe la consulta de búsqueda para filtrar las tarjetas. ![Barra de búsqueda Filtrar tarjetas](/assets/images/help/projects/filter-card-search-bar.png)
+2. Sobre las columnas de las tarjetas del proyecto, haz clic en la barra de búsqueda "Filtrar tarjetas" y escribe la consulta de búsqueda para filtrar las tarjetas. ![Barra de búsqueda Filtrar tarjetas](/assets/images/2021/10/help/projects/filter-card-search-bar.png)
 
 {% tip %}
 

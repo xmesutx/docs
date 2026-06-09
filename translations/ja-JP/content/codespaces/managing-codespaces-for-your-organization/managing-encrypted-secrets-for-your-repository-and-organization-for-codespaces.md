@@ -59,7 +59,7 @@ Organizationでシークレットを作成する場合、ポリシーを使用�
 2. ページの上部にある [**New organization secret**] をクリックします。
 3. **[Name（名前）]** 入力ボックスにシークレットの名前を入力します。
 4. シークレットの **Value（値）** を入力します。
-5. [ **Repository access（リポジトリアクセス）** ドロップダウン リストから、アクセス ポリシーを選択します。 ![プライベートリポジトリが選択された [Repository Access] リスト](/assets/images/help/codespaces/secret-repository-access.png)
+5. [ **Repository access（リポジトリアクセス）** ドロップダウン リストから、アクセス ポリシーを選択します。 ![プライベートリポジトリが選択された [Repository Access] リスト](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 6. [**Add secret（シークレットの追加）**] をクリックします。
 
 ## Organizationレベルのシークレットへのアクセスの確認
@@ -69,7 +69,7 @@ Organization 内のシークレットに適用されているアクセスポリ�
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. シークレットのリストには、設定済みのアクセス許可とポリシーが含まれます。 例: ![シークレットリスト](/assets/images/help/settings/actions-org-secrets-list.png)
+1. シークレットのリストには、設定済みのアクセス許可とポリシーが含まれます。 例: ![シークレットリスト](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. 各シークレットに設定されているアクセス許可の詳細については、[**Update（更新）**] をクリックしてください。
 
 ## 参考リンク

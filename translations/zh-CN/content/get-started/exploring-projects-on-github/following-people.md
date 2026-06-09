@@ -25,41 +25,41 @@ topics:
 
 1. 单击用户图像以显示该用户的配置文件。
 
-  ![用户图像](/assets/images/help/profile/user-profile-image.png)
+  ![用户图像](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2. 在个人资料图片下点击 **Follow（关注）**。
 
-  ![关注用户按钮](/assets/images/help/profile/follow-user-button.png)
+  ![关注用户按钮](/assets/images/2021/10/help/profile/follow-user-button.png)
 
 ## 在 {% data variables.product.product_name %} 上取消关注用户
 
 1.  单击用户图像以显示该用户的配置文件。
 
-  ![用户图像](/assets/images/help/profile/user-profile-image.png)
+  ![用户图像](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2.  在其个人资料图片下点击 **Unfollow（取消关注）**。
 
-  ![用户个人资料按钮](/assets/images/help/profile/user-profile-unfollow-button.png)
+  ![用户个人资料按钮](/assets/images/2021/10/help/profile/user-profile-unfollow-button.png)
 
 ## 查看 {% data variables.product.product_name %} 上关注的用户
 
 1. 单击用户图像以显示该用户的配置文件。
 
-  ![用户图像](/assets/images/help/profile/user-profile-image.png)
+  ![用户图像](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2. 在其个人资料图片下点击**关注**。
 
-  ![用户关注](/assets/images/help/profile/user-profile-following.png)
+  ![用户关注](/assets/images/2021/10/help/profile/user-profile-following.png)
 
 ## 查看 {% data variables.product.product_name %} 上的关注者
 
 1. 单击用户图像以显示该用户的配置文件。
 
-  ![用户图像](/assets/images/help/profile/user-profile-image.png)
+  ![用户图像](/assets/images/2021/10/help/profile/user-profile-image.png)
 
 2. 在个人资料图片下点击**关注者**。
 
-  ![用户关注](/assets/images/help/profile/user-profile-followers.png)
+  ![用户关注](/assets/images/2021/10/help/profile/user-profile-followers.png)
 
 
 

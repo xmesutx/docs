@@ -42,4 +42,4 @@ shortTitle: プラン変更のwebhook
 
 {% data variables.product.prodname_marketplace %} webhookを設定すると、アプリケーションの[{% data variables.product.prodname_marketplace %}リスト](https://github.com/marketplace/manage)の**Webhook**ページから、`POST`リクエストのペイロードを調べることができるようになります。 GitHubは、失敗した配信の試行を再送信しません。 GitHubが送信したすべてのwebhookのペイロードを、アプリケーションが確実に受信できるようにしてください。
 
-![最近の{% data variables.product.prodname_marketplace %} webhookの配信の調査](/assets/images/marketplace/marketplace_webhook_deliveries.png)
+![最近の{% data variables.product.prodname_marketplace %} webhookの配信の調査](/assets/images/2021/10/marketplace/marketplace_webhook_deliveries.png)

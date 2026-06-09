@@ -30,7 +30,7 @@ Para remover a si mesmo da organização:
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. Clique **Desabilitar**. ![Botão Disable two-factor authentication (Desabilitar autenticação de dois fatores)](/assets/images/help/2fa/disable-two-factor-authentication.png)
+3. Clique **Desabilitar**. ![Botão Disable two-factor authentication (Desabilitar autenticação de dois fatores)](/assets/images/2021/10/help/2fa/disable-two-factor-authentication.png)
 
 ## Leia mais
 

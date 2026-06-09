@@ -29,7 +29,7 @@ If you want to create a new branch for your pull request and do not have write p
 
 デフォルトの親リポジトリが正しくない場合、親リポジトリとブランチをどちらもドロップダウンリストで変更できます。 また、基準点間の差分を確認するために、ドロップダウンリストで head ブランチと base ブランチを入れ替えることもできます。 ここで言う基準は GitHub リポジトリにあるブランチ名でなければなりません。
 
-![プルリクエスト編集ブランチ](/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
+![プルリクエスト編集ブランチ](/assets/images/2021/10/help/pull_requests/pull-request-review-edit-branch.png)
 
 ブランチを考えるとき、*base branch* は変更の適用**先**であり、*head ブランチ*には、適用する**変更内容**が含まれていることに注意してください。
 
@@ -50,9 +50,9 @@ base リポジトリを変更するとき、プルリクエストの通知も変
 {% webui %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. [Branch] メニューで、自分のコミットが含まれるブランチを選択します。 ![ブランチのドロップダウンメニュー](/assets/images/help/pull_requests/branch-dropdown.png)
+2. [Branch] メニューで、自分のコミットが含まれるブランチを選択します。 ![ブランチのドロップダウンメニュー](/assets/images/2021/10/help/pull_requests/branch-dropdown.png)
 {% data reusables.repositories.new-pull-request %}
-4. 変更をマージする対象のブランチを [_base_] ブランチドロップダウンメニューで選択し、次に変更を行ったトピックブランチを [_compare_] ブランチドロップダウンメニューで選択します。 ![ベースを選択し、ブランチを比較するドロップダウンメニュー](/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+4. 変更をマージする対象のブランチを [_base_] ブランチドロップダウンメニューで選択し、次に変更を行ったトピックブランチを [_compare_] ブランチドロップダウンメニューで選択します。 ![ベースを選択し、ブランチを比較するドロップダウンメニュー](/assets/images/2021/10/help/pull_requests/choose-base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -127,8 +127,8 @@ gh pr create --web
 {% mac %}
 
 1. プルリクエストを作成するブランチに切り替えます。 詳しい情報については、「[ブランチの切り替え](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)」を参照してください。
-2. **Create Pull Request**をクリックします {% data variables.product.prodname_desktop %} はデフォルトのブラウザを開いて {% data variables.product.prodname_dotcom %} に移動します。 ![[Create Pull Request] ボタン](/assets/images/help/desktop/mac-create-pull-request.png)
-4. {% data variables.product.prodname_dotcom %} で、**base:** ドロップダウンメニューのブランチが変更をマージするブランチであることを確認します。 **compare:** ドロップダウンメニューのブランチが、変更を加えたトピックブランチであることを確認します。 ![ベースを選択し、ブランチを比較するドロップダウンメニュー](/assets/images/help/desktop/base-and-compare-branches.png)
+2. **Create Pull Request**をクリックします {% data variables.product.prodname_desktop %} はデフォルトのブラウザを開いて {% data variables.product.prodname_dotcom %} に移動します。 ![[Create Pull Request] ボタン](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
+4. {% data variables.product.prodname_dotcom %} で、**base:** ドロップダウンメニューのブランチが変更をマージするブランチであることを確認します。 **compare:** ドロップダウンメニューのブランチが、変更を加えたトピックブランチであることを確認します。 ![ベースを選択し、ブランチを比較するドロップダウンメニュー](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -137,8 +137,8 @@ gh pr create --web
 {% windows %}
 
 1. プルリクエストを作成するブランチに切り替えます。 詳しい情報については、「[ブランチの切り替え](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)」を参照してください。
-2. **Create Pull Request**をクリックします {% data variables.product.prodname_desktop %} はデフォルトのブラウザを開いて {% data variables.product.prodname_dotcom %} に移動します。 ![[Create Pull Request] ボタン](/assets/images/help/desktop/windows-create-pull-request.png)
-3. {% data variables.product.prodname_dotcom %} で、**base:** ドロップダウンメニューのブランチが変更をマージするブランチであることを確認します。 **compare:** ドロップダウンメニューのブランチが、変更を加えたトピックブランチであることを確認します。 ![ベースを選択し、ブランチを比較するドロップダウンメニュー](/assets/images/help/desktop/base-and-compare-branches.png)
+2. **Create Pull Request**をクリックします {% data variables.product.prodname_desktop %} はデフォルトのブラウザを開いて {% data variables.product.prodname_dotcom %} に移動します。 ![[Create Pull Request] ボタン](/assets/images/2021/10/help/desktop/windows-create-pull-request.png)
+3. {% data variables.product.prodname_dotcom %} で、**base:** ドロップダウンメニューのブランチが変更をマージするブランチであることを確認します。 **compare:** ドロップダウンメニューのブランチが、変更を加えたトピックブランチであることを確認します。 ![ベースを選択し、ブランチを比較するドロップダウンメニュー](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -150,8 +150,8 @@ gh pr create --web
 
 {% codespaces %}
 
-1. Once you've committed changes to your local copy of the repository, click the **Create Pull Request** icon. ![ステージングボタンが強調表示されたソースコントロールサイドバー](/assets/images/help/codespaces/codespaces-commit-pr-button.png)
-1. マージ元のローカルブランチとリポジトリ、およびマージ先のリモートブランチとリポジトリが正しいことを確認します。 そして、プルリクエストにタイトルと説明を付けます。 ![GitHub pull request side bar](/assets/images/help/codespaces/codespaces-commit-pr.png)
+1. Once you've committed changes to your local copy of the repository, click the **Create Pull Request** icon. ![ステージングボタンが強調表示されたソースコントロールサイドバー](/assets/images/2021/10/help/codespaces/codespaces-commit-pr-button.png)
+1. マージ元のローカルブランチとリポジトリ、およびマージ先のリモートブランチとリポジトリが正しいことを確認します。 そして、プルリクエストにタイトルと説明を付けます。 ![GitHub pull request side bar](/assets/images/2021/10/help/codespaces/codespaces-commit-pr.png)
 1. ** Create（作成）**をクリックしてください。
 
 For more information on creating pull requests in {% data variables.product.prodname_codespaces %}, see "[Using Codespaces for pull requests](/codespaces/developing-in-codespaces/using-codespaces-for-pull-requests)."

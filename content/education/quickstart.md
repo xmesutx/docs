@@ -59,9 +59,9 @@ With your user account and organization account, you're ready to get started wit
 
 {% data reusables.classroom.sign-into-github-classroom %}
 1. To authorize {% data variables.product.prodname_classroom %} to access your user account on {% data variables.product.prodname_dotcom %}, review the information, then click **Authorize {% data variables.product.prodname_classroom %}**.
-  !["Authorize {% data variables.product.prodname_classroom %}" button for user account](/assets/images/help/classroom/setup-click-authorize-github-classroom.png)
+  !["Authorize {% data variables.product.prodname_classroom %}" button for user account](/assets/images/2021/10/help/classroom/setup-click-authorize-github-classroom.png)
 1. Review the information. To authorize {% data variables.product.prodname_classroom %} to access your organization account on {% data variables.product.prodname_dotcom %}, click **Grant**.
-  !["Grant" button for organization](/assets/images/help/classroom/setup-click-grant.png)
+  !["Grant" button for organization](/assets/images/2021/10/help/classroom/setup-click-grant.png)
   
   {% tip %}
   
@@ -70,7 +70,7 @@ With your user account and organization account, you're ready to get started wit
   {% endtip %}
   
 1. Click **Authorize github**.
-  ![Click "Authorize" button for organization](/assets/images/help/classroom/setup-click-authorize-github.png)
+  ![Click "Authorize" button for organization](/assets/images/2021/10/help/classroom/setup-click-authorize-github.png)
 
 ## Create your classroom
 

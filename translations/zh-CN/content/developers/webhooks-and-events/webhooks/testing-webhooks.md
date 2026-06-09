@@ -21,7 +21,7 @@ topics:
 
 {% data variables.product.product_name %} 保留每个 web 挂钩交付的日志 {% ifversion fpt or ghec %} 30 {% else %} 8 {% endif %} 天。
 
-![最近交付视图](/assets/images/webhooks_recent_deliveries.png)
+![最近交付视图](/assets/images/2021/10/webhooks_recent_deliveries.png)
 
 ## 挖掘结果
 
@@ -31,10 +31,10 @@ topics:
 
 Web 挂钩交付视图提供有关 GitHub 发送哪些标头的信息。 它还包括有关 JSON 有效负载的详细信息。
 
-![查看有效负载请求](/assets/images/payload_request_tab.png)
+![查看有效负载请求](/assets/images/2021/10/payload_request_tab.png)
 
 ### 响应
 
 响应选项卡列出了服务器从 GitHub 收到有效负载后如何响应。 这包括状态代码、标头以及响应正文中的任何其他数据。
 
-![查看有效负载响应](/assets/images/payload_response_tab.png)
+![查看有效负载响应](/assets/images/2021/10/payload_response_tab.png)

@@ -28,7 +28,7 @@ After you purchase or upgrade a license for {% data variables.product.prodname_e
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
-1. [Quick links] で [**Update license**] をクリックする。 ![ライセンス更新のリンク](/assets/images/enterprise/business-accounts/update-license-link.png)
-1. ライセンスを選択するには、[**License file**] をクリックするか、ライセンスファイルを [**License file**] にドラッグします。 ![ライセンスファイルのアップロード](/assets/images/enterprise/management-console/upload-license.png)
-1. [**Upload**] をクリックします。 ![アップロード開始](/assets/images/enterprise/management-console/begin-upload.png)
+1. [Quick links] で [**Update license**] をクリックする。 ![ライセンス更新のリンク](/assets/images/2021/10/enterprise/business-accounts/update-license-link.png)
+1. ライセンスを選択するには、[**License file**] をクリックするか、ライセンスファイルを [**License file**] にドラッグします。 ![ライセンスファイルのアップロード](/assets/images/2021/10/enterprise/management-console/upload-license.png)
+1. [**Upload**] をクリックします。 ![アップロード開始](/assets/images/2021/10/enterprise/management-console/begin-upload.png)
 

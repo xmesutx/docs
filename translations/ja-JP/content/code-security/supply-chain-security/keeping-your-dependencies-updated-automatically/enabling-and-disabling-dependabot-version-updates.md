@@ -89,7 +89,7 @@ updates:
 
 After you enable version updates, the **Dependabot** tab in the dependency graph for the repository is populated. このタブには、{% data variables.product.prodname_dependabot %} が監視するように設定されているパッケージマネージャーと、{% data variables.product.prodname_dependabot %} が最後に新しいバージョンをチェックした日時が表示されます。
 
-![[Repository Insights] タブ、[Dependency graph]、[Dependabot] タブ](/assets/images/help/dependabot/dependabot-tab-view.png)
+![[Repository Insights] タブ、[Dependency graph]、[Dependabot] タブ](/assets/images/2021/11/help/dependabot/dependabot-tab-view.png)
 
 詳しい情報については、「[バージョン更新用に設定された依存関係を一覧表示する](/github/administering-a-repository/listing-dependencies-configured-for-version-updates) 」を参照してください。
 

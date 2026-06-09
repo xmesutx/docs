@@ -26,17 +26,17 @@ shortTitle: Issue及びPRのアサイン
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 3. ユーザに割り当てる Issue またはPull Requestを開きます。
-4. Issue またはPull Requestに誰も割り当てられていない場合は、[**assign yourself**] をクリックして自分を割り当てます。 ![自分にアイテムを割り当てる](/assets/images/help/issues/assign_yourself.png)
-5. 右メニューで、[**Assignees**] をクリックします。 ![アサインされた人のメニュー項目](/assets/images/help/issues/assignee_menu.png)
-6. Issue またはPull Requestをユーザに割り当てるには、ユーザ名を入力し、表示された名前をクリックします。 Issue またはPull Requestには、最大で 10 人を選択してアサインできます。 ![Issue のアサインのドロップダウンメニュー](/assets/images/help/issues/issues_assigning_dropdown.png)
+4. Issue またはPull Requestに誰も割り当てられていない場合は、[**assign yourself**] をクリックして自分を割り当てます。 ![自分にアイテムを割り当てる](/assets/images/2021/10/help/issues/assign_yourself.png)
+5. 右メニューで、[**Assignees**] をクリックします。 ![アサインされた人のメニュー項目](/assets/images/2021/10/help/issues/assignee_menu.png)
+6. Issue またはPull Requestをユーザに割り当てるには、ユーザ名を入力し、表示された名前をクリックします。 Issue またはPull Requestには、最大で 10 人を選択してアサインできます。 ![Issue のアサインのドロップダウンメニュー](/assets/images/2021/10/help/issues/issues_assigning_dropdown.png)
 
 ## 複数の Issue またはPull Requestを割り当てる
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. 誰かにアサインしたいアイテムの隣のチェックボックスを選択してください。 ![Issue のメタデータチェックボックス](/assets/images/help/issues/issues_assign_checkbox.png)
+3. 誰かにアサインしたいアイテムの隣のチェックボックスを選択してください。 ![Issue のメタデータチェックボックス](/assets/images/2021/10/help/issues/issues_assign_checkbox.png)
 4. 右上隅にある [**Assign**] をクリックします。
-5. アイテムをユーザにアサインするには、その人のユーザ名を入力し始め、その名前が表示されたらクリックします。 Issue またはPull Requestには、最大で 10 人を選択してアサインできます。 ![Issue のアサインのドロップダウンメニュー](/assets/images/help/issues/issues_assigning_dropdown.png)
+5. アイテムをユーザにアサインするには、その人のユーザ名を入力し始め、その名前が表示されたらクリックします。 Issue またはPull Requestには、最大で 10 人を選択してアサインできます。 ![Issue のアサインのドロップダウンメニュー](/assets/images/2021/10/help/issues/issues_assigning_dropdown.png)
 
 ## 参考リンク
 

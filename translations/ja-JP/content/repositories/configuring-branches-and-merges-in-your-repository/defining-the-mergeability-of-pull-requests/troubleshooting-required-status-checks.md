@@ -43,7 +43,7 @@ remote: error: Required status check "ci-build" is failing
 
 テストマージコミットと head コミットのステータスチェックの結果が競合する場合があります。 テストマージコミットにステータスがある場合、そのテストマージコミットは必ずパスする必要があります。 それ以外の場合、ヘッドコミットのステータスは、ブランチをマージする前にパスする必要があります。 テストマージコミットに関する詳しい情報については、「[プル](/rest/reference/pulls#get-a-pull-request)」を参照してください。
 
-![マージコミットが競合しているブランチ](/assets/images/help/repository/req-status-check-conflicting-merge-commits.png)
+![マージコミットが競合しているブランチ](/assets/images/2021/10/help/repository/req-status-check-conflicting-merge-commits.png)
 {% endif %}
 
 ## Handling skipped but required checks
@@ -83,7 +83,7 @@ jobs:
 
 If someone submits a pull request that changes a markdown file in the root of the repository, then the workflow above won't run at all because of the path filtering. As a result you won't be able to merge the pull request. You would see the following status on the pull request:
 
-![Required check skipped but shown as pending](/assets/images/help/repository/PR-required-check-skipped.png)
+![Required check skipped but shown as pending](/assets/images/2021/11/help/repository/PR-required-check-skipped.png)
 
 You can fix this by creating a generic workflow, with the same name, that will return true in any case similar to the workflow below :
 
@@ -102,7 +102,7 @@ jobs:
 ```
 Now the checks will always pass whenever someone sends a pull request that doesn't change the files listed under `paths` in the first workflow.
 
-![Check skipped but passes due to generic workflow](/assets/images/help/repository/PR-required-check-passed-using-generic.png)
+![Check skipped but passes due to generic workflow](/assets/images/2021/11/help/repository/PR-required-check-passed-using-generic.png)
 
 {% note %}
 

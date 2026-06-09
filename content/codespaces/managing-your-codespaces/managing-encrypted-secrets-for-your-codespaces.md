@@ -50,9 +50,9 @@ Secrets are limited to 64 KB in size.
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
 1. To the right of "Codespaces secrets", click **New secret**.
-  !["New secret" button](/assets/images/help/settings/codespaces-new-secret-button.png)
+  !["New secret" button](/assets/images/2021/10/help/settings/codespaces-new-secret-button.png)
 1. Under "Name", type a name for your secret.
-  !["Name" text box](/assets/images/help/settings/codespaces-secret-name-field.png)
+  !["Name" text box](/assets/images/2021/10/help/settings/codespaces-secret-name-field.png)
 {% data reusables.user-settings.codespaces-secret-value %}
 {% data reusables.user-settings.codespaces-secret-repository-access %}
 1. Click **Add secret**.
@@ -64,13 +64,13 @@ You can update the value of an existing secret, and you can change which reposit
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
 1. Under "Codespaces secrets", to the right of the secret you want to edit, click **Update**.
-  !["Update" button](/assets/images/help/settings/codespaces-secret-update-button.png)
+  !["Update" button](/assets/images/2021/10/help/settings/codespaces-secret-update-button.png)
 1. Under "Value", click **enter a new value**.
-  !["enter a new value" link](/assets/images/help/settings/codespaces-secret-update-value-text.png)
+  !["enter a new value" link](/assets/images/2021/10/help/settings/codespaces-secret-update-value-text.png)
 {% data reusables.user-settings.codespaces-secret-value %}
 {% data reusables.user-settings.codespaces-secret-repository-access %}
 1. Optionally, to remove the secret's access to a repository, deselect the repository.
-  ![Checkboxes to remove access to repositories](/assets/images/help/settings/codespaces-secret-repository-checkboxes.png)
+  ![Checkboxes to remove access to repositories](/assets/images/2021/10/help/settings/codespaces-secret-repository-checkboxes.png)
 1. Click **Save changes**.
 
 ## Deleting a secret
@@ -78,9 +78,9 @@ You can update the value of an existing secret, and you can change which reposit
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
 1. Under "Codespaces secrets", to the right of the secret you want to delete, click **Delete**.
-  !["Delete" button](/assets/images/help/settings/codespaces-secret-delete-button.png)
+  !["Delete" button](/assets/images/2021/10/help/settings/codespaces-secret-delete-button.png)
 1. Read the warning, then click **OK**.
-  ![Confirmation to delete secret](/assets/images/help/settings/codespaces-secret-delete-warning.png)
+  ![Confirmation to delete secret](/assets/images/2021/10/help/settings/codespaces-secret-delete-warning.png)
 
 ## Further reading
 

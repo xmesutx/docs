@@ -28,7 +28,7 @@ miniTocMaxHeadingLevel: 3
 
 每个工作流程运行都会生成一个实时图表，说明运行进度。 您可以使用此图表来监控和调试工作流程。 例如：
 
-   ![工作流程图表](/assets/images/help/images/workflow-graph.png)
+   ![工作流程图表](/assets/images/2021/10/help/images/workflow-graph.png)
 
 更多信息请参阅“[使用可视化图](/actions/monitoring-and-troubleshooting-workflows/using-the-visualization-graph)”。
 
@@ -45,7 +45,7 @@ miniTocMaxHeadingLevel: 3
 
 要确定作业运行所花费的时间，可以查看其执行时间。 例如：
 
-   ![运行和可计费时间详细信息链接](/assets/images/help/repository/view-run-billable-time.png)
+   ![运行和可计费时间详细信息链接](/assets/images/2021/10/help/repository/view-run-billable-time.png)
 
 更多信息请参阅“[查看作业执行时间](/actions/monitoring-and-troubleshooting-workflows/viewing-job-execution-time)”。
 {% endif %}
@@ -54,7 +54,7 @@ miniTocMaxHeadingLevel: 3
 
 您可以查看工作流程中每个作业和步骤的状态。 例如：
 
-   ![工作流程运行的名称](/assets/images/help/repository/run-name.png)
+   ![工作流程运行的名称](/assets/images/2021/10/help/repository/run-name.png)
 
 更多信息请参阅“[查看工作流程运行历史记录](/actions/monitoring-and-troubleshooting-workflows/viewing-workflow-run-history)”。
 
@@ -64,7 +64,7 @@ miniTocMaxHeadingLevel: 3
 
 每个工作流程运行都会生成活动日志，您可以查看、搜索和下载这些日志。 例如：
 
-   ![Super linter 工作流程结果](/assets/images/help/repository/super-linter-workflow-results-updated-2.png)
+   ![Super linter 工作流程结果](/assets/images/2021/10/help/repository/super-linter-workflow-results-updated-2.png)
 
 更多信息请参阅“[使用工作流程运行日志](/actions/monitoring-and-troubleshooting-workflows/using-workflow-run-logs)”。
 

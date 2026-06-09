@@ -1,1 +1,1 @@
-1. Enterpriseアカウントのサイドバーで、{% octicon "gear" aria-label="The Settings gear" %}** Settings（設定）**をクリックしてください。 ![Enterpriseアカウントサイドバー内の設定タブ](/assets/images/help/business-accounts/enterprise-account-settings-tab.png)
+1. Enterpriseアカウントのサイドバーで、{% octicon "gear" aria-label="The Settings gear" %}** Settings（設定）**をクリックしてください。 ![Enterpriseアカウントサイドバー内の設定タブ](/assets/images/2021/10/help/business-accounts/enterprise-account-settings-tab.png)

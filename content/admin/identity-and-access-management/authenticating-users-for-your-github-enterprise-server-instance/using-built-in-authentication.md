@@ -24,7 +24,7 @@ You can create custom messages that users will see on the sign in and sign out p
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
 4. Select **Built in authentication**.
-![Select built-in authentication option](/assets/images/enterprise/management-console/built-in-auth-select.png)
+![Select built-in authentication option](/assets/images/2021/10/enterprise/management-console/built-in-auth-select.png)
 
 {% data reusables.enterprise_user_management.two_factor_auth_header %}
 {% data reusables.enterprise_user_management.2fa_is_available %}
@@ -34,7 +34,7 @@ You can create custom messages that users will see on the sign in and sign out p
 Once your instance has been created, you'll need to create your own admin account.
 
 1. On the "Create Admin Account" page at `http(s)://[hostname]/join`, choose your username, password, and email address, then click **Create an account**.
-![Create Admin Account](/assets/images/enterprise/site-admin-settings/create-first-admin-acct.png)
+![Create Admin Account](/assets/images/2021/10/enterprise/site-admin-settings/create-first-admin-acct.png)
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 
 ## Inviting users

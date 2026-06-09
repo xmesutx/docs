@@ -74,7 +74,7 @@ jobs:
 * `Should -Be $true` - Uses Pester to define an expected result. If the result is unexpected, then {% data variables.product.prodname_actions %} flags this as a failed test. For example:
 
   
-  ![Failed Pester test](/assets/images/help/repository/actions-failed-pester-test-updated.png)
+  ![Failed Pester test](/assets/images/2021/10/help/repository/actions-failed-pester-test-updated.png)
   
 
 * `Invoke-Pester Unit.Tests.ps1 -Passthru` - Uses Pester to execute tests defined in a file called `Unit.Tests.ps1`. For example, to perform the same test described above, the `Unit.Tests.ps1` will contain the following:

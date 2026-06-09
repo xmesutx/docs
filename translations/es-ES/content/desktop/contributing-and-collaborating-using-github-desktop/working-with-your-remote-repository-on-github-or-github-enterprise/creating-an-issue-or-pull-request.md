@@ -28,15 +28,15 @@ Amtes de crear una solicitud de extracción, necesitarás subir los cambios a un
 
 {% mac %}
 
-1. En la barra de menú, utiliza el menú desplegable de **Repositorio** y luego da clic en **Crear informe de problemas en {% data variables.product.prodname_dotcom %}**. ![Valor del repositorio en el menú de la rama](/assets/images/help/desktop/create-issue-mac.png)
-2. En {% data variables.product.prodname_dotcom %}, da clic en **Empezar** para abrir una plantilla de informe de problemas o da clic en **Abrir un informe de problemas en blanco**. ![Opciones para crear nuevo informe de problemas](/assets/images/help/desktop/create-new-issue.png)
+1. En la barra de menú, utiliza el menú desplegable de **Repositorio** y luego da clic en **Crear informe de problemas en {% data variables.product.prodname_dotcom %}**. ![Valor del repositorio en el menú de la rama](/assets/images/2021/10/help/desktop/create-issue-mac.png)
+2. En {% data variables.product.prodname_dotcom %}, da clic en **Empezar** para abrir una plantilla de informe de problemas o da clic en **Abrir un informe de problemas en blanco**. ![Opciones para crear nuevo informe de problemas](/assets/images/2021/10/help/desktop/create-new-issue.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. En la barra de menú, utiliza el menú desplegable de **Repositorio** y luego da clic en **Crear usuario en {% data variables.product.prodname_dotcom %}**. ![El valor del repositorio en el menú de la rama](/assets/images/help/desktop/create-issue-windows.png)
-2. En {% data variables.product.prodname_dotcom %}, da clic en **Empezar** para abrir una plantilla de informe de problemas o da clic en **Abrir un informe de problemas en blanco**. ![Opciones para crear nuevo informe de problemas](/assets/images/help/desktop/create-new-issue.png)
+1. En la barra de menú, utiliza el menú desplegable de **Repositorio** y luego da clic en **Crear usuario en {% data variables.product.prodname_dotcom %}**. ![El valor del repositorio en el menú de la rama](/assets/images/2021/10/help/desktop/create-issue-windows.png)
+2. En {% data variables.product.prodname_dotcom %}, da clic en **Empezar** para abrir una plantilla de informe de problemas o da clic en **Abrir un informe de problemas en blanco**. ![Opciones para crear nuevo informe de problemas](/assets/images/2021/10/help/desktop/create-new-issue.png)
 
 {% endwindows %}
 
@@ -51,8 +51,8 @@ Amtes de crear una solicitud de extracción, necesitarás subir los cambios a un
 {% mac %}
 
 1. Cambia a la rama para la cual quieras crear una solicitud de extracción. Para obtener más información, consulta la sección "[Cambiar entre ramas](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)".
-2. Haz clic en **Create Pull Request** (Crear solicitud de extracción). {% data variables.product.prodname_desktop %} abrirá tu buscador predeterminado para llevarte a {% data variables.product.prodname_dotcom %}. ![El botón de crear solicitud de extracción](/assets/images/help/desktop/mac-create-pull-request.png)
-4. En {% data variables.product.prodname_dotcom %}, confirma que la rama en el menú desplegable de **base:** se aquella en donde quieres fusionar tus cambios. Confirma que la rama en el menú desplegable de **comparar:** es la rama de tema en donde realizaste tus cambios. ![Menús desplegables para elegir la base y comparar ramas](/assets/images/help/desktop/mac-create-pull-request.png)
+2. Haz clic en **Create Pull Request** (Crear solicitud de extracción). {% data variables.product.prodname_desktop %} abrirá tu buscador predeterminado para llevarte a {% data variables.product.prodname_dotcom %}. ![El botón de crear solicitud de extracción](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
+4. En {% data variables.product.prodname_dotcom %}, confirma que la rama en el menú desplegable de **base:** se aquella en donde quieres fusionar tus cambios. Confirma que la rama en el menú desplegable de **comparar:** es la rama de tema en donde realizaste tus cambios. ![Menús desplegables para elegir la base y comparar ramas](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -61,8 +61,8 @@ Amtes de crear una solicitud de extracción, necesitarás subir los cambios a un
 {% windows %}
 
 1. Cambia a la rama para la cual quieras crear una solicitud de extracción. Para obtener más información, consulta la sección "[Cambiar entre ramas](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)".
-2. Haz clic en **Create Pull Request** (Crear solicitud de extracción). {% data variables.product.prodname_desktop %} abrirá tu buscador predeterminado para llevarte a {% data variables.product.prodname_dotcom %}. ![El botón de crear solicitud de extracción](/assets/images/help/desktop/windows-create-pull-request.png)
-3. En {% data variables.product.prodname_dotcom %}, confirma que la rama en el menú desplegable de **base:** se aquella en donde quieres fusionar tus cambios. Confirma que la rama en el menú desplegable de **comparar:** es la rama de tema en donde realizaste tus cambios. ![Menús desplegables para elegir la base y comparar ramas](/assets/images/help/desktop/mac-create-pull-request.png)
+2. Haz clic en **Create Pull Request** (Crear solicitud de extracción). {% data variables.product.prodname_desktop %} abrirá tu buscador predeterminado para llevarte a {% data variables.product.prodname_dotcom %}. ![El botón de crear solicitud de extracción](/assets/images/2021/10/help/desktop/windows-create-pull-request.png)
+3. En {% data variables.product.prodname_dotcom %}, confirma que la rama en el menú desplegable de **base:** se aquella en donde quieres fusionar tus cambios. Confirma que la rama en el menú desplegable de **comparar:** es la rama de tema en donde realizaste tus cambios. ![Menús desplegables para elegir la base y comparar ramas](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 

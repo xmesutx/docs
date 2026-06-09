@@ -143,11 +143,11 @@ To help keep your information secure, we highly recommend setting an expiration 
 {% endif %}
 
 {% ifversion fpt or ghes or ghec %}
-![個人トークンの選択](/assets/images/personal_token.png)
+![個人トークンの選択](/assets/images/2021/10/personal_token.png)
 {% endif %}
 
 {% ifversion ghae %}
-![個人トークンの選択](/assets/images/help/personal_token_ghae.png)
+![個人トークンの選択](/assets/images/2021/10/help/personal_token_ghae.png)
 {% endif %}
 
 {% ifversion fpt or ghes > 3.1 or ghae-issue-4374 or ghec %}
@@ -186,7 +186,7 @@ OAuthは_トークン_を使用します。 トークンには、次の2つの�
 
 トークンは[web フロー][webflow]から作成してください。 アプリケーションはユーザを{% data variables.product.product_name %}に送信してログインします。 それから{% data variables.product.product_name %}はアプリケーションの名前と、ユーザが認可した場合のアクセス権レベルを示すダイアログを表示します。 ユーザがアクセスを認可すると、{% data variables.product.product_name %}はユーザをアプリケーションにリダイレクトします。
 
-![GitHubのOAuthプロンプト](/assets/images/oauth_prompt.png)
+![GitHubのOAuthプロンプト](/assets/images/2021/10/oauth_prompt.png)
 
 **OAuthトークンはパスワードと同様に扱ってください。**他のユーザと共有したり、安全でない場所に保存したりしてはいけません。 ここにあるトークンのサンプルは架空のものであり、不要な被害を防ぐため名前を変更しています。
 

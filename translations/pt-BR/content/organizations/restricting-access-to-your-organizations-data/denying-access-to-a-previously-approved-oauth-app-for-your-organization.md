@@ -17,5 +17,5 @@ shortTitle: Negar aplicativo OAuth
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. Ao lado do aplicativo que deseja desabilitar, clique em {% octicon "pencil" aria-label="The edit icon" %}. ![Ícone Edit (Editar)](/assets/images/help/settings/settings-third-party-deny-edit.png)
-6. Clique em **Deny access** (Negar). ![Botão Deny confirmation (Negar confirmação)](/assets/images/help/settings/settings-third-party-deny-confirm.png)
+5. Ao lado do aplicativo que deseja desabilitar, clique em {% octicon "pencil" aria-label="The edit icon" %}. ![Ícone Edit (Editar)](/assets/images/2021/10/help/settings/settings-third-party-deny-edit.png)
+6. Clique em **Deny access** (Negar). ![Botão Deny confirmation (Negar confirmação)](/assets/images/2021/10/help/settings/settings-third-party-deny-confirm.png)

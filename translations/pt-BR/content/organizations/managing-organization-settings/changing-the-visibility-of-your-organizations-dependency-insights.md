@@ -23,5 +23,5 @@ Os proprietários corporativos podem definir limitações para exibir informaç�
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. Em "Member organization permissions" (Permissões da organização do integrante), marque ou desmarque **Allow members to view dependency insights** (Permitir que integrantes exibam informações de dependência). ![Caixa de seleção para permitir que integrantes exibam informações](/assets/images/help/organizations/allow-members-to-view-insights.png)
+5. Em "Member organization permissions" (Permissões da organização do integrante), marque ou desmarque **Allow members to view dependency insights** (Permitir que integrantes exibam informações de dependência). ![Caixa de seleção para permitir que integrantes exibam informações](/assets/images/2021/10/help/organizations/allow-members-to-view-insights.png)
 6. Clique em **Salvar**.

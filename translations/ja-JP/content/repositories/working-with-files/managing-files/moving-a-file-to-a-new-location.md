@@ -36,9 +36,9 @@ shortTitle: Move a file
 {% endtip %}
 
 1. リポジトリで、移動するファイルを見つけます。
-2. ファイルビューの右上の隅で、{% octicon "pencil" aria-label="The edit icon" %} をクリックしてファイルエディタを開きます。 ![ファイル編集アイコン](/assets/images/help/repository/move-file-edit-file-icon.png)
+2. ファイルビューの右上の隅で、{% octicon "pencil" aria-label="The edit icon" %} をクリックしてファイルエディタを開きます。 ![ファイル編集アイコン](/assets/images/2021/10/help/repository/move-file-edit-file-icon.png)
 
-3. ファイル名のフィールドで、以下のガイドラインに従ってファイルの名前を変更します。 ![ファイル名を編集する](/assets/images/help/repository/moving_files.gif)
+3. ファイル名のフィールドで、以下のガイドラインに従ってファイルの名前を変更します。 ![ファイル名を編集する](/assets/images/2021/10/help/repository/moving_files.gif)
 
     - ファイルを**サブフォルダに**移動するには、移動先のフォルダの名前を入力して、最後に `/` を入力します。 新しいフォルダ名が、ナビゲーション階層リンクで新しいアイテムになります。
     - **ファイルの現在位置より上位**のディレクトリにファイルを移動するには、ファイル名フィールドの先頭にカーソルを置いてから、`../` と入力して 1 階層完全に上に移動するか、親フォルダの名前を編集する場合は `Backspace` キーを押します。 

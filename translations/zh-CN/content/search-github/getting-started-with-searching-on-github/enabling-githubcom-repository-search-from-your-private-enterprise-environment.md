@@ -45,7 +45,7 @@ You can search for designated private repositories on {% data variables.product.
 {% elsif ghes or ghae %}
 
 1. Sign into {% data variables.product.product_name %} and {% data variables.product.prodname_dotcom_the_website %}.
-1. 在 {% data variables.product.product_name %} 上任何页面的右上角，单击您的个人资料照片，然后单击**设置**。 ![用户栏中的 Settings 图标](/assets/images/help/settings/userbar-account-settings.png)
+1. 在 {% data variables.product.product_name %} 上任何页面的右上角，单击您的个人资料照片，然后单击**设置**。 ![用户栏中的 Settings 图标](/assets/images/2021/10/help/settings/userbar-account-settings.png)
 {% data reusables.github-connect.github-connect-tab-user-settings %}
 {% data reusables.github-connect.connect-dotcom-and-enterprise %}
 {% data reusables.github-connect.connect-dotcom-and-enterprise %}

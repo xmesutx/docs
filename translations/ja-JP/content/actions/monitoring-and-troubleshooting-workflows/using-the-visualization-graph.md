@@ -19,6 +19,6 @@ shortTitle: Use the visualization graph
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 
-1. このグラフは、ワークフロー中の各ジョブを表示します。 ジョブ名の左のアイコンは、ジョブのステータスを表示します。 ジョブ間の線は、依存関係を示します。 ![ワークフローグラフ](/assets/images/help/images/workflow-graph.png)
+1. このグラフは、ワークフロー中の各ジョブを表示します。 ジョブ名の左のアイコンは、ジョブのステータスを表示します。 ジョブ間の線は、依存関係を示します。 ![ワークフローグラフ](/assets/images/2021/10/help/images/workflow-graph.png)
 
-2. ジョブをクリックすると、そのジョブのログが表示されます。 ![ワークフローグラフ](/assets/images/help/images/workflow-graph-job.png)
+2. ジョブをクリックすると、そのジョブのログが表示されます。 ![ワークフローグラフ](/assets/images/2021/10/help/images/workflow-graph-job.png)

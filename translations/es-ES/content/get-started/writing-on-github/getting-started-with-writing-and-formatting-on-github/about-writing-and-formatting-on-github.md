@@ -29,11 +29,11 @@ Cada campo de comentario en {% data variables.product.product_name %} contiene u
 
 Puedes habilitar las fuentes de ancho fijo en cada campo de comentario de {% data variables.product.product_name %}. Cada carácter en una fuente de ancho fijo o de monoespacio ocupa el mismo espacio horizontal, lo cual hace más fácil la edición de las estructuras de lenguaje de marcado, tales como tablas y fragmentos de código.
 
-![Captura de pantalla que muestra el campo de comentario de {% data variables.product.product_name %} con fuentes de ancho fijo habilitadas](/assets/images/help/writing/fixed-width-example.png)
+![Captura de pantalla que muestra el campo de comentario de {% data variables.product.product_name %} con fuentes de ancho fijo habilitadas](/assets/images/2022/01/help/writing/fixed-width-example.png)
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.appearance-settings %}
-1. Debajo de "Preferencia de fuente en el editor de lenguaje de marcado", selecciona **Utilizar una fuente de ancho fijo (monoespacio) al editar el lenguaje de marcado**. ![Captura de pantalla que muestra el campo de comentario de {% data variables.product.product_name %} con fuentes de ancho fijo habilitadas](/assets/images/help/writing/enable-fixed-width.png)
+1. Debajo de "Preferencia de fuente en el editor de lenguaje de marcado", selecciona **Utilizar una fuente de ancho fijo (monoespacio) al editar el lenguaje de marcado**. ![Captura de pantalla que muestra el campo de comentario de {% data variables.product.product_name %} con fuentes de ancho fijo habilitadas](/assets/images/2022/01/help/writing/enable-fixed-width.png)
 
 {% endif %}
 

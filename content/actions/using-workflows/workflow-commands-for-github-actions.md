@@ -182,7 +182,7 @@ echo "Inside group"
 echo "::endgroup::"
 ```
 
-![Foldable group in workflow run log](/assets/images/actions-log-group.png)
+![Foldable group in workflow run log](/assets/images/2021/10/actions-log-group.png)
 
 ## Masking a value in log
 

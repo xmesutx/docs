@@ -44,6 +44,6 @@ Organizationメンバーをチームメンテナに昇格するには、その�
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_members_tab %}
-4. チームメンテナに昇格させる人 (一人または複数人) を選択します。 ![Organization メンバーの横のチェックボックス](/assets/images/help/teams/team-member-check-box.png)
-5. Team のメンバー一覧の上にあるドロップダウンメニューを使用して、[**Change role...**] をクリックします。 ![ロールを変更するオプションのあるドロップダウンメニュー](/assets/images/help/teams/bulk-edit-drop-down.png)
-6. 新しいロールを選択して、[**Change role**] をクリックします。 ![メンテナーまたはメンバーのロールのラジオボタン](/assets/images/help/teams/team-role-modal.png)
+4. チームメンテナに昇格させる人 (一人または複数人) を選択します。 ![Organization メンバーの横のチェックボックス](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. Team のメンバー一覧の上にあるドロップダウンメニューを使用して、[**Change role...**] をクリックします。 ![ロールを変更するオプションのあるドロップダウンメニュー](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)
+6. 新しいロールを選択して、[**Change role**] をクリックします。 ![メンテナーまたはメンバーのロールのラジオボタン](/assets/images/2021/10/help/teams/team-role-modal.png)

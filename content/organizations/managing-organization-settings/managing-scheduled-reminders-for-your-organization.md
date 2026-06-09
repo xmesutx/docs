@@ -31,7 +31,7 @@ Organization owners can schedule a reminder for one or more teams in their organ
 {% data reusables.reminders.times-dropdowns %}
 {% data reusables.reminders.tracked-repos %}
 1.  Under "Filter by team assigned to review code", click the **Add a team** dropdown and choose one or more teams. You can add up to 100 teams. If the team you select doesn't have access to the "Tracked repositories" selected above, you won't be able to create the scheduled reminder.
-![Add a team dropdown](/assets/images/help/organizations/scheduled-reminders-add-teams.png)
+![Add a team dropdown](/assets/images/2021/10/help/organizations/scheduled-reminders-add-teams.png)
 {% data reusables.reminders.ignore-drafts %}
 {% data reusables.reminders.no-review-requests %}
 {% data reusables.reminders.author-reviews %}

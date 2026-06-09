@@ -31,6 +31,6 @@ Across all organizations owned by your enterprise, you can enable or disable tea
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. 左サイトバーで [**Teams**] をクリックします。 ![Teams tab in the enterprise sidebar](/assets/images/help/business-accounts/settings-teams-tab.png)
+3. 左サイトバーで [**Teams**] をクリックします。 ![Teams tab in the enterprise sidebar](/assets/images/2021/10/help/business-accounts/settings-teams-tab.png)
 4. [Team discussions] で、設定変更に関する情報を確認します。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. [Team discussions] で、ドロップダウンメニューを使用してポリシーを選択します。 ![Team ディスカッション ポリシー オプションのドロップダウンメニュー](/assets/images/help/business-accounts/team-discussion-policy-drop-down.png)
+5. [Team discussions] で、ドロップダウンメニューを使用してポリシーを選択します。 ![Team ディスカッション ポリシー オプションのドロップダウンメニュー](/assets/images/2021/10/help/business-accounts/team-discussion-policy-drop-down.png)

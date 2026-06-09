@@ -32,8 +32,8 @@ Se você criou uma função de repositório personalizado com uma função herda
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. Em "Permissões básicas", use o menu suspenso para selecionar novas permissões básicas. ![Selecionar novo nível de permissão a partir do menu suspenso de permissões básicas](/assets/images/help/organizations/base-permissions-drop-down.png)
-6. Revise as alterações. Para confirmar, clique em **Alterar permissão-padrão para PERMISSÃO**. ![Revisar e confirmar a alteração das permissões básicas](/assets/images/help/organizations/base-permissions-confirm.png)
+5. Em "Permissões básicas", use o menu suspenso para selecionar novas permissões básicas. ![Selecionar novo nível de permissão a partir do menu suspenso de permissões básicas](/assets/images/2021/10/help/organizations/base-permissions-drop-down.png)
+6. Revise as alterações. Para confirmar, clique em **Alterar permissão-padrão para PERMISSÃO**. ![Revisar e confirmar a alteração das permissões básicas](/assets/images/2021/10/help/organizations/base-permissions-confirm.png)
 
 ## Leia mais
 

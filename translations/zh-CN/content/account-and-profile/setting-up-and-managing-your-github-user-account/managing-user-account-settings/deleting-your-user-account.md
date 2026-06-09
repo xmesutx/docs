@@ -42,8 +42,8 @@ shortTitle: 删除用户帐户
 {% data reusables.user-settings.account_settings %}
 3. 在帐户设置页面底部，“Delete account（删除帐户）”下，单击 **Delete your account（删除帐户）**。 然后即可删除用户帐户。
     - 如果您是组织中的唯一所有者，则必须将所有权转让给其他人或删除您的组织。
-    - 如果组织中有其他组织所有者，则必须将自己从组织中删除。 ![帐户删除按钮](/assets/images/help/settings/settings-account-delete.png)
-4. 在“Make sure you want to do this（确保要执行此操作）”对话框中，完成以下步骤，以确认您了解删除帐户时会发生什么： ![删除帐户确认对话框](/assets/images/help/settings/settings-account-deleteconfirm.png)
+    - 如果组织中有其他组织所有者，则必须将自己从组织中删除。 ![帐户删除按钮](/assets/images/2021/10/help/settings/settings-account-delete.png)
+4. 在“Make sure you want to do this（确保要执行此操作）”对话框中，完成以下步骤，以确认您了解删除帐户时会发生什么： ![删除帐户确认对话框](/assets/images/2021/10/help/settings/settings-account-deleteconfirm.png)
   {% ifversion fpt or ghec %}- 请记住，您的帐户拥有的所有存储库、私有存储库的分支、wiki、议题、拉取请求和 {% data variables.product.prodname_pages %} 网站都将被删除，您的计费将立即结束，并且您的用户名在 90 天后可供任何人在 {% data variables.product.product_name %} 上使用。
   {% else %}- 重新考虑一下，您帐户拥有的所有仓库、私有仓库分支、wiki、议题、提取请求和网页都将被删除，并且任何人将可在 {% data variables.product.product_name %} 上使用您的用户名。
   {% endif %}- 在第一个字段中，输入您的 {% data variables.product.product_name %} 用户名或电子邮件。

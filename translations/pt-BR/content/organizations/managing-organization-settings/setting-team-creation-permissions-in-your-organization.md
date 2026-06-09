@@ -22,5 +22,5 @@ Se você não configurar as permissões de criação de equipes, todos os integr
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. Em "Team creation rules" (Regras de criação de equipes), marque ou desmarque a opção **Allow members to create teams** (Permitir que integrantes criem equipes). ![Caixa de seleção para permitir que integrantes criem equipes](/assets/images/help/organizations/allow-members-to-create-teams.png)
+5. Em "Team creation rules" (Regras de criação de equipes), marque ou desmarque a opção **Allow members to create teams** (Permitir que integrantes criem equipes). ![Caixa de seleção para permitir que integrantes criem equipes](/assets/images/2021/10/help/organizations/allow-members-to-create-teams.png)
 6. Clique em **Salvar**.

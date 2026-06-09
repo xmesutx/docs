@@ -73,10 +73,10 @@ Como alternativa, você pode arrastar e soltar um arquivo de texto da sua área 
 
 1. Entre no {% data variables.product.product_name %}.
 2. Navegue até sua {% data variables.gists.gist_homepage %}.
-3. Digite uma descrição opcional e o nome do seu gist. ![Descrição do nome do gist](/assets/images/help/gist/gist_name_description.png)
+3. Digite uma descrição opcional e o nome do seu gist. ![Descrição do nome do gist](/assets/images/2021/10/help/gist/gist_name_description.png)
 
-4. Digite o texto do seu gist na caixa de texto do gist. ![Caixa de texto do gist](/assets/images/help/gist/gist_text_box.png)
+4. Digite o texto do seu gist na caixa de texto do gist. ![Caixa de texto do gist](/assets/images/2021/10/help/gist/gist_text_box.png)
 
-5. Opcionalmente, para criar um gist {% ifversion ghae %}interno{% else %}público{% endif %}, clique em {% octicon "triangle-down" aria-label="The downwards triangle icon" %} e, em seguida, clique em **Criar {% ifversion ghae %}interno{% else %}público{% endif %} gist**. ![Menu suspenso para selecionar a visibilidade do gist]{% ifversion ghae %}(/assets/images/help/gist/gist-visibility-drop-down-ae.png){% else %}(/assets/images/help/gist/gist-visibility-drop-down.png){% endif %}
+5. Opcionalmente, para criar um gist {% ifversion ghae %}interno{% else %}público{% endif %}, clique em {% octicon "triangle-down" aria-label="The downwards triangle icon" %} e, em seguida, clique em **Criar {% ifversion ghae %}interno{% else %}público{% endif %} gist**. ![Menu suspenso para selecionar a visibilidade do gist]{% ifversion ghae %}(/assets/images/2021/10/help/gist/gist-visibility-drop-down-ae.png){% else %}(/assets/images/2021/10/help/gist/gist-visibility-drop-down.png){% endif %}
 
-6. Clique em **Criar Gist secreto** ou **Criar gist{% ifversion ghae %}interno{% else %}público{% endif %}**. ![Botão para criar gist](/assets/images/help/gist/create-secret-gist-button.png)
+6. Clique em **Criar Gist secreto** ou **Criar gist{% ifversion ghae %}interno{% else %}público{% endif %}**. ![Botão para criar gist](/assets/images/2021/10/help/gist/create-secret-gist-button.png)

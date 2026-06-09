@@ -28,15 +28,15 @@ shortTitle: 创建议题或 PR
 
 {% mac %}
 
-1. 在菜单栏中，使用 **Repository（仓库）**下拉菜单，然后单击 ** **Create Issue on {% data variables.product.prodname_dotcom %}（在 Github 上创建议题）**。 ![分支菜单中的仓库值](/assets/images/help/desktop/create-issue-mac.png)</li>
-2 在 {% data variables.product.prodname_dotcom %} 上，单击 **Get started（开始使用）**打开议题模板，或单击 **Open a blank issue（打开空白议题）**。 ![创建新议题选项](/assets/images/help/desktop/create-new-issue.png)</ol>
+1. 在菜单栏中，使用 **Repository（仓库）**下拉菜单，然后单击 ** **Create Issue on {% data variables.product.prodname_dotcom %}（在 Github 上创建议题）**。 ![分支菜单中的仓库值](/assets/images/2021/10/help/desktop/create-issue-mac.png)</li>
+2 在 {% data variables.product.prodname_dotcom %} 上，单击 **Get started（开始使用）**打开议题模板，或单击 **Open a blank issue（打开空白议题）**。 ![创建新议题选项](/assets/images/2021/10/help/desktop/create-new-issue.png)</ol>
 
 {% endmac %}
 
 {% windows %}
 
-1. 在菜单栏中，使用 **Repository（仓库）**下拉菜单，然后单击 ** **Create issue on {% data variables.product.prodname_dotcom %}（在 Github 上创建议题）**。 ![分支菜单中的仓库值](/assets/images/help/desktop/create-issue-windows.png)</li>
-2 在 {% data variables.product.prodname_dotcom %} 上，单击 **Get started（开始使用）**打开议题模板，或单击 **Open a blank issue（打开空白议题）**。 ![创建新议题选项](/assets/images/help/desktop/create-new-issue.png)</ol>
+1. 在菜单栏中，使用 **Repository（仓库）**下拉菜单，然后单击 ** **Create issue on {% data variables.product.prodname_dotcom %}（在 Github 上创建议题）**。 ![分支菜单中的仓库值](/assets/images/2021/10/help/desktop/create-issue-windows.png)</li>
+2 在 {% data variables.product.prodname_dotcom %} 上，单击 **Get started（开始使用）**打开议题模板，或单击 **Open a blank issue（打开空白议题）**。 ![创建新议题选项](/assets/images/2021/10/help/desktop/create-new-issue.png)</ol>
 
 {% endwindows %}
 
@@ -51,8 +51,8 @@ shortTitle: 创建议题或 PR
 {% mac %}
 
 1. 切换到要为其创建拉取请求的分支。 更多信息请参阅“[在分支之间切换](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)”。
-2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/help/desktop/mac-create-pull-request.png)
-4. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/help/desktop/base-and-compare-branches.png)
+2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
+4. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -61,8 +61,8 @@ shortTitle: 创建议题或 PR
 {% windows %}
 
 1. 切换到要为其创建拉取请求的分支。 更多信息请参阅“[在分支之间切换](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)”。
-2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/help/desktop/windows-create-pull-request.png)
-3. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/help/desktop/base-and-compare-branches.png)
+2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/2021/10/help/desktop/windows-create-pull-request.png)
+3. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 

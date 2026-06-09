@@ -49,7 +49,7 @@ shortTitle: 非コードファイルでの作業
 
 You can directly browse and view images in your repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}:
 
-![インライン画像](/assets/images/help/images/view.png)
+![インライン画像](/assets/images/2021/10/help/images/view.png)
 
 SVG では現在、インラインスクリプトやアニメーションはサポートされていません。
 
@@ -61,19 +61,19 @@ SVG では現在、インラインスクリプトやアニメーションはサ�
 
 **見開き (2-Up)** はデフォルトモードで、一度に両方の画像を見ることができます。 加えて、画像のサイズがバージョン間で変わっていれば、その違いがそのまま表れます。 このモードではサイズの違いが明瞭にわかります。アセットがより高い解像度にアップグレードされた場合などにサイズが変わります。
 
-![見開き(2-Up)](/assets/images/help/repository/images-2up-view.png)
+![見開き(2-Up)](/assets/images/2021/10/help/repository/images-2up-view.png)
 
 #### スワイプ
 
 **スワイプ**では画像の部分を並べて表示することができます。 新旧画像間でなされた微妙な色変更がわかりづらいといった場合、 スワイプスライダーを問題の領域までドラッグして注目すると、違いが見えてきます。
 
-![スワイプ](/assets/images/help/repository/images-swipe-view.png)
+![スワイプ](/assets/images/2021/10/help/repository/images-swipe-view.png)
 
 #### オニオンスキン
 
 **オニオンスキン**は、要素の移動量が小さくてわかりづらい場合に役立ちます。 ほとんど変わっていないように見えるアイコンが、もしかしたら 2 ピクセルほど左にずらされているかもしれません。その場合、 スライダーで不透明度を調節して、それが動くかどうかを見てください。
 
-![オニオンスキン](/assets/images/help/repository/images-onion-view.gif)
+![オニオンスキン](/assets/images/2021/10/help/repository/images-onion-view.gif)
 
 ## 3Dファイルビューア
 
@@ -92,7 +92,7 @@ STLファイルを含むコミットあるいは一連の変更を見る場合�
 
 デフォルトでは、変更されなかった物はすべてワイヤーフレームで表示されます。 追加分は緑になり、削除された部分は赤になります。
 
-![ワイヤーフレーム](/assets/images/help/repository/stl_wireframe.png)
+![ワイヤーフレーム](/assets/images/2021/10/help/repository/stl_wireframe.png)
 
 **Revision Slider（リビジョンスライダー）**オプションを選択し、ファイル上のスライダーを使って現在と以前のリビジョン間を行き来することもできます。
 
@@ -100,7 +100,7 @@ STLファイルを含むコミットあるいは一連の変更を見る場合�
 
 このアイコンがビューアの隅に表示されている場合、そのブラウザではWebGLテクノロジが利用できません。
 
-![WebGLのポップエラー](/assets/images/help/repository/render_webgl_error.png)
+![WebGLのポップエラー](/assets/images/2021/10/help/repository/render_webgl_error.png)
 
 使用しているコンピューターのハードウェアを完全に活用するためには、WebGLが必要です。 WebGLが有効化されている [Chrome](https://www.google.com/intl/en/chrome/browser/)あるいは[Firefox](https://www.mozilla.org/en-US/firefox/new/)などのブラウザの利用をおすすめします。
 
@@ -134,7 +134,7 @@ For example, if your model's URL is [`github.com/skalnik/secret-bear-clip/blob/m
 
 GitHub では、*.csv* (カンマ区切り) 形式および *.tsv* (タブ区切り) 形式のファイルのレンダリングがサポートされています。
 
-![レンダリングされた CSV のサンプル](/assets/images/help/repository/rendered_csv.png)
+![レンダリングされた CSV のサンプル](/assets/images/2021/10/help/repository/rendered_csv.png)
 
 When viewed, any _.csv_ or _.tsv_ file committed to a repository on {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} automatically renders as an interactive table, complete with headers and row numbering. デフォルトでは、常に 1 番目の行がヘッダ行であるとみなされます。
 
@@ -144,13 +144,13 @@ When viewed, any _.csv_ or _.tsv_ file committed to a repository on {% ifversion
 
 データセットから特定の値を見つけるには、ファイルの上にある検索バーで直接、入力を開始します。 行が自動的にフィルタされます。
 
-![値を検索する](/assets/images/help/repository/searching_csvs.gif)
+![値を検索する](/assets/images/2021/10/help/repository/searching_csvs.gif)
 
 ### エラーを処理する
 
 時々、CSV や TSV が正常にレンダリングされないことがあります。 その場合、生テキストの末尾にエラーボックスが表示され、考えられる原因が示されます。
 
-![CSV レンダリングのエラーメッセージ](/assets/images/help/repository/csv_render_error.png)
+![CSV レンダリングのエラーメッセージ](/assets/images/2021/10/help/repository/csv_render_error.png)
 
 よくある原因として次のようなものがあります:
 
@@ -161,7 +161,7 @@ When viewed, any _.csv_ or _.tsv_ file committed to a repository on {% ifversion
 
 GitHub では PDF ドキュメントのレンダリングをサポートしています。
 
-![レンダリングされた PDF ドキュメント](/assets/images/help/repository/rendered-pdf.png)
+![レンダリングされた PDF ドキュメント](/assets/images/2021/10/help/repository/rendered-pdf.png)
 
 現在、PDF 内のリンクは無視されます。
 
@@ -183,11 +183,11 @@ GitHub では PDF ドキュメントのレンダリングをサポートして�
 * MediaWiki
 * Pod
 
-![レンダリング済み文章ドキュメントを表示する紙アイコン](/assets/images/help/repository/rendered_prose_diff.png)
+![レンダリング済み文章ドキュメントを表示する紙アイコン](/assets/images/2021/10/help/repository/rendered_prose_diff.png)
 
 {% octicon "file" aria-label="The paper icon" %} をクリックすると、コミットの一環としてドキュメントに行った変更を表示できます。
 
-![レンダリング済み文章変更](/assets/images/help/repository/rendered_prose_changes.png)
+![レンダリング済み文章変更](/assets/images/2021/10/help/repository/rendered_prose_changes.png)
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-5232 or ghec %}
 
@@ -201,7 +201,7 @@ GitHub では PDF ドキュメントのレンダリングをサポートして�
 
 読者に見せる文字部分とは異なり、属性への変更は、レンダリングされたドキュメントでは見えなくなります。Github ではそれをツールチップで示します。 たとえば、リンク URL が、あるウェブサイトから別のものに変更された場合、ツールチップで次のように示されます:
 
-![レンダリング済み文章属性変更](/assets/images/help/repository/prose_diff_attributes.png)
+![レンダリング済み文章属性変更](/assets/images/2021/10/help/repository/prose_diff_attributes.png)
 
 ### 変更についてのコメントを入力する
 
@@ -215,7 +215,7 @@ GitHub では PDF ドキュメントのレンダリングをサポートして�
 
 プルリクエストの中には、大きくて複雑なドキュメントでの多数の変更を含むものがあります。 変更の分析に時間がかかりすぎると、{% data variables.product.product_name %} が変更のレンダリングされたビューを常に生成できない場合があります。 これが発生した場合、レンダリングされたボタンをクリックするとエラーメッセージが表示されます。
 
-![ビューをレンダリングできない場合のメッセージ](/assets/images/help/repository/prose_diff_rendering.png)
+![ビューをレンダリングできない場合のメッセージ](/assets/images/2021/10/help/repository/prose_diff_rendering.png)
 
 その場合でもソースビューは変更の分析やコメント入力に使用できます。
 
@@ -231,7 +231,7 @@ HTML ドキュメントへのコミットのレンダリング済みビューは
 
 右側にある紙アイコンをクリックすると、そのファイル ドキュメントに加えられた変更も、コミットの一部として表示されます。
 
-![ソースとレンダリングの切り替えのスクリーンショット](/assets/images/help/repository/source-render-toggle-geojson.png)
+![ソースとレンダリングの切り替えのスクリーンショット](/assets/images/2021/10/help/repository/source-render-toggle-geojson.png)
 
 ### ジオメトリのタイプ
 
@@ -288,7 +288,7 @@ geoJSON ファイルのレンダリングに問題がある場合は、[geoJSON 
 
 また、10 MB を超えるような大きな `.geojson` ファイルは、ブラウザではレンダリングできません。 その場合は通常、次のようなメッセージが表示されます:
 
-![大きいファイル](/assets/images/help/repository/view_raw.png)
+![大きいファイル](/assets/images/2021/10/help/repository/view_raw.png)
 
 その場合でも、`.geojson` ファイルを [TopoJSON](https://github.com/mbostock/topojson) に変換すればデータをレンダリングできます。TopoJSONは、ファイルサイズを最大 80% まで縮小できる圧縮形式です。 ファイルを小さいチャンクに分割し (州ごと、年ごとなど)、データを複数のファイルとしてリポジトリに格納することは、もちろんいつでもできます。
 

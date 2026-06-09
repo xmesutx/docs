@@ -102,4 +102,4 @@ Esses registros são úteis apenas se você quiser depurar problemas com o uso d
 
 1. Na janela do navegador para o ambiente de codespace que você deseja depurar, abra a janela de ferramentas do desenvolvedor.
 1. Exibe a aba "Console" e clique em em **erros** na barra do lado esquerdo para mostrar apenas os erros.
-1. Na área do registro à direita, clique com o botão direito e selecione **Salvar como** para salvar uma cópia dos erros na sua máquina local. ![Salvar erros](/assets/images/help/codespaces/browser-console-log-save.png)
+1. Na área do registro à direita, clique com o botão direito e selecione **Salvar como** para salvar uma cópia dos erros na sua máquina local. ![Salvar erros](/assets/images/2021/10/help/codespaces/browser-console-log-save.png)

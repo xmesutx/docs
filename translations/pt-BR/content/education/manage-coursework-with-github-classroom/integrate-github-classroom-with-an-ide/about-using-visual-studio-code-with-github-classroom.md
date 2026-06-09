@@ -35,7 +35,7 @@ A extensão GitHub Classroom tem dois componentes principais: a visualização "
 
 Quando o aluno lança a extensão pela primeira vez, ele é direcionado automaticamente para a aba Explorador no Visual Studio Code, onde ele pode ver a visualização de "atividade ativa" ao lado da exibição em árvore de arquivos no repositório.
 
-![Visão da atividade ativa do GitHub Classroom](/assets/images/help/classroom/vs-code-active-assignment.png)
+![Visão da atividade ativa do GitHub Classroom](/assets/images/2021/10/help/classroom/vs-code-active-assignment.png)
 
 O aluno pode fazer push dos seus commits para a versão mais recente do controle remoto, ao clicar no botão **Sincronizar alterações**, exibido ao passar o mouse sobre a linha "atividade ativa". Isso abstrai o controle de origem com o Git, permitindo que instrutores ensinem o Git no seu próprio ritmo. A sincronização de alterações também aciona a execução de "testes", se um professor tiver configurado a avaliação automática para sua atividade.
 

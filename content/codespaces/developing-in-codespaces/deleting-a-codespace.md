@@ -33,7 +33,7 @@ shortTitle: Delete a codespace
 
 2. To the right of the codespace you want to delete, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, then click **{% octicon "trash" aria-label="The trash icon" %} Delete**
 
-   ![Delete button](/assets/images/help/codespaces/delete-codespace.png)
+   ![Delete button](/assets/images/2021/10/help/codespaces/delete-codespace.png)
 
 {% endwebui %}
 

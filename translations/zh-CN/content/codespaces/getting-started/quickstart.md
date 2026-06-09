@@ -29,7 +29,7 @@ redirect_from:
 
 3. 导航到新创建的存储库的主页。 在存储库名称下，使用 **{% octicon "code" aria-label="The code icon" %} 代码**下拉菜单，然后在**Codespaces（代码空间）**选项卡中，单击 {% octicon "plus" aria-label="The plus icon" %} **New codespace（新建代码空间）**。
 
-  ![新建代码空间按钮](/assets/images/help/codespaces/new-codespace-button.png)
+  ![新建代码空间按钮](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
 ## 运行应用程序
 
@@ -37,13 +37,13 @@ redirect_from:
 
 1. 由于此示例使用 Node.js 项目，因此通过在终端中输入 `npm run dev` 来启动应用程序。 此命令执行 package.json 文件中的 `dev` 脚本，并启动样本仓库中定义的 web 应用程序。
 
-   ![终端中的 npm run dev](/assets/images/help/codespaces/codespaces-npm-run-dev.png)
+   ![终端中的 npm run dev](/assets/images/2021/10/help/codespaces/codespaces-npm-run-dev.png)
 
     如果按照其他应用程序类型进行操作，请为该项目输入相应的启动命令。
 
 2. 当应用程序启动时，代码空间会识别运行应用程序的端口，并显示转发该端口的提示，以便您可以连接到该端口。
 
-  ![端口转发信息框](/assets/images/help/codespaces/quickstart-port-toast.png)
+  ![端口转发信息框](/assets/images/2021/10/help/codespaces/quickstart-port-toast.png)
 
 3. 单击 **Open in Browser（在浏览器中打开）**，在新选项卡中查看正在运行的应用程序。
 
@@ -56,18 +56,18 @@ redirect_from:
 3. 返回到浏览器中正在运行的应用程序选项卡，然后刷新以查看所做的更改。
 
   {% octicon "light-bulb" aria-label="The lightbulb icon" %}  如果已关闭选项卡，请打开“Ports（端口）”面板，然后对运行的端口单击 **Open in browser（在浏览器中打开）**图标。
-  ![端口转发面板](/assets/images/help/codespaces/quickstart-forward-port.png)
+  ![端口转发面板](/assets/images/2021/10/help/codespaces/quickstart-forward-port.png)
 
 ## 提交和推送更改
 
 现在，您已经进行了一些更改，可以使用集成终端或源视图提交更改并将其推送回远程数据库。
 
 {% data reusables.codespaces.source-control-display-dark %}
-1. 要暂存更改，请单击已更改文件旁边的  **+**；如果您更改了多个文件并且要全部暂存，请单击 **Changes（更改）**旁边的该按钮。 ![高亮显示暂存按钮的源控制侧边栏](/assets/images/help/codespaces/codespaces-commit-stage.png)
-1. 输入提交消息，描述您所做的更改。 ![带有提交消息的源控制侧栏](/assets/images/help/codespaces/codespaces-commit-commit-message.png)
-1. 要提交暂存的更改，请单击源控制侧栏顶部的复选标记。 ![Click the check mark icon](/assets/images/help/codespaces/codespaces-commit-checkmark-icon.png)  
+1. 要暂存更改，请单击已更改文件旁边的  **+**；如果您更改了多个文件并且要全部暂存，请单击 **Changes（更改）**旁边的该按钮。 ![高亮显示暂存按钮的源控制侧边栏](/assets/images/2021/10/help/codespaces/codespaces-commit-stage.png)
+1. 输入提交消息，描述您所做的更改。 ![带有提交消息的源控制侧栏](/assets/images/2021/10/help/codespaces/codespaces-commit-commit-message.png)
+1. 要提交暂存的更改，请单击源控制侧栏顶部的复选标记。 ![Click the check mark icon](/assets/images/2021/10/help/codespaces/codespaces-commit-checkmark-icon.png)  
    您可以推送所做的更改。 这将应用这些更改到远程仓库上的上游分支。 如果您尚未准备好创建拉取请求，或者希望在 {% data variables.product.prodname_dotcom %} 上创建拉取请求，则可能需要这样做。
-1. 在侧边栏的顶部，单击省略号 (**...**)。 ![查看和更多操作的省略号按钮](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+1. 在侧边栏的顶部，单击省略号 (**...**)。 ![查看和更多操作的省略号按钮](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. 在下拉菜单中，单击 **Push（推送）**。
 
 ## 使用扩展进行个性化设置
@@ -78,11 +78,11 @@ redirect_from:
 
 2.  在搜索栏中，输入 `fairyfloss` 并安装 fairyfloss 扩展。
 
-  ![添加扩展](/assets/images/help/codespaces/add-extension.png)
+  ![添加扩展](/assets/images/2021/10/help/codespaces/add-extension.png)
 
 3. 从列表中选择 `fairyfloss` 主题。
 
-  ![选择 fairyfloss 主题](/assets/images/help/codespaces/fairyfloss.png)
+  ![选择 fairyfloss 主题](/assets/images/2021/10/help/codespaces/fairyfloss.png)
 
 4. 在当前代码空间中对编辑器设置所做的更改，如主题和键盘绑定，将通过 [Settings Sync（设置同步）](https://code.visualstudio.com/docs/editor/settings-sync)自动同步到您打开的任何其他代码空间以及登录到您 GitHub 帐户的任何 Visual Studio Code 实例。
 

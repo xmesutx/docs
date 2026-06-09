@@ -15,7 +15,7 @@ versions:
 - 質問し、質問についてディスカッションを行い、回答し、ディスカッションに回答済みのマークを付ける
 - 訪問者とコントリビューターが目標、開発、管理、ワークフローについて話し合うための居心地の良い雰囲気を育む
 
-![リポジトリの [Discussions] タブ](/assets/images/help/discussions/hero.png)
+![リポジトリの [Discussions] タブ](/assets/images/2021/10/help/discussions/hero.png)
 
 Issue やプルリクエストをクローズするように、ディスカッションをクローズする必要はありません。
 

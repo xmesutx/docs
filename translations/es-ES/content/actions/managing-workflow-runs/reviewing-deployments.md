@@ -19,8 +19,8 @@ Para obtener más información sobre los ambientes y aprobaciones requeridos, co
 ## Aprobar o rechazar un job
 
 1. Navega a la ejecución de flujo de trabajo que requiere revisión. Para obtener más información acerca de navegar a una ejecución de flujo de trabajo, consulta la sección "[Visualizar el historial de la ejecución del flujo de trabajo](/actions/managing-workflow-runs/viewing-workflow-run-history)".
-2. Da clic en **Revisar despliegues**. ![Revisar despliegues](/assets/images/actions-review-deployments.png)
-3. Selecciona el(los) ambiente(s) para aprobar o rechazar. Opcionalmente, deja un comentario. ![Aprobar despliegues](/assets/images/actions-approve-deployments.png)
+2. Da clic en **Revisar despliegues**. ![Revisar despliegues](/assets/images/2021/10/actions-review-deployments.png)
+3. Selecciona el(los) ambiente(s) para aprobar o rechazar. Opcionalmente, deja un comentario. ![Aprobar despliegues](/assets/images/2021/10/actions-approve-deployments.png)
 4. Aprueba o rechaza:
    - Para aprobar el job, da clic en **Aprobar y desplegar**. Una vez que el job se apruebe (y que cualquier otra regla de protección del ambiente haya pasado), el job procederá. En este punto, el job puede acceder a cualquier secreto que esté almacenado en el ambiente.
    - Para rechazar el job, da clic en **Rechazar**. Si se rechaza un job, el flujo de trabajo fallará.

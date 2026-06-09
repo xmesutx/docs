@@ -35,9 +35,9 @@ shortTitle: 禁用和启用工作流程
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. 在左侧边栏中，单击您想要禁用的工作流程。 ![操作选择工作流程](/assets/images/actions-select-workflow.png)
-1. 单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![操作烤肉串菜单](/assets/images/help/repository/actions-workflow-menu-kebab.png)
-1. 单击 **Disable workflow（禁用工作流程）**。 ![actions disable workflow](/assets/images/help/repository/actions-disable-workflow.png) 禁用的工作流程标记为 {% octicon "stop" aria-label="The stop icon" %} 来表示其状态。 ![操作列表禁用的工作流程](/assets/images/help/repository/actions-find-disabled-workflow.png)
+1. 在左侧边栏中，单击您想要禁用的工作流程。 ![操作选择工作流程](/assets/images/2021/10/actions-select-workflow.png)
+1. 单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![操作烤肉串菜单](/assets/images/2021/10/help/repository/actions-workflow-menu-kebab.png)
+1. 单击 **Disable workflow（禁用工作流程）**。 ![actions disable workflow](/assets/images/2021/10/help/repository/actions-disable-workflow.png) 禁用的工作流程标记为 {% octicon "stop" aria-label="The stop icon" %} 来表示其状态。 ![操作列表禁用的工作流程](/assets/images/2021/10/help/repository/actions-find-disabled-workflow.png)
 
 {% endwebui %}
 
@@ -61,8 +61,8 @@ gh workflow disable <em>workflow</em>
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. 在左侧边栏中，单击您想要启用的工作流程。 ![操作选择禁用的工作流程](/assets/images/help/repository/actions-select-disabled-workflow.png)
-1. 单击 **Enable workflow（启用工作流程）**。 ![操作启用工作流程](/assets/images/help/repository/actions-enable-workflow.png)
+1. 在左侧边栏中，单击您想要启用的工作流程。 ![操作选择禁用的工作流程](/assets/images/2021/10/help/repository/actions-select-disabled-workflow.png)
+1. 单击 **Enable workflow（启用工作流程）**。 ![操作启用工作流程](/assets/images/2021/10/help/repository/actions-enable-workflow.png)
 
 {% endwebui %}
 

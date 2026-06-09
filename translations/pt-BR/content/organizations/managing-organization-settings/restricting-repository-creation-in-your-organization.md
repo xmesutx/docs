@@ -37,9 +37,9 @@ Os proprietários de empresas podem restringir as opções que você tem dispon�
 5. Em "Criação do repositório", selecione uma ou mais opções.
 
    {%- ifversion ghes or ghec or ghae %}
-   ![Opções de criação de repositório](/assets/images/help/organizations/repo-creation-perms-radio-buttons.png)
+   ![Opções de criação de repositório](/assets/images/2021/10/help/organizations/repo-creation-perms-radio-buttons.png)
    {%- elsif fpt %}
-   ![Opções de criação de repositório](/assets/images/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
+   ![Opções de criação de repositório](/assets/images/2021/12/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
 
    {% note %}
 

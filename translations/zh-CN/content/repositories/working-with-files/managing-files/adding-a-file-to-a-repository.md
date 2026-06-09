@@ -32,11 +32,11 @@ shortTitle: 添加文件
 {% endtip %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. 在文件列表上方，使用 **Add file（添加文件）**下拉菜单，单击 **Upload files（上传文件）**。 !["Add file（添加文件）"下拉菜单中的"Upload files（上传文件）"](/assets/images/help/repository/upload-files-button.png)
-3. 将要上传的文件或文件夹拖放到文件树中。 ![拖放区域](/assets/images/help/repository/upload-files-drag-and-drop.png)
+2. 在文件列表上方，使用 **Add file（添加文件）**下拉菜单，单击 **Upload files（上传文件）**。 !["Add file（添加文件）"下拉菜单中的"Upload files（上传文件）"](/assets/images/2021/10/help/repository/upload-files-button.png)
+3. 将要上传的文件或文件夹拖放到文件树中。 ![拖放区域](/assets/images/2021/10/help/repository/upload-files-drag-and-drop.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
-6. 单击 **Commit changes（提交更改）**。 ![提交更改按钮](/assets/images/help/repository/commit-changes-button.png)
+6. 单击 **Commit changes（提交更改）**。 ![提交更改按钮](/assets/images/2021/10/help/repository/commit-changes-button.png)
 
 ## 使用命令行提交文件到仓库
 

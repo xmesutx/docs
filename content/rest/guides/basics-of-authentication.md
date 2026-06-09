@@ -93,7 +93,7 @@ requesting `user:email` scope for reading private email addresses.
 
 Navigate your browser to `http://127.0.0.1:4567`. After clicking on the link, you
 should be taken to {% data variables.product.product_name %}, and presented with a dialog that looks something like this:
-![GitHub's OAuth Prompt](/assets/images/oauth_prompt.png)
+![GitHub's OAuth Prompt](/assets/images/2021/10/oauth_prompt.png)
 
 If you trust yourself, click **Authorize App**. Wuh-oh! Sinatra spits out a
 `404` error. What gives?!

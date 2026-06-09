@@ -18,7 +18,7 @@ shortTitle: コントリビューターのガイドライン
 ## コントリビューションガイドラインについて
 プロジェクトコントリビューターにうまく作業してもらうために、プロジェクトリポジトリのルート、`docs` または `.github` フォルダに、コントリビューションガイドラインについてのファイルを追加できます。 プルリクエストをオープンした場合や Issue を作成した場合、そのファイルへのリンクが表示されます。 コントリビューションガイドラインへのリンクは、リポジトリの `contribute` ページにも表示されます。 `contribute`ページの例については[github/docs/contribute](https://github.com/github/docs/contribute)を参照してください。
 
-![contributing-guidelines](/assets/images/help/pull_requests/contributing-guidelines.png)
+![contributing-guidelines](/assets/images/2021/10/help/pull_requests/contributing-guidelines.png)
 
 リポジトリのオーナーにとって、コントリビューションガイドラインとは、人々がどのようにコントリビュートするべきかを伝える方法です。
 
@@ -42,7 +42,7 @@ Organization {% ifversion fpt or ghes or ghec %}またはユーザアカウン�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
-3. コントリビューションガイドラインを、リポジトリの root、`docs`、または `.github` ディレクトリに保管するかどうかを決めます。 そして、ファイル名のフィールドに、ファイルの名前および拡張子を入力します。 コントリビューションガイドラインのファイル名では大文字と小文字は区別されません。 サポートされているファイル拡張子の場合、ファイルはリッチテキスト形式でレンダリングされます。 For more information, see "[Working with non-code files](/repositories/working-with-files/using-files/working-with-non-code-files#rendering-differences-in-prose-documents)." ![新しいファイルの名前](/assets/images/help/repository/new-file-name.png)
+3. コントリビューションガイドラインを、リポジトリの root、`docs`、または `.github` ディレクトリに保管するかどうかを決めます。 そして、ファイル名のフィールドに、ファイルの名前および拡張子を入力します。 コントリビューションガイドラインのファイル名では大文字と小文字は区別されません。 サポートされているファイル拡張子の場合、ファイルはリッチテキスト形式でレンダリングされます。 For more information, see "[Working with non-code files](/repositories/working-with-files/using-files/working-with-non-code-files#rendering-differences-in-prose-documents)." ![新しいファイルの名前](/assets/images/2021/10/help/repository/new-file-name.png)
     - リポジトリのルートディレクトリでコントリビューションガイドラインを表示するには、*CONTRIBUTING* と入力します。
     - リポジトリの `docs` ディレクトリにコントリビューションガイドラインを表示するには、*docs/* と入力して新しいディレクトリを作成し、次に *CONTRIBUTING* と入力します。
     - リポジトリに複数の *CONTRIBUTING* ファイルが含まれている場合、リンクに表示されるファイルは、`.github` ディレクトリ、リポジトリのルートディレクトリ、最後に `docs` ディレクトリの順に選択されます。

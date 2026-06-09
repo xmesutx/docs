@@ -23,6 +23,6 @@ shortTitle: Set the IP using the console
 {% endnote %}
 
 {% data reusables.enterprise_installation.open-vm-console-start %}
-3. `IPv4`あるいは`IPv6`プロトコルの設定を選択してください。 ![IPv4 または IPv6 プロトコルを選択するためのオプション](/assets/images/enterprise/network-configuration/IPv4-or-IPv6-protocol.png)
-4. 選択したプロトコルのオプションを設定してください。 ![IP プロトコルオプションのメニュー](/assets/images/enterprise/network-configuration/network-settings-selection.png)
+3. `IPv4`あるいは`IPv6`プロトコルの設定を選択してください。 ![IPv4 または IPv6 プロトコルを選択するためのオプション](/assets/images/2021/10/enterprise/network-configuration/IPv4-or-IPv6-protocol.png)
+4. 選択したプロトコルのオプションを設定してください。 ![IP プロトコルオプションのメニュー](/assets/images/2021/10/enterprise/network-configuration/network-settings-selection.png)
 {% data reusables.enterprise_installation.vm-console-done %}

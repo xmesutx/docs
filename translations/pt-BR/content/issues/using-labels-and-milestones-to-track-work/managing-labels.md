@@ -77,7 +77,7 @@ Qualquer pessoa com acesso de gravação a um repositório pode criar uma etique
 Qualquer pessoa com acesso de triagem a um repositório pode aplicar e ignorar etiquetas.
 
 1. Acesse {% ifversion fpt or ghec %}problema, pull request ou discussão{% else %}problema ou pull request{% endif %}.
-1. Na barra lateral direita, à direita de "Etiquetas", clique em {% octicon "gear" aria-label="The gear icon" %} e, em seguida, clique em uma etiqueta. ![Menu suspenso "Etiquetas"](/assets/images/help/issues/labels-drop-down.png)
+1. Na barra lateral direita, à direita de "Etiquetas", clique em {% octicon "gear" aria-label="The gear icon" %} e, em seguida, clique em uma etiqueta. ![Menu suspenso "Etiquetas"](/assets/images/2021/10/help/issues/labels-drop-down.png)
 
 ## Editar uma etiqueta
 

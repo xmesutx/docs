@@ -45,7 +45,7 @@ shortTitle: 管理自定义域
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. 在 "Custom domain（自定义域）"下，输入自定义域，然后单击 **Save（保存）**。 这将创建一个在发布源根目录中添加 _CNAME _ 文件的提交。 ![保存自定义域按钮](/assets/images/help/pages/save-custom-subdomain.png)
+4. 在 "Custom domain（自定义域）"下，输入自定义域，然后单击 **Save（保存）**。 这将创建一个在发布源根目录中添加 _CNAME _ 文件的提交。 ![保存自定义域按钮](/assets/images/2021/10/help/pages/save-custom-subdomain.png)
 5. 导航到您的 DNS 提供程序并创建 `CNAME` 记录，使子域指向您站点的默认域。 例如，如果要对您的用户站点使用子域 `www.example.com`，您可以创建 `CNAME` 记录，使 `www.example.com` 指向 `<user>.github.io`。 如果要对您的组织站点使用子域 `www.anotherexample.com`，您可以创建 `CNAME` 记录，使 `www.anotherexample.com` 指向 `<organization>.github.io`。 `CNAME` 记录应该始终指向 `<user>.github.io` 或 `<organization>.github.io`，不包括仓库名称。 {% data reusables.pages.contact-dns-provider %} {% data reusables.pages.default-domain-information %}
 
 {% indented_data_reference reusables.pages.wildcard-dns-warning spaces=3 %}
@@ -70,7 +70,7 @@ shortTitle: 管理自定义域
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. 在 "Custom domain（自定义域）"下，输入自定义域，然后单击 **Save（保存）**。 这将创建一个在发布源根目录中添加 _CNAME _ 文件的提交。 ![保存自定义域按钮](/assets/images/help/pages/save-custom-apex-domain.png)
+4. 在 "Custom domain（自定义域）"下，输入自定义域，然后单击 **Save（保存）**。 这将创建一个在发布源根目录中添加 _CNAME _ 文件的提交。 ![保存自定义域按钮](/assets/images/2021/10/help/pages/save-custom-apex-domain.png)
 5. 导航到 DNS 提供程序并创建一个 `ALIAS`、`ANAME` 或 `A` 记录。 您也可以创建 `AAAA` 记录以获得 IPv6 支持。 {% data reusables.pages.contact-dns-provider %}
     - 要创建 `ALIAS` 或 `ANAME` 记录，请将 apex 域指向站点的默认域。 {% data reusables.pages.default-domain-information %}
     - 要创建 `A` 记录，请将 apex 域指向 {% data variables.product.prodname_pages %} 的 IP 地址。
@@ -132,7 +132,7 @@ shortTitle: 管理自定义域
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. 在“Custom domain（自定义域）”下，单击 **Remove（删除）**。 ![保存自定义域按钮](/assets/images/help/pages/remove-custom-domain.png)
+4. 在“Custom domain（自定义域）”下，单击 **Remove（删除）**。 ![保存自定义域按钮](/assets/images/2021/10/help/pages/remove-custom-domain.png)
 
 ## 保护自定义域
 

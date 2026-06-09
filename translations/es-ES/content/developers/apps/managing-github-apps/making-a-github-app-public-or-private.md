@@ -35,7 +35,7 @@ Para cambiar quién puede instalar una GitHub App:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-3. Selecciona la GitHub App cuya opción de instalación quieras cambiar. ![Seleccion de apps](/assets/images/github-apps/github_apps_select-app.png)
+3. Selecciona la GitHub App cuya opción de instalación quieras cambiar. ![Seleccion de apps](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.github_apps_advanced %}
-5. Dependiendo de la opción de instalación de tu GitHub App, haz clic ya sea en **Hacer pública** o **Hacer{% ifversion fpt or ghes > 3.1 or ghae or ghec %}privada{% else %}interna{% endif %}**. ![Botón para cambiar la opción de instalación para tu GitHub App](/assets/images/github-apps/github_apps_make_public.png)
-6. Dependiendo de la opción de instalación de tu GitHub App, haz clic ya sea en **Sí, hacer esta GitHub App pública** o **Sí, hacer esta GitHub App {% ifversion fpt or ghes < 3.2 or ghec %}interna{% else %}privada{% endif %}**. ![Botón para confirmar el cambio de tu opción de instalación](/assets/images/github-apps/github_apps_confirm_installation_option.png)
+5. Dependiendo de la opción de instalación de tu GitHub App, haz clic ya sea en **Hacer pública** o **Hacer{% ifversion fpt or ghes > 3.1 or ghae or ghec %}privada{% else %}interna{% endif %}**. ![Botón para cambiar la opción de instalación para tu GitHub App](/assets/images/2021/10/github-apps/github_apps_make_public.png)
+6. Dependiendo de la opción de instalación de tu GitHub App, haz clic ya sea en **Sí, hacer esta GitHub App pública** o **Sí, hacer esta GitHub App {% ifversion fpt or ghes < 3.2 or ghec %}interna{% else %}privada{% endif %}**. ![Botón para confirmar el cambio de tu opción de instalación](/assets/images/2021/10/github-apps/github_apps_confirm_installation_option.png)

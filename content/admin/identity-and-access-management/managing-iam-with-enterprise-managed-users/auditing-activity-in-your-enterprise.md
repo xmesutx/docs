@@ -33,4 +33,4 @@ You can also access the audit log for your enterprise from the REST API. For mor
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
 1. Optionally, above the list of events, select the **Export Git Events** or **Export** drop-down menu and choose options for exporting events from the audit log.
-  !["Export Git Events" and "Export" drop-down menus for the enterprise audit log](/assets/images/help/enterprises/audit-log-export-drop-down-menus.png)
+  !["Export Git Events" and "Export" drop-down menus for the enterprise audit log](/assets/images/2021/10/help/enterprises/audit-log-export-drop-down-menus.png)

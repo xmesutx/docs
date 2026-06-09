@@ -18,7 +18,7 @@ Quando um wiki é desativado, o conteúdo dele é oculto, mas não apagado. Se v
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em Features (Recursos), desmarque **Wiki**. ![Caixa de seleção Wiki disable (Desabilitação de wikis)](/assets/images/help/wiki/wiki_enable_disable.png)
+3. Em Features (Recursos), desmarque **Wiki**. ![Caixa de seleção Wiki disable (Desabilitação de wikis)](/assets/images/2021/10/help/wiki/wiki_enable_disable.png)
 
 ## Leia mais
 

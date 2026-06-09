@@ -46,7 +46,7 @@ Before enabling {% data variables.product.prodname_unified_contributions %} on {
 {% data reusables.enterprise-accounts.github-connect-tab %}{% else %}
 1. {% data variables.product.product_location %}と{% data variables.product.prodname_dotcom_the_website %}にサインインしてください。
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
-1. Under "Users can share contribution counts to {% data variables.product.prodname_dotcom_the_website %}", click **Request access**. ![Request access to unified contributions option](/assets/images/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
+1. Under "Users can share contribution counts to {% data variables.product.prodname_dotcom_the_website %}", click **Request access**. ![Request access to unified contributions option](/assets/images/2021/10/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
 2. {% data variables.product.prodname_ghe_server %} サイトに[サインイン](https://enterprise.github.com/login)して、以降の指示を受けてください。
 
 When you request access, we may redirect you to the {% data variables.product.prodname_ghe_server %} site to check your current terms of service.

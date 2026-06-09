@@ -28,7 +28,7 @@ Este artigo descreve como você pode fazer parceria com {% data variables.produc
 
 O diagrama a seguir resume o processo de {% data variables.product.prodname_secret_scanning %} para repositórios públicos, com qualquer correspondência enviada para o ponto de extremidade de verificação de um provedor de serviços.
 
-![Diagrama do fluxo que mostra o processo de varredura de um segredo e envio de correspondências para o ponto de extremidade de verificação de um provedor de serviços](/assets/images/secret-scanning-flow.png "Fluxo de {% data variables.product.prodname_secret_scanning_caps %}")
+![Diagrama do fluxo que mostra o processo de varredura de um segredo e envio de correspondências para o ponto de extremidade de verificação de um provedor de serviços](/assets/images/2021/10/secret-scanning-flow.png "Fluxo de {% data variables.product.prodname_secret_scanning_caps %}")
 
 ## Juntando-se ao programa de {% data variables.product.prodname_secret_scanning %} em {% data variables.product.prodname_dotcom %}
 

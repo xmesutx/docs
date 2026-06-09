@@ -148,7 +148,7 @@ end
 
 Normalmente, com a paginação, seu objetivo não é concatenar todos os resultados possíveis, mas produzir um conjunto de navegação, como esse:
 
-![Amostra dos links de paginação](/assets/images/pagination_sample.png)
+![Amostra dos links de paginação](/assets/images/2021/10/pagination_sample.png)
 
 Vamos esboçar uma microversão do que isso poderia implicar.
 

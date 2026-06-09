@@ -27,7 +27,7 @@ Puedes restringir la habilidad de cambiar la visibilidad de un repositorio para 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. En "Repository visibility change" (Cambio en la visibilidad de los repositorios), anula la selección de **Allow members to change repository visibilities for this organization** (Permitir que los miembros cambien las visibilidades de los repositorios para esta organización). ![Casilla para permitir que los miembros cambien la visibilidad de los repositorios](/assets/images/help/organizations/disallow-members-to-change-repo-visibility.png)
+5. En "Repository visibility change" (Cambio en la visibilidad de los repositorios), anula la selección de **Allow members to change repository visibilities for this organization** (Permitir que los miembros cambien las visibilidades de los repositorios para esta organización). ![Casilla para permitir que los miembros cambien la visibilidad de los repositorios](/assets/images/2021/10/help/organizations/disallow-members-to-change-repo-visibility.png)
 6. Haz clic en **Save ** (guardar).
 
 ## Leer más

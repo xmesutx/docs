@@ -45,7 +45,7 @@ shortTitle: 支出限额
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. 在“{% data variables.product.prodname_codespaces %} 每月使用”上方，单击 **Spending Limit（支出限制）**。 ![支出限制选项卡](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. 在“{% data variables.product.prodname_codespaces %} 每月使用”上方，单击 **Spending Limit（支出限制）**。 ![支出限制选项卡](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 
@@ -58,7 +58,7 @@ shortTitle: 支出限额
 
 You can disable these notifications anytime by navigating to the bottom of the **Spending Limit** page.
 
-![帐单邮箱通知设置的屏幕截图](/assets/images/help/billing/codespaces-spending-limit-notifications.png)
+![帐单邮箱通知设置的屏幕截图](/assets/images/2022/02/help/billing/codespaces-spending-limit-notifications.png)
 
 ## 延伸阅读
 

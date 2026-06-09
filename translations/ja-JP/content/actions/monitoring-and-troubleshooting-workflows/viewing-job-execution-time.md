@@ -18,7 +18,7 @@ Billable job execution minutes are only shown for jobs run on private repositori
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
-1. ジョブの概要の下で、ジョブの実行時間を表示できます。 請求可能なジョブの実行時間に関する詳細を表示するには、**Billable time（請求可能な時間）**の下の時間をクリックしてください。 ![実行および支払請求可能な時間の詳細リンク](/assets/images/help/repository/view-run-billable-time.png)
+1. ジョブの概要の下で、ジョブの実行時間を表示できます。 請求可能なジョブの実行時間に関する詳細を表示するには、**Billable time（請求可能な時間）**の下の時間をクリックしてください。 ![実行および支払請求可能な時間の詳細リンク](/assets/images/2021/10/help/repository/view-run-billable-time.png)
 
    {% note %}
 

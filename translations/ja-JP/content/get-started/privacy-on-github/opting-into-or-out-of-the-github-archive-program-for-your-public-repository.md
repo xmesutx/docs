@@ -19,7 +19,7 @@ shortTitle: GitHub Archive program
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Features] で、[**Preserve this repository**] を選択または選択解除します。 ![{% data variables.product.prodname_dotcom %} が {% data variables.product.prodname_archive %} にコードを含めることを許可するチェックボックス](/assets/images/help/repository/github-archive-program-checkbox.png)
+3. [Features] で、[**Preserve this repository**] を選択または選択解除します。 ![{% data variables.product.prodname_dotcom %} が {% data variables.product.prodname_archive %} にコードを含めることを許可するチェックボックス](/assets/images/2021/10/help/repository/github-archive-program-checkbox.png)
 
 ## 参考リンク
 - [{% data variables.product.prodname_archive %} FAQ](https://archiveprogram.github.com/faq/)

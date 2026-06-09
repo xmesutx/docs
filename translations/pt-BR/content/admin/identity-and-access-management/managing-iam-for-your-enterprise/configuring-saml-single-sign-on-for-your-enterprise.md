@@ -72,12 +72,12 @@ Para obter informações mais detalhadas sobre como habilitar o SAML usando o Ok
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 4. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. Em "Logon único SAML", selecione **Exigir autenticação do SAML**. ![Caixa de seleção para habilitar SAML SSO](/assets/images/help/business-accounts/enable-saml-auth-enterprise.png)
-6. No campo **Sign on URL** (URL de logon), digite o ponto de extremidade HTTPS do seu IdP para solicitações de logon único. Esse valor está disponível na configuração do IdP. ![Campo referente à URL para a qual os integrantes serão encaminhados ao entrarem](/assets/images/help/saml/saml_sign_on_url_business.png)
-7. Opcionalmente, no campo **Emissor**, digite a URL do emissor do SAML para verificar a autenticidade das mensagens enviadas. ![Campo referente ao nome do emissor de SAML](/assets/images/help/saml/saml_issuer.png)
-8. Em **Public Certificate** (Certificado público), cole um certificado para verificar as respostas de SAML. ![Campo referente ao certificado público do seu provedor de identidade](/assets/images/help/saml/saml_public_certificate.png)
-9. Para verificar a integridade das solicitações do emissor de SAML, clique em {% octicon "pencil" aria-label="The edit icon" %}. Em seguida, no menu suspenso "Método de assinatura" e "Método de resumo", escolha o algoritmo de hashing usado pelo seu emissor do SAML. ![Menus suspensos Signature Method (Método de assinatura) e Digest Method (Método de compilação) para os algoritmos de hash usados pelo emissor de SAML](/assets/images/help/saml/saml_hashing_method.png)
-10. Antes de habilitar o SAML SSO para sua empresa, clique em **Test SAML configuration** (Testar configuração de SAML) para garantir que as informações que você digitou estão corretas. ![Botão para testar a configuração de SAML antes da aplicação](/assets/images/help/saml/saml_test.png)
+5. Em "Logon único SAML", selecione **Exigir autenticação do SAML**. ![Caixa de seleção para habilitar SAML SSO](/assets/images/2021/10/help/business-accounts/enable-saml-auth-enterprise.png)
+6. No campo **Sign on URL** (URL de logon), digite o ponto de extremidade HTTPS do seu IdP para solicitações de logon único. Esse valor está disponível na configuração do IdP. ![Campo referente à URL para a qual os integrantes serão encaminhados ao entrarem](/assets/images/2021/10/help/saml/saml_sign_on_url_business.png)
+7. Opcionalmente, no campo **Emissor**, digite a URL do emissor do SAML para verificar a autenticidade das mensagens enviadas. ![Campo referente ao nome do emissor de SAML](/assets/images/2021/10/help/saml/saml_issuer.png)
+8. Em **Public Certificate** (Certificado público), cole um certificado para verificar as respostas de SAML. ![Campo referente ao certificado público do seu provedor de identidade](/assets/images/2021/10/help/saml/saml_public_certificate.png)
+9. Para verificar a integridade das solicitações do emissor de SAML, clique em {% octicon "pencil" aria-label="The edit icon" %}. Em seguida, no menu suspenso "Método de assinatura" e "Método de resumo", escolha o algoritmo de hashing usado pelo seu emissor do SAML. ![Menus suspensos Signature Method (Método de assinatura) e Digest Method (Método de compilação) para os algoritmos de hash usados pelo emissor de SAML](/assets/images/2021/10/help/saml/saml_hashing_method.png)
+10. Antes de habilitar o SAML SSO para sua empresa, clique em **Test SAML configuration** (Testar configuração de SAML) para garantir que as informações que você digitou estão corretas. ![Botão para testar a configuração de SAML antes da aplicação](/assets/images/2021/10/help/saml/saml_test.png)
 11. Clique em **Salvar**.
 {% data reusables.enterprise-accounts.download-recovery-codes %}
 
@@ -117,12 +117,12 @@ Se os detalhes para o seu IdP forem alterados, você deverá editar a configura�
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. Em "logon único SAML", digite os novos detalhes para o seu IdP. ![Os campos de entrada de texto com detalhes de IdP para configuração SAML SSO para uma empresa](/assets/images/help/saml/ae-edit-idp-details.png)
-1. Opcionalmente, clique em {% octicon "pencil" aria-label="The edit icon" %} para configurar uma nova assinatura ou método de resumo. ![Ícone de editar para alterar a assinatura e o método de resumo](/assets/images/help/saml/ae-edit-idp-details-edit-signature-and-digest.png)
+1. Em "logon único SAML", digite os novos detalhes para o seu IdP. ![Os campos de entrada de texto com detalhes de IdP para configuração SAML SSO para uma empresa](/assets/images/2021/10/help/saml/ae-edit-idp-details.png)
+1. Opcionalmente, clique em {% octicon "pencil" aria-label="The edit icon" %} para configurar uma nova assinatura ou método de resumo. ![Ícone de editar para alterar a assinatura e o método de resumo](/assets/images/2021/10/help/saml/ae-edit-idp-details-edit-signature-and-digest.png)
 
-    - Use os menus suspensos e escolha a nova assinatura ou o método de resumo. ![Menus suspensos para escolher uma nova assinatura ou método de resumo](/assets/images/help/saml/ae-edit-idp-details-edit-signature-and-digest-drop-down-menus.png)
-1. Para garantir que a informação inserida está correta, clique em **Testar configuração de SAML**. ![Botão "Testar configuração do SAML"](/assets/images/help/saml/ae-edit-idp-details-test-saml-configuration.png)
-1. Clique em **Salvar**. ![Botão "Salvar" para configuração do SAML SSO](/assets/images/help/saml/ae-edit-idp-details-save.png)
+    - Use os menus suspensos e escolha a nova assinatura ou o método de resumo. ![Menus suspensos para escolher uma nova assinatura ou método de resumo](/assets/images/2021/10/help/saml/ae-edit-idp-details-edit-signature-and-digest-drop-down-menus.png)
+1. Para garantir que a informação inserida está correta, clique em **Testar configuração de SAML**. ![Botão "Testar configuração do SAML"](/assets/images/2021/10/help/saml/ae-edit-idp-details-test-saml-configuration.png)
+1. Clique em **Salvar**. ![Botão "Salvar" para configuração do SAML SSO](/assets/images/2021/10/help/saml/ae-edit-idp-details-save.png)
 1. Opcionalmente, para provisionar e desprovisionar contas de usuário automaticamente para {% data variables.product.product_location %}, reconfigure o provisionamento de usuário com SCIM. Para obter mais informações, consulte "[Configurar provisionamento do usuário para sua empresa](/admin/authentication/configuring-user-provisioning-for-your-enterprise)".
 
 {% endif %}
@@ -146,8 +146,8 @@ Se os detalhes para o seu IdP forem alterados, você deverá editar a configura�
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. Em "Logon único SAML", selecione **Habilitar autenticação do SAML**. ![Caixa de seleção para "Habilitar autenticação do SAML"](/assets/images/help/saml/ae-saml-disabled.png)
-1. Para desabilitar o SAML SSO e exigir o login com a conta de usuário integrada que você criou durante a inicialização, clique em **Salvar**. ![Botão "Salvar" para configuração do SAML SSO](/assets/images/help/saml/ae-saml-disabled-save.png)
+1. Em "Logon único SAML", selecione **Habilitar autenticação do SAML**. ![Caixa de seleção para "Habilitar autenticação do SAML"](/assets/images/2021/10/help/saml/ae-saml-disabled.png)
+1. Para desabilitar o SAML SSO e exigir o login com a conta de usuário integrada que você criou durante a inicialização, clique em **Salvar**. ![Botão "Salvar" para configuração do SAML SSO](/assets/images/2021/10/help/saml/ae-saml-disabled-save.png)
 
 {% endif %}
 

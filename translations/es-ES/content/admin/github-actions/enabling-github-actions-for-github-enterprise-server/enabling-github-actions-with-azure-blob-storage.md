@@ -40,7 +40,7 @@ Antes de que habilites las {% data variables.product.prodname_actions %}, asegú
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.actions %}
 {% data reusables.actions.enterprise-enable-checkbox %}
-1. Debajo de "Almacenamiento de artefactos & bitácoras", selecciona **Azure Blob Storage**, e ingresa tu secuencia de conexión de cuenta para el almacenamiento de Azure. Para obtener más información sobre cómo obtener la secuencia de conexión para tu cuenta de almacenamiento, consulta la [Documentación de Azure](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#view-account-access-keys). ![Botón radial para seleccionar Azure Blob Storage y el campo de secuencia de conexión](/assets/images/enterprise/management-console/actions-azure-storage.png)
+1. Debajo de "Almacenamiento de artefactos & bitácoras", selecciona **Azure Blob Storage**, e ingresa tu secuencia de conexión de cuenta para el almacenamiento de Azure. Para obtener más información sobre cómo obtener la secuencia de conexión para tu cuenta de almacenamiento, consulta la [Documentación de Azure](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#view-account-access-keys). ![Botón radial para seleccionar Azure Blob Storage y el campo de secuencia de conexión](/assets/images/2021/10/enterprise/management-console/actions-azure-storage.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.actions.enterprise-postinstall-nextsteps %}

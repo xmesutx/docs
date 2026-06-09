@@ -1,1 +1,1 @@
-1. En la parte superior de la página, debajo de "Información de pago", haz clic en **Administrar el límite de gastos**. ![Enlace para administrar el límite de gastos](/assets/images/help/billing/manage-spending-limit-link.png)
+1. En la parte superior de la página, debajo de "Información de pago", haz clic en **Administrar el límite de gastos**. ![Enlace para administrar el límite de gastos](/assets/images/2021/10/help/billing/manage-spending-limit-link.png)

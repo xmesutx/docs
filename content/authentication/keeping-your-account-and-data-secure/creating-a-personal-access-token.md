@@ -42,23 +42,23 @@ A token with no assigned scopes can only access public information. To use your 
 {% data reusables.user-settings.personal_access_tokens %}
 {% data reusables.user-settings.generate_new_token %}
 5. Give your token a descriptive name.
-   ![Token description field](/assets/images/help/settings/token_description.png){% ifversion fpt or ghes > 3.2 or ghae-issue-4374 or ghec %}
+   ![Token description field](/assets/images/2021/10/help/settings/token_description.png){% ifversion fpt or ghes > 3.2 or ghae-issue-4374 or ghec %}
 6. To give your token an expiration, select the **Expiration** drop-down menu, then click a default or use the calendar picker.
-   ![Token expiration field](/assets/images/help/settings/token_expiration.png){% endif %}
+   ![Token expiration field](/assets/images/2021/10/help/settings/token_expiration.png){% endif %}
 7. Select the scopes, or permissions, you'd like to grant this token. To use your token to access repositories from the command line, select **repo**.
    {% ifversion fpt or ghes or ghec %}
-   ![Selecting token scopes](/assets/images/help/settings/token_scopes.gif)
+   ![Selecting token scopes](/assets/images/2021/10/help/settings/token_scopes.gif)
    {% elsif ghae %}
-   ![Selecting token scopes](/assets/images/enterprise/github-ae/settings/access-token-scopes-for-ghae.png)
+   ![Selecting token scopes](/assets/images/2021/10/enterprise/github-ae/settings/access-token-scopes-for-ghae.png)
    {% endif %}
 8. Click **Generate token**.
-   ![Generate token button](/assets/images/help/settings/generate_token.png)
+   ![Generate token button](/assets/images/2021/10/help/settings/generate_token.png)
    {% ifversion fpt or ghec %}
-   ![Newly created token](/assets/images/help/settings/personal_access_tokens.png)
+   ![Newly created token](/assets/images/2021/10/help/settings/personal_access_tokens.png)
    {% elsif ghes > 3.1 or ghae %}
-   ![Newly created token](/assets/images/help/settings/personal_access_tokens_ghe.png)
+   ![Newly created token](/assets/images/2021/10/help/settings/personal_access_tokens_ghe.png)
    {% else %}
-   ![Newly created token](/assets/images/help/settings/personal_access_tokens_ghe_legacy.png)
+   ![Newly created token](/assets/images/2021/10/help/settings/personal_access_tokens_ghe_legacy.png)
    {% endif %}
    {% warning %}
 

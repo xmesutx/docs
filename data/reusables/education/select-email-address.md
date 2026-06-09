@@ -1,5 +1,5 @@
 1. Select or add the email address you use for school.
-  ![Select the email address](/assets/images/help/education/select-email-address.png)
+  ![Select the email address](/assets/images/2021/10/help/education/select-email-address.png)
 
     {% tip %}
 

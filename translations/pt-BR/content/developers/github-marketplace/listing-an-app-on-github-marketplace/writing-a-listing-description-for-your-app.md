@@ -31,7 +31,7 @@ O nome do seu anúncio irá aparecer na [página inicial de {% data variables.pr
 
 A comunidade verá a descrição "muito curta" sob o nome de seu aplicativo [na página inicial do {% data variables.product.prodname_marketplace %}](https://github.com/marketplace).
 
-![Descrição curta do aplicativo em {% data variables.product.prodname_marketplace %}](/assets/images/marketplace/marketplace_short_description.png)
+![Descrição curta do aplicativo em {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/marketplace/marketplace_short_description.png)
 
 #### Comprimento
 
@@ -103,11 +103,11 @@ Se o seu aplicativo só funciona com idiomas específicos, selecione até 10 lin
 
 {% data variables.product.prodname_marketplace %} exibe todas as listagens com um logotipo quadrado dentro de um selo circular para distinguir visualmente os aplicativos.
 
-![Imagens e logotipo do GitHub Marketplace](/assets/images/marketplace/marketplace-logo-and-badge.png)
+![Imagens e logotipo do GitHub Marketplace](/assets/images/2021/10/marketplace/marketplace-logo-and-badge.png)
 
 Um cartão de recursos consiste do logotipo, nome e uma imagem de fundo personalizada do seu aplicativo que capta a personalidade da sua marca. {% data variables.product.prodname_marketplace %} exibe este cartão se seu aplicativo for um dos quatro aplicativos destacado aleatoriamente na parte superior da [página inicial](https://github.com/marketplace). A descrição muito curta de cada aplicativo é exibida abaixo de seu cartão de recursos.
 
-![Cartão de recurso](/assets/images/marketplace/marketplace_feature_card.png)
+![Cartão de recurso](/assets/images/2021/10/marketplace/marketplace_feature_card.png)
 
 À medida que você faz o upload das imagens e seleciona as cores, sua listagem de rascunho do {% data variables.product.prodname_marketplace %} exibirá uma prévia do seu logotipo e do seu cartão de recurso.
 
@@ -135,11 +135,11 @@ Para acessar a página inicial do seu aplicativo, clique no nome do aplicativo n
 
 A sua "Descrição introdutória" é exibida no topo da página inicial {% data variables.product.prodname_marketplace %} do seu aplicativo.
 
-![Descrição introdutória do {% data variables.product.prodname_marketplace %}](/assets/images/marketplace/marketplace_intro_description.png)
+![Descrição introdutória do {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/marketplace/marketplace_intro_description.png)
 
 Clicar em **Ler mais...**, exibirá a "Descrição detalhada".
 
-![Descrição detalhada do {% data variables.product.prodname_marketplace %}](/assets/images/marketplace/marketplace_detailed_description.png)
+![Descrição detalhada do {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/marketplace/marketplace_detailed_description.png)
 
 Siga estas instruções para escrever estas descrições.
 
@@ -195,4 +195,4 @@ Você pode enviar até cinco imagens de captura de tela do seu aplicativo para s
 - O GitHub exibe as capturas de tela das quais você fizer o upload em uma caixa na página inicial do seu aplicativo. Portanto, você não precisa adicionar caixas ou bordas ao redor de suas capturas de tela.
 - As legendas são mais eficazes quando são curtas e ágeis.
 
-![Imagem de captura de tela do GitHub Marketplace](/assets/images/marketplace/marketplace-screenshots.png)
+![Imagem de captura de tela do GitHub Marketplace](/assets/images/2021/10/marketplace/marketplace-screenshots.png)

@@ -25,13 +25,13 @@ shortTitle: Create repository advisories
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. 单击 **New draft security advisory（新建安全通告草稿）**。 ![打开通告草稿按钮](/assets/images/help/security/security-advisory-new-draft-security-advisory-button.png)
+4. 单击 **New draft security advisory（新建安全通告草稿）**。 ![打开通告草稿按钮](/assets/images/2021/10/help/security/security-advisory-new-draft-security-advisory-button.png)
 5. 键入安全通告的标题。
 {% data reusables.repositories.security-advisory-edit-details %}
 {% data reusables.repositories.security-advisory-edit-severity %}
 {% data reusables.repositories.security-advisory-edit-cwe-cve %}
 {% data reusables.repositories.security-advisory-edit-description %}
-11. 单击 **Create draft security advisory（创建安全通告草稿）**。 ![创建安全通告按钮。](/assets/images/help/security/security-advisory-create-security-advisory-button.png)
+11. 单击 **Create draft security advisory（创建安全通告草稿）**。 ![创建安全通告按钮。](/assets/images/2021/10/help/security/security-advisory-create-security-advisory-button.png)
 
 ## 后续步骤
 

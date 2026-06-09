@@ -15,7 +15,7 @@ Com {% data variables.product.prodname_discussions %}, a comunidade para o seu p
 - Faça perguntas, discuta e responda às perguntas, e marque as discussões como respondidas
 - Promova uma atmosfera convidativa para visitantes e contribuidores para discutir objetivos, desenvolvimento, administração e fluxos de trabalho
 
-![Aba de discussões para um repositório](/assets/images/help/discussions/hero.png)
+![Aba de discussões para um repositório](/assets/images/2021/10/help/discussions/hero.png)
 
 Você não precisa fechar uma discussão como você fecha um problema ou um pull request.
 

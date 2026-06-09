@@ -51,5 +51,5 @@ Debes autenticarte en tu cuenta empresarial utilizando el SSO de SAML y el IdP c
 {% data reusables.identity-and-permissions.team-sync-confirm-saml %}
 {% data reusables.identity-and-permissions.enable-team-sync-azure %}
 {% data reusables.identity-and-permissions.team-sync-confirm %}
-7. Revisa los detalles del organismo de IdP que quieres conectar a tu cuenta empresarial y luego da clic en **Aprovar**. ![Solicitud pendiente para habilitar la sincronización de equipo a un locatario IdP específico con la opción de aprobar o cancelar la solicitud](/assets/images/help/teams/approve-team-synchronization.png)
-8. Para inhabilitar la sincronización de equipos, da clic en **Inhabilitar la sincronización de equipos**. ![Inhabilita la sincronización de equipo](/assets/images/help/teams/disable-team-synchronization.png)
+7. Revisa los detalles del organismo de IdP que quieres conectar a tu cuenta empresarial y luego da clic en **Aprovar**. ![Solicitud pendiente para habilitar la sincronización de equipo a un locatario IdP específico con la opción de aprobar o cancelar la solicitud](/assets/images/2021/10/help/teams/approve-team-synchronization.png)
+8. Para inhabilitar la sincronización de equipos, da clic en **Inhabilitar la sincronización de equipos**. ![Inhabilita la sincronización de equipo](/assets/images/2021/10/help/teams/disable-team-synchronization.png)

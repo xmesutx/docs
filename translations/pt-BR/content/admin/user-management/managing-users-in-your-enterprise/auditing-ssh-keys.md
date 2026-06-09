@@ -22,11 +22,11 @@ Depois de iniciada, a auditoria desabilita todas as chaves SSH e força os usuá
 
 Você pode iniciar uma auditoria de chave SSH na guia "All users" (Todos os usuários) do painel de administração do site:
 
-![Iniciar auditoria de chave pública](/assets/images/enterprise/security/Enterprise-Start-Key-Audit.png)
+![Iniciar auditoria de chave pública](/assets/images/2021/10/enterprise/security/Enterprise-Start-Key-Audit.png)
 
 Depois de clicar no botão "Start public key audit" (Iniciar auditoria de chave pública), você será redirecionado para uma tela de confirmação explicando as próximas etapas:
 
-![Confirmar a auditoria](/assets/images/enterprise/security/Enterprise-Begin-Audit.png)
+![Confirmar a auditoria](/assets/images/2021/10/enterprise/security/Enterprise-Begin-Audit.png)
 
 Depois de clicar no botão "Begin audit" (Iniciar auditoria), todas as chaves SSH serão invalidadas e exigirão aprovação. Você verá uma notificação indicando o início da auditoria.
 
@@ -44,7 +44,7 @@ fatal: remote desativado inesperadamente
 
 Quando clicar no link, o usuário deverá aprovar as chaves da própria conta:
 
-![Auditar chaves](/assets/images/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
+![Auditar chaves](/assets/images/2021/10/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
 
 Depois de aprovar ou rejeitar as chaves, o usuário poderá interagir normalmente com os repositórios.
 
@@ -52,7 +52,7 @@ Depois de aprovar ou rejeitar as chaves, o usuário poderá interagir normalment
 
 Os novos usuários deverão informar a senha ao adicionar uma chave SSH:
 
-![Confirmação de senha](/assets/images/help/settings/sudo_mode_popup.png)
+![Confirmação de senha](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 Quando adicionar a chave, o usuário receberá um e-mail de notificação como este:
 

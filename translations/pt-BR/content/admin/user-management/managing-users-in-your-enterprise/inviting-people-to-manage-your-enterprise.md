@@ -50,14 +50,14 @@ Se sua empresa usa {% data variables.product.prodname_emus %}, os proprietários
 {% data reusables.enterprise-accounts.administrators-tab %}
 1. Acima da lista de administradores, clique em {% ifversion ghec %}**Convidar administrador**{% elsif ghes %}**Add proprietário**{% endif %}.
   {% ifversion ghec %}
-  ![Botão "Convidar administrador" acima da lista de proprietários corporativos](/assets/images/help/business-accounts/invite-admin-button.png)
+  ![Botão "Convidar administrador" acima da lista de proprietários corporativos](/assets/images/2021/10/help/business-accounts/invite-admin-button.png)
   {% elsif ghes %}
-  ![Botão "Adicionar o proprietário" acima da lista de proprietários corporativos](/assets/images/help/business-accounts/add-owner-button.png)
+  ![Botão "Adicionar o proprietário" acima da lista de proprietários corporativos](/assets/images/2021/10/help/business-accounts/add-owner-button.png)
   {% endif %}
-1. Digite o nome de usuário, nome completo ou endereço de e-mail da pessoa que você quer convidar para ser um administrador corporativo e depois selecione a pessoa adequada a partir dos resultados. ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
-1. Selecione **Owner** (Proprietário) ou **Billing Manager** (Gerente de cobrança). ![Caixa de diálogo modal com opções de funções](/assets/images/help/business-accounts/invite-admins-roles.png)
-1. Clique em **Send Invitation** (Enviar convite). ![Send invitation button](/assets/images/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
-1. Clique em **Salvar**. !["Add" button](/assets/images/help/business-accounts/add-administrator-add-button.png){% endif %}
+1. Digite o nome de usuário, nome completo ou endereço de e-mail da pessoa que você quer convidar para ser um administrador corporativo e depois selecione a pessoa adequada a partir dos resultados. ![Modal box with field to type a person's username, full name, or email address, and Invite button](/assets/images/2021/10/help/business-accounts/invite-admins-modal-button.png){% ifversion ghec %}
+1. Selecione **Owner** (Proprietário) ou **Billing Manager** (Gerente de cobrança). ![Caixa de diálogo modal com opções de funções](/assets/images/2021/10/help/business-accounts/invite-admins-roles.png)
+1. Clique em **Send Invitation** (Enviar convite). ![Send invitation button](/assets/images/2021/10/help/business-accounts/invite-admins-send-invitation.png){% endif %}{% ifversion ghes %}
+1. Clique em **Salvar**. !["Add" button](/assets/images/2021/10/help/business-accounts/add-administrator-add-button.png){% endif %}
 
 ## Remover um administrador de sua conta corporativa
 
@@ -68,8 +68,8 @@ Somente proprietários corporativos podem remover outros administradores corpora
 {% data reusables.enterprise-accounts.administrators-tab %}
 1. Next to the username of the person you'd like to remove, click {% octicon "gear" aria-label="The Settings gear" %}, then click {% ifversion ghes %}**Remove owner**{% elsif ghec %}**Convert to member**{% endif %}.
   {% ifversion ghec %}
-  ![Ajuste de configurações com menu option (opções) para remover um administrador corporativo](/assets/images/help/business-accounts/remove-admin.png)
+  ![Ajuste de configurações com menu option (opções) para remover um administrador corporativo](/assets/images/2021/10/help/business-accounts/remove-admin.png)
   {% elsif ghes %}
-  ![Ajuste de configurações com menu option (opções) para remover um administrador corporativo](/assets/images/help/business-accounts/ghes-remove-owner.png)
+  ![Ajuste de configurações com menu option (opções) para remover um administrador corporativo](/assets/images/2021/10/help/business-accounts/ghes-remove-owner.png)
   {% endif %}
 1. Read the confirmation, then click {% ifversion ghes %}**Remove owner**{% elsif ghec %}**Yes, convert USERNAME to member**{% endif %}.

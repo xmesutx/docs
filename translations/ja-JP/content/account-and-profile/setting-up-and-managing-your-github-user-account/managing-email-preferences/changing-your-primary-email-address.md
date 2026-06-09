@@ -23,8 +23,8 @@ shortTitle: Primary email address
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
-3. プライマリメールアドレスとして新しいメールアドレスを追加したい場合、[Add email address] の下で新しいメールアドレスを入力し、[**Add**] をクリックします。 ![別のメールアドレスを追加するボタン](/assets/images/help/settings/add_another_email_address.png)
-4. [Primary email address] で、ドロップダウンメニューからプライマリメールアドレスとして使いたいメールアドレスをクリックし、[**Save**] をクリックします。 ![プライマリに設定するボタン](/assets/images/help/settings/set_as_primary_email.png)
+3. プライマリメールアドレスとして新しいメールアドレスを追加したい場合、[Add email address] の下で新しいメールアドレスを入力し、[**Add**] をクリックします。 ![別のメールアドレスを追加するボタン](/assets/images/2021/10/help/settings/add_another_email_address.png)
+4. [Primary email address] で、ドロップダウンメニューからプライマリメールアドレスとして使いたいメールアドレスをクリックし、[**Save**] をクリックします。 ![プライマリに設定するボタン](/assets/images/2021/10/help/settings/set_as_primary_email.png)
 5. 古いメールアドレスを削除するには、削除したいメールアドレスの隣にある {% octicon "trash" aria-label="The trash symbol" %}をクリックします。
 {% ifversion fpt or ghec %}
 6. 新しいプライマリメールアドレスを検証してください。 検証済みメールアドレスがないと、{% data variables.product.product_name %}の一部の機能を利用できません。 詳細は「[メールアドレスを検証する](/articles/verifying-your-email-address)」を参照してください。

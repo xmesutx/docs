@@ -17,8 +17,8 @@ topics:
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
 4. Select the {% data variables.product.prodname_oauth_app %} you want to modify.
-![App selection](/assets/images/oauth-apps/oauth_apps_choose_app_post2dot12.png)
+![App selection](/assets/images/2021/10/oauth-apps/oauth_apps_choose_app_post2dot12.png)
 5. Click **Delete application**.
-![Button to delete the application](/assets/images/oauth-apps/oauth_apps_delete_application.png)
+![Button to delete the application](/assets/images/2021/10/oauth-apps/oauth_apps_delete_application.png)
 6. Click **Delete this OAuth Application**.
-![Button to confirm the deletion](/assets/images/oauth-apps/oauth_apps_delete_confirm.png)
+![Button to confirm the deletion](/assets/images/2021/10/oauth-apps/oauth_apps_delete_confirm.png)

@@ -22,7 +22,7 @@ topics:
 删除议题时，协作者不会收到通知。 访问已删除议题的 URL 时，协作者会看到注明议题已删除的消息。 拥有仓库管理员或所有者权限的人员还将看到删除议题的人员的用户名和删除时间。
 
 1. 导航到要删除的议题。
-2. 在右侧栏上的“Notifications（通知）”下方，单击 **Delete issue（删除议题）**。 ![议题页面右侧栏底部高亮显示的"删除议题"文本](/assets/images/help/issues/delete-issue.png)
+2. 在右侧栏上的“Notifications（通知）”下方，单击 **Delete issue（删除议题）**。 ![议题页面右侧栏底部高亮显示的"删除议题"文本](/assets/images/2021/10/help/issues/delete-issue.png)
 4. 要确认删除，单击 **Delete this issue（删除此议题）**。
 
 ## 延伸阅读

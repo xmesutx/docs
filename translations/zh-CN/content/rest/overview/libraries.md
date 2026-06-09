@@ -14,7 +14,7 @@ topics:
 ---
 
 <div class="jumbotron libraries-jumbotron">
-  <img src="/assets/images/gundamcat.png" class="gundamcat" alt="Gundamcat" />
+  <img src="/assets/images/2021/10/gundamcat.png" class="gundamcat" alt="Gundamcat" />
   <h1>Octokit 风格多样</h1>
   <p class="lead">使用官方的 Octokit 库，或者使用任何适用的第三方库。</p>
   <div class="octokit-links"><br/>

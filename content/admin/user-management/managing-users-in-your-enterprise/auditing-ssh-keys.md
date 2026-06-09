@@ -21,11 +21,11 @@ Once initiated, the audit disables all existing SSH keys and forces users to app
 
 You can initiate an SSH key audit from the "All users" tab of the site admin dashboard:
 
-![Starting a public key audit](/assets/images/enterprise/security/Enterprise-Start-Key-Audit.png)
+![Starting a public key audit](/assets/images/2021/10/enterprise/security/Enterprise-Start-Key-Audit.png)
 
 After you click the "Start public key audit" button, you'll be taken to a confirmation screen explaining what will happen next:
 
-![Confirming the audit](/assets/images/enterprise/security/Enterprise-Begin-Audit.png)
+![Confirming the audit](/assets/images/2021/10/enterprise/security/Enterprise-Begin-Audit.png)
 
 After you click the "Begin audit" button, all SSH keys are invalidated and will require approval. You'll see a notification indicating the audit has begun.
 
@@ -43,7 +43,7 @@ fatal: The remote end hung up unexpectedly
 
 When they follow the link, they're asked to approve the keys on their account:
 
-![Auditing keys](/assets/images/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
+![Auditing keys](/assets/images/2021/10/enterprise/security/Enterprise-Audit-SSH-Keys.jpg)
 
 After they approve or reject their keys, they'll be able interact with repositories as usual.
 
@@ -51,7 +51,7 @@ After they approve or reject their keys, they'll be able interact with repositor
 
 New users will be prompted for their password when adding an SSH key:
 
-![Password confirmation](/assets/images/help/settings/sudo_mode_popup.png)
+![Password confirmation](/assets/images/2021/10/help/settings/sudo_mode_popup.png)
 
 When a user adds a key, they'll receive a notification email that will look something like this:
 

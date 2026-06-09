@@ -57,14 +57,14 @@ shortTitle: 赞助贡献者
 
 1. 在 {% data variables.product.product_name %} 上，导航到您要赞助的用户或组织的个人资料。
 1. 导航到帐户的赞助仪表板。
-   - 要赞助开发者，请在开发者的名称下单击 **Sponsor（赞助）**。 ![赞助按钮](/assets/images/help/profile/sponsor-button.png)
-   - 要赞助组织，请在组织名称的右侧单击 **Sponsor（赞助）**。 ![赞助按钮](/assets/images/help/sponsors/sponsor-org-button.png)
-1. （可选），在页面的右侧，要代表您的组织赞助帐户，请使用 **Sponsor as（赞助者）**下拉菜单，然后单击组织。 ![选择将作为赞助者的帐户](/assets/images/help/sponsors/sponsor-as-drop-down-menu.png)
+   - 要赞助开发者，请在开发者的名称下单击 **Sponsor（赞助）**。 ![赞助按钮](/assets/images/2021/10/help/profile/sponsor-button.png)
+   - 要赞助组织，请在组织名称的右侧单击 **Sponsor（赞助）**。 ![赞助按钮](/assets/images/2021/10/help/sponsors/sponsor-org-button.png)
+1. （可选），在页面的右侧，要代表您的组织赞助帐户，请使用 **Sponsor as（赞助者）**下拉菜单，然后单击组织。 ![选择将作为赞助者的帐户](/assets/images/2021/10/help/sponsors/sponsor-as-drop-down-menu.png)
 {% data reusables.sponsors.select-a-tier %}
 {% data reusables.sponsors.pay-prorated-amount %}
 {% data reusables.sponsors.select-sponsorship-billing %}
-  ![编辑付款按钮](/assets/images/help/sponsors/edit-sponsorship-payment-button.png)
+  ![编辑付款按钮](/assets/images/2021/10/help/sponsors/edit-sponsorship-payment-button.png)
 {% data reusables.sponsors.who-can-see-your-sponsorship %}
-  ![用于选择谁可以查看您的赞助的单选按钮](/assets/images/help/sponsors/who-can-see-sponsorship.png)
+  ![用于选择谁可以查看您的赞助的单选按钮](/assets/images/2021/10/help/sponsors/who-can-see-sponsorship.png)
 {% data reusables.sponsors.choose-updates %}
 {% data reusables.sponsors.sponsor-account %}

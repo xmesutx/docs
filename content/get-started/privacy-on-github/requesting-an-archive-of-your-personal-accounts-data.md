@@ -31,8 +31,8 @@ The generated `tar.gz` file reflects the data stored at the time you started the
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
 3. Under "Export account data", click **Start export** or **New export**.
-![Start personal data export button highlighted](/assets/images/help/repository/export-personal-data.png)
-![New personal data export button highlighted](/assets/images/help/repository/new-export.png)
+![Start personal data export button highlighted](/assets/images/2021/10/help/repository/export-personal-data.png)
+![New personal data export button highlighted](/assets/images/2021/10/help/repository/new-export.png)
 4. Once the export is ready to download, {% data variables.product.product_name %} will send you a download link to your primary email address.
 5. Click the download link in your email and re-enter your password if prompted.
 6. You'll be redirected to a `tar.gz` file that you can download.
@@ -42,4 +42,4 @@ The generated `tar.gz` file reflects the data stored at the time you started the
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
 3. To disable the download link sent to your email before it expires, under "Export account data", find the data export download you want to disable and click **Delete**.
-![Delete personal data export package button highlighted](/assets/images/help/repository/delete-export-personal-account-data.png)
+![Delete personal data export package button highlighted](/assets/images/2021/10/help/repository/delete-export-personal-account-data.png)

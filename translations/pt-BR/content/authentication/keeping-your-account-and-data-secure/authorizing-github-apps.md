@@ -30,7 +30,7 @@ Por exemplo, um ambiente de desenvolvimento integrado (IDE) pode usar um {% data
 
 Quando um {% data variables.product.prodname_github_app %} age em seu nome desta forma, isto é identificado no GitHub por meio de um ícone especial que mostra um avatar pequeno para {% data variables.product.prodname_github_app %} no seu próprio avatar, semelhante ao mostrado abaixo.
 
-![Um problema criado por uma slicitação de "usuário para servidor" de um {% data variables.product.prodname_github_app %}](/assets/images/help/apps/github-apps-new-issue.png)
+![Um problema criado por uma slicitação de "usuário para servidor" de um {% data variables.product.prodname_github_app %}](/assets/images/2021/10/help/apps/github-apps-new-issue.png)
 
 ## Até que ponto um {% data variables.product.prodname_github_app %} pode saber quais recursos você pode acessar e agir em seu nome?
 

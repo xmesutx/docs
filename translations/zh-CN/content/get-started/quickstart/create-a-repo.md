@@ -43,8 +43,8 @@ topics:
 {% webui %}
 
 {% data reusables.repositories.create_new %}
-2. 为仓库键入简短、令人难忘的名称。 例如 "hello-world"。 ![用于输入仓库名称的字段](/assets/images/help/repository/create-repository-name.png)
-3. （可选）添加仓库的说明。 例如，“我在 {% data variables.product.product_name %} 上的第一个仓库”。 ![用于输入仓库说明的字段](/assets/images/help/repository/create-repository-desc.png)
+2. 为仓库键入简短、令人难忘的名称。 例如 "hello-world"。 ![用于输入仓库名称的字段](/assets/images/2021/10/help/repository/create-repository-name.png)
+3. （可选）添加仓库的说明。 例如，“我在 {% data variables.product.product_name %} 上的第一个仓库”。 ![用于输入仓库说明的字段](/assets/images/2021/10/help/repository/create-repository-desc.png)
 {% data reusables.repositories.choose-repo-visibility %}
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
@@ -74,11 +74,11 @@ A *[提交](/articles/github-glossary#commit)*就像是项目中所有文件在�
 
 让我们提交对*自述文件*的更改。
 
-1. 在仓库的文件列表中，单击 ***README.md***。 ![文件列表中的自述文件](/assets/images/help/repository/create-commit-open-readme.png)
+1. 在仓库的文件列表中，单击 ***README.md***。 ![文件列表中的自述文件](/assets/images/2021/10/help/repository/create-commit-open-readme.png)
 2. 在文件内容的上方，单击 {% octicon "pencil" aria-label="The edit icon" %}。
-3. 在 **Edit file（编辑文件）**选项卡上，键入一些关于您自己的信息。 ![文件中的新内容](/assets/images/help/repository/edit-readme-light.png)
+3. 在 **Edit file（编辑文件）**选项卡上，键入一些关于您自己的信息。 ![文件中的新内容](/assets/images/2021/10/help/repository/edit-readme-light.png)
 {% data reusables.files.preview_change %}
-5. 查看您对文件所做的更改。 您会看到新内容以绿色显示。 ![文件预览视图](/assets/images/help/repository/create-commit-review.png)
+5. 查看您对文件所做的更改。 您会看到新内容以绿色显示。 ![文件预览视图](/assets/images/2021/10/help/repository/create-commit-review.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_file_change %}

@@ -27,7 +27,7 @@ shortTitle: Pagesサイトの公開取り下げ
 3. 公開ソースが`gh-pages`ブランチなら、{% ifversion fpt or ghec %}ステップ 6 までスキップします{% else %}サイトの公開は取り消され、残りのステップをスキップできます{% endif %}。
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-5. {% data variables.product.prodname_pages %} で、[**Source**] ドロップダウンメニューを使用して [**None**] を選択します。 ![公開元を選択するドロップダウンメニュー](/assets/images/help/pages/publishing-source-drop-down.png)
+5. {% data variables.product.prodname_pages %} で、[**Source**] ドロップダウンメニューを使用して [**None**] を選択します。 ![公開元を選択するドロップダウンメニュー](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
 {% data reusables.pages.update_your_dns_settings %}
 
 ## ユーザまたは Organization サイトを取り下げる

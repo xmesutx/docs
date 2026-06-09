@@ -51,5 +51,5 @@ $ git remote set-url origin <em>新しい URL</em>
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [**Repository Name**] の下で、リポジトリの新しい名前を入力します。 ![リポジトリの名前の変更](/assets/images/help/repository/repository-name-change.png)
+3. [**Repository Name**] の下で、リポジトリの新しい名前を入力します。 ![リポジトリの名前の変更](/assets/images/2021/10/help/repository/repository-name-change.png)
 4. [**Rename**] をクリックします。 これで完了です。

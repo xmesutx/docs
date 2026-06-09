@@ -1,2 +1,2 @@
 1. In the left sidebar, click **Pages**.
-![Pages sidebar](/assets/images/enterprise/management-console/sidebar-pages.png)
+![Pages sidebar](/assets/images/2021/10/enterprise/management-console/sidebar-pages.png)

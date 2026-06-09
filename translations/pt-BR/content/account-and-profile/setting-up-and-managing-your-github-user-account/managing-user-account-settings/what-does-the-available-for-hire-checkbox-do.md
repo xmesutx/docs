@@ -21,7 +21,7 @@ Observação de depreciação: O GitHub Jobs agora está obsoleto. A última dat
 
 O quadro do [GitHub Jobs](https://jobs.github.com/) é uma ótima maneira de encontrar emprego no setor de tecnologia. Você pode optar por ver trabalhos postados lá no seu painel do GitHub.
 
-![Anúncios do GitHub Jobs no painel](/assets/images/help/settings/jobs-ads-on-dashboard.png)
+![Anúncios do GitHub Jobs no painel](/assets/images/2021/10/help/settings/jobs-ads-on-dashboard.png)
 
 {% data reusables.user-settings.access_settings %}
-2. Em Jobs Profile (Perfil de trabalhos), selecione **Available for hire** (Disponível para contratação) e clique em **Save jobs profile** (Salvar perfil de trabalhos). ![Configurações de Jobs profile (Perfil de trabalhos)](/assets/images/help/settings/jobs-profile-settings.png)
+2. Em Jobs Profile (Perfil de trabalhos), selecione **Available for hire** (Disponível para contratação) e clique em **Save jobs profile** (Salvar perfil de trabalhos). ![Configurações de Jobs profile (Perfil de trabalhos)](/assets/images/2021/10/help/settings/jobs-profile-settings.png)

@@ -58,8 +58,8 @@ shortTitle: 快速入门
 通过用户帐户和组织帐户便可开始使用 {% data variables.product.prodname_classroom %}。 {% data variables.product.prodname_classroom %} 免费使用。 您可以跟踪和管理作业，自动对工作进行评分，并为学生提供反馈。
 
 {% data reusables.classroom.sign-into-github-classroom %}
-1. 要授权 {% data variables.product.prodname_classroom %} 访问您在 {% data variables.product.prodname_dotcom %} 上的用户帐户，请查阅信息，然后单击**授权 {% data variables.product.prodname_classroom %}**。 ![用户帐户的"授权 {% data variables.product.prodname_classroom %}"按钮](/assets/images/help/classroom/setup-click-authorize-github-classroom.png)
-1. 查看信息。 要授权 {% data variables.product.prodname_classroom %} 访问您在 {% data variables.product.prodname_dotcom %} 上的组织帐户，请单击 **Grant（授予）**。 ![组织的"授予"按钮](/assets/images/help/classroom/setup-click-grant.png)
+1. 要授权 {% data variables.product.prodname_classroom %} 访问您在 {% data variables.product.prodname_dotcom %} 上的用户帐户，请查阅信息，然后单击**授权 {% data variables.product.prodname_classroom %}**。 ![用户帐户的"授权 {% data variables.product.prodname_classroom %}"按钮](/assets/images/2021/10/help/classroom/setup-click-authorize-github-classroom.png)
+1. 查看信息。 要授权 {% data variables.product.prodname_classroom %} 访问您在 {% data variables.product.prodname_dotcom %} 上的组织帐户，请单击 **Grant（授予）**。 ![组织的"授予"按钮](/assets/images/2021/10/help/classroom/setup-click-grant.png)
 
   {% tip %}
 
@@ -67,7 +67,7 @@ shortTitle: 快速入门
 
   {% endtip %}
 
-1. 单击 **Authorize GitHub（授权 GitHub）**。 ![单击组织的"Authorize（授权）"按钮](/assets/images/help/classroom/setup-click-authorize-github.png)
+1. 单击 **Authorize GitHub（授权 GitHub）**。 ![单击组织的"Authorize（授权）"按钮](/assets/images/2021/10/help/classroom/setup-click-authorize-github.png)
 
 ## 创建教室
 

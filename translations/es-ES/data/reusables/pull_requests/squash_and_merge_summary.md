@@ -2,6 +2,6 @@ Cuando seleccionas la opción **Squash and merge** (Combinar y fusionar) en una 
 
 Para combinar y fusionar solicitudes de extracción, debes tener [permisos de escritura](/articles/repository-permission-levels-for-an-organization/) en el repositorio, y el repositorio debe [permitir la fusión de combinaciones](/articles/configuring-commit-squashing-for-pull-requests/).
 
-![commit-squashing-diagram](/assets/images/help/pull_requests/commit-squashing-diagram.png)
+![commit-squashing-diagram](/assets/images/2021/10/help/pull_requests/commit-squashing-diagram.png)
 
 Puedes combinar y fusionar para crear un historial Git más optimizado en tu repositorio. Los compromisos de trabajo en curso son útiles cuando se trabaja en una rama de característica, pero no son tan importantes para retenerlos en el historial Git. Si combinas estas confirmaciones en una única confirmación al fusionar con la rama predeterminada, puedes conservar los cambios originales usando un historial Git claro.

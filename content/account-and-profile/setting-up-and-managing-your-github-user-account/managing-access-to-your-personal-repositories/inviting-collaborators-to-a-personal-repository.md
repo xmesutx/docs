@@ -40,19 +40,19 @@ If you're a member of an {% data variables.product.prodname_emu_enterprise %}, y
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658%}
 {% data reusables.repositories.click-collaborators-teams %}
 1. Click **Invite a collaborator**.
-  !["Invite a collaborator" button](/assets/images/help/repository/invite-a-collaborator-button.png)
+  !["Invite a collaborator" button](/assets/images/2021/10/help/repository/invite-a-collaborator-button.png)
 2. In the search field, start typing the name of person you want to invite, then click a name in the list of matches.
-  ![Search field for typing the name of a person to invite to the repository](/assets/images/help/repository/manage-access-invite-search-field-user.png)
+  ![Search field for typing the name of a person to invite to the repository](/assets/images/2021/10/help/repository/manage-access-invite-search-field-user.png)
 3. Click **Add NAME to REPOSITORY**.
-    ![Button to add collaborator](/assets/images/help/repository/add-collaborator-user-repo.png)
+    ![Button to add collaborator](/assets/images/2021/10/help/repository/add-collaborator-user-repo.png)
 {% else %}
 5. In the left sidebar, click **Collaborators**.
-![Repository settings sidebar with Collaborators highlighted](/assets/images/help/repository/user-account-repo-settings-collaborators.png)
+![Repository settings sidebar with Collaborators highlighted](/assets/images/2021/10/help/repository/user-account-repo-settings-collaborators.png)
 6. Under "Collaborators", start typing the collaborator's username.
 7. Select the collaborator's username from the drop-down menu.
-   ![Collaborator list drop-down menu](/assets/images/help/repository/repo-settings-collab-autofill.png)
+   ![Collaborator list drop-down menu](/assets/images/2021/10/help/repository/repo-settings-collab-autofill.png)
 8. Click **Add collaborator**.
-   !["Add collaborator" button](/assets/images/help/repository/repo-settings-collab-add.png)
+   !["Add collaborator" button](/assets/images/2021/10/help/repository/repo-settings-collab-add.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 9. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.

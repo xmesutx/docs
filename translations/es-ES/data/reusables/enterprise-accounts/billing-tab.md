@@ -1,1 +1,1 @@
-1. En la barra lateral izquierda, haz clic en **Billing (Facturación)**. ![Pestaña de facturación en la barra lateral de parámetros de la cuenta de empresa](/assets/images/help/business-accounts/settings-billing-tab.png)
+1. En la barra lateral izquierda, haz clic en **Billing (Facturación)**. ![Pestaña de facturación en la barra lateral de parámetros de la cuenta de empresa](/assets/images/2021/10/help/business-accounts/settings-billing-tab.png)

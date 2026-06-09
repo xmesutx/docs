@@ -11,7 +11,7 @@ versions:
 
 {% mac %}
 
-1. メニューバーで、[**{% data variables.product.prodname_desktop %}**] メニューを選択し、[**Install Command Line Tool**] をクリックします。 ![[{% data variables.product.prodname_desktop %}]ドロップダウンメニューの [Install Command Line Tool] オプション](/assets/images/help/desktop/mac-install-command-line-tool.png)
+1. メニューバーで、[**{% data variables.product.prodname_desktop %}**] メニューを選択し、[**Install Command Line Tool**] をクリックします。 ![[{% data variables.product.prodname_desktop %}]ドロップダウンメニューの [Install Command Line Tool] オプション](/assets/images/2021/10/help/desktop/mac-install-command-line-tool.png)
 2. ターミナルを開きます。
 3. {% data reusables.desktop.launch-desktop-from-command-line %}
 

@@ -45,7 +45,7 @@ Para obtener más información, consulta "[Acerca de {% data variables.large_fil
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. Dentro del "acceso de {% data variables.large_files.product_name_short %}", usa el menú desplegable y haz clic en **Enabled (Habilitado)** o **Disabled (Inhabilitado)**. ![Acceso a LFS de Git](/assets/images/enterprise/site-admin-settings/git-lfs-admin-center.png)
+4. Dentro del "acceso de {% data variables.large_files.product_name_short %}", usa el menú desplegable y haz clic en **Enabled (Habilitado)** o **Disabled (Inhabilitado)**. ![Acceso a LFS de Git](/assets/images/2021/10/enterprise/site-admin-settings/git-lfs-admin-center.png)
 
 ## Configurar {% data variables.large_files.product_name_long %} para un repositorio individual
 

@@ -25,8 +25,8 @@ Para gerenciar quais usuários na sua organização podem usar {% data variables
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.click-codespaces %}
-1. Em "Acesso e segurança", selecione a configuração que você deseja para a sua organização. ![Botões de opção para gerenciar repositórios confiáveis](/assets/images/help/settings/codespaces-org-access-and-security-radio-buttons.png)
-1. Se você escolheu "repositórios selecionados", selecione o menu suspenso e, em seguida, clique em um repositório para permitir que os codespaces do repositório acessem outros repositórios pertencentes à sua organização. Repita isso para todos os repositórios cujos códigos você deseja que acessem outros repositórios. ![Menu suspenso "Repositórios selecionados"](/assets/images/help/settings/codespaces-access-and-security-repository-drop-down.png)
+1. Em "Acesso e segurança", selecione a configuração que você deseja para a sua organização. ![Botões de opção para gerenciar repositórios confiáveis](/assets/images/2021/10/help/settings/codespaces-org-access-and-security-radio-buttons.png)
+1. Se você escolheu "repositórios selecionados", selecione o menu suspenso e, em seguida, clique em um repositório para permitir que os codespaces do repositório acessem outros repositórios pertencentes à sua organização. Repita isso para todos os repositórios cujos códigos você deseja que acessem outros repositórios. ![Menu suspenso "Repositórios selecionados"](/assets/images/2021/10/help/settings/codespaces-access-and-security-repository-drop-down.png)
 
 ## Leia mais
 

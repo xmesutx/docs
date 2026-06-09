@@ -19,7 +19,7 @@ shortTitle: Classify with topics
 
 With topics, you can explore repositories in a particular subject area, find projects to contribute to, and discover new solutions to a specific problem. Topics appear on the main page of a repository. You can click a topic name to {% ifversion fpt or ghec %}see related topics and a list of other repositories classified with that topic{% else %}search for other repositories with that topic{% endif %}.
 
-![Main page of the test repository showing topics](/assets/images/help/repository/os-repo-with-topics.png)
+![Main page of the test repository showing topics](/assets/images/2021/10/help/repository/os-repo-with-topics.png)
 
 To browse the most used topics, go to https://github.com/topics/.
 
@@ -35,8 +35,8 @@ You can search for repositories that are associated with a particular topic. For
 
 {% data reusables.repositories.navigate-to-repo %}
 2. To the right of "About", click {% octicon "gear" aria-label="The Gear icon" %}.
-  ![Gear icon on main page of a repository](/assets/images/help/repository/edit-repository-details-gear.png)
+  ![Gear icon on main page of a repository](/assets/images/2021/10/help/repository/edit-repository-details-gear.png)
 3. Under "Topics", type the topic you want to add to your repository, then type a space.
-  ![Form to enter topics](/assets/images/help/repository/add-topic-form.png)
+  ![Form to enter topics](/assets/images/2021/10/help/repository/add-topic-form.png)
 4. After you've finished adding topics, click **Save changes**.
-  !["Save changes" button in "Edit repository details"](/assets/images/help/repository/edit-repository-details-save-changes-button.png)
+  !["Save changes" button in "Edit repository details"](/assets/images/2021/10/help/repository/edit-repository-details-save-changes-button.png)

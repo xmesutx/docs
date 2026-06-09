@@ -42,7 +42,7 @@ shortTitle: 使用负载平衡器
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. 在 **External load balancers** 下，选择 **Enable support for PROXY protocol**。 ![启用 PROXY 协议支持的复选框](/assets/images/enterprise/management-console/enable-proxy.png)
+3. 在 **External load balancers** 下，选择 **Enable support for PROXY protocol**。 ![启用 PROXY 协议支持的复选框](/assets/images/2021/10/enterprise/management-console/enable-proxy.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.proxy_protocol_ports %}
@@ -54,7 +54,7 @@ shortTitle: 使用负载平衡器
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. 在 **External load balancers** 下，选择 **Allow HTTP X-Forwarded-For header**。 ![允许 HTTP X-Forwarded-For 标头的复选框](/assets/images/enterprise/management-console/allow-xff.png)
+3. 在 **External load balancers** 下，选择 **Allow HTTP X-Forwarded-For header**。 ![允许 HTTP X-Forwarded-For 标头的复选框](/assets/images/2021/10/enterprise/management-console/allow-xff.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.without_proxy_protocol_ports %}

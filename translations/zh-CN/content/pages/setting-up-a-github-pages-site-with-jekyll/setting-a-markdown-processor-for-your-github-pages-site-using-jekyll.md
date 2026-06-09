@@ -27,7 +27,7 @@ You can use {% data variables.product.prodname_dotcom %} Flavored Markdown with 
 2. In your repository, browse to the *_config.yml* file.
 {% data reusables.repositories.edit-file %}
 4. Find the line that starts with `markdown:` and change the value to `kramdown` or `GFM`.
-  ![Markdown setting in config.yml](/assets/images/help/pages/config-markdown-value.png)
+  ![Markdown setting in config.yml](/assets/images/2021/10/help/pages/config-markdown-value.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}

@@ -22,13 +22,13 @@ shortTitle: 取消阻止您的帐户
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. 在“Blocked users（已阻止的用户）”下您想要取消阻止的用户旁边，单击 **Unblock（取消阻止）**。 ![取消阻止用户按钮](/assets/images/help/organizations/org-unblock-user-button.png)
+3. 在“Blocked users（已阻止的用户）”下您想要取消阻止的用户旁边，单击 **Unblock（取消阻止）**。 ![取消阻止用户按钮](/assets/images/2021/10/help/organizations/org-unblock-user-button.png)
 
 ## 从用户的个人资料页面取消阻止该用户
 
 {% data reusables.profile.user_profile_page_navigation %}
-2. 在左侧边栏中，在用户的个人资料图片下，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击  **Unblock or report user（取消阻止或报告用户）**。 ![取消阻止或举报用户链接](/assets/images/help/profile/profile-unblock-or-report-user.png)
-3. 单击 **Unblock user（取消阻止用户）**。 ![包含取消阻止用户或举报滥用选项的模态框](/assets/images/help/profile/profile-unblockuser.png)
+2. 在左侧边栏中，在用户的个人资料图片下，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击  **Unblock or report user（取消阻止或报告用户）**。 ![取消阻止或举报用户链接](/assets/images/2021/10/help/profile/profile-unblock-or-report-user.png)
+3. 单击 **Unblock user（取消阻止用户）**。 ![包含取消阻止用户或举报滥用选项的模态框](/assets/images/2021/10/help/profile/profile-unblockuser.png)
 
 {% tip %}
 

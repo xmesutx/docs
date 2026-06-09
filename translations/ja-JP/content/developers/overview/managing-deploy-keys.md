@@ -79,11 +79,11 @@ See [our guide on creating a personal access token](/authentication/keeping-your
 #### セットアップ
 
 1. [Run the `ssh-keygen` procedure][generating-ssh-keys] on your server, and remember where you save the generated public and private rsa key pair key pair.
-2. {% data variables.product.product_name %}の任意のページの右上で、プロフィールの写真をクリックし、続いて**Your profile（あなたのプロフィール）**をクリックしてください。 ![プロフィールへのアクセス](/assets/images/profile-page.png)
-3. プロフィールページで**Repositories（リポジトリ）**をクリックし、続いてリポジトリの名前をクリックしてください。 ![リポジトリのリンク](/assets/images/repos.png)
-4. リポジトリで**Settings（設定）**をクリックしてください。 ![リポジトリの設定](/assets/images/repo-settings.png)
-5. サイドバーで**Deploy Keys（デプロイキー）**をクリックし、続いて**Add deploy key（デプロイキーの追加）**をクリックしてください。 ![デプロイキーのリンクの追加](/assets/images/add-deploy-key.png)
-6. タイトルを入力し、公開鍵に貼り付けてください。  ![デプロイキーのページ](/assets/images/deploy-key.png)
+2. {% data variables.product.product_name %}の任意のページの右上で、プロフィールの写真をクリックし、続いて**Your profile（あなたのプロフィール）**をクリックしてください。 ![プロフィールへのアクセス](/assets/images/2021/10/profile-page.png)
+3. プロフィールページで**Repositories（リポジトリ）**をクリックし、続いてリポジトリの名前をクリックしてください。 ![リポジトリのリンク](/assets/images/2021/10/repos.png)
+4. リポジトリで**Settings（設定）**をクリックしてください。 ![リポジトリの設定](/assets/images/2021/10/repo-settings.png)
+5. サイドバーで**Deploy Keys（デプロイキー）**をクリックし、続いて**Add deploy key（デプロイキーの追加）**をクリックしてください。 ![デプロイキーのリンクの追加](/assets/images/2021/10/add-deploy-key.png)
+6. タイトルを入力し、公開鍵に貼り付けてください。  ![デプロイキーのページ](/assets/images/2021/10/deploy-key.png)
 7. このキーにリポジトリへの書き込みアクセスを許可したい場合は、**Allow write access（書き込みアクセスの許可）**を選択してください。 書き込みアクセス権を持つデプロイキーを使うと、リポジトリにデプロイメントのプッシュができるようになります。
 8. **Add key（キーの追加）**をクリックしてください。
 

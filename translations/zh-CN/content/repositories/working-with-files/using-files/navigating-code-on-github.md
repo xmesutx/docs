@@ -18,7 +18,7 @@ topics:
 
 代码导航通过显示和链接该实体的引用对应的命名实体定义以及实体定义对应的引用，帮助您阅读、导航和理解代码。
 
-![代码导航显示](/assets/images/help/repository/code-navigation-popover.png)
+![代码导航显示](/assets/images/2021/12/help/repository/code-navigation-popover.png)
 
 代码导航使用开源 [`tree-sitter`](https://github.com/tree-sitter/tree-sitter) 库。 支持以下语言和导航策略：
 
@@ -49,13 +49,13 @@ topics:
 
 您可以在文件中单击函数或方法调用，跳至同一仓库中该函数或方法的定义。
 
-![跳至定义选项卡](/assets/images/help/repository/jump-to-definition-tab.png)
+![跳至定义选项卡](/assets/images/2021/10/help/repository/jump-to-definition-tab.png)
 
 ## 查找函数或方法的所有引用
 
 您可以在文件中单击函数或方法调用，然后单击 **References（引用）**选项卡，查找同一仓库中该函数或方法的所有引用。
 
-![查找所有引用选项卡](/assets/images/help/repository/find-all-references-tab.png)
+![查找所有引用选项卡](/assets/images/2021/10/help/repository/find-all-references-tab.png)
 
 ## 精确和基于搜索的导航
 
@@ -63,7 +63,7 @@ topics:
 
 如果看不到精确代码导航查询的预期结果，可以单击显示的弹出窗口中的“基于搜索”链接以执行基于搜索的导航。
 
-![基于搜索的代码导航链接](/assets/images/help/repository/search-based-code-navigation-link.png)
+![基于搜索的代码导航链接](/assets/images/2021/12/help/repository/search-based-code-navigation-link.png)
 
 如果精确结果显示不准确，您可以提交支持请求。
 

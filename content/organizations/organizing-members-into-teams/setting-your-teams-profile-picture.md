@@ -22,6 +22,6 @@ Unless you set a profile picture for a team, the team profile picture will match
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 5. Click **Upload new picture** and select your desired profile picture.
-![Upload new picture](/assets/images/help/teams/org-team-profile-picture-upload.png)
+![Upload new picture](/assets/images/2021/10/help/teams/org-team-profile-picture-upload.png)
 6. Click and drag to crop the image as needed, then click **Set new team avatar**.
-![Set new team avatar](/assets/images/help/teams/org-team-set-new-team-avatar.png)
+![Set new team avatar](/assets/images/2021/10/help/teams/org-team-set-new-team-avatar.png)

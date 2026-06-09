@@ -68,7 +68,7 @@ Para verificar el dominio de tu cuenta empresarial, debes tener acceso para modi
    ```
 1. Después de confirmar, tu registro de TXT se agrega a tu DNS, sigue los pasos uno a cuatro, los cuales se explican anteriormente, para navegar a los dominios aprobados y verificados de tu cuenta empresarial.
 {% data reusables.enterprise-accounts.continue-verifying-domain %}
-1. Opcionalmente, después de que la insignia de "Verificado" se pueda ver en el perfil de tus organizaciones, borra la entrada de TxT del registro de DNS en tu servicio de hospedaje de dominio. ![Insignia Verificado](/assets/images/help/organizations/verified-badge.png)
+1. Opcionalmente, después de que la insignia de "Verificado" se pueda ver en el perfil de tus organizaciones, borra la entrada de TxT del registro de DNS en tu servicio de hospedaje de dominio. ![Insignia Verificado](/assets/images/2021/10/help/organizations/verified-badge.png)
 
 ## Aprobar un dominio para tu cuenta empresarial
 
@@ -87,4 +87,4 @@ Para verificar el dominio de tu cuenta empresarial, debes tener acceso para modi
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.verified-domains-tab %}
-1. A la derecha del dominio a eliminar, haz clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Borrar**. !["Borrar" para un dominio](/assets/images/help/organizations/domains-delete.png)
+1. A la derecha del dominio a eliminar, haz clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Borrar**. !["Borrar" para un dominio](/assets/images/2021/10/help/organizations/domains-delete.png)

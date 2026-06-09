@@ -26,8 +26,8 @@ Este erro pode ocorrer quando {% data variables.product.prodname_desktop %} não
 Para solucionar problemas este erro, siga as etapas a seguir.
 
 1. Abra o aplicativo "Acesso a Keychain".
-2. Clique com o botão direito no **login** e, em seguida, clique em **Bloquear "login" da Keychain**. ![A opção "Bloquear Keychain "login"](/assets/images/help/desktop/mac-lock-keychain.png)
-3. Clique com o botão direito no **login** e, em seguida, clique em **Desbloquear "login" da Keychain**. Siga as instruções na tela para terminar de desbloquear o "login" da Keychain. ![A opção "Desbloquear loing da "Keychain"](/assets/images/help/desktop/mac-unlock-keychain.png)
+2. Clique com o botão direito no **login** e, em seguida, clique em **Bloquear "login" da Keychain**. ![A opção "Bloquear Keychain "login"](/assets/images/2021/10/help/desktop/mac-lock-keychain.png)
+3. Clique com o botão direito no **login** e, em seguida, clique em **Desbloquear "login" da Keychain**. Siga as instruções na tela para terminar de desbloquear o "login" da Keychain. ![A opção "Desbloquear loing da "Keychain"](/assets/images/2021/10/help/desktop/mac-unlock-keychain.png)
 4. Efetue a autenticação novamente da sua conta em {% data variables.product.prodname_dotcom %} ou em {% data variables.product.prodname_enterprise %}.
 
 ### Foi exibido o erro `Não foi possível criar o diretório temporário: permissão negada` após a verificação de atualizações
@@ -40,7 +40,7 @@ Para solucionar problemas este erro, siga as etapas a seguir.
 2. Abra o "Localizador" e acesse `~/Library/Caches/`.
 3. Clique com o botão direito em `com.github.GitHubClient.ShipIt` e, em seguida, clique em **Obter informações**.
 4. Clique na seta à esquerda de "Compartilhar & Permissões".
-5. Se o Privilégio à direita da sua conta de usuário não informar "Leitura & Gravação", clique no texto e, em seguida, clique em **Leitura & Gravação**. ![Opções de "Compartilhar & Permissões"](/assets/images/help/desktop/mac-adjust-permissions.png)
+5. Se o Privilégio à direita da sua conta de usuário não informar "Leitura & Gravação", clique no texto e, em seguida, clique em **Leitura & Gravação**. ![Opções de "Compartilhar & Permissões"](/assets/images/2021/10/help/desktop/mac-adjust-permissions.png)
 6. Abra {% data variables.product.prodname_desktop %} e verifique se há atualizações.
 
 ## Solucionar problemas no Windows

@@ -1,1 +1,1 @@
-1. Enterpriseアカウントのサイドバーで、{% octicon "law" aria-label="The law icon" %}** Policies（ポリシー）**をクリックしてください。 ![Enterpriseアカウントサイドバー内のポリシータブ](/assets/images/help/business-accounts/enterprise-account-policies-tab.png)
+1. Enterpriseアカウントのサイドバーで、{% octicon "law" aria-label="The law icon" %}** Policies（ポリシー）**をクリックしてください。 ![Enterpriseアカウントサイドバー内のポリシータブ](/assets/images/2021/10/help/business-accounts/enterprise-account-policies-tab.png)

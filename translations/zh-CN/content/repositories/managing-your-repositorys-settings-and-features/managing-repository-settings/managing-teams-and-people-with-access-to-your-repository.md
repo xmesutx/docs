@@ -26,7 +26,7 @@ shortTitle: 团队和人员
 
 For more information about repository roles, see "[Permission levels for a user account repository](/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository)" and "[Repository roles for an organization](/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization)."
 
-![访问权限管理概览](/assets/images/help/repository/manage-access-overview.png)
+![访问权限管理概览](/assets/images/2021/10/help/repository/manage-access-overview.png)
 
 ## 过滤团队和人员列表
 
@@ -37,7 +37,7 @@ For more information about repository roles, see "[Permission levels for a user 
 {% else %}
 {% data reusables.repositories.navigate-to-manage-access %}
 {% endif %}
-1. 在“Manage access（管理访问权限）”下的搜索字段中，开始输入您要查找的团队或人员的名称。 Optionally, use the dropdown menus to filter your search. ![用于过滤具有访问权限的团队或人员列表的搜索字段](/assets/images/help/repository/manage-access-filter.png)
+1. 在“Manage access（管理访问权限）”下的搜索字段中，开始输入您要查找的团队或人员的名称。 Optionally, use the dropdown menus to filter your search. ![用于过滤具有访问权限的团队或人员列表的搜索字段](/assets/images/2021/10/help/repository/manage-access-filter.png)
 
 ## 更改团队或人员的权限
 
@@ -48,7 +48,7 @@ For more information about repository roles, see "[Permission levels for a user 
 {% else %}
 {% data reusables.repositories.navigate-to-manage-access %}
 {% endif %}
-4. Under "Manage access", find the team or person whose role you'd like to change, then select the Role drop-down and click a new role. ![使用"Role（角色）"下拉菜单为团队或人员选择新权限](/assets/images/help/repository/manage-access-role-drop-down.png)
+4. Under "Manage access", find the team or person whose role you'd like to change, then select the Role drop-down and click a new role. ![使用"Role（角色）"下拉菜单为团队或人员选择新权限](/assets/images/2021/10/help/repository/manage-access-role-drop-down.png)
 
 ## 邀请团队或人员
 
@@ -60,8 +60,8 @@ For more information about repository roles, see "[Permission levels for a user 
 {% data reusables.repositories.navigate-to-manage-access %}
 {% endif %}
 {% data reusables.organizations.invite-teams-or-people %}
-5. 在搜索字段中，开始输入要邀请的团队或人员的名称，然后单击匹配列表中的名称。 ![用于输入要邀请加入仓库的团队或人员名称的搜索字段](/assets/images/help/repository/manage-access-invite-search-field.png)
-6. Under "Choose a role", select the repository role to grant to the team or person, then click **Add NAME to REPOSITORY**. ![为团队或人员选择权限](/assets/images/help/repository/manage-access-invite-choose-role-add.png)
+5. 在搜索字段中，开始输入要邀请的团队或人员的名称，然后单击匹配列表中的名称。 ![用于输入要邀请加入仓库的团队或人员名称的搜索字段](/assets/images/2021/10/help/repository/manage-access-invite-search-field.png)
+6. Under "Choose a role", select the repository role to grant to the team or person, then click **Add NAME to REPOSITORY**. ![为团队或人员选择权限](/assets/images/2021/10/help/repository/manage-access-invite-choose-role-add.png)
 
 ## 删除团队或人员的访问权限
 
@@ -72,7 +72,7 @@ For more information about repository roles, see "[Permission levels for a user 
 {% else %}
 {% data reusables.repositories.navigate-to-manage-access %}
 {% endif %}
-4. 在“Manage access（管理访问权限）”下，找到要删除其访问权限的团队或人员，然后单击 {% octicon "trash" aria-label="The trash icon" %}。 ![用于删除访问权限的回收站图标](/assets/images/help/repository/manage-access-remove.png)
+4. 在“Manage access（管理访问权限）”下，找到要删除其访问权限的团队或人员，然后单击 {% octicon "trash" aria-label="The trash icon" %}。 ![用于删除访问权限的回收站图标](/assets/images/2021/10/help/repository/manage-access-remove.png)
 
 ## 延伸阅读
 

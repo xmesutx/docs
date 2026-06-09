@@ -19,4 +19,4 @@ Puedes seleccionar manualmente la región en la que se crearán tus codespaces, 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
 1. Debajo de "Región", selecciona el ajuste que quieras.
-2. Si eliges "Configurar manualmente", selecciona tu región en el menú desplegable. ![Seleccionar tu región](/assets/images/help/codespaces/select-default-region.png)
+2. Si eliges "Configurar manualmente", selecciona tu región en el menú desplegable. ![Seleccionar tu región](/assets/images/2021/10/help/codespaces/select-default-region.png)

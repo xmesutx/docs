@@ -26,8 +26,8 @@ topics:
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
 3. Select the team or teams whose visibility you'd like to change.
-  ![List of teams with two teams selected](/assets/images/help/teams/list-of-teams-selected.png)
+  ![List of teams with two teams selected](/assets/images/2021/10/help/teams/list-of-teams-selected.png)
 4. Above the list of teams, use the drop-down menu and click **Change visibility**.
-  ![Drop-down menu with option to change team visibility](/assets/images/help/teams/team-bulk-management-options.png)
+  ![Drop-down menu with option to change team visibility](/assets/images/2021/10/help/teams/team-bulk-management-options.png)
 5. Choose whether to make the team or teams visible or secret, then click **Change visibility**.
-  ![Radio buttons for making a team visible or secret and Change visibility button](/assets/images/help/teams/select-and-confirm-new-visibility.png)
+  ![Radio buttons for making a team visible or secret and Change visibility button](/assets/images/2021/10/help/teams/select-and-confirm-new-visibility.png)

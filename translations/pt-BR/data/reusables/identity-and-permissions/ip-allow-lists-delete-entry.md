@@ -1,1 +1,1 @@
-1. Em "IP allow list" (lista de permissão), à direita da entrada que deseja excluir, clique em **Delete**. ![Botão para excluir endereço IP permitido](/assets/images/help/security/ip-address-delete-button.png)
+1. Em "IP allow list" (lista de permissão), à direita da entrada que deseja excluir, clique em **Delete**. ![Botão para excluir endereço IP permitido](/assets/images/2021/10/help/security/ip-address-delete-button.png)

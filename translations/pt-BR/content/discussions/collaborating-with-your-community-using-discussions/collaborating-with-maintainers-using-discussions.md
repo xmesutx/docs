@@ -19,7 +19,7 @@ Os administradores de repositório e mantenedores de projeto podem excluir uma d
 
 {% data reusables.discussions.github-recognizes-members %} Estes membros aparecem em uma lista dos colaboradores mais úteis para as discussões do projeto. À medida que o seu projeto cresce, você pode conceder mais permissões de acesso aos integrantes ativos da sua comunidade. Para obter mais informações, consulte "[Conceder permissões mais elevadas aos melhores contribuidores](/discussions/guides/granting-higher-permissions-to-top-contributors)"
 
-![Contribuidores mais úteis para discussões para um projeto](/assets/images/help/discussions/most-helpful.png)
+![Contribuidores mais úteis para discussões para um projeto](/assets/images/2021/10/help/discussions/most-helpful.png)
 
 Para obter mais informações sobre a participação em discussões, consulte "[Participar de uma discussão](/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)".
 
@@ -37,8 +37,8 @@ Para colaborar com mantenedores em discussões, um administrador ou mantenedor d
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. No campo **Pesquisar todas as discussões**, digite uma consulta de pesquisa. Opcionalmente, à direita do campo de pesquisa, clique em um botão para filtrar ainda mais os resultados. ![Barra de pesquisa e botões para filtrar discussões](/assets/images/help/discussions/search-and-filter-controls.png)
-1. Na lista de discussões, clique na discussão que você deseja visualizar. ![Resultados da busca de discussões](/assets/images/help/discussions/search-result.png)
+1. No campo **Pesquisar todas as discussões**, digite uma consulta de pesquisa. Opcionalmente, à direita do campo de pesquisa, clique em um botão para filtrar ainda mais os resultados. ![Barra de pesquisa e botões para filtrar discussões](/assets/images/2021/10/help/discussions/search-and-filter-controls.png)
+1. Na lista de discussões, clique na discussão que você deseja visualizar. ![Resultados da busca de discussões](/assets/images/2021/10/help/discussions/search-result.png)
 
 ## Converter um problema em uma discussão
 

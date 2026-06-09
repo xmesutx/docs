@@ -81,8 +81,8 @@ Providing {% data variables.contact.github_support %} with everything they need 
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.type-management-console-password %}
 {% data reusables.enterprise_management_console.support-link %}
-1. サポートチケットにDiagnosticを含めたい場合には、"Diagnostics"の下の**Download diagnostic info（Diagnostic情報のダウンロード）**をクリックし、ファイルをローカルに保存してください。 このファイルは、後でサポートチケットに添付します。 ![Screenshot of button labelled "Download diagnostics info" on Management Console Support page.](/assets/images/enterprise/support/download-diagnostics-info-button.png)
-1. To complete your ticket and display the {% data variables.contact.enterprise_portal %}, under "Open Support Request", click **New support request**. ![Screenshot of button labelled "New support request" on Management Console Support page.](/assets/images/enterprise/management-console/open-support-request.png)
+1. サポートチケットにDiagnosticを含めたい場合には、"Diagnostics"の下の**Download diagnostic info（Diagnostic情報のダウンロード）**をクリックし、ファイルをローカルに保存してください。 このファイルは、後でサポートチケットに添付します。 ![Screenshot of button labelled "Download diagnostics info" on Management Console Support page.](/assets/images/2021/10/enterprise/support/download-diagnostics-info-button.png)
+1. To complete your ticket and display the {% data variables.contact.enterprise_portal %}, under "Open Support Request", click **New support request**. ![Screenshot of button labelled "New support request" on Management Console Support page.](/assets/images/2021/10/enterprise/management-console/open-support-request.png)
 {% data reusables.support.submit-a-ticket %}
 
 {% endif %}

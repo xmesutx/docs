@@ -82,6 +82,6 @@ shortTitle: 设置用户帐户
 ## 向 {% data variables.product.prodname_dotcom %} 提交申请以请求批准
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
-4. 单击 **Request approval（请求批准）**。 ![请求批准按钮](/assets/images/help/sponsors/request-approval-button.png)
+4. 单击 **Request approval（请求批准）**。 ![请求批准按钮](/assets/images/2021/10/help/sponsors/request-approval-button.png)
 
 {% data reusables.sponsors.github-review-app %}

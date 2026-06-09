@@ -41,7 +41,7 @@ Seu repositório `hello-world` pode ser um lugar onde você armazenar ideias, re
 4. Selecione se o seu repositório será **Público** ou **Privado**.
 5. Clique em **Create Repository** (Criar repositório).
 
-   ![Crie um repositório hello world](/assets/images/help/repository/hello-world-repo.png)
+   ![Crie um repositório hello world](/assets/images/2021/10/help/repository/hello-world-repo.png)
 
 ## Criar um branch
 
@@ -57,7 +57,7 @@ Este diagrama mostra:
 * Um novo branch denominado `funcionalidade`
 * A jornada que as `funcionalidades` percorre antes de sofrer merge no `principal`
 
-![diagrama do branch](/assets/images/help/repository/branching.png)
+![diagrama do branch](/assets/images/2021/10/help/repository/branching.png)
 
 Você já salvou diferentes versões de um arquivo? Algo assim:
 
@@ -72,11 +72,11 @@ Aqui em {% data variables.product.product_name %}, os nossos desenvolvedores, es
 ### Criar uma branch
 
 1. Clique na aba **Código** do seu repositório `hello-world`.
-2. Clique na lista suspensa na parte superior da lista de arquivos que diz **principal**. ![Menu do branch](/assets/images/help/branch/branch-selection-dropdown.png)
+2. Clique na lista suspensa na parte superior da lista de arquivos que diz **principal**. ![Menu do branch](/assets/images/2021/10/help/branch/branch-selection-dropdown.png)
 4. Digite um nome de um branch, `readme-edits` na caixa de texto.
 5. Clique em **Criar branch: readme-edits a partir do principal**.
 
-![Menu do branch](/assets/images/help/repository/new-branch.png)
+![Menu do branch](/assets/images/2021/10/help/repository/new-branch.png)
 
 Agora você tem dois ramos, `principal` e `readme-edits`. Neste momento, eles são exatamente os mesmos. Em seguida, você adicionará alterações ao novo branch.
 
@@ -92,7 +92,7 @@ Você pode fazer e salvar as alterações nos arquivos do seu repositório. Em {
 4. Na caixa **Alterações de commit**, escreva uma mensagem de commit que descreva as suas alterações.
 5. Clique em **Commit changes** (Fazer commit das alterações).
 
-   ![Exemplo de commit](/assets/images/help/repository/first-commit.png)
+   ![Exemplo de commit](/assets/images/2021/10/help/repository/first-commit.png)
 
 Essas alterações serão feitas apenas no arquivo README no seu branch `readme-edits` para que agora este branch tenha conteúdo diferente do `principal`.
 
@@ -113,7 +113,7 @@ Você pode até abrir pull requests em seu próprio repositório e fazer merge v
 3. Na caixa de **Exemplo de comparações**, selecione o branch que você criou, `readme-edits`, para comparar com o `principal` (o original).
 4. Veja as mudanças que você fez na página de Comparação e certifique-se que eles são o que você deseja enviar.
 
-   ![exemplo de diff](/assets/images/help/repository/diffs.png)
+   ![exemplo de diff](/assets/images/2021/10/help/repository/diffs.png)
 
 5. Clique em **Create pull request** (Criar pull request).
 6. Dê um título ao seu pull request e escreva uma breve descrição das suas alterações. Você pode incluir emojis e arrastar e soltar imagens e gifs.
@@ -130,7 +130,7 @@ Nesta etapa final, você irá fazer merge do seu branch `readme-edits` no branch
 
 Nesta apresentação, você não deverá ter conflitos. Portanto, você está pronto para fazer merge do seu branch no branch principal.
 
-1. Clique **Fazer merge do pull request** para fazer merge das alterações no `principal`. ![Captura de tela do botão de merge.](/assets/images/help/pull_requests/pullrequest-mergebutton.png)
+1. Clique **Fazer merge do pull request** para fazer merge das alterações no `principal`. ![Captura de tela do botão de merge.](/assets/images/2021/10/help/pull_requests/pullrequest-mergebutton.png)
 2. Clique em **Confirmar a merge**. Você receberá uma mensagem de que a solicitação foi mesclada com sucesso e o pedido foi encerrado.
 3. Clique **Excluir branch**. Agora que seu pull request foi mesclado e as suas alterações estão no `principal`, você pode excluir com segurança o branch `readme-edits`. Se você quiser fazer mais alterações no seu projeto, você pode sempre criar um novo branch e repetir este processo.
 

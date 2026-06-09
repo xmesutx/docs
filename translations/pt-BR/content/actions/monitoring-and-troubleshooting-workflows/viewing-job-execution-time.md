@@ -18,7 +18,7 @@ Os minutos de execução de um trabalho faturável são exibidos para trabalhos 
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
-1. No resumo do trabalho, você pode ver o tempo de execução do trabalho. Para visualizar os detalhes sobre o tempo de execução do trabalho faturável, clique no tempo abaixo do **Tempo faturável**. ![Link com informações sobre o tempo faturável e execução](/assets/images/help/repository/view-run-billable-time.png)
+1. No resumo do trabalho, você pode ver o tempo de execução do trabalho. Para visualizar os detalhes sobre o tempo de execução do trabalho faturável, clique no tempo abaixo do **Tempo faturável**. ![Link com informações sobre o tempo faturável e execução](/assets/images/2021/10/help/repository/view-run-billable-time.png)
 
    {% note %}
 

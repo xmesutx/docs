@@ -22,8 +22,8 @@ shortTitle: Altere método de entrega de 2FA
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. Ao lado de "SMS delivery" (Entrega de SMS), clique em **Edit** (Editar). ![Opções para editar entrega de SMS](/assets/images/help/2fa/edit-sms-delivery-option.png)
-4. Em "Delivery options" (Opções de entrega), clique em **Reconfigure two-factor authentication** (Reconfigurar autenticação de dois fatores). ![Alternar as opções de entrega de 2FA](/assets/images/help/2fa/2fa-switching-methods.png)
+3. Ao lado de "SMS delivery" (Entrega de SMS), clique em **Edit** (Editar). ![Opções para editar entrega de SMS](/assets/images/2021/10/help/2fa/edit-sms-delivery-option.png)
+4. Em "Delivery options" (Opções de entrega), clique em **Reconfigure two-factor authentication** (Reconfigurar autenticação de dois fatores). ![Alternar as opções de entrega de 2FA](/assets/images/2021/10/help/2fa/2fa-switching-methods.png)
 5. Decida se deseja configurar a autenticação de dois fatores usando um app móvel TOTP ou uma mensagem de texto. Para obter mais informações, consulte "[Configurar a autenticação de dois fatores](/articles/configuring-two-factor-authentication)".
     - Para configurar a autenticação de dois fatores usando um app móvel TOTP, clique em **Set up using an app** (Configurar usando um app).
     - Para configurar a autenticação de dois fatores usando mensagem de texto (SMS), clique em **Set up using SMS** (Configurar usando SMS).

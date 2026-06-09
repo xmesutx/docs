@@ -1,1 +1,1 @@
-1. Debajo de "Descripción", teclea una descripción para ayudar a que los demás entiendan y utilicen tu etiqueta. ![Campo para teclear una descripción de etiqueta](/assets/images/help/issues/label-description-field.png)
+1. Debajo de "Descripción", teclea una descripción para ayudar a que los demás entiendan y utilicen tu etiqueta. ![Campo para teclear una descripción de etiqueta](/assets/images/2021/10/help/issues/label-description-field.png)

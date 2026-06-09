@@ -35,9 +35,9 @@ shortTitle: Teamのアクセスの管理
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-repositories-tab %}
-5. リポジトリ リストの上にある [**Add repository**] をクリックします。 ![[Add repository] ボタン](/assets/images/help/organizations/add-repositories-button.png)
-6. リポジトリの名前を入力して、[**Add repository to team**] をクリックします。 ![リポジトリ検索フィールド](/assets/images/help/organizations/team-repositories-add.png)
-7. オプションで、リポジトリ名の右にあるドロップダウンメニューを使って、チームの権限レベルを変更することもできます ![リポジトリのアクセス レベルのドロップダウン](/assets/images/help/organizations/team-repositories-change-permission-level.png)
+5. リポジトリ リストの上にある [**Add repository**] をクリックします。 ![[Add repository] ボタン](/assets/images/2021/10/help/organizations/add-repositories-button.png)
+6. リポジトリの名前を入力して、[**Add repository to team**] をクリックします。 ![リポジトリ検索フィールド](/assets/images/2021/10/help/organizations/team-repositories-add.png)
+7. オプションで、リポジトリ名の右にあるドロップダウンメニューを使って、チームの権限レベルを変更することもできます ![リポジトリのアクセス レベルのドロップダウン](/assets/images/2021/10/help/organizations/team-repositories-change-permission-level.png)
 {% endif %}
 ## リポジトリへのチームのアクセスを削除する
 
@@ -58,9 +58,9 @@ Teamがリポジトリへの直接のアクセス権を持っている場合、�
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-repositories-tab %}
-5. チームから削除するリポジトリ (複数選択も可) を選択します。 ![いくつかのリポジトリがチェックボックスで選択されたチーム リポジトリのリスト](/assets/images/help/teams/select-team-repositories-bulk.png)
-6. リポジトリ リストの上にあるドロップダウン メニューで、[**Remove from team**] をクリックします。 ![チームからリポジトリを削除するオプションのあるドロップダウン メニュー](/assets/images/help/teams/remove-team-repo-dropdown.png)
-7. チームから削除されるリポジトリをレビューし、[**Remove repositories**] をクリックします。 ![チームがアクセスできなくなったリポジトリのリストがあるモーダル ボックス](/assets/images/help/teams/confirm-remove-team-repos.png)
+5. チームから削除するリポジトリ (複数選択も可) を選択します。 ![いくつかのリポジトリがチェックボックスで選択されたチーム リポジトリのリスト](/assets/images/2021/10/help/teams/select-team-repositories-bulk.png)
+6. リポジトリ リストの上にあるドロップダウン メニューで、[**Remove from team**] をクリックします。 ![チームからリポジトリを削除するオプションのあるドロップダウン メニュー](/assets/images/2021/10/help/teams/remove-team-repo-dropdown.png)
+7. チームから削除されるリポジトリをレビューし、[**Remove repositories**] をクリックします。 ![チームがアクセスできなくなったリポジトリのリストがあるモーダル ボックス](/assets/images/2021/10/help/teams/confirm-remove-team-repos.png)
 {% endif %}
 ## 参考リンク
 

@@ -30,7 +30,7 @@ $ git clone https://{% data variables.command_line.codeblock %}/<em>USERNAME</em
 
 克隆仓库时，有[几个不同的 URL](/github/getting-started-with-github/about-remote-repositories)可供选择。 登录到 {% data variables.product.prodname_dotcom %} 后，可在仓库详细信息下面找到这些 URL：
 
-![远程 URL 列表](/assets/images/help/repository/remotes-url.png)
+![远程 URL 列表](/assets/images/2021/10/help/repository/remotes-url.png)
 
 运行 `git clone` 时，将发生以下操作：
 - 创建名为 `repo` 的文件夹

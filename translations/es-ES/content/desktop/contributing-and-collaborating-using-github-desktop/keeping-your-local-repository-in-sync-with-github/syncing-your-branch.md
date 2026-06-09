@@ -24,9 +24,9 @@ Algunos flujos de trabajo requieren o se benefician con el rebase en vez de con 
 ## Extraer tu rama local de la rama remota
 
 1. En {% data variables.product.prodname_desktop %}, utiliza el menú desplegable de {% octicon "git-branch" aria-label="The branch icon" %} **Rama Actual** y selecciona la rama local que quieres actualizar.
-2.  Para verificar las confirmaciones en la rama remota, da clic en **Obtener origen** ![El botón Fetch origin (Buscar origen)](/assets/images/help/desktop/fetch-button.png)
+2.  Para verificar las confirmaciones en la rama remota, da clic en **Obtener origen** ![El botón Fetch origin (Buscar origen)](/assets/images/2021/10/help/desktop/fetch-button.png)
 
-3. Para extraer cualquier confirmación de la rama remota, da clic en **Extraer origen** o en **Extraer origen con rebase**. ![El botón Pull origin (Extraer origen)](/assets/images/help/desktop/pull-button.png) 
+3. Para extraer cualquier confirmación de la rama remota, da clic en **Extraer origen** o en **Extraer origen con rebase**. ![El botón Pull origin (Extraer origen)](/assets/images/2021/10/help/desktop/pull-button.png) 
    
    {% data reusables.desktop.resolve-merge-conflicts %}
 
@@ -50,7 +50,7 @@ Algunos flujos de trabajo requieren o se benefician con el rebase en vez de con 
 
 {% endnote %}
 
-![El botón Merge (Fusionar)](/assets/images/help/desktop/merge-branch-button.png) 
+![El botón Merge (Fusionar)](/assets/images/2021/10/help/desktop/merge-branch-button.png) 
 
 {% data reusables.desktop.push-origin %}
 
@@ -60,29 +60,29 @@ Algunos flujos de trabajo requieren o se benefician con el rebase en vez de con 
 
 {% mac %}
 
-1. En la barra de menú, utiliza el menú desplegable de **Rama** y da clic en **Rebasar la rama actual**. ![Rebase Current Branch (Rebasar rama actual) en el desplegable de rama](/assets/images/help/desktop/mac-rebase-current-branch.png)
+1. En la barra de menú, utiliza el menú desplegable de **Rama** y da clic en **Rebasar la rama actual**. ![Rebase Current Branch (Rebasar rama actual) en el desplegable de rama](/assets/images/2021/10/help/desktop/mac-rebase-current-branch.png)
 
-2. Haz clic en la rama que deseas rebasar en la rama actual, luego haz clic en **Start rebase**. ![Botón Start rebase (Iniciar rebase)](/assets/images/help/desktop/start-rebase-button.png)
+2. Haz clic en la rama que deseas rebasar en la rama actual, luego haz clic en **Start rebase**. ![Botón Start rebase (Iniciar rebase)](/assets/images/2021/10/help/desktop/start-rebase-button.png)
 
-3. Si estás seguro de que deseas rebasar, haz clic en **Begin rebase** (Comenzar rebase). ![Botón Begin rebase (Comenzar rebase)](/assets/images/help/desktop/begin-rebase-button.png) 
+3. Si estás seguro de que deseas rebasar, haz clic en **Begin rebase** (Comenzar rebase). ![Botón Begin rebase (Comenzar rebase)](/assets/images/2021/10/help/desktop/begin-rebase-button.png) 
    
    {% data reusables.desktop.resolve-merge-conflicts %}
 
-4. Para subir tus cambios locales, da clic en **Subir el origen forzadamente**. ![Origen de empuje forzado](/assets/images/help/desktop/force-push-origin.png)
+4. Para subir tus cambios locales, da clic en **Subir el origen forzadamente**. ![Origen de empuje forzado](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. Usa el desplegable ** Branch** y haz clic en **Rebase Current Branch**. ![Rebase Current Branch (Rebasar rama actual) en el desplegable de rama](/assets/images/help/desktop/windows-rebase-current-branch.png)
+1. Usa el desplegable ** Branch** y haz clic en **Rebase Current Branch**. ![Rebase Current Branch (Rebasar rama actual) en el desplegable de rama](/assets/images/2021/10/help/desktop/windows-rebase-current-branch.png)
 
-2. Haz clic en la rama que deseas rebasar en la rama actual, luego haz clic en **Start rebase**. ![Botón Start rebase (Iniciar rebase)](/assets/images/help/desktop/start-rebase-button.png)
+2. Haz clic en la rama que deseas rebasar en la rama actual, luego haz clic en **Start rebase**. ![Botón Start rebase (Iniciar rebase)](/assets/images/2021/10/help/desktop/start-rebase-button.png)
 
-3. Si estás seguro de que deseas rebasar, haz clic en **Begin rebase** (Comenzar rebase). ![Botón Begin rebase (Comenzar rebase)](/assets/images/help/desktop/begin-rebase-button.png) 
+3. Si estás seguro de que deseas rebasar, haz clic en **Begin rebase** (Comenzar rebase). ![Botón Begin rebase (Comenzar rebase)](/assets/images/2021/10/help/desktop/begin-rebase-button.png) 
    
    {% data reusables.desktop.resolve-merge-conflicts %}
 
-4. Para extraer tus cambios locales, haz clic en **Force push origin** (Origen de empuje forzado). ![Origen de empuje forzado](/assets/images/help/desktop/force-push-origin.png)
+4. Para extraer tus cambios locales, haz clic en **Force push origin** (Origen de empuje forzado). ![Origen de empuje forzado](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endwindows %}
 
@@ -90,9 +90,9 @@ Algunos flujos de trabajo requieren o se benefician con el rebase en vez de con 
 
 ## Combinar y fusionar otra rama en tu rama de proyecto
 
-1. Utiliza el menú desplegable de la **Rama** y haz clic en **Combinar y fusionar en la rama actual**. ![Combinar y fusionar en el menú desplegable de la rama](/assets/images/help/desktop/squash-and-merge-menu.png)
+1. Utiliza el menú desplegable de la **Rama** y haz clic en **Combinar y fusionar en la rama actual**. ![Combinar y fusionar en el menú desplegable de la rama](/assets/images/2021/10/help/desktop/squash-and-merge-menu.png)
 
-2. Haz clic en la rama que quieras fusionar en la rama actual y luego en **Combinar y fusionar**. ![Botón de combinar y fusionar](/assets/images/help/desktop/squash-and-merge-selection.png) 
+2. Haz clic en la rama que quieras fusionar en la rama actual y luego en **Combinar y fusionar**. ![Botón de combinar y fusionar](/assets/images/2021/10/help/desktop/squash-and-merge-selection.png) 
    
    {% note %}
    

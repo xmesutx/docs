@@ -17,7 +17,7 @@ shortTitle: Alterar permissões de acesso
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em Features (Recursos), desmarque **Restrict edits to collaborators only** (Restringir edições apenas a colaboradores). ![Edição de restrição de wiki](/assets/images/help/wiki/wiki_restrict_editing.png)
+3. Em Features (Recursos), desmarque **Restrict edits to collaborators only** (Restringir edições apenas a colaboradores). ![Edição de restrição de wiki](/assets/images/2021/10/help/wiki/wiki_restrict_editing.png)
 
 ## Leia mais
 

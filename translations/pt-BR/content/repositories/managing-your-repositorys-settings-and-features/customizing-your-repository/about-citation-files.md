@@ -65,7 +65,7 @@ Para obter mais informações, consulte o site do [Formato do Arquivo de Citaç�
 
 Ao adicionar um arquivo `CITATION.cff` ao branch padrão do repositório, ele será automaticamente vinculado a partir da página inicial do repositório. Isso torna fácil para outros usuários citar seu projeto de software, usando as informações que você forneceu.
 
-![Link de citação na página inicial do repositório](/assets/images/help/repository/citation-link.png)
+![Link de citação na página inicial do repositório](/assets/images/2021/10/help/repository/citation-link.png)
 
 ## Citando algo diferente de software
 

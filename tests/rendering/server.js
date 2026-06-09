@@ -1015,7 +1015,7 @@ describe('?json query param for context debugging', () => {
 
 describe('static routes', () => {
   it('serves content from the /assets directory', async () => {
-    const res = await get('/assets/images/site/be-social.gif')
+    const res = await get('/assets/images/2021/10/site/be-social.gif')
     expect(res.statusCode).toBe(200)
     expect(res.headers['cache-control']).toContain('public')
     expect(res.headers['cache-control']).toMatch(/max-age=\d+/)
@@ -1040,7 +1040,7 @@ describe('static routes', () => {
   })
 
   it('no manual surrogate key for /assets requests without caching-busting prefix', async () => {
-    const res = await get('/assets/images/site/be-social.gif')
+    const res = await get('/assets/images/2021/10/site/be-social.gif')
     expect(res.statusCode).toBe(200)
     expect(res.headers['set-cookie']).toBeUndefined()
     expect(res.headers['cache-control']).toContain('public')

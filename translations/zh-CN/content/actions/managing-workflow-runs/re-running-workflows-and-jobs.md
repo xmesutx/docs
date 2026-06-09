@@ -26,10 +26,10 @@ versions:
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 {% ifversion fpt or ghes > 3.2 or ghae-issue-4721 or ghec %}
-1. In the upper-right corner of the workflow, use the **Re-run jobs** drop-down menu, and select **Re-run all jobs** ![Rerun checks drop-down menu](/assets/images/help/repository/rerun-checks-drop-down.png)
+1. In the upper-right corner of the workflow, use the **Re-run jobs** drop-down menu, and select **Re-run all jobs** ![Rerun checks drop-down menu](/assets/images/2021/10/help/repository/rerun-checks-drop-down.png)
 {% endif %}
 {% ifversion ghes < 3.3 or ghae %}
-1. 在工作流程的右上角，使用 **Re-run jobs（重新运行作业）**下拉菜单，并选择 **Re-run all jobs（重新运行所有作业）**。 ![重新运行检查下拉菜单](/assets/images/help/repository/rerun-checks-drop-down-updated.png)
+1. 在工作流程的右上角，使用 **Re-run jobs（重新运行作业）**下拉菜单，并选择 **Re-run all jobs（重新运行所有作业）**。 ![重新运行检查下拉菜单](/assets/images/2021/10/help/repository/rerun-checks-drop-down-updated.png)
 {% endif %}
 
 {% endwebui %}
@@ -61,7 +61,7 @@ You can view the results from your previous attempts at running a workflow. You 
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
-1. Any previous run attempts are shown in the left pane. ![Rerun workflow](/assets/images/help/settings/actions-review-workflow-rerun.png)
+1. Any previous run attempts are shown in the left pane. ![Rerun workflow](/assets/images/2021/10/help/settings/actions-review-workflow-rerun.png)
 1. Click an entry to view its results.
 
 {% endif %}

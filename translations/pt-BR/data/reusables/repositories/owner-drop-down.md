@@ -1,1 +1,1 @@
-1. Use o menu suspenso **Proprietário** e selecione a conta que você deseja que seja proprietária do repositório. ![Menu suspenso Owner (Proprietário)](/assets/images/help/repository/create-repository-owner.png)
+1. Use o menu suspenso **Proprietário** e selecione a conta que você deseja que seja proprietária do repositório. ![Menu suspenso Owner (Proprietário)](/assets/images/2021/10/help/repository/create-repository-owner.png)

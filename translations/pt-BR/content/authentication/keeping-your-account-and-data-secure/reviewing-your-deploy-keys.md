@@ -21,9 +21,9 @@ shortTitle: Chaves de implantação
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 3. Na seção "Segurança" na barra lateral, clique em **{% octicon "key" aria-label="The key icon" %} Implantar chaves**.
 {% else %}
-3. Na barra lateral esquerda, clique em **Deploy keys** (Chaves de implantação). ![Configuração das chaves de implantação](/assets/images/help/settings/settings-sidebar-deploy-keys.png)
+3. Na barra lateral esquerda, clique em **Deploy keys** (Chaves de implantação). ![Configuração das chaves de implantação](/assets/images/2021/10/help/settings/settings-sidebar-deploy-keys.png)
 {% endif %}
-4. Na página das chaves de implantação, anote as chaves de implantação associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves de implantação válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves de implantação](/assets/images/help/settings/settings-deploy-key-review.png)
+4. Na página das chaves de implantação, anote as chaves de implantação associadas à sua conta. Para as chaves não reconhecidas ou desatualizadas, clique em **Delete** (Excluir). Se houver chaves de implantação válidas que deseja manter, clique em **Approve** (Aprovar). ![Lista de chaves de implantação](/assets/images/2021/10/help/settings/settings-deploy-key-review.png)
 
 Para obter mais informações, consulte "[Gerenciar chaves de implantação](/guides/managing-deploy-keys)".
 

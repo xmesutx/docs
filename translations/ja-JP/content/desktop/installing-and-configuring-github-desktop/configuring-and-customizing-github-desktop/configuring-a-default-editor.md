@@ -60,8 +60,8 @@ shortTitle: Configure default editor
 {% mac %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
-3. Preferences（環境設定）ウィンドウで** Integrations（インテグレーション）**を選択してください。 ![環境設定ウィンドウのインテグレーションペイン](/assets/images/help/desktop/mac-select-integrations-pane.png)
-4. [External Editor] ドロップダウンメニューを使用して、デフォルトとして設定するエディタを選択します。 ![Preferencesメニューバー内のExternal editorメニュー](/assets/images/help/desktop/mac-editor-menu.png)
+3. Preferences（環境設定）ウィンドウで** Integrations（インテグレーション）**を選択してください。 ![環境設定ウィンドウのインテグレーションペイン](/assets/images/2021/10/help/desktop/mac-select-integrations-pane.png)
+4. [External Editor] ドロップダウンメニューを使用して、デフォルトとして設定するエディタを選択します。 ![Preferencesメニューバー内のExternal editorメニュー](/assets/images/2021/10/help/desktop/mac-editor-menu.png)
 5. [**Save**] をクリックします。
 
 {% endmac %}
@@ -69,8 +69,8 @@ shortTitle: Configure default editor
 {% windows %}
 
 {% data reusables.desktop.windows-choose-options %}
-3. Options（オプション）ウィンドウで** Integrations（インテグレーション）**を選択してください。 ![オプションウィンドウのインテグレーションペイン](/assets/images/help/desktop/windows-select-integrations-pane.png)
-4. [External Editor] ドロップダウンメニューを使用して、デフォルトとして設定するエディタを選択します。 ![Optionsメニューバー内のExternal editorメニュー](/assets/images/help/desktop/windows-editor-menu.png)
+3. Options（オプション）ウィンドウで** Integrations（インテグレーション）**を選択してください。 ![オプションウィンドウのインテグレーションペイン](/assets/images/2021/10/help/desktop/windows-select-integrations-pane.png)
+4. [External Editor] ドロップダウンメニューを使用して、デフォルトとして設定するエディタを選択します。 ![Optionsメニューバー内のExternal editorメニュー](/assets/images/2021/10/help/desktop/windows-editor-menu.png)
 5. [**Save**] をクリックします。
 
 {% endwindows %}

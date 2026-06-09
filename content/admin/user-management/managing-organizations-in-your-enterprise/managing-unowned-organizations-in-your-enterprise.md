@@ -18,8 +18,8 @@ shortTitle: Manage unowned organizations
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 2. To the right of the search field, click **X unowned**.
-  ![Button to view unowned organizations](/assets/images/help/business-accounts/unowned-organizations-button.png)
+  ![Button to view unowned organizations](/assets/images/2021/10/help/business-accounts/unowned-organizations-button.png)
 3. To the right of the organization you want to assume ownership of, click **Become an owner**.
-  ![Become an owner button](/assets/images/help/business-accounts/become-an-owner-button.png)
+  ![Become an owner button](/assets/images/2021/10/help/business-accounts/become-an-owner-button.png)
 4. Read the warning, then click **Become an owner**.
-  ![Become an owner button](/assets/images/help/business-accounts/become-an-owner-confirmation.png)
+  ![Become an owner button](/assets/images/2021/10/help/business-accounts/become-an-owner-confirmation.png)

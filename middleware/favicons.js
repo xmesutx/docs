@@ -13,11 +13,11 @@ const cacheControl = cacheControlFactory(60 * 60 * 24 * 7, { immutable: true })
 const MAP = {
   '/favicon.ico': {
     contentType: 'image/x-icon',
-    buffer: getBuffer('assets/images/site/favicon.ico'),
+    buffer: getBuffer('assets/images/2021/10/site/favicon.ico'),
   },
   '/apple-touch-icon.png': {
     contentType: 'image/png',
-    buffer: getBuffer('assets/images/site/apple-touch-icon.png'),
+    buffer: getBuffer('assets/images/2022/02/site/apple-touch-icon.png'),
   },
 }
 

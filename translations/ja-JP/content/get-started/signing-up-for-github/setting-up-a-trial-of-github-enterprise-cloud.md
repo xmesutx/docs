@@ -48,8 +48,8 @@ For more information, see "[About identity and access management with SAML singl
 Before you can try {% data variables.product.prodname_ghe_cloud %}, you must be signed into a user account. If you don't already have a user account on {% data variables.product.prodname_dotcom_the_website %}, you must create one. 詳しい情報については、「<a href="/articles/signing-up-for-a-new-github-account" class="dotcom-only">新しい {% data variables.product.prodname_dotcom %} アカウントにサインアップする</a>」を参照してください。
 
 1. Navigate to [{% data variables.product.prodname_dotcom %} for enterprises](https://github.com/enterprise).
-1. Click **Start a free trial**. !["Start a free trial" button](/assets/images/help/organizations/start-a-free-trial-button.png)
-1. Click **Enterprise Cloud**. !["Enterprise Cloud" button](/assets/images/help/organizations/enterprise-cloud-trial-option.png)
+1. Click **Start a free trial**. !["Start a free trial" button](/assets/images/2021/10/help/organizations/start-a-free-trial-button.png)
+1. Click **Enterprise Cloud**. !["Enterprise Cloud" button](/assets/images/2021/10/help/organizations/enterprise-cloud-trial-option.png)
 1. Follow the prompts to configure your trial.
 
 ## {% data variables.product.prodname_ghe_cloud %} に触れる
@@ -73,5 +73,5 @@ Downgrading also disables any SAML settings configured during the trial period. 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.billing_plans %}
-5. [{% data variables.product.prodname_ghe_cloud %} Free Trial] の下で、[**Buy Enterprise**] または [**Downgrade to Team**] をクリックします。 ![[Buy Enterprise and Downgrade to Team] ボタン](/assets/images/help/organizations/finish-trial-buttons.png)
+5. [{% data variables.product.prodname_ghe_cloud %} Free Trial] の下で、[**Buy Enterprise**] または [**Downgrade to Team**] をクリックします。 ![[Buy Enterprise and Downgrade to Team] ボタン](/assets/images/2021/10/help/organizations/finish-trial-buttons.png)
 6. プロンプトに従ってお支払い方法を入力し、[**Submit**] をクリックします。

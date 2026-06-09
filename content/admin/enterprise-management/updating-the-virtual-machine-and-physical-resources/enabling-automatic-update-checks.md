@@ -27,13 +27,13 @@ If a hotpatch is available for an upgrade, the `.hpkg` will download automatical
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.updates-tab %}
 4. Click **Yes, automatically check for updates**.
-![Button for enabling automatic updates](/assets/images/enterprise/management-console/enable_updates_button.png)
+![Button for enabling automatic updates](/assets/images/2021/10/enterprise/management-console/enable_updates_button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 To see if your instance is up-to-date, check the banner on the Updates tab.
 
-![Banner indicating your release of GitHub Enterprise Server](/assets/images/enterprise/management-console/up-to-date-banner.png)
+![Banner indicating your release of GitHub Enterprise Server](/assets/images/2021/10/enterprise/management-console/up-to-date-banner.png)
 
 Under **Logs**, you can see the status of the most recent update check.
 
-![Logs for update](/assets/images/enterprise/management-console/update-log.png)
+![Logs for update](/assets/images/2021/10/enterprise/management-console/update-log.png)

@@ -1,1 +1,1 @@
-1. Debajo de "Espacio de trabajo de Slack", da clic en **Autorizar espacio de trabajo de Slack** y sigue las instrucciones. ![Botón de Autorizar espacio de trabajo de Slack](/assets/images/help/settings/scheduled-reminders-authorize-slack.png)
+1. Debajo de "Espacio de trabajo de Slack", da clic en **Autorizar espacio de trabajo de Slack** y sigue las instrucciones. ![Botón de Autorizar espacio de trabajo de Slack](/assets/images/2021/10/help/settings/scheduled-reminders-authorize-slack.png)

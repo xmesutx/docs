@@ -24,7 +24,7 @@ topics:
 GitHub にトークンを設定するには：
 
 1. webhook を設定しているリポジトリに移動します。
-2. シークレットテキストボックスに入力します。 エントロピーの高いランダムな文字列を使用します (たとえば、`ruby -rsecurerandom -e 'puts SecureRandom.hex(20)'` を端末で取得することによって)。 ![webhook シークレットトークンフィールド](/assets/images/webhook_secret_token.png)
+2. シークレットテキストボックスに入力します。 エントロピーの高いランダムな文字列を使用します (たとえば、`ruby -rsecurerandom -e 'puts SecureRandom.hex(20)'` を端末で取得することによって)。 ![webhook シークレットトークンフィールド](/assets/images/2021/10/webhook_secret_token.png)
 3. [**Update Webhook**] をクリックします。
 
 次に、このトークンを保存する環境変数をサーバーに設定します。 通常、これは実行と同じくらい簡単です。

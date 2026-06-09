@@ -2,6 +2,6 @@ When you select the **Squash and merge** option on a pull request on {% data var
 
 To squash and merge pull requests, you must have [write permissions](/articles/repository-permission-levels-for-an-organization/) in the repository, and the repository must [allow squash merging](/articles/configuring-commit-squashing-for-pull-requests/).
 
-![commit-squashing-diagram](/assets/images/help/pull_requests/commit-squashing-diagram.png)
+![commit-squashing-diagram](/assets/images/2021/10/help/pull_requests/commit-squashing-diagram.png)
 
 You can use squash and merge to create a more streamlined Git history in your repository. Work-in-progress commits are helpful when working on a feature branch, but they aren’t necessarily important to retain in the Git history. If you squash these commits into one commit while merging to the default branch, you can retain the original changes with a clear Git history.

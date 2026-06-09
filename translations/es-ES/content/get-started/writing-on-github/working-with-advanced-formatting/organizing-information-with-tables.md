@@ -25,7 +25,7 @@ Puede crear tablas con barras verticales `|` y guiones `-`. Los guiones se usan 
 | Contenido de la celda  | Contenido de la celda  |
 ```
 
-![Tabla presentada](/assets/images/help/writing/table-basic-rendered.png)
+![Tabla presentada](/assets/images/2021/10/help/writing/table-basic-rendered.png)
 
 Las barras verticales en cada lado de la tabla son opcionales.
 
@@ -38,7 +38,7 @@ Las celdas pueden variar en el ancho y no es necesario que estén perfectamente 
 | git diff | Muestra las diferencias de archivo que no han sido preparadas |
 ```
 
-![Tabla presentada con ancho de celda variado](/assets/images/help/writing/table-varied-columns-rendered.png)
+![Tabla presentada con ancho de celda variado](/assets/images/2021/10/help/writing/table-varied-columns-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -53,7 +53,7 @@ Puedes utilizar [formato](/articles/basic-writing-and-formatting-syntax) como en
 | `git diff` | Muestra las diferencias de archivo que **no han sido** preparadas |
 ```
 
-![Tabla presentada con texto formateado](/assets/images/help/writing/table-inline-formatting-rendered.png)
+![Tabla presentada con texto formateado](/assets/images/2021/10/help/writing/table-inline-formatting-rendered.png)
 
 Puedes alinear el texto a la izquierda, la derecha o en el centro de una columna al incluir dos puntos `:` a la izquierda, la derecha, o en ambos lados de los guiones dentro de la línea de encabezamiento.
 
@@ -64,7 +64,7 @@ Puedes alinear el texto a la izquierda, la derecha o en el centro de una columna
 | git diff     | git diff       | git diff      |
 ```
 
-![Tabla presentada con alineación de texto a la izquierda, a la derecha o al centro](/assets/images/help/writing/table-aligned-text-rendered.png)
+![Tabla presentada con alineación de texto a la izquierda, a la derecha o al centro](/assets/images/2021/10/help/writing/table-aligned-text-rendered.png)
 
 Para incluir una barra vertical `|` como contenido dentro de tu celda, utiliza una `\` antes de la barra:
 
@@ -75,7 +75,7 @@ Para incluir una barra vertical `|` como contenido dentro de tu celda, utiliza u
 | Barra vertical | \|        |
 ```
 
-![Tabla presentada con una barra vertical liberada](/assets/images/help/writing/table-escaped-character-rendered.png)
+![Tabla presentada con una barra vertical liberada](/assets/images/2021/10/help/writing/table-escaped-character-rendered.png)
 
 ## Leer más
 

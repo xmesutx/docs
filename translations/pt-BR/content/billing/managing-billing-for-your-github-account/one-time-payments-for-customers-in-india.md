@@ -59,7 +59,7 @@ Os patrocínios existentes permanecerão em vigor durante este período e os man
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
-3. Na parte superior da página, clique em **Pagar agora**. ![Botão de pagamento único agora](/assets/images/help/billing/pay-now-button.png)
-4. Revise suas informações de cobrança e pagamento. Se você precisar fazer uma edição, clique em **Editar** ao lado da seção relevante. Caso contrário, clique em **Enviar pagamento**. ![Resumo de pagamento único](/assets/images/help/billing/payment-summary.png)
-5. Opcionalmente, se você clicou em **Editar**, faça as alterações necessárias e, em seguida, clique em **Enviar pagamento**. ![Resumo de edição de pagamento único](/assets/images/help/billing/payment-summary-edit.png)
-6. Uma vez que o pagamento do ciclo de cobrança atual foi realizado com sucesso, o botão **Pagar agora** na página de "planos de& cobrança" será desabilitado até o seu próximo pagamento ser devido. ![Botão de pagamento único "pague agora" desativado](/assets/images/help/billing/pay-now-button-disabled.png)
+3. Na parte superior da página, clique em **Pagar agora**. ![Botão de pagamento único agora](/assets/images/2022/02/help/billing/pay-now-button.png)
+4. Revise suas informações de cobrança e pagamento. Se você precisar fazer uma edição, clique em **Editar** ao lado da seção relevante. Caso contrário, clique em **Enviar pagamento**. ![Resumo de pagamento único](/assets/images/2022/02/help/billing/payment-summary.png)
+5. Opcionalmente, se você clicou em **Editar**, faça as alterações necessárias e, em seguida, clique em **Enviar pagamento**. ![Resumo de edição de pagamento único](/assets/images/2022/02/help/billing/payment-summary-edit.png)
+6. Uma vez que o pagamento do ciclo de cobrança atual foi realizado com sucesso, o botão **Pagar agora** na página de "planos de& cobrança" será desabilitado até o seu próximo pagamento ser devido. ![Botão de pagamento único "pague agora" desativado](/assets/images/2022/02/help/billing/pay-now-button-disabled.png)

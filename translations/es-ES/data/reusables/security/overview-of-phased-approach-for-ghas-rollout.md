@@ -6,4 +6,4 @@ Con base en nuestra experiencia de ayudar a los clientes con desarrollos exitoso
 
 Dependiendo de las necesidades de tu organización, podrías necesitar modificar este acercamiento y alterar o eliminar algunas fases o pasos.
 
-![Diagrama que muestra las tres fases de implementación y despliegue de la Seguridad Avanzada de GitHub, incluyendo la Fase 0: Planeación & Inicio, Fase 1: Proyectos piloto, Fase 2: Participación organizacional e implementación para los primeros participantes y Fase 3: Implementación organizacional completa & administración de cambios](/assets/images/enterprise/security/advanced-security-phased-approach-diagram.png)
+![Diagrama que muestra las tres fases de implementación y despliegue de la Seguridad Avanzada de GitHub, incluyendo la Fase 0: Planeación & Inicio, Fase 1: Proyectos piloto, Fase 2: Participación organizacional e implementación para los primeros participantes y Fase 3: Implementación organizacional completa & administración de cambios](/assets/images/2021/10/enterprise/security/advanced-security-phased-approach-diagram.png)

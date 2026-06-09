@@ -47,7 +47,7 @@ You can search the build logs for a particular step. When you search logs, only 
 {% data reusables.repositories.view-run %}
 {% data reusables.repositories.navigate-to-job %}
 1. In the upper-right corner of the log output, in the **Search logs** search box, type a search query.
-![Search box to search logs](/assets/images/help/repository/search-log-box-updated-2.png)
+![Search box to search logs](/assets/images/2021/10/help/repository/search-log-box-updated-2.png)
 
 ## Downloading logs
 
@@ -60,7 +60,7 @@ You can download the log files from your workflow run. You can also download a w
 {% data reusables.repositories.navigate-to-job %}
 1. In the upper right corner, click {% octicon "gear" aria-label="The gear icon" %} and select **Download log archive**.
   
-  ![Download logs drop-down menu](/assets/images/help/repository/download-logs-drop-down-updated-2.png)
+  ![Download logs drop-down menu](/assets/images/2021/10/help/repository/download-logs-drop-down-updated-2.png)
   
 
 ## Deleting logs
@@ -73,11 +73,11 @@ You can delete the log files from your workflow run. {% data reusables.repositor
 {% data reusables.repositories.view-run %}
 1. In the upper right corner, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
     
-    ![Kebab-horizontal icon](/assets/images/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
+    ![Kebab-horizontal icon](/assets/images/2021/10/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
     
 2. To delete the log files, click the **Delete all logs** button and review the confirmation prompt. 
   
-  ![Delete all logs](/assets/images/help/repository/delete-all-logs-updated-2.png)
+  ![Delete all logs](/assets/images/2021/10/help/repository/delete-all-logs-updated-2.png)
   
 After deleting logs, the **Delete all logs** button is removed to indicate that no log files remain in the workflow run.
 

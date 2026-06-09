@@ -16,10 +16,10 @@ Once your app listing meets the {% data variables.product.prodname_marketplace %
 
 1. In the top left of the app listing page, click **Overview**. For information on finding your app listing page, see "[Drafting a listing for your app](/developers/github-marketplace/drafting-a-listing-for-your-app)."
   
-  ![Overview option for the marketplace draft listing](/assets/images/marketplace/edit-marketplace-listing-overview.png)
+  ![Overview option for the marketplace draft listing](/assets/images/2021/10/marketplace/edit-marketplace-listing-overview.png)
 
 2. To submit your completed app listing, click **Request publish**.
 
-  !["Publish your app to Marketplace" checklist with submission button at the bottom](/assets/images/marketplace/publish-your-app-checklist-and-submission.png)
+  !["Publish your app to Marketplace" checklist with submission button at the bottom](/assets/images/2021/10/marketplace/publish-your-app-checklist-and-submission.png)
 
 An onboarding expert will reach out to you with additional information.

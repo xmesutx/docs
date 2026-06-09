@@ -27,7 +27,7 @@ topics:
 
 2. En la lista de solicitudes de cambios, haz clic en aquella que quieras abrir en {% data variables.product.prodname_codespaces %}.
 3. A la derecha de tu pantalla, haz clic en **{% octicon "code" aria-label="The code icon" %} Código**.
-4. Desde la pestaña de {% data variables.product.prodname_codespaces %}, haz clic en **Codespace nuevo**. ![Opción para abrir una solicitud de cambios en un codespace](/assets/images/help/codespaces/open-with-codespaces-pr.png)
+4. Desde la pestaña de {% data variables.product.prodname_codespaces %}, haz clic en **Codespace nuevo**. ![Opción para abrir una solicitud de cambios en un codespace](/assets/images/2021/10/help/codespaces/open-with-codespaces-pr.png)
 
 ## Revisar una solicitud de cambios en {% data variables.product.prodname_codespaces %}
 
@@ -39,4 +39,4 @@ Para obtener más información sobre cómo revisar una solicitud de cambios, con
 
 Una vez que hayas recibido retroalimentación en una solicitud de cambios, puedes [Abrirla en un codespace](#opening-a-pull-request-in-codespaces) para ver los [comentarios de revisión](#reviewing-a-pull-request-in-codespaces). Desde ahí, puedes responder a los comentarios, agregar reacciones o descartar la revisión.
 
-  ![Opción para abrir una solicitud de cambios en un codespace](/assets/images/help/codespaces/incorporating-codespaces.png)
+  ![Opción para abrir una solicitud de cambios en un codespace](/assets/images/2021/10/help/codespaces/incorporating-codespaces.png)

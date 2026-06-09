@@ -18,7 +18,7 @@ You can also use cherry-picking when collaborating with a team. Some projects in
 {% data reusables.desktop.current-branch-menu %}
 2. In the list of branches, click the branch that has the commit that you want to cherry-pick.
 {% data reusables.desktop.history-tab %}
-4. Drag the commit that you want to cherry-pick to the {% octicon "git-branch" aria-label="The branch icon" %} **Current Branch** menu and drop the commit on the branch that you want to copy the commit to. ![Dragging a commit to another branch in the Current Branch menu](/assets/images/help/desktop/cherry-picking.png)
+4. Drag the commit that you want to cherry-pick to the {% octicon "git-branch" aria-label="The branch icon" %} **Current Branch** menu and drop the commit on the branch that you want to copy the commit to. ![Dragging a commit to another branch in the Current Branch menu](/assets/images/2021/10/help/desktop/cherry-picking.png)
 
 ## 参考リンク
 - [git-cherry-pick](https://git-scm.com/docs/git-cherry-pick) in the Git documentation

@@ -9,7 +9,7 @@ versions:
 
 This image is broken on all versions because the file is not in assets: ![missing image](/assets/images/foo.png)
 
-This image is OK on all versions because the file is in assets: ![missing image](/assets/images/site/logo.png)
+This image is OK on all versions because the file is in assets: ![missing image](/assets/images/2021/10/site/logo.png)
 
 ### Anchors
 This anchor is broken on all versions because it points to a heading that does not exist: [Non-existent Heading](#this-anchor-goes-nowhere)

@@ -45,7 +45,7 @@ Proprietários de organizações e gestores de faturamento podem gerenciar o lim
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. Acima do uso mensal de {% data variables.product.prodname_codespaces %}", clique em **Limite de gastos**. ![Aba limite de gastos](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. Acima do uso mensal de {% data variables.product.prodname_codespaces %}", clique em **Limite de gastos**. ![Aba limite de gastos](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 
@@ -58,7 +58,7 @@ As notificações de e-mail são enviadas para os proprietários de contas e ger
 
 Você pode desabilitar essas notificações a qualquer momento, acessando a parte inferior da página **limite de gastos**.
 
-![Captura de tela das configurações de notificação de e-mail](/assets/images/help/billing/codespaces-spending-limit-notifications.png)
+![Captura de tela das configurações de notificação de e-mail](/assets/images/2022/02/help/billing/codespaces-spending-limit-notifications.png)
 
 ## Leia mais
 

@@ -23,7 +23,7 @@ Você decide quais informações incluir no README do seu perfil. Portanto, voc�
 - Contribuições das quais você está orgulhoso, bem como contexto dessas contribuições
 - Orientação para obter ajuda nas comunidades onde você está envolvido
 
-![Arquivo README do perfil exibido no perfil](/assets/images/help/repository/profile-with-readme.png)
+![Arquivo README do perfil exibido no perfil](/assets/images/2021/10/help/repository/profile-with-readme.png)
 
 Você pode formatar texto e incluir emoji, imagens e GIFs no seu perfil README usando o markdown específico do {% data variables.product.company_short %}. Para obter mais informações, consulte "[Começando a escrever e formatar no {% data variables.product.prodname_dotcom %}](/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)".
 
@@ -40,21 +40,21 @@ O GitHub irá exibir o README do seu perfil na sua página de perfil se todas as
 
 **Observação**: Se você criou um repositório público com o mesmo nome do seu nome de usuário antes de julho de 2020, {% data variables.product.prodname_dotcom %} não mostrará automaticamente o README do repositório no seu perfil. Você pode compartilhar manualmente o README do repositório no seu perfil, acessando o repositório no {% data variables.product.prodname_dotcom_the_website %} e clicando em **Compartilhar com o perfil**.
 
-![Botão para compartilhar o README no perfil](/assets/images/help/repository/share-to-profile.png)
+![Botão para compartilhar o README no perfil](/assets/images/2021/10/help/repository/share-to-profile.png)
 
 {% endnote %}
 
 ## Adicionar um README do perfil
 
 {% data reusables.repositories.create_new %}
-2. Em "Nome do repositório", digite um nome de repositório que corresponde ao nome de usuário do {% data variables.product.prodname_dotcom %}. Por exemplo, se seu nome de usuário for "octocat", o nome do repositório deverá ser "octocat". ![Campo do nome do repositório que corresponde ao nome de usuário](/assets/images/help/repository/repo-username-match.png)
-3. Se desejar, adicione uma descrição do repositório. Por exemplo, "Meu repositório pessoal". ![Campo para inserir uma descrição do repositório](/assets/images/help/repository/create-personal-repository-desc.png)
-4. Selecione **Público**. ![Botão de opção para selecionar visibilidade com o público selecionado](/assets/images/help/repository/create-personal-repository-visibility.png)
+2. Em "Nome do repositório", digite um nome de repositório que corresponde ao nome de usuário do {% data variables.product.prodname_dotcom %}. Por exemplo, se seu nome de usuário for "octocat", o nome do repositório deverá ser "octocat". ![Campo do nome do repositório que corresponde ao nome de usuário](/assets/images/2021/10/help/repository/repo-username-match.png)
+3. Se desejar, adicione uma descrição do repositório. Por exemplo, "Meu repositório pessoal". ![Campo para inserir uma descrição do repositório](/assets/images/2021/10/help/repository/create-personal-repository-desc.png)
+4. Selecione **Público**. ![Botão de opção para selecionar visibilidade com o público selecionado](/assets/images/2021/10/help/repository/create-personal-repository-visibility.png)
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
-7. Acima da barra lateral direita, clique em **Editar README**. ![Botão para editar o arquivo README](/assets/images/help/repository/personal-repository-edit-readme.png)
+7. Acima da barra lateral direita, clique em **Editar README**. ![Botão para editar o arquivo README](/assets/images/2021/10/help/repository/personal-repository-edit-readme.png)
 
-  O arquivo README gerado é pré-preenchido com um modelo para dar alguma inspiração para o README do seu perfil. ![Arquivo README com modelo pré-preenchido](/assets/images/help/repository/personal-repository-readme-template.png)
+  O arquivo README gerado é pré-preenchido com um modelo para dar alguma inspiração para o README do seu perfil. ![Arquivo README com modelo pré-preenchido](/assets/images/2021/10/help/repository/personal-repository-readme-template.png)
 
 Para obter um resumo todos os emojis disponíveis e seus códigos, consulte "[Folha de dicas de Emoji](http://www.emoji-cheat-sheet.com/)".
 

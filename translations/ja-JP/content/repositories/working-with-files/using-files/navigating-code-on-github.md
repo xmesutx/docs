@@ -18,7 +18,7 @@ topics:
 
 Code navigation helps you to read, navigate, and understand code by showing and linking definitions of a named entity corresponding to a reference to that entity, as well as references corresponding to an entity's definition.
 
-![Code navigation display](/assets/images/help/repository/code-navigation-popover.png)
+![Code navigation display](/assets/images/2021/12/help/repository/code-navigation-popover.png)
 
 Code navigation uses the open source [`tree-sitter`](https://github.com/tree-sitter/tree-sitter) library. The following languages and navigation strategies are supported:
 
@@ -49,13 +49,13 @@ Future releases will add *precise code navigation* for more languages, which is 
 
 ファイル内の関数またはメソッドの呼び出しをクリックすることで、同じリポジトリ内の関数またはメソッドの定義にジャンプできます。
 
-![[Jump-to-definition] タブ](/assets/images/help/repository/jump-to-definition-tab.png)
+![[Jump-to-definition] タブ](/assets/images/2021/10/help/repository/jump-to-definition-tab.png)
 
 ## 関数とメソッドの全リファレンスを検索する
 
 ファイル内の関数またはメソッドの呼び出しをクリックして [**References**] タブをクリックすることで、同じリポジトリ内の関数またはメソッドの全リファレンスを検索することができます。
 
-![[Find all references] タブ](/assets/images/help/repository/find-all-references-tab.png)
+![[Find all references] タブ](/assets/images/2021/10/help/repository/find-all-references-tab.png)
 
 ## Precise and search-based navigation
 
@@ -63,7 +63,7 @@ Certain languages supported by {% data variables.product.prodname_dotcom %} have
 
 If you don't see the results you expect from a precise code navigation query, you can click on the "search-based" link in the displayed popover to perform search-based navigation.
 
-![Search-based code navigation link](/assets/images/help/repository/search-based-code-navigation-link.png)
+![Search-based code navigation link](/assets/images/2021/12/help/repository/search-based-code-navigation-link.png)
 
 If your precise results appear inaccurate, you can file a support request.
 

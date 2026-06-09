@@ -25,7 +25,7 @@ shortTitle: Organized data with tables
 | 内容セル  | 内容セル  |
 ```
 
-![レンダリングされた表](/assets/images/help/writing/table-basic-rendered.png)
+![レンダリングされた表](/assets/images/2021/10/help/writing/table-basic-rendered.png)
 
 表の両側のパイプ文字はオプションです。
 
@@ -38,7 +38,7 @@ shortTitle: Organized data with tables
 | git diff | Show file differences that haven't been staged |
 ```
 
-![異なるセル幅で表示された表](/assets/images/help/writing/table-varied-columns-rendered.png)
+![異なるセル幅で表示された表](/assets/images/2021/10/help/writing/table-varied-columns-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -53,7 +53,7 @@ shortTitle: Organized data with tables
 | `git diff` | Show file differences that **haven't been** staged |
 ```
 
-![テキストをフォーマットして表示された表](/assets/images/help/writing/table-inline-formatting-rendered.png)
+![テキストをフォーマットして表示された表](/assets/images/2021/10/help/writing/table-inline-formatting-rendered.png)
 
 ヘッダー行でハイフンの左、右、両側にコロン (`:`) を使うと、列でテキストを左寄せ、右寄せ、センタリングすることができます。
 
@@ -64,7 +64,7 @@ shortTitle: Organized data with tables
 | git diff     | git diff       | git diff      |
 ```
 
-![テキストを左寄せ、右寄せ、センタリングして表示された表](/assets/images/help/writing/table-aligned-text-rendered.png)
+![テキストを左寄せ、右寄せ、センタリングして表示された表](/assets/images/2021/10/help/writing/table-aligned-text-rendered.png)
 
 セルでパイプ文字 (`|`) を使用するには、パイプ文字の前に `\` を追加します。
 
@@ -75,7 +75,7 @@ shortTitle: Organized data with tables
 | Pipe     | \|        |
 ```
 
-![パイプ文字をエスケープして表示された表](/assets/images/help/writing/table-escaped-character-rendered.png)
+![パイプ文字をエスケープして表示された表](/assets/images/2021/10/help/writing/table-escaped-character-rendered.png)
 
 ## 参考リンク
 

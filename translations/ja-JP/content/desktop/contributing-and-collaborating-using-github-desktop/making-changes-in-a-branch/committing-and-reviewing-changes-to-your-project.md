@@ -19,7 +19,7 @@ shortTitle: Commit & review changes
 
 1. [新規ブランチを作成する](/desktop/guides/contributing-to-projects/managing-branches)か、ツールバーにある{% octicon "git-branch" aria-label="The branch icon" %}**Current Branch**をクリックし、既存ブランチをリストから選択します。
 
-  ![現在のブランチを切り替えるドロップダウンメニュー](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![現在のブランチを切り替えるドロップダウンメニュー](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.make-changes %}
 
 ## Choosing how to display diffs
@@ -30,13 +30,13 @@ To change how you view diffs, in the top-right corner of the diff view, click {%
 - To change how the entire diff is displayed, under "Diff display", select  **Unified** or **Split**. The Unified view shows changes linearly, while the Split view shows old content on the left side and new content on the right side.
 - To hide whitespace changes so you can focus on more substantive changes, select **Hide Whitespace Changes**.
 
-![Diff option menu](/assets/images/help/desktop/diff-selection.png)
+![Diff option menu](/assets/images/2021/10/help/desktop/diff-selection.png)
 
 If you need to see more of the file than {% data variables.product.prodname_desktop %} shows by default, you can expand the diff.
 - To see the next few lines above or below the highlighted changes, click the arrow above or below the line numbers.
 - To see the entire file, right-click in the diff view and click **Expand Whole File**.
 
-![Expand diff view](/assets/images/help/desktop/expand-diff-view.png)
+![Expand diff view](/assets/images/2021/10/help/desktop/expand-diff-view.png)
 
 ## コミットに含める変更の選択方法
 
@@ -47,13 +47,13 @@ If you need to see more of the file than {% data variables.product.prodname_desk
 * 緑の{% octicon "diff-added" aria-label="The diff added icon color-green" %}アイコンは、追加されたファイルを表します。
 * stash した変更にアクセスするには、[**Stashed Changes**] をクリックします。
 
-  ![[Stash changes] オプション](/assets/images/help/desktop/stashed-changes.png)
+  ![[Stash changes] オプション](/assets/images/2021/10/help/desktop/stashed-changes.png)
 * {% data reusables.desktop.commit-all-desc %}
 
-  ![チェックボックスを選択して、変更されたすべてのファイルをコミットします](/assets/images/help/desktop/commit-all.png)
+  ![チェックボックスを選択して、変更されたすべてのファイルをコミットします](/assets/images/2021/10/help/desktop/commit-all.png)
 * {% data reusables.desktop.commit-some-desc %}
 
-  ![コミットするファイルの横のチェックボックスを選択します](/assets/images/help/desktop/commit-some.png)
+  ![コミットするファイルの横のチェックボックスを選択します](/assets/images/2021/10/help/desktop/commit-some.png)
 
 ### 部分的なコミットの作成方法
 
@@ -61,7 +61,7 @@ If you need to see more of the file than {% data variables.product.prodname_desk
 
 変更した行をコミットから除外するには、変更した行を複数クリックして、青色が消えるようにします。 青色で強調表示されている行は、コミットに含まれます。
 
-  ![ファイルで選択解除された行](/assets/images/help/desktop/partial-commit.png)
+  ![ファイルで選択解除された行](/assets/images/2021/10/help/desktop/partial-commit.png)
 
 ## 変更の廃棄
 保持する必要がない未コミットの変更がある場合は、変更を破棄できます。 これにより、コンピュータ上のファイルから変更が削除されます。 複数のファイル内の未コミットの変更をすべて破棄することも、追加した特定の行を破棄することもできます。
@@ -73,10 +73,10 @@ If you need to see more of the file than {% data variables.product.prodname_desk
 {% data reusables.desktop.select-discard-files %}
 {% data reusables.desktop.click-discard-files %}
 
-  ![コンテキストメニュー内の [Discard Changes] オプション](/assets/images/help/desktop/discard-changes-mac.png)
+  ![コンテキストメニュー内の [Discard Changes] オプション](/assets/images/2021/10/help/desktop/discard-changes-mac.png)
 {% data reusables.desktop.confirm-discard-files %}
 
-  ![確定ダイアログ内の [Discard Changes] ボタン](/assets/images/help/desktop/discard-changes-confirm-mac.png)
+  ![確定ダイアログ内の [Discard Changes] ボタン](/assets/images/2021/10/help/desktop/discard-changes-confirm-mac.png)
 
 ### 複数の行の変更を破棄する
 未コミットの変更した複数の行を破棄できます。
@@ -89,11 +89,11 @@ If you need to see more of the file than {% data variables.product.prodname_desk
 
 追加した単一行を破棄するには、変更した行のリストで、破棄する行を右クリックし、[**Discard added line**] を選択します。
 
-  ![確認ダイアログ内の [Discard single line]](/assets/images/help/desktop/discard-single-line.png)
+  ![確認ダイアログ内の [Discard single line]](/assets/images/2021/10/help/desktop/discard-single-line.png)
 
 変更した行のグループを破棄するには、破棄する行の行番号の右側にある垂直バーを右クリックして、[**Discard added lines**] を選択します。
 
-  ![確認ダイアログ内の [Discard a group of added lines]](/assets/images/help/desktop/discard-multiple-lines.png)
+  ![確認ダイアログ内の [Discard a group of added lines]](/assets/images/2021/10/help/desktop/discard-multiple-lines.png)
 
 
 ## コミットメッセージの入力と変更のプッシュ
@@ -108,18 +108,18 @@ If you need to see more of the file than {% data variables.product.prodname_desk
 
 {% data reusables.desktop.commit-message %}
 
-  ![Commit messageフィールド](/assets/images/help/desktop/commit-message.png)
+  ![Commit messageフィールド](/assets/images/2021/10/help/desktop/commit-message.png)
 1. オプションとして、コミットに別の作者を追加するには、共同作業者を追加するアイコンをクリックし、追加するユーザ名を入力します。
 
-  ![コミットメッセージに共作者を追加](/assets/images/help/desktop/add-co-author-commit.png)
+  ![コミットメッセージに共作者を追加](/assets/images/2021/10/help/desktop/add-co-author-commit.png)
 {% data reusables.desktop.commit-button %}
 
-  ![[Commit] ボタン](/assets/images/help/desktop/commit-button.png)
+  ![[Commit] ボタン](/assets/images/2021/10/help/desktop/commit-button.png)
 4. コミットしようとしているブランチが保護されている場合、Desktopは警告します。
     - 変更を移動するには、**switch branches（ブランチを切り替え）**をクリックしてください。
     - 保護されたブランチに変更をコミットするには、**Commit to _BRANCH_（ブランチにコミット）**をクリックしてください。
 
   保護されたブランチに関する詳しい情報については「[保護されたブランチについて](/github/administering-a-repository/about-protected-branches)」を参照してください。
 
-  ![保護されたブランチの警告](/assets/images/help/desktop/protected-branch-warning.png)
+  ![保護されたブランチの警告](/assets/images/2021/10/help/desktop/protected-branch-warning.png)
 {% data reusables.desktop.push-origin %}

@@ -20,9 +20,9 @@ You can authorize an existing personal access token, or [create a new personal a
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.personal_access_tokens %}
 3. Next to the token you'd like to authorize, click **Configure SSO**.
-   ![Screenshot of the dropdown menu to configure SSO for a personal access token](/assets/images/help/settings/sso-allowlist-button.png)
+   ![Screenshot of the dropdown menu to configure SSO for a personal access token](/assets/images/2021/10/help/settings/sso-allowlist-button.png)
 4. To the right of the organization you'd like to authorize the token for, click **Authorize**.
-   ![Token authorize button](/assets/images/help/settings/token-authorize-button.png)
+   ![Token authorize button](/assets/images/2021/10/help/settings/token-authorize-button.png)
 
 ## Further reading
 

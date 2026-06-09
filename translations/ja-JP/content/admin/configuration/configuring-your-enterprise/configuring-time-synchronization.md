@@ -24,9 +24,9 @@ shortTitle: Configure time settings
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. 左のサイドバーで**Time（時間）**をクリックしてください。 ![{% data variables.enterprise.management_console %} サイドバーでの [Time] ボタン](/assets/images/enterprise/management-console/sidebar-time.png)
-3. "Primary NTP server（プライマリのNTPサーバ）"の下で、プライマリNTPサーバのホスト名を入力してください。 "Secondary NTP server（セカンダリのNTPサーバ）"の下で、セカンダリのNTPサーバのホスト名を入力してください。 ![{% data variables.enterprise.management_console %} でのプライマリとセカンダリの NTP サーバーのためのフィールド](/assets/images/enterprise/management-console/ntp-servers.png)
-4. ページの下部で **Save settings（設定の保存）**をクリックしてください。 ![{% data variables.enterprise.management_console %} での [Save settings] ボタン](/assets/images/enterprise/management-console/save-settings.png)
+2. 左のサイドバーで**Time（時間）**をクリックしてください。 ![{% data variables.enterprise.management_console %} サイドバーでの [Time] ボタン](/assets/images/2021/10/enterprise/management-console/sidebar-time.png)
+3. "Primary NTP server（プライマリのNTPサーバ）"の下で、プライマリNTPサーバのホスト名を入力してください。 "Secondary NTP server（セカンダリのNTPサーバ）"の下で、セカンダリのNTPサーバのホスト名を入力してください。 ![{% data variables.enterprise.management_console %} でのプライマリとセカンダリの NTP サーバーのためのフィールド](/assets/images/2021/10/enterprise/management-console/ntp-servers.png)
+4. ページの下部で **Save settings（設定の保存）**をクリックしてください。 ![{% data variables.enterprise.management_console %} での [Save settings] ボタン](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 5. 設定が完了するのを待ってください。
 
 ## 大きな時間の乱れの修正

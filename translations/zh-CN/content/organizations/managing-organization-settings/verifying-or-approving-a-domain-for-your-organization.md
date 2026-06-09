@@ -61,7 +61,7 @@ shortTitle: 验证或批准域
    ```
 1. 确认您的 TXT 记录已添加到 DNS 后，请按照上述步骤一至三导航到组织批准和验证的域。
 {% data reusables.organizations.continue-verifying-domain %}
-11. （可选）组织的资料页面中显示“Verified（已验证）”徽章后，您可以从域托管服务的 DNS 记录中删除 TXT 条目。 ![已验证徽章](/assets/images/help/organizations/verified-badge.png)
+11. （可选）组织的资料页面中显示“Verified（已验证）”徽章后，您可以从域托管服务的 DNS 记录中删除 TXT 条目。 ![已验证徽章](/assets/images/2021/10/help/organizations/verified-badge.png)
 
 ## Approving a domain for your organization
 
@@ -84,4 +84,4 @@ shortTitle: 验证或批准域
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.verified-domains %}
-1. 在要删除的域的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 ** Delete（删除）**。 ![域的"删除"](/assets/images/help/organizations/domains-delete.png)
+1. 在要删除的域的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 ** Delete（删除）**。 ![域的"删除"](/assets/images/2021/10/help/organizations/domains-delete.png)

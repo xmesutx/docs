@@ -2,4 +2,4 @@ Ao clicar na opção-padrão **Fazer merge de pull request** em um pull request 
 
 Para fazer merge de pull requests, você precisa ter [permissões de gravação](/articles/repository-permission-levels-for-an-organization/) no repositório.
 
-![standard-merge-commit-diagram](/assets/images/help/pull_requests/standard-merge-commit-diagram.png)
+![standard-merge-commit-diagram](/assets/images/2021/10/help/pull_requests/standard-merge-commit-diagram.png)

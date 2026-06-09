@@ -1,1 +1,1 @@
-1. Under "Notification preferences", select **Restrict email notifications to only approved or verified domains**. ![将电子邮件通知限制为经验证域电子邮件的复选框](/assets/images/help/enterprises/restrict-email-notifications-to-domain-enterprise.png)
+1. Under "Notification preferences", select **Restrict email notifications to only approved or verified domains**. ![将电子邮件通知限制为经验证域电子邮件的复选框](/assets/images/2021/10/help/enterprises/restrict-email-notifications-to-domain-enterprise.png)

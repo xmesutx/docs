@@ -44,7 +44,7 @@ Un flujo de trabajo típico para actualizar un archivo utilizando {% data variab
 Puedes extraer cambios del repositorio remoto hacia tu codespace en cualquier momento.
 
 {% data reusables.codespaces.source-control-display-dark %}
-1. En la parte superior de la barra lateral, haz clic en los puntos suspensivos (**...**). ![Botón de puntos suspensivos para las acciones de "más" y "ver"](/assets/images/help/codespaces/source-control-ellipsis-button.png)
+1. En la parte superior de la barra lateral, haz clic en los puntos suspensivos (**...**). ![Botón de puntos suspensivos para las acciones de "más" y "ver"](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button.png)
 1. En el menú desplegable, haz clic en **Extraer**.
 
 Si el la configuración del contenedor dev cambió desde que creaste el codespace, puedes aplicar los cambios si recompilas el contenedor para el codespace. Para obtener más información, consulta la sección "[Introducción a los contenedores dev](/codespaces/setting-up-your-codespace/configuring-codespaces-for-your-project#applying-changes-to-your-configuration)".
@@ -55,10 +55,10 @@ Puedes configurar tu codespace para que recupere automáticamente los detalles d
 
 Si la operación de búsqueda detecta cambios nuevos en el repositorio remoto, verás la cantidad de confirmaciones nuevas en la barra de estado. Luego podrás extraer los cambios en tu copia local.
 
-1. Haz clic en el botón de **Administrar** en la parte inferior de la barra de actividad. ![Botón de administrar](/assets/images/help/codespaces/manage-button.png)
+1. Haz clic en el botón de **Administrar** en la parte inferior de la barra de actividad. ![Botón de administrar](/assets/images/2021/10/help/codespaces/manage-button.png)
 1. En el menú, haz clic en **Ajustes**.
-1. En la página de ajustes, busca: `autofetch`. ![Buscar la recuperación automática](/assets/images/help/codespaces/autofetch-search.png)
-1. Para recuperar los detalles de las actualizaciones para todos los remotos registrados para el repositorio actual, configura **Git: Autofetch** en `all`. ![Habilitar la recuperación automática en Git](/assets/images/help/codespaces/autofetch-all.png)
+1. En la página de ajustes, busca: `autofetch`. ![Buscar la recuperación automática](/assets/images/2021/10/help/codespaces/autofetch-search.png)
+1. Para recuperar los detalles de las actualizaciones para todos los remotos registrados para el repositorio actual, configura **Git: Autofetch** en `all`. ![Habilitar la recuperación automática en Git](/assets/images/2021/10/help/codespaces/autofetch-all.png)
 1. Si quieres cambiar la cantidad de segundos entre cada recuperación automática, edita el valor de **Git: Autofetch Period**.
 
 ## Configramr tus cambios
@@ -73,5 +73,5 @@ Si la operación de búsqueda detecta cambios nuevos en el repositorio remoto, v
 
 Puedes subir los cambios que has hecho. Esto aplica a aquellos de la rama ascendente en el repositorio remoto. Puede que necesites hacer eso si aún no estás listo para crear una solicitud de cambios o si prefieres crearla en {% data variables.product.prodname_dotcom %}.
 
-1. En la parte superior de la barra lateral, haz clic en los puntos suspensivos (**...**). ![Botón de puntos suspensivos para las acciones de "más" y "ver"](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+1. En la parte superior de la barra lateral, haz clic en los puntos suspensivos (**...**). ![Botón de puntos suspensivos para las acciones de "más" y "ver"](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. En el menú desplegable, haz clic en **Subir**.

@@ -45,7 +45,7 @@ For example, you can use `https://github.com/sponsors/{account}?metadata_campaig
 ## スポンサーとスポンサーシップを表示する
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
-1. あるいは、スポンサーを層によってフィルタリングするには、**Filter（フィルター）**ドロップダウンメニューで、**Active tiers（アクティブな層）**または**Retired tiers（リタイアした層）**をクリックしてから、層を選択します。 ![層によってフィルタリングするドロップダウンメニュー](/assets/images/help/sponsors/filter-drop-down.png)
+1. あるいは、スポンサーを層によってフィルタリングするには、**Filter（フィルター）**ドロップダウンメニューで、**Active tiers（アクティブな層）**または**Retired tiers（リタイアした層）**をクリックしてから、層を選択します。 ![層によってフィルタリングするドロップダウンメニュー](/assets/images/2021/10/help/sponsors/filter-drop-down.png)
 
 ## 最近のスポンサーシップアクティビティを表示する
 
@@ -58,5 +58,5 @@ For example, you can use `https://github.com/sponsors/{account}?metadata_campaig
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 {% data reusables.sponsors.activity-tab %}
-1. {% octicon "download" aria-label="The download icon" %}[**Export**] をクリックします。 ![エクスポートボタン](/assets/images/help/sponsors/export-all.png)
-1. エクスポートしたいデータの時間枠と形式を選択し、[**Start export**] をクリックします。 ![データエクスポートのオプション](/assets/images/help/sponsors/export-your-sponsors.png)
+1. {% octicon "download" aria-label="The download icon" %}[**Export**] をクリックします。 ![エクスポートボタン](/assets/images/2021/10/help/sponsors/export-all.png)
+1. エクスポートしたいデータの時間枠と形式を選択し、[**Start export**] をクリックします。 ![データエクスポートのオプション](/assets/images/2021/10/help/sponsors/export-your-sponsors.png)

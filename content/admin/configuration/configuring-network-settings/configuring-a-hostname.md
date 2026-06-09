@@ -24,9 +24,9 @@ The hostname setting in the {% data variables.enterprise.management_console %} s
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.hostname-menu-item %}
 4. Type the hostname you'd like to set for {% data variables.product.product_location %}.
-  ![Field for setting a hostname](/assets/images/enterprise/management-console/hostname-field.png)
+  ![Field for setting a hostname](/assets/images/2021/10/enterprise/management-console/hostname-field.png)
 5. To test the DNS and SSL settings for the new hostname, click **Test domain settings**.
-  ![Test domain settings button](/assets/images/enterprise/management-console/test-domain-settings.png)
+  ![Test domain settings button](/assets/images/2021/10/enterprise/management-console/test-domain-settings.png)
 {% data reusables.enterprise_management_console.test-domain-settings-failure %}
 {% data reusables.enterprise_management_console.save-settings %}
 

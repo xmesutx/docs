@@ -37,7 +37,7 @@ shortTitle: Configure 2FA recovery
 4. リカバリコードを安全な場所に保存します。 リカバリコードは、アカウントにアクセスできなくなった場合に、再びアクセスするために役立ちます。
     - リカバリコードをデバイスに保存するには、[**Download**] をクリックします。
     - リカバリコードのハードコピーを保存するには、[**Print**] をクリックします。
-    - パスワードマネージャーに保存するためにリカバリコードをコピーするには [**Copy**] をクリックします。 ![コードのダウンロード、印刷、コピーのオプションがある、リカバリコードのリスト](/assets/images/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
+    - パスワードマネージャーに保存するためにリカバリコードをコピーするには [**Copy**] をクリックします。 ![コードのダウンロード、印刷、コピーのオプションがある、リカバリコードのリスト](/assets/images/2021/10/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
 
 ## リカバリコードのセットを新しく生成する
 
@@ -46,7 +46,7 @@ shortTitle: Configure 2FA recovery
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 {% data reusables.two_fa.show-recovery-codes %}
-3. リカバリコードのセットを新しく作成するには、[**Generate new recovery codes**] をクリックします。 ![[Generate new recovery codes] ボタン](/assets/images/help/2fa/generate-new-recovery-codes.png)
+3. リカバリコードのセットを新しく作成するには、[**Generate new recovery codes**] をクリックします。 ![[Generate new recovery codes] ボタン](/assets/images/2021/10/help/2fa/generate-new-recovery-codes.png)
 
 ## セキュリティキーを追加の 2 要素認証方式として設定する
 
@@ -70,9 +70,9 @@ shortTitle: Configure 2FA recovery
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. [Fallback SMS number] の隣にある [**Add**] をクリックします。 ![[Add fallback SMS number] ボタン](/assets/images/help/2fa/add-fallback-sms-number-button.png)
-4. [Fallback SMS number] の下にある [**Add fallback SMS number**] をクリックします。 ![[Add fallback SMS number] テキスト](/assets/images/help/2fa/add_fallback_sms_number_text.png)
-5. 国コードを選択し、携帯電話番号を入力します。 入力した情報が正しいことを確認してから、[**Set fallback**] をクリックします。 ![フォールバック SMS 番号の設定](/assets/images/help/2fa/2fa-fallback-number.png)
+3. [Fallback SMS number] の隣にある [**Add**] をクリックします。 ![[Add fallback SMS number] ボタン](/assets/images/2021/10/help/2fa/add-fallback-sms-number-button.png)
+4. [Fallback SMS number] の下にある [**Add fallback SMS number**] をクリックします。 ![[Add fallback SMS number] テキスト](/assets/images/2021/10/help/2fa/add_fallback_sms_number_text.png)
+5. 国コードを選択し、携帯電話番号を入力します。 入力した情報が正しいことを確認してから、[**Set fallback**] をクリックします。 ![フォールバック SMS 番号の設定](/assets/images/2021/10/help/2fa/2fa-fallback-number.png)
 
 設定後、バックアップデバイスが確認の SMS を受信します。
 

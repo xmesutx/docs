@@ -17,7 +17,7 @@ shortTitle: 始めましょう - GitデータベースAPI
 
 Git Database API関数は、Gitリポジトリが空または利用できない場合、`409 Conflict`を返します。  リポジトリが利用できないということは、通常、{% data variables.product.product_name %}がリポジトリを作成処理中であるということです。 空のリポジトリの場合は、「[ファイルコンテンツの作成または更新](/rest/reference/repos#create-or-update-file-contents)」エンドポイントを使用してコンテンツを作成し、リポジトリを初期化してGit Database APIを使用できるようにすることができます。 このレスポンスステータスが継続している場合は、{% data variables.contact.contact_support %}までご連絡ください。
 
-![Gitデータベースの概要](/assets/images/git-database-overview.png)
+![Gitデータベースの概要](/assets/images/2021/10/git-database-overview.png)
 
 Gitオブジェクトデータベースについての詳細は、Pro Gitブックの[Gitの内側](http://git-scm.com/book/en/v1/Git-Internals)の章を参照してください。
 

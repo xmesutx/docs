@@ -28,7 +28,7 @@ miniTocMaxHeadingLevel: 3
 
 すべてのワークフローの実行は、実行の進行を示すリアルタイムのグラフを生成します。 このグラフを使って、ワークフローをモニタリング及びデバッグできます。 例:
 
-   ![ワークフローグラフ](/assets/images/help/images/workflow-graph.png)
+   ![ワークフローグラフ](/assets/images/2021/10/help/images/workflow-graph.png)
 
 For more information, see "[Using the visualization graph](/actions/monitoring-and-troubleshooting-workflows/using-the-visualization-graph)."
 
@@ -45,7 +45,7 @@ For more information, see "[Adding a workflow status badge](/actions/monitoring-
 
 To identify how long a job took to run, you can view its execution time. 例:
 
-   ![実行および支払請求可能な時間の詳細リンク](/assets/images/help/repository/view-run-billable-time.png)
+   ![実行および支払請求可能な時間の詳細リンク](/assets/images/2021/10/help/repository/view-run-billable-time.png)
 
 詳しい情報については、「[ジョブの実行時間を表示する](/actions/monitoring-and-troubleshooting-workflows/viewing-job-execution-time)」を参照してください。
 {% endif %}
@@ -54,7 +54,7 @@ To identify how long a job took to run, you can view its execution time. 例:
 
 You can view the status of each job and step in a workflow. 例:
 
-   ![ワークフローの実行の名前](/assets/images/help/repository/run-name.png)
+   ![ワークフローの実行の名前](/assets/images/2021/10/help/repository/run-name.png)
 
 詳しい情報については、「[ワークフロー実行の履歴を表示する](/actions/monitoring-and-troubleshooting-workflows/viewing-workflow-run-history)」を参照してください。
 
@@ -64,7 +64,7 @@ You can view the status of each job and step in a workflow. 例:
 
 Each workflow run generates activity logs that you can view, search, and download. 例:
 
-   ![Super linterワークフローの結果](/assets/images/help/repository/super-linter-workflow-results-updated-2.png)
+   ![Super linterワークフローの結果](/assets/images/2021/10/help/repository/super-linter-workflow-results-updated-2.png)
 
 詳しい情報については、「[ワークフロー実行ログを使用する](/actions/monitoring-and-troubleshooting-workflows/using-workflow-run-logs)」を参照してください。
 

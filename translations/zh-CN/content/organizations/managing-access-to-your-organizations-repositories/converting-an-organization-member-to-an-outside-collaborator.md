@@ -35,9 +35,9 @@ shortTitle: 将成员转换为协作者
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. 选择要转换为外部协作者的人员。 ![选择了两名成员的成员列表](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. 在成员列表的上方，使用下拉菜单并单击 **Convert to outside collaborator（转换为外部协作者）**。 ![含有将成员转换为外部协作者选项的下拉菜单](/assets/images/help/teams/user-bulk-management-options.png)
-6. 阅读有关将成员转换为外部协作者的信息，然后单击 **Convert to outside collaborator（转换为外部协作者）**。 ![有关外部协作者权限的信息和转换为外部协作者按钮](/assets/images/help/teams/confirm-outside-collaborator-bulk.png)
+4. 选择要转换为外部协作者的人员。 ![选择了两名成员的成员列表](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. 在成员列表的上方，使用下拉菜单并单击 **Convert to outside collaborator（转换为外部协作者）**。 ![含有将成员转换为外部协作者选项的下拉菜单](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. 阅读有关将成员转换为外部协作者的信息，然后单击 **Convert to outside collaborator（转换为外部协作者）**。 ![有关外部协作者权限的信息和转换为外部协作者按钮](/assets/images/2021/10/help/teams/confirm-outside-collaborator-bulk.png)
 
 ## 延伸阅读
 

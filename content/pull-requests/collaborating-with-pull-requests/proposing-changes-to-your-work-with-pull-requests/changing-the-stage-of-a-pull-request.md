@@ -32,7 +32,7 @@ shortTitle: Change the state
 {% data reusables.repositories.sidebar-pr %}
 2. In the "Pull requests" list, click the pull request you'd like to mark as ready for review.
 3. In the merge box, click **Ready for review**.
-  ![Ready for review button](/assets/images/help/pull_requests/ready-for-review-button.png)
+  ![Ready for review button](/assets/images/2021/10/help/pull_requests/ready-for-review-button.png)
 
 {% ifversion fpt or ghae or ghes or ghec %}
 
@@ -43,9 +43,9 @@ You can convert a pull request to a draft at any time. For example, if you accid
 {% data reusables.repositories.sidebar-pr %}
 2. In the "Pull requests" list, click the pull request you'd like to convert to a draft.
 3. In the right sidebar, under "Reviewers," click **Convert to draft**.
-  ![Convert to draft link](/assets/images/help/pull_requests/convert-to-draft-link.png)
+  ![Convert to draft link](/assets/images/2021/10/help/pull_requests/convert-to-draft-link.png)
 4. Click **Convert to draft**.
-  ![Convert to draft confirmation](/assets/images/help/pull_requests/convert-to-draft-dialog.png)
+  ![Convert to draft confirmation](/assets/images/2021/10/help/pull_requests/convert-to-draft-dialog.png)
 
 {% endif %}
 

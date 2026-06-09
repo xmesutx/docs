@@ -60,7 +60,7 @@ versions:
 您可以跨所有组织和仓库查找并查看您发布的任何包。
 
 {% data reusables.profile.access_profile %}
-2. 在个人资料页面顶部的主导航栏中，单击 **Packages（包）**。 ![项目选项卡](/assets/images/help/package-registry/user-packages-tab.png)
+2. 在个人资料页面顶部的主导航栏中，单击 **Packages（包）**。 ![项目选项卡](/assets/images/2021/10/help/package-registry/user-packages-tab.png)
 {% data reusables.package_registry.navigate-to-packages %}
 
 ## 延伸阅读

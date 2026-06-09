@@ -45,9 +45,9 @@ No puedes crear un archivo de licencia predeterminado. Los archivos de licencia 
 ## Crear un repositorio para archivos predeterminados
 
 {% data reusables.repositories.create_new %}
-2. Utiliza el menú desplegable en **Propietario**, y selecciona la organización{% ifversion fpt or ghes or ghec %} o cuenta de usuario{% endif %} para la cual quieres crear los archivos predeterminados. ![Menú desplegable Propietario](/assets/images/help/repository/create-repository-owner.png)
-3. Escribe **.github** como nombre para tu repositorio y escribe una descripción opcional. ![Crear un campo de repositorio](/assets/images/help/repository/default-file-repository-name.png)
-4. Asegúrate de que el estado del repositorio se encuentre configurado en **Público** (los repositorios para los archivos predeterminados no pueden ser privados). ![Botones de selección para seleccionar el estado público o privado](/assets/images/help/repository/create-repository-public-private.png)
+2. Utiliza el menú desplegable en **Propietario**, y selecciona la organización{% ifversion fpt or ghes or ghec %} o cuenta de usuario{% endif %} para la cual quieres crear los archivos predeterminados. ![Menú desplegable Propietario](/assets/images/2021/10/help/repository/create-repository-owner.png)
+3. Escribe **.github** como nombre para tu repositorio y escribe una descripción opcional. ![Crear un campo de repositorio](/assets/images/2021/10/help/repository/default-file-repository-name.png)
+4. Asegúrate de que el estado del repositorio se encuentre configurado en **Público** (los repositorios para los archivos predeterminados no pueden ser privados). ![Botones de selección para seleccionar el estado público o privado](/assets/images/2021/10/help/repository/create-repository-public-private.png)
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
 7. En el repositorio, crea uno de los archivos admitidos de estado de la comunidad. Las plantillas de reporte de problemas{% ifversion fpt or ghes or ghec %} y su archivo de configuración{% endif %} deben estar en una carpeta llamada `.github/ISSUE_TEMPLATE`. El resto de los archivos compatibles podrían estar en la raíz del repositorio, en la carpeta de `.github` o en la de `docs`. Para obtener más información, consulta "[Crear nuevos archivos](/articles/creating-new-files/)."

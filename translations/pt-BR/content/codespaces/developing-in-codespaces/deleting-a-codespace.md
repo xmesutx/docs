@@ -33,7 +33,7 @@ shortTitle: Excluir um codespace
 
 2. À direita do código que você deseja excluir, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, depois em **{% octicon "trash" aria-label="The trash icon" %} Apagar**
 
-   ![Botão excluir](/assets/images/help/codespaces/delete-codespace.png)
+   ![Botão excluir](/assets/images/2021/10/help/codespaces/delete-codespace.png)
 
 {% endwebui %}
 

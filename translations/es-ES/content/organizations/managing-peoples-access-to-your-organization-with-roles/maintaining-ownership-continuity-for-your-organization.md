@@ -40,6 +40,6 @@ If your organization is owned by an enterprise account, any enterprise owner can
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Selecciona la persona o las personas que quisieras promover a propietario. ![Lista de miembros con dos miembros seleccionados](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. Arriba de la lista de miembros, usa el menú desplegable y haz clic en **Change role...** (Cambiar rol). ![Menú desplegable con la opción para eliminar miembros](/assets/images/help/teams/user-bulk-management-options.png)
-6. Selecciona un nuevo rol para la persona o las personas, luego haz clic en **Change role** (Cambiar rol). ![Botones de opción con roles de propietario y miembros y botón Change role (Cambiar rol)](/assets/images/help/teams/select-and-confirm-new-role-bulk.png)
+4. Selecciona la persona o las personas que quisieras promover a propietario. ![Lista de miembros con dos miembros seleccionados](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. Arriba de la lista de miembros, usa el menú desplegable y haz clic en **Change role...** (Cambiar rol). ![Menú desplegable con la opción para eliminar miembros](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. Selecciona un nuevo rol para la persona o las personas, luego haz clic en **Change role** (Cambiar rol). ![Botones de opción con roles de propietario y miembros y botón Change role (Cambiar rol)](/assets/images/2021/10/help/teams/select-and-confirm-new-role-bulk.png)

@@ -17,9 +17,9 @@ shortTitle: View people with access
 
 Administrators can use this information to help off-board people, gather data for compliance, and other general security checkups.
 {% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-5974 %}
-![Access management overview](/assets/images/help/repository/manage-access-overview.png)
+![Access management overview](/assets/images/2021/10/help/repository/manage-access-overview.png)
 {% else %}
-![Repository people permissions list](/assets/images/help/repository/repository-permissions-list.png)
+![Repository people permissions list](/assets/images/2021/10/help/repository/repository-permissions-list.png)
 {% endif %}
 ## Viewing people with access to your repository
 
@@ -38,4 +38,4 @@ Owners of organizations on {% data variables.product.prodname_ghe_cloud %} or {%
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.accessing-repository-people %}
 4. Click **Export CSV**.
-  ![People tab in the repository sidebar](/assets/images/help/repository/export-repository-permissions.png)
+  ![People tab in the repository sidebar](/assets/images/2021/10/help/repository/export-repository-permissions.png)

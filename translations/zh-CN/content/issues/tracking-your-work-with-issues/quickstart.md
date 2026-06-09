@@ -31,7 +31,7 @@ topics:
 {% data reusables.repositories.new_issue %}
 1. 在此示例中，我们将从空白议题开始。 您的仓库可能使用议题模板{% ifversion fpt or ghec %} 和议题表单{% endif %} 来鼓励贡献者提供具体信息。 如果您的仓库使用议题模板，请 {% ifversion fpt or ghes or ghec %}单击**打开空白议题**{% else %}单击**打开常规议题**{% endif %}。
 
-![空白议题](/assets/images/help/issues/blank-issue.png)
+![空白议题](/assets/images/2021/10/help/issues/blank-issue.png)
 
 ## 填写信息
 
@@ -41,13 +41,13 @@ topics:
 
 您可以使用 Markdown 添加格式、链接、表情等内容。 更多信息请参阅“[在 GitHub 上编写](/github/writing-on-github)”。
 
-![议题标题和正文](/assets/images/help/issues/issue-title-body.png)
+![议题标题和正文](/assets/images/2021/10/help/issues/issue-title-body.png)
 
 ## 添加任务列表
 
 将大问题分解为较小的任务，或在单个较大的问题中跟踪多个相关问题，可能会有所帮助。 使用 `[ ]` 预置列表项，将任务列表项添加到议题。 按议题编号或 URL 引用现有议题。 您可以使用纯文本来跟踪没有相应议题的任务，并在以后将其转换为议题。 更多信息请参阅“[关于任务列表](/issues/tracking-your-work-with-issues/about-task-lists)”。
 
-![带任务列表的议题](/assets/images/help/issues/issue-task-list-raw.png)
+![带任务列表的议题](/assets/images/2021/10/help/issues/issue-task-list-raw.png)
 
 ## 添加标签
 
@@ -55,25 +55,25 @@ topics:
 
 您可以使用默认标签，也可以创建新标签。 更多信息请参阅“[管理标签](/issues/using-labels-and-milestones-to-track-work/managing-labels)”。
 
-![带标签的议题](/assets/images/help/issues/issue-with-label.png)
+![带标签的议题](/assets/images/2021/10/help/issues/issue-with-label.png)
 
 ## 添加里程碑
 
 您可以添加里程碑来跟踪议题，作为基于日期的目标的一部分。 随着目标日期的临近，里程碑将显示议题的进展。 更多信息请参阅“[关于里程碑](/issues/using-labels-and-milestones-to-track-work/about-milestones)”。
 
-![有里程碑的议题](/assets/images/help/issues/issue-milestone.png)
+![有里程碑的议题](/assets/images/2021/10/help/issues/issue-milestone.png)
 
 ## 分配议题
 
 要传达责任，您可以将议题分配给您的组织成员。 更多信息请参阅“[分配议题和拉取请求到其他 GitHub 用户](/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)”。
 
-![有受理人的议题](/assets/images/help/issues/issue-assignees.png)
+![有受理人的议题](/assets/images/2021/10/help/issues/issue-assignees.png)
 
 ## 添加议题到项目
 
 您可以将议题添加到现有项目。 {% ifversion fpt or ghec %}如果您使用的是项目（测试版），也可以填充项目的元数据。 {% endif %} 有关项目的更多信息，请参阅 {% ifversion fpt or ghec %}“[关于项目（测试版）](/issues/trying-out-the-new-projects-experience/about-projects)”和{% endif %}“[组织对项目板的使用](/issues/organizing-your-work-with-project-boards)”。
 
-![有项目的议题](/assets/images/help/issues/issue-project.png)
+![有项目的议题](/assets/images/2021/10/help/issues/issue-project.png)
 
 ## 提交议题
 
@@ -83,7 +83,7 @@ topics:
 
 创建议题后，通过向议题添加评论来继续对话。 您可以@提及协作者或团队以提请他们注意评论。 要将相关议题链接到同一仓库，您可以键入 `#`，后接议题标题的一部分，然后点击要链接的议题。 更多信息请参阅“[在 GitHub 上编写](/github/writing-on-github)”。
 
-![议题评论](/assets/images/help/issues/issue-comment.png)
+![议题评论](/assets/images/2021/10/help/issues/issue-comment.png)
 
 ## 后续步骤
 

@@ -36,17 +36,17 @@ You can check how many seats your license includes and how many of them are curr
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
    The "{% data variables.product.prodname_GH_advanced_security %}" section shows details of the current usage.
-  ![{% data variables.product.prodname_GH_advanced_security %} in enterprise licensing settings](/assets/images/help/enterprises/enterprise-licensing-tab-ghas.png)
+  ![{% data variables.product.prodname_GH_advanced_security %} in enterprise licensing settings](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab-ghas.png)
   If you run out of seats, the section will be red and show "Limit exceeded." You should either reduce your use of {% data variables.product.prodname_GH_advanced_security %} or purchase more seats. For more information, see "[About billing for {% data variables.product.prodname_GH_advanced_security %}](/billing/managing-billing-for-github-advanced-security/about-billing-for-github-advanced-security#getting-the-most-out-of-github-advanced-security)."
-  ![{% data variables.product.prodname_GH_advanced_security %} in enterprise licensing settings showing "Limit exceeded"](/assets/images/help/enterprises/enterprise-licensing-tab-ghas-no-seats.png)
+  ![{% data variables.product.prodname_GH_advanced_security %} in enterprise licensing settings showing "Limit exceeded"](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab-ghas-no-seats.png)
 4. Optionally, to see a detailed breakdown of usage per organization, in the left sidebar, click **Billing**.
-  ![Billing tab in the enterprise account settings sidebar](/assets/images/help/business-accounts/settings-billing-tab.png)
+  ![Billing tab in the enterprise account settings sidebar](/assets/images/2021/10/help/business-accounts/settings-billing-tab.png)
   In the "{% data variables.product.prodname_GH_advanced_security %}" section you can see the number of committers and unique committers for each organization.
-  ![{% data variables.product.prodname_GH_advanced_security %} in enterprise billing settings](/assets/images/help/billing/ghas-orgs-list-enterprise-dotcom.png)
+  ![{% data variables.product.prodname_GH_advanced_security %} in enterprise billing settings](/assets/images/2021/10/help/billing/ghas-orgs-list-enterprise-dotcom.png)
 5. Optionally, click the name of an organization where you are an owner to display the security and analysis settings for the organization.
-  ![Owned organization in {% data variables.product.prodname_GH_advanced_security %} section of enterprise billing settings](/assets/images/help/billing/ghas-orgs-list-enterprise-click-org.png)
+  ![Owned organization in {% data variables.product.prodname_GH_advanced_security %} section of enterprise billing settings](/assets/images/2021/10/help/billing/ghas-orgs-list-enterprise-click-org.png)
 6. On the "Security & analysis" settings page, scroll to the "{% data variables.product.prodname_GH_advanced_security %} repositories" section to see a detailed breakdown of usage by repository for this organization.
-  ![{% data variables.product.prodname_GH_advanced_security %} repositories section](/assets/images/help/enterprises/settings-security-analysis-ghas-repos-list.png)
+  ![{% data variables.product.prodname_GH_advanced_security %} repositories section](/assets/images/2021/10/help/enterprises/settings-security-analysis-ghas-repos-list.png)
   For more information, see "[Managing security and analysis settings for your organization](/organizations/keeping-your-organization-secure/managing-security-and-analysis-settings-for-your-organization)."
 
 {% elsif ghes %}
@@ -55,11 +55,11 @@ You can check how many seats your license includes and how many of them are curr
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
    The "{% data variables.product.prodname_GH_advanced_security %}" section shows details of the current usage. You can see the total number of seats used, as well as a table with the number of committers and unique committers for each organization.
-  ![{% data variables.product.prodname_GH_advanced_security %} section of Enterprise license](/assets/images/help/billing/ghas-orgs-list-enterprise-ghes.png)
+  ![{% data variables.product.prodname_GH_advanced_security %} section of Enterprise license](/assets/images/2021/10/help/billing/ghas-orgs-list-enterprise-ghes.png)
 5. Optionally, click the name of an organization where you are an owner to display the security and analysis settings for the organization.
-  ![Owned organization in {% data variables.product.prodname_GH_advanced_security %} section of enterprise billing settings](/assets/images/help/billing/ghas-orgs-list-enterprise-click-org.png)
+  ![Owned organization in {% data variables.product.prodname_GH_advanced_security %} section of enterprise billing settings](/assets/images/2021/10/help/billing/ghas-orgs-list-enterprise-click-org.png)
 6. On the "Security & analysis" settings page, scroll to the "{% data variables.product.prodname_GH_advanced_security %} repositories" section to see a detailed breakdown of usage by repository for this organization.
-  ![{% data variables.product.prodname_GH_advanced_security %} repositories section](/assets/images/help/enterprises/settings-security-analysis-ghas-repos-list.png)
+  ![{% data variables.product.prodname_GH_advanced_security %} repositories section](/assets/images/2021/10/help/enterprises/settings-security-analysis-ghas-repos-list.png)
   For more information, see "[Managing security and analysis settings for your organization](/organizations/keeping-your-organization-secure/managing-security-and-analysis-settings-for-your-organization)."
 
 {% endif %}
@@ -87,7 +87,7 @@ You can download the {% data variables.product.prodname_advanced_security %} lic
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.billing_plans %}
 1. Underneath "{% data variables.product.prodname_GH_advanced_security %}," click {% octicon "download" aria-label="The download icon" %} next to "Committers."
-  ![Download button for organization-level data](/assets/images/help/billing/download-organization-GHAS-usage-data.png)
+  ![Download button for organization-level data](/assets/images/2021/11/help/billing/download-organization-GHAS-usage-data.png)
 
 #### At the enterprise-level
 
@@ -95,7 +95,7 @@ You can download the {% data variables.product.prodname_advanced_security %} lic
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
 1. Under "{% data variables.product.prodname_GH_advanced_security %}," click {% octicon "download" aria-label="The download icon" %} next to "Commiters."
-  ![Download button for enterprise-level data](/assets/images/help/billing/download-enterprise-GHAS-usage-data.png)
+  ![Download button for enterprise-level data](/assets/images/2021/11/help/billing/download-enterprise-GHAS-usage-data.png)
 
 ### Downloading {% data variables.product.prodname_advanced_security %} license usage information through the REST API
 

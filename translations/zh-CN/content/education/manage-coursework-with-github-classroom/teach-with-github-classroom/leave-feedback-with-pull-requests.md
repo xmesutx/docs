@@ -23,9 +23,9 @@ shortTitle: 拉取请求
 ## 在作业的拉取请求中留下反馈
 
 {% data reusables.classroom.sign-into-github-classroom %}
-1. 在教室列表中，单击包含要查看的作业的教室。 ![组织教室列表中的教室](/assets/images/help/classroom/click-classroom-in-list.png)
+1. 在教室列表中，单击包含要查看的作业的教室。 ![组织教室列表中的教室](/assets/images/2021/10/help/classroom/click-classroom-in-list.png)
 {% data reusables.classroom.click-assignment-in-list %}
-1. 对于提交的右侧，请单击 **Review（查看）**。 ![作业提交列表中的作业查看按钮](/assets/images/help/classroom/assignments-click-review-button.png)
+1. 对于提交的右侧，请单击 **Review（查看）**。 ![作业提交列表中的作业查看按钮](/assets/images/2021/10/help/classroom/assignments-click-review-button.png)
 1. 查看拉取请求。 更多信息请参阅“[评论拉取请求](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request)”。
 
 ## 延伸阅读

@@ -35,7 +35,7 @@ O fluxo de anexo de conteúdo mostra a relação entre a URL no problema ou pull
 
 <p spaces-before="0"><strong x-id="1">Etapa 2.</strong> Adicione a URL para o domínio que você registrou para um problema ou pull request. Você deve usar uma URL totalmente qualificada que comece com <code>http://` ou `https://`.
 
-![URL adicionada a um problema](/assets/images/github-apps/github_apps_content_reference.png)
+![URL adicionada a um problema](/assets/images/2021/10/github-apps/github_apps_content_reference.png)
 
 **Etapa 3.** Seu aplicativo receberá o [`content_reference` webhook](/webhooks/event-payloads/#content_reference) com a ação `criada`.
 
@@ -80,7 +80,7 @@ Para obter mais informações sobre a criação de um token de instalação, con
 
 **Etapa 5.** Você verá o novo anexo de conteúdo aparecer no link de um pull request ou comentário de um problema:
 
-![Conteúdo anexado a uma referência em um problema](/assets/images/github-apps/content_reference_attachment.png)
+![Conteúdo anexado a uma referência em um problema](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 ## Usar anexos de conteúdo no GraphQL
 Nós fornecemos o `node_id` no evento [`content_reference` webhook](/webhooks/event-payloads/#content_reference) para que você possa fazer referência à mutação `createContentAttachment` na API do GraphQL.
@@ -170,11 +170,11 @@ Para criar um aplicativo Probot, siga as etapas a seguir:
 
 4. [Execute o aplicativo GitHub localmente](https://probot.github.io/docs/development/#running-the-app-locally). Acesse `http://localhost:3000` e clique no botão **Registrar aplicativo GitHub**:
 
-   ![Registrar um aplicativo GitHub do Probot](/assets/images/github-apps/github_apps_probot-registration.png)
+   ![Registrar um aplicativo GitHub do Probot](/assets/images/2021/10/github-apps/github_apps_probot-registration.png)
 
 5. Instale o aplicativo em um repositório de teste.
 6. Crie um problema no seu repositório de teste.
 7. Adicione um comentário ao problema aberto que inclui a URL que você configurou no arquivo `app.yml`.
 8. Dê uma olhada no comentário do problema e você verá uma atualização que se parece com isso:
 
-   ![Conteúdo anexado a uma referência em um problema](/assets/images/github-apps/content_reference_attachment.png)
+   ![Conteúdo anexado a uma referência em um problema](/assets/images/2021/10/github-apps/content_reference_attachment.png)

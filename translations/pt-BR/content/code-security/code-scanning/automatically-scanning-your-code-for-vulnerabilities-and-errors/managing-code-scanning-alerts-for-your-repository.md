@@ -38,15 +38,15 @@ Por padrão, a página de verificação de código de alertas é filtrada para m
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-code-scanning-alerts %}
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-1. Opcionalmente, use a caixa de pesquisa de texto livre ou os menus suspensos para filtrar alertas. Por exemplo, você pode filtrar pela ferramenta usada para identificar alertas. ![Filter by tool](/assets/images/help/repository/code-scanning-filter-by-tool.png){% endif %}
+1. Opcionalmente, use a caixa de pesquisa de texto livre ou os menus suspensos para filtrar alertas. Por exemplo, você pode filtrar pela ferramenta usada para identificar alertas. ![Filter by tool](/assets/images/2021/10/help/repository/code-scanning-filter-by-tool.png){% endif %}
 {% data reusables.code-scanning.explore-alert %}
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-   ![Resumo dos alertas](/assets/images/help/repository/code-scanning-click-alert.png)
+   ![Resumo dos alertas](/assets/images/2021/10/help/repository/code-scanning-click-alert.png)
 {% else %}
-   ![Lista de alertas de {% data variables.product.prodname_code_scanning %}](/assets/images/enterprise/3.1/help/repository/code-scanning-click-alert.png)
+   ![Lista de alertas de {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-click-alert.png)
 {% endif %}
-1. Opcionalmente, se o alerta destacar um problema com o fluxo de dados, clique em **Mostrar caminhos** para exibir o caminho da fonte de dados até o destino onde é usado. ![O link "Exibir caminhos" em um alerta](/assets/images/help/repository/code-scanning-show-paths.png)
-1. Alertas da análise de {% data variables.product.prodname_codeql %} incluem uma descrição do problema. Clique em **Mostrar mais** para obter orientação sobre como corrigir seu código. ![Detalhes para um alerta](/assets/images/help/repository/code-scanning-alert-details.png)
+1. Opcionalmente, se o alerta destacar um problema com o fluxo de dados, clique em **Mostrar caminhos** para exibir o caminho da fonte de dados até o destino onde é usado. ![O link "Exibir caminhos" em um alerta](/assets/images/2021/10/help/repository/code-scanning-show-paths.png)
+1. Alertas da análise de {% data variables.product.prodname_codeql %} incluem uma descrição do problema. Clique em **Mostrar mais** para obter orientação sobre como corrigir seu código. ![Detalhes para um alerta](/assets/images/2021/10/help/repository/code-scanning-alert-details.png)
 
 Para obter mais informações, consulte "[Sobre alertas de {% data variables.product.prodname_code_scanning %}](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-alerts)".
 
@@ -55,7 +55,7 @@ Para obter mais informações, consulte "[Sobre alertas de {% data variables.pro
 
 **Observação:** Para análise de {% data variables.product.prodname_code_scanning %} com {% data variables.product.prodname_codeql %}, você pode ver informações sobre a última execução em um cabeçalho na parte superior da lista de alertas de {% data variables.product.prodname_code_scanning %} para o repositório.
 
-Por exemplo, você pode ver quando o último scanner foi executada, o número de linhas de código analisadas em comparação com o número total de linhas de código no seu repositório, e o número total de alertas gerados. ![Banner de interface do usuário](/assets/images/help/repository/code-scanning-ui-banner.png)
+Por exemplo, você pode ver quando o último scanner foi executada, o número de linhas de código analisadas em comparação com o número total de linhas de código no seu repositório, e o número total de alertas gerados. ![Banner de interface do usuário](/assets/images/2021/10/help/repository/code-scanning-ui-banner.png)
 
 {% endnote %}
 {% endif %}
@@ -65,11 +65,11 @@ Por exemplo, você pode ver quando o último scanner foi executada, o número de
 Você pode filtrar os alertas exibidos no modo de exibição de alertas de {% data variables.product.prodname_code_scanning %}. Isso é útil caso haja muitos alertas pois você pode se concentrar em um determinado tipo de alerta. Existem alguns filtros predefinidos e uma série de palavras-chave que você pode usar para refinar a lista de alertas exibidos.
 
 - Para usar um filtro predefinido, clique **Filtros** ou em um filtro exibido no cabeçalho da lista de alertas e escolha um filtro na lista suspensa.
-  {% ifversion fpt or ghes or ghec %}![Filtros predefinidos](/assets/images/help/repository/code-scanning-predefined-filters.png)
-  {% else %}![Predefined filters](/assets/images/enterprise/3.0/code-scanning-predefined-filters.png){% endif %}
+  {% ifversion fpt or ghes or ghec %}![Filtros predefinidos](/assets/images/2021/10/help/repository/code-scanning-predefined-filters.png)
+  {% else %}![Predefined filters](/assets/images/2021/10/enterprise/3.0/code-scanning-predefined-filters.png){% endif %}
 - Para usar uma palavra-chave, digite diretamente na caixa de texto dos filtros ou:
   1. Clique na caixa de filtros para exibir uma lista de todas as palavras-chave de filtro disponíveis.
-  2. Clique na palavra-chave que deseja usar e, em seguida, selecione um valor na lista suspensa. ![Lista de filtros de palavra-chave](/assets/images/help/repository/code-scanning-filter-keywords.png)
+  2. Clique na palavra-chave que deseja usar e, em seguida, selecione um valor na lista suspensa. ![Lista de filtros de palavra-chave](/assets/images/2021/10/help/repository/code-scanning-filter-keywords.png)
 
 O benefício de usar filtros de palavra-chave é que apenas os valores com resultados são exibidos nas listas suspensas. Isso facilita evitar filtros de configuração que não encontram resultados.
 
@@ -94,7 +94,7 @@ Você pode pesquisar na lista de alertas. Isso é útil se houver um grande núm
 - A descrição do alerta
 - Os detalhes do alerta (isso também inclui as informações ocultas da visualização por padrão na seção ocultável **Mostrar mais**)
 
- ![Informações de alerta usadas em pesquisas](/assets/images/help/repository/code-scanning-free-text-search-areas.png)
+ ![Informações de alerta usadas em pesquisas](/assets/images/2021/10/help/repository/code-scanning-free-text-search-areas.png)
 
 | Pesquisa compatível                                      | Exemplo de sintaxe | Resultados                                                              |
 | -------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------- |
@@ -115,7 +115,7 @@ Você pode pesquisar na lista de alertas. Isso é útil se houver um grande núm
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-code-scanning-alerts %}
-1. À direita dos menus suspensos de **Filtros**, digite as palavras-chave a serem pesquisadas na caixa de pesquisa de texto livre. ![A caixa de pesquisa de texto livre](/assets/images/help/repository/code-scanning-search-alerts.png)
+1. À direita dos menus suspensos de **Filtros**, digite as palavras-chave a serem pesquisadas na caixa de pesquisa de texto livre. ![A caixa de pesquisa de texto livre](/assets/images/2021/10/help/repository/code-scanning-search-alerts.png)
 2. Pressione <kbd>retornar</kbd>. O anúncio do alerta conterá os alertas {% data variables.product.prodname_code_scanning %} alertas abertos correspondentes aos seus critérios de busca.
 
 {% endif %}
@@ -140,9 +140,9 @@ Você pode usar{% ifversion fpt or ghes > 3.1 or ghae or ghec %} a pesquisa de t
 Alertas podem ser corrigidos em um branch, mas não em outro. Você pode usar o menu suspenso "Branch", no resumo dos alertas, para verificar se um alerta é corrigido em um branch específico.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-![Filtrar alertas por branch](/assets/images/help/repository/code-scanning-branch-filter.png)
+![Filtrar alertas por branch](/assets/images/2021/10/help/repository/code-scanning-branch-filter.png)
 {% else %}
-![Filtrar alertas por branch](/assets/images/enterprise/3.1/help/repository/code-scanning-branch-filter.png)
+![Filtrar alertas por branch](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-branch-filter.png)
 {% endif %}
 
 ## Ignorar ou excluir alertas
@@ -173,24 +173,24 @@ Para ignorar ou excluir alertas:
 {% data reusables.repositories.sidebar-code-scanning-alerts %}
 1. Se você tem permissões de administrador para o repositório e deseja excluir alertas para esta ferramenta de {% data variables.product.prodname_code_scanning %}, selecione algumas ou todas as caixas de seleção e clique em **Excluir**.
 
-   ![Excluir alertas](/assets/images/help/repository/code-scanning-delete-alerts.png)
+   ![Excluir alertas](/assets/images/2021/10/help/repository/code-scanning-delete-alerts.png)
 
    Opcionalmente, você pode usar{% ifversion fpt or ghes > 3.1 or ghae or ghec %}} a pesquisa de texto livre ou{% endif %} os filtros para exibir um subconjunto de alertas e, em seguida, excluir todos os alertas correspondentes de uma só vez. Por exemplo, se você removeu uma consulta da análise de {% data variables.product.prodname_codeql %}, você pode usar o filtro "Regra" para listar apenas os alertas dessa consulta e, em seguida, selecionar e apagar todos esses alertas.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-  ![Filtrar alertas por regra](/assets/images/help/repository/code-scanning-filter-by-rule.png)
+  ![Filtrar alertas por regra](/assets/images/2021/10/help/repository/code-scanning-filter-by-rule.png)
 {% else %}
-  ![Filtrar alertas por regra](/assets/images/enterprise/3.1/help/repository/code-scanning-filter-by-rule.png)
+  ![Filtrar alertas por regra](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-filter-by-rule.png)
 {% endif %}
 
 1. Se você deseja ignorar um alerta, é importante explorar primeiro o alerta para que você possa escolher o motivo correto para ignorá-lo. Clique no alerta que você deseja explorar.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-   ![Abrir um alerta da lista de resumo](/assets/images/help/repository/code-scanning-click-alert.png)
+   ![Abrir um alerta da lista de resumo](/assets/images/2021/10/help/repository/code-scanning-click-alert.png)
 {% else %}
-  ![Lista de alertas de {% data variables.product.prodname_code_scanning %}](/assets/images/enterprise/3.1/help/repository/code-scanning-click-alert.png)
+  ![Lista de alertas de {% data variables.product.prodname_code_scanning %}](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-click-alert.png)
 {% endif %}
-1. Revise o alerta e clique em **Ignorar** e escolha um motivo para fechar o alerta. ![Escolher um motivo para ignorar um alerta](/assets/images/help/repository/code-scanning-alert-close-drop-down.png)
+1. Revise o alerta e clique em **Ignorar** e escolha um motivo para fechar o alerta. ![Escolher um motivo para ignorar um alerta](/assets/images/2021/10/help/repository/code-scanning-alert-close-drop-down.png)
 
    {% data reusables.code-scanning.choose-alert-dismissal-reason %}
 

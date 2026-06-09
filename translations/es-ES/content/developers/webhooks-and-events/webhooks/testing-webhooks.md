@@ -21,7 +21,7 @@ Cada webhook tiene su propia sección de "Entregas Recientes", la cual lista rá
 
 {% data variables.product.product_name %} mantiene una bitácora de cada entrega de webhook para {% ifversion fpt or ghec %}30 {% else %} 8 {% endif %} días.
 
-![Vista de entregas recientes](/assets/images/webhooks_recent_deliveries.png)
+![Vista de entregas recientes](/assets/images/2021/10/webhooks_recent_deliveries.png)
 
 ## Profundizar en los resultados
 
@@ -31,10 +31,10 @@ Si expandes una entrega individual podrás presenciar *exactamente* qué informa
 
 La vista de entregas del webhook te proporciona información sobre qué encabezados se enviaron a través de GitHub. También incluye detalles acerca de la carga útil de JSON.
 
-![Visualizar la solicitud de una carga útil](/assets/images/payload_request_tab.png)
+![Visualizar la solicitud de una carga útil](/assets/images/2021/10/payload_request_tab.png)
 
 ### Respuesta
 
 La pestaña de respuesta lista la forma en que tu servidor respondió una vez que recibió la carga útil de GitHub. Esto incluye al código de estado, a los encabezados y a cualquier dato adicional dentro del cuerpo de la respuesta.
 
-![Visualizar la respuesta de una carga útil](/assets/images/payload_response_tab.png)
+![Visualizar la respuesta de una carga útil](/assets/images/2021/10/payload_response_tab.png)

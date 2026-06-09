@@ -25,7 +25,7 @@ shortTitle: Ver ramas
 
 4. Opcionalmente, utiliza el campo de búsqueda en la parte superior derecha. Este proporciona una búsqueda de sub-secuencias simple y que distingue entre mayúsculas y minusculas para el nombre de rama. Esta no es compatible con ninguna sintaxis de consulta adicional.
 
-![La página de ramas para el repositorio Atom](/assets/images/help/branches/branches-overview-atom.png)
+![La página de ramas para el repositorio Atom](/assets/images/2021/10/help/branches/branches-overview-atom.png)
 
 ## Leer más
 

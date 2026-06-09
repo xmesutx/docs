@@ -23,11 +23,11 @@ The Activity dashboard provides weekly, monthly, and yearly graphs of the number
 - New organizations
 - New teams
 
-![Activity dashboard](/assets/images/enterprise/activity/activity-dashboard-yearly.png)
+![Activity dashboard](/assets/images/2021/10/enterprise/activity/activity-dashboard-yearly.png)
 
 ## Accessing the Activity dashboard
 
 1. At the top of any page, click **Explore**.
-![Explore tab](/assets/images/enterprise/settings/ent-new-explore.png)
+![Explore tab](/assets/images/2021/10/enterprise/settings/ent-new-explore.png)
 2. In the upper-right corner, click **Activity**.
-![Activity button](/assets/images/enterprise/activity/activity-button.png)
+![Activity button](/assets/images/2021/10/enterprise/activity/activity-button.png)

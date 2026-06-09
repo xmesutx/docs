@@ -23,8 +23,8 @@ You can also enable code review limits for an organization. If you enable limits
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 1. Under **Access**, click **Moderation options**.
-![Moderation options repository settings](/assets/images/help/repository/access-settings-repositories.png)
+![Moderation options repository settings](/assets/images/2022/02/help/repository/access-settings-repositories.png)
 1. Under **Moderation options**, click **Code review limits**.
-![Code review limits repositories](/assets/images/help/repository/code-review-limits-repositories.png)
+![Code review limits repositories](/assets/images/2022/02/help/repository/code-review-limits-repositories.png)
 1. Select or deselect **Limit to users explicitly granted read or higher access**.
-![Limit review in repository](/assets/images/help/repository/limit-reviews-in-repository.png)
+![Limit review in repository](/assets/images/2022/02/help/repository/limit-reviews-in-repository.png)

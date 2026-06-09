@@ -71,7 +71,7 @@ O {% data variables.product.prodname_dependabot_security_updates %} exige config
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
 1. Under "Code security and analysis", to the right of "{% data variables.product.prodname_dependabot %} security updates", click **Enable** or **Disable**.
-  {% ifversion fpt or ghec %}!["Code security and analysis" section with button to enable {% data variables.product.prodname_dependabot_security_updates %}](/assets/images/help/repository/enable-dependabot-security-updates-button.png){% else %}!["Code security and analysis" section with button to enable {% data variables.product.prodname_dependabot_security_updates %}](/assets/images/enterprise/3.3/repository/security-and-analysis-disable-or-enable-ghes.png){% endif %}
+  {% ifversion fpt or ghec %}!["Code security and analysis" section with button to enable {% data variables.product.prodname_dependabot_security_updates %}](/assets/images/2021/10/help/repository/enable-dependabot-security-updates-button.png){% else %}!["Code security and analysis" section with button to enable {% data variables.product.prodname_dependabot_security_updates %}](/assets/images/2021/11/enterprise/3.3/repository/security-and-analysis-disable-or-enable-ghes.png){% endif %}
 
 
 ## Leia mais

@@ -20,7 +20,7 @@ versions:
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![Diffビューの上にあるRevertオプション](/assets/images/help/desktop/commit-revert-mac.png)
+  ![Diffビューの上にあるRevertオプション](/assets/images/2021/10/help/desktop/commit-revert-mac.png)
 
 {% endmac %}
 
@@ -28,6 +28,6 @@ versions:
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
-  ![Diffビューの上にあるRevertオプション](/assets/images/help/desktop/commit-revert-win.png)
+  ![Diffビューの上にあるRevertオプション](/assets/images/2021/10/help/desktop/commit-revert-win.png)
 
 {% endwindows %}

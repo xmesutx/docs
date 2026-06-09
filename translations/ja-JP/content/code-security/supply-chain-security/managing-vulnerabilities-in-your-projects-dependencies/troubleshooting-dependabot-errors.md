@@ -36,7 +36,7 @@ topics:
 
 {% data variables.product.prodname_dependabot %} が {% data variables.product.prodname_dependabot %} アラートを修正するためのプルリクエストの作成をブロックされると、アラートにエラーメッセージを投稿します。 {% data variables.product.prodname_dependabot_alerts %} ビューには、未解決のアラートのリストが表示されます。 アラートビューにアクセスするには、リポジトリの [**Security**] タブで [**{% data variables.product.prodname_dependabot_alerts %}**] をクリックします。 脆弱性のある依存関係を修正するプルリクエストが生成された場合、アラートにはそのプルリクエストへのリンクが含まれます。
 
-![プルリクエストリンクを示す {% data variables.product.prodname_dependabot_alerts %} ビュー](/assets/images/help/dependabot/dependabot-alert-pr-link.png)
+![プルリクエストリンクを示す {% data variables.product.prodname_dependabot_alerts %} ビュー](/assets/images/2021/10/help/dependabot/dependabot-alert-pr-link.png)
 
 アラートにプルリクエストリンクがない理由は 3 つあります。
 
@@ -50,19 +50,19 @@ topics:
 
 {% data variables.product.prodname_dependabot %} がエコシステムの依存関係を更新するためのプルリクエストの作成をブロックされると、マニフェストファイルにエラーアイコンを投稿します。 {% data variables.product.prodname_dependabot %} によって管理されるマニフェストファイルは、[{% data variables.product.prodname_dependabot %}] タブに一覧表示されます。 このタブにアクセスするには、リポジトリの [**Insights**] タブで [**Dependency graph**] をクリックし、[**{% data variables.product.prodname_dependabot %}**] タブをクリックします。
 
-![エラーを示す {% data variables.product.prodname_dependabot %} ビュー](/assets/images/help/dependabot/dependabot-tab-view-error.png)
+![エラーを示す {% data variables.product.prodname_dependabot %} ビュー](/assets/images/2021/11/help/dependabot/dependabot-tab-view-error.png)
 
 {% ifversion fpt or ghec %}
 
 マニフェストファイルのログファイルを表示するには、[**Last checked TIME ago**] リンクをクリックします。 エラー記号（上のスクリーンショットの Maven など）で示されているマニフェストのログファイルを表示すると、エラーも表示されます。
 
-![{% data variables.product.prodname_dependabot %} バージョン更新エラーとログ ](/assets/images/help/dependabot/dependabot-version-update-error.png)
+![{% data variables.product.prodname_dependabot %} バージョン更新エラーとログ ](/assets/images/2021/11/help/dependabot/dependabot-version-update-error.png)
 
 {% else %}
 
 To see the logs for any manifest file, click the **Last checked TIME ago** link, and then click **View logs**.
 
-![{% data variables.product.prodname_dependabot %} バージョン更新エラーとログ ](/assets/images/enterprise/3.3/dependabot/dependabot-version-update-error.png)
+![{% data variables.product.prodname_dependabot %} バージョン更新エラーとログ ](/assets/images/2021/11/enterprise/3.3/dependabot/dependabot-version-update-error.png)
 
 {% endif %}
 

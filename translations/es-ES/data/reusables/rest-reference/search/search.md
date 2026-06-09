@@ -64,7 +64,7 @@ Por ejemplo, si tu consulta de búsqueda quiere buscar en los repositorios `octo
 
 En GitHub, puedes utilizar el contexto que te proporcionan los extractos de código y los puntos destacados en los resultados de búsqueda. La API de Búsqueda ofrece metadatos adicionales que te permiten resaltar los términos de búsqueda coincidentes cuando se muestran los resultados de la búsqueda.
 
-![resaltado del fragmento de código](/assets/images/text-match-search-api.png)
+![resaltado del fragmento de código](/assets/images/2021/10/text-match-search-api.png)
 
 Las solicitudes pueden decidir recibir esos fragmentos de texto en la respuesta, y cada fragmento se acompaña de intervalos numéricos que identifican la ubicación exacta de cada término de búsqueda coincidente.
 

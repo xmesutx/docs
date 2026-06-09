@@ -31,11 +31,11 @@ With organization activity insights you can view weekly, monthly, and yearly dat
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 3. Under your organization name, click {% octicon "graph" aria-label="The bar graph icon" %} **Insights**.
-  ![Click the organization insights tab](/assets/images/help/organizations/org-nav-insights-tab.png)
+  ![Click the organization insights tab](/assets/images/2021/10/help/organizations/org-nav-insights-tab.png)
 4. Optionally, in the upper-right corner of the page, choose to view data for the last **1 week**, **1 month**, or **1 year**.
-  ![Choose time period to view org insights](/assets/images/help/organizations/org-insights-time-period.png)
+  ![Choose time period to view org insights](/assets/images/2021/10/help/organizations/org-insights-time-period.png)
 5. Optionally, in the upper-right corner of the page, choose to view data for up to three repositories and click **Apply**.
-  ![Choose repositories to view org insights](/assets/images/help/organizations/org-insights-repos.png)
+  ![Choose repositories to view org insights](/assets/images/2021/10/help/organizations/org-insights-repos.png)
 
 ## Viewing organization dependency insights
 
@@ -50,15 +50,15 @@ With dependency insights you can view vulnerabilities, licenses, and other impor
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 3. Under your organization name, click {% octicon "graph" aria-label="The bar graph icon" %} **Insights**.
-  ![Insights tab in the main organization navigation bar](/assets/images/help/organizations/org-nav-insights-tab.png)
+  ![Insights tab in the main organization navigation bar](/assets/images/2021/10/help/organizations/org-nav-insights-tab.png)
 4. To view dependencies for this organization, click **Dependencies**.
-  ![Dependencies tab under the main organization navigation bar](/assets/images/help/organizations/org-insights-dependencies-tab.png)
+  ![Dependencies tab under the main organization navigation bar](/assets/images/2021/10/help/organizations/org-insights-dependencies-tab.png)
 5. To view dependency insights for all your {% data variables.product.prodname_ghe_cloud %} organizations, click **My organizations**.
-  ![My organizations button under dependencies tab](/assets/images/help/organizations/org-insights-dependencies-my-orgs-button.png)
+  ![My organizations button under dependencies tab](/assets/images/2021/10/help/organizations/org-insights-dependencies-my-orgs-button.png)
 6. You can click the results in the **Open security advisories** and **Licenses** graphs to filter by a vulnerability status, a license, or a combination of the two.
-  ![My organizations vulnerabilities and licenses graphs](/assets/images/help/organizations/org-insights-dependencies-graphs.png)
+  ![My organizations vulnerabilities and licenses graphs](/assets/images/2021/10/help/organizations/org-insights-dependencies-graphs.png)
 7. You can click on {% octicon "package" aria-label="The package icon" %} **dependents** next to each vulnerability to see which dependents in your organization are using each library.
-  ![My organizations vulnerable dependents](/assets/images/help/organizations/org-insights-dependencies-vulnerable-item.png)
+  ![My organizations vulnerable dependents](/assets/images/2021/10/help/organizations/org-insights-dependencies-vulnerable-item.png)
 
 ## Further reading
  - "[About organizations](/organizations/collaborating-with-groups-in-organizations/about-organizations)"

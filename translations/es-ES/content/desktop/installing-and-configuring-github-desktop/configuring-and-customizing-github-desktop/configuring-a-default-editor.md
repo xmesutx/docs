@@ -60,8 +60,8 @@ shortTitle: Configurar el editor predeterminado
 {% mac %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
-3. En la ventana de preferencias, selecciona **Integrations** (integraciones). ![El panel de Integraciones en la ventana de Preferencias](/assets/images/help/desktop/mac-select-integrations-pane.png)
-4. Utiliza el menú desplegable de "Editor Externo" y elige el editor que quieras configurar como predeterminado. ![El menú External editor (Editor externo) en la barra del menú Preferences (Preferencias)](/assets/images/help/desktop/mac-editor-menu.png)
+3. En la ventana de preferencias, selecciona **Integrations** (integraciones). ![El panel de Integraciones en la ventana de Preferencias](/assets/images/2021/10/help/desktop/mac-select-integrations-pane.png)
+4. Utiliza el menú desplegable de "Editor Externo" y elige el editor que quieras configurar como predeterminado. ![El menú External editor (Editor externo) en la barra del menú Preferences (Preferencias)](/assets/images/2021/10/help/desktop/mac-editor-menu.png)
 5. Haz clic en **Save ** (guardar).
 
 {% endmac %}
@@ -69,8 +69,8 @@ shortTitle: Configurar el editor predeterminado
 {% windows %}
 
 {% data reusables.desktop.windows-choose-options %}
-3. En la ventana de Opciones, seleccione **Integrations** (integraciones). ![El panel de Integraciones en la ventana de Opciones](/assets/images/help/desktop/windows-select-integrations-pane.png)
-4. Utiliza el menú desplegable de "Editor Externo" y elige el editor que quieras configurar como predeterminado. ![El menú External editor (Editor externo) en la barra del menú Options (Opciones)](/assets/images/help/desktop/windows-editor-menu.png)
+3. En la ventana de Opciones, seleccione **Integrations** (integraciones). ![El panel de Integraciones en la ventana de Opciones](/assets/images/2021/10/help/desktop/windows-select-integrations-pane.png)
+4. Utiliza el menú desplegable de "Editor Externo" y elige el editor que quieras configurar como predeterminado. ![El menú External editor (Editor externo) en la barra del menú Options (Opciones)](/assets/images/2021/10/help/desktop/windows-editor-menu.png)
 5. Haz clic en **Save ** (guardar).
 
 {% endwindows %}

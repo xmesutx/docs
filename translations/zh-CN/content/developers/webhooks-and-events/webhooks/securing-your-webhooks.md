@@ -24,7 +24,7 @@ topics:
 要在 GitHub 上设置令牌：
 
 1. 导航到您设置 web 挂钩的仓库。
-2. 填写密钥文本框。 使用高熵值随机字符串（例如，通过在终端获取 `ruby -rsecurerandom -e 'puts SecureRandom.hex(20)'` 的输出）。 ![Web 挂钩密钥令牌字段](/assets/images/webhook_secret_token.png)
+2. 填写密钥文本框。 使用高熵值随机字符串（例如，通过在终端获取 `ruby -rsecurerandom -e 'puts SecureRandom.hex(20)'` 的输出）。 ![Web 挂钩密钥令牌字段](/assets/images/2021/10/webhook_secret_token.png)
 3. 单击 **Update Webhook（更新 web 挂钩）**。
 
 接下来，在服务器上设置存储此令牌的环境变量。 通常，这简单如运行以下命令：

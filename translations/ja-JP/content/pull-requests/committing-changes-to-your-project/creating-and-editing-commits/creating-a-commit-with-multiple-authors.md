@@ -37,7 +37,7 @@ shortTitle: With multiple authors
 
 {% data variables.product.prodname_desktop %} で、共作者を持つコミットを作成できます。 詳細は「[コミットメッセージの入力と変更のプッシュ](/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project#4-write-a-commit-message-and-push-your-changes)」および [{% data variables.product.prodname_desktop %}](https://desktop.github.com) を参照してください。
 
-![コミットメッセージに共作者を追加](/assets/images/help/desktop/co-authors-demo-hq.gif)
+![コミットメッセージに共作者を追加](/assets/images/2021/10/help/desktop/co-authors-demo-hq.gif)
 
 ## コマンドライン上で co-authored コミットを作成する
 
@@ -73,10 +73,10 @@ shortTitle: With multiple authors
 {% data variables.product.product_name %} のウェブエディタでファイルを変更してから、コミットのメッセージに `Co-authored-by:` トレーラーを追加することで、co-authored コミットを作成できます。
 
 {% data reusables.pull_requests.collect-co-author-commit-git-config-info %}
-2. 共同で変更を行った後は、ページの下部に、変更について説明する、短くて意味のあるコミットメッセージを入力します。 ![変更のコミットメッセージ](/assets/images/help/repository/write-commit-message-quick-pull.png)
+2. 共同で変更を行った後は、ページの下部に、変更について説明する、短くて意味のあるコミットメッセージを入力します。 ![変更のコミットメッセージ](/assets/images/2021/10/help/repository/write-commit-message-quick-pull.png)
 3. コミットメッセージの下にあるテキストボックスに、各共同作者の情報を `Co-authored-by: name <name@example.com>` という形式で入力します。 複数の共作者を追加する場合は、共作者それぞれに 1 行をとり、`Co-authored-by:` コミットトレーラーを付けてください。
 
-  ![2 つ目のコミットメッセージテキストボックスにある、コミットメッセージの共同作者トレーラー例](/assets/images/help/repository/write-commit-message-co-author-trailer.png)
+  ![2 つ目のコミットメッセージテキストボックスにある、コミットメッセージの共同作者トレーラー例](/assets/images/2021/10/help/repository/write-commit-message-co-author-trailer.png)
 4. [**Commit changes**] または [**Propose changes**] をクリックします。
 
 {% data variables.product.product_location %} に新たなコミットとメッセージが表示されます。

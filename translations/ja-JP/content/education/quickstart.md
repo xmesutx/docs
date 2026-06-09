@@ -58,8 +58,8 @@ shortTitle: クイックスタート
 ユーザアカウントとOrganizationアカウントがあれば、{% data variables.product.prodname_classroom %}に取りかかる準備が整っています。 {% data variables.product.prodname_classroom %}の使用は無料です。 課題の追跡および管理、課題の自動採点、および学生へのフィードバックを行うことができます。
 
 {% data reusables.classroom.sign-into-github-classroom %}
-1. {% data variables.product.prodname_classroom %}を認可して{% data variables.product.prodname_dotcom %}のユーザアカウントにアクセスするには、表示されている情報を確認してから、[**Authorize {% data variables.product.prodname_classroom %}**] をクリックします。 ![ユーザアカウント用の [Authorize {% data variables.product.prodname_classroom %}] ボタン](/assets/images/help/classroom/setup-click-authorize-github-classroom.png)
-1. 情報を確認します。 {% data variables.product.prodname_classroom %}を認可して{% data variables.product.prodname_dotcom %}のOrganizationアカウントにアクセスするには、[**Allow**] をクリックします。 ![Organization用の [Grant] ボタン](/assets/images/help/classroom/setup-click-grant.png)
+1. {% data variables.product.prodname_classroom %}を認可して{% data variables.product.prodname_dotcom %}のユーザアカウントにアクセスするには、表示されている情報を確認してから、[**Authorize {% data variables.product.prodname_classroom %}**] をクリックします。 ![ユーザアカウント用の [Authorize {% data variables.product.prodname_classroom %}] ボタン](/assets/images/2021/10/help/classroom/setup-click-authorize-github-classroom.png)
+1. 情報を確認します。 {% data variables.product.prodname_classroom %}を認可して{% data variables.product.prodname_dotcom %}のOrganizationアカウントにアクセスするには、[**Allow**] をクリックします。 ![Organization用の [Grant] ボタン](/assets/images/2021/10/help/classroom/setup-click-grant.png)
 
   {% tip %}
 
@@ -67,7 +67,7 @@ shortTitle: クイックスタート
 
   {% endtip %}
 
-1. [**Authorize github**] をクリックします。 ![Organization用の [Authorize] ボタン](/assets/images/help/classroom/setup-click-authorize-github.png)
+1. [**Authorize github**] をクリックします。 ![Organization用の [Authorize] ボタン](/assets/images/2021/10/help/classroom/setup-click-authorize-github.png)
 
 ## クラスルームを作成する
 

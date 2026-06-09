@@ -18,7 +18,7 @@ Você pode usar insights de discussões para ajudar a entender a atividade de co
 - **Contribuidores diários de discussões** mostram a contagem diária de usuários únicos que reagiram, votaram, marcaram uma resposta, comentaram ou postaram no período de tempo selecionado.
 - **Novos contribuidores de discussões** mostra a contagem diária de novos usuários únicos que reagiram, votaram, marcaram uma resposta, comentaram ou postaram no período de tempo selecionado.
 
-![Captura de tela do painel de discussões](/assets/images/help/discussions/discussions-dashboard.png)
+![Captura de tela do painel de discussões](/assets/images/2022/01/help/discussions/discussions-dashboard.png)
 
 {% tip %}
 
@@ -30,5 +30,5 @@ Você pode usar insights de discussões para ajudar a entender a atividade de co
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Community** (Comunidade). ![Captura de tela da aba "Comunidade" na barra lateral esquerda](/assets/images/help/graphs/graphs-sidebar-community-tab.png)
-1. Opcionalmente, no canto superior direito da página, selecione o menu suspenso **Período** e clique no período de tempo para o qual você deseja ver dados: **30 dias**, **3 meses** ou **1 ano**. ![Captura de tela do seletor de intervalo de datas para insights de discussões](/assets/images/help/discussions/discussions-dashboard-date-selctor.png)
+3. Na barra lateral esquerda, clique em **Community** (Comunidade). ![Captura de tela da aba "Comunidade" na barra lateral esquerda](/assets/images/2021/10/help/graphs/graphs-sidebar-community-tab.png)
+1. Opcionalmente, no canto superior direito da página, selecione o menu suspenso **Período** e clique no período de tempo para o qual você deseja ver dados: **30 dias**, **3 meses** ou **1 ano**. ![Captura de tela do seletor de intervalo de datas para insights de discussões](/assets/images/2022/01/help/discussions/discussions-dashboard-date-selctor.png)

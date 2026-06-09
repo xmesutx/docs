@@ -26,7 +26,7 @@ shortTitle: 关于模板
 
 使用默认构建器{% ifversion fpt or ghec %} 或议题表单{% endif %} 为仓库创建议题模板后，贡献者在仓库中打开新议题时便可选择适当的模板。
 
-![显示议题模板选项的新议题页面](/assets/images/help/issues/new-issue-page-with-multiple-templates.png)
+![显示议题模板选项的新议题页面](/assets/images/2021/10/help/issues/new-issue-page-with-multiple-templates.png)
 
 当您想为开设议题提供指导，同时允许贡献者指定议题的内容时，议题模板很有用。 {% ifversion fpt or ghec %} 如果您希望贡献者在开设议题时提供特定的结构化信息，则议题表单有助于确保您收到所需的信息。{% endif %}
 
@@ -50,7 +50,7 @@ shortTitle: 关于模板
 
 将拉取请求模板添加到仓库后，项目贡献者会自动在拉取请求正文中看到模板的内容。
 
-![示例拉取请求模板](/assets/images/help/pull_requests/pr-template-sample.png)
+![示例拉取请求模板](/assets/images/2021/10/help/pull_requests/pr-template-sample.png)
 
 必须在仓库的默认分支中创建模板。 在其他分支创建的模板无法供协作者使用。 您可以将拉取请求模板存储在仓库的可见根目录的 `docs` 文件夹或隐藏目录 `.github` 中。 拉取请求模板文件名不区分大小写，并且具有 *.md* 或 *.txt* 等扩展名。
 

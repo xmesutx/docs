@@ -89,7 +89,7 @@ updates:
 
 After you enable version updates, the **Dependabot** tab in the dependency graph for the repository is populated. 此选项卡显示配置了哪些要监视的包管理器 {% data variables.product.prodname_dependabot %} 以及 {% data variables.product.prodname_dependabot %} 上次检查新版本的时间。
 
-![仓库洞察选项卡，依赖关系图，Dependabot 选项卡](/assets/images/help/dependabot/dependabot-tab-view.png)
+![仓库洞察选项卡，依赖关系图，Dependabot 选项卡](/assets/images/2021/11/help/dependabot/dependabot-tab-view.png)
 
 更多信息请参阅“[列出为版本更新配置的依赖项](/github/administering-a-repository/listing-dependencies-configured-for-version-updates)。”
 

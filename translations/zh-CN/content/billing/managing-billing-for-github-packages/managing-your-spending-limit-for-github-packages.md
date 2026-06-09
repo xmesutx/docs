@@ -60,7 +60,7 @@ shortTitle: 您的支出限制
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. 在“{% data variables.product.prodname_actions %} and Packages monthly usage（GitHub Actions 和包每月使用）”上方，单击 **Spending Limit（支出限制）**。 ![支出限制选项卡](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. 在“{% data variables.product.prodname_actions %} and Packages monthly usage（GitHub Actions 和包每月使用）”上方，单击 **Spending Limit（支出限制）**。 ![支出限制选项卡](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 

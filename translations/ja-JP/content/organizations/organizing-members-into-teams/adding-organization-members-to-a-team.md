@@ -22,7 +22,7 @@ shortTitle: Teamへのメンバーの追加
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_members_tab %}
-6. Team メンバーのリストの上部で、[**Add a member**] をクリックします。 ![[Add member] ボタン](/assets/images/help/teams/add-member-button.png)
+6. Team メンバーのリストの上部で、[**Add a member**] をクリックします。 ![[Add member] ボタン](/assets/images/2021/10/help/teams/add-member-button.png)
 {% data reusables.organizations.invite_to_team %}
 {% data reusables.organizations.review-team-repository-access %}
 

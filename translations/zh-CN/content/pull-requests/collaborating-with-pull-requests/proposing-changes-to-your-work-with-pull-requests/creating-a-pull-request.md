@@ -29,7 +29,7 @@ If you want to create a new branch for your pull request and do not have write p
 
 如果默认父仓库不正确，您可以使用下拉列表更改父仓库和分支， 还可以使用下拉列表交换头部分支和基本分支，以确定引用点之间的差异。 这里的引用必须是 GitHub 仓库中的分支名称。
 
-![拉取请求编辑分支](/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
+![拉取请求编辑分支](/assets/images/2021/10/help/pull_requests/pull-request-review-edit-branch.png)
 
 考虑分支时，请记住，*基础分支*是应该应用更改的**位置**，*头部分支*包含要应用的**内容**。
 
@@ -50,9 +50,9 @@ If you want to create a new branch for your pull request and do not have write p
 {% webui %}
 
 {% data reusables.repositories.navigate-to-repo %}
-2. 在“Branch（分支）”菜单中，选择包含提交的分支。 ![分支下拉菜单](/assets/images/help/pull_requests/branch-dropdown.png)
+2. 在“Branch（分支）”菜单中，选择包含提交的分支。 ![分支下拉菜单](/assets/images/2021/10/help/pull_requests/branch-dropdown.png)
 {% data reusables.repositories.new-pull-request %}
-4. 使用 _base（基础）_分支下拉菜单选择要向其合并更改的分支，然后使用 _compare（比较）_分支下拉菜单选择进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+4. 使用 _base（基础）_分支下拉菜单选择要向其合并更改的分支，然后使用 _compare（比较）_分支下拉菜单选择进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/2021/10/help/pull_requests/choose-base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -127,8 +127,8 @@ gh pr create --web
 {% mac %}
 
 1. 切换到要为其创建拉取请求的分支。 更多信息请参阅“[在分支之间切换](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)”。
-2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/help/desktop/mac-create-pull-request.png)
-4. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/help/desktop/base-and-compare-branches.png)
+2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
+4. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -137,8 +137,8 @@ gh pr create --web
 {% windows %}
 
 1. 切换到要为其创建拉取请求的分支。 更多信息请参阅“[在分支之间切换](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)”。
-2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/help/desktop/windows-create-pull-request.png)
-3. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/help/desktop/base-and-compare-branches.png)
+2. 单击 **Create pull request（创建拉取请求）**。 {% data variables.product.prodname_desktop %} 会将您的默认浏览器打开至 {% data variables.product.prodname_dotcom %}。 ![创建拉取请求按钮](/assets/images/2021/10/help/desktop/windows-create-pull-request.png)
+3. 在 {% data variables.product.prodname_dotcom %} 上，确认 **base:** 下拉菜单中的分支是要合并更改的分支。 确认 **compare:** 下拉菜单中的分支是您进行了更改的主题分支。 ![用于选择基础和比较分支的下拉菜单](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -150,8 +150,8 @@ gh pr create --web
 
 {% codespaces %}
 
-1. 将更改提交到仓库的本地副本后，请单击 **Create Pull Request（创建拉取请求）**图标。 ![高亮显示暂存按钮的源控制侧边栏](/assets/images/help/codespaces/codespaces-commit-pr-button.png)
-1. 检查作为合并来源的本地分支和仓库以及作为合并目标的远程分支和仓库是否正确。 然后为拉取请求提供标题和描述。 ![GitHub 拉取请求侧栏](/assets/images/help/codespaces/codespaces-commit-pr.png)
+1. 将更改提交到仓库的本地副本后，请单击 **Create Pull Request（创建拉取请求）**图标。 ![高亮显示暂存按钮的源控制侧边栏](/assets/images/2021/10/help/codespaces/codespaces-commit-pr-button.png)
+1. 检查作为合并来源的本地分支和仓库以及作为合并目标的远程分支和仓库是否正确。 然后为拉取请求提供标题和描述。 ![GitHub 拉取请求侧栏](/assets/images/2021/10/help/codespaces/codespaces-commit-pr.png)
 1. 单击 **Create（创建）**。
 
 有关在 {% data variables.product.prodname_codespaces %} 中创建拉取请求的更多信息，请参阅“[对拉取请求使用代码空间](/codespaces/developing-in-codespaces/using-codespaces-for-pull-requests)”。

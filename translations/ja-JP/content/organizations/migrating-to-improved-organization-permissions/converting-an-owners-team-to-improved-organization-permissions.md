@@ -35,8 +35,8 @@ shortTitle: オーナーTeamの変換
 {% data reusables.organizations.convert-owners-team-confirm %}
 5. Team 名のフィールドで、オーナー Team の新しい名前を選びます。 例:
     - Organization において、オーナー Team のメンバーがとても少ない場合には、"Core" といったチーム名がいいかもしれません。
-    - Organization のすべてのメンバーがオーナー Team のメンバーでもあり、[Team に @mention](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams) できる場合は、"Employees" といったチーム名がいいかもしれません。 ![オーナー Team の名前を "Core" にした、Team 名フィールド](/assets/images/help/teams/owners-team-new-name.png)
-6. Team の説明の下にある、[**Save and continue**] をクリックします。 ![[Save and continue] ボタン](/assets/images/help/teams/owners-team-save-and-continue.png)
+    - Organization のすべてのメンバーがオーナー Team のメンバーでもあり、[Team に @mention](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams) できる場合は、"Employees" といったチーム名がいいかもしれません。 ![オーナー Team の名前を "Core" にした、Team 名フィールド](/assets/images/2021/10/help/teams/owners-team-new-name.png)
+6. Team の説明の下にある、[**Save and continue**] をクリックします。 ![[Save and continue] ボタン](/assets/images/2021/10/help/teams/owners-team-save-and-continue.png)
 7. また、代わりに [Team を*パブリック*にする](/articles/changing-team-visibility)こともできます。
 
 ## レガシーのオーナー Team の削除
@@ -51,4 +51,4 @@ shortTitle: オーナーTeamの変換
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.owners-team %}
 {% data reusables.organizations.convert-owners-team-confirm %}
-5. ページの下部にある警告を確認し、[**Delete the Owners team**] をクリックします。 ![オーナー Team を削除するリンク](/assets/images/help/teams/owners-team-delete.png)
+5. ページの下部にある警告を確認し、[**Delete the Owners team**] をクリックします。 ![オーナー Team を削除するリンク](/assets/images/2021/10/help/teams/owners-team-delete.png)

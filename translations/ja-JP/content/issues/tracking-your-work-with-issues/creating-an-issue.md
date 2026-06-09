@@ -40,7 +40,7 @@ Issue は、バグ、拡張、その他リクエストの追跡に使用でき�
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 {% data reusables.repositories.new_issue %}
-1. リポジトリでIssueテンプレートが使われているなら、オープンしたいIssueの種類の隣にある**Get started（始める）**をクリックしてください。 ![Select the type of issue you want to create](/assets/images/help/issues/issue_template_get_started_button.png) あるいは、利用できる選択肢にオープンしたいIssueの種類が含まれていない場合は、**Open a blank issue（空のIssueをオープン）**をクリックしてください。 ![空白の Issue を開くリンク](/assets/images/help/issues/blank_issue_link.png)
+1. リポジトリでIssueテンプレートが使われているなら、オープンしたいIssueの種類の隣にある**Get started（始める）**をクリックしてください。 ![Select the type of issue you want to create](/assets/images/2021/10/help/issues/issue_template_get_started_button.png) あるいは、利用できる選択肢にオープンしたいIssueの種類が含まれていない場合は、**Open a blank issue（空のIssueをオープン）**をクリックしてください。 ![空白の Issue を開くリンク](/assets/images/2021/10/help/issues/blank_issue_link.png)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
@@ -66,11 +66,11 @@ gh issue create --title "My new issue" --body "Here are more details." --assigne
 IssueもしくはPull Requestのコメントから、新しいIssueをオープンできます。 コメントから開いたIssueには、コメントの元の投稿場所を示すスニペットが含まれています。
 
 1. Issueをオープンしたいコメントにアクセスしてください。
-2. そのコメントで、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックします。 ![Pull Requestレビューコメントの三点ボタン](/assets/images/help/pull_requests/kebab-in-pull-request-review-comment.png)
-3. [**Reference in new issue**] をクリックします。 ![[Reference in new issue] メニュー項目](/assets/images/help/pull_requests/reference-in-new-issue.png)
-4. [Repository] ドロップダウンメニューで、開こうとするIssueがあるリポジトリを選択します。 ![新しいIssueの [Repository] ドロップダウン](/assets/images/help/pull_requests/new-issue-repository.png)
-5. Issueのわかりやすいタイトルと本文を入力します。 ![新しいIssueのタイトルと本文](/assets/images/help/pull_requests/new-issue-title-and-body.png)
-6. [**Create issue**] をクリックします。 ![新しいIssueを作成するボタン](/assets/images/help/pull_requests/create-issue.png)
+2. そのコメントで、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックします。 ![Pull Requestレビューコメントの三点ボタン](/assets/images/2021/10/help/pull_requests/kebab-in-pull-request-review-comment.png)
+3. [**Reference in new issue**] をクリックします。 ![[Reference in new issue] メニュー項目](/assets/images/2021/10/help/pull_requests/reference-in-new-issue.png)
+4. [Repository] ドロップダウンメニューで、開こうとするIssueがあるリポジトリを選択します。 ![新しいIssueの [Repository] ドロップダウン](/assets/images/2021/10/help/pull_requests/new-issue-repository.png)
+5. Issueのわかりやすいタイトルと本文を入力します。 ![新しいIssueのタイトルと本文](/assets/images/2021/10/help/pull_requests/new-issue-title-and-body.png)
+6. [**Create issue**] をクリックします。 ![新しいIssueを作成するボタン](/assets/images/2021/10/help/pull_requests/create-issue.png)
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
 
@@ -78,14 +78,14 @@ IssueもしくはPull Requestのコメントから、新しいIssueをオープ�
 
 コードの特定の行または複数の行から、ファイルまたはプルリクエストで Issue を開くことができます。 コードから Issue を開くと、Issue には選択した行またはコードの範囲を示すスニペットが含まれています。 Issue を開くことができるのは、コードを保存したのと同じリポジトリでだけです。
 
-![コードから開いた Issue で表示されるコードスニペット](/assets/images/help/repository/issue-opened-from-code.png)
+![コードから開いた Issue で表示されるコードスニペット](/assets/images/2021/10/help/repository/issue-opened-from-code.png)
 
 {% data reusables.repositories.navigate-to-repo %}
 1. Issue で参照したいコードを探します。
     - ファイルのコードに関する Issue を開くには、そのファイルに移動します。
     - プルリクエストのコードに関する Issue を開くには、そのプルリクエストに移動し、{% octicon "diff" aria-label="The file diff icon" %}[**Files changed**] をクリックします。 そして、コメントに含めたいコードを持つファイルを探し、** View（ビュー）**をクリックしてください。
 {% data reusables.repositories.choose-line-or-range %}
-4. コード範囲の左で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} をクリックします。 ドロップダウンメニューで、[**Reference in new issue**] をクリックします。 ![選択した行から新しいIssueを開くオプションのある三点メニュー](/assets/images/help/repository/open-new-issue-specific-line.png)
+4. コード範囲の左で、{% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} をクリックします。 ドロップダウンメニューで、[**Reference in new issue**] をクリックします。 ![選択した行から新しいIssueを開くオプションのある三点メニュー](/assets/images/2021/10/help/repository/open-new-issue-specific-line.png)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
@@ -100,7 +100,7 @@ IssueもしくはPull Requestのコメントから、新しいIssueをオープ�
 
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 右のサイドバーで、{% octicon "issue-opened" aria-label="The issues icon" %} **Create issue from discussion（ディスカッションからIssueを作成）**をクリックします。 ![ディスカッションからIssueを作成するボタン](/assets/images/help/discussions/create-issue-from-discussion.jpg)
+1. 右のサイドバーで、{% octicon "issue-opened" aria-label="The issues icon" %} **Create issue from discussion（ディスカッションからIssueを作成）**をクリックします。 ![ディスカッションからIssueを作成するボタン](/assets/images/2021/10/help/discussions/create-issue-from-discussion.jpg)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}

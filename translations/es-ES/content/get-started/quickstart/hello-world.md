@@ -41,7 +41,7 @@ Tu repositorio de `hello-world` puede ser un lugar donde almacenes ideas, recurs
 4. Selecciona si tu repositorio será **Público** o **Privado**.
 5. Haz clic en **Crear repositorio**.
 
-   ![Crear un repositorio de hello world](/assets/images/help/repository/hello-world-repo.png)
+   ![Crear un repositorio de hello world](/assets/images/2021/10/help/repository/hello-world-repo.png)
 
 ## Cómo crear una rama
 
@@ -57,7 +57,7 @@ Este diagrama muestra:
 * Una rama nueva llamada `feature`
 * El viaje que hace `feature` antes de fusionarse en `main`
 
-![diagrama de ramificado](/assets/images/help/repository/branching.png)
+![diagrama de ramificado](/assets/images/2021/10/help/repository/branching.png)
 
 ¿Alguna vez has guardado versiones distintas de un archivo? Algo como:
 
@@ -72,11 +72,11 @@ En {% data variables.product.product_name %}, nuestros desarrolladores, escritor
 ### Crear una rama
 
 1. Haz clic en la pestaña de **Código** de tu repositorio `hello-world`.
-2. Haz clic ene l menú desplegable en la parte superior del archivo que dice **main**. ![Menú de la rama](/assets/images/help/branch/branch-selection-dropdown.png)
+2. Haz clic ene l menú desplegable en la parte superior del archivo que dice **main**. ![Menú de la rama](/assets/images/2021/10/help/branch/branch-selection-dropdown.png)
 4. Teclea un nombre de rama, `readme-edits`, en la caja de texto.
 5. Haz clic en **Crear rama: readme-dits desde main**.
 
-![Menú de la rama](/assets/images/help/repository/new-branch.png)
+![Menú de la rama](/assets/images/2021/10/help/repository/new-branch.png)
 
 Ahora tienes dos ramas, `main` y `readme-edits`. Ahora mismo, se ven idénticas. A continuación, agregarás cambios a la rama nueva.
 
@@ -92,7 +92,7 @@ Puedes hacer y guardar cambios a los archivos de tu repositorio. En {% data vari
 4. En la caja de **Cambios de confirmación**, escribe un mensaje de confirmación que describa tus cambios.
 5. Haz clic en **Commit changes** (Confirmar cambios).
 
-   ![Ejemplo de confirmación](/assets/images/help/repository/first-commit.png)
+   ![Ejemplo de confirmación](/assets/images/2021/10/help/repository/first-commit.png)
 
 Estos cambios se harán únicamente al archivo README en tu rama `readme-edits`, así que ahora esta rama tiene contenido que es diferente de la de `main`.
 
@@ -113,7 +113,7 @@ Incluso puedes abrir solicitudes de cambio en tu propio repositorio y fusionarla
 3. En la caja de **Comparaciones de ejemplo**, selecciona la rama que hiciste, `readme-edits`, para compararla con `main` (la original).
 4. Mira tus cambios en los diffs en la página de Comparar, asegúrate que son lo que quieres enviar.
 
-   ![ejemplo de diff](/assets/images/help/repository/diffs.png)
+   ![ejemplo de diff](/assets/images/2021/10/help/repository/diffs.png)
 
 5. Haz clic en **Create Pull Request** (Crear solicitud de extracción).
 6. Dale un título a tu solicitud de cambios y escribe una descripción breve de estos. Puedes incluir emojis y arrastrar y soltar imágenes y gifs.
@@ -130,7 +130,7 @@ Algunas veces, una solicitud de cambios podría introducir cambios al código qu
 
 En este recorrido, no deberías de tener conflictos, así que estás listo para fusionar tu rama en la principal.
 
-1. Haz clic en **Fusionar solicitud de cambios** para fusionar los cambios en `main`. ![Captura de pantalla del botón de fusión.](/assets/images/help/pull_requests/pullrequest-mergebutton.png)
+1. Haz clic en **Fusionar solicitud de cambios** para fusionar los cambios en `main`. ![Captura de pantalla del botón de fusión.](/assets/images/2021/10/help/pull_requests/pullrequest-mergebutton.png)
 2. Haz clic en **Confirmar fusión**. Recibirás un mensaje indicando que la solicitud se fusionó con éxito y luego se cerró.
 3. Haz clic en **Borrar rama**. Ahora que tu solicitud de cambios se fusionó y tus cambios están en `main`, puedes borrar la rama `readme-edits` con seguridad. Si quieres hacer más cambios a tu proyecto, siempre puedes crear una rama nueva y repetir este proceso.
 

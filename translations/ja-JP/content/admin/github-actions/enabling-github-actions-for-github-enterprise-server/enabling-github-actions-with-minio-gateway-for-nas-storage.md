@@ -39,9 +39,9 @@ Before enabling {% data variables.product.prodname_actions %}, make sure you hav
    * **AWS S3 Bucket**: The name of your S3 bucket.
    * **AWS S3 Access Key** and **AWS S3 Secret Key**: The `MINIO_ACCESS_KEY` and `MINIO_SECRET_KEY` used for your MinIO instance. For more information, see the [MinIO documentation](https://docs.min.io/docs/minio-gateway-for-nas.html).
 
-   ![Radio button for selecting Amazon S3 Storage and fields for MinIO configuration](/assets/images/enterprise/management-console/actions-minio-s3-storage.png)
+   ![Radio button for selecting Amazon S3 Storage and fields for MinIO configuration](/assets/images/2021/10/enterprise/management-console/actions-minio-s3-storage.png)
 1. Under "Artifact & Log Storage", select **Force path style**.
-   ![Checkbox to Force path style](/assets/images/enterprise/management-console/actions-minio-force-path-style.png)
+   ![Checkbox to Force path style](/assets/images/2021/10/enterprise/management-console/actions-minio-force-path-style.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.actions.enterprise-postinstall-nextsteps %}

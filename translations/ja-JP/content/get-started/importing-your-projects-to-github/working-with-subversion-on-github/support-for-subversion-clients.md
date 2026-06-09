@@ -69,7 +69,7 @@ $ svn commit -m 'Added more_awesome topic branch'
 
 リポジトリのブランチドロップダウンに新しいブランチが存在することを確認できます:
 
-![ブランチスナップショット](/assets/images/help/branch/svnflow-branch-snapshot.png)
+![ブランチスナップショット](/assets/images/2021/10/help/branch/svnflow-branch-snapshot.png)
 
 コマンドラインで新しいブランチを確認することもできます:
 

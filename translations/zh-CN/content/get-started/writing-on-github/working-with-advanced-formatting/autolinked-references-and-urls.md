@@ -19,7 +19,7 @@ shortTitle: 自动链接的引用
 
 `访问 https://github.com`
 
-![显示的自动链接的 URL](/assets/images/help/writing/url-autolink-rendered.png)
+![显示的自动链接的 URL](/assets/images/2021/10/help/writing/url-autolink-rendered.png)
 
 有关创建链接的更多信息，请参阅“[基本撰写和格式语法](/articles/basic-writing-and-formatting-syntax/#links)”。
 

@@ -23,19 +23,19 @@ shortTitle: Administración de proyectos con Jira
 1. Inicia sesión en tu cuenta de {% data variables.product.prodname_enterprise %} en http[s]://[hostname]/login. Si ya iniciaste sesión, haz clic en el logo de {% data variables.product.prodname_dotcom %} en la esquina superior izquierda.
 2. Haz clic en tu icono de perfil debajo del logo de {% data variables.product.prodname_dotcom %} y selecciona la organización con la que te gustaría conectar a Jira.
 
-  ![Selecciona una organización](/assets/images/enterprise/orgs-and-teams/profile-select-organization.png)
+  ![Selecciona una organización](/assets/images/2021/10/enterprise/orgs-and-teams/profile-select-organization.png)
 
 3. Haz clic en el enlace de **Editar la configuración de _nombre de organización_**.
 
-  ![Editar la configuración de organización](/assets/images/enterprise/orgs-and-teams/edit-organization-settings.png)
+  ![Editar la configuración de organización](/assets/images/2021/10/enterprise/orgs-and-teams/edit-organization-settings.png)
 
 4. En la barra lateral izquierda, debajo de **Configuración de desarrollador**, haz clic en **Apps de OAuth**.
 
-  ![Selecciona Apps de OAuth](/assets/images/enterprise/orgs-and-teams/organization-dev-settings-oauth-apps.png)
+  ![Selecciona Apps de OAuth](/assets/images/2021/10/enterprise/orgs-and-teams/organization-dev-settings-oauth-apps.png)
 
 5. Haz clic en el botón de **Registrar aplicación nueva**.
 
-  ![Registrar botón de aplicación nueva](/assets/images/enterprise/orgs-and-teams/register-oauth-application-button.png)
+  ![Registrar botón de aplicación nueva](/assets/images/2021/10/enterprise/orgs-and-teams/register-oauth-application-button.png)
 
 6. Completa los parámetros de la aplicación:
     - En el campo de **Nombre de aplicación**, teclea "Jira" o cualquier nombre que te gustaría utilizar para identificar a la instancia de Jira.
@@ -49,15 +49,15 @@ shortTitle: Administración de proyectos con Jira
 1. En tu instancia de Jira, inicia sesión en una cuenta con acceso administrativo.
 2. En la parte superior de la página, haz clic en el icono de configuración (engrane) y elige **Aplicaciones**.
 
-  ![Seleccionar aplicaciones en la configuración de Jira](/assets/images/enterprise/orgs-and-teams/jira/jira-applications.png)
+  ![Seleccionar aplicaciones en la configuración de Jira](/assets/images/2021/10/enterprise/orgs-and-teams/jira/jira-applications.png)
 
 3. En la barra lateral izquierda, debajo de **Integraciones**, haz clic en **Cuentas DVCS**.
 
-  ![Menú de integraciones de Jira - Cuentas DVCS](/assets/images/enterprise/orgs-and-teams/jira/jira-integrations-dvcs.png)
+  ![Menú de integraciones de Jira - Cuentas DVCS](/assets/images/2021/10/enterprise/orgs-and-teams/jira/jira-integrations-dvcs.png)
 
 4. Haz clic en **Enlazar cuenta de Bitbucket Cloud o de {% data variables.product.prodname_dotcom %}**.
 
-  ![Enlazar cuenta de GitHub a Jira](/assets/images/enterprise/orgs-and-teams/jira/jira-link-github-account.png)
+  ![Enlazar cuenta de GitHub a Jira](/assets/images/2021/10/enterprise/orgs-and-teams/jira/jira-link-github-account.png)
 
 5. En el modal **Add New Account** (Agregar nueva cuenta), completa tus parámetros de {% data variables.product.prodname_enterprise %}:
     - Desde el menú desplegable de **Host**, elige **{% data variables.product.prodname_enterprise %}**.

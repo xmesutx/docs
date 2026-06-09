@@ -36,7 +36,7 @@ If anything prevents {% data variables.product.prodname_dependabot %} from raisi
 
 When {% data variables.product.prodname_dependabot %} is blocked from creating a pull request to fix a {% data variables.product.prodname_dependabot %} alert, it posts the error message on the alert. The {% data variables.product.prodname_dependabot_alerts %} view shows a list of any alerts that have not been resolved yet. To access the alerts view, click **{% data variables.product.prodname_dependabot_alerts %}** on the **Security** tab for the repository. Where a pull request that will fix the vulnerable dependency has been generated, the alert includes a link to that pull request.
 
-![{% data variables.product.prodname_dependabot_alerts %} view showing a pull request link](/assets/images/help/dependabot/dependabot-alert-pr-link.png)
+![{% data variables.product.prodname_dependabot_alerts %} view showing a pull request link](/assets/images/2021/10/help/dependabot/dependabot-alert-pr-link.png)
 
 There are three reasons why an alert may have no pull request link:
 
@@ -50,19 +50,19 @@ If an error blocked {% data variables.product.prodname_dependabot %} from creati
 
 When {% data variables.product.prodname_dependabot %} is blocked from creating a pull request to update a dependency in an ecosystem, it posts the error icon on the manifest file. The manifest files that are managed by {% data variables.product.prodname_dependabot %} are listed on the {% data variables.product.prodname_dependabot %} tab. To access this tab, on the **Insights** tab for the repository click **Dependency graph**, and then click the **{% data variables.product.prodname_dependabot %}** tab.
 
-![{% data variables.product.prodname_dependabot %} view showing an error](/assets/images/help/dependabot/dependabot-tab-view-error.png)
+![{% data variables.product.prodname_dependabot %} view showing an error](/assets/images/2021/11/help/dependabot/dependabot-tab-view-error.png)
 
 {% ifversion fpt or ghec %}
 
 To see the log file for any manifest file, click the **Last checked TIME ago** link. When you display the log file for a manifest that's shown with an error symbol (for example, Maven in the screenshot above), any errors are also displayed.
 
-![{% data variables.product.prodname_dependabot %} version update error and log ](/assets/images/help/dependabot/dependabot-version-update-error.png)
+![{% data variables.product.prodname_dependabot %} version update error and log ](/assets/images/2021/11/help/dependabot/dependabot-version-update-error.png)
 
 {% else %}
 
 To see the logs for any manifest file, click the **Last checked TIME ago** link, and then click **View logs**.
 
-![{% data variables.product.prodname_dependabot %} version update error and log ](/assets/images/enterprise/3.3/dependabot/dependabot-version-update-error.png)
+![{% data variables.product.prodname_dependabot %} version update error and log ](/assets/images/2021/11/enterprise/3.3/dependabot/dependabot-version-update-error.png)
 
 {% endif %}
 

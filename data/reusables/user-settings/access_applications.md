@@ -2,5 +2,5 @@
 1. In the "Integrations" section of the sidebar, click **{% octicon "apps" aria-label="The apps icon" %} Applications**.
 {% else %}
 1. In the left sidebar, click **Applications**.
-![Applications tab](/assets/images/help/settings/settings-applications.png)
+![Applications tab](/assets/images/2021/10/help/settings/settings-applications.png)
 {% endif %}

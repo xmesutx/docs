@@ -38,7 +38,7 @@ shortTitle: Access the admin shell (SSH)
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-3. "SSH access（SSHでのアクセス）"の下のテキストボックスに鍵を貼り付け、**Add key（鍵の追加）**をクリックしてください。 ![SSHキーを追加するためのテキストボックスおよびボタン](/assets/images/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
+3. "SSH access（SSHでのアクセス）"の下のテキストボックスに鍵を貼り付け、**Add key（鍵の追加）**をクリックしてください。 ![SSHキーを追加するためのテキストボックスおよびボタン](/assets/images/2021/10/enterprise/settings/add-authorized-ssh-key-admin-shell.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## SSH経由での管理シェルへの接続

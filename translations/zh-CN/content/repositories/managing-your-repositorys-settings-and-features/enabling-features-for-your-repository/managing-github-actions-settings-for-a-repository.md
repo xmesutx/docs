@@ -47,7 +47,7 @@ shortTitle: 管理 GitHub Actions 设置
 {% data reusables.repositories.settings-sidebar-actions %}
 1. 在 **Actions permissions（操作权限）**下，选择一个选项。
 
-  ![设置此组织的操作策略](/assets/images/help/repository/actions-policy.png)
+  ![设置此组织的操作策略](/assets/images/2021/10/help/repository/actions-policy.png)
 
 1. 单击 **Save（保存）**。
 
@@ -61,9 +61,9 @@ shortTitle: 管理 GitHub Actions 设置
 1. 在 **Actions permissions（操作权限）**下，选择 **Allow select actions（允许选择操作）**并将所需操作添加到列表中。
 
    {%- ifversion ghes %}
-   ![添加操作到允许列表](/assets/images/help/repository/actions-policy-allow-list.png)
+   ![添加操作到允许列表](/assets/images/2021/10/help/repository/actions-policy-allow-list.png)
    {%- else %}
-   ![添加操作到允许列表](/assets/images/enterprise/github-ae/repository/actions-policy-allow-list.png)
+   ![添加操作到允许列表](/assets/images/2021/10/enterprise/github-ae/repository/actions-policy-allow-list.png)
    {%- endif %}
 
 1. 单击 **Save（保存）**。
@@ -114,7 +114,7 @@ shortTitle: 管理 GitHub Actions 设置
 {% data reusables.repositories.settings-sidebar-actions %}
 1. 在 **Workflow permissions（工作流程权限）**下，选择您是否想要 `GITHUB_TOKENN` 读写所有范围限， 或者只读`内容`范围。
 
-  ![为此仓库设置 GITHUB_TOKENN 权限](/assets/images/help/settings/actions-workflow-permissions-repository.png)
+  ![为此仓库设置 GITHUB_TOKENN 权限](/assets/images/2021/10/help/settings/actions-workflow-permissions-repository.png)
 
 1. 单击 **Save（保存）**以应用设置。
 {% endif %}
@@ -131,7 +131,7 @@ shortTitle: 管理 GitHub Actions 设置
 {% data reusables.repositories.settings-sidebar-actions %}
 1. 在 **Access（访问）**下，选择以下访问设置之一：
 
-   {% ifversion ghes > 3.4 or ghae-issue-6090 or ghec %}![Set the access to Actions components](/assets/images/help/settings/actions-access-settings.png){% else %}![Set the access to Actions components](/assets/images/enterprise/3.4/actions-access-settings.png){% endif %}
+   {% ifversion ghes > 3.4 or ghae-issue-6090 or ghec %}![Set the access to Actions components](/assets/images/2021/10/help/settings/actions-access-settings.png){% else %}![Set the access to Actions components](/assets/images/2022/01/enterprise/3.4/actions-access-settings.png){% endif %}
 
    * **Not accessible（无法访问）**- 其他存储库中的工作流程无法访问此存储库。
    * **可从 'ORGANIZATION NAME' 组织中的存储库访问** - {% ifversion ghes > 3.4 or ghae-issue-6090 or ghec %}属于 'ORGANIZATION NAME' 组织的其他存储库中的工作流程可以访问此存储库中的操作和工作流程。 仅允许从私有或内部存储库进行访问。{% else %}如果其他存储库中的工作流程属于同一组织，并且其可见性是私有或内部，则可以使用此存储库中的工作流程。{% endif %}

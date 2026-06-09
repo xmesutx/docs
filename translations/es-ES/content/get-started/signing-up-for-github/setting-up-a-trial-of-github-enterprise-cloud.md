@@ -49,9 +49,9 @@ Before you can try {% data variables.product.prodname_ghe_cloud %}, you must be 
 
 1. Navigate to [{% data variables.product.prodname_dotcom %} for enterprises](https://github.com/enterprise).
 1. Click **Start a free trial**.
-   !["Start a free trial" button](/assets/images/help/organizations/start-a-free-trial-button.png)
+   !["Start a free trial" button](/assets/images/2021/10/help/organizations/start-a-free-trial-button.png)
 1. Click **Enterprise Cloud**.
-   !["Enterprise Cloud" button](/assets/images/help/organizations/enterprise-cloud-trial-option.png)
+   !["Enterprise Cloud" button](/assets/images/2021/10/help/organizations/enterprise-cloud-trial-option.png)
 1. Follow the prompts to configure your trial.
 
 ## Exploring {% data variables.product.prodname_ghe_cloud %}
@@ -76,5 +76,5 @@ Downgrading also disables any SAML settings configured during the trial period. 
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.billing_plans %}
 5. Under "{% data variables.product.prodname_ghe_cloud %} Free Trial", click **Buy Enterprise** or **Downgrade to Team**.
-  ![Buy Enterprise and Downgrade to Team buttons](/assets/images/help/organizations/finish-trial-buttons.png)
+  ![Buy Enterprise and Downgrade to Team buttons](/assets/images/2021/10/help/organizations/finish-trial-buttons.png)
 6. Follow the prompts to enter your payment method, then click **Submit**.

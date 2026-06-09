@@ -21,7 +21,7 @@ shortTitle: 使用个人电子邮件阻止推送
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
 {% data reusables.user-settings.keeping_your_email_address_private %}
-4. 要在您从命令行推送的提交中保密电子邮件地址，请选择 **Block command line pushes that expose my email（阻止会暴露我个人电子邮件地址的命令行推送）**。 ![阻止会暴露个人电子邮件地址的命令行推送的选项](/assets/images/help/settings/email_privacy_block_command_line_pushes.png)
+4. 要在您从命令行推送的提交中保密电子邮件地址，请选择 **Block command line pushes that expose my email（阻止会暴露我个人电子邮件地址的命令行推送）**。 ![阻止会暴露个人电子邮件地址的命令行推送的选项](/assets/images/2021/10/help/settings/email_privacy_block_command_line_pushes.png)
 
 ## 延伸阅读
 

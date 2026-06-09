@@ -27,7 +27,7 @@ Organization に許可リストがある場合、{% data variables.product.prodn
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-1. [IP allow list] セクションまで下にスクロールします。 ![GitHub Appの基本情報セクション](/assets/images/github-apps/github-apps-allow-list-empty.png)
+1. [IP allow list] セクションまで下にスクロールします。 ![GitHub Appの基本情報セクション](/assets/images/2021/10/github-apps/github-apps-allow-list-empty.png)
 {% data reusables.identity-and-permissions.ip-allow-lists-add-ip %}
 {% data reusables.identity-and-permissions.ip-allow-lists-add-description %}
   この説明は参考用であり、{% data variables.product.prodname_github_app %} がインストールされた Organization の許可リストで使用するものではありません。 Organization の許可リストには、説明として [Managed by the NAME GitHub App] が含まれることになります。

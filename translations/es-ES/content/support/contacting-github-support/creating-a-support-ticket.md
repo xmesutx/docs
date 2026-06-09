@@ -81,8 +81,8 @@ Especialmente para los tickets con prioridad {% data variables.product.support_t
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.type-management-console-password %}
 {% data reusables.enterprise_management_console.support-link %}
-1. Si deseas incluir los diagnósticos con tu ticket de soporte, en "Diagnostics" (Diagnóstico), haz clic en **Download diagnostic info** (Descargar información de diagnóstico) y guarda el archivo localmente. Adjuntarás este archivo a tu ticket de soporte posteriormente. ![Screenshot of button labelled "Download diagnostics info" on Management Console Support page.](/assets/images/enterprise/support/download-diagnostics-info-button.png)
-1. Para completar tu ticket y mostrar el {% data variables.contact.enterprise_portal %}, debajo de "Abrir Solicitud de Soporte", haz clic en **Solicitud de soporte nueva**. ![Screenshot of button labelled "New support request" on Management Console Support page.](/assets/images/enterprise/management-console/open-support-request.png)
+1. Si deseas incluir los diagnósticos con tu ticket de soporte, en "Diagnostics" (Diagnóstico), haz clic en **Download diagnostic info** (Descargar información de diagnóstico) y guarda el archivo localmente. Adjuntarás este archivo a tu ticket de soporte posteriormente. ![Screenshot of button labelled "Download diagnostics info" on Management Console Support page.](/assets/images/2021/10/enterprise/support/download-diagnostics-info-button.png)
+1. Para completar tu ticket y mostrar el {% data variables.contact.enterprise_portal %}, debajo de "Abrir Solicitud de Soporte", haz clic en **Solicitud de soporte nueva**. ![Screenshot of button labelled "New support request" on Management Console Support page.](/assets/images/2021/10/enterprise/management-console/open-support-request.png)
 {% data reusables.support.submit-a-ticket %}
 
 {% endif %}

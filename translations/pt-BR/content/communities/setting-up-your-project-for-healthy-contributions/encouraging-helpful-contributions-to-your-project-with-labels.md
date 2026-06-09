@@ -20,7 +20,7 @@ O {% data variables.product.prodname_dotcom %} usa um algoritmo para determinar 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 {% data reusables.repositories.select-items-in-issue-or-pr-list %}
-4. No canto superior direito, clique em **Label** (Etiqueta) e comece a digitar `good first issue` (um bom primeiro problema). Clique no nome da etiqueta para associá-la aos itens selecionados. ![Menu suspenso atribuição Marco Problemas](/assets/images/help/issues/issues_applying_labels_dropdown.png)
+4. No canto superior direito, clique em **Label** (Etiqueta) e comece a digitar `good first issue` (um bom primeiro problema). Clique no nome da etiqueta para associá-la aos itens selecionados. ![Menu suspenso atribuição Marco Problemas](/assets/images/2021/10/help/issues/issues_applying_labels_dropdown.png)
 
 ## Leia mais
 

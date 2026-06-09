@@ -38,9 +38,9 @@ Puedes filtrar las notificaciones por correo electrónico que recibes para las i
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-notifications %}
-5. Escribe hasta dos direcciones de correo electrónico, separadas por espacio en blanco, donde quieras que se envíen las notificaciones. Si quieres enviar los correos electrónicos a más de dos cuentas, configura una de las direcciones de correo electrónico a una dirección de correo electrónico del grupo. ![Cuadro de texto dirección de correo electrónico](/assets/images/help/settings/email_services_addresses.png)
-1. Si operas tu propio servidor, puedes verificar la integridad de los correos electrónicos a través del **Encabezado aprobado**. El **Encabezado aprobado** es un token o un secreto que tecleas en este campo y que se envía con el correo electrónico. Si el encabezado que está como `Approved` en un correo electrónico empata con el token, puedes confiar en que dicho correo es de {% data variables.product.product_name %}. ![Caja de texto de correo de encabezado aprobado](/assets/images/help/settings/email_services_approved_header.png)
-7. Da clic en **Configurar notificaciones**. ![Botón de configurar notificaciones](/assets/images/help/settings/setup_notifications_settings.png)
+5. Escribe hasta dos direcciones de correo electrónico, separadas por espacio en blanco, donde quieras que se envíen las notificaciones. Si quieres enviar los correos electrónicos a más de dos cuentas, configura una de las direcciones de correo electrónico a una dirección de correo electrónico del grupo. ![Cuadro de texto dirección de correo electrónico](/assets/images/2021/10/help/settings/email_services_addresses.png)
+1. Si operas tu propio servidor, puedes verificar la integridad de los correos electrónicos a través del **Encabezado aprobado**. El **Encabezado aprobado** es un token o un secreto que tecleas en este campo y que se envía con el correo electrónico. Si el encabezado que está como `Approved` en un correo electrónico empata con el token, puedes confiar en que dicho correo es de {% data variables.product.product_name %}. ![Caja de texto de correo de encabezado aprobado](/assets/images/2021/10/help/settings/email_services_approved_header.png)
+7. Da clic en **Configurar notificaciones**. ![Botón de configurar notificaciones](/assets/images/2021/10/help/settings/setup_notifications_settings.png)
 
 ## Leer más
 {% ifversion fpt or ghae or ghes or ghec %}

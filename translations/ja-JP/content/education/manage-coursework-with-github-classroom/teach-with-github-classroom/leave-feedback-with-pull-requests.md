@@ -23,9 +23,9 @@ shortTitle: プルリクエスト
 ## 課題のプルリクエストにフィードバックを行う
 
 {% data reusables.classroom.sign-into-github-classroom %}
-1. クラスルームのリストで、レビューする課題のあるクラスルームをクリックします。 ![Organizationのクラスルームのリストにあるクラスルーム](/assets/images/help/classroom/click-classroom-in-list.png)
+1. クラスルームのリストで、レビューする課題のあるクラスルームをクリックします。 ![Organizationのクラスルームのリストにあるクラスルーム](/assets/images/2021/10/help/classroom/click-classroom-in-list.png)
 {% data reusables.classroom.click-assignment-in-list %}
-1. 提出物の右側にある、[**Review**] をクリックします。 ![提出した課題のリストにある、課題の [Review] ボタン](/assets/images/help/classroom/assignments-click-review-button.png)
+1. 提出物の右側にある、[**Review**] をクリックします。 ![提出した課題のリストにある、課題の [Review] ボタン](/assets/images/2021/10/help/classroom/assignments-click-review-button.png)
 1. プルリクエストをレビューします。 詳しい情報については、「[プルリクエストへコメントする](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request)」を参照してください。
 
 ## 参考リンク

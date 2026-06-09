@@ -21,9 +21,9 @@ shortTitle: Manage a team discussion
 {% data reusables.organizations.team-discussions-tab %}
 6. Click {% octicon "kebab-horizontal" aria-label="The edit icon" %} next to the team discussion you want to edit or delete.
 7. Click **Edit**. Optionally, click **Delete**.
-  ![Edit team discussion button](/assets/images/help/projects/edit-team-discussions-button.png)
+  ![Edit team discussion button](/assets/images/2021/10/help/projects/edit-team-discussions-button.png)
 8. Modify the team discussion title and comment as needed, and click **Update comment**.
-  ![Update comment button](/assets/images/help/projects/update-comment-button.png)
+  ![Update comment button](/assets/images/2021/10/help/projects/update-comment-button.png)
 
 ## Further reading
 

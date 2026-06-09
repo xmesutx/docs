@@ -20,7 +20,7 @@ shortTitle: 按主题分类
 
 使用主题可以探索特定主题领域的仓库，查找要参与的项目，以及发现特定问题的新解决方案。 主题显示在仓库的主页面上。 您可以单击主题名称以{% ifversion fpt or ghec %}查看相关主题及其他以该主题分类的仓库列表{% else %}搜索使用该主题的其他仓库{% endif %}。
 
-![显示主题的测试仓库主页面](/assets/images/help/repository/os-repo-with-topics.png)
+![显示主题的测试仓库主页面](/assets/images/2021/10/help/repository/os-repo-with-topics.png)
 
 要浏览最常用的主题，请访问 https://github.com/topics/
 
@@ -35,6 +35,6 @@ shortTitle: 按主题分类
 ## 添加主题到仓库
 
 {% data reusables.repositories.navigate-to-repo %}
-2. 在“About（关于）”右侧，单击 {% octicon "gear" aria-label="The Gear icon" %}。 ![仓库主页上的齿轮图标](/assets/images/help/repository/edit-repository-details-gear.png)
-3. 在“"Topics（主题）”下，键入要添加到仓库的主题，然后键入空格。 ![输入主题的表单](/assets/images/help/repository/add-topic-form.png)
-4. 完成添加主题后，单击 **Save changes（保存更改）**。 !["Edit repository details（编辑仓库详细信息）"中的"Save changes（保存更改）"按钮](/assets/images/help/repository/edit-repository-details-save-changes-button.png)
+2. 在“About（关于）”右侧，单击 {% octicon "gear" aria-label="The Gear icon" %}。 ![仓库主页上的齿轮图标](/assets/images/2021/10/help/repository/edit-repository-details-gear.png)
+3. 在“"Topics（主题）”下，键入要添加到仓库的主题，然后键入空格。 ![输入主题的表单](/assets/images/2021/10/help/repository/add-topic-form.png)
+4. 完成添加主题后，单击 **Save changes（保存更改）**。 !["Edit repository details（编辑仓库详细信息）"中的"Save changes（保存更改）"按钮](/assets/images/2021/10/help/repository/edit-repository-details-save-changes-button.png)

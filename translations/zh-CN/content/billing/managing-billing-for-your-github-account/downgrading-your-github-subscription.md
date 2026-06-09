@@ -39,8 +39,8 @@ shortTitle: 降级订阅
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
-1. 在“Current plan（当前计划）”下，使用 **Edit（编辑）**下拉菜单并单击 **Downgrade to Free（降级到免费 ）**。 ![降级到免费按钮](/assets/images/help/billing/downgrade-to-free.png)
-5. 阅读有关信息，了解您的用户帐户在下一个结算日期将不再拥有访问权限的功能，然后单击 **I understand. Continue with downgrade（我明白。继续降级）**。 ![继续降级按钮](/assets/images/help/billing/continue-with-downgrade.png)
+1. 在“Current plan（当前计划）”下，使用 **Edit（编辑）**下拉菜单并单击 **Downgrade to Free（降级到免费 ）**。 ![降级到免费按钮](/assets/images/2021/10/help/billing/downgrade-to-free.png)
+5. 阅读有关信息，了解您的用户帐户在下一个结算日期将不再拥有访问权限的功能，然后单击 **I understand. Continue with downgrade（我明白。继续降级）**。 ![继续降级按钮](/assets/images/2021/10/help/billing/continue-with-downgrade.png)
 
 如果您在私有仓库中发布了 {% data variables.product.prodname_pages %} 站点，并添加了自定义域，在从 {% data variables.product.prodname_pro %} 降级至 {% data variables.product.prodname_free_user %} 前，请删除或更新您的 DNS 记录，以避免域接管的风险。 更多信息请参阅“[管理 {% data variables.product.prodname_pages %} 网站的自定义域](/articles/managing-a-custom-domain-for-your-github-pages-site)。
 
@@ -53,7 +53,7 @@ shortTitle: 降级订阅
 如果将您的组织从 {% data variables.product.prodname_ghe_cloud %} 降级到 {% data variables.product.prodname_team %} 或 {% data variables.product.prodname_free_team %}，该帐户将失去对高级安全性、合规性和部署控件的访问权限。 {% data reusables.gated-features.more-info %}
 
 {% data reusables.organizations.billing-settings %}
-1. 在“Current plan（当前计划）”下，使用 **Edit（编辑）**下拉菜单，单击您想要的降级选项。 ![降级按钮](/assets/images/help/billing/downgrade-option-button.png)
+1. 在“Current plan（当前计划）”下，使用 **Edit（编辑）**下拉菜单，单击您想要的降级选项。 ![降级按钮](/assets/images/2021/10/help/billing/downgrade-option-button.png)
 {% data reusables.dotcom_billing.confirm_cancel_org_plan %}
 
 ## 降级采用传统的按仓库定价模式的组织订阅
@@ -63,9 +63,9 @@ shortTitle: 降级订阅
 {% data reusables.dotcom_billing.switch-legacy-billing %} 更多信息请参阅“[将组织从按仓库定价切换为按用户定价](/billing/managing-billing-for-your-github-account/upgrading-your-github-subscription#switching-your-organization-from-per-repository-to-per-user-pricing)”。
 
 {% data reusables.organizations.billing-settings %}
-5. 在“Subscriptions（订阅）”下，选择“Edit（编辑）”下拉菜单，然后单击 **Edit plan（编辑计划）**。 ![编辑计划下拉菜单](/assets/images/help/billing/edit-plan-dropdown.png)
-1. 在“Billing/Plans（计费/计划）”下您要更改的计划旁边，单击 **Downgrade（降级）**。 ![降级按钮](/assets/images/help/billing/downgrade-plan-option-button.png)
-1. 输入要降级帐户的原因，然后单击 **Downgrade plan（降级计划）**。 ![降级原因文本框和降级按钮](/assets/images/help/billing/downgrade-plan-button.png)
+5. 在“Subscriptions（订阅）”下，选择“Edit（编辑）”下拉菜单，然后单击 **Edit plan（编辑计划）**。 ![编辑计划下拉菜单](/assets/images/2021/10/help/billing/edit-plan-dropdown.png)
+1. 在“Billing/Plans（计费/计划）”下您要更改的计划旁边，单击 **Downgrade（降级）**。 ![降级按钮](/assets/images/2021/10/help/billing/downgrade-plan-option-button.png)
+1. 输入要降级帐户的原因，然后单击 **Downgrade plan（降级计划）**。 ![降级原因文本框和降级按钮](/assets/images/2021/10/help/billing/downgrade-plan-button.png)
 
 ## 从组织删除付费席位
 
@@ -75,9 +75,9 @@ shortTitle: 降级订阅
 - "[管理个人对组织仓库的访问](/articles/managing-an-individual-s-access-to-an-organization-repository)"
 
 {% data reusables.organizations.billing-settings %}
-1. 在“Current plan（当前计划）”下，使用 **Edit（编辑）**下拉菜单并单击 **Remove seats（删除席位）**。 ![删除席位下拉菜单](/assets/images/help/billing/remove-seats-dropdown.png)
-1. 在“Remove seats”（删除席位）下，选择要降级的席位数。 ![删除席位选项](/assets/images/help/billing/remove-seats-amount.png)
-1. 审查有关在下一个结算日期执行新付款方式的信息，然后单击 **Remove seats（删除席位）**。 ![删除席位按钮](/assets/images/help/billing/remove-seats-button.png)
+1. 在“Current plan（当前计划）”下，使用 **Edit（编辑）**下拉菜单并单击 **Remove seats（删除席位）**。 ![删除席位下拉菜单](/assets/images/2021/10/help/billing/remove-seats-dropdown.png)
+1. 在“Remove seats”（删除席位）下，选择要降级的席位数。 ![删除席位选项](/assets/images/2021/10/help/billing/remove-seats-amount.png)
+1. 审查有关在下一个结算日期执行新付款方式的信息，然后单击 **Remove seats（删除席位）**。 ![删除席位按钮](/assets/images/2021/10/help/billing/remove-seats-button.png)
 
 ## 延伸阅读
 

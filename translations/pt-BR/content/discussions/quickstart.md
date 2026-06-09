@@ -22,10 +22,10 @@ Os proprietários de repositórios e pessoas com acesso de escrita podem habilit
 Ao habilitar {% data variables.product.prodname_discussions %} pela primeira vez, você será convidado a configurar um post de boas-vindas.
 
 {% data reusables.repositories.navigate-to-repo %}
-1. No nome do seu repositório, clique em {% octicon "gear" aria-label="The gear icon" %} **Configurações**. ![Botão de configurações públicas](/assets/images/help/discussions/public-repo-settings.png)
-1. Em "Recursos", clique em **Configurar discussões**. ![Configure um botão de discussão em "Recursos" para habilitar ou desabilitar as Discussões do GitHub para um repositório](/assets/images/help/discussions/setup-discussions-button.png)
+1. No nome do seu repositório, clique em {% octicon "gear" aria-label="The gear icon" %} **Configurações**. ![Botão de configurações públicas](/assets/images/2021/10/help/discussions/public-repo-settings.png)
+1. Em "Recursos", clique em **Configurar discussões**. ![Configure um botão de discussão em "Recursos" para habilitar ou desabilitar as Discussões do GitHub para um repositório](/assets/images/2021/10/help/discussions/setup-discussions-button.png)
 1. Em "Iniciar uma nova discussão", edite o modelo para que fique alinhado aos recursos e tom que você deseja definir para sua comunidade.
-1. Clique em **Iniciar discussão**. ![Botão "Iniciar discussão"](/assets/images/help/discussions/new-discussion-start-discussion-button.png)
+1. Clique em **Iniciar discussão**. ![Botão "Iniciar discussão"](/assets/images/2021/10/help/discussions/new-discussion-start-discussion-button.png)
 
 ## Dar as boas-vindas às contribuições para as suas discussões
 

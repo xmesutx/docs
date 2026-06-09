@@ -35,15 +35,15 @@ topics:
 
 您可以将您的项目视为高密度表布局：
 
-![项目表](/assets/images/help/issues/projects_table.png)
+![项目表](/assets/images/2021/10/help/issues/projects_table.png)
 
 或作为板：
 
-![项目板](/assets/images/help/issues/projects_board.png)
+![项目板](/assets/images/2021/10/help/issues/projects_board.png)
 
 为了帮助您专注于项目的特定方面，您可以对项目进行分组、排序或筛选：
 
-![项目视图](/assets/images/help/issues/project_view.png)
+![项目视图](/assets/images/2021/10/help/issues/project_view.png)
 
 更多信息请参阅“[自定义项目视图](/issues/trying-out-the-new-projects-experience/customizing-your-project-views)”。
 

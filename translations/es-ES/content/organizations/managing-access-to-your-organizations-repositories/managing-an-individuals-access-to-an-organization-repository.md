@@ -34,18 +34,18 @@ Puedes otorgarle a alguien acceso a un repositorio o cambiar su nivel de acceso 
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-manage-access %}
 {% data reusables.organizations.invite-teams-or-people %}
-1. En el campo de búsqueda, comienza a teclear el nombre de la persona que desees invitar y luego haz clic en un nombre de la lista de coincidencias. ![Campo de búsqueda para teclear el nombre del equipo o persona que deseas invitar al repositorio](/assets/images/help/repository/manage-access-invite-search-field.png)
-6. Debajo de "Elige un rol", selecciona el rol de repositorio que quieres asignar a la persona y luego haz clic en **Agregar NOMBRE a REPOSITORIO**. ![Seleccionar los permisos para el equipo o persona](/assets/images/help/repository/manage-access-invite-choose-role-add.png)
+1. En el campo de búsqueda, comienza a teclear el nombre de la persona que desees invitar y luego haz clic en un nombre de la lista de coincidencias. ![Campo de búsqueda para teclear el nombre del equipo o persona que deseas invitar al repositorio](/assets/images/2021/10/help/repository/manage-access-invite-search-field.png)
+6. Debajo de "Elige un rol", selecciona el rol de repositorio que quieres asignar a la persona y luego haz clic en **Agregar NOMBRE a REPOSITORIO**. ![Seleccionar los permisos para el equipo o persona](/assets/images/2021/10/help/repository/manage-access-invite-choose-role-add.png)
 
 ## Administrar el acceso de una persona a un repositorio de una organización
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Haz clic en **Members (Miembros)** o **Outside collaborators (Colaboradores externos)** para administrar las personas con diferentes tipos de acceso. ![Botón para invitar a miembros o colaboradores externos a una organización](/assets/images/help/organizations/select-outside-collaborators.png)
-5. A la derecha del nombre de la persona que desearías administrar, utiliza el menú desplegable {% octicon "gear" aria-label="The Settings gear" %}, y haz clic en **Manage (Administrar)**. ![Enlace de acceso al gerente](/assets/images/help/organizations/member-manage-access.png)
-6. En la página "Manage access" (Administrar el acceso), al lado del repositorio, haz clic en **Manage access (Administrar el acceso)**. ![Botón de administración de acceso a un repositorio](/assets/images/help/organizations/repository-manage-access.png)
-7. Revisa el acceso de la persona a un repositorio determinado, como si fuera un colaborador o si tuviera acceso a un repositorio por medio de una membresía de equipo. ![Matriz de acceso a repositorio para el usuario](/assets/images/help/organizations/repository-access-matrix-for-user.png)
+4. Haz clic en **Members (Miembros)** o **Outside collaborators (Colaboradores externos)** para administrar las personas con diferentes tipos de acceso. ![Botón para invitar a miembros o colaboradores externos a una organización](/assets/images/2021/10/help/organizations/select-outside-collaborators.png)
+5. A la derecha del nombre de la persona que desearías administrar, utiliza el menú desplegable {% octicon "gear" aria-label="The Settings gear" %}, y haz clic en **Manage (Administrar)**. ![Enlace de acceso al gerente](/assets/images/2021/10/help/organizations/member-manage-access.png)
+6. En la página "Manage access" (Administrar el acceso), al lado del repositorio, haz clic en **Manage access (Administrar el acceso)**. ![Botón de administración de acceso a un repositorio](/assets/images/2021/10/help/organizations/repository-manage-access.png)
+7. Revisa el acceso de la persona a un repositorio determinado, como si fuera un colaborador o si tuviera acceso a un repositorio por medio de una membresía de equipo. ![Matriz de acceso a repositorio para el usuario](/assets/images/2021/10/help/organizations/repository-access-matrix-for-user.png)
 {% endif %}
 ## Leer más
 

@@ -21,4 +21,4 @@ Para obter mais informações sobre IDEs, consulte "[Integrar {% data variables.
 {% data reusables.classroom.sign-into-github-classroom %}
 {% data reusables.classroom.click-classroom-in-list %}
 {% data reusables.classroom.click-assignment-in-list %}
-1. À direita do envio, clique em **Visualizar IDE**. ![Botão "Visualizar IDE" para envio usando um IDE on-line](/assets/images/help/classroom/assignments-click-view-ide.png)
+1. À direita do envio, clique em **Visualizar IDE**. ![Botão "Visualizar IDE" para envio usando um IDE on-line](/assets/images/2021/10/help/classroom/assignments-click-view-ide.png)

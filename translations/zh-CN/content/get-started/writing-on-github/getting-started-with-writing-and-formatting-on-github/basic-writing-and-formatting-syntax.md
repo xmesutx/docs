@@ -23,11 +23,11 @@ shortTitle: 基本格式语法
 ###### 最小标题
 ```
 
-![渲染的 H1、H2 和 H6 标题](/assets/images/help/writing/headings-rendered.png)
+![渲染的 H1、H2 和 H6 标题](/assets/images/2021/10/help/writing/headings-rendered.png)
 
 When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking {% octicon "list-unordered" aria-label="The unordered list icon" %} within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
 
-![Screenshot highlighting the table of contents icon](/assets/images/help/repository/headings_toc.png)
+![Screenshot highlighting the table of contents icon](/assets/images/2022/02/help/repository/headings_toc.png)
 
 
 ## 样式文本
@@ -52,7 +52,7 @@ Text that is not a quote
 > Text that is a quote
 ```
 
-![渲染的引用文本](/assets/images/help/writing/quoted-text-rendered.png)
+![渲染的引用文本](/assets/images/2021/10/help/writing/quoted-text-rendered.png)
 
 {% tip %}
 
@@ -68,7 +68,7 @@ Text that is not a quote
 使用 `git status` 列出尚未提交的所有新文件或已修改文件。
 ```
 
-![渲染的内联代码块](/assets/images/help/writing/inline-code-rendered.png)
+![渲染的内联代码块](/assets/images/2021/10/help/writing/inline-code-rendered.png)
 
 要将代码或文本格式化为各自的不同块，请使用三反引号。
 
@@ -81,7 +81,7 @@ git commit
 ```
 </pre>
 
-![渲染的代码块](/assets/images/help/writing/code-block-rendered.png)
+![渲染的代码块](/assets/images/2021/10/help/writing/code-block-rendered.png)
 
 更多信息请参阅“[创建和突出显示代码块](/articles/creating-and-highlighting-code-blocks)”。
 
@@ -93,7 +93,7 @@ git commit
 
 `本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的。`
 
-![渲染的链接](/assets/images/help/writing/link-rendered.png)
+![渲染的链接](/assets/images/2021/10/help/writing/link-rendered.png)
 
 {% tip %}
 
@@ -115,7 +115,7 @@ You can display an image by adding <kbd>!</kbd> and wrapping the alt text in `[ 
 
 `![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)`
 
-![渲染的图像](/assets/images/help/writing/image-rendered.png)
+![渲染的图像](/assets/images/2021/10/help/writing/image-rendered.png)
 
 {% data variables.product.product_name %} 支持将图像嵌入到您的议题、拉取请求{% ifversion fpt or ghec %}、讨论{% endif %}、评论和 `.md` 文件中。 您可以从仓库显示图像、添加在线图像链接或上传图像。 更多信息请参阅“[上传资产](#uploading-assets)”。
 
@@ -129,11 +129,11 @@ You can display an image by adding <kbd>!</kbd> and wrapping the alt text in `[ 
 
 | 上下文                | 相对链接                                                                   |
 | ------------------ | ---------------------------------------------------------------------- |
-| 在同一个分支上的 `.md` 文件中 | `/assets/images/electrocat.png`                                        |
-| 在另一个分支的 `.md` 文件中  | `/../main/assets/images/electrocat.png`                                |
-| 在仓库的议题、拉取请求和评论中    | `../blob/main/assets/images/electrocat.png`                            |
-| 在另一个仓库的 `.md` 文件中  | `/../../../../github/docs/blob/main/assets/images/electrocat.png`      |
-| 在另一个仓库的议题、拉取请求和评论中 | `../../../github/docs/blob/main/assets/images/electrocat.png?raw=true` |
+| 在同一个分支上的 `.md` 文件中 | `/assets/images/2021/10/electrocat.png`                                        |
+| 在另一个分支的 `.md` 文件中  | `/../main/assets/images/2021/10/electrocat.png`                                |
+| 在仓库的议题、拉取请求和评论中    | `../blob/main/assets/images/2021/10/electrocat.png`                            |
+| 在另一个仓库的 `.md` 文件中  | `/../../../../github/docs/blob/main/assets/images/2021/10/electrocat.png`      |
+| 在另一个仓库的议题、拉取请求和评论中 | `../../../github/docs/blob/main/assets/images/2021/10/electrocat.png?raw=true` |
 
 {% note %}
 
@@ -166,7 +166,7 @@ We distinguish between light and dark color modes, so there are two options avai
 - Thomas Jefferson
 ```
 
-![渲染的无序列表](/assets/images/help/writing/unordered-list-rendered.png)
+![渲染的无序列表](/assets/images/2021/10/help/writing/unordered-list-rendered.png)
 
 要对列表排序，请在每行前面添加一个编号。
 
@@ -176,7 +176,7 @@ We distinguish between light and dark color modes, so there are two options avai
 3. John Quincy Adams
 ```
 
-![渲染的有序列表](/assets/images/help/writing/ordered-list-rendered.png)
+![渲染的有序列表](/assets/images/2021/10/help/writing/ordered-list-rendered.png)
 
 ### 嵌套列表
 
@@ -190,9 +190,9 @@ We distinguish between light and dark color modes, so there are two options avai
      - 第二个嵌套列表项
 ```
 
-![突出显示对齐的嵌套列表](/assets/images/help/writing/nested-list-alignment.png)
+![突出显示对齐的嵌套列表](/assets/images/2021/10/help/writing/nested-list-alignment.png)
 
-![含两级嵌套项的列表](/assets/images/help/writing/nested-list-example-1.png)
+![含两级嵌套项的列表](/assets/images/2021/10/help/writing/nested-list-example-1.png)
 
 要在 {% data variables.product.product_name %} 上的评论编辑器中创建嵌套列表（不使用等宽字体），您可以查看嵌套列表正上方的列表项，并计算该条目内容前面的字符数量。 然后在嵌套列表项的前面键入该数量的空格字符。
 
@@ -203,7 +203,7 @@ We distinguish between light and dark color modes, so there are two options avai
      - 第一个嵌套列表项
 ```
 
-![含一个嵌套列表项的列表](/assets/images/help/writing/nested-list-example-3.png)
+![含一个嵌套列表项的列表](/assets/images/2021/10/help/writing/nested-list-example-3.png)
 
 您可以使用相同的方法创建多层级嵌套列表。 例如，由于在第一个嵌套列表项中，嵌套列表项内容`第一个嵌套列表项`之前有七个字符 (`␣␣␣␣␣-␣`)，因此需要将第二个嵌套列表项缩进七个空格。
 
@@ -213,7 +213,7 @@ We distinguish between light and dark color modes, so there are two options avai
        - 第二个嵌套列表项
 ```
 
-![含两级嵌套项的列表](/assets/images/help/writing/nested-list-example-2.png)
+![含两级嵌套项的列表](/assets/images/2021/10/help/writing/nested-list-example-2.png)
 
 更多示例请参阅 [GitHub Flavored Markdown 规范](https://github.github.com/gfm/#example-265)。
 
@@ -233,7 +233,7 @@ If a task list item description begins with a parenthesis, you'll need to escape
 
 `@github/support 您如何看待这些更新？`
 
-![渲染的 @提及](/assets/images/help/writing/mention-rendered.png)
+![渲染的 @提及](/assets/images/2021/10/help/writing/mention-rendered.png)
 
 当您提及父团队时，其子团队的成员也会收到通知，这简化了与多个人员团队的沟通。 更多信息请参阅“[关于团队](/articles/about-teams)”。
 
@@ -256,7 +256,7 @@ If a task list item description begins with a parenthesis, you'll need to escape
 
 有些 {% data variables.product.prodname_github_apps %} 在 {% data variables.product.product_name %} 中提供链接到其注册域名的 URL 信息。 {% data variables.product.product_name %} 可渲染应用程序在正文或者议题或拉取请求的评论中的 URL 下提供的信息。
 
-![内容附件](/assets/images/github-apps/content_reference_attachment.png)
+![内容附件](/assets/images/2021/10/github-apps/content_reference_attachment.png)
 
 要查看内容附件，您必须拥有使用仓库中安装的内容附件 API 的 {% data variables.product.prodname_github_app %}。{% ifversion fpt or ghec %} 更多信息请参阅“[在个人帐户中安装应用程序](/articles/installing-an-app-in-your-personal-account)”和“[在组织中安装应用程序](/articles/installing-an-app-in-your-organization)”。{% endif %}
 
@@ -274,7 +274,7 @@ For more information about building a {% data variables.product.prodname_github_
 
 `@octocat :+1: 这个 PR 看起来很棒 - 可以合并了！ :shipit:`
 
-![渲染的表情符号](/assets/images/help/writing/emoji-rendered.png)
+![渲染的表情符号](/assets/images/2021/10/help/writing/emoji-rendered.png)
 
 键入 <kbd>:</kbd> 将显示建议的表情符号列表。 列表将在您键入时进行过滤，因此一旦找到所需表情符号，请按 **Tab** 或 **Enter** 键以填写选中的结果。
 
@@ -306,7 +306,7 @@ You can also use words, to fit your writing style more closely[^note].
 
 脚注将呈现如下：
 
-![渲染的脚注](/assets/images/site/rendered-footnote.png)
+![渲染的脚注](/assets/images/2021/10/site/rendered-footnote.png)
 
 {% tip %}
 
@@ -329,7 +329,7 @@ You can tell {% data variables.product.product_name %} to ignore (or escape) Mar
 
 `让我们将 \*our-new-project\* 重命名为 \*our-old-project\*。`
 
-![渲染的规避字符](/assets/images/help/writing/escaped-character-rendered.png)
+![渲染的规避字符](/assets/images/2021/10/help/writing/escaped-character-rendered.png)
 
 更多信息请参阅 Daring Fireball 的“[Markdown 语法](https://daringfireball.net/projects/markdown/syntax#backslash)”。
 

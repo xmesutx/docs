@@ -29,4 +29,4 @@ shortTitle: 社交媒体预览
     - 要添加新图像，请单击 **Upload an image...（上传图像）**
     - 要删除图像，请单击 **Remove image（删除图像）**
 
-    ![社交预览下拉菜单](/assets/images/help/repository/social-preview.png)
+    ![社交预览下拉菜单](/assets/images/2021/10/help/repository/social-preview.png)

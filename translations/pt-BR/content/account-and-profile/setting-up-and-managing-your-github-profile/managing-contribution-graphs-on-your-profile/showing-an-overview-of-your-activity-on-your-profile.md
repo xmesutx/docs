@@ -17,7 +17,7 @@ shortTitle: Mostrar uma visão geral
 
 {% data reusables.profile.activity-overview-summary %} Para obter mais informações, consulte "[Exibir contribuições no perfil](/articles/viewing-contributions-on-your-profile)".
 
-![Seção Visão geral de atividade no perfil](/assets/images/help/profile/activity-overview-section.png)
+![Seção Visão geral de atividade no perfil](/assets/images/2021/10/help/profile/activity-overview-section.png)
 
 {% data reusables.profile.access_profile %}
-2. Acima do gráfico de contribuições, use o menu suspenso **Configurações de contribuição** e selecione ou desmarque **Visão geral da atividade**. ![Habilitar a visão geral das atividades no menu suspenso de configurações de contribuição](/assets/images/help/profile/activity-overview.png)
+2. Acima do gráfico de contribuições, use o menu suspenso **Configurações de contribuição** e selecione ou desmarque **Visão geral da atividade**. ![Habilitar a visão geral das atividades no menu suspenso de configurações de contribuição](/assets/images/2021/10/help/profile/activity-overview.png)

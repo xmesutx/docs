@@ -1,1 +1,1 @@
-1. No campo de busca, digite o nome do usuário e clique em **Search** (Pesquisar). ![campo de pesquisa de configurações de administrador do site](/assets/images/enterprise/site-admin-settings/search-for-things.png)
+1. No campo de busca, digite o nome do usuário e clique em **Search** (Pesquisar). ![campo de pesquisa de configurações de administrador do site](/assets/images/2021/10/enterprise/site-admin-settings/search-for-things.png)

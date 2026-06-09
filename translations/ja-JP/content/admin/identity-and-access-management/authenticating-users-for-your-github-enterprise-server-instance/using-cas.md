@@ -48,6 +48,6 @@ topics:
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-3. **CAS**を選択してください。 ![CAS の選択](/assets/images/enterprise/management-console/cas-select.png)
-4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![CAS ビルトイン認証の選択チェックボックス](/assets/images/enterprise/management-console/cas-built-in-authentication.png)
+3. **CAS**を選択してください。 ![CAS の選択](/assets/images/2021/10/enterprise/management-console/cas-select.png)
+4. {% data reusables.enterprise_user_management.built-in-authentication-option %} ![CAS ビルトイン認証の選択チェックボックス](/assets/images/2021/10/enterprise/management-console/cas-built-in-authentication.png)
 5. **Server URL（サーバのURL）**フィールドにCASサーバの完全なURLを入力してください。 CAS サーバが {% data variables.product.prodname_ghe_server %} が検証できない証明書を使っているなら、`ghe-ssl-ca-certificate-install` を使えばその証明書を信頼済みの証明書としてインストールできます。

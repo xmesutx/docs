@@ -45,8 +45,8 @@ shortTitle: 申请折扣
 ### 升级新组织
 
 {% data reusables.education.upgrade-page %}
-1. 单击 {% octicon "plus" aria-label="The plus symbol" %} **Create an organization（创建组织）**。 ![创建组织按钮](/assets/images/help/education/create-org-button.png)
-3. 阅读信息，然后单击 **Create organization（创建组织）**。 ![创建组织按钮](/assets/images/help/education/create-organization-button.png)
+1. 单击 {% octicon "plus" aria-label="The plus symbol" %} **Create an organization（创建组织）**。 ![创建组织按钮](/assets/images/2021/10/help/education/create-org-button.png)
+3. 阅读信息，然后单击 **Create organization（创建组织）**。 ![创建组织按钮](/assets/images/2021/10/help/education/create-organization-button.png)
 4. 在“Choose a plan（选择计划）”下，单击 **选择 {% data variables.product.prodname_free_team %}**。
 5. 按照提示创建组织。
 {% data reusables.education.upgrade-page %}

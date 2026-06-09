@@ -23,6 +23,6 @@ shortTitle: Definir o IP usando o console
 {% endnote %}
 
 {% data reusables.enterprise_installation.open-vm-console-start %}
-3. Escolha configurar o protocolo `IPv4` ou `IPv6`. ![Escolha entre os protocolos IPv4 ou IPv6](/assets/images/enterprise/network-configuration/IPv4-or-IPv6-protocol.png)
-4. Configure as opções para o protocolo escolhido. ![Menu com opções de protocolo IP](/assets/images/enterprise/network-configuration/network-settings-selection.png)
+3. Escolha configurar o protocolo `IPv4` ou `IPv6`. ![Escolha entre os protocolos IPv4 ou IPv6](/assets/images/2021/10/enterprise/network-configuration/IPv4-or-IPv6-protocol.png)
+4. Configure as opções para o protocolo escolhido. ![Menu com opções de protocolo IP](/assets/images/2021/10/enterprise/network-configuration/network-settings-selection.png)
 {% data reusables.enterprise_installation.vm-console-done %}

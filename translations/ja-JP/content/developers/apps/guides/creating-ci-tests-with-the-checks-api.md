@@ -49,7 +49,7 @@ Checks API は、新しいコードがリポジトリにプッシュされるた
 
 このクイックスタートを完了したときに Checks API CI サーバーがどのように動作するかを理解するには、以下のデモをご覧ください。
 
-![Checks API CI サーバークイックスタートのデモ](/assets/images/github-apps/github_apps_checks_api_ci_server.gif)
+![Checks API CI サーバークイックスタートのデモ](/assets/images/2021/10/github-apps/github_apps_checks_api_ci_server.gif)
 
 ## 必要な環境
 
@@ -175,7 +175,7 @@ $ ruby template_server.rb
 
 さて、それではアプリケーションをインストールしたリポジトリにあるプルリクエストを開いてください。 アプリケーションは応答し、プルリクエストのチェック実行を作成するはずです。 [**Checks**] タブをクリックすると、画面が以下のようになっているはずです。
 
-![キューに入ったチェック実行](/assets/images/github-apps/github_apps_queued_check_run.png)
+![キューに入ったチェック実行](/assets/images/2021/10/github-apps/github_apps_queued_check_run.png)
 
 [Checks] タブに他のアプリケーションが表示されている場合は、チェックに対して**読み取りおよび書き込み**アクセス権を持ち、**Check suite** および **Check run** イベントにサブスクライブしている他のアプリケーションをリポジトリにインストールしているものと思われます。
 
@@ -251,7 +251,7 @@ $ ruby template_server.rb
 
 開いたプルリクエストに移動し、[**Checks**] タブをクリックします。 左上隅にある [Re-run all] ボタンをクリックしてください。 チェック実行が `pending` から `in_progress` に移動し、`success` で終わることが確認できるはずです。
 
-![完了したチェック実行](/assets/images/github-apps/github_apps_complete_check_run.png)
+![完了したチェック実行](/assets/images/2021/10/github-apps/github_apps_complete_check_run.png)
 
 ## パート2. Octo RuboCop CI テストを作成する
 
@@ -587,15 +587,15 @@ $ ruby template_server.rb
 
 アノテーションは [**Checks**] タブに表示されます。
 
-![[Checks] タブのチェック実行アノテーション](/assets/images/github-apps/github_apps_checks_annotations.png)
+![[Checks] タブのチェック実行アノテーション](/assets/images/2021/10/github-apps/github_apps_checks_annotations.png)
 
 リクエストされたアクションを追加することにより作成された [Fix this] ボタンに注目してください。
 
-![チェック実行のリクエストされたアクションのボタン](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+![チェック実行のリクエストされたアクションのボタン](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 すでにプルリクエストに含まれているファイルにアノテーションが関連している場合、そのアノテーションは [**Files changed**] タブにも表示されます。
 
-![ファイルが変更されたタブのチェック実行アノテーション](/assets/images/github-apps/github_apps_checks_annotation_diff.png)
+![ファイルが変更されたタブのチェック実行アノテーション](/assets/images/2021/10/github-apps/github_apps_checks_annotation_diff.png)
 
 ## ステップ 2.6. RuboCop のエラーを自動的に修正する
 
@@ -689,11 +689,11 @@ $ ruby template_server.rb
 
 [**Commits**] タブには、Git コンフィグレーションで設定したユーザ名による新たなコミットが表示されています。 更新を確認するには、ブラウザを更新する必要がある場合があります。
 
-![Octo RuboCop の通知を自動的に修正する新しいコミット](/assets/images/github-apps/github_apps_new_requested_action_commit.png)
+![Octo RuboCop の通知を自動的に修正する新しいコミット](/assets/images/2021/10/github-apps/github_apps_new_requested_action_commit.png)
 
 新たなコミットがリポジトリにプッシュされたので、[**Checks**] タブに Octo RuboCop の新しいチェックスイートが表示されています。 しかし今回はエラーがありません。RuboCop がエラーをすべて修正したからです。 🎉
 
-![チェックスイート、チェック実行のエラーなし](/assets/images/github-apps/github_apps_checks_api_success.png)
+![チェックスイート、チェック実行のエラーなし](/assets/images/2021/10/github-apps/github_apps_checks_api_success.png)
 
 ここであなたか構築したアプリケーションの完成したコードは、[Checks API で CI テストを作成する](https://github.com/github-developer/creating-ci-tests-with-the-checks-api)のリポジトリの `server.rb` ファイルにあります。
 

@@ -17,10 +17,10 @@ Quando anúncio do seu aplicativo atender aos requisitos de {% data variables.pr
 
 1. Na parte superior esquerda da página de anúncio do aplicativo, clique em **Visão geral**. Para obter informações sobre como encontrar a página de anúncio do seu aplicativo, consulte "[Desenhar um anúncio para o seu aplicativo](/developers/github-marketplace/drafting-a-listing-for-your-app)".
 
-  ![Opção de visão geral para o anúncio de rascunho do Marketplace](/assets/images/marketplace/edit-marketplace-listing-overview.png)
+  ![Opção de visão geral para o anúncio de rascunho do Marketplace](/assets/images/2021/10/marketplace/edit-marketplace-listing-overview.png)
 
 2. Para enviar sua listagem de aplicativo concluída, clique em **Solicitar publicação**.
 
-  ![Lista de verificação para "Publicar o seu aplicativo no Marketplace" com o botão de envio na parte inferior](/assets/images/marketplace/publish-your-app-checklist-and-submission.png)
+  ![Lista de verificação para "Publicar o seu aplicativo no Marketplace" com o botão de envio na parte inferior](/assets/images/2021/10/marketplace/publish-your-app-checklist-and-submission.png)
 
 Um especialista de integração entrará em contato com você com informações adicionais.

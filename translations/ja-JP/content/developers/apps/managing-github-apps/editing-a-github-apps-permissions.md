@@ -24,9 +24,9 @@ shortTitle: 権限を編集する
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-4. 権限を変更する GitHub App を選択します。 ![アプリケーションの選択](/assets/images/github-apps/github_apps_select-app.png)
-5. 左サイドバーで、[**Permissions & webhooks**] をクリックします。 ![権限と webhook](/assets/images/github-apps/github_apps_permissions_and_webhooks.png)
-6. 変更したい権限を修正します。 権限の各タイプで、ドロップダウンメニューから [Read-only]、[Read & write]、[No access] のいずれかを選択します。 ![GitHub App に対する権限の選択](/assets/images/github-apps/github_apps_permissions_post2dot13.png)
-7. [Subscribe to events] で、アプリケーションがサブスクライブするイベントを選択します。 ![GitHub App がイベントにサブスクライブするための権限の選択](/assets/images/github-apps/github_apps_permissions_subscribe_to_events.png)
-8. O必要に応じて、[Add a note to users] で注釈を追加し、GitHub App がリクエストする権限を変更する理由をユーザに伝えます。 ![GitHub App の権限を変更した理由をユーザに説明する注釈を追加するための入力ボックス](/assets/images/github-apps/github_apps_permissions_note_to_users.png)
-9. [**Save changes**] をクリックします。 ![権限の変更を保存するボタン](/assets/images/github-apps/github_apps_save_changes.png)
+4. 権限を変更する GitHub App を選択します。 ![アプリケーションの選択](/assets/images/2021/10/github-apps/github_apps_select-app.png)
+5. 左サイドバーで、[**Permissions & webhooks**] をクリックします。 ![権限と webhook](/assets/images/2021/10/github-apps/github_apps_permissions_and_webhooks.png)
+6. 変更したい権限を修正します。 権限の各タイプで、ドロップダウンメニューから [Read-only]、[Read & write]、[No access] のいずれかを選択します。 ![GitHub App に対する権限の選択](/assets/images/2021/10/github-apps/github_apps_permissions_post2dot13.png)
+7. [Subscribe to events] で、アプリケーションがサブスクライブするイベントを選択します。 ![GitHub App がイベントにサブスクライブするための権限の選択](/assets/images/2021/10/github-apps/github_apps_permissions_subscribe_to_events.png)
+8. O必要に応じて、[Add a note to users] で注釈を追加し、GitHub App がリクエストする権限を変更する理由をユーザに伝えます。 ![GitHub App の権限を変更した理由をユーザに説明する注釈を追加するための入力ボックス](/assets/images/2021/10/github-apps/github_apps_permissions_note_to_users.png)
+9. [**Save changes**] をクリックします。 ![権限の変更を保存するボタン](/assets/images/2021/10/github-apps/github_apps_save_changes.png)

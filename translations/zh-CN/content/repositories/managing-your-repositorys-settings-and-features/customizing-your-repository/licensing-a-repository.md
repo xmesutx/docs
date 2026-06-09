@@ -86,7 +86,7 @@ topics:
 
 许可选择器仅当您在 GitHub 上创建新项目时可用。 您可以使用浏览器手动添加许可。 有关添加许可到仓库的更多信息，请参阅“[添加许可到仓库](/articles/adding-a-license-to-a-repository)”。
 
-![GitHub.com 上许可选择器的屏幕截图](/assets/images/help/repository/repository-license-picker.png)
+![GitHub.com 上许可选择器的屏幕截图](/assets/images/2021/10/help/repository/repository-license-picker.png)
 
 ## 免责声明
 

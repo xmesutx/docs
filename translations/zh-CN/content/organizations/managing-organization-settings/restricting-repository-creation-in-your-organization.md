@@ -37,9 +37,9 @@ shortTitle: 限制仓库创建
 5. 在“Repository creation（仓库创建）”下，选择一个或多个选项。
 
    {%- ifversion ghes or ghec or ghae %}
-   ![仓库创建选项](/assets/images/help/organizations/repo-creation-perms-radio-buttons.png)
+   ![仓库创建选项](/assets/images/2021/10/help/organizations/repo-creation-perms-radio-buttons.png)
    {%- elsif fpt %}
-   ![仓库创建选项](/assets/images/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
+   ![仓库创建选项](/assets/images/2021/12/help/organizations/repo-creation-perms-radio-buttons-fpt.png)
 
    {% note %}
 

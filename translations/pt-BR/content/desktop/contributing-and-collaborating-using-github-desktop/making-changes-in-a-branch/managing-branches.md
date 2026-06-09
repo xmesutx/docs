@@ -34,47 +34,47 @@ Quando estiver satisfeito com seu trabalho, você poderá criar um pull request 
 {% mac %}
 
 {% data reusables.desktop.click-base-branch-in-drop-down %}
-  ![Menu suspenso para alternar o branch atual](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![Menu suspenso para alternar o branch atual](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.create-new-branch %}
-  ![Opção New Branch (Novo branch) no menu Branch](/assets/images/help/desktop/new-branch-button-mac.png)
+  ![Opção New Branch (Novo branch) no menu Branch](/assets/images/2021/10/help/desktop/new-branch-button-mac.png)
 {% data reusables.desktop.name-branch %}
-  ![Campo para criar um nome para o novo branch](/assets/images/help/desktop/create-branch-name-mac.png)
+  ![Campo para criar um nome para o novo branch](/assets/images/2021/10/help/desktop/create-branch-name-mac.png)
 {% data reusables.desktop.select-base-branch %}
-  ![Opções do branch base](/assets/images/help/desktop/create-branch-choose-branch-mac.png)
+  ![Opções do branch base](/assets/images/2021/10/help/desktop/create-branch-choose-branch-mac.png)
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![Botão Create Branch (Criar branch)](/assets/images/help/desktop/create-branch-button-mac.png)
+  ![Botão Create Branch (Criar branch)](/assets/images/2021/10/help/desktop/create-branch-button-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
 {% data reusables.desktop.click-base-branch-in-drop-down %}
-  ![Menu suspenso para alternar o branch atual](/assets/images/help/desktop/click-branch-in-drop-down-win.png)
+  ![Menu suspenso para alternar o branch atual](/assets/images/2021/10/help/desktop/click-branch-in-drop-down-win.png)
 {% data reusables.desktop.create-new-branch %}
-  ![Opção New Branch (Novo branch) no menu Branch](/assets/images/help/desktop/new-branch-button-win.png)
+  ![Opção New Branch (Novo branch) no menu Branch](/assets/images/2021/10/help/desktop/new-branch-button-win.png)
 {% data reusables.desktop.name-branch %}
-  ![Campo para criar um nome para o novo branch](/assets/images/help/desktop/create-branch-name-win.png)
+  ![Campo para criar um nome para o novo branch](/assets/images/2021/10/help/desktop/create-branch-name-win.png)
 {% data reusables.desktop.select-base-branch %}
-  ![Opções do branch base](/assets/images/help/desktop/create-branch-choose-branch-win.png)
+  ![Opções do branch base](/assets/images/2021/10/help/desktop/create-branch-choose-branch-win.png)
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![Botão Create branch (Criar branch)](/assets/images/help/desktop/create-branch-button-win.png)
+  ![Botão Create branch (Criar branch)](/assets/images/2021/10/help/desktop/create-branch-button-win.png)
 
 {% endwindows %}
 
 ## Criando um branch de um commit anterior
 
 {% data reusables.desktop.history-tab %}
-2. Clique com o botão direito no commit a partir do qual você gostaria de criar um novo branch e selecione **Criar Branch a partir de Commit**. ![Criar branch a partir do menu de contexto de commit](/assets/images/help/desktop/create-branch-from-commit-context-menu.png)
+2. Clique com o botão direito no commit a partir do qual você gostaria de criar um novo branch e selecione **Criar Branch a partir de Commit**. ![Criar branch a partir do menu de contexto de commit](/assets/images/2021/10/help/desktop/create-branch-from-commit-context-menu.png)
 {% data reusables.desktop.name-branch %}
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![Criar branch a partir do commit](/assets/images/help/desktop/create-branch-from-commit-overview.png)
+  ![Criar branch a partir do commit](/assets/images/2021/10/help/desktop/create-branch-from-commit-overview.png)
 
 ## Publicar um branch
 
 Se você criar um branch no {% data variables.product.product_name %}, você deverá publicá-lo para disponibilizá-lo para colaboração no {% data variables.product.prodname_dotcom %}.
 
-1. Na parte superior do aplicativo, clique em {% octicon "git-branch" aria-label="The branch icon" %} **Branch atual** e, em seguida, clique no branch que você deseja publicar. ![Menu suspenso para selecionar qual branch publicar](/assets/images/help/desktop/select-branch-from-dropdown.png)
-2. Clique em **Publicar branch**. ![Botão de publicar branch](/assets/images/help/desktop/publish-branch-button.png)
+1. Na parte superior do aplicativo, clique em {% octicon "git-branch" aria-label="The branch icon" %} **Branch atual** e, em seguida, clique no branch que você deseja publicar. ![Menu suspenso para selecionar qual branch publicar](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
+2. Clique em **Publicar branch**. ![Botão de publicar branch](/assets/images/2021/10/help/desktop/publish-branch-button.png)
 
 ## Alternar entre branches
 É possível exibir e fazer commits em qualquer branch do seu repositório. Se houver alterações salvas sem commit, você terá que decidir o que fazer com elas antes de poder alternar entre os branches. Você pode fazer o commit das alterações no branch atual, ocultar as suas alterações para salvá-las temporariamente no branch atual ou trazer as mudanças para seu novo branch. Se você deseja confirmar suas alterações antes de alternar os branches, consulte "[Fazer commit e revisar as alterações do seu projeto](/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project)."
@@ -86,8 +86,8 @@ Se você criar um branch no {% data variables.product.product_name %}, você dev
 
 {% data reusables.desktop.current-branch-menu %}
 {% data reusables.desktop.switching-between-branches %}
-  ![Lista de branches no repositório](/assets/images/help/desktop/select-branch-from-dropdown.png)
-3. Se você tiver alterações salvas sem commit, escolha entre **Leave my changes** (Deixar as alterações) ou **Bring my changes** (Levar as alterações) e clique em **Switch Branch** (Alternar branch). ![Alternar branch com opções de alteração](/assets/images/help/desktop/stash-changes-options.png)
+  ![Lista de branches no repositório](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
+3. Se você tiver alterações salvas sem commit, escolha entre **Leave my changes** (Deixar as alterações) ou **Bring my changes** (Levar as alterações) e clique em **Switch Branch** (Alternar branch). ![Alternar branch com opções de alteração](/assets/images/2021/10/help/desktop/stash-changes-options.png)
 
 ## Excluir um branch
 
@@ -96,18 +96,18 @@ Não é possível excluir um branch se ele estiver atualmente associado a uma pu
 {% mac %}
 
 {% data reusables.desktop.select-branch-to-delete %}
-  ![Menu suspenso para selecionar qual branch deseja excluir](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![Menu suspenso para selecionar qual branch deseja excluir](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.delete-branch-mac %}
-  ![Excluir... opção no menu do branch](/assets/images/help/desktop/delete-branch-mac.png)
+  ![Excluir... opção no menu do branch](/assets/images/2021/10/help/desktop/delete-branch-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
 {% data reusables.desktop.select-branch-to-delete %}
-  ![Menu suspenso para selecionar qual branch deseja excluir](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![Menu suspenso para selecionar qual branch deseja excluir](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.delete-branch-win %}
-  ![Excluir... opção no menu do branch](/assets/images/help/desktop/delete-branch-win.png)
+  ![Excluir... opção no menu do branch](/assets/images/2021/10/help/desktop/delete-branch-win.png)
 
 {% endwindows %}
 

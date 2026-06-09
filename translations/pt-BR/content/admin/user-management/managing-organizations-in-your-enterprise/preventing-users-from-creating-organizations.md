@@ -24,4 +24,4 @@ shortTitle: Evitar a criação de organização
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. No menu suspenso em "Users can create organizations" (Usuários podem criar organizações), clique em **Enabled** (Habilitado) ou **Disabled** (Desabilitado). ![Menu suspenso Users can create organizations (Usuários podem criar organizações)](/assets/images/enterprise/site-admin-settings/users-create-orgs-dropdown.png)
+4. No menu suspenso em "Users can create organizations" (Usuários podem criar organizações), clique em **Enabled** (Habilitado) ou **Disabled** (Desabilitado). ![Menu suspenso Users can create organizations (Usuários podem criar organizações)](/assets/images/2021/10/enterprise/site-admin-settings/users-create-orgs-dropdown.png)

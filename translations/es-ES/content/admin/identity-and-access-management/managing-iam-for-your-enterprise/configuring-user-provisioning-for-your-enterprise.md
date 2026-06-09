@@ -72,8 +72,8 @@ Debes tener acceso administrativo en tu IdP para configurar la aplicación para 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. Debajo de "Aprovisionamiento de usuario de SCIM", selecciona **Requerir el aprovisionamiento de usuario de SCIM**. ![Casilla de verificación para "Requerir aprovisionamiento de usuarios de SCIM" dentro de la configuración de seguridad empresarial](/assets/images/help/enterprises/settings-require-scim-user-provisioning.png)
-1. Haz clic en **Save ** (guardar). ![Botón de guardar debajo de "Requerir aprovisionamiento de usuarios de SCIM" dentro de la configuración de seguridad de la empresa](/assets/images/help/enterprises/settings-scim-save.png)
+1. Debajo de "Aprovisionamiento de usuario de SCIM", selecciona **Requerir el aprovisionamiento de usuario de SCIM**. ![Casilla de verificación para "Requerir aprovisionamiento de usuarios de SCIM" dentro de la configuración de seguridad empresarial](/assets/images/2021/10/help/enterprises/settings-require-scim-user-provisioning.png)
+1. Haz clic en **Save ** (guardar). ![Botón de guardar debajo de "Requerir aprovisionamiento de usuarios de SCIM" dentro de la configuración de seguridad de la empresa](/assets/images/2021/10/help/enterprises/settings-scim-save.png)
 1. Configura el aprovisionamiento de usuarios en la aplicación para {% data variables.product.product_name %} en tu IdP.
 
   Los siguientes IdP proporcionan documentación acerca de cómo configurar el aprovisionamiento para {% data variables.product.product_name %}. Si no se lista tu IdP, por favor, contáctalo para solicitar soporte para {% data variables.product.product_name %}.

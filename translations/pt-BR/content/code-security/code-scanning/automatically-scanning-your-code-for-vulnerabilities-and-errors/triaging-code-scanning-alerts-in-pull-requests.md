@@ -44,14 +44,14 @@ Para todas as configurações de {% data variables.product.prodname_code_scannin
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-4902 or ghec %} Para ver o conjunto completo de alertas para o branch analisado, clique em **Ver todos os alertas do branch**. Isso abre a visualização completa de alerta onde você pode filtrar todos os alertas sobre o branch por tipo, gravidade, tag, etc. Para obter mais informações, consulte "[Gerenciar alertas de varredura de código para seu repositório](/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/managing-code-scanning-alerts-for-your-repository#filtering-and-searching-for-code-scanning-alerts). "
 
-![Verificação de resultados de {% data variables.product.prodname_code_scanning_capc %} em um pull request](/assets/images/help/repository/code-scanning-results-check.png)
+![Verificação de resultados de {% data variables.product.prodname_code_scanning_capc %} em um pull request](/assets/images/2021/10/help/repository/code-scanning-results-check.png)
 {% endif %}
 
 ### Falhas de verificação de resultados {% data variables.product.prodname_code_scanning_capc %}
 
 Se os resultados {% data variables.product.prodname_code_scanning %} encontrarem algum problema com uma gravidade de `erro`{% ifversion fpt or ghes > 3.1  or ghae or ghec %}, `grave` ou `alto`,{% endif %} a verificação irá falhar e o erro será relatado nos resultados da verificação. Se todos os resultados encontrados por {% data variables.product.prodname_code_scanning %} tiverem gravidades menores, os alertas serão tratados como avisos ou observações e a verificação será considerada bem-sucedida.
 
-![Ocorreu uma falha na verificação de {% data variables.product.prodname_code_scanning %} em um pull request](/assets/images/help/repository/code-scanning-check-failure.png)
+![Ocorreu uma falha na verificação de {% data variables.product.prodname_code_scanning %} em um pull request](/assets/images/2021/10/help/repository/code-scanning-check-failure.png)
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}Você pode substituir o comportamento padrão nas configurações do repositório, ao especificar o nível de gravidade {% ifversion fpt or ghes > 3.1  or ghae or ghec %}e gravidade de segurança {% endif %}que causarão uma falha de verificação de pull request. Para obter mais informações, consulte[Definir as gravidades causadoras da falha de verificação de pull request](/code-security/secure-coding/configuring-code-scanning#defining-the-severities-causing-pull-request-check-failure)".
 {% endif %}
@@ -68,7 +68,7 @@ Assim como com outras verificações de pull request, você poderá ver informa�
 
 Você pode ver todos os alertas de {% data variables.product.prodname_code_scanning %} introduzidos em um pull request que exibem a guia **Arquivos alterados**. Cada alerta é exibido como uma anotação nas linhas de código que acionaram o alerta. A gravidade do alerta é exibida na anotação.
 
-![Alerta de anotação em um diff de pull request](/assets/images/help/repository/code-scanning-pr-annotation.png)
+![Alerta de anotação em um diff de pull request](/assets/images/2021/10/help/repository/code-scanning-pr-annotation.png)
 
 Se você tiver permissão de gravação para o repositório, algumas anotações conterão links com contexto adicional para o alerta. No exemplo acima, da análise de {% data variables.product.prodname_codeql %}, você pode clicar em **valor fornecido pelo usuário** para ver onde os dados não confiáveis entram no fluxo de dados (isso é referido como a fonte). Neste caso, você também pode ver o caminho completo desde a fonte até o código que usa os dados (o sumidouro), clicando em **Mostrar caminhos**. Isto faz com que seja fácil verificar se os dados não são confiáveis ou se a análise não reconheceu uma etapa de sanitização de dados entre a fonte e o destino. Para obter informações sobre a análise do fluxo de dados usando {% data variables.product.prodname_codeql %}, consulte "[Sobre a análise do fluxo de dados](https://codeql.github.com/docs/writing-codeql-queries/about-data-flow-analysis/)".
 
@@ -76,7 +76,7 @@ Para ver mais informações sobre um alerta, os usuários com permissão de grav
 
 Na visualização detalhada de um alerta, algumas ferramentas de {% data variables.product.prodname_code_scanning %}, como a análise de {% data variables.product.prodname_codeql %} também incluem uma descrição do problema e um link **Mostrar mais** para obter orientações sobre como corrigir seu código.
 
-![Descrição do alerta e link para mostrar mais informações](/assets/images/help/repository/code-scanning-pr-alert.png)
+![Descrição do alerta e link para mostrar mais informações](/assets/images/2021/10/help/repository/code-scanning-pr-alert.png)
 
 ## Corrigir de um alerta no seu pull request
 
@@ -86,7 +86,7 @@ Qualquer pessoa com acesso push a um pull request pode corrigir um alerta de {% 
 
 Uma forma alternativa de fechar um alerta é ignorá-lo. Você pode descartar um alerta se não acha que ele precisa ser corrigido. {% data reusables.code-scanning.close-alert-examples %} Se você tem permissão de gravação no repositório, o botão **Ignorar** estará disponível nas anotações de código e no resumo de alertas. Ao clicar em **Ignorar** será solicitado que você escolha um motivo para fechar o alerta.
 
-![Escolher um motivo para ignorar um alerta](/assets/images/help/repository/code-scanning-alert-close-drop-down.png)
+![Escolher um motivo para ignorar um alerta](/assets/images/2021/10/help/repository/code-scanning-alert-close-drop-down.png)
 
 {% data reusables.code-scanning.choose-alert-dismissal-reason %}
 

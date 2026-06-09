@@ -32,9 +32,9 @@ shortTitle: Manage categories
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.edit-categories %}
-1. [**New category**] をクリックします。 ![リポジトリのディスカッションカテゴリのリストの上にある [New category] ボタン](/assets/images/help/discussions/click-new-category-button.png)
-1. カテゴリの絵文字、タイトル、説明、ディスカッション形式を編集します。 ディスカッション形式の詳細については、「[ディスカッションについて](/discussions/collaborating-with-your-community-using-discussions/about-discussions#about-categories-and-formats-for-discussions)」を参照してください。 ![新しいカテゴリの絵文字、タイトル、説明、ディスカッション形式](/assets/images/help/discussions/edit-category-details.png)
-1. ** Create（作成）**をクリックしてください。 ![新しいカテゴリの [Create] ボタン](/assets/images/help/discussions/new-category-click-create-button.png)
+1. [**New category**] をクリックします。 ![リポジトリのディスカッションカテゴリのリストの上にある [New category] ボタン](/assets/images/2021/10/help/discussions/click-new-category-button.png)
+1. カテゴリの絵文字、タイトル、説明、ディスカッション形式を編集します。 ディスカッション形式の詳細については、「[ディスカッションについて](/discussions/collaborating-with-your-community-using-discussions/about-discussions#about-categories-and-formats-for-discussions)」を参照してください。 ![新しいカテゴリの絵文字、タイトル、説明、ディスカッション形式](/assets/images/2021/10/help/discussions/edit-category-details.png)
+1. ** Create（作成）**をクリックしてください。 ![新しいカテゴリの [Create] ボタン](/assets/images/2021/10/help/discussions/new-category-click-create-button.png)
 
 ## カテゴリを編集する
 
@@ -42,10 +42,10 @@ shortTitle: Manage categories
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. リストのカテゴリの右側にある {% octicon "pencil" aria-label="The pencil icon" %} をクリックします ![リポジトリのカテゴリリストのカテゴリの右側にある [Edit] ボタン](/assets/images/help/discussions/click-edit-for-category.png)
+1. リストのカテゴリの右側にある {% octicon "pencil" aria-label="The pencil icon" %} をクリックします ![リポジトリのカテゴリリストのカテゴリの右側にある [Edit] ボタン](/assets/images/2021/10/help/discussions/click-edit-for-category.png)
 1. {% data reusables.discussions.edit-category-details %}
-![既存のカテゴリの絵文字、タイトル、説明、ディスカッション形式を編集する](/assets/images/help/discussions/edit-existing-category-details.png)
-1. [**Save changes**] をクリックします。 ![既存のカテゴリの [Save changes] ボタン](/assets/images/help/discussions/existing-category-click-save-changes-button.png)
+![既存のカテゴリの絵文字、タイトル、説明、ディスカッション形式を編集する](/assets/images/2021/10/help/discussions/edit-existing-category-details.png)
+1. [**Save changes**] をクリックします。 ![既存のカテゴリの [Save changes] ボタン](/assets/images/2021/10/help/discussions/existing-category-click-save-changes-button.png)
 
 ## カテゴリを削除する
 
@@ -53,6 +53,6 @@ shortTitle: Manage categories
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. リストのカテゴリの右側にある {% octicon "trash" aria-label="The trash icon" %} をクリックします ![リポジトリのカテゴリリストのカテゴリの右側にある [Trash] ボタン](/assets/images/help/discussions/click-delete-for-category.png)
-1. ドロップダウンメニューを使用して、削除するカテゴリのディスカッションの新しいカテゴリを選択します。 ![既存のカテゴリを削除するときに新しいカテゴリを選択するためのドロップダウンメニュー](/assets/images/help/discussions/choose-new-category.png)
-1. [**Delete & Move**] をクリックします。 ![既存のカテゴリを削除するときに新しいカテゴリを選択するためのドロップダウンメニュー](/assets/images/help/discussions/click-delete-and-move-button.png)
+1. リストのカテゴリの右側にある {% octicon "trash" aria-label="The trash icon" %} をクリックします ![リポジトリのカテゴリリストのカテゴリの右側にある [Trash] ボタン](/assets/images/2021/10/help/discussions/click-delete-for-category.png)
+1. ドロップダウンメニューを使用して、削除するカテゴリのディスカッションの新しいカテゴリを選択します。 ![既存のカテゴリを削除するときに新しいカテゴリを選択するためのドロップダウンメニュー](/assets/images/2021/10/help/discussions/choose-new-category.png)
+1. [**Delete & Move**] をクリックします。 ![既存のカテゴリを削除するときに新しいカテゴリを選択するためのドロップダウンメニュー](/assets/images/2021/10/help/discussions/click-delete-and-move-button.png)

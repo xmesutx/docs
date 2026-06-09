@@ -29,7 +29,7 @@ By default, pull requests are based on the parent repository's default branch. F
 
 If the default parent repository isn't correct, you can change both the parent repository and the branch with the drop-down lists. You can also swap your head and base branches with the drop-down lists to establish diffs between reference points. References here must be branch names in your GitHub repository.
 
-![Pull Request editing branches](/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
+![Pull Request editing branches](/assets/images/2021/10/help/pull_requests/pull-request-review-edit-branch.png)
 
 When thinking about branches, remember that the *base branch* is **where** changes should be applied, the *head branch* contains **what** you would like to be applied.
 
@@ -51,10 +51,10 @@ When you change any of the information in the branch range, the Commit and Files
 
 {% data reusables.repositories.navigate-to-repo %}
 2. In the "Branch" menu, choose the branch that contains your commits.
-  ![Branch dropdown menu](/assets/images/help/pull_requests/branch-dropdown.png)
+  ![Branch dropdown menu](/assets/images/2021/10/help/pull_requests/branch-dropdown.png)
 {% data reusables.repositories.new-pull-request %}
 4. Use the _base_ branch dropdown menu to select the branch you'd like to merge your changes into, then use the _compare_ branch drop-down menu to choose the topic branch you made your changes in.
-  ![Drop-down menus for choosing the base and compare branches](/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+  ![Drop-down menus for choosing the base and compare branches](/assets/images/2021/10/help/pull_requests/choose-base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -130,9 +130,9 @@ gh pr create --web
 
 1. Switch to the branch that you want to create a pull request for. For more information, see "[Switching between branches](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)."
 2. Click **Create Pull Request**. {% data variables.product.prodname_desktop %} will open your default browser to take you to {% data variables.product.prodname_dotcom %}.
-  ![The Create Pull Request button](/assets/images/help/desktop/mac-create-pull-request.png)
+  ![The Create Pull Request button](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
 4. On {% data variables.product.prodname_dotcom %}, confirm that the branch in the **base:** drop-down menu is the branch where you want to merge your changes. Confirm that the branch in the **compare:** drop-down menu is the topic branch where you made your changes.
-  ![Drop-down menus for choosing the base and compare branches](/assets/images/help/desktop/base-and-compare-branches.png)
+  ![Drop-down menus for choosing the base and compare branches](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -142,9 +142,9 @@ gh pr create --web
 
 1. Switch to the branch that you want to create a pull request for. For more information, see "[Switching between branches](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)."
 2. Click **Create Pull Request**. {% data variables.product.prodname_desktop %} will open your default browser to take you to {% data variables.product.prodname_dotcom %}.
-  ![The Create Pull Request button](/assets/images/help/desktop/windows-create-pull-request.png)
+  ![The Create Pull Request button](/assets/images/2021/10/help/desktop/windows-create-pull-request.png)
 3. On {% data variables.product.prodname_dotcom %}, confirm that the branch in the **base:** drop-down menu is the branch where you want to merge your changes. Confirm that the branch in the **compare:** drop-down menu is the topic branch where you made your changes.
-  ![Drop-down menus for choosing the base and compare branches](/assets/images/help/desktop/base-and-compare-branches.png)
+  ![Drop-down menus for choosing the base and compare branches](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -157,9 +157,9 @@ gh pr create --web
 {% codespaces %}
 
 1. Once you've committed changes to your local copy of the repository, click the **Create Pull Request** icon.
-![Source control side bar with staging button highlighted](/assets/images/help/codespaces/codespaces-commit-pr-button.png)
+![Source control side bar with staging button highlighted](/assets/images/2021/10/help/codespaces/codespaces-commit-pr-button.png)
 1. Check that the local branch and repository you're merging from, and the remote branch and repository you're merging into, are correct. Then give the pull request a title and a description.
-![GitHub pull request side bar](/assets/images/help/codespaces/codespaces-commit-pr.png)
+![GitHub pull request side bar](/assets/images/2021/10/help/codespaces/codespaces-commit-pr.png)
 1. Click **Create**.
 
 For more information on creating pull requests in {% data variables.product.prodname_codespaces %}, see "[Using Codespaces for pull requests](/codespaces/developing-in-codespaces/using-codespaces-for-pull-requests)."

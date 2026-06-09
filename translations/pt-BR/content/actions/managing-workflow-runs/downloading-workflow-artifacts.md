@@ -24,7 +24,7 @@ Por padrão, {% data variables.product.product_name %} armazena registros e arte
 {% data reusables.repositories.view-run %}
 1. Em **Artefatos**, clique no artefato que deseja baixar.
 
-    ![Menu suspenso do para fazer download do artefato](/assets/images/help/repository/artifact-drop-down-updated.png)
+    ![Menu suspenso do para fazer download do artefato](/assets/images/2021/10/help/repository/artifact-drop-down-updated.png)
 
 
 {% endwebui %}

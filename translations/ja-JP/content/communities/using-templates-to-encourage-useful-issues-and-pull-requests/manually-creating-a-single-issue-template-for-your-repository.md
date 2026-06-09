@@ -55,10 +55,10 @@ assignees: octocat
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
 3. ファイル名フィールドで:
-    -  Issue テンプレートをリポジトリのルートディレクトリで表示するには、*issue_template* の名前を入力します。 たとえば、`issue_template.md` です。 ![ルートディレクトリの新しい Issue テンプレート名](/assets/images/help/repository/issue-template-file-name.png)
-    - リポジトリの `docs` ディレクトリに Issue テンプレートを表示するには、*docs/* に続けて *issue_template* の名前を入力します。 たとえば、`docs/issue_template.md` です。 ![docs ディレクトリの新しい Issue テンプレート](/assets/images/help/repository/issue-template-file-name-docs.png)
-    - ファイルを隠しディレクトリに格納するには、*.github/* と入力し、続いて *issue_template* という名前を入力します。 たとえば、`.github/issue_template.md` です。 ![隠しディレクトリの新しい Issue テンプレート](/assets/images/help/repository/issue-template-hidden-directory.png)
-    - 複数 Issue テンプレートを作成し、`template` クエリパラメータを使用して Issue の本文に使用するテンプレートを指定するには、*.github/ISSUE_TEMPLATE/* と入力し、続けて Issue テンプレートの名前を入力します。 たとえば、`.github/ISSUE_TEMPLATE/issue_template.md` です。 複数 Issue テンプレートをルートディレクトリや `docs/` ディレクトリにある `ISSUE_TEMPLATE` サブディレクトリに格納することもできます。 詳細は「[クエリパラメータによる Issue およびプルリクエストの自動化について](/articles/about-automation-for-issues-and-pull-requests-with-query-parameters)」を参照してください。 ![隠しディレクトリの新しい複数 Issue テンプレート](/assets/images/help/repository/issue-template-multiple-hidden-directory.png)
+    -  Issue テンプレートをリポジトリのルートディレクトリで表示するには、*issue_template* の名前を入力します。 たとえば、`issue_template.md` です。 ![ルートディレクトリの新しい Issue テンプレート名](/assets/images/2021/10/help/repository/issue-template-file-name.png)
+    - リポジトリの `docs` ディレクトリに Issue テンプレートを表示するには、*docs/* に続けて *issue_template* の名前を入力します。 たとえば、`docs/issue_template.md` です。 ![docs ディレクトリの新しい Issue テンプレート](/assets/images/2021/10/help/repository/issue-template-file-name-docs.png)
+    - ファイルを隠しディレクトリに格納するには、*.github/* と入力し、続いて *issue_template* という名前を入力します。 たとえば、`.github/issue_template.md` です。 ![隠しディレクトリの新しい Issue テンプレート](/assets/images/2021/10/help/repository/issue-template-hidden-directory.png)
+    - 複数 Issue テンプレートを作成し、`template` クエリパラメータを使用して Issue の本文に使用するテンプレートを指定するには、*.github/ISSUE_TEMPLATE/* と入力し、続けて Issue テンプレートの名前を入力します。 たとえば、`.github/ISSUE_TEMPLATE/issue_template.md` です。 複数 Issue テンプレートをルートディレクトリや `docs/` ディレクトリにある `ISSUE_TEMPLATE` サブディレクトリに格納することもできます。 詳細は「[クエリパラメータによる Issue およびプルリクエストの自動化について](/articles/about-automation-for-issues-and-pull-requests-with-query-parameters)」を参照してください。 ![隠しディレクトリの新しい複数 Issue テンプレート](/assets/images/2021/10/help/repository/issue-template-multiple-hidden-directory.png)
 4. 新しいファイルの本文に Issue テンプレートを追加します。 そこに盛り込むべき項目として、以下のようなものがあります:
     - YAML frontmatter
     - 予測される動作と実際の動作

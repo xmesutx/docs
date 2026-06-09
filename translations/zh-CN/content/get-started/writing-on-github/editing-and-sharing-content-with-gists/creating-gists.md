@@ -73,13 +73,13 @@ Alternatively, you can drag and drop a text file from your desktop directly into
 1. Sign in to {% data variables.product.product_name %}.
 2. Navigate to your {% data variables.gists.gist_homepage %}.
 3. Type an optional description and name for your gist.
-![Gist name description](/assets/images/help/gist/gist_name_description.png)
+![Gist name description](/assets/images/2021/10/help/gist/gist_name_description.png)
 
 4. Type the text of your gist into the gist text box.
-![Gist text box](/assets/images/help/gist/gist_text_box.png)
+![Gist text box](/assets/images/2021/10/help/gist/gist_text_box.png)
 
 5. Optionally, to create {% ifversion ghae %}an internal{% else %}a public{% endif %} gist, click {% octicon "triangle-down" aria-label="The downwards triangle icon" %}, then click **Create {% ifversion ghae %}internal{% else %}public{% endif %} gist**.
-![Drop-down menu to select gist visibility]{% ifversion ghae %}(/assets/images/help/gist/gist-visibility-drop-down-ae.png){% else %}(/assets/images/help/gist/gist-visibility-drop-down.png){% endif %}
+![Drop-down menu to select gist visibility]{% ifversion ghae %}(/assets/images/2021/10/help/gist/gist-visibility-drop-down-ae.png){% else %}(/assets/images/2021/10/help/gist/gist-visibility-drop-down.png){% endif %}
 
 6. Click **Create secret Gist** or **Create {% ifversion ghae %}internal{% else %}public{% endif %} gist**.
-  ![Button to create gist](/assets/images/help/gist/create-secret-gist-button.png)
+  ![Button to create gist](/assets/images/2021/10/help/gist/create-secret-gist-button.png)

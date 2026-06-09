@@ -34,8 +34,8 @@ shortTitle: 支払いメール
 {% data reusables.dotcom_billing.org-billing-perms %}
 
 {% data reusables.organizations.billing-settings %}
-1. [Billing management] で、支払メールアドレスの右の[**Edit**]をクリックします。 ![現在の支払メール](/assets/images/help/billing/billing-change-email.png)
-2. 有効なメールアドレスを入力し、[**Update**]をクリックします。 ![支払メールアドレスの変更モーダル](/assets/images/help/billing/billing-change-email-modal.png)
+1. [Billing management] で、支払メールアドレスの右の[**Edit**]をクリックします。 ![現在の支払メール](/assets/images/2021/10/help/billing/billing-change-email.png)
+2. 有効なメールアドレスを入力し、[**Update**]をクリックします。 ![支払メールアドレスの変更モーダル](/assets/images/2021/10/help/billing/billing-change-email-modal.png)
 
 ## Organization の支払い請求先メールアドレスに受信者を追加して管理する
 
@@ -46,8 +46,8 @@ shortTitle: 支払いメール
 ### 支払い通知の受信者を追加する
 
 {% data reusables.organizations.billing-settings %}
-1. [Billing management] で、[Email recipients] の右の [**Add**] をクリックします。 ![受信者を追加](/assets/images/help/billing/billing-add-email-recipient.png)
-1. 受信者のメールアドレスを入力し、[**Add**] をクリックします。 ![受信者追加のモーダル](/assets/images/help/billing/billing-add-email-recipient-modal.png)
+1. [Billing management] で、[Email recipients] の右の [**Add**] をクリックします。 ![受信者を追加](/assets/images/2021/10/help/billing/billing-add-email-recipient.png)
+1. 受信者のメールアドレスを入力し、[**Add**] をクリックします。 ![受信者追加のモーダル](/assets/images/2021/10/help/billing/billing-add-email-recipient-modal.png)
 
 ### 支払い通知の第 1 受信者を変更する
 
@@ -55,14 +55,14 @@ shortTitle: 支払いメール
 
 {% data reusables.organizations.billing-settings %}
 1. [Billing management] で、第 1 受信者に設定したいメールアドレスを探します。
-1. 見つかったメールアドレスの右にある [Edit] ドロップダウンメニューで、[**Mark as primary**] をクリックします。 ![第 1 受信者としてマーク](/assets/images/help/billing/billing-change-primary-email-recipient.png)
+1. 見つかったメールアドレスの右にある [Edit] ドロップダウンメニューで、[**Mark as primary**] をクリックします。 ![第 1 受信者としてマーク](/assets/images/2021/10/help/billing/billing-change-primary-email-recipient.png)
 
 ### 支払い通知の受信者を削除する
 
 {% data reusables.organizations.billing-settings %}
 1. [Email recipients] で、削除したいメールアドレスを探します。
-1. そのユーザのエントリで [**Edit**] をクリックします。 ![受信者を編集する](/assets/images/help/billing/billing-edit-email-recipient.png)
-1. メールアドレスの右の[Edit]ドロップダウンメニューを使い、[**Remove**]をクリックします。 ![受信者を削除する](/assets/images/help/billing/billing-remove-email-recipient.png)
+1. そのユーザのエントリで [**Edit**] をクリックします。 ![受信者を編集する](/assets/images/2021/10/help/billing/billing-edit-email-recipient.png)
+1. メールアドレスの右の[Edit]ドロップダウンメニューを使い、[**Remove**]をクリックします。 ![受信者を削除する](/assets/images/2021/10/help/billing/billing-remove-email-recipient.png)
 1. 確認ダイアログを確かめてから、[**Remove**] をクリックします。
 
 {% ifversion ghec %}
@@ -76,8 +76,8 @@ Only enterprise members with the owner or billing manager role can access or cha
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Click **Billing emails**.
-2. Under "Email recipients", to the right of the billing email address, click **Edit**. ![Screenshot of the current billing email with the edit button emphasized](/assets/images/help/billing/billing-change-email.png)
-2. 有効なメールアドレスを入力し、[**Update**]をクリックします。 ![Screenshot of the edit billing email address modal window with a sample email address entered](/assets/images/help/billing/billing-change-email-modal.png)
+2. Under "Email recipients", to the right of the billing email address, click **Edit**. ![Screenshot of the current billing email with the edit button emphasized](/assets/images/2021/10/help/billing/billing-change-email.png)
+2. 有効なメールアドレスを入力し、[**Update**]をクリックします。 ![Screenshot of the edit billing email address modal window with a sample email address entered](/assets/images/2021/10/help/billing/billing-change-email-modal.png)
 
 ## Managing additional recipients for your enterprise's billing email
 
@@ -91,8 +91,8 @@ Only enterprise members with the owner or billing manager role can access or cha
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Click **Billing emails**.
-2. Under "Email recipients", to the right of the billing email address, click **Add**. ![Screenshot of the current billing email with the add button emphasized](/assets/images/help/billing/billing-add-email-recipient.png)
-3. 受信者のメールアドレスを入力し、[**Add**] をクリックします。 ![Screenshot of the add billing email address modal window without a sample email address entered](/assets/images/help/billing/billing-add-email-recipient-modal.png)
+2. Under "Email recipients", to the right of the billing email address, click **Add**. ![Screenshot of the current billing email with the add button emphasized](/assets/images/2021/10/help/billing/billing-add-email-recipient.png)
+3. 受信者のメールアドレスを入力し、[**Add**] をクリックします。 ![Screenshot of the add billing email address modal window without a sample email address entered](/assets/images/2021/10/help/billing/billing-add-email-recipient-modal.png)
 
 ### 支払い通知の受信者を削除する
 
@@ -101,7 +101,7 @@ Only enterprise members with the owner or billing manager role can access or cha
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Click **Billing emails**.
 2. [Email recipients] で、削除したいメールアドレスを探します。
-3. そのユーザのエントリで [**Edit**] をクリックします。 ![Screenshot of the recipient's email with the edit button emphasized](/assets/images/help/billing/billing-edit-email-recipient.png)
-4. メールアドレスの右の[Edit]ドロップダウンメニューを使い、[**Remove**]をクリックします。 ![Screenshot of the recipient's email with the remove button emphasized](/assets/images/help/billing/billing-remove-email-recipient.png)
+3. そのユーザのエントリで [**Edit**] をクリックします。 ![Screenshot of the recipient's email with the edit button emphasized](/assets/images/2021/10/help/billing/billing-edit-email-recipient.png)
+4. メールアドレスの右の[Edit]ドロップダウンメニューを使い、[**Remove**]をクリックします。 ![Screenshot of the recipient's email with the remove button emphasized](/assets/images/2021/10/help/billing/billing-remove-email-recipient.png)
 5. 確認ダイアログを確かめてから、[**Remove**] をクリックします。
 {% endif %}

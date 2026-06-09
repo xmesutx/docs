@@ -20,7 +20,7 @@ shortTitle: 对通知分类
 
 已保存的通知将无限期保存，可单击侧边栏中的 **Saved（已保存）** 或通过 `is:saved` 查询进行查看。 如果您保存的通知超过5个月并且变成未保存，通知将在一天内从收件箱消失。
 
-  ![保存分类选项](/assets/images/help/notifications-v2/save-triaging-option.png)
+  ![保存分类选项](/assets/images/2021/10/help/notifications-v2/save-triaging-option.png)
 
 ## 调查通知
 
@@ -39,10 +39,10 @@ shortTitle: 对通知分类
 
 1. 在议题或拉取请求的右侧列的“Notifications（通知）”旁边单击 **Customize（自定义）**。
 
-  !["Notifications（通知）"下的自定义选项](/assets/images/help/notifications-v2/customize-notifications-for-specific-thread.png)
+  !["Notifications（通知）"下的自定义选项](/assets/images/2021/10/help/notifications-v2/customize-notifications-for-specific-thread.png)
 
 2. 选择 **Custom（自定义）**，然后选择您希望在什么情况下接收有关此帖子的更新通知。 例如，您可以选择在拉取请求被合并、关闭或重新打开时接收更新。 如果您参与帖子、您的用户名被 @提及或您所属的团队被 @提及，您将会重新订阅。
 
-  ![自定义通知的选项](/assets/images/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
+  ![自定义通知的选项](/assets/images/2021/10/help/notifications-v2/custom-options-for-customizing-notification-thread-updates.png)
 
 3. 单击 **Save（保存）**。

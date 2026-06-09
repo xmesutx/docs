@@ -26,7 +26,7 @@ topics:
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.click-edit-sidebar-menu-project-board %}
 4. Click **Delete project**.
-![Delete project button](/assets/images/help/projects/delete-project-button.png)
+![Delete project button](/assets/images/2021/10/help/projects/delete-project-button.png)
 5. To confirm that you want to delete the project board, click **OK**.
 
 ## Further reading

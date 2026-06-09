@@ -39,7 +39,7 @@ topics:
 1. 获取 [OAuth 令牌](/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql)。
 1. 启动 GraphiQL。
 1. 在 GraphiQL 的右上角，单击 **Edit HTTP Headers（编辑 HTTP 标头）**。
-1. 在 **Key（密钥）**字段中，输入 `Authorization`。 在 **Value（值）**字段中，输入 `Bearer <token>`，其中 `<token>` 是您生成的 OAuth 令牌。 ![graphiql 标头](/assets/images/developer/graphiql-headers.png)
+1. 在 **Key（密钥）**字段中，输入 `Authorization`。 在 **Value（值）**字段中，输入 `Bearer <token>`，其中 `<token>` 是您生成的 OAuth 令牌。 ![graphiql 标头](/assets/images/2021/10/developer/graphiql-headers.png)
 1. 单击令牌右侧的复选标记将其保存。
 1. 要返回到编辑器，请单击 **Edit HTTP Headers（编辑 HTTP 标头）**模态框外部。
 1. 在 **GraphQL Endpoint（GraphQL 端点）**字段中，输入 `{% data variables.product.graphql_url_pre %}`。

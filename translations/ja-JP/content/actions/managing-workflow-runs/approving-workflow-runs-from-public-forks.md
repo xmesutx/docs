@@ -25,4 +25,4 @@ Maintainers with write access to a repository can use the following procedure to
 1. プルリクエストで提案された変更を調べて、プルリクエストブランチでワークフローを快適に実行できることを確認します。 ワークフローファイルに影響を与える `.github/workflows/` ディレクトリで提案された変更には特に注意する必要があります。
 1. プルリクエストブランチでワークフローを実行することに慣れている場合は、{% octicon "comment-discussion" aria-label="The discussion icon" %} [**Conversation**] タブに戻り、[Workflow(s) awaiting approval] で [**Approve and run**] をクリックします。
 
-   ![ワークフローを承認して実行する](/assets/images/help/pull_requests/actions-approve-and-run-workflows-from-fork.png)
+   ![ワークフローを承認して実行する](/assets/images/2021/10/help/pull_requests/actions-approve-and-run-workflows-from-fork.png)

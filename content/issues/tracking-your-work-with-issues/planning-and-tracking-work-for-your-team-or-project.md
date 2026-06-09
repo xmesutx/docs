@@ -36,7 +36,7 @@ You can also create a CONTRIBUTING.md file specifically to contain guidelines on
 ### README example
 We can create a README.md to introduce our new project, Project Octocat. 
 
-![Creating README example](/assets/images/help/issues/quickstart-creating-readme.png)
+![Creating README example](/assets/images/2021/10/help/issues/quickstart-creating-readme.png)
 ## Creating issue templates
 
 You can use issues to track the different types of work that your cross-functional team or project covers, as well as gather information from those outside of your project. The following are a few common use cases for issues.
@@ -51,25 +51,25 @@ Depending on the type of repository and project you are working on, you may prio
 ### Issue template example
 Below we are creating an issue template for reporting a bug in Project Octocat.
 
-![Creating issue template example](/assets/images/help/issues/quickstart-creating-issue-template.png)
+![Creating issue template example](/assets/images/2021/10/help/issues/quickstart-creating-issue-template.png)
 
 Now that we created the bug report issue template, you are able to select it when creating a new issue in Project Octocat.
 
-![Choosing issue template example](/assets/images/help/issues/quickstart-issue-creation-menu-with-template.png)
+![Choosing issue template example](/assets/images/2021/10/help/issues/quickstart-issue-creation-menu-with-template.png)
 
 ## Opening issues and using task lists to track work
 You can organize and track your work by creating issues. For more information, see "[Creating an issue](/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue)."
 ### Issue example
 Here is an example of an issue created for a large initiative, front-end work, in Project Octocat.
 
-![Creating large initiative issue example](/assets/images/help/issues/quickstart-create-large-initiative-issue.png)
+![Creating large initiative issue example](/assets/images/2021/10/help/issues/quickstart-create-large-initiative-issue.png)
 ### Task list example
 
 You can use task lists to break larger issues down into smaller tasks and to track issues as part of a larger goal. {% ifversion fpt or ghec %} Task lists have additional functionality when added to the body of an issue. You can see the number of tasks completed out of the total at the top of the issue, and if someone closes an issue linked in the task list, the checkbox will automatically be marked as complete.{% endif %} For more information, see "[About task lists](/issues/tracking-your-work-with-issues/creating-issues/about-task-lists)."
 
 Below we have added a task list to our Project Octocat issue, breaking it down into smaller issues.
 
-![Adding task list to issue example](/assets/images/help/issues/quickstart-add-task-list-to-issue.png)
+![Adding task list to issue example](/assets/images/2021/10/help/issues/quickstart-add-task-list-to-issue.png)
 
 ## Making decisions as a team
 You can use issues and discussions to communicate and make decisions as a team on planned improvements or priorities for your project. Issues are useful when you create them for discussion of specific details, such as bug or performance reports, planning for the next quarter, or design for a new initiative. Discussions are useful for open-ended brainstorming or feedback, outside the codebase and across repositories. For more information, see "[Which discussion tool should I use?](/github/getting-started-with-github/quickstart/communicating-on-github#which-discussion-tool-should-i-use)."
@@ -78,7 +78,7 @@ As a team, you can also communicate updates on day-to-day tasks within issues so
 ### Issue example with project collaborators
 Here is an example of project collaborators giving a status update on their work on the Project Octocat issue.
 
-![Collaborating on issue example](/assets/images/help/issues/quickstart-collaborating-on-issue.png)
+![Collaborating on issue example](/assets/images/2021/10/help/issues/quickstart-collaborating-on-issue.png)
 ## Using labels to highlight project goals and status
 You can create labels for a repository to categorize issues, pull requests, and discussions. {% data variables.product.prodname_dotcom %} also provides default labels for every new repository that you can edit or delete. Labels are useful for keeping track of project goals, bugs, types of work, and the status of an issue.
 
@@ -88,17 +88,17 @@ Once you have created a label in a repository, you can apply it on any issue, pu
 ### Label example
 Below is an example of a `front-end` label that we created and added to the issue.
 
-![Adding a label to an issue example](/assets/images/help/issues/quickstart-add-label-to-issue.png)
+![Adding a label to an issue example](/assets/images/2021/10/help/issues/quickstart-add-label-to-issue.png)
 ## Adding issues to a project board
 {% ifversion fpt or ghec %}You can use projects on {% data variables.product.prodname_dotcom %}, currently in limited public beta, to plan and track the work for your team. A project is a customizable spreadsheet that integrates with your issues and pull requests on {% data variables.product.prodname_dotcom %}, automatically staying up-to-date with the information on {% data variables.product.prodname_dotcom %}. You can customize the layout by filtering, sorting, and grouping your issues and PRs. To get started with projects, see "[Quickstart for projects (beta)](/issues/trying-out-the-new-projects-experience/quickstart)."
 ### Project (beta) example
 Here is the table layout of an example project, populated with the Project Octocat issues we have created.
 
-![Projects (beta) table layout example](/assets/images/help/issues/quickstart-projects-table-view.png)
+![Projects (beta) table layout example](/assets/images/2021/10/help/issues/quickstart-projects-table-view.png)
 
 We can also view the same project as a board.
 
-![Projects (beta) board layout example](/assets/images/help/issues/quickstart-projects-board-view.png)
+![Projects (beta) board layout example](/assets/images/2021/10/help/issues/quickstart-projects-board-view.png)
 
 {% endif %}
 
@@ -106,7 +106,7 @@ You can {% ifversion fpt or ghec %} also use the existing{% else %} use{% endif 
 ### Project board example
 Below is a project board for our example Project Octocat with the issue we created, and the smaller issues we broke it down into, added to it.
 
-![Project board example](/assets/images/help/issues/quickstart-project-board.png)
+![Project board example](/assets/images/2021/10/help/issues/quickstart-project-board.png)
 ## Next steps
 
 You have now learned about the tools {% data variables.product.prodname_dotcom %} offers for planning and tracking your work, and made a start in setting up your cross-functional team or project repository! Here are some helpful resources for further customizing your repository and organizing your work.

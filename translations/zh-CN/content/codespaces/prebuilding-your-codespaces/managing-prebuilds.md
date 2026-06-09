@@ -31,26 +31,26 @@ You can view the current status of the latest workflow run for each prebuild con
 
 To see the log output for the latest prebuild workflow run, click **See output**.
 
-![The 'See output' button](/assets/images/help/codespaces/prebuilds-see-output.png)
+![The 'See output' button](/assets/images/2022/02/help/codespaces/prebuilds-see-output.png)
 
 This displays the output of the most recent run of the workflow in the **Actions** tab.
 
-![The prebuild workflow output](/assets/images/help/codespaces/prebuilds-log-output.png)
+![The prebuild workflow output](/assets/images/2022/02/help/codespaces/prebuilds-log-output.png)
 
 Alternatively, to view all prebuild workflow runs associated with the specified branch, click the ellipsis button and choose **View runs** from the dropdown menu.
 
-![The 'View runs' option in the drop-down menu](/assets/images/help/codespaces/prebuilds-view-runs.png)
+![The 'View runs' option in the drop-down menu](/assets/images/2022/02/help/codespaces/prebuilds-view-runs.png)
 
 This displays the workflow run history for prebuilds for the associated branch.
 
-![The workflow run history](/assets/images/help/codespaces/prebuilds-workflow-runs.png)
+![The workflow run history](/assets/images/2022/02/help/codespaces/prebuilds-workflow-runs.png)
 
 ### Editing a prebuild configuration
 
 1. On the {% data variables.product.prodname_codespaces %} page of your repository settings, click the ellipsis to the right of the prebuild configuration you want to edit.
 1. In the dropdown menu, click **Edit**.
 
-   ![The 'Edit' option in the drop-down menu](/assets/images/help/codespaces/prebuilds-edit.png)
+   ![The 'Edit' option in the drop-down menu](/assets/images/2022/02/help/codespaces/prebuilds-edit.png)
 
 1. Make the required changes to the prebuild configuration, then click **Update**.
 
@@ -63,7 +63,7 @@ After you delete a prebuild configuration, workflow runs for that configuration 
 1. On the {% data variables.product.prodname_codespaces %} page of your repository settings, click the ellipsis to the right of the prebuild configuration you want to delete.
 1. In the dropdown menu, click **Delete**.
 
-   ![The 'Delete' option in the drop-down menu](/assets/images/help/codespaces/prebuilds-delete.png)
+   ![The 'Delete' option in the drop-down menu](/assets/images/2022/02/help/codespaces/prebuilds-delete.png)
 
 1. Click **OK** to confirm the deletion.
 
@@ -74,7 +74,7 @@ It may be useful to manually trigger a workflow run for a prebuild configuration
 1. On the {% data variables.product.prodname_codespaces %} page of your repository settings, click the ellipsis to the right of the prebuild configuration whose workflow you want to trigger.
 1. In the dropdown menu, click **Manually trigger**.
 
-   ![The 'Manually trigger' option in the drop-down menu](/assets/images/help/codespaces/prebuilds-manually-trigger.png)
+   ![The 'Manually trigger' option in the drop-down menu](/assets/images/2022/02/help/codespaces/prebuilds-manually-trigger.png)
 
 ## Allowing a prebuild to access external resources
 
@@ -90,12 +90,12 @@ By default, the {% data variables.product.prodname_actions %} workflow for a pre
 1. Give the new account read access to the required repositories. 更多信息请参阅“[管理个人对组织仓库的访问](/organizations/managing-access-to-your-organizations-repositories/managing-an-individuals-access-to-an-organization-repository)”。
 1. While signed into the new account, create a PAT with the `repo` scope. Optionally, if the prebuild will need to download packages from the {% data variables.product.company_short %} {% data variables.product.prodname_container_registry %}, also select the `read:packages` scope. 更多信息请参阅“[创建个人访问令牌](/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)”。
 
-   !['repo' and 'packages' scopes selected for a PAT](/assets/images/help/codespaces/prebuilds-select-scopes.png)
+   !['repo' and 'packages' scopes selected for a PAT](/assets/images/2022/02/help/codespaces/prebuilds-select-scopes.png)
 
    If the prebuild will use a package from the {% data variables.product.company_short %} {% data variables.product.prodname_container_registry %}, you will need to either grant the new account access to the package or configure the package to inherit the access permissions of the repository you are prebuilding. 更多信息请参阅“[配置包的访问控制和可见性](/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility)”。
 {% ifversion ghec %}1. Authorize the token for use with SAML single sign-on (SSO), so that it can access repositories that are owned by organizations with SSO enabled. 更多信息请参阅“[授权个人访问令牌用于 SAML 单点登录](/authentication/authenticating-with-saml-single-sign-on/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on)”。
 
-   ![The button to configure SSO for a PAT](/assets/images/help/codespaces/configure-SSO-for-PAT.png)
+   ![The button to configure SSO for a PAT](/assets/images/2022/02/help/codespaces/configure-SSO-for-PAT.png)
 
 {% endif %}
 1. Copy the token string. You will assign this to a {% data variables.product.prodname_codespaces %} repository secret.

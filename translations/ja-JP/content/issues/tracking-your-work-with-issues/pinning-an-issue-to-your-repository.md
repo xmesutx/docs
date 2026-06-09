@@ -17,9 +17,9 @@ topics:
 shortTitle: Issueをピン止めする
 ---
 
-![ピン止めした Issue](/assets/images/help/issues/pinned-issues.png)
+![ピン止めした Issue](/assets/images/2021/10/help/issues/pinned-issues.png)
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 1. Issue のリストで、ピン止めする Issue をクリックします。
-2. 右のサイドバーで、[**Pin issue**] をクリックします。 ![Issue をピン止めするボタン](/assets/images/help/repository/pin-issue.png)
+2. 右のサイドバーで、[**Pin issue**] をクリックします。 ![Issue をピン止めするボタン](/assets/images/2021/10/help/repository/pin-issue.png)

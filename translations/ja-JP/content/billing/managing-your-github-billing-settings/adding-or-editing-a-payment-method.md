@@ -35,9 +35,9 @@ shortTitle: 支払い方法の管理
 
 {% data reusables.user-settings.billing_plans %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. If your account has existing billing information that you want to update, click **Edit**. ![支払の新しいカードボタン](/assets/images/help/billing/billing-information-edit-button.png)
+1. If your account has existing billing information that you want to update, click **Edit**. ![支払の新しいカードボタン](/assets/images/2021/10/help/billing/billing-information-edit-button.png)
 {% data reusables.dotcom_billing.enter-billing-info %}
-1. If your account has an existing payment method that you want to update, click **Edit**. ![支払の新しいカードボタン](/assets/images/help/billing/billing-payment-method-edit-button.png)
+1. If your account has an existing payment method that you want to update, click **Edit**. ![支払の新しいカードボタン](/assets/images/2021/10/help/billing/billing-payment-method-edit-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}
 
 ## Organization の支払い方法を更新する
@@ -48,5 +48,5 @@ Organization がアメリカ外にあるか、{% data variables.product.product_
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. アカウントに既存のクレジットカードがあり、更新したい場合には、**New Card（新しいカード）**をクリックしてください。 ![支払の新しいカードボタン](/assets/images/help/billing/billing-new-card-button.png)
+1. アカウントに既存のクレジットカードがあり、更新したい場合には、**New Card（新しいカード）**をクリックしてください。 ![支払の新しいカードボタン](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

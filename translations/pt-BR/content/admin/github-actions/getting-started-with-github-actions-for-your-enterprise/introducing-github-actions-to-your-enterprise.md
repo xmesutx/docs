@@ -16,7 +16,7 @@ topics:
 
 {% data reusables.actions.about-actions %} com {% data variables.product.prodname_actions %}, sua empresa pode automatizar, personalizar e executar seus fluxos de trabalho de desenvolvimento de software como testes e implantações. Para obter mais informações, consulte a seção "[Sobre o {% data variables.product.prodname_actions %} para empresas ](/admin/github-actions/getting-started-with-github-actions-for-your-enterprise/about-github-actions-for-enterprises)".
 
-![Diagrama de trabalhos em execução em executores auto-hospedados](/assets/images/help/images/actions-enterprise-overview.png)
+![Diagrama de trabalhos em execução em executores auto-hospedados](/assets/images/2021/11/help/images/actions-enterprise-overview.png)
 
 {% data reusables.enterprise.upgrade-ghes-for-actions %}
 
@@ -30,7 +30,7 @@ Determine quais ações seus desenvolvedores terão permissão para usar. {% ifv
 
 Em seguida,{% else %}Primeiro,{% endif %} decida se você permitirá ações de terceiros que não foram criadas por {% data variables.product.company_short %}. Você pode configurar as ações que podem ser executadas nos níveis do repositório, organização e empresa e você pode optar por permitir apenas ações que são criadas por {% data variables.product.company_short %}. Se você permitir ações de terceiros, você poderá limitar as ações permitidas para aquelas criadas por criadores verificados ou uma lista de ações específicas. Para obter mais informações, consulte "[Gerenciando configurações de {% data variables.product.prodname_actions %} para um repositório](/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#managing-github-actions-permissions-for-your-repository)", "[Desabilitando ou limitando {% data variables.product.prodname_actions %} para a sua organização](/organizations/managing-organization-settings/disabling-or-limiting-github-actions-for-your-organization#managing-github-actions-permissions-for-your-organization)", e "[Aplicando políticas para {% data variables.product.prodname_actions %} na sua empresa](/admin/policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-actions-in-your-enterprise#enforcing-a-policy-to-restrict-the-use-of-actions-in-your-enterprise)."
 
-![Captura de tela das políticas de {% data variables.product.prodname_actions %}](/assets/images/help/organizations/enterprise-actions-policy.png)
+![Captura de tela das políticas de {% data variables.product.prodname_actions %}](/assets/images/2021/10/help/organizations/enterprise-actions-policy.png)
 
 {% ifversion ghec or ghae-issue-4757 %}
 Considere combinar o OpenID Connect (OIDC) com fluxos de trabalho reutilizáveis para aplicar implantações consistentes no seu repositório, organização ou empresa. Você pode fazer isso definindo condições de confiança nas funções da nuvem com base em fluxos de trabalho reutilizáveis. Para obter mais informações, consulte "["Usando o OpenID Connect com fluxos de trabalho reutilizáveis"](/actions/deployment/security-hardening-your-deployments/using-openid-connect-with-reusable-workflows).
@@ -38,7 +38,7 @@ Considere combinar o OpenID Connect (OIDC) com fluxos de trabalho reutilizáveis
 
 Você pode acessar informações sobre atividades relacionadas ao {% data variables.product.prodname_actions %} nos logs de auditoria da sua empresa. Se a sua empresa tiver de manter os logs de auditoria por mais de seis meses, planeje como você exportará e armazenará esses dados fora de {% data variables.product.prodname_dotcom %}. Para obter mais informações, consulte {% ifversion ghec %}"[Transmitindo os logs de auditoria na sua empresa](/admin/user-management/managing-organizations-in-your-enterprise/streaming-the-audit-logs-for-organizations-in-your-enterprise-account)."{% else %}"[Pesquisando o log de auditoria](/admin/user-management/monitoring-activity-in-your-enterprise/searching-the-audit-log)."{% endif %}
 
-![Entradas do log de auditoria](/assets/images/help/repository/audit-log-entries.png)
+![Entradas do log de auditoria](/assets/images/2021/10/help/repository/audit-log-entries.png)
 
 ## Segurança
 
@@ -56,7 +56,7 @@ Você deveria planejar onde você armazenará seus segredos. Recomendamos armaze
 
 Em {% data variables.product.prodname_dotcom %}, você pode armazenar segredos no nível do repositório ou da organização. Os segredos no nível do repositório podem estar limitados a fluxos de trabalho em certos ambientes, como produção ou teste. Para obter mais informações, consulte "[Segredos criptografados](/actions/security-guides/encrypted-secrets)".
 
-![Captura de tela de uma lista de segredos](/assets/images/help/settings/actions-org-secrets-list.png) Você deve considerar adicionar proteção manual de aprovação para ambientes sensíveis, para que os fluxos de trabalho devam ser aprovados antes de ter acesso aos segredos do ambiente. Para obter mais informações, consulte "[Usando ambientes para implantações](/actions/deployment/targeting-different-environments/using-environments-for-deployment)".
+![Captura de tela de uma lista de segredos](/assets/images/2021/10/help/settings/actions-org-secrets-list.png) Você deve considerar adicionar proteção manual de aprovação para ambientes sensíveis, para que os fluxos de trabalho devam ser aprovados antes de ter acesso aos segredos do ambiente. Para obter mais informações, consulte "[Usando ambientes para implantações](/actions/deployment/targeting-different-environments/using-environments-for-deployment)".
 
 ### Considerações de segurança para ações de terceiros
 
@@ -107,7 +107,7 @@ Finalmente, você deve considerar o fortalecimento da segurança para os executo
 
 {% data reusables.actions.about-artifacts %} Para obter mais informações, consulte "[Armazenar dados do fluxo de trabalho como artefatos](/actions/advanced-guides/storing-workflow-data-as-artifacts)".
 
-![Captura de tela do artefato](/assets/images/help/repository/passing-data-between-jobs-in-a-workflow-updated.png)
+![Captura de tela do artefato](/assets/images/2021/10/help/repository/passing-data-between-jobs-in-a-workflow-updated.png)
 
 {% ifversion ghes %}
 Você deve configurar o armazenamento externo de blob para estes artefatos. Escolha qual provedor de armazenamento compatível a sua empresa irá usar. Para obter mais informações, consulte "[Primeiros passos com {% data variables.product.prodname_actions %} para {% data variables.product.product_name %}](/admin/github-actions/getting-started-with-github-actions-for-your-enterprise/getting-started-with-github-actions-for-github-enterprise-server#external-storage-requirements)".

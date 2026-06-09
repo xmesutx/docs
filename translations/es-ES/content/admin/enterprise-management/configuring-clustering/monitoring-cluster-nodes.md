@@ -120,4 +120,4 @@ Puedes configurar [Nagios](https://www.nagios.org/) para supervisar {% data vari
 
 En cuanto agregues la definición a Nagios, se ejecutará la comprobación del servicio de acuerdo con tu configuración. Deberías poder ver el servicio configurado recientemente en la interfaz web de Nagios.
 
-![Ejemplo de Nagios](/assets/images/enterprise/cluster/nagios-example.png)
+![Ejemplo de Nagios](/assets/images/2021/10/enterprise/cluster/nagios-example.png)

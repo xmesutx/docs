@@ -2,4 +2,4 @@
 
    Para regresar a la vista de diff orígen, da clic en el botón **{% octicon "code" aria-label="The source diff icon" %}**.
 
-   ![El botón de diff origen](/assets/images/help/pull_requests/dependency-review-source-diff.png)
+   ![El botón de diff origen](/assets/images/2021/10/help/pull_requests/dependency-review-source-diff.png)

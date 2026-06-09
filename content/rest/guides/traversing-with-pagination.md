@@ -197,7 +197,7 @@ end
 Normally, with pagination, your goal isn't to concatenate all of the possible
 results, but rather, to produce a set of navigation, like this:
 
-![Sample of pagination links](/assets/images/pagination_sample.png)
+![Sample of pagination links](/assets/images/2021/10/pagination_sample.png)
 
 Let's sketch out a micro-version of what that might entail.
 

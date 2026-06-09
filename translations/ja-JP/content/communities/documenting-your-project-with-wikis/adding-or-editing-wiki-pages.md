@@ -23,19 +23,19 @@ shortTitle: Wikiページの管理
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-3. ページの右上にある [**New Page**] をクリックします。 ![ウィキの新規ページボタン](/assets/images/help/wiki/wiki_new_page_button.png)
-4. Markdown 以外のフォーマットで書くために、[Edit mode] ドロップダウンメニューを使い、他のフォーマットをクリックすることもできます。 ![ウィキのマークアップの選択](/assets/images/help/wiki/wiki_dropdown_markup.gif)
-5. テキストエディタを使って、ページの内容を追加してください。 ![ウィキの WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. 追加しようとしている新しいファイルを説明するコミットメッセージを入力してください。 ![ウィキのコミットメッセージ](/assets/images/help/wiki/wiki_commit_message.png)
+3. ページの右上にある [**New Page**] をクリックします。 ![ウィキの新規ページボタン](/assets/images/2021/10/help/wiki/wiki_new_page_button.png)
+4. Markdown 以外のフォーマットで書くために、[Edit mode] ドロップダウンメニューを使い、他のフォーマットをクリックすることもできます。 ![ウィキのマークアップの選択](/assets/images/2021/10/help/wiki/wiki_dropdown_markup.gif)
+5. テキストエディタを使って、ページの内容を追加してください。 ![ウィキの WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. 追加しようとしている新しいファイルを説明するコミットメッセージを入力してください。 ![ウィキのコミットメッセージ](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. 変更を wiki にコミットするには [**Save Page**] をクリックします。
 
 ## ウィキページを編集する
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-4. ウィキサイドバーを使用して、変更したいページに移動してください。 ページの右上にある [**Edit**] をクリックしてください。 ![ウィキのページ編集ボタン](/assets/images/help/wiki/wiki_edit_page_button.png)
-5. テキストエディタを使って、ページの内容を編集します。 ![ウィキの WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. 変更内容を説明するコミットメッセージを入力します。 ![ウィキのコミットメッセージ](/assets/images/help/wiki/wiki_commit_message.png)
+4. ウィキサイドバーを使用して、変更したいページに移動してください。 ページの右上にある [**Edit**] をクリックしてください。 ![ウィキのページ編集ボタン](/assets/images/2021/10/help/wiki/wiki_edit_page_button.png)
+5. テキストエディタを使って、ページの内容を編集します。 ![ウィキの WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. 変更内容を説明するコミットメッセージを入力します。 ![ウィキのコミットメッセージ](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. 変更を wiki にコミットするには [**Save Page**] をクリックします。
 
 ## ローカルでウィキページを追加または編集する

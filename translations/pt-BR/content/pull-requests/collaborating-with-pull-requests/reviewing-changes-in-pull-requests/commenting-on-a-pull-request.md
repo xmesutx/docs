@@ -23,7 +23,7 @@ shortTitle: Comentar em um PR
 
 Você pode fazer comentários na guia **Conversation** (Conversa) de uma pull request para deixar comentários gerais, perguntas ou complementos. Você também pode sugerir alterações que o autor da pull request pode aplicar diretamente a partir do seu comentário.
 
-![Conversa da pull request](/assets/images/help/pull_requests/conversation.png)
+![Conversa da pull request](/assets/images/2021/10/help/pull_requests/conversation.png)
 
 Também é possível comentar em seções específicas de um arquivo na guia **Files changed** (Arquivos alterados) de uma pull request na forma de comentários em linha individuais ou como parte de uma [revisão de pull request](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews). Adicionar comentários em linha é uma excelente maneira de discutir questões sobre implementação ou fornecer feedback ao autor.
 
@@ -53,7 +53,7 @@ Para responder a um comentário em linha existente, é preciso navegar até o co
 {% data reusables.repositories.start-line-comment %}
 {% data reusables.repositories.type-line-comment %}
 {% data reusables.repositories.suggest-changes %}
-5. Quando tiver concluído, clique em **>Add single comment** (Adicionar único comentário). ![Janela de comentários inline](/assets/images/help/commits/inline-comment.png)
+5. Quando tiver concluído, clique em **>Add single comment** (Adicionar único comentário). ![Janela de comentários inline](/assets/images/2021/10/help/commits/inline-comment.png)
 
 Qualquer pessoa que inspeciona a pull request ou o repositório receberá uma notificação de seu comentário.
 

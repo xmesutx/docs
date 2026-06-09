@@ -32,8 +32,8 @@ Se você configurar o {% data variables.large_files.product_name_long %} para ra
 {% endnote %}
 
 {% data reusables.desktop.push-origin %}
-2. Se {% data variables.product.prodname_desktop %} solicitar que você busque novos commits do controle remoto, clique em **Fetch**. ![O botão Fetch](/assets/images/help/desktop/fetch-newer-commits.png)
-3. Opcionalmente, clique em **Criar Pull Request** para abrir um pull request e fazer uma colaboração nas suas alterações. Para obter mais informações, consulte "[Criando um problema ou um pull request](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)" ![O botão Criar Pull Request](/assets/images/help/desktop/create-pull-request.png)
+2. Se {% data variables.product.prodname_desktop %} solicitar que você busque novos commits do controle remoto, clique em **Fetch**. ![O botão Fetch](/assets/images/2021/10/help/desktop/fetch-newer-commits.png)
+3. Opcionalmente, clique em **Criar Pull Request** para abrir um pull request e fazer uma colaboração nas suas alterações. Para obter mais informações, consulte "[Criando um problema ou um pull request](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)" ![O botão Criar Pull Request](/assets/images/2021/10/help/desktop/create-pull-request.png)
 
 ## Leia mais
 - "[Push](/github/getting-started-with-github/github-glossary/#push)" no glossário {% data variables.product.prodname_dotcom %}

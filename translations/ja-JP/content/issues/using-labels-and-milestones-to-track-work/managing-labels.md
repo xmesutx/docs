@@ -77,7 +77,7 @@ Organization のオーナーは、Organization 内のリポジトリのための
 リポジトリへのtriageアクセス権を持つユーザは、ラベルを適用及び解除できます。
 
 1. {% ifversion fpt or ghec %}Issue、Pull Request、ディスカッション{% else %}IssueあるいはPull Request{% endif %}にアクセスしてください。
-1. 右のサイドバーで、"Labels（ラベル）"の右の{% octicon "gear" aria-label="The gear icon" %}をクリックし、続いてラベルをクリックしてください !["ラベル" ドロップダウンメニュー](/assets/images/help/issues/labels-drop-down.png)
+1. 右のサイドバーで、"Labels（ラベル）"の右の{% octicon "gear" aria-label="The gear icon" %}をクリックし、続いてラベルをクリックしてください !["ラベル" ドロップダウンメニュー](/assets/images/2021/10/help/issues/labels-drop-down.png)
 
 ## ラベルの編集
 

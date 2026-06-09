@@ -1,1 +1,1 @@
-1. Arriba de la lista de miembros del equipo, da clic en {% octicon "repo" aria-label="The Repository icon" %}**Repositorios**. ![La pestaña de repositorios del equipo](/assets/images/help/organizations/team-repositories-button.png)
+1. Arriba de la lista de miembros del equipo, da clic en {% octicon "repo" aria-label="The Repository icon" %}**Repositorios**. ![La pestaña de repositorios del equipo](/assets/images/2021/10/help/organizations/team-repositories-button.png)

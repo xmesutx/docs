@@ -20,7 +20,7 @@ El Copiloto de {% data variables.product.prodname_dotcom %} se entrena con miles
 
 Estas son simplificaciones excesivas y deliberadas. Muchas de las sugerencias del Copiloto de {% data variables.product.prodname_dotcom %} se sienten como si se hubieran hecho a la talla para el código base específico en el que está trabajando el usuario. A menudo, se siente menos como perico y más como cuervo que crea herramientas nuevas a partir de bloques pequeños<sup id="anchor3">[3](#footnote3)</sup>. Pero no se puede negar que el Copiloto de {% data variables.product.prodname_dotcom %} tiene una memoria impresionante:
 
-![Una demostración animada del Copiloto](/assets/images/help/copilot/resources_recitation_example_zen.gif)
+![Una demostración animada del Copiloto](/assets/images/2021/10/help/copilot/resources_recitation_example_zen.gif)
 
 Aquí, dirigí intencionadamente al<sup id="anchor4">[4](#footnote4)</sup> Copiloto de {% data variables.product.prodname_dotcom %} para que recitara un texto bien conocido que obviamente se sabe de memoria. Yo también me sé un par de textos de memoria. Por ejemplo, aún recuerdo algunos poemas que aprendí en la escuela. Sin embargo, sin importar el tema, jamás me he atrevido a entorpecer una conversación hablando en tetrámetro yámbico y con emoción sobre los narcisos.
 
@@ -48,7 +48,7 @@ La superposición se exntiende a lo que el usuario ya escribió y que también c
 
 En el siguiente ejemplo, el usuario comenzó a escribir un fragmento de código muy común. El Copiloto de {% data variables.product.prodname_dotcom %} lo completó. Aún cuando la compleción misma es un tanto corta, en conjunto con el código ya existente, pasa el umbral y se retiene.
 
-![Código de ejemplo](/assets/images/help/copilot/example_last_straw.png)
+![Código de ejemplo](/assets/images/2021/10/help/copilot/example_last_straw.png)
 
 Este procedimiento es suficientemente permisivo para permitir que pasen muchos ejemplos relativamente "aburridos", como los dos anteriores. Pero aún es efectivo para marcar el naálisis humano en los casos interesantes, clasificando más de 99% de las sugerencias del Copiloto.
 
@@ -57,9 +57,9 @@ Este procedimiento es suficientemente permisivo para permitir que pasen muchos e
 Después del filtrado, quedaron 473 sugerencias. Pero estas pueden presentarse en formas diferentes:
 
 1. Algunas eran básicamente solo repeticiones de otro caso que pasó el filtrado. Por ejemplo, algunas veces, el Copiloto de {% data variables.product.prodname_dotcom %} hizo una sugerencia, el desarrollador tecleó una línea de comentario y el Copiloto de {% data variables.product.prodname_dotcom %} ofreció una sugerencia muy similar nuevamente. Eliminé estos casos del análisis como duplicados.
-2. Algunas secuencias fueron largas y repetitivas. Tal como en el siguiente ejemplo, en donde los bloques repetidos de `‘<p>’` se encuentran, por supuesto, en alguna parte del conjunto de capacitación: <br>![Example repetitions](/assets/images/help/copilot/example_repetitions.png)<br> Dichas sugerencias pueden ser tanto útiles (casos de uso, expresiones regulares) como inútiles (como sospecho que lo son en este caso). Pero, de cualquier forma, no encajan en la idea de aprender por repetición que tenía cuando comencé esta investigación.
-3. Algunos fueron inventarios estándar, como los números naturales o los primos o los servicios de cotización instantánea del mercado de valores o el alfabeto griego: <br>![Ejemplo del alfabeto Griego](/assets/images/help/copilot/example_greek.png)
-4. Algunas formas eran comúnes y directas, incluso tal vez universales, de hacer las cosas con muy pocos grados de libertad. Por ejemplo, me parece que la parte de en medio en el siguiente caso es la forma estándar de utilizar el paquete BeautifulSoup para analizar una lista de Wikipedia. De hecho, el fragmento de código coincidente que se encontró en los datos de entrenamiento del Copiloto de {% data variables.product.prodname_dotcom %}<sup id="anchor5">[5](#footnote5)</sup> utiliza este código para analizar un artículo diferente y sigue haciendo cosas diferentes con los resultados. <br>![Example of Beautiful Soup](/assets/images/help/copilot/example_beautiful_soup.png) <br>Esto tampoco encaja en mi idea de una cita. Es un poco como cuando alguien dice " voy a sacar la basura; vuelvo pronto" -- se trata de una declaración factual, no de una cita, aún cuando la frase particular se emitió muchas veces anteriormente.
+2. Algunas secuencias fueron largas y repetitivas. Tal como en el siguiente ejemplo, en donde los bloques repetidos de `‘<p>’` se encuentran, por supuesto, en alguna parte del conjunto de capacitación: <br>![Example repetitions](/assets/images/2021/10/help/copilot/example_repetitions.png)<br> Dichas sugerencias pueden ser tanto útiles (casos de uso, expresiones regulares) como inútiles (como sospecho que lo son en este caso). Pero, de cualquier forma, no encajan en la idea de aprender por repetición que tenía cuando comencé esta investigación.
+3. Algunos fueron inventarios estándar, como los números naturales o los primos o los servicios de cotización instantánea del mercado de valores o el alfabeto griego: <br>![Ejemplo del alfabeto Griego](/assets/images/2021/10/help/copilot/example_greek.png)
+4. Algunas formas eran comúnes y directas, incluso tal vez universales, de hacer las cosas con muy pocos grados de libertad. Por ejemplo, me parece que la parte de en medio en el siguiente caso es la forma estándar de utilizar el paquete BeautifulSoup para analizar una lista de Wikipedia. De hecho, el fragmento de código coincidente que se encontró en los datos de entrenamiento del Copiloto de {% data variables.product.prodname_dotcom %}<sup id="anchor5">[5](#footnote5)</sup> utiliza este código para analizar un artículo diferente y sigue haciendo cosas diferentes con los resultados. <br>![Example of Beautiful Soup](/assets/images/2021/10/help/copilot/example_beautiful_soup.png) <br>Esto tampoco encaja en mi idea de una cita. Es un poco como cuando alguien dice " voy a sacar la basura; vuelvo pronto" -- se trata de una declaración factual, no de una cita, aún cuando la frase particular se emitió muchas veces anteriormente.
 5. Y luego están el resto de los casos. Aquellos que por lo menos tuvieron una superposición específica ya sea en el código o en los comentarios. Estos son los que más me interesan y en lo que me voy a concentrar de ahora en adelante.
 
 Este agrupamiento en buckets tiene necesariamente algunos casos límite<sup id="anchor6">[6](#footnote6)</sup> y tu millaje puede variar dependiendo de cómo creas que deben clasificarse. Posiblemente incluso estés en desacuerdo con todo el conjunto de buckets en primera instancia.
@@ -68,7 +68,7 @@ Es por esto que convertimos este conjunto de datos en código abierto<sup id="an
 
 ## Resultados
 
-![Gráfica de resumen](/assets/images/help/copilot/plot_buckets.png)
+![Gráfica de resumen](/assets/images/2021/10/help/copilot/plot_buckets.png)
 
 Para la mayoría de las sugerencias del Copiloto de {% data variables.product.prodname_dotcom %}, nuestro filtor automático no econtró superiosiciones significativas con el código que se utilizó para el entrenamiento. Pero sí nos hizo notar 473 casos. El eliminar el primer bucket (los casos que se veían muy similares a otros casos) me dejó con 185 sugerencias. De estas, 144 se clasificaron en los buckets del 2 al 4. Esto dejó 41 casos en el último bucket, las "recitaciones", en el sgnificado del término que tengo en mente.
 
@@ -86,17 +86,17 @@ De los 41 casos principales que escogimos durante el etiquetado manual, ninguno 
 
 La siguiente gráfica muestra la cantidad de archivos empatados de los resultados en el bucket 5 (una marca roja en la parte inferior de cada resultado) contra los buckets del 2 al 4. Dejé fuera al bucket 1, el cual realmente es una mezcla de los duplicados de los casos de los buckets del 2 al 4 y de los duplicados del bucket 5. La distribución inferida se meuestra como una línea roja; llega a su tope entre las 100 y 1000 coincidencias.
 
-![Gráfica de la cantidad de coincidencias](/assets/images/help/copilot/plot_copies.png)
+![Gráfica de la cantidad de coincidencias](/assets/images/2021/10/help/copilot/plot_copies.png)
 
 ### El Copiloto de {% data variables.product.prodname_dotcom %} cita mayormente en contextos genéricos
 
 Conforme pasa el tiempo, cada archivo se convierte en único. Pero el Copiloto de {% data variables.product.prodname_dotcom %} no espera a que eso pase<sup id="anchor8">[8](#footnote8)</sup>: ofrecerá sus soluciones mientras que tu archivo aún siga siendo extremadamente genérico. Y, en la ausencia de cualquier cosa que sea específica para seguir, es mucho más probable citar de cualquier otro lugar que de esta.
 
-![Gráfica de longitud del contexto](/assets/images/help/copilot/plot_context.png)
+![Gráfica de longitud del contexto](/assets/images/2021/10/help/copilot/plot_context.png)
 
 Claro, los desarrolladores de software pasan la mayoría de su tiempo dentro de los archivos, en donde el contexto es suficientemente único como para que el Copiloto de {% data variables.product.prodname_dotcom %} ofrezca sugerencias únicas. En contraste, las sugerencias en el inicio son más bien impredecibles, ya que el Copiloto de {% data variables.product.prodname_dotcom %} no puede saber cómo será el programa. Pero, algunas veces, especialmente en los proyectos didácticos o en los scripts independientes, una cantidad modesta de contexto puede ser suficiente para poner en riesgo la asunción razonable de lo que el usuario quería hacer. Y, algunas veces, sigue siendo suficientemente genérico para que el Copiloto de {% data variables.product.prodname_dotcom %} piense que una de las soluciones que se sabe de memoria se vea prometedora:
 
-![Código de ejemplo](/assets/images/help/copilot/example_robot.png)
+![Código de ejemplo](/assets/images/2021/10/help/copilot/example_robot.png)
 
 Esto se toma práctica y directamente del temario de una clase de robótica que se cargó en vriaciones diversas<sup id="anchor9">[9](#footnote9)</sup>.
 
@@ -106,7 +106,7 @@ En su forma actual, el filtro devolverá una cantidad considerable de casos poco
 
 Y nada es, jamás, a prueba de tontos, claro: así que esto también puede burlarse. A la herramienta que estamos creando le cuesta trabajo detectar algunos casos, pero aún tienen una fuenta obvia. Para regresar al Zen de Python:
 
-![Variación Zen](/assets/images/help/copilot/resources_recitation_example_zen_caw.gif)
+![Variación Zen](/assets/images/2021/10/help/copilot/resources_recitation_example_zen_caw.gif)
 
 ## Conclusión y siguientes pasos
 

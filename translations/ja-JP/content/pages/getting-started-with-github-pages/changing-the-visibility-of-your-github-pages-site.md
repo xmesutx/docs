@@ -34,9 +34,9 @@ To use a shorter and more memorable domain for your private {% data variables.pr
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
 3. Under "{% data variables.product.prodname_pages %}", select the **{% data variables.product.prodname_pages %} visibility** drop-down menu, then click a visibility.
-   ![Drop-down to choose a visibility for your site](/assets/images/help/pages/public-or-private-visibility.png)
+   ![Drop-down to choose a visibility for your site](/assets/images/2021/10/help/pages/public-or-private-visibility.png)
 4. To see your published site, under "{% data variables.product.prodname_pages %}", click your site's URL.
-![URL of your privately published site](/assets/images/help/pages/click-private-pages-url-to-preview.png)
+![URL of your privately published site](/assets/images/2021/10/help/pages/click-private-pages-url-to-preview.png)
 
   {% note %}
 

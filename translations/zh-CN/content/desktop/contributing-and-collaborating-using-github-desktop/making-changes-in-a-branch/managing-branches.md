@@ -34,47 +34,47 @@ versions:
 {% mac %}
 
 {% data reusables.desktop.click-base-branch-in-drop-down %}
-  ![用于切换当前分支的下拉菜单](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![用于切换当前分支的下拉菜单](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.create-new-branch %}
-  ![Branch（分支）菜单中的 New Branch（新分支）选项](/assets/images/help/desktop/new-branch-button-mac.png)
+  ![Branch（分支）菜单中的 New Branch（新分支）选项](/assets/images/2021/10/help/desktop/new-branch-button-mac.png)
 {% data reusables.desktop.name-branch %}
-  ![用于创建新分支名称的字段](/assets/images/help/desktop/create-branch-name-mac.png)
+  ![用于创建新分支名称的字段](/assets/images/2021/10/help/desktop/create-branch-name-mac.png)
 {% data reusables.desktop.select-base-branch %}
-  ![基础分支选项](/assets/images/help/desktop/create-branch-choose-branch-mac.png)
+  ![基础分支选项](/assets/images/2021/10/help/desktop/create-branch-choose-branch-mac.png)
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![创建分支按钮](/assets/images/help/desktop/create-branch-button-mac.png)
+  ![创建分支按钮](/assets/images/2021/10/help/desktop/create-branch-button-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
 {% data reusables.desktop.click-base-branch-in-drop-down %}
-  ![用于切换当前分支的下拉菜单](/assets/images/help/desktop/click-branch-in-drop-down-win.png)
+  ![用于切换当前分支的下拉菜单](/assets/images/2021/10/help/desktop/click-branch-in-drop-down-win.png)
 {% data reusables.desktop.create-new-branch %}
-  ![Branch（分支）菜单中的 New Branch（新分支）选项](/assets/images/help/desktop/new-branch-button-win.png)
+  ![Branch（分支）菜单中的 New Branch（新分支）选项](/assets/images/2021/10/help/desktop/new-branch-button-win.png)
 {% data reusables.desktop.name-branch %}
-  ![用于创建新分支名称的字段](/assets/images/help/desktop/create-branch-name-win.png)
+  ![用于创建新分支名称的字段](/assets/images/2021/10/help/desktop/create-branch-name-win.png)
 {% data reusables.desktop.select-base-branch %}
-  ![基础分支选项](/assets/images/help/desktop/create-branch-choose-branch-win.png)
+  ![基础分支选项](/assets/images/2021/10/help/desktop/create-branch-choose-branch-win.png)
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![创建分支按钮](/assets/images/help/desktop/create-branch-button-win.png)
+  ![创建分支按钮](/assets/images/2021/10/help/desktop/create-branch-button-win.png)
 
 {% endwindows %}
 
 ## 从以前的提交创建分支
 
 {% data reusables.desktop.history-tab %}
-2. 右键单击要创建新分支的提交，并从选择 **Create Branch from Commit（从提交创建分支）**。 ![从提交上下文菜单创建分支](/assets/images/help/desktop/create-branch-from-commit-context-menu.png)
+2. 右键单击要创建新分支的提交，并从选择 **Create Branch from Commit（从提交创建分支）**。 ![从提交上下文菜单创建分支](/assets/images/2021/10/help/desktop/create-branch-from-commit-context-menu.png)
 {% data reusables.desktop.name-branch %}
 {% data reusables.desktop.confirm-new-branch-button %}
-  ![从提交创建分支](/assets/images/help/desktop/create-branch-from-commit-overview.png)
+  ![从提交创建分支](/assets/images/2021/10/help/desktop/create-branch-from-commit-overview.png)
 
 ## 发布分支
 
 如果您在 {% data variables.product.product_name %} 上创建一个分支，您需要发布分支以便其可用于在 {% data variables.product.prodname_dotcom %} 上进行协作。
 
-1. 在应用顶部，单击 {% octicon "git-branch" aria-label="The branch icon" %} **当前分支**，然后单击要发布的分支。 ![用于选择要发布的分支的下拉菜单](/assets/images/help/desktop/select-branch-from-dropdown.png)
-2. 单击 **Publish branch（发布分支）**。 ![发布分支按钮](/assets/images/help/desktop/publish-branch-button.png)
+1. 在应用顶部，单击 {% octicon "git-branch" aria-label="The branch icon" %} **当前分支**，然后单击要发布的分支。 ![用于选择要发布的分支的下拉菜单](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
+2. 单击 **Publish branch（发布分支）**。 ![发布分支按钮](/assets/images/2021/10/help/desktop/publish-branch-button.png)
 
 ## 在分支间切换
 您可以查看并提交到任何仓库的分支。 如有未提交但已保存的更改，您需要决定如何处理更改，然后才可切换分支。 您可以在当前分支上提交更改、隐藏更改以临时将它们保存在当前分支上，或者将更改传送到新分支。 如果要在切换分支之前提交更改，请参阅“[提交和审查对项目的更改](/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project)”。
@@ -86,8 +86,8 @@ versions:
 
 {% data reusables.desktop.current-branch-menu %}
 {% data reusables.desktop.switching-between-branches %}
-  ![仓库中的分支列表](/assets/images/help/desktop/select-branch-from-dropdown.png)
-3. 如有已保存但未提交的更改，请选择 **Leave my changes（留下我的更改）**或 **Bring my changes（带上我的更改）**，然后单击 **Switch Branch（切换分支）**。 ![通过更改选项切换分支](/assets/images/help/desktop/stash-changes-options.png)
+  ![仓库中的分支列表](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
+3. 如有已保存但未提交的更改，请选择 **Leave my changes（留下我的更改）**或 **Bring my changes（带上我的更改）**，然后单击 **Switch Branch（切换分支）**。 ![通过更改选项切换分支](/assets/images/2021/10/help/desktop/stash-changes-options.png)
 
 ## 删除分支
 
@@ -96,18 +96,18 @@ versions:
 {% mac %}
 
 {% data reusables.desktop.select-branch-to-delete %}
-  ![用于选择要删除的分支的下拉菜单](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![用于选择要删除的分支的下拉菜单](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.delete-branch-mac %}
-  ![Branch（分支）菜单中的 Delete...（删除...）选项](/assets/images/help/desktop/delete-branch-mac.png)
+  ![Branch（分支）菜单中的 Delete...（删除...）选项](/assets/images/2021/10/help/desktop/delete-branch-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
 {% data reusables.desktop.select-branch-to-delete %}
-  ![用于选择要删除的分支的下拉菜单](/assets/images/help/desktop/select-branch-from-dropdown.png)
+  ![用于选择要删除的分支的下拉菜单](/assets/images/2021/10/help/desktop/select-branch-from-dropdown.png)
 {% data reusables.desktop.delete-branch-win %}
-  ![Branch（分支）菜单中的 Delete...（删除...）选项](/assets/images/help/desktop/delete-branch-win.png)
+  ![Branch（分支）菜单中的 Delete...（删除...）选项](/assets/images/2021/10/help/desktop/delete-branch-win.png)
 
 {% endwindows %}
 

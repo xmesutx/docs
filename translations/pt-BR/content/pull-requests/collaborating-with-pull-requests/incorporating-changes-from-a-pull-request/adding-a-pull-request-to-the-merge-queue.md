@@ -25,7 +25,7 @@ redirect_from:
 1. Na lista "Pull Requests", clique no pull request que você deseja adicionar à fila de merge.
 1. Clique **Adicionar à fila de merge** para adicionar seu pull request à fila de merge. Isso habilita a opção padrão **Fila e merge em um grupo**. Como alternativa, você pode:
    - Adicione seu pull request à frente da fila, selecionando o menu suspenso **Adicionar à gila de merge** e clicando em **Pular a fila** (disponível apenas para mantenedores e administradores do repositório).
-   - Faça o merge direto do seu pull request selecionando o menu suspenso **Adicionar à fila de merge** e clicando em **Fazer merge diretamente** (disponível apenas para administradores do repositório). ![Opções da fila de merge](/assets/images/help/pull_requests/merge-queue-options.png)
+   - Faça o merge direto do seu pull request selecionando o menu suspenso **Adicionar à fila de merge** e clicando em **Fazer merge diretamente** (disponível apenas para administradores do repositório). ![Opções da fila de merge](/assets/images/2021/11/help/pull_requests/merge-queue-options.png)
 
    {% tip %}
 
@@ -41,19 +41,19 @@ Você pode visualizar a fila de merge em vários lugares em {% data variables.pr
 
    - Na página **Branches** para o repositório. Recomendamos que você use encaminhamento rota se você não tiver ou não conhecer um pull request já na fila e se você quiser ver o que está na fila. Para obter mais informações, consulte "[Visualizar branches no seu repositório](/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository)".
 
-  ![Visualizar fila de merge na página de Branches](/assets/images/help/pull_requests/merge-queue-branches-page.png)
+  ![Visualizar fila de merge na página de Branches](/assets/images/2021/11/help/pull_requests/merge-queue-branches-page.png)
 
 - Na página **Pull requests** do seu repositório, clique em {% octicon "clock" aria-label="The clock symbol" %}.
 
-  ![Visualizar fila de merge na página de Pull requests](/assets/images/help/pull_requests/clock-icon-in-pull-request-list.png)
+  ![Visualizar fila de merge na página de Pull requests](/assets/images/2021/11/help/pull_requests/clock-icon-in-pull-request-list.png)
 
 - No seu pull request, role para baixo para a seção com as verificações e clique em **Visualizar fila de merge**.
 
-  ![Ver botão de fila de merge no pull request](/assets/images/help/pull_requests/view-merge-queue-button.png)
+  ![Ver botão de fila de merge no pull request](/assets/images/2021/11/help/pull_requests/view-merge-queue-button.png)
 
 A exibição da fila de merge mostra os pull requests que estão atualmente na fila, com seus pull requests claramente marcados.
 
-![Visualização da fila de merge](/assets/images/help/pull_requests/merge-queue-view.png)
+![Visualização da fila de merge](/assets/images/2021/11/help/pull_requests/merge-queue-view.png)
 
 ## Manipulação de pull requests removidos da fila de merge
 

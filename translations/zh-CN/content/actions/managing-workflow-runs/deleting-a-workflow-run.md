@@ -18,7 +18,7 @@ versions:
 {% data reusables.repositories.navigate-to-workflow %}
 1. 要删除工作流程运行，请使用 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} 下拉菜单并选择 **Delete workflow run（删除工作流程运行）**。
 
-    ![删除工作流程运行](/assets/images/help/settings/workflow-delete-run.png)
+    ![删除工作流程运行](/assets/images/2021/10/help/settings/workflow-delete-run.png)
 2. 查看确认提示并单击 **Yes, permanently delete this workflow run（是，永久删除此工作流程运行）**。
 
-    ![删除工作流程运行确认](/assets/images/help/settings/workflow-delete-run-confirmation.png)
+    ![删除工作流程运行确认](/assets/images/2021/10/help/settings/workflow-delete-run-confirmation.png)

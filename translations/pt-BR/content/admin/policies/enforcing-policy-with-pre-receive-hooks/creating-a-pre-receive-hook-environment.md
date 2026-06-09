@@ -82,11 +82,11 @@ Para obter mais informações sobre como criar um ambiente chroot, consulte "[Ch
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.hooks-tab %}
-5. Clique em **Manage environments** (Gerenciar ambientes). ![Gerenciar ambientes](/assets/images/enterprise/site-admin-settings/manage-pre-receive-environments.png)
-6. Clique em **Add environments** (Adicionar ambientes). ![Adicionar ambiente](/assets/images/enterprise/site-admin-settings/add-pre-receive-environment.png)
-7. Digite o nome desejado no campo **Environment name** (Nome do ambiente). ![Nome do ambiente](/assets/images/enterprise/site-admin-settings/pre-receive-environment-name.png)
-8. Informe a URL do arquivo `*.tar.gz` que contém o ambiente. ![Fazer upload de um ambiente a partir da URL](/assets/images/enterprise/site-admin-settings/upload-environment-from-url.png)
-9. Clique em **Add environments** (Adicionar ambientes). ![Botão Adicionar ambiente](/assets/images/enterprise/site-admin-settings/add-environment-button.png)
+5. Clique em **Manage environments** (Gerenciar ambientes). ![Gerenciar ambientes](/assets/images/2021/10/enterprise/site-admin-settings/manage-pre-receive-environments.png)
+6. Clique em **Add environments** (Adicionar ambientes). ![Adicionar ambiente](/assets/images/2021/10/enterprise/site-admin-settings/add-pre-receive-environment.png)
+7. Digite o nome desejado no campo **Environment name** (Nome do ambiente). ![Nome do ambiente](/assets/images/2021/10/enterprise/site-admin-settings/pre-receive-environment-name.png)
+8. Informe a URL do arquivo `*.tar.gz` que contém o ambiente. ![Fazer upload de um ambiente a partir da URL](/assets/images/2021/10/enterprise/site-admin-settings/upload-environment-from-url.png)
+9. Clique em **Add environments** (Adicionar ambientes). ![Botão Adicionar ambiente](/assets/images/2021/10/enterprise/site-admin-settings/add-environment-button.png)
 
 ## Fazer upload de um ambiente de hook pre-receive via shell administrativo
 1. Faça upload do arquivo legível `*.tar.gz` que contém o seu ambiente para um host na web e copie a URL, ou transfira o arquivo para o appliance do {% data variables.product.prodname_ghe_server %} via `scp`. Ao usar o `scp`, você deve ajustar as permissões do arquivo `*.tar.gz` para que ele seja legível.

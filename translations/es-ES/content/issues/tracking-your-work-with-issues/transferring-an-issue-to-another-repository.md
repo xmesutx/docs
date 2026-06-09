@@ -31,9 +31,9 @@ Las personas o equipos que se mencionan en la propuesta recibirán una notificac
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 3. En la lista de propuestas, haz clic en la propuesta que quieres transferir.
-4. En la barra lateral derecha, haz clic en **Transfer issue** (Transferir propuesta). ![Botón para transferir propuesta](/assets/images/help/repository/transfer-issue.png)
-5. Utiliza el menú desplegable **Choose a repository** (Elegir un repositorio) y selecciona el repositorio al que quieres transferir la propuesta. ![Elige una selección de repositorio](/assets/images/help/repository/choose-a-repository.png)
-6. Haz clic en **Transfer issue** (Transferir propuesta). ![Botón Transfer issue (Transferir propuesta)](/assets/images/help/repository/transfer-issue-button.png)
+4. En la barra lateral derecha, haz clic en **Transfer issue** (Transferir propuesta). ![Botón para transferir propuesta](/assets/images/2021/10/help/repository/transfer-issue.png)
+5. Utiliza el menú desplegable **Choose a repository** (Elegir un repositorio) y selecciona el repositorio al que quieres transferir la propuesta. ![Elige una selección de repositorio](/assets/images/2021/10/help/repository/choose-a-repository.png)
+6. Haz clic en **Transfer issue** (Transferir propuesta). ![Botón Transfer issue (Transferir propuesta)](/assets/images/2021/10/help/repository/transfer-issue-button.png)
 
 {% endwebui %}
 

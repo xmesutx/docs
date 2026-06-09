@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![すべての変更を隠すメニューアイテム](/assets/images/help/desktop/mac-stash-all-changes.png)
+  ![すべての変更を隠すメニューアイテム](/assets/images/2021/10/help/desktop/mac-stash-all-changes.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![すべての変更を隠すメニューアイテム](/assets/images/help/desktop/mac-stash-all-changes.png)
+  ![すべての変更を隠すメニューアイテム](/assets/images/2021/10/help/desktop/mac-stash-all-changes.png)
 
   {% endwindows %}

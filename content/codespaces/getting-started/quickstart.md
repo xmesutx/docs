@@ -29,7 +29,7 @@ For more information on exactly how {% data variables.product.prodname_codespace
 
 3. Navigate to the main page of the newly created repository. Under the repository name, use the **{% octicon "code" aria-label="The code icon" %} Code** drop-down menu, and in the **Codespaces** tab, click {% octicon "plus" aria-label="The plus icon" %} **New codespace**.
 
-  ![New codespace button](/assets/images/help/codespaces/new-codespace-button.png)
+  ![New codespace button](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
 ## Running the application
 
@@ -37,13 +37,13 @@ Once your codespace is created, your repository will be automatically cloned int
 
 1. Since this example uses a Node.js project, start the application by entering `npm run dev` in the terminal. This command executes the `dev` script in the package.json file and starts up the web application defined in the sample repository.
    
-   ![npm run dev in terminal](/assets/images/help/codespaces/codespaces-npm-run-dev.png)
+   ![npm run dev in terminal](/assets/images/2021/10/help/codespaces/codespaces-npm-run-dev.png)
 
     If you're following along with a different application type, enter the corresponding start command for that project.
 
 2. When your application starts, the codespace recognizes the port the application is running on and displays a prompt to forward that port so you can connect to it. 
 
-  ![Port forwarding toast](/assets/images/help/codespaces/quickstart-port-toast.png)
+  ![Port forwarding toast](/assets/images/2021/10/help/codespaces/quickstart-port-toast.png)
 
 3. Click **Open in Browser** to view your running application in a new tab.
 
@@ -56,7 +56,7 @@ Once your codespace is created, your repository will be automatically cloned int
 3. Go back to the running application tab in your browser and refresh to see your changes.
    
   {% octicon "light-bulb" aria-label="The lightbulb icon" %}  If you've closed the tab, open the Ports panel and click the **Open in browser** icon for the running port.
-  ![Port Forwarding Panel](/assets/images/help/codespaces/quickstart-forward-port.png)
+  ![Port Forwarding Panel](/assets/images/2021/10/help/codespaces/quickstart-forward-port.png)
 
 ## Committing and pushing your changes
 
@@ -64,14 +64,14 @@ Now that you've made a few changes, you can use the integrated terminal or the s
 
 {% data reusables.codespaces.source-control-display-dark %}
 1. To stage your changes, click  **+** next to the file you've changed, or next to **Changes** if you've changed multiple files and you want to stage them all.
-![Source control side bar with staging button highlighted](/assets/images/help/codespaces/codespaces-commit-stage.png)
+![Source control side bar with staging button highlighted](/assets/images/2021/10/help/codespaces/codespaces-commit-stage.png)
 1. Type a commit message describing the change you've made.
-![Source control side bar with a commit message](/assets/images/help/codespaces/codespaces-commit-commit-message.png)  
+![Source control side bar with a commit message](/assets/images/2021/10/help/codespaces/codespaces-commit-commit-message.png)  
 1. To commit your staged changes, click the check mark at the top the source control side bar.
-![Click the check mark icon](/assets/images/help/codespaces/codespaces-commit-checkmark-icon.png)  
+![Click the check mark icon](/assets/images/2021/10/help/codespaces/codespaces-commit-checkmark-icon.png)  
     You can push the changes you've made. This applies those changes to the upstream branch on the remote repository. You might want to do this if you're not yet ready to create a pull request, or if you prefer to create a pull request on {% data variables.product.prodname_dotcom %}.
 1. At the top of the side bar, click the ellipsis (**...**).
-![Ellipsis button for View and More Actions](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+![Ellipsis button for View and More Actions](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. In the drop-down menu, click **Push**.
 
 ## Personalizing with an extension
@@ -82,11 +82,11 @@ Within a codespace, you have access to the Visual Studio Code Marketplace. For t
 
 2.  In the search bar, enter `fairyfloss` and install the fairyfloss extension.
 
-  ![Add an extension](/assets/images/help/codespaces/add-extension.png)
+  ![Add an extension](/assets/images/2021/10/help/codespaces/add-extension.png)
 
 3. Select the `fairyfloss` theme by selecting it from the list.
 
-  ![Select the fairyfloss theme](/assets/images/help/codespaces/fairyfloss.png)
+  ![Select the fairyfloss theme](/assets/images/2021/10/help/codespaces/fairyfloss.png)
 
 4. Changes you make to your editor setup in the current codespace, such as theme and keyboard bindings, are synced automatically via [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to any other codespaces you open and any instances of Visual Studio Code that are signed into your GitHub account.
 

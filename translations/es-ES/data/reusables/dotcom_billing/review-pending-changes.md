@@ -1,1 +1,1 @@
-1. Debajo de "Plan actual"; revisa tus cambios pendientes. ![Sección de suscripciones de la configuración de facturación listando cualquier cambio pendiente de suscripción](/assets/images/help/billing/review-pending-subscription-changes.png)
+1. Debajo de "Plan actual"; revisa tus cambios pendientes. ![Sección de suscripciones de la configuración de facturación listando cualquier cambio pendiente de suscripción](/assets/images/2021/10/help/billing/review-pending-subscription-changes.png)

@@ -30,7 +30,7 @@ shortTitle: Remove workflow artifacts
 {% data reusables.repositories.view-run %}
 1. Under **Artifacts**, click {% octicon "trash" aria-label="The trash icon" %} next to the artifact you want to remove.
     
-    ![Delete artifact drop-down menu](/assets/images/help/repository/actions-delete-artifact-updated.png)
+    ![Delete artifact drop-down menu](/assets/images/2021/10/help/repository/actions-delete-artifact-updated.png)
     
 
 ## Setting the retention period for an artifact

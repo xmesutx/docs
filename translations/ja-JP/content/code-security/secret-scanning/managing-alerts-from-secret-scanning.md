@@ -34,27 +34,27 @@ shortTitle: シークレットのアラートの管理
 {% data reusables.repositories.sidebar-security %}
 1. 左サイトバーで、[**Secret scanning alerts**] をクリックします。
    {% ifversion fpt or ghes or ghec %}
-   ![[Secret scanning alert] タブ](/assets/images/help/repository/sidebar-secrets.png)
+   ![[Secret scanning alert] タブ](/assets/images/2021/10/help/repository/sidebar-secrets.png)
    {% endif %}
    {% ifversion ghae %}
-   ![[Secret scanning alert] タブ](/assets/images/enterprise/github-ae/repository/sidebar-secrets-ghae.png)
+   ![[Secret scanning alert] タブ](/assets/images/2021/10/enterprise/github-ae/repository/sidebar-secrets-ghae.png)
    {% endif %}
 1. [Secret scanning] の下で、表示するアラートをクリックします。
    {% ifversion fpt or ghec %}
-   ![シークレットスキャンからのアラートのリスト](/assets/images/help/repository/secret-scanning-click-alert.png)
+   ![シークレットスキャンからのアラートのリスト](/assets/images/2021/10/help/repository/secret-scanning-click-alert.png)
    {% endif %}
    {% ifversion ghes %}
-   ![シークレットスキャンからのアラートのリスト](/assets/images/help/repository/secret-scanning-click-alert-ghe.png)
+   ![シークレットスキャンからのアラートのリスト](/assets/images/2021/10/help/repository/secret-scanning-click-alert-ghe.png)
    {% endif %}
    {% ifversion ghae %}
-   ![シークレットスキャンからのアラートのリスト](/assets/images/enterprise/github-ae/repository/secret-scanning-click-alert-ghae.png)
+   ![シークレットスキャンからのアラートのリスト](/assets/images/2021/10/enterprise/github-ae/repository/secret-scanning-click-alert-ghae.png)
    {% endif %}
 1. Optionally, select the {% ifversion fpt or ghec %}"Close as"{% elsif ghes or ghae %}"Mark as"{% endif %} drop-down menu and click a reason for resolving an alert.
    {% ifversion fpt or ghec %}
-   ![シークレットスキャンからのアラートを解決するためのドロップダウンメニュー](/assets/images/help/repository/secret-scanning-resolve-alert.png)
+   ![シークレットスキャンからのアラートを解決するためのドロップダウンメニュー](/assets/images/2021/10/help/repository/secret-scanning-resolve-alert.png)
    {% endif %}
    {% ifversion ghes or ghae %}
-   ![シークレットスキャンからのアラートを解決するためのドロップダウンメニュー](/assets/images/help/repository/secret-scanning-resolve-alert-ghe.png)
+   ![シークレットスキャンからのアラートを解決するためのドロップダウンメニュー](/assets/images/2021/10/help/repository/secret-scanning-resolve-alert-ghe.png)
    {% endif %}
 
 ## 侵害されたシークレットを保護する

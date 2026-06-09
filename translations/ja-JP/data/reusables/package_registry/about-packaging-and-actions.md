@@ -8,7 +8,7 @@
 
 そうすれば、Pull Requestをレビューする際には、ワークフローの実行を見て生成された成果物をダウンロードできるでしょう。
 
-![成果物のダウンロードのドロップダウンメニュー](/assets/images/help/repository/artifact-drop-down-updated.png)
+![成果物のダウンロードのドロップダウンメニュー](/assets/images/2021/10/help/repository/artifact-drop-down-updated.png)
 
 こうすれば、プルリクエスト中のコードを自分のマシン上で実行できるので、プルリクエストのデバッグやテストに役立ちます。
 

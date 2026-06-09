@@ -17,9 +17,9 @@ shortTitle: アクセス権を持つ人の表示
 
 管理者はこの情報を使用して、社外の人の支援、コンプライアンスのためのデータ収集、およびその他の一般的なセキュリティチェックを行うことができます。
 {% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-5974 %}
-![アクセス管理の概要](/assets/images/help/repository/manage-access-overview.png)
+![アクセス管理の概要](/assets/images/2021/10/help/repository/manage-access-overview.png)
 {% else %}
-![リポジトリユーザの権限リスト](/assets/images/help/repository/repository-permissions-list.png)
+![リポジトリユーザの権限リスト](/assets/images/2021/10/help/repository/repository-permissions-list.png)
 {% endif %}
 ## 自分のリポジトリにアクセスできる人を表示する
 
@@ -37,4 +37,4 @@ shortTitle: アクセス権を持つ人の表示
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.accessing-repository-people %}
-4. [**Export CSV**] をクリックします。 ![リポジトリサイドバーの人タブ](/assets/images/help/repository/export-repository-permissions.png)
+4. [**Export CSV**] をクリックします。 ![リポジトリサイドバーの人タブ](/assets/images/2021/10/help/repository/export-repository-permissions.png)

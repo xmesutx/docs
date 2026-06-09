@@ -30,7 +30,7 @@ shortTitle: 掲載する価格プランの設定
 
 アプリケーションが有料プラン付きで既に公開されており、あなたが検証済みパブリッシャーである場合は、Marketplaceアプリケーション掲載設定の [Edit a pricing plan] ページから新しい有料プランを公開できます。
 
-![[Publish this plan] ボタン](/assets/images/marketplace/publish-this-plan-button.png)
+![[Publish this plan] ボタン](/assets/images/2021/10/marketplace/publish-this-plan-button.png)
 
 アプリケーションが有料プラン付きで既に公開されており、あなたが検証済みパブリッシャーでない場合は、検証済みパブリッシャーになるまで新しい有料プランを公開できません。 検証済みパブリッシャーになる方法の詳細については、「[Organizationのパブリッシャー検証プロセスを申請する](/developers/github-marketplace/applying-for-publisher-verification-for-your-organization)」を参照してください。
 
@@ -69,7 +69,7 @@ shortTitle: 掲載する価格プランの設定
 
 {% data variables.product.prodname_marketplace %}のリストのための価格プランが必要なくなったり、プランの詳細を調整する必要が生じた場合、そのプランを削除できます。
 
-![価格プランを削除するボタン](/assets/images/marketplace/marketplace_remove_this_plan.png)
+![価格プランを削除するボタン](/assets/images/2021/10/marketplace/marketplace_remove_this_plan.png)
 
 {% data variables.product.prodname_marketplace %}にリスト済みのアプリケーションの価格プランを公開すると、そのプランは変更できなくなります。 その代わりに、その価格プランを削除して、新しいプランを作成しなければなりません。 削除された価格プランを購入済みの顧客は、オプトアウトして新しい価格プランに移行するまでは、そのプランを使い続けます。 価格プランの詳細については、「[{% data variables.product.prodname_marketplace %}の価格プラン](/marketplace/selling-your-app/github-marketplace-pricing-plans/)」を参照してください。
 

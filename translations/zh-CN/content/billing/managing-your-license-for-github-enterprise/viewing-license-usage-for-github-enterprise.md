@@ -39,7 +39,7 @@ You can view the license usage for your enterprise and download a file with lice
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 1. In the left sidebar, click **Enterprise licensing**.
-  !["Enterprise licensing" tab in the enterprise account settings sidebar](/assets/images/help/enterprises/enterprise-licensing-tab.png)
+  !["Enterprise licensing" tab in the enterprise account settings sidebar](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
 1. Review your current {% data variables.product.prodname_enterprise %} license, as well as consumed and available user licenses.
     - If your license includes {% data variables.product.prodname_GH_advanced_security %}, you can review your total seat use. For more information, see "[Viewing your {% data variables.product.prodname_GH_advanced_security %} usage](/billing/managing-billing-for-github-advanced-security/viewing-your-github-advanced-security-usage)."
 

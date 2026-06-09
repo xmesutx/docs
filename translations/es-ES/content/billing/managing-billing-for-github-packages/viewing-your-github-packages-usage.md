@@ -49,6 +49,6 @@ Los propietarios de empresa y gerentes de facturación pueden ver el uso de {% d
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. Debajo de "{% data variables.product.prodname_registry %}", visualiza los detalles de uso de transferencia de datos para cada organización en tu cuenta empresarial. ![Detalles de uso de transferencia de datos](/assets/images/help/billing/packages-data-enterprise.png)
+1. Debajo de "{% data variables.product.prodname_registry %}", visualiza los detalles de uso de transferencia de datos para cada organización en tu cuenta empresarial. ![Detalles de uso de transferencia de datos](/assets/images/2021/10/help/billing/packages-data-enterprise.png)
 {% data reusables.dotcom_billing.actions-packages-storage-enterprise-account %}
 {% data reusables.enterprise-accounts.actions-packages-report-download-enterprise-accounts %}

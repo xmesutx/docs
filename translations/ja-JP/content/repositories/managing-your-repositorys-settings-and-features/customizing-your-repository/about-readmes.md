@@ -31,7 +31,7 @@ README ファイルをリポジトリに追加して、プロジェクトに関�
 
 README ファイルをリポジトリのルート、`docs`、または隠れディレクトリ `.github` に置けば、{% data variables.product.product_name %} はそれを認識して自動的に README をリポジトリへの訪問者に提示します。
 
-![github/scientistリポジトリのメインページとそのREADMEファイル](/assets/images/help/repository/repo-with-readme.png)
+![github/scientistリポジトリのメインページとそのREADMEファイル](/assets/images/2021/10/help/repository/repo-with-readme.png)
 
 {% ifversion fpt or ghes or ghec %}
 
@@ -39,7 +39,7 @@ README ファイルをリポジトリのルート、`docs`、または隠れデ�
 
 {% endif %}
 
-![ユーザ名/ユーザ名リポジトリの README ファイル](/assets/images/help/repository/username-repo-with-readme.png)
+![ユーザ名/ユーザ名リポジトリの README ファイル](/assets/images/2021/10/help/repository/username-repo-with-readme.png)
 
 {% ifversion fpt or ghae or ghes > 3.1 or ghec %}
 
@@ -47,7 +47,7 @@ README ファイルをリポジトリのルート、`docs`、または隠れデ�
 
 For the rendered view of any Markdown file in a repository, including README files, {% data variables.product.product_name %} will automatically generate a table of contents based on section headings. You can view the table of contents for a README file by clicking the {% octicon "list-unordered" aria-label="The unordered list icon" %}  menu icon at the top left of the rendered page.
 
-![README with automatically generated TOC](/assets/images/help/repository/readme-automatic-toc.png)
+![README with automatically generated TOC](/assets/images/2021/10/help/repository/readme-automatic-toc.png)
 
 {% endif %}
 

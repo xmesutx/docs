@@ -30,10 +30,10 @@ versions:
 
   {% endnote %}
 
-  ![Viewing a tag in the history](/assets/images/help/desktop/viewing-tags-in-history.png)
+  ![Viewing a tag in the history](/assets/images/2021/10/help/desktop/viewing-tags-in-history.png)
 
 3. All tags associated with the commit are visible in that commit's metadata.
-![Viewing a tag in the commit](/assets/images/help/desktop/viewing-tags-in-commit.png)
+![Viewing a tag in the commit](/assets/images/2021/10/help/desktop/viewing-tags-in-commit.png)
 
 ## Deleting tags
 

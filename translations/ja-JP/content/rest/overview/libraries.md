@@ -14,7 +14,7 @@ topics:
 ---
 
 <div class="jumbotron libraries-jumbotron">
-  <img src="/assets/images/gundamcat.png" class="gundamcat" alt="The Gundamcat" />
+  <img src="/assets/images/2021/10/gundamcat.png" class="gundamcat" alt="The Gundamcat" />
   <h1>Octokit にはいくつかの種類があります</h1>
   <p class="lead">公式の Octokit ライブラリを使用するか、利用可能なサードパーティライブラリのいずれかを選択します。</p>
   <div class="octokit-links"><br/>

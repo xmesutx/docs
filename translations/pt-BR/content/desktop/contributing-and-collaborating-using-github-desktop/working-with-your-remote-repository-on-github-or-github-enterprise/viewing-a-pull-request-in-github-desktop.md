@@ -18,12 +18,12 @@ Ao visualizar um pull request no {% data variables.product.prodname_desktop %}, 
 ## Visualizar um pull request em {% data variables.product.prodname_desktop %}
 {% data reusables.desktop.current-branch-menu %}
 {% data reusables.desktop.click-pull-requests %}
-  ![Guia Pull requests no menu suspenso Branch atual](/assets/images/help/desktop/branch-drop-down-pull-request-tab.png)
+  ![Guia Pull requests no menu suspenso Branch atual](/assets/images/2021/10/help/desktop/branch-drop-down-pull-request-tab.png)
 {% data reusables.desktop.choose-pr-from-list %}
-  ![Lista de pull requests em aberto no repositório](/assets/images/help/desktop/click-pull-request.png)
-4. Para atualizar a lista de pull requests, você também pode clicar em {% octicon "sync" aria-label="The sync icon" %}. ![Botão Sync (Sincronizar) para atualizar](/assets/images/help/desktop/pull-request-list-sync.png)
+  ![Lista de pull requests em aberto no repositório](/assets/images/2021/10/help/desktop/click-pull-request.png)
+4. Para atualizar a lista de pull requests, você também pode clicar em {% octicon "sync" aria-label="The sync icon" %}. ![Botão Sync (Sincronizar) para atualizar](/assets/images/2021/10/help/desktop/pull-request-list-sync.png)
 
 ## Abrir um pull request no {% data variables.product.prodname_desktop %} a partir de {% data variables.product.prodname_dotcom %}
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista de pull requests, clique no pull request que você gostaria de abrir no {% data variables.product.prodname_desktop %}.
-3. À direita do título do pull request, clique no menu suspenso **Abrir com** e, em seguida, clique no botão **Abrir no Desktop**. ![O botão Abrir no Desktop](/assets/images/help/desktop/open-pr-in-desktop-button.png)
+3. À direita do título do pull request, clique no menu suspenso **Abrir com** e, em seguida, clique no botão **Abrir no Desktop**. ![O botão Abrir no Desktop](/assets/images/2021/10/help/desktop/open-pr-in-desktop-button.png)

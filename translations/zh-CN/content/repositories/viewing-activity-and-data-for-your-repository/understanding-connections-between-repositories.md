@@ -28,7 +28,7 @@ shortTitle: 存储库之间的连接
 
 网络图显示整个仓库网络的分支历史记录，包括根仓库的分支和包含网络独有提交的复刻的分支。
 
-![仓库网络图](/assets/images/help/graphs/repo_network_graph.png)
+![仓库网络图](/assets/images/2021/10/help/graphs/repo_network_graph.png)
 
 {% tip %}
 
@@ -40,7 +40,7 @@ shortTitle: 存储库之间的连接
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 在左侧边栏中，单击 **Network（网络）**。 ![网络选项卡](/assets/images/help/graphs/network_tab.png)
+3. 在左侧边栏中，单击 **Network（网络）**。 ![网络选项卡](/assets/images/2021/10/help/graphs/network_tab.png)
 
 ## 列出仓库的复刻
 
@@ -50,11 +50,11 @@ shortTitle: 存储库之间的连接
 
 {% ifversion fpt or ghec %}
 
-![仓库成员图](/assets/images/help/graphs/repo_forks_graph_dotcom.png)
+![仓库成员图](/assets/images/2021/10/help/graphs/repo_forks_graph_dotcom.png)
 
 {% else %}
 
-![仓库成员图](/assets/images/help/graphs/repo_members_graph.png)
+![仓库成员图](/assets/images/2021/10/help/graphs/repo_members_graph.png)
 
 {% endif %}
 
@@ -62,7 +62,7 @@ shortTitle: 存储库之间的连接
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 在左侧边栏中，单击 **Forks（复刻）**。 ![复刻选项卡](/assets/images/help/graphs/graphs-sidebar-forks-tab.png)
+3. 在左侧边栏中，单击 **Forks（复刻）**。 ![复刻选项卡](/assets/images/2021/10/help/graphs/graphs-sidebar-forks-tab.png)
 
 {% ifversion fpt or ghes or ghae-issue-4864 or ghec %}
 ## 查看仓库的依赖项

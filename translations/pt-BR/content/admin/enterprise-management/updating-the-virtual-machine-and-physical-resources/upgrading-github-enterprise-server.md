@@ -98,8 +98,8 @@ Se o alvo de atualização que lhe foi apresentado for uma versão do recurso em
 {% data reusables.enterprise_management_console.updates-tab %}
 4. Quando um novo hotpatch for baixado, use o menu suspenso Install package (Instalar pacote):
     - Para instalar na mesma hora, selecione **Now** (Agora):
-    - Para instalar depois, selecione outra data. ![Menu suspenso com datas para instalação de hotpatch](/assets/images/enterprise/management-console/hotpatch-installation-date-dropdown.png)
-5. Clique em **instalar**. ![Botão de instalação de hotpatch](/assets/images/enterprise/management-console/hotpatch-installation-install-button.png)
+    - Para instalar depois, selecione outra data. ![Menu suspenso com datas para instalação de hotpatch](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-date-dropdown.png)
+5. Clique em **instalar**. ![Botão de instalação de hotpatch](/assets/images/2021/10/enterprise/management-console/hotpatch-installation-install-button.png)
 
 #### Instalar hotpatch usando o shell administrativo
 

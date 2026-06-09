@@ -40,11 +40,11 @@ Para configurar el aprovisionamiento de tu {% data variables.product.prodname_em
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.personal_access_tokens %}
 {% data reusables.user-settings.generate_new_token %}
-1. Debajo de **Nota**, proporciona un nombre descriptivo a tu token. ![Captura de pantalla que muestra el nombre del token](/assets/images/help/enterprises/emu-pat-name.png)
-1. Selecciona el menú desplegable de **Vencimiento** y luego haz clic en **Sin vencimiento**. ![Captura de pantalla que muestra el vencimiento de un token configurado como "sin vencimiento"](/assets/images/help/enterprises/emu-pat-no-expiration.png)
-1. Selecciona el alcance **admin:enterprise**. ![Captura de pantalla que muestra el alcance admin:enterprise](/assets/images/help/enterprises/enterprise-pat-scope.png)
-1. Haz clic en **Generar token**. ![Generar un botón para el token](/assets/images/help/settings/generate_token.png)
-1. Para copiar el token a tu portapapeles, haz clic en el {% octicon "paste" aria-label="The copy icon" %}. ![Token recién creado](/assets/images/help/settings/personal_access_tokens.png)
+1. Debajo de **Nota**, proporciona un nombre descriptivo a tu token. ![Captura de pantalla que muestra el nombre del token](/assets/images/2021/10/help/enterprises/emu-pat-name.png)
+1. Selecciona el menú desplegable de **Vencimiento** y luego haz clic en **Sin vencimiento**. ![Captura de pantalla que muestra el vencimiento de un token configurado como "sin vencimiento"](/assets/images/2021/10/help/enterprises/emu-pat-no-expiration.png)
+1. Selecciona el alcance **admin:enterprise**. ![Captura de pantalla que muestra el alcance admin:enterprise](/assets/images/2021/10/help/enterprises/enterprise-pat-scope.png)
+1. Haz clic en **Generar token**. ![Generar un botón para el token](/assets/images/2021/10/help/settings/generate_token.png)
+1. Para copiar el token a tu portapapeles, haz clic en el {% octicon "paste" aria-label="The copy icon" %}. ![Token recién creado](/assets/images/2021/10/help/settings/personal_access_tokens.png)
 2. Para guardar el token para utilizarlo posteriormente, almacénalo de forma segura en un administrador de contraseñas.
 
 ## Configurar el aprovisionamiento para {% data variables.product.prodname_emus %}

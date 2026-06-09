@@ -31,9 +31,9 @@ shortTitle: 转移议题
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 3. 在议题列表中，单击您想要转让的议题。
-4. 在右侧边栏中，单击 **Transfer issue（转让议题）**。 ![转让议题的按钮](/assets/images/help/repository/transfer-issue.png)
-5. 使用 **Choose a repository（选择仓库）**下拉菜单，并选择议题要转让到的仓库。 ![选择仓库选择](/assets/images/help/repository/choose-a-repository.png)
-6. 单击 **Transfer issue（转让议题）**。 ![转让议题按钮](/assets/images/help/repository/transfer-issue-button.png)
+4. 在右侧边栏中，单击 **Transfer issue（转让议题）**。 ![转让议题的按钮](/assets/images/2021/10/help/repository/transfer-issue.png)
+5. 使用 **Choose a repository（选择仓库）**下拉菜单，并选择议题要转让到的仓库。 ![选择仓库选择](/assets/images/2021/10/help/repository/choose-a-repository.png)
+6. 单击 **Transfer issue（转让议题）**。 ![转让议题按钮](/assets/images/2021/10/help/repository/transfer-issue-button.png)
 
 {% endwebui %}
 

@@ -60,7 +60,7 @@ You can search {% data variables.product.product_name %} using the {% data varia
 
 {% data variables.search.advanced_url %}は、検索クエリを構築するビジュアルなインターフェースを提供します。 検索は、Star 数やリポジトリの持つフォーク数など、様々な要素でフィルタリングできます。 高度な検索フィールドに記入していくに従って、上部の検索バーでは自動的にクエリが構築されていきます。
 
-![高度な検索](/assets/images/help/search/advanced_search_demo.gif)
+![高度な検索](/assets/images/2021/10/help/search/advanced_search_demo.gif)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 

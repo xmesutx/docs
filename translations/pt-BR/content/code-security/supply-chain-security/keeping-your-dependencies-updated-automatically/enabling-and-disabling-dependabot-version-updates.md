@@ -89,7 +89,7 @@ Em uma bifurcação, você também precisa habilitar explicitamente {% data vari
 
 Depois que você habilitar as atualizações de versão, será preenchida a aba **Dependabot** no gráfico de dependências para o repositório. Esta aba mostra quais gerentes de pacote de {% data variables.product.prodname_dependabot %} estão configurados para monitorar e quando {% data variables.product.prodname_dependabot %} fez a última verificação com relação a novas versões.
 
-![Aba de Insights do Repositório, gráfico de dependências, aba Dependabot](/assets/images/help/dependabot/dependabot-tab-view.png)
+![Aba de Insights do Repositório, gráfico de dependências, aba Dependabot](/assets/images/2021/11/help/dependabot/dependabot-tab-view.png)
 
 Para obter mais informações, consulte "[Listando dependências configuradas para atualizações da versão](/github/administering-a-repository/listing-dependencies-configured-for-version-updates)".
 

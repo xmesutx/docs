@@ -10,16 +10,16 @@ versions:
 
 {% mac %}
 
-1. No menu **GitHub Desktop**, clique em **About GitHub Desktop** (Sobre o GitHub Desktop). ![Opção de menu Sobre o GitHub Desktop](/assets/images/help/desktop/desktop-menu-about-desktop-mac.png)
-2. Clique em **Check for Updates** (Verificar atualizações). ![Botão Check for Updates (Verificar atualizações)](/assets/images/help/desktop/check-for-updates.png)
+1. No menu **GitHub Desktop**, clique em **About GitHub Desktop** (Sobre o GitHub Desktop). ![Opção de menu Sobre o GitHub Desktop](/assets/images/2021/10/help/desktop/desktop-menu-about-desktop-mac.png)
+2. Clique em **Check for Updates** (Verificar atualizações). ![Botão Check for Updates (Verificar atualizações)](/assets/images/2021/10/help/desktop/check-for-updates.png)
 3. Se houver alguma atualização disponível, saia e inicie o {% data variables.product.prodname_desktop %} novamente para fazer a instalação.
 
 {% endmac %}
 
 {% windows %}
 
-1. No menu **Help** (Ajuda), clique em **About GitHub Desktop** (Sobre o GitHub Desktop). ![Opção de menu Sobre o GitHub Desktop](/assets/images/help/desktop/help-about-desktop-win.png)
-2. Clique em **Check for Updates** (Verificar atualizações). ![Botão Check for Updates (Verificar atualizações)](/assets/images/help/desktop/check-for-updates.png)
+1. No menu **Help** (Ajuda), clique em **About GitHub Desktop** (Sobre o GitHub Desktop). ![Opção de menu Sobre o GitHub Desktop](/assets/images/2021/10/help/desktop/help-about-desktop-win.png)
+2. Clique em **Check for Updates** (Verificar atualizações). ![Botão Check for Updates (Verificar atualizações)](/assets/images/2021/10/help/desktop/check-for-updates.png)
 3. Se houver alguma atualização disponível, saia e inicie o {% data variables.product.prodname_desktop %} novamente para fazer a instalação.
 
 {% endwindows %}

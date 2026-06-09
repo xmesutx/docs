@@ -24,9 +24,9 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 2. Above the list of files, click **Go to file**.
-![Find file button](/assets/images/help/search/find-file-button.png)
+![Find file button](/assets/images/2021/10/help/search/find-file-button.png)
 3. In the search field, type the name of the file you'd like to find.
-![Find file search field](/assets/images/help/search/find-file-search-field.png)
+![Find file search field](/assets/images/2021/10/help/search/find-file-search-field.png)
 4. In the list of results, click the file you wanted to find.
 
 ## Further reading

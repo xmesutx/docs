@@ -82,6 +82,6 @@ Before you can become a sponsored developer, you must enable 2FA for your accoun
 ## {% data variables.product.prodname_dotcom %} に申請をサブミットして承認を求める
 
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
-4. [**Request approval**] をクリックします。 ![[Request approval] ボタン](/assets/images/help/sponsors/request-approval-button.png)
+4. [**Request approval**] をクリックします。 ![[Request approval] ボタン](/assets/images/2021/10/help/sponsors/request-approval-button.png)
 
 {% data reusables.sponsors.github-review-app %}

@@ -26,7 +26,7 @@ Organization またはユーザアカウントのデフォルトの Issue とプ
 
 Issue テンプレートビルダー{% ifversion fpt or ghec %} または Issue フォーム{% endif %} を使用してリポジトリの Issue テンプレートを作成する場合、コントリビューターはリポジトリで新しい Issue をオープンするときに適切なテンプレートを選択できます。
 
-![Issue テンプレートの選択肢が表示された新規 Issue ページ](/assets/images/help/issues/new-issue-page-with-multiple-templates.png)
+![Issue テンプレートの選択肢が表示された新規 Issue ページ](/assets/images/2021/10/help/issues/new-issue-page-with-multiple-templates.png)
 
 Issue テンプレートは、コントリビューターが Issue の内容を指定できるようにするとともに、Issue をオープンするためのガイダンスを提供する場合に役立ちます。 {% ifversion fpt or ghec %} コントリビューターが Issue をオープンするときに特定の構造化された情報を提供する場合は、Issue フォームを使用すると、必要な情報を確実に受け取ることができます。{% endif %}
 
@@ -50,7 +50,7 @@ Issue テンプレートは、リポジトリのデフォルトブランチ中�
 
 リポジトリにプルリクエストのテンプレートを追加すると、プロジェクトのコントリビューターはプルリクエストの本体にテンプレートの内容を自動的に見ることになります。
 
-![サンプルのプルリクエストテンプレート](/assets/images/help/pull_requests/pr-template-sample.png)
+![サンプルのプルリクエストテンプレート](/assets/images/2021/10/help/pull_requests/pr-template-sample.png)
 
 テンプレートは、リポジトリのデフォルトブランチに作成しなければなりません。 他のブランチに作成されたテンプレートは、コラボレーターが使用できません。 プルリクエストのテンプレートは、リポジトリの見えるルートディレクトリ、`docs` フォルダ、または隠しディレクトリ `.github` に保存できます。 プルリクエストテンプレートのファイル名は大文字と小文字が区別されません。拡張子としては *.md* または *.txt* を使用できます。
 

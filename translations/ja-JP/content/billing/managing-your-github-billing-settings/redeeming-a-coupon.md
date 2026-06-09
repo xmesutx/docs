@@ -28,7 +28,7 @@ topics:
 ## 個人アカウントでクーポンを利用する
 
 {% data reusables.dotcom_billing.enter_coupon_code_on_redeem_page %}
-4. [Redeem your coupon] の下で、*個人*アカウントのユーザ名の横にある [**Choose**] をクリックします。 ![選択ボタン](/assets/images/help/settings/redeem-coupon-choose-button-for-personal-accounts.png)
+4. [Redeem your coupon] の下で、*個人*アカウントのユーザ名の横にある [**Choose**] をクリックします。 ![選択ボタン](/assets/images/2021/10/help/settings/redeem-coupon-choose-button-for-personal-accounts.png)
 {% data reusables.dotcom_billing.redeem_coupon %}
 
 ## Organization でクーポンを利用する
@@ -36,5 +36,5 @@ topics:
 {% data reusables.dotcom_billing.org-billing-perms %}
 
 {% data reusables.dotcom_billing.enter_coupon_code_on_redeem_page %}
-4. 「Redeem your coupon」の下で、クーポンを適用する *Organization* の横にある [**Choose**] をクリックします。 まだ存在していない新しい Organization にクーポンを適用する場合は、[**Create a new organization**] をクリックします。 ![選択ボタン](/assets/images/help/settings/redeem-coupon-choose-button.png)
+4. 「Redeem your coupon」の下で、クーポンを適用する *Organization* の横にある [**Choose**] をクリックします。 まだ存在していない新しい Organization にクーポンを適用する場合は、[**Create a new organization**] をクリックします。 ![選択ボタン](/assets/images/2021/10/help/settings/redeem-coupon-choose-button.png)
 {% data reusables.dotcom_billing.redeem_coupon %}

@@ -50,6 +50,6 @@ Proprietários de organizações e gestores de faturamento podem visualizar o us
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. Em "{% data variables.product.prodname_actions %}", veja os detalhes do uso de transferência de dados por cada organização em sua conta corporativa. ![Detalhes do uso de minutos](/assets/images/help/billing/actions-minutes-enterprise.png)
+1. Em "{% data variables.product.prodname_actions %}", veja os detalhes do uso de transferência de dados por cada organização em sua conta corporativa. ![Detalhes do uso de minutos](/assets/images/2021/10/help/billing/actions-minutes-enterprise.png)
 {% data reusables.dotcom_billing.actions-packages-storage-enterprise-account %}
 {% data reusables.enterprise-accounts.actions-packages-report-download-enterprise-accounts %}

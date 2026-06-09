@@ -1,1 +1,1 @@
-1. Debajo de {% octicon "law" aria-label="The law icon" %} **Políticas**, haz clic en "Seguridad Avanzada". ![Políticas de "Seguridad Avanzada" en la barra lateral](/assets/images/help/enterprises/click-advanced-security.png)
+1. Debajo de {% octicon "law" aria-label="The law icon" %} **Políticas**, haz clic en "Seguridad Avanzada". ![Políticas de "Seguridad Avanzada" en la barra lateral](/assets/images/2021/10/help/enterprises/click-advanced-security.png)

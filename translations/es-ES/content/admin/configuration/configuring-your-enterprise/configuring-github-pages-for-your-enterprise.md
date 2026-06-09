@@ -34,7 +34,7 @@ Si se habilitó el modo privado en tu empresa, el público en general no podrá 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
-4. Selecciona **Public Pages** (Páginas públicas). ![Casilla de verificación para habilitar páginas públicas](/assets/images/enterprise/management-console/public-pages-checkbox.png)
+4. Selecciona **Public Pages** (Páginas públicas). ![Casilla de verificación para habilitar páginas públicas](/assets/images/2021/10/enterprise/management-console/public-pages-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 ## Inhabilitar {% data variables.product.prodname_pages %} para tu empresa
@@ -44,7 +44,7 @@ Si el aislamiento de subdominios está inhabilitado en tu empresa, también debe
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.pages-tab %}
-4. Anula la selección de **Enable Pages** (Habilitar páginas). ![Casilla de verificación para inhabilitar {% data variables.product.prodname_pages %}](/assets/images/enterprise/management-console/pages-select-button.png)
+4. Anula la selección de **Enable Pages** (Habilitar páginas). ![Casilla de verificación para inhabilitar {% data variables.product.prodname_pages %}](/assets/images/2021/10/enterprise/management-console/pages-select-button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% endif %}
@@ -54,7 +54,7 @@ Si el aislamiento de subdominios está inhabilitado en tu empresa, también debe
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.pages-tab %}
-5. Debajo de "Políticas de las páginas", deselecciona **Habilitar {% data variables.product.prodname_pages %}**. ![Casilla de verificación para inhabilitar {% data variables.product.prodname_pages %}](/assets/images/enterprise/business-accounts/enable-github-pages-checkbox.png)
+5. Debajo de "Políticas de las páginas", deselecciona **Habilitar {% data variables.product.prodname_pages %}**. ![Casilla de verificación para inhabilitar {% data variables.product.prodname_pages %}](/assets/images/2021/10/enterprise/business-accounts/enable-github-pages-checkbox.png)
 {% data reusables.enterprise-accounts.pages-policies-save %}
 
 {% endif %}

@@ -29,9 +29,9 @@ shortTitle: Fazer checkout de um PR localmente
 
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista de pull requests, clique no pull request que você gostaria de modificar.{% ifversion fpt or ghec %}
-3. Para escolher onde você gostaria de abrir a pull request, selecione **Abrir com o menu suspenso {% octicon "triangle-down" aria-label="The down triangle icon" %}** e clique em uma das abas. ![Link to access command line pull request instructions](/assets/images/help/pull_requests/open-with-button.png){% else %}
-3. Na caixa de merge, clique em **instruções para linha de comando**. Siga a sequência de etapas para rebaixar a pull request proposta. ![Link para acessar instruções de pull request da linha de comando](/assets/images/help/pull_requests/pull_request_show_command_line_merge.png)
-4. Como opção, para exibir as alterações propostas no {% data variables.product.prodname_desktop %}, clique em **abrir em {% data variables.product.prodname_desktop %}**. ![Link para abrir uma pull request localmente no Desktop](/assets/images/help/desktop/open-pr-in-desktop.png){% endif %}
+3. Para escolher onde você gostaria de abrir a pull request, selecione **Abrir com o menu suspenso {% octicon "triangle-down" aria-label="The down triangle icon" %}** e clique em uma das abas. ![Link to access command line pull request instructions](/assets/images/2021/10/help/pull_requests/open-with-button.png){% else %}
+3. Na caixa de merge, clique em **instruções para linha de comando**. Siga a sequência de etapas para rebaixar a pull request proposta. ![Link para acessar instruções de pull request da linha de comando](/assets/images/2021/10/help/pull_requests/pull_request_show_command_line_merge.png)
+4. Como opção, para exibir as alterações propostas no {% data variables.product.prodname_desktop %}, clique em **abrir em {% data variables.product.prodname_desktop %}**. ![Link para abrir uma pull request localmente no Desktop](/assets/images/2021/10/help/desktop/open-pr-in-desktop.png){% endif %}
 
 {% endwebui %}
 
@@ -57,7 +57,7 @@ Qualquer pessoa pode abrir uma pull request anteriormente aberta para continuar 
 
 {% data reusables.repositories.sidebar-issue-pr %}
 2. Na lista "Pull Requests", clique na pull request da qual deseja fazer merge.
-3. Encontre o número da ID da pull request inativa. Essa é a sequência de dígitos certa após o título da pull request. ![Número da ID de pull requests](/assets/images/help/pull_requests/pull_request_id_number.png)
+3. Encontre o número da ID da pull request inativa. Essa é a sequência de dígitos certa após o título da pull request. ![Número da ID de pull requests](/assets/images/2021/10/help/pull_requests/pull_request_id_number.png)
 {% data reusables.command_line.open_the_multi_os_terminal %}
 5. Faça fetch da referência à pull request com base no número da ID, criando um branch no processo.
   ```shell

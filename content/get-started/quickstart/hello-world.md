@@ -41,7 +41,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 4. Select whether your repository will be **Public** or **Private**.
 5. Click **Create repository**.
 
-   ![Create a hello world repository](/assets/images/help/repository/hello-world-repo.png)
+   ![Create a hello world repository](/assets/images/2021/10/help/repository/hello-world-repo.png)
 
 ## Creating a branch
 
@@ -57,7 +57,7 @@ This diagram shows:
 * A new branch called `feature`
 * The journey that `feature` takes before it's merged into `main`
 
-![branching diagram](/assets/images/help/repository/branching.png)
+![branching diagram](/assets/images/2021/10/help/repository/branching.png)
 
 Have you ever saved different versions of a file? Something like:
 
@@ -73,11 +73,11 @@ Here at {% data variables.product.product_name %}, our developers, writers, and 
 
 1. Click the **Code** tab of your `hello-world` repository.
 2. Click the drop down at the top of the file list that says **main**.
-   ![Branch menu](/assets/images/help/branch/branch-selection-dropdown.png)
+   ![Branch menu](/assets/images/2021/10/help/branch/branch-selection-dropdown.png)
 4. Type a branch name, `readme-edits`, into the text box.
 5. Click **Create branch: readme-edits from main**.
 
-![Branch menu](/assets/images/help/repository/new-branch.png)
+![Branch menu](/assets/images/2021/10/help/repository/new-branch.png)
 
 Now you have two branches, `main` and `readme-edits`. Right now, they look exactly the same. Next you'll add changes to the new branch.
 
@@ -93,7 +93,7 @@ You can make and save changes to the files in your repository. On {% data variab
 4. In the **Commit changes** box, write a commit message that describes your changes.
 5. Click **Commit changes**.
 
-   ![Commit example](/assets/images/help/repository/first-commit.png)
+   ![Commit example](/assets/images/2021/10/help/repository/first-commit.png)
 
 These changes will be made only to the README file on your `readme-edits` branch, so now this branch contains content that's different from `main`.
 
@@ -114,7 +114,7 @@ You can even open pull requests in your own repository and merge them yourself. 
 3. In the **Example Comparisons** box, select the branch you made, `readme-edits`, to compare with `main` (the original).
 4. Look over your changes in the diffs on the Compare page, make sure they're what you want to submit.
 
-   ![diff example](/assets/images/help/repository/diffs.png)
+   ![diff example](/assets/images/2021/10/help/repository/diffs.png)
 
 5. Click **Create pull request**.
 6. Give your pull request a title and write a brief description of your changes. You can include emojis and drag and drop images and gifs.
@@ -132,7 +132,7 @@ Sometimes, a pull request may introduce changes to code that conflict with the e
 In this walk-through, you should not have any conflicts, so you are ready to merge your branch into the main branch.
 
 1. Click **Merge pull request** to merge the changes into `main`.
-  ![Screen shot of merge button.](/assets/images/help/pull_requests/pullrequest-mergebutton.png)
+  ![Screen shot of merge button.](/assets/images/2021/10/help/pull_requests/pullrequest-mergebutton.png)
 2. Click **Confirm merge**. You will receive a message that the request was successfully merged and the request was closed.
 3. Click **Delete branch**. Now that your pull request is merged and your changes are on `main`, you can safely delete the `readme-edits` branch. If you want to make more changes to your project, you can always create a new branch and repeat this process.
 

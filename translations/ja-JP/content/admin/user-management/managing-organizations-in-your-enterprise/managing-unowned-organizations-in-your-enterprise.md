@@ -17,6 +17,6 @@ shortTitle: Manage unowned organizations
 ---
 
 {% data reusables.enterprise-accounts.access-enterprise %}
-2. 検索フィールドの右側で、[**X unowned**] をクリックします。 ![オーナーのいない Organization を表示するボタン](/assets/images/help/business-accounts/unowned-organizations-button.png)
-3. 所有権を取得したい Organization の右側で、[**Become an owner**] をクリックします。 ![[Become an owner] ボタン](/assets/images/help/business-accounts/become-an-owner-button.png)
-4. 警告を読み、[**Become an owner**] をクリックします。 ![[Become an owner] ボタン](/assets/images/help/business-accounts/become-an-owner-confirmation.png)
+2. 検索フィールドの右側で、[**X unowned**] をクリックします。 ![オーナーのいない Organization を表示するボタン](/assets/images/2021/10/help/business-accounts/unowned-organizations-button.png)
+3. 所有権を取得したい Organization の右側で、[**Become an owner**] をクリックします。 ![[Become an owner] ボタン](/assets/images/2021/10/help/business-accounts/become-an-owner-button.png)
+4. 警告を読み、[**Become an owner**] をクリックします。 ![[Become an owner] ボタン](/assets/images/2021/10/help/business-accounts/become-an-owner-confirmation.png)

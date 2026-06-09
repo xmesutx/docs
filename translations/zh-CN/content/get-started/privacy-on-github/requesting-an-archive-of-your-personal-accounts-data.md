@@ -30,7 +30,7 @@ shortTitle: 请求帐户存档
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
-3. 在“Export account data（导出帐户数据）”下，单击 **Start export（开始导出）**或 **New export（新导出）**。 ![开始个人数据导出按钮突出显示](/assets/images/help/repository/export-personal-data.png) ![新个人数据导出按钮突出显示](/assets/images/help/repository/new-export.png)
+3. 在“Export account data（导出帐户数据）”下，单击 **Start export（开始导出）**或 **New export（新导出）**。 ![开始个人数据导出按钮突出显示](/assets/images/2021/10/help/repository/export-personal-data.png) ![新个人数据导出按钮突出显示](/assets/images/2021/10/help/repository/new-export.png)
 4. 导出准备好供下载后，{% data variables.product.product_name %} 将发送下载链接到您的主电子邮件地址。
 5. 单击电子邮件中的下载链接并在提示时重新输入密码。
 6. 您将被重定向到可以下载的 `tar.gz` 文件。
@@ -39,4 +39,4 @@ shortTitle: 请求帐户存档
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.account_settings %}
-3. 要在其过期之前禁用发送到您电子邮件的下载链接，请在“Export account data（导出帐户数据）”下，找到您想要禁用的数据导出下载，然后单击 **Delete（删除）**。 ![删除个人数据导出包按钮突出显示](/assets/images/help/repository/delete-export-personal-account-data.png)
+3. 要在其过期之前禁用发送到您电子邮件的下载链接，请在“Export account data（导出帐户数据）”下，找到您想要禁用的数据导出下载，然后单击 **Delete（删除）**。 ![删除个人数据导出包按钮突出显示](/assets/images/2021/10/help/repository/delete-export-personal-account-data.png)

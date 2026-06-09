@@ -31,11 +31,11 @@ Any Markdown within the `<details>` block will be collapsed until the reader cli
 
 The Markdown will be collapsed by default.
 
-![Rendered collapsed](/assets/images/help/writing/collapsed-section-view.png)
+![Rendered collapsed](/assets/images/2021/11/help/writing/collapsed-section-view.png)
 
 After a reader clicks {% octicon "triangle-right" aria-label="The right triange icon" %}, the details are expanded.
 
-![Rendered open](/assets/images/help/writing/open-collapsed-section.png)
+![Rendered open](/assets/images/2021/11/help/writing/open-collapsed-section.png)
 
 ## 延伸阅读
 

@@ -25,16 +25,16 @@ If you're an organization owner or you have team maintainer permissions in both 
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
 4. In the list of teams, click the name of the team where you'd like to add the child team.
-  ![List of the organization's teams](/assets/images/help/teams/click-team-name.png)
+  ![List of the organization's teams](/assets/images/2021/10/help/teams/click-team-name.png)
 5. At the top of the team page, click {% octicon "people" aria-label="The people icon" %} **Teams**.
-  ![Teams tab on a team page](/assets/images/help/teams/team-teams-tab.png)
+  ![Teams tab on a team page](/assets/images/2021/10/help/teams/team-teams-tab.png)
 6. Click **Add a team**.
-  ![Add a team button on a team page](/assets/images/help/teams/add-a-team.png)
+  ![Add a team button on a team page](/assets/images/2021/10/help/teams/add-a-team.png)
 7. Type the name of the team you'd like to add as a child team, and select it from the drop-down list.
-  ![Text box to type and drop-down menu to select the name of the child team](/assets/images/help/teams/type-child-team-name.png)
+  ![Text box to type and drop-down menu to select the name of the child team](/assets/images/2021/10/help/teams/type-child-team-name.png)
 {% data reusables.repositories.changed-repository-access-permissions %}
 9. Click **Confirm changes** to send a request to add the child team.
-  ![Modal box with information about the changes in repository access permissions](/assets/images/help/teams/confirm-new-parent-team.png)
+  ![Modal box with information about the changes in repository access permissions](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## Further reading
 

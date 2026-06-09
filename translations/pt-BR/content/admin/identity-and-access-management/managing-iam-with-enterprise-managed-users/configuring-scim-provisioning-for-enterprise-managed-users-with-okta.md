@@ -50,7 +50,7 @@ Após a criação do seu {% data variables.product.prodname_emu_enterprise %}, v
 1. Acesse o seu aplicativo de{% data variables.product.prodname_emu_idp_application %} no Okta.
 1. Clique na aba **Login**.
 1. Para fazer as alterações, clique em **Editar**.
-1. Em "Configurações Avançadas de Login", na caixa de texto "Nome da empresa", digite o nome da sua empresa. Por exemplo, se você acessar sua empresa em `https://github.com/enterprises/octoinc`, o nome da sua empresa seria "octoinc". ![Captura de tela do campo nome da empresa no Okta](/assets/images/help/enterprises/okta-emu-enterprise-name.png)
+1. Em "Configurações Avançadas de Login", na caixa de texto "Nome da empresa", digite o nome da sua empresa. Por exemplo, se você acessar sua empresa em `https://github.com/enterprises/octoinc`, o nome da sua empresa seria "octoinc". ![Captura de tela do campo nome da empresa no Okta](/assets/images/2021/10/help/enterprises/okta-emu-enterprise-name.png)
 1. Para salvar o nome da empresa, clique em **Salvar**.
 
 ## Configurando o provisionamento
@@ -64,12 +64,12 @@ Para configurar o provisionamento, o usuário configurado com o nome de usuário
 1. No menu de configurações, clique em **Integração**.
 1. Para fazer as alterações, clique em **Editar**.
 1. Selecione **Habilitar a integração da API**.
-1. No campo "API do Token" insira o token de acesso pessoal com o escopo de administração **admin:enterprise** pertencente ao usuário configurado. ![Captura de tela que mostra o campo do token da API no Okta](/assets/images/help/enterprises/okta-emu-token.png)
+1. No campo "API do Token" insira o token de acesso pessoal com o escopo de administração **admin:enterprise** pertencente ao usuário configurado. ![Captura de tela que mostra o campo do token da API no Okta](/assets/images/2021/10/help/enterprises/okta-emu-token.png)
 1. Clique em **Testar as credenciais da API**. Se o teste for bem sucedido, será exibida uma mensagem de verificação na parte superior da tela.
 1. Para salvar o token, clique em **Salvar**.
-1. No menu de configurações, clique em **Ao aplicativo**. ![Captura de tela que mostra o item de menu "Ao aplicativo" no Okta](/assets/images/help/enterprises/okta-emu-to-app-menu.png)
+1. No menu de configurações, clique em **Ao aplicativo**. ![Captura de tela que mostra o item de menu "Ao aplicativo" no Okta](/assets/images/2021/10/help/enterprises/okta-emu-to-app-menu.png)
 1. À direita do "Provisionamento para o aplicativo", para permitir alterações a serem feitas, clique em **Editar**.
-1. Selecione **Habilitar** para **Criar usuários**, **Atualizar atributos do usuário** e **Desativar Usuários**. ![Captura de tela que mostra as opções de provisionamento no Okta](/assets/images/help/enterprises/okta-emu-provisioning-to-app.png)
+1. Selecione **Habilitar** para **Criar usuários**, **Atualizar atributos do usuário** e **Desativar Usuários**. ![Captura de tela que mostra as opções de provisionamento no Okta](/assets/images/2021/10/help/enterprises/okta-emu-provisioning-to-app.png)
 1. Para concluir a configuração do provisionamento, clique em **Salvar**.
 
 ## Atribuindo usuários e grupos
@@ -82,4 +82,4 @@ Você também pode gerenciar automaticamente a associação da organização ao 
 
 Ao atribuir aos usuários, você poderá usar o atributo "Funções" no aplicativo de {% data variables.product.prodname_emu_idp_application %} para definir a função de um usuário na sua empresa em {% data variables.product.product_name %}. Para obter mais informações sobre funções, consulte "[Funções em uma empresa](/github/setting-up-and-managing-your-enterprise/managing-users-in-your-enterprise/roles-in-an-enterprise)".
 
-![Captura de tela que mostra as opções da função para o usuário provisionado do Okta](/assets/images/help/enterprises/okta-emu-user-role.png)
+![Captura de tela que mostra as opções da função para o usuário provisionado do Okta](/assets/images/2021/10/help/enterprises/okta-emu-user-role.png)

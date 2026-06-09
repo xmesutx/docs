@@ -60,7 +60,7 @@ versions:
 すべてのOrganization及びリポジトリで、自分が公開したパッケージを見つけて表示できます。
 
 {% data reusables.profile.access_profile %}
-2. プロフィールページの一番上のメインナビゲーションにある [**Packages（パッケージ）**] をクリックします。 ![プロジェクトタブ](/assets/images/help/package-registry/user-packages-tab.png)
+2. プロフィールページの一番上のメインナビゲーションにある [**Packages（パッケージ）**] をクリックします。 ![プロジェクトタブ](/assets/images/2021/10/help/package-registry/user-packages-tab.png)
 {% data reusables.package_registry.navigate-to-packages %}
 
 ## 参考リンク

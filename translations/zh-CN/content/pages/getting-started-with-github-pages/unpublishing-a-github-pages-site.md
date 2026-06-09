@@ -27,7 +27,7 @@ shortTitle: 取消发布 Pages 站点
 3. 如果 `gh-pages` 分支是您的发布源，{% ifversion fpt or ghec %}跳到步骤 6{% else %}您的站点现已取消发布，您可以跳过其余步骤{% endif %}。
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-5. 在“{% data variables.product.prodname_pages %}”下，使用 **Source（源）**下拉菜单并选择 **None（无）**。 ![用于选择发布源的下拉菜单](/assets/images/help/pages/publishing-source-drop-down.png)
+5. 在“{% data variables.product.prodname_pages %}”下，使用 **Source（源）**下拉菜单并选择 **None（无）**。 ![用于选择发布源的下拉菜单](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
 {% data reusables.pages.update_your_dns_settings %}
 
 ## 取消发布用户或组织站点

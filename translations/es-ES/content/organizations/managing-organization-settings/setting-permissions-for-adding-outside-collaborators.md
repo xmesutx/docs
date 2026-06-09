@@ -24,5 +24,5 @@ Los propietarios de la organización y los miembros con privilegios administrati
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. En "Repository invitations" (Invitaciones al repositorio), selecciona **Allow members to invite outside collaborators to repositories for this organization** (Permitir que los miembros inviten colaboradores externos a los repositorios para esta organización). ![Casilla para permitir que los miembros inviten colaboradores externos a los repositorios de la organización](/assets/images/help/organizations/repo-invitations-checkbox-updated.png)
+5. En "Repository invitations" (Invitaciones al repositorio), selecciona **Allow members to invite outside collaborators to repositories for this organization** (Permitir que los miembros inviten colaboradores externos a los repositorios para esta organización). ![Casilla para permitir que los miembros inviten colaboradores externos a los repositorios de la organización](/assets/images/2021/10/help/organizations/repo-invitations-checkbox-updated.png)
 6. Haz clic en **Save ** (guardar).

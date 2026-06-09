@@ -64,7 +64,7 @@ Somente o usuário que criou a pull request pode dar a você permissão para faz
   ```shell
   $ cd <em>FORK-OF-THE-REPOSITORY</em>
   ```
-7. Alterne branches para o branch de comparação da pull request onde as alterações originais foram feitas. Se você navegar até a pull request original, visualizará o branch de comparação no topo da pull request. ![compare-branch-example](/assets/images/help/pull_requests/compare-branch-example.png) Neste exemplo, o branch de comparação é `test-branch`:
+7. Alterne branches para o branch de comparação da pull request onde as alterações originais foram feitas. Se você navegar até a pull request original, visualizará o branch de comparação no topo da pull request. ![compare-branch-example](/assets/images/2021/10/help/pull_requests/compare-branch-example.png) Neste exemplo, o branch de comparação é `test-branch`:
   ```shell
   $ git checkout <em>test-branch</em>
   ```

@@ -27,11 +27,11 @@ Before you configure a publishing source, make sure the branch you want to use a
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
 3. Under "{% data variables.product.prodname_pages %}", use the **None** or **Branch** drop-down menu and select a publishing source.
-  ![Drop-down menu to select a publishing source](/assets/images/help/pages/publishing-source-drop-down.png)
+  ![Drop-down menu to select a publishing source](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
 4. Optionally, use the drop-down menu to select a folder for your publishing source.
-  ![Drop-down menu to select a folder for publishing source](/assets/images/help/pages/publishing-source-folder-drop-down.png)
+  ![Drop-down menu to select a folder for publishing source](/assets/images/2021/10/help/pages/publishing-source-folder-drop-down.png)
 5. Click **Save**.
-  ![Button to save changes to publishing source settings](/assets/images/help/pages/publishing-source-save.png)
+  ![Button to save changes to publishing source settings](/assets/images/2021/10/help/pages/publishing-source-save.png)
 
 ## Troubleshooting publishing problems with your {% data variables.product.prodname_pages %} site
 

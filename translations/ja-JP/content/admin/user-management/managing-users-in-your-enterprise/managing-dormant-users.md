@@ -26,15 +26,15 @@ topics:
 {% data reusables.enterprise-accounts.viewing-dormant-users %}
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. 左のサイドバーで**Dormant users（休眠ユーザ）**をクリックしてください。 ![Dormant users tab](/assets/images/enterprise/site-admin-settings/dormant-users-tab.png){% ifversion ghes %}
-4. このリスト中のすべての休眠ユーザをサスペンドするには、ページの上部で**Suspend all（全員をサスペンド）**をクリックしてください。 ![Suspend all button](/assets/images/enterprise/site-admin-settings/suspend-all.png){% endif %}
+3. 左のサイドバーで**Dormant users（休眠ユーザ）**をクリックしてください。 ![Dormant users tab](/assets/images/2021/10/enterprise/site-admin-settings/dormant-users-tab.png){% ifversion ghes %}
+4. このリスト中のすべての休眠ユーザをサスペンドするには、ページの上部で**Suspend all（全員をサスペンド）**をクリックしてください。 ![Suspend all button](/assets/images/2021/10/enterprise/site-admin-settings/suspend-all.png){% endif %}
 
 ## ユーザアカウントが休眠状態かの判断
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.search-user %}
 {% data reusables.enterprise_site_admin_settings.click-user %}
-5. **User info（ユーザ情報）**セクションで"Dormant（休眠）"という語の付いた赤い点は、そのユーザアカウントが休眠状態であることを示し、"Active（アクティブ）"という語の付いた緑の点はそのユーザアカウントがアクティブであることを示します。 ![休眠ユーザアカウント](/assets/images/enterprise/stafftools/dormant-user.png) ![アクティブなユーザアカウント](/assets/images/enterprise/stafftools/active-user.png)
+5. **User info（ユーザ情報）**セクションで"Dormant（休眠）"という語の付いた赤い点は、そのユーザアカウントが休眠状態であることを示し、"Active（アクティブ）"という語の付いた緑の点はそのユーザアカウントがアクティブであることを示します。 ![休眠ユーザアカウント](/assets/images/2021/10/enterprise/stafftools/dormant-user.png) ![アクティブなユーザアカウント](/assets/images/2021/10/enterprise/stafftools/active-user.png)
 
 ## 休眠の閾値の設定
 
@@ -44,7 +44,7 @@ topics:
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. [Dormancy threshold] の下で、ドロップダウンメニューを使って、希望する休眠閾値をクリックします。 ![休眠の閾値のドロップダウンメニュー](/assets/images/enterprise/site-admin-settings/dormancy-threshold-menu.png)
+4. [Dormancy threshold] の下で、ドロップダウンメニューを使って、希望する休眠閾値をクリックします。 ![休眠の閾値のドロップダウンメニュー](/assets/images/2021/10/enterprise/site-admin-settings/dormancy-threshold-menu.png)
 
 {% endif %}
 
@@ -56,6 +56,6 @@ topics:
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.enterprise-accounts-compliance-tab %}
-1. To download your Dormant Users (beta) report as a CSV file, under "Other", click {% octicon "download" aria-label="The Download icon" %} **Download**. ![Download button under "Other" on the Compliance page](/assets/images/help/business-accounts/dormant-users-download-button.png)
+1. To download your Dormant Users (beta) report as a CSV file, under "Other", click {% octicon "download" aria-label="The Download icon" %} **Download**. ![Download button under "Other" on the Compliance page](/assets/images/2021/11/help/business-accounts/dormant-users-download-button.png)
 
 {% endif %}

@@ -100,6 +100,6 @@ It's not possible to add CPU or memory resources to an existing OpenStack KVM in
 2. Shut down {% data variables.product.product_location %}.
 3. Select the virtual machine and click **Edit Settings**.
 4. Under "Hardware", adjust the CPU and/or memory resources allocated to the virtual machine as needed:
-![VMware setup resources](/assets/images/enterprise/vmware/vsphere-hardware-tab.png)
+![VMware setup resources](/assets/images/2021/10/enterprise/vmware/vsphere-hardware-tab.png)
 5. To start the virtual machine, click **OK**.
 {% data reusables.enterprise_installation.configuration-recognized %}

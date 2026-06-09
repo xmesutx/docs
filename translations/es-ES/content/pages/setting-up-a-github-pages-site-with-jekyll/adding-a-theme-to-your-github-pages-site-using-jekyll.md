@@ -28,8 +28,8 @@ Las personas con permisos de escritura para un repositorio pueden agregar un tem
 2. Navega hasta *_config.yml*.
 {% data reusables.repositories.edit-file %}
 4. Agrega una nueva línea al archivo para el nombre del tema.
-   - Para utilizar un tema compatible, teclea `theme: THEME-NAME`, reemplazando _THEME-NAME_ con el nombre del tema como se muestra en el archivo README del repositorio del tema. Para conocer la lista de temas compatibles, consulta "[Temas compatibles](https://pages.github.com/themes/)" en el sitio de {% data variables.product.prodname_pages %}. ![Tema compatible en el archivo de configuración](/assets/images/help/pages/add-theme-to-config-file.png)
-   - Para usar cualquier otro tema de Jekyll alojado en {% data variables.product.prodname_dotcom %}, escribe `remote_theme: THEME-NAME`, reemplazando THEME-NAME por el nombre del tema, tal como se muestra en el README del repositorio del tema. ![Tema no compatible en el archivo de configuración](/assets/images/help/pages/add-remote-theme-to-config-file.png)
+   - Para utilizar un tema compatible, teclea `theme: THEME-NAME`, reemplazando _THEME-NAME_ con el nombre del tema como se muestra en el archivo README del repositorio del tema. Para conocer la lista de temas compatibles, consulta "[Temas compatibles](https://pages.github.com/themes/)" en el sitio de {% data variables.product.prodname_pages %}. ![Tema compatible en el archivo de configuración](/assets/images/2021/10/help/pages/add-theme-to-config-file.png)
+   - Para usar cualquier otro tema de Jekyll alojado en {% data variables.product.prodname_dotcom %}, escribe `remote_theme: THEME-NAME`, reemplazando THEME-NAME por el nombre del tema, tal como se muestra en el README del repositorio del tema. ![Tema no compatible en el archivo de configuración](/assets/images/2021/10/help/pages/add-remote-theme-to-config-file.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}

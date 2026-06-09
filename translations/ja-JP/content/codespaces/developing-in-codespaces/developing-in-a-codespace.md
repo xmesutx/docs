@@ -25,7 +25,7 @@ shortTitle: Develop in a codespace
 
 {% data reusables.codespaces.links-to-get-started %}
 
-![codespace の概要(注釈付き)](/assets/images/help/codespaces/codespace-overview-annotated.png)
+![codespace の概要(注釈付き)](/assets/images/2021/10/help/codespaces/codespace-overview-annotated.png)
 
 1. サイドバー: デフォルト設定では、このエリアには Explorer でプロジェクトファイルが表示されます。
 2. アクティビティバー: ビューが表示され、それらを切り替える方法が提供されます。 ビューはドラッグアンドドロップで並べ替えることができます。
@@ -59,6 +59,6 @@ The {% data variables.product.prodname_vscode_command_palette %} allows you to a
 ## 既存の codespace に移動する
 
 1. {% data reusables.codespaces.you-can-see-all-your-codespaces %}
-2. 開発する codespace の名前をクリックします。 ![codespace の名前](/assets/images/help/codespaces/click-name-codespace.png)
+2. 開発する codespace の名前をクリックします。 ![codespace の名前](/assets/images/2021/10/help/codespaces/click-name-codespace.png)
 
 Alternatively, you can see any active codespaces for a repository by navigating to that repository and selecting **{% octicon "code" aria-label="The code icon" %} Code**. The drop-down menu will display all active codespaces for a repository.

@@ -28,18 +28,18 @@ Before you create a pull request, you'll need to push changes to a branch on {% 
 {% mac %}
 
 1. In the menu bar, use the **Repository** drop-down menu, then click **Create Issue on {% data variables.product.prodname_dotcom %}**.
-    ![Repository value in the Branch menu](/assets/images/help/desktop/create-issue-mac.png)
+    ![Repository value in the Branch menu](/assets/images/2021/10/help/desktop/create-issue-mac.png)
 2. On {% data variables.product.prodname_dotcom %}, click **Get started** to open an issue template or click **Open a blank issue**.
-    ![Create new issue options](/assets/images/help/desktop/create-new-issue.png)
+    ![Create new issue options](/assets/images/2021/10/help/desktop/create-new-issue.png)
 
 {% endmac %}
 
 {% windows %}
 
 1. In the menu bar, use the **Repository** drop-down menu, then click **Create issue on {% data variables.product.prodname_dotcom %}**.
-    ![The Repository value in the Branch menu](/assets/images/help/desktop/create-issue-windows.png)
+    ![The Repository value in the Branch menu](/assets/images/2021/10/help/desktop/create-issue-windows.png)
 2. On {% data variables.product.prodname_dotcom %}, click **Get started** to open an issue template or click **Open a blank issue**.
-    ![Create new issue options](/assets/images/help/desktop/create-new-issue.png)
+    ![Create new issue options](/assets/images/2021/10/help/desktop/create-new-issue.png)
 
 {% endwindows %}
 
@@ -55,9 +55,9 @@ Before you create a pull request, you'll need to push changes to a branch on {% 
 
 1. Switch to the branch that you want to create a pull request for. For more information, see "[Switching between branches](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)."
 2. Click **Create Pull Request**. {% data variables.product.prodname_desktop %} will open your default browser to take you to {% data variables.product.prodname_dotcom %}.
-  ![The Create Pull Request button](/assets/images/help/desktop/mac-create-pull-request.png)
+  ![The Create Pull Request button](/assets/images/2021/10/help/desktop/mac-create-pull-request.png)
 4. On {% data variables.product.prodname_dotcom %}, confirm that the branch in the **base:** drop-down menu is the branch where you want to merge your changes. Confirm that the branch in the **compare:** drop-down menu is the topic branch where you made your changes.
-  ![Drop-down menus for choosing the base and compare branches](/assets/images/help/desktop/base-and-compare-branches.png)
+  ![Drop-down menus for choosing the base and compare branches](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 
@@ -67,9 +67,9 @@ Before you create a pull request, you'll need to push changes to a branch on {% 
 
 1. Switch to the branch that you want to create a pull request for. For more information, see "[Switching between branches](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#switching-between-branches)."
 2. Click **Create Pull Request**. {% data variables.product.prodname_desktop %} will open your default browser to take you to {% data variables.product.prodname_dotcom %}.
-  ![The Create Pull Request button](/assets/images/help/desktop/windows-create-pull-request.png)
+  ![The Create Pull Request button](/assets/images/2021/10/help/desktop/windows-create-pull-request.png)
 3. On {% data variables.product.prodname_dotcom %}, confirm that the branch in the **base:** drop-down menu is the branch where you want to merge your changes. Confirm that the branch in the **compare:** drop-down menu is the topic branch where you made your changes.
-  ![Drop-down menus for choosing the base and compare branches](/assets/images/help/desktop/base-and-compare-branches.png)
+  ![Drop-down menus for choosing the base and compare branches](/assets/images/2021/10/help/desktop/base-and-compare-branches.png)
 {% data reusables.repositories.pr-title-description %}
 {% data reusables.repositories.create-pull-request %}
 

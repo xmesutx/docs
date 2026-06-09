@@ -19,7 +19,7 @@ Projects (beta) can be public or private. For public projects, everyone on the i
 
 Only the project visibility is affected; to view an item on the project, someone must have the required permissions for the repository that the item belongs to. If your project includes items from a private repository, people who are not collaborators in the repository will not be able to view items from that repository.
 
-![Project with hidden item](/assets/images/help/projects/hidden-items.png)
+![Project with hidden item](/assets/images/2021/11/help/projects/hidden-items.png)
 
 Only project admins can control project visibility.
 

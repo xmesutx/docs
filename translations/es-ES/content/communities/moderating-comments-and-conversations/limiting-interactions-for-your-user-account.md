@@ -29,4 +29,4 @@ También puedes bloquear usuarios. Para obtener más información, consulta la s
 {% data reusables.user-settings.access_settings %}
 1. En la sección de "Acceso" de la barra lateral, selecciona **{% octicon "report" aria-label="The report icon" %} Moderación** y luego haz clic en **Límites de interacción**.
 {% data reusables.community.set-interaction-limit %}
-  ![Opciones de límites de interacción temporarios](/assets/images/help/settings/user-account-temporary-interaction-limits-options.png)
+  ![Opciones de límites de interacción temporarios](/assets/images/2021/10/help/settings/user-account-temporary-interaction-limits-options.png)

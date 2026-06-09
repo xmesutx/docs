@@ -31,7 +31,7 @@ Un archivo README suele ser el primer elemento que verá un visitante cuando ent
 
 Si colocas tu archivo README en la raíz de tu repositorio, `docs`, o en el directorio oculto `.github`, {% data variables.product.product_name %} lo reconocerá y automáticamente expondrá tu archivo README a los visitantes del repositorio.
 
-![Página principal del repositorio github/scientist y su archivo README](/assets/images/help/repository/repo-with-readme.png)
+![Página principal del repositorio github/scientist y su archivo README](/assets/images/2021/10/help/repository/repo-with-readme.png)
 
 {% ifversion fpt or ghes or ghec %}
 
@@ -39,7 +39,7 @@ Si colocas tu archivo README en la raíz de tu repositorio, `docs`, o en el dire
 
 {% endif %}
 
-![El archivo de README en tu nombre de usuario/repositorio de nombre de usuario](/assets/images/help/repository/username-repo-with-readme.png)
+![El archivo de README en tu nombre de usuario/repositorio de nombre de usuario](/assets/images/2021/10/help/repository/username-repo-with-readme.png)
 
 {% ifversion fpt or ghae or ghes > 3.1 or ghec %}
 
@@ -47,7 +47,7 @@ Si colocas tu archivo README en la raíz de tu repositorio, `docs`, o en el dire
 
 Para la versión interpretada de cualquier archivo de lenguaje de marcado en un repositorio, incluyendo los archivos README, {% data variables.product.product_name %} generará un índice automáticamente con base en los encabezados de sección. Puedes ver el índice de un archivo README si haces clic en el icono de menú {% octicon "list-unordered" aria-label="The unordered list icon" %} en la parte superior izquierda de la página interpretada.
 
-![README con TOC generado automáticamente](/assets/images/help/repository/readme-automatic-toc.png)
+![README con TOC generado automáticamente](/assets/images/2021/10/help/repository/readme-automatic-toc.png)
 
 {% endif %}
 

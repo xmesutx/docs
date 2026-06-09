@@ -1,1 +1,1 @@
-5. Opcionalmente, para adicionar um modelo ao seu quadro de projeto, use o menu suspenso **Template:** e clique em um modelo. ![Menu suspenso que exibe as opções de modelo do quadro de projeto](/assets/images/help/projects/project_board_template_drop_down_menu.png)
+5. Opcionalmente, para adicionar um modelo ao seu quadro de projeto, use o menu suspenso **Template:** e clique em um modelo. ![Menu suspenso que exibe as opções de modelo do quadro de projeto](/assets/images/2021/10/help/projects/project_board_template_drop_down_menu.png)

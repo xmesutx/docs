@@ -17,8 +17,8 @@ Cada commit mostra o seguinte:
  - O hash SHA-1 (ID exclusivo) do commit.
 
 {% data reusables.desktop.history-tab %}
-2. Na guia **History** (Histórico), clique no commit que deseja revisar. ![Commit na guia History (Histórico)](/assets/images/help/desktop/branch-history-commit.png)
-3. Se houver vários arquivos no commit, clique em um deles para ver as mudanças feitas no arquivo e no commit em questão. ![Arquivo no commit](/assets/images/help/desktop/branch-history-file.png)
+2. Na guia **History** (Histórico), clique no commit que deseja revisar. ![Commit na guia History (Histórico)](/assets/images/2021/10/help/desktop/branch-history-commit.png)
+3. Se houver vários arquivos no commit, clique em um deles para ver as mudanças feitas no arquivo e no commit em questão. ![Arquivo no commit](/assets/images/2021/10/help/desktop/branch-history-file.png)
 
 ## Leia mais
 

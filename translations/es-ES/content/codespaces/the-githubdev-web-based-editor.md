@@ -57,7 +57,7 @@ Puedes iniciar tu flujo de trabajo en el {% data variables.product.prodname_serv
 
 Para seguir trabajando en un codespace, haz clic en **Seguir trabajando en…** y selecciona **Crear codespace nuevo** para crear un codespace en tu rama actual. Antes de que elijas esta opción, debes confirmar cualquier cambio.
 
-![Una captura de pantalla que muestra el botón "Seguir trabajando en" en la IU](/assets/images/help/codespaces/codespaces-continue-working.png)
+![Una captura de pantalla que muestra el botón "Seguir trabajando en" en la IU](/assets/images/2021/10/help/codespaces/codespaces-continue-working.png)
 
 ## Utilizar el control de código fuente
 

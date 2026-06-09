@@ -26,8 +26,8 @@ Si dejas de permitir la publicación de sitios de {% data variables.product.prod
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}{% ifversion fpt or ghec %}
-1. Debajo de "Creación de páginas", selecciona las visibilidades que quieras permitir y deselecciona aquellas que quieres dejar de permitir. ![Checkboxes to allow or disallow creation of {% data variables.product.prodname_pages %} sites](/assets/images/help/organizations/github-pages-creation-checkboxes.png){% else %}
-1. Debajo de "Creación de páginas", selecciona y deselecciona **Permitir a los miembros publicar sitios**. ![Unselected checkbox for "Allow members to publish sites" option](/assets/images/help/organizations/org-settings-pages-disable-publication-checkbox.png){% endif %}
+1. Debajo de "Creación de páginas", selecciona las visibilidades que quieras permitir y deselecciona aquellas que quieres dejar de permitir. ![Checkboxes to allow or disallow creation of {% data variables.product.prodname_pages %} sites](/assets/images/2021/10/help/organizations/github-pages-creation-checkboxes.png){% else %}
+1. Debajo de "Creación de páginas", selecciona y deselecciona **Permitir a los miembros publicar sitios**. ![Unselected checkbox for "Allow members to publish sites" option](/assets/images/2021/10/help/organizations/org-settings-pages-disable-publication-checkbox.png){% endif %}
 1. Haz clic en **Save ** (guardar).
 
 ## Leer más

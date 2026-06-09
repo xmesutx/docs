@@ -25,6 +25,6 @@ topics:
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-3. Selecciona el equipo o los equipos cuya visibilidad deseas cambiar. ![Lista de miembros con dos equipos seleccionados](/assets/images/help/teams/list-of-teams-selected.png)
-4. Arriba de la lista de equipos, usa el menú desplegable y haz clic en **Change visibilidad** (Cambiar visibilidad). ![Menú desplegable con opción para cambiar la visibilidad del equipo](/assets/images/help/teams/team-bulk-management-options.png)
-5. Elige si deseas hacer que el equipo o los equipos sean visibles o secretos, luego haz clic en **Change visibilidad** (Cambiar visibilidad). ![Botones de opción para hacer que un equipo sea visible o secreto y botón Change visibility (Cambiar visibilidad)](/assets/images/help/teams/select-and-confirm-new-visibility.png)
+3. Selecciona el equipo o los equipos cuya visibilidad deseas cambiar. ![Lista de miembros con dos equipos seleccionados](/assets/images/2021/10/help/teams/list-of-teams-selected.png)
+4. Arriba de la lista de equipos, usa el menú desplegable y haz clic en **Change visibilidad** (Cambiar visibilidad). ![Menú desplegable con opción para cambiar la visibilidad del equipo](/assets/images/2021/10/help/teams/team-bulk-management-options.png)
+5. Elige si deseas hacer que el equipo o los equipos sean visibles o secretos, luego haz clic en **Change visibilidad** (Cambiar visibilidad). ![Botones de opción para hacer que un equipo sea visible o secreto y botón Change visibility (Cambiar visibilidad)](/assets/images/2021/10/help/teams/select-and-confirm-new-visibility.png)

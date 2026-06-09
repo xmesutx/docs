@@ -19,15 +19,15 @@ shortTitle: Solucionar problemas de las confirmaciones
 
 En la cronología de la página de tu perfil, puedes hacer clic en el número de confirmaciones al lado de un repositorio específico para ver más detalles acerca de tus confirmaciones desde ese período de tiempo, incluida una diferencia de cambios específicos hechos en un repositorio.
 
-![Enlace de confirmación en la cronología del perfil](/assets/images/help/profile/commit-link-on-profile-timeline.png)
+![Enlace de confirmación en la cronología del perfil](/assets/images/2021/10/help/profile/commit-link-on-profile-timeline.png)
 
-![Detalles de confirmaciones](/assets/images/help/commits/commit-details.png)
+![Detalles de confirmaciones](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## Detalles de confirmaciones faltantes de las confirmaciones de tu cronología
 
 Si haces clic en un enlace de confirmación desde tu página de perfil y no ves todas las confirmaciones esperadas en la página de confirmaciones del repositorio, es posible que el historial de confirmaciones de Git se haya rescrito y que el autor de la confirmación y la fecha de la confirmación sean diferentes.
 
-![Página del repositorio con el mensaje que dice "no commits found for octocat" (no se encontraron confirmaciones para octocat)](/assets/images/help/repository/no-commits-found.png)
+![Página del repositorio con el mensaje que dice "no commits found for octocat" (no se encontraron confirmaciones para octocat)](/assets/images/2021/10/help/repository/no-commits-found.png)
 
 ## Cómo utiliza GitHub la fecha de autor y la fecha de confirmación de Git
 
@@ -62,7 +62,7 @@ Por ejemplo:
 
 Cuando abres la URL con la fecha de confirmación modificada, puedes ver los detalles de la confirmación.
 
-![Detalles de confirmaciones](/assets/images/help/commits/commit-details.png)
+![Detalles de confirmaciones](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## Confirmaciones esperadas faltantes en tu cronología
 

@@ -22,7 +22,7 @@ Puedes agregar información personal acerca de ti mismo en tu biobiografía, com
 
 {% data reusables.profile.profile-readme %}
 
-![Archivo de README del perfil que se muestra en éste](/assets/images/help/repository/profile-with-readme.png)
+![Archivo de README del perfil que se muestra en éste](/assets/images/2021/10/help/repository/profile-with-readme.png)
 
 {% endif %}
 

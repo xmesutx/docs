@@ -25,13 +25,13 @@ If you use Zendesk to track user-reported tickets, for example, you can referenc
 1. In the "Integrations" section of the sidebar, click **{% octicon "cross-reference" aria-label="The cross-reference icon" %} Autolink references**.
 {% else %}
 1. In the left sidebar, click **Autolink references**.
-![Autolink references tab in the left sidebar](/assets/images/help/repository/autolink-references-tab.png)
+![Autolink references tab in the left sidebar](/assets/images/2021/10/help/repository/autolink-references-tab.png)
 {% endif %}
 1. Click **Add autolink reference**.
-![Button to fill out autolink reference information](/assets/images/help/repository/add-autolink-reference-details.png)
+![Button to fill out autolink reference information](/assets/images/2021/10/help/repository/add-autolink-reference-details.png)
 5. Under "Reference prefix", type a short, meaningful prefix you want collaborators to use to generate autolinks for the external resource.
-![Field to type abbreviation for external system](/assets/images/help/repository/add-reference-prefix-field.png)
+![Field to type abbreviation for external system](/assets/images/2021/10/help/repository/add-reference-prefix-field.png)
 6. Under "Target URL", type the link to the external system you want to link to. Make sure to keep `<num>` as a variable for the reference number.
-![Field to type URL to external system](/assets/images/help/repository/add-target-url-field.png)
+![Field to type URL to external system](/assets/images/2021/10/help/repository/add-target-url-field.png)
 7. Click **Add autolink reference**.
-![Button to add autolink reference](/assets/images/help/repository/add-autolink-reference.png)
+![Button to add autolink reference](/assets/images/2021/10/help/repository/add-autolink-reference.png)

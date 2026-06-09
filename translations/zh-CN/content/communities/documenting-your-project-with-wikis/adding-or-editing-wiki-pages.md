@@ -23,19 +23,19 @@ shortTitle: 管理 wiki 网页
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-3. 在页面的右上角，单击 **New Page（新页面）**。 ![Wiki 新页面按钮](/assets/images/help/wiki/wiki_new_page_button.png)
-4. 或者，要以 Markdown 以外的格式，请使用 Edit（编辑）模式下拉菜单，并单击不同的格式。 ![Wiki 标记选择](/assets/images/help/wiki/wiki_dropdown_markup.gif)
-5. 使用文本编辑器添加页面内容。 ![Wiki WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. 输入提交消息，描述所添加的新文件。 ![Wiki 提交消息](/assets/images/help/wiki/wiki_commit_message.png)
+3. 在页面的右上角，单击 **New Page（新页面）**。 ![Wiki 新页面按钮](/assets/images/2021/10/help/wiki/wiki_new_page_button.png)
+4. 或者，要以 Markdown 以外的格式，请使用 Edit（编辑）模式下拉菜单，并单击不同的格式。 ![Wiki 标记选择](/assets/images/2021/10/help/wiki/wiki_dropdown_markup.gif)
+5. 使用文本编辑器添加页面内容。 ![Wiki WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. 输入提交消息，描述所添加的新文件。 ![Wiki 提交消息](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. 要提交更改到 wiki，请单击 **Save Page（保存页面）**。
 
 ## 编辑 wiki 页面
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-wiki %}
-4. 使用 wiki 侧栏，导航到您要更改的页面。 在页面的右上角，单击 **Edit（编辑）**。 ![Wiki 编辑页面按钮](/assets/images/help/wiki/wiki_edit_page_button.png)
-5. 使用文本编辑器添加页面内容。 ![Wiki WYSIWYG](/assets/images/help/wiki/wiki_wysiwyg.png)
-6. 输入提交消息，描述您的更改。 ![Wiki 提交消息](/assets/images/help/wiki/wiki_commit_message.png)
+4. 使用 wiki 侧栏，导航到您要更改的页面。 在页面的右上角，单击 **Edit（编辑）**。 ![Wiki 编辑页面按钮](/assets/images/2021/10/help/wiki/wiki_edit_page_button.png)
+5. 使用文本编辑器添加页面内容。 ![Wiki WYSIWYG](/assets/images/2021/10/help/wiki/wiki_wysiwyg.png)
+6. 输入提交消息，描述您的更改。 ![Wiki 提交消息](/assets/images/2021/10/help/wiki/wiki_commit_message.png)
 7. 要提交更改到 wiki，请单击 **Save Page（保存页面）**。
 
 ## 本地添加或编辑 wiki 页面

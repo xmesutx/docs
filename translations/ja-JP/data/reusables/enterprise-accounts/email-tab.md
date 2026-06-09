@@ -1,1 +1,1 @@
-1. {% octicon "gear" aria-label="The Settings gear" %}**Settings（設定）**の下で、**Email（メール）**をクリックしてください。 ![Enterpriseアカウントサイドバー内のメールタブ](/assets/images/enterprise/configuration/enterprise-account-email-tab.png)
+1. {% octicon "gear" aria-label="The Settings gear" %}**Settings（設定）**の下で、**Email（メール）**をクリックしてください。 ![Enterpriseアカウントサイドバー内のメールタブ](/assets/images/2021/10/enterprise/configuration/enterprise-account-email-tab.png)

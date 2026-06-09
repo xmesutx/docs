@@ -80,7 +80,7 @@ Posteriormente, pega este contenido en _views/index.erb_:
 
 También, ten en cuenta que la URL utiliza el parámetro de consulta `scope` para definir los [alcances][oauth scopes] que solicita la aplicación. Para nuestra aplicación, estamos solicitando el alcance `user:email` para leer las direcciones de correo electrónico privadas.
 
-Navega en tu buscador hacia `http://localhost:4567`. Después de dar clic en el enlace, se te llevará a {% data variables.product.product_name %} y se te mostrará un diálogo que se ve más o menos así: ![Diálogo de OAuth de GitHub](/assets/images/oauth_prompt.png)
+Navega en tu buscador hacia `http://localhost:4567`. Después de dar clic en el enlace, se te llevará a {% data variables.product.product_name %} y se te mostrará un diálogo que se ve más o menos así: ![Diálogo de OAuth de GitHub](/assets/images/2021/10/oauth_prompt.png)
 
 Si confías en ti mismo, da clic en **Autorizar App**. ¡Oh-oh! Sinatra te arroja un error `404`. ¡¿Qué pasa?!
 

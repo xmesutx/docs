@@ -30,8 +30,8 @@ Si un usuario ejecuta el paquete de instalación en Windows de {% data variables
 Puedes instalar {% data variables.product.prodname_desktop %} en {% data variables.desktop.mac-osx-versions %}.
 
 {% data reusables.desktop.download-desktop-page %}
-2. Da clic en **Descargar para macOS**. ![El botón de Descargar para MacOS](/assets/images/help/desktop/download-for-mac.png)
-3. En la carpeta `Download` (Descargas) de tu computadora, haz doble clic en el archivo comprimido **{% data variables.product.prodname_desktop %}**. ![El archivo de GitHubDesktop.zip](/assets/images/help/desktop/mac-zipfile.png)
+2. Da clic en **Descargar para macOS**. ![El botón de Descargar para MacOS](/assets/images/2021/10/help/desktop/download-for-mac.png)
+3. En la carpeta `Download` (Descargas) de tu computadora, haz doble clic en el archivo comprimido **{% data variables.product.prodname_desktop %}**. ![El archivo de GitHubDesktop.zip](/assets/images/2021/10/help/desktop/mac-zipfile.png)
 4. Una vez que se descomprima el archivo, haz doble clic en **{% data variables.product.prodname_desktop %}**.
 5. {% data variables.product.prodname_desktop %} se lanzará después de que se complete la instalación.
 
@@ -48,8 +48,8 @@ Puedes instalar {% data variables.product.prodname_desktop %} en {% data variabl
 {% endwarning %}
 
 {% data reusables.desktop.download-desktop-page %}
-2. Da clic en **Descargar para Windows**. ![El botón de Descargar para Windows](/assets/images/help/desktop/download-for-windows.png)
-3. En la carpeta `Download` de tu computadora, da doble clic en el archivo de configuración de **{% data variables.product.prodname_desktop %}**. ![El archivo de GitHubDesktopSetup](/assets/images/help/desktop/windows-githubdesktopsetup.png)
+2. Da clic en **Descargar para Windows**. ![El botón de Descargar para Windows](/assets/images/2021/10/help/desktop/download-for-windows.png)
+3. En la carpeta `Download` de tu computadora, da doble clic en el archivo de configuración de **{% data variables.product.prodname_desktop %}**. ![El archivo de GitHubDesktopSetup](/assets/images/2021/10/help/desktop/windows-githubdesktopsetup.png)
 4. {% data variables.product.prodname_desktop %} se lanzará después de que se complete la instalación.
 
 {% endwindows %}

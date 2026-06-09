@@ -69,7 +69,7 @@ Antes de definir um padrão personalizado, você deve garantir que {% data varia
 {% data reusables.advanced-security.secret-scanning-new-custom-pattern %}
 {% data reusables.advanced-security.secret-scanning-add-custom-pattern-details %}{% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5499 %}
 1. Quando estiver pronto para testar seu novo padrão personalizado, para identificar correspondências no repositório sem criar alertas, clique em **Salvar testar**.
-1. Quando o teste terminar, você verá uma amostra de resultados (até 1000) do repositório. Revise os resultados e identifique quaisquer resultados falso-positivos. ![Captura de tela que exibe os resultados do teste](/assets/images/help/repository/secret-scanning-publish-pattern.png)
+1. Quando o teste terminar, você verá uma amostra de resultados (até 1000) do repositório. Revise os resultados e identifique quaisquer resultados falso-positivos. ![Captura de tela que exibe os resultados do teste](/assets/images/2022/02/help/repository/secret-scanning-publish-pattern.png)
 1. Edite o novo padrão personalizado para corrigir quaisquer problemas com os resultados e, em seguida, clique em **Salvar e testar** para testar as suas alterações.
 {% indented_data_reference reusables.secret-scanning.beta-dry-runs spaces=3 %}
 {% endif %}
@@ -172,7 +172,7 @@ Ao salvar uma alteração em um padrão personalizado, isso irá fechar todos os
 1. Revise a confirmação e selecione um método para lidar com todos os alertas abertos relacionados ao padrão personalizado.
 1. Clique em **Sim, excluir este padrão**.
 
-   ![Confirmando a exclusão de um padrão {% data variables.product.prodname_secret_scanning %} personalizado ](/assets/images/help/repository/secret-scanning-confirm-deletion-custom-pattern.png)
+   ![Confirmando a exclusão de um padrão {% data variables.product.prodname_secret_scanning %} personalizado ](/assets/images/2021/10/help/repository/secret-scanning-confirm-deletion-custom-pattern.png)
 {%- elsif ghes = 3.2 %}
 1. À direita do padrão personalizado que você deseja remover, clique em **Remover**.
 1. Revise a confirmação e clique em **Remover padrão personalizado**.

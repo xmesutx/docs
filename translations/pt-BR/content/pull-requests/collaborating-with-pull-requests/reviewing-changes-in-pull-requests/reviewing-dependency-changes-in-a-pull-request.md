@@ -41,7 +41,7 @@ Revisão de dependência permite a você "desloque para a esquerda". Você pode 
 
 1. Se o pull request contiver muitos arquivos, use o menu suspenso **Filtro de arquivo** para recolher todos os arquivos que não registram dependências. Isso fará com que seja mais fácil focar a sua revisão nas alterações de dependência.
 
-   ![Menu de filtro de arquivos](/assets/images/help/pull_requests/file-filter-menu-json.png) A revisão sobre dependências fornece uma visão mais clara do que mudou nos grandes arquivos de bloqueio, em que o diff de origem não é representado por padrão.
+   ![Menu de filtro de arquivos](/assets/images/2021/10/help/pull_requests/file-filter-menu-json.png) A revisão sobre dependências fornece uma visão mais clara do que mudou nos grandes arquivos de bloqueio, em que o diff de origem não é representado por padrão.
 
   {% note %}
 
@@ -51,11 +51,11 @@ Revisão de dependência permite a você "desloque para a esquerda". Você pode 
 
 1. À direita do cabeçalho de um manifesto ou arquivo de bloqueio, exiba a revisão de dependências clicando no botão de diff avançado**{% octicon "file" aria-label="The rich diff icon" %}**.
 
-   ![Botão de diff avançado](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![Botão de diff avançado](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 2. Verifique as dependências listadas na revisão sobre dependências.
 
-   ![Alertas de vulnerabilidade em revisão de dependências](/assets/images/help/pull_requests/dependency-review-vulnerability.png)
+   ![Alertas de vulnerabilidade em revisão de dependências](/assets/images/2021/10/help/pull_requests/dependency-review-vulnerability.png)
 
    Quaisquer dependências adicionadas ou alteradas com vulnerabilidades são listadas primeiro, ordenadas por gravidade e, posteriormente, pelo nome da dependência. Isso significa que as dependências de severidade mais elevadas estão sempre na parte superior de uma revisão de dependência. Outras dependências estão listadas em ordem alfabética pelo nome das dependências.
 

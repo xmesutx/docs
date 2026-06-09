@@ -26,7 +26,7 @@ Seu codespace pode ser efêmero se você tiver de fazer algum teste ou você pod
 
 Uma vez selecionada a opção de criar um novo codespace e escolhido um tipo de máquina para o seu codespace, algumas etapas irão acontecer em segundo plano antes que o corespace esteja disponível para você.
 
-![Botão de abrir com codespaces](/assets/images/help/codespaces/new-codespace-button.png)
+![Botão de abrir com codespaces](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
 ### Etapa 1: A VM e o armazenamento são atribuídos ao seu codespace
 
@@ -83,7 +83,7 @@ O redirecionamento de porta dá acesso a portas TCP que estão em execução no 
 
 O encaminhamento de portas determina quais portas podem ser acessadas por você a partir da máquina remota. Mesmo que você não encaminhe uma porta, esse porta ainda poderá ser acessada para outros processos em execução dentro do próprio codespace.
 
-![Diagrama que mostra como funciona o encaminhamento de porta em um codespace](/assets/images/help/codespaces/port-forwarding.png)
+![Diagrama que mostra como funciona o encaminhamento de porta em um codespace](/assets/images/2021/10/help/codespaces/port-forwarding.png)
 
 Quando um aplicativo em execução dentro de {% data variables.product.prodname_codespaces %} produz uma porta para o console, {% data variables.product.prodname_codespaces %} detecta o padrão da URL do host local e encaminha a porta automaticamente. Você pode clicar na URL no terminal ou na mensagem de alerta para abrir a porta em um navegador. Por padrão, {% data variables.product.prodname_codespaces %} encaminha as portas que usam HTTP. Para obter mais informações sobre o encaminhamento de portas, consulte "[Encaminhando portas no seu codespace](/codespaces/developing-in-codespaces/forwarding-ports-in-your-codespace)".
 
@@ -95,7 +95,7 @@ A execução do seu aplicativo ao chegar pela primeira vez no seu codespace pode
 
 O Git está disponível por padrão no seu codespace. Portanto, você pode confiar no fluxo de trabalho do Git existente. Você pode trabalhar com o Git no seu codespace por meio do Terminal ou usando a interface de usuário do controle de origem do [do Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol). Para obter mais informações, consulte "[Usando controle de origem no seu codespace](/codespaces/developing-in-codespaces/using-source-control-in-your-codespace)"
 
-![Executando o status do git no terminal do codespaces](/assets/images/help/codespaces/git-status.png)
+![Executando o status do git no terminal do codespaces](/assets/images/2021/10/help/codespaces/git-status.png)
 
 Você pode criar um codespace a partir de qualquer branch, commit ou pull request no seu projeto, ou você pode mudar para branch novo branch ou branch existente de dentro do seu codespace ativo. Uma vez que {% data variables.product.prodname_codespaces %} foi projetado para ser efêmero, você pode usá-lo como um ambiente isolado para experimentar, verificar o pull request de um amigo de equipe ou corrigir os conflitos de merge. Você pode criar mais de um código de espaço por repositório ou até mesmo por branch. No entanto, cada conta de usuário tem um limite de 10 codespaces. Se você atingiu o limite e deseja criar um novo espaço de código, você deve primeiro excluir um código.
 

@@ -27,33 +27,33 @@ Os usuários na Índia podem entrar em contato com o Oficial Grievance do GitHub
 
 {% data reusables.profile.user_profile_page_navigation %}
 {% data reusables.profile.user_profile_page_block_or_report %}
-3. Clique em **Report abuse** (Denunciar abuso). ![Caixa de diálogo modal com opções para bloquear o usuário ou denunciar um abuso](/assets/images/help/profile/profile-report-abuse.png)
+3. Clique em **Report abuse** (Denunciar abuso). ![Caixa de diálogo modal com opções para bloquear o usuário ou denunciar um abuso](/assets/images/2021/10/help/profile/profile-report-abuse.png)
 4. Preencha o formulário de contato para informar ao {% data variables.contact.contact_support %} sobre o comportamento do usuário e clique em **Send request** (Enviar solicitação).
 
 ## Denunciar um problema ou uma pull request
 
 1. Navegue até o problema ou a pull request que deseja denunciar.
-2. No canto superior direito do problema ou do pull request, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} e em seguida clique em **Report content** (denunciar conteúdo). ![Botão para denunciar um comentário](/assets/images/help/repository/menu-report-issue-or-pr.png)
+2. No canto superior direito do problema ou do pull request, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} e em seguida clique em **Report content** (denunciar conteúdo). ![Botão para denunciar um comentário](/assets/images/2021/10/help/repository/menu-report-issue-or-pr.png)
 {% data reusables.community.report-content %}
 
 ## Denunciar um comentário
 
 1. Navegue até o comentário que deseja denunciar.
-2. No canto superior direito do comentário, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} e em seguida clique em **Report content** (denunciar conteúdo). ![Menu Kebab com opção para denunciar um comentário](/assets/images/help/repository/menu-report-comment.png)
+2. No canto superior direito do comentário, clique em {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %} e em seguida clique em **Report content** (denunciar conteúdo). ![Menu Kebab com opção para denunciar um comentário](/assets/images/2021/10/help/repository/menu-report-comment.png)
 {% data reusables.community.report-content %}
 
 ## Denunciar um app no {% data variables.product.prodname_marketplace %}
 
 {% data reusables.marketplace.visit-marketplace %}
 2. Navegue até o app que deseja denunciar.
-3. Na barra lateral esquerda, na seção "Developer links" (Links do desenvolvedor), clique em {% octicon "report" aria-label="The report symbol" %} **Report abuse** (Denunciar abuso). ![Botão para denunciar um app no {% data variables.product.prodname_marketplace %}](/assets/images/help/marketplace/marketplace-report-app.png)
+3. Na barra lateral esquerda, na seção "Developer links" (Links do desenvolvedor), clique em {% octicon "report" aria-label="The report symbol" %} **Report abuse** (Denunciar abuso). ![Botão para denunciar um app no {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/help/marketplace/marketplace-report-app.png)
 4. Preencha o formulário de contato para informar ao {% data variables.contact.contact_support %} sobre o comportamento do app e clique em **Send request** (Enviar solicitação).
 
 ## Relatar abuso de link de contato no seletor de modelos
 
 1. Navegue até o repositório que contém o link de contato que você deseja denunciar.
 2. Sob o nome do repositório, clique em {% octicon "issue-opened" aria-label="The issues icon" %} **Problemas**.
-3. No canto inferior direito do seletor de modelos, clique em **Denunciar abuso**. ![Link para denunciar um abuso](/assets/images/help/repository/template-chooser-report-abuse.png)
+3. No canto inferior direito do seletor de modelos, clique em **Denunciar abuso**. ![Link para denunciar um abuso](/assets/images/2021/10/help/repository/template-chooser-report-abuse.png)
 4. Preencha o formulário de contato para informar {% data variables.contact.contact_support %} sobre o comportamento do link de contato e clique em **Enviar solicitação**.
 
 ## Leia mais

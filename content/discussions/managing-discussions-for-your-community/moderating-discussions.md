@@ -23,7 +23,7 @@ It's appropriate to lock a conversation when the entire conversation is not cons
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 1. In the list of discussions, click the discussion you want to lock.
-  ![Lock discussion](/assets/images/help/discussions/unanswered-discussion.png)
+  ![Lock discussion](/assets/images/2021/10/help/discussions/unanswered-discussion.png)
 1. In the right margin of a discussion, click **Lock conversation**.
 1. Read the information about locking conversations and click **Lock conversation on this discussion**.
 1. When you're ready to unlock the conversation, click **Unlock conversation**, then click **Unlock conversation on this discussion**.

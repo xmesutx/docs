@@ -24,7 +24,7 @@ topics:
 
 Para adjuntar un archivo a una propuesta o una conversación de una solicitud de extracción, arrástralo y suéltalo en el cuadro de comentarios. Como alternativa, puedes dar clic en la barra al final del recuadro de comentarios para buscar, seleccionar y agregar un archivo desde tu ordenador.
 
-![Seleccionar adjuntos desde el ordenador](/assets/images/help/pull_requests/select-bar.png)
+![Seleccionar adjuntos desde el ordenador](/assets/images/2021/10/help/pull_requests/select-bar.png)
 
 {% tip %}
 
@@ -61,4 +61,4 @@ Archivos compatibles:
 {% endnote %}
 {% endif %}
 
-![GIF animados adjuntos](/assets/images/help/pull_requests/dragging_images.gif)
+![GIF animados adjuntos](/assets/images/2021/10/help/pull_requests/dragging_images.gif)

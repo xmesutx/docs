@@ -19,7 +19,7 @@ Los administradores de repositorio y mantenedores de proyecto pueden borrar un d
 
 {% data reusables.discussions.github-recognizes-members %} Estos miembros aparecen en una lista de los contribuyentes más útiles en los debates del proyecto. Conforme crezca tu proyecto, podrás otorgar permisos de acceso superiores a los miembros activos de tu comunidad. Para obtener más información, consulta la sección "[Otorgar permisos superiores a los colaboradores principales](/discussions/guides/granting-higher-permissions-to-top-contributors)"
 
-![Contribuyentes más útiles para los debates de un proyecto](/assets/images/help/discussions/most-helpful.png)
+![Contribuyentes más útiles para los debates de un proyecto](/assets/images/2021/10/help/discussions/most-helpful.png)
 
 Para obtener más información acerca de la participación en los debates, consulta la sección "[Participar en un debate](/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)".
 
@@ -37,8 +37,8 @@ Puedes buscar debates y filtrar la lista de éstos en un repositorio. Para obten
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
-1. En el campo de **Buscar todos los debates**, teclea una consulta de búsqueda. Opcionalmente, a la derecha del campo de búsqueda, da clic en un botón para filtrar aún más los resultados. ![Barra de búsqueda y botones para filtrar los debates](/assets/images/help/discussions/search-and-filter-controls.png)
-1. En la lista de debates, da clic en el debate que quieras ver. ![Resultados de búsqueda para debates](/assets/images/help/discussions/search-result.png)
+1. En el campo de **Buscar todos los debates**, teclea una consulta de búsqueda. Opcionalmente, a la derecha del campo de búsqueda, da clic en un botón para filtrar aún más los resultados. ![Barra de búsqueda y botones para filtrar los debates](/assets/images/2021/10/help/discussions/search-and-filter-controls.png)
+1. En la lista de debates, da clic en el debate que quieras ver. ![Resultados de búsqueda para debates](/assets/images/2021/10/help/discussions/search-result.png)
 
 ## Convertir una propuesta en un debate
 

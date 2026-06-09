@@ -16,7 +16,7 @@
 
 const REDIRECTS = {
   // Example: https://docs.github.com/en/enterprise-server@2.22/authentication/connecting-to-github-with-ssh
-  '/assets/images/octicons/search.svg': '/assets/images/octicons/search-24.svg',
+  '/assets/images/octicons/search.svg': '/assets/images/2021/11/octicons/search-24.svg',
 }
 export default function archivedAssetRedirects(req, res, next) {
   if (req.path in REDIRECTS) {

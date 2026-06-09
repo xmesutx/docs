@@ -40,7 +40,7 @@ type: how_to
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issues %}
 {% data reusables.repositories.new_issue %}
-1. 如果您的仓库使用议题模板，请在要打开的议题类型旁边单击 **Get started（开始）**。 ![Select the type of issue you want to create](/assets/images/help/issues/issue_template_get_started_button.png)或者，如果您想打开的议题类型未包括在可用选项中，单击 **Open a blank issue（打开空白议题）**。 ![打开空白议题的链接](/assets/images/help/issues/blank_issue_link.png)
+1. 如果您的仓库使用议题模板，请在要打开的议题类型旁边单击 **Get started（开始）**。 ![Select the type of issue you want to create](/assets/images/2021/10/help/issues/issue_template_get_started_button.png)或者，如果您想打开的议题类型未包括在可用选项中，单击 **Open a blank issue（打开空白议题）**。 ![打开空白议题的链接](/assets/images/2021/10/help/issues/blank_issue_link.png)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
@@ -66,11 +66,11 @@ gh issue create --title "My new issue" --body "Here are more details." --assigne
 您可以从议题或拉取请求中的评论打开新议题。 从评论打开议题时，该议题包含一个代码段，显示评论的原始发布位置。
 
 1. 导航到您要从中打开议题的评论。
-2. 在该评论中，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![拉取请求审查评论中的烤肉串式按钮](/assets/images/help/pull_requests/kebab-in-pull-request-review-comment.png)
-3. 单击 **Reference in new issue（新议题中的引用）**。 ![新议题中的引用菜单项](/assets/images/help/pull_requests/reference-in-new-issue.png)
-4. 使用“Repository（仓库）”下拉菜单，并选择要在其中打开议题的仓库。 ![新议题的仓库下拉列表](/assets/images/help/pull_requests/new-issue-repository.png)
-5. 键入议题的描述性标题和正文。 ![新议题的标题和正文](/assets/images/help/pull_requests/new-issue-title-and-body.png)
-6. 单击 **Create issue（创建过滤器）**。 ![创建新议题的按钮](/assets/images/help/pull_requests/create-issue.png)
+2. 在该评论中，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![拉取请求审查评论中的烤肉串式按钮](/assets/images/2021/10/help/pull_requests/kebab-in-pull-request-review-comment.png)
+3. 单击 **Reference in new issue（新议题中的引用）**。 ![新议题中的引用菜单项](/assets/images/2021/10/help/pull_requests/reference-in-new-issue.png)
+4. 使用“Repository（仓库）”下拉菜单，并选择要在其中打开议题的仓库。 ![新议题的仓库下拉列表](/assets/images/2021/10/help/pull_requests/new-issue-repository.png)
+5. 键入议题的描述性标题和正文。 ![新议题的标题和正文](/assets/images/2021/10/help/pull_requests/new-issue-title-and-body.png)
+6. 单击 **Create issue（创建过滤器）**。 ![创建新议题的按钮](/assets/images/2021/10/help/pull_requests/create-issue.png)
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
 
@@ -78,14 +78,14 @@ gh issue create --title "My new issue" --body "Here are more details." --assigne
 
 您可以从文件或拉取请求的特定代码行打开新议题。 从代码打开议题时，议题包含小片段，其中显示所选代码的行或范围。 只能打开存储代码的仓库中的议题。
 
-![在从代码打开的议题中渲染的代码片段](/assets/images/help/repository/issue-opened-from-code.png)
+![在从代码打开的议题中渲染的代码片段](/assets/images/2021/10/help/repository/issue-opened-from-code.png)
 
 {% data reusables.repositories.navigate-to-repo %}
 1. 找到要在议题中引用的代码：
     - 要打开文件中代码相关的议题，请找到该文件。
     - 要打开拉取请求中代码相关的议题，请找到该拉取请求并单击 {% octicon "diff" aria-label="The file diff icon" %} **Files changed（文件已更改）**。 然后浏览到含有要包含在评论中的代码的文件，并单击 **View（查看）**。
 {% data reusables.repositories.choose-line-or-range %}
-4. 在代码范围左侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}。 在下拉菜单中，单击 **Reference in new issue（新议题中的引用）**。 ![带有从所选行打开新议题的选项的烤肉串式菜单](/assets/images/help/repository/open-new-issue-specific-line.png)
+4. 在代码范围左侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}。 在下拉菜单中，单击 **Reference in new issue（新议题中的引用）**。 ![带有从所选行打开新议题的选项的烤肉串式菜单](/assets/images/2021/10/help/repository/open-new-issue-specific-line.png)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}
@@ -100,7 +100,7 @@ gh issue create --title "My new issue" --body "Here are more details." --assigne
 
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 在右侧边栏中，单击 {% octicon "issue-opened" aria-label="The issues icon" %} **Create issue from discussion（从讨论创建议题）**。 ![用于从讨论创建议题的按钮](/assets/images/help/discussions/create-issue-from-discussion.jpg)
+1. 在右侧边栏中，单击 {% octicon "issue-opened" aria-label="The issues icon" %} **Create issue from discussion（从讨论创建议题）**。 ![用于从讨论创建议题的按钮](/assets/images/2021/10/help/discussions/create-issue-from-discussion.jpg)
 {% data reusables.repositories.type-issue-title-and-description %}
 {% data reusables.repositories.assign-an-issue-as-project-maintainer %}
 {% data reusables.repositories.submit-new-issue %}

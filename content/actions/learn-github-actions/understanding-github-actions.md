@@ -46,7 +46,7 @@ For more information about introducing {% data variables.product.prodname_action
 
 You can configure a {% data variables.product.prodname_actions %} _workflow_ to be triggered when an _event_ occurs in your repository, such as a pull request being opened or an issue being created.  Your workflow contains one or more _jobs_ which can run in sequential order or in parallel.  Each job will run inside its own virtual machine _runner_, or inside a container, and has one or more _steps_ that either run a script that you define or run an _action_, which is a reusable extension that can simplify your workflow.
 
-![Workflow overview](/assets/images/help/images/overview-actions-simple.png)
+![Workflow overview](/assets/images/2021/10/help/images/overview-actions-simple.png)
 
 ### Workflows
 
@@ -235,7 +235,7 @@ The <code>uses</code> keyword specifies that this step will run <code>v2</code> 
 
 In this diagram, you can see the workflow file you just created and how the {% data variables.product.prodname_actions %} components are organized in a hierarchy. Each step executes a single action or shell script. Steps 1 and 2 run actions, while steps 3 and 4 run shell scripts. To find more prebuilt actions for your workflows, see "[Finding and customizing actions](/actions/learn-github-actions/finding-and-customizing-actions)."
 
-![Workflow overview](/assets/images/help/images/overview-actions-event.png)
+![Workflow overview](/assets/images/2021/10/help/images/overview-actions-event.png)
 
 ## Viewing the workflow's activity
 
@@ -243,15 +243,15 @@ Once your workflow has started running, you can see a visualization graph of the
 
 {% data reusables.repositories.navigate-to-repo %}
 1. Under your repository name, click **Actions**.
-    ![Navigate to repository](/assets/images/help/images/learn-github-actions-repository.png)
+    ![Navigate to repository](/assets/images/2021/10/help/images/learn-github-actions-repository.png)
 1. In the left sidebar, click the workflow you want to see.
-    ![Screenshot of workflow results](/assets/images/help/images/learn-github-actions-workflow.png)
+    ![Screenshot of workflow results](/assets/images/2021/10/help/images/learn-github-actions-workflow.png)
 1. Under "Workflow runs", click the name of the run you want to see.
-    ![Screenshot of workflow runs](/assets/images/help/images/learn-github-actions-run.png)
+    ![Screenshot of workflow runs](/assets/images/2021/10/help/images/learn-github-actions-run.png)
 1. Under **Jobs** or in the visualization graph, click the job you want to see.
-   ![Select job](/assets/images/help/images/overview-actions-result-navigate.png)
+   ![Select job](/assets/images/2021/10/help/images/overview-actions-result-navigate.png)
 1. View the results of each step.
-    ![Screenshot of workflow run details](/assets/images/help/images/overview-actions-result-updated-2.png)
+    ![Screenshot of workflow run details](/assets/images/2021/10/help/images/overview-actions-result-updated-2.png)
 
 ## Next steps
 

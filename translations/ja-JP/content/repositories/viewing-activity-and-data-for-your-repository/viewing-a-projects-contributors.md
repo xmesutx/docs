@@ -30,8 +30,8 @@ shortTitle: View project contributors
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 左サイドバーで [**Contributors**] をクリックします。 ![コントリビュータータブ](/assets/images/help/graphs/contributors_tab.png)
-4. オプションで、特定の期間におけるコントリビューターを表示するには、クリックしてから、その期間が選択されるまでドラッグしてください。 The contributors graph sums weekly commit numbers onto each Sunday, so your time period must include a Sunday. ![コントリビュータグラフで選択した時間範囲](/assets/images/help/graphs/repo_contributors_click_drag_graph.png)
+3. 左サイドバーで [**Contributors**] をクリックします。 ![コントリビュータータブ](/assets/images/2021/10/help/graphs/contributors_tab.png)
+4. オプションで、特定の期間におけるコントリビューターを表示するには、クリックしてから、その期間が選択されるまでドラッグしてください。 The contributors graph sums weekly commit numbers onto each Sunday, so your time period must include a Sunday. ![コントリビュータグラフで選択した時間範囲](/assets/images/2021/10/help/graphs/repo_contributors_click_drag_graph.png)
 
 ## コントリビューターのトラブルシューティング
 

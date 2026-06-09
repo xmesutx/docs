@@ -29,7 +29,7 @@ Para obtener información sobre cómo utilizar las etiquetas para rutear jobs a 
 {% data reusables.actions.self-hosted-runner-list %}
 {% data reusables.actions.self-hosted-runner-list-group %}
 {% data reusables.actions.self-hosted-runner-labels-view-assigned-labels %}
-1. En el campo "Filtrar etiquetas", teclea el nombre de tu nueva etiqueta y da clic en **Crear nueva etiqueta**. ![Etiqueta de agregar ejecutor](/assets/images/help/settings/actions-add-runner-label.png)
+1. En el campo "Filtrar etiquetas", teclea el nombre de tu nueva etiqueta y da clic en **Crear nueva etiqueta**. ![Etiqueta de agregar ejecutor](/assets/images/2021/10/help/settings/actions-add-runner-label.png)
 
 La etiqueta personalizada se creará y asignará al ejecutor auto-hospedado. Las etiquetas personalizadas pueden eliminarse de los ejecutores auto-hospedados, pero actualmente no pueden eliminarse manualmente. {% data reusables.actions.actions-unused-labels %}
 {% endif %}

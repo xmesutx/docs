@@ -41,15 +41,15 @@ Para remover um integrante de uma equipe sincronizada com um grupo LDAP, entre e
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-4. Selecione um ou mais integrantes que deseja remover. ![Caixa de seleção ao lado de integrante de organização](/assets/images/help/teams/team-member-check-box.png)
-5. Use o menu suspenso acima da lista de integrantes da equipe e clique em **Remove from team** (Remover da equipe). ![Menu suspenso com opção change role (alterar função)](/assets/images/help/teams/bulk-edit-drop-down.png)
+4. Selecione um ou mais integrantes que deseja remover. ![Caixa de seleção ao lado de integrante de organização](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. Use o menu suspenso acima da lista de integrantes da equipe e clique em **Remove from team** (Remover da equipe). ![Menu suspenso com opção change role (alterar função)](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)
 
 ## Remover um usuário da organização
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Clique na caixa de seleção ao lado do nome dos usuários que você pretende remover.![Caixa de seleção Remove user (Remover usuário)](/assets/images/help/organizations/Organization-remove-user.png)
-5. Na parte superior da página, abaixo do nome da organização, clique em **Remove from organization** (Remover da organização). ![Botão Remove from organization (Remover da organização)](/assets/images/help/organizations/Organization-remove-from-organization-button.png)
+4. Clique na caixa de seleção ao lado do nome dos usuários que você pretende remover.![Caixa de seleção Remove user (Remover usuário)](/assets/images/2021/10/help/organizations/Organization-remove-user.png)
+5. Na parte superior da página, abaixo do nome da organização, clique em **Remove from organization** (Remover da organização). ![Botão Remove from organization (Remover da organização)](/assets/images/2021/10/help/organizations/Organization-remove-from-organization-button.png)
 
 {% data reusables.organizations.data_saved_for_reinstating_a_former_org_member %}

@@ -35,8 +35,8 @@ shortTitle: Add collaborators
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. [Security Advisories] のリストから、コラボレータとして追加するセキュリティアドバイザリをクリックします。
-5. ページの右側にある、[Collaborators] の下で、セキュリティアドバイザリとして追加するユーザまたは Team の名前を入力します。 ![ユーザまたは Team 名を入力するフィールド](/assets/images/help/security/add-collaborator-field.png)
-6. [**Add**] をクリックします。 ![[Add] ボタン](/assets/images/help/security/security-advisory-add-collaborator-button.png)
+5. ページの右側にある、[Collaborators] の下で、セキュリティアドバイザリとして追加するユーザまたは Team の名前を入力します。 ![ユーザまたは Team 名を入力するフィールド](/assets/images/2021/10/help/security/add-collaborator-field.png)
+6. [**Add**] をクリックします。 ![[Add] ボタン](/assets/images/2021/10/help/security/security-advisory-add-collaborator-button.png)
 
 ## 参考リンク
 

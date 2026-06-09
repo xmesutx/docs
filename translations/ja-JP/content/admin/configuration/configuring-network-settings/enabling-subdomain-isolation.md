@@ -61,5 +61,5 @@ Subdomain Isolationを有効化する前に、新しいドメインに合わせ�
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.hostname-menu-item %}
-4. **Subdomain isolation (recommended)（Subdomain Isolation（推奨））**を選択してください。 ![Subdomain Isolation を有効化するチェックボックス](/assets/images/enterprise/management-console/subdomain-isolation.png)
+4. **Subdomain isolation (recommended)（Subdomain Isolation（推奨））**を選択してください。 ![Subdomain Isolation を有効化するチェックボックス](/assets/images/2021/10/enterprise/management-console/subdomain-isolation.png)
 {% data reusables.enterprise_management_console.save-settings %}

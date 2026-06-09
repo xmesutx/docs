@@ -25,7 +25,7 @@ topics:
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
 4. Click **New OAuth App**.
-![Button to create a new OAuth app](/assets/images/oauth-apps/oauth_apps_new_app.png)
+![Button to create a new OAuth app](/assets/images/2021/10/oauth-apps/oauth_apps_new_app.png)
 
   {% note %}
 
@@ -33,7 +33,7 @@ topics:
 
   {% endnote %}
 6. In "Application name", type the name of your app.
-![Field for the name of your app](/assets/images/oauth-apps/oauth_apps_application_name.png)
+![Field for the name of your app](/assets/images/2021/10/oauth-apps/oauth_apps_application_name.png)
 
   {% warning %}
 
@@ -42,11 +42,11 @@ topics:
   {% endwarning %}
 
 7. In "Homepage URL", type the full URL to your app's website.
-![Field for the homepage URL of your app](/assets/images/oauth-apps/oauth_apps_homepage_url.png)
+![Field for the homepage URL of your app](/assets/images/2021/10/oauth-apps/oauth_apps_homepage_url.png)
 8. Optionally, in "Application description", type a description of your app that users will see.
-![Field for a description of your app](/assets/images/oauth-apps/oauth_apps_application_description.png)
+![Field for a description of your app](/assets/images/2021/10/oauth-apps/oauth_apps_application_description.png)
 9. In "Authorization callback URL", type the callback URL of your app.
-![Field for the authorization callback URL of your app](/assets/images/oauth-apps/oauth_apps_authorization_callback_url.png)
+![Field for the authorization callback URL of your app](/assets/images/2021/10/oauth-apps/oauth_apps_authorization_callback_url.png)
 {% ifversion fpt or ghes or ghec %}
    {% note %}
 
@@ -55,4 +55,4 @@ topics:
    {% endnote %}
 {% endif %}
 10. Click **Register application**.
-![Button to register an application](/assets/images/oauth-apps/oauth_apps_register_application.png)
+![Button to register an application](/assets/images/2021/10/oauth-apps/oauth_apps_register_application.png)

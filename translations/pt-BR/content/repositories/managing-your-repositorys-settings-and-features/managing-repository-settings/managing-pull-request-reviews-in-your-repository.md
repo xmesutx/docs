@@ -22,6 +22,6 @@ Você também pode habilitar limites de revisão de código para uma organizaç�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-1. Em **Acessar**, clique em **Opções de moderação**. ![Configurações de repositório com opções de moderação](/assets/images/help/repository/access-settings-repositories.png)
-1. Em **Opções de moderação**, clique em **Limites do código de revisão**. ![A revisão de código limita os repositórios](/assets/images/help/repository/code-review-limits-repositories.png)
-1. Selecione ou desmarque **Limitar para os usuários que receberam explicitamente acesso de leitura ou superior**. ![Revisão de limite no repositório](/assets/images/help/repository/limit-reviews-in-repository.png)
+1. Em **Acessar**, clique em **Opções de moderação**. ![Configurações de repositório com opções de moderação](/assets/images/2022/02/help/repository/access-settings-repositories.png)
+1. Em **Opções de moderação**, clique em **Limites do código de revisão**. ![A revisão de código limita os repositórios](/assets/images/2022/02/help/repository/code-review-limits-repositories.png)
+1. Selecione ou desmarque **Limitar para os usuários que receberam explicitamente acesso de leitura ou superior**. ![Revisão de limite no repositório](/assets/images/2022/02/help/repository/limit-reviews-in-repository.png)

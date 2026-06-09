@@ -43,7 +43,7 @@ Você pode dar acesso de colaboradores externos a um repositório nas configura�
 {% else %}
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-5. Na barra lateral esquerda, clique em **Collaborators & teams** (Colaboradores e equipes). ![Barra lateral de configurações do repositório com colaboradores & equipes destacadas](/assets/images/help/repository/org-repo-settings-collaborators-and-teams.png)
-6. Em "Colaboradores", digite o nome da pessoa à qual deseja conceder acesso ao repositório e clique em **Adicionar colaborador**. ![A seção Collaborators (Colaboradores) com o nome de usuário Octocat inserido no campo de pesquisa](/assets/images/help/repository/org-repo-collaborators-find-name.png)
-7. Ao lado do nome do novo colaborador, use o menu suspenso e selecione o nível de acesso apropriado. ![O seletor de permissões do repositório](/assets/images/help/repository/org-repo-collaborators-choose-permissions.png)
+5. Na barra lateral esquerda, clique em **Collaborators & teams** (Colaboradores e equipes). ![Barra lateral de configurações do repositório com colaboradores & equipes destacadas](/assets/images/2021/10/help/repository/org-repo-settings-collaborators-and-teams.png)
+6. Em "Colaboradores", digite o nome da pessoa à qual deseja conceder acesso ao repositório e clique em **Adicionar colaborador**. ![A seção Collaborators (Colaboradores) com o nome de usuário Octocat inserido no campo de pesquisa](/assets/images/2021/10/help/repository/org-repo-collaborators-find-name.png)
+7. Ao lado do nome do novo colaborador, use o menu suspenso e selecione o nível de acesso apropriado. ![O seletor de permissões do repositório](/assets/images/2021/10/help/repository/org-repo-collaborators-choose-permissions.png)
 {% endif %}

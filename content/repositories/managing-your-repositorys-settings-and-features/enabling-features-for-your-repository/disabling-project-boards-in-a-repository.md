@@ -20,6 +20,6 @@ When you disable project boards, you will no longer see project board informatio
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 3. Under "Features," unselect the **Projects** checkbox.
-  ![Remove Projects checkbox](/assets/images/help/projects/disable-projects-checkbox.png)
+  ![Remove Projects checkbox](/assets/images/2021/10/help/projects/disable-projects-checkbox.png)
 
 After project boards are disabled, existing project boards are inaccessible at their previous URLs. {% data reusables.organizations.disable_project_board_results %}

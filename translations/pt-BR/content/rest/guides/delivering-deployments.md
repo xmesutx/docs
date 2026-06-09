@@ -50,7 +50,7 @@ Inicie este servidor. Por padrão, o Sinatra começa na porta `4567`. Portanto, 
 
 Para que esse servidor funcione, precisamos configurar um repositório com um webhook. O webhook deve ser configurado para ser acionado sempre que um pull request for criado ou mesclado. Vá em frente e crie um repositório com o qual você esteja confortável para fazer testes. Podemos sugerir [@octocat's Spoon/Knife repository](https://github.com/octocat/Spoon-Knife)? Em seguida, você criará um novo webhook no seu repositório, alimentando-o com a URL que o ngrok forneceu a você e escolhendo `application/x-www-form-urlencoded` como o tipo de conteúdo:
 
-![Uma nova URL do ngrok](/assets/images/webhook_sample_url.png)
+![Uma nova URL do ngrok](/assets/images/2021/10/webhook_sample_url.png)
 
 Clique em **Update webhook** (Atualizar webhook). Você deve ver uma resposta de texto de `Well, it worked!`. Ótimo! Clique em **Permita-me selecionar eventos individuais** e selecione o seguinte:
 

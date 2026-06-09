@@ -37,7 +37,7 @@ shortTitle: Disable SSH for Git
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-1. [Git SSH access] で、ドロップダウンメニューを使用して [**Disabled**] を選択します。 ![無効化オプションが選択されたGit SSHアクセスドロップダウンメニュー](/assets/images/enterprise/site-admin-settings/git-ssh-access-repository-setting.png)
+1. [Git SSH access] で、ドロップダウンメニューを使用して [**Disabled**] を選択します。 ![無効化オプションが選択されたGit SSHアクセスドロップダウンメニュー](/assets/images/2021/10/enterprise/site-admin-settings/git-ssh-access-repository-setting.png)
 
 ## ユーザもしくは組織が所有するすべてのリポジトリへのGit SSHアクセスの無効化
 
@@ -47,7 +47,7 @@ shortTitle: Disable SSH for Git
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-7. [Git SSH access] で、ドロップダウンメニューを使用して [**Disabled**] を選択します。 続いて、**Enforce on all repositories（すべてのリポジトリで強制）**を選択してください。 ![無効化オプションが選択されたGit SSHアクセスドロップダウンメニュー](/assets/images/enterprise/site-admin-settings/git-ssh-access-organization-setting.png)
+7. [Git SSH access] で、ドロップダウンメニューを使用して [**Disabled**] を選択します。 続いて、**Enforce on all repositories（すべてのリポジトリで強制）**を選択してください。 ![無効化オプションが選択されたGit SSHアクセスドロップダウンメニュー](/assets/images/2021/10/enterprise/site-admin-settings/git-ssh-access-organization-setting.png)
 
 ## Enterprise 内のすべてのリポジトリへの Git SSH アクセスを無効化する
 
@@ -58,4 +58,4 @@ shortTitle: Disable SSH for Git
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-7. [Git SSH access] で、ドロップダウンメニューを使用して [**Disabled**] を選択します。 続いて、**Enforce on all repositories（すべてのリポジトリで強制）**を選択してください。 ![無効化オプションが選択されたGit SSHアクセスドロップダウンメニュー](/assets/images/enterprise/site-admin-settings/git-ssh-access-appliance-setting.png)
+7. [Git SSH access] で、ドロップダウンメニューを使用して [**Disabled**] を選択します。 続いて、**Enforce on all repositories（すべてのリポジトリで強制）**を選択してください。 ![無効化オプションが選択されたGit SSHアクセスドロップダウンメニュー](/assets/images/2021/10/enterprise/site-admin-settings/git-ssh-access-appliance-setting.png)

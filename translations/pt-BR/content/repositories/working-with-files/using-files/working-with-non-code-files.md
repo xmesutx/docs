@@ -49,7 +49,7 @@ O {% data variables.product.product_name %} pode exibir diversos formatos comuns
 
 Você pode navegar diretamente e ver imagens no seu repositório em {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %}:
 
-![imagem inline](/assets/images/help/images/view.png)
+![imagem inline](/assets/images/2021/10/help/images/view.png)
 
 No momento, os arquivos SVGs não são compatíveis com animação ou scripts inline.
 
@@ -61,19 +61,19 @@ Você pode comparar visualmente as imagens em três modos diferentes: [2-up](#2-
 
 **2-up** é o modo padrão. Ele fornece uma visão rápida das duas imagens. Além disso, se a imagem tiver mudado de tamanho entre as versões, a alteração real da dimensão será exibida. Isso facilita identificar quando as imagens foram redimensionadas, como quando ativos são atualizados em resoluções mais altas.
 
-![2-up](/assets/images/help/repository/images-2up-view.png)
+![2-up](/assets/images/2021/10/help/repository/images-2up-view.png)
 
 #### Deslizar
 
 O modo **deslizar** permite ver partes da imagem lado a lado. Não sabe se houve mudança de cor nas versões? Posicione o controle deslizante sobre a área em questão e compare os pixels.
 
-![Deslizar](/assets/images/help/repository/images-swipe-view.png)
+![Deslizar](/assets/images/2021/10/help/repository/images-swipe-view.png)
 
 #### Exibição em camadas
 
 A **exibição em camadas** é muito útil para identificar movimentações sutis dos elementos. Um ícone foi movimentado dois pixels para a esquerda? Arraste o controle deslizante de opacidade um pouco e observe se as coisas se movem.
 
-![Exibição em camadas](/assets/images/help/repository/images-onion-view.gif)
+![Exibição em camadas](/assets/images/2021/10/help/repository/images-onion-view.gif)
 
 ## Visualizador de arquivos 3D
 
@@ -92,7 +92,7 @@ Em um commit ou conjunto de alterações que inclui um arquivo STL, você poder�
 
 Por padrão, você obterá uma exibição em que tudo que permanecer inalterado estará em wireframe. As adições recebem a cor verde e as partes removidas ficam em vermelho.
 
-![wireframe](/assets/images/help/repository/stl_wireframe.png)
+![wireframe](/assets/images/2021/10/help/repository/stl_wireframe.png)
 
 Também é possível selecionar a opção **Revision Slider (Controle deslizante de revisão)**, que permite usar um controle deslizante na parte superior do arquivo para fazer a transição entre as revisões atuais e anteriores.
 
@@ -100,7 +100,7 @@ Também é possível selecionar a opção **Revision Slider (Controle deslizante
 
 Caso você veja este ícone no canto do visualizador, isso significa que a tecnologia WebGL não está disponível no seu navegador:
 
-![Erro exibido para WebGL](/assets/images/help/repository/render_webgl_error.png)
+![Erro exibido para WebGL](/assets/images/2021/10/help/repository/render_webgl_error.png)
 
 A WebGL é necessária para o aproveitamento completo do hardware do computador. Sugerimos testar os navegadores [Chrome](https://www.google.com/intl/en/chrome/browser/) ou [Firefox](https://www.mozilla.org/en-US/firefox/new/), que já vêm com a WebGL habilitada.
 
@@ -134,7 +134,7 @@ Por padrão, o renderizador incorporado tem 420 pixels de largura por 620 pixels
 
 O GitHub oferece suporte à renderização de dados tabulares na forma de arquivos *.csv* (separados por vírgula) e .*tsv* (separados por tubulação).
 
-![Arquivo CSV de amostra renderizado](/assets/images/help/repository/rendered_csv.png)
+![Arquivo CSV de amostra renderizado](/assets/images/2021/10/help/repository/rendered_csv.png)
 
 Quando visualizado, todos os arquivos _.csv_ ou _.tsv_ inseridos em um repositório em {% ifversion ghae %}{% data variables.product.product_name %}{% else %}{% data variables.product.product_location %}{% endif %} serão interpretados automaticamente como uma tabela interativa completa com cabeçalhos e numeração de linha. Por padrão, vamos sempre presumir que a primeira linha é a linha de cabeçalho.
 
@@ -144,13 +144,13 @@ Você pode criar um link para uma linha específica clicando no número da linha
 
 Para encontrar um valor específico no conjunto de dados, comece a inserir o valor na barra de pesquisa logo acima do arquivo. As linhas serão filtradas automaticamente:
 
-![Pesquisa de valores](/assets/images/help/repository/searching_csvs.gif)
+![Pesquisa de valores](/assets/images/2021/10/help/repository/searching_csvs.gif)
 
 ### Como lidar com erros
 
 Ocasionalmente, você pode identificar que seu arquivo CSV ou TSV não está renderizando. Nesse caso, uma caixa de erro será exibida na parte inferior do texto bruto sugerindo o motivo do erro.
 
-![Mensagem de erro de renderização do arquivo CSV](/assets/images/help/repository/csv_render_error.png)
+![Mensagem de erro de renderização do arquivo CSV](/assets/images/2021/10/help/repository/csv_render_error.png)
 
 Os erros comuns incluem:
 
@@ -161,7 +161,7 @@ Os erros comuns incluem:
 
 O GitHub oferece suporte à renderização de documentos PDF.
 
-![Documento PDF renderizado](/assets/images/help/repository/rendered-pdf.png)
+![Documento PDF renderizado](/assets/images/2021/10/help/repository/rendered-pdf.png)
 
 No momento, os links nos PDFs são ignorados.
 
@@ -183,11 +183,11 @@ A renderização da prosa é possível para documentos renderizados compatíveis
 * MediaWiki
 * Pod
 
-![Ícone de papel para exibir documento em prosa renderizado](/assets/images/help/repository/rendered_prose_diff.png)
+![Ícone de papel para exibir documento em prosa renderizado](/assets/images/2021/10/help/repository/rendered_prose_diff.png)
 
 Você pode clicar em {% octicon "file" aria-label="The paper icon" %} para ver as alterações feitas no documento como parte de um commit.
 
-![Alterações em prosa renderizada](/assets/images/help/repository/rendered_prose_changes.png)
+![Alterações em prosa renderizada](/assets/images/2021/10/help/repository/rendered_prose_changes.png)
 
 {% ifversion fpt or ghes > 3.2 or ghae-issue-5232 or ghec %}
 
@@ -201,7 +201,7 @@ Você pode clicar em {% octicon "file" aria-label="The paper icon" %} para ver a
 
 Nós fornecemos uma dica de ferramenta descrevendo as alterações nos atributos, que diferentes de palavras, não seriam visíveis no documento renderizado. Por exemplo, se a URL de um link for alterada, mostraremos uma dica de ferramenta como esta:
 
-![Alterações no atributo de prosa renderizada](/assets/images/help/repository/prose_diff_attributes.png)
+![Alterações no atributo de prosa renderizada](/assets/images/2021/10/help/repository/prose_diff_attributes.png)
 
 ### Fazer comentários em alterações
 
@@ -215,7 +215,7 @@ Assim como ocorre em [outros documentos de prosa renderizados](/articles/about-r
 
 Algumas pull requests envolvem um grande número de alterações e documentos grandes e complexos. Quando as mudanças levam muito tempo para serem analisadas, {% data variables.product.product_name %} não pode produzir uma visão renderizada das alterações. Se isso acontecer, você verá uma mensagem de erro ao clicar no botão renderizado.
 
-![Mensagem quando a visualização não pode ser renderizada](/assets/images/help/repository/prose_diff_rendering.png)
+![Mensagem quando a visualização não pode ser renderizada](/assets/images/2021/10/help/repository/prose_diff_rendering.png)
 
 Você ainda pode usar a exibição original para analisar e comentar as alterações.
 
@@ -231,7 +231,7 @@ O {% data variables.product.product_name %} é compatível com a renderização 
 
 Quando você clicar no ícone de folha de papel à direita, também verá as alterações feitas naquele arquivo como parte de um commit.
 
-![Captura de tela seletor Source Render (Renderizar fonte)](/assets/images/help/repository/source-render-toggle-geojson.png)
+![Captura de tela seletor Source Render (Renderizar fonte)](/assets/images/2021/10/help/repository/source-render-toggle-geojson.png)
 
 ### Tipos geométricos
 
@@ -288,7 +288,7 @@ Se você está com problemas para renderizar arquivos geoJSON, certifique-se de 
 
 Além disso, se o seu arquivo `.geojson` for particularmente grande (acima de 10 MB), não é possível renderizar no navegador. Se esse for o caso, você normalmente verá uma mensagem parecida com esta:
 
-![Arquivo grande](/assets/images/help/repository/view_raw.png)
+![Arquivo grande](/assets/images/2021/10/help/repository/view_raw.png)
 
 Ainda pode ser possível renderizar os dados convertendo o arquivo `.geojson` em [TopoJSON](https://github.com/mbostock/topojson), um formato compactado que pode reduzir o tamanho dos arquivos em até 80%, em alguns casos. Claro que você sempre pode quebrar os arquivos em pedaços menores (como por estado ou por ano) e armazenar os dados em vários arquivos no repositório.
 

@@ -31,7 +31,7 @@ shortTitle: Resolve merge conflicts
 
 {% data reusables.repositories.sidebar-pr %}
 1. [Pull Requests] リストで、解決するマージ コンフリクトを起こしている Pull Request をクリックします。
-1. 指定した Pull Request の下部周辺で、[**Resolve conflicts**] をクリックします。 ![[Resolve merge conflicts] ボタン](/assets/images/help/pull_requests/resolve-merge-conflicts-button.png)
+1. 指定した Pull Request の下部周辺で、[**Resolve conflicts**] をクリックします。 ![[Resolve merge conflicts] ボタン](/assets/images/2021/10/help/pull_requests/resolve-merge-conflicts-button.png)
 
  {% tip %}
 
@@ -39,14 +39,14 @@ shortTitle: Resolve merge conflicts
 
  {% endtip %}
 {% data reusables.pull_requests.decide-how-to-resolve-competing-line-change-merge-conflict %}
- ![コンフリクトマーカー付きのマージコンフリクトの例を表示する](/assets/images/help/pull_requests/view-merge-conflict-with-markers.png)
+ ![コンフリクトマーカー付きのマージコンフリクトの例を表示する](/assets/images/2021/10/help/pull_requests/view-merge-conflict-with-markers.png)
 1. ファイルに複数のマージ コンフリクトがある場合は、次の一連のコンフリクト マーカーまで下にスクロールし、ステップ 4 と 5 を繰り返してマージ コンフリクトを解決します。
-1. ファイル内のコンフリクトをすべて解決したら、[**Mark as resolved**] をクリックします。 ![[Mark as resolved] ボタンをクリックする](/assets/images/help/pull_requests/mark-as-resolved-button.png)
-1. コンフリクトしているファイルが複数ある場合は、[conflicting files] の下のページの左側で編集する次のファイルを選択し、Pull Request のマージ コンフリクトをすべて解決するまでステップ 4 から 7 を繰り返します。 ![コンフリクトしている次のファイルを選択する（該当する場合）](/assets/images/help/pull_requests/resolve-merge-conflict-select-conflicting-file.png)
-1. マージ コンフリクトをすべて解決したら、[**Commit merge**] をクリックします。 これにより、Base ブランチ全体が Head ブランチにマージされます。 ![[Resolve merge conflicts] ボタン](/assets/images/help/pull_requests/merge-conflict-commit-changes.png)
+1. ファイル内のコンフリクトをすべて解決したら、[**Mark as resolved**] をクリックします。 ![[Mark as resolved] ボタンをクリックする](/assets/images/2021/10/help/pull_requests/mark-as-resolved-button.png)
+1. コンフリクトしているファイルが複数ある場合は、[conflicting files] の下のページの左側で編集する次のファイルを選択し、Pull Request のマージ コンフリクトをすべて解決するまでステップ 4 から 7 を繰り返します。 ![コンフリクトしている次のファイルを選択する（該当する場合）](/assets/images/2021/10/help/pull_requests/resolve-merge-conflict-select-conflicting-file.png)
+1. マージ コンフリクトをすべて解決したら、[**Commit merge**] をクリックします。 これにより、Base ブランチ全体が Head ブランチにマージされます。 ![[Resolve merge conflicts] ボタン](/assets/images/2021/10/help/pull_requests/merge-conflict-commit-changes.png)
 1. プロンプトに従い、コミット先のブランチをレビューします。
 
-   head ブランチがリポジトリのデフォルトブランチである場合、コンフリクトを解決するために加えた変更でこのブランチを更新するか、新しいブランチを作成してこれをプルリクエストのヘッドブランチとして使用するかを選択できます。 ![更新するブランチの確認を求める](/assets/images/help/pull_requests/conflict-resolution-merge-dialog-box.png)
+   head ブランチがリポジトリのデフォルトブランチである場合、コンフリクトを解決するために加えた変更でこのブランチを更新するか、新しいブランチを作成してこれをプルリクエストのヘッドブランチとして使用するかを選択できます。 ![更新するブランチの確認を求める](/assets/images/2021/10/help/pull_requests/conflict-resolution-merge-dialog-box.png)
 
    新しいブランチを作成する場合は、ブランチの名前を入力します。
 

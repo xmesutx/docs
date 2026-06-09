@@ -25,5 +25,5 @@ Organization owners, and members with admin privileges for a repository, can inv
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
 5. Under "Repository invitations", select **Allow members to invite outside collaborators to repositories for this organization**.
-  ![Checkbox to allow members to invite outside collaborators to organization repositories](/assets/images/help/organizations/repo-invitations-checkbox-updated.png)
+  ![Checkbox to allow members to invite outside collaborators to organization repositories](/assets/images/2021/10/help/organizations/repo-invitations-checkbox-updated.png)
 6. Click **Save**.

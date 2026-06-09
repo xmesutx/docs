@@ -20,17 +20,17 @@ shortTitle: Troubleshoot service hooks
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. 調べるリポジトリを開ける。
-3. ナビゲーションサイドバーで **Hooks** のリンクをクリックする。 ![フックのサイドバー](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
-4. 問題が発生しているサービスフックで、**Latest Delivery** へのリンクをクリックする。 ![フックの詳細](/assets/images/enterprise/settings/Enterprise-Hooks-Details.png)
+3. ナビゲーションサイドバーで **Hooks** のリンクをクリックする。 ![フックのサイドバー](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+4. 問題が発生しているサービスフックで、**Latest Delivery** へのリンクをクリックする。 ![フックの詳細](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Details.png)
 5. [**Remote Calls**] (リモート呼び出し) の下に、リモートサーバーへの POST の際に使われたヘッダと、リモートサーバーがあなたの環境に返信したレスポンスを見ることができます。
 
 ## ペイロードの表示
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. 調べるリポジトリを開ける。
-3. ナビゲーションサイドバーで **Hooks** のリンクをクリックする。 ![フックのサイドバー](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+3. ナビゲーションサイドバーで **Hooks** のリンクをクリックする。 ![フックのサイドバー](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
 4. 問題が発生しているサービスフックで、**Latest Delivery** へのリンクをクリックする。
-5. [**Delivery**] をクリックします。 ![ペイロードの表示](/assets/images/enterprise/settings/Enterprise-Hooks-Payload.png)
+5. [**Delivery**] をクリックします。 ![ペイロードの表示](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Payload.png)
 
 ## 過去のデリバリーの表示
 
@@ -38,6 +38,6 @@ shortTitle: Troubleshoot service hooks
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. 調べるリポジトリを開ける。
-3. ナビゲーションサイドバーで **Hooks** のリンクをクリックする。 ![フックのサイドバー](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+3. ナビゲーションサイドバーで **Hooks** のリンクをクリックする。 ![フックのサイドバー](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
 4. 問題が発生しているサービスフックで、**Latest Delivery** へのリンクをクリックする。
-5. その特定のフックに対する他のデリバリーを見るには、[**More for this Hook ID**] をクリックします。 ![デリバリーをさらに表示](/assets/images/enterprise/settings/Enterprise-Hooks-More-Deliveries.png)
+5. その特定のフックに対する他のデリバリーを見るには、[**More for this Hook ID**] をクリックします。 ![デリバリーをさらに表示](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-More-Deliveries.png)

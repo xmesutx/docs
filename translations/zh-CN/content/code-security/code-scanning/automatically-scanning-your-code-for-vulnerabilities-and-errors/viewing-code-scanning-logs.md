@@ -57,13 +57,13 @@ After setting up {% data variables.product.prodname_code_scanning %} for your re
 
   You'll see a list that includes an entry for running the {% data variables.product.prodname_code_scanning %} workflow. The text of the entry is the title you gave your commit message.
 
-  ![Actions list showing {% data variables.product.prodname_code_scanning %} workflow](/assets/images/help/repository/code-scanning-actions-list.png)
+  ![Actions list showing {% data variables.product.prodname_code_scanning %} workflow](/assets/images/2021/10/help/repository/code-scanning-actions-list.png)
 
 1. Click the entry for the {% data variables.product.prodname_code_scanning %} workflow.
 
 2. Click the job name on the left. For example, **Analyze (LANGUAGE)**.
 
-  ![Log output from the {% data variables.product.prodname_code_scanning %} workflow](/assets/images/help/repository/code-scanning-logging-analyze-action.png)
+  ![Log output from the {% data variables.product.prodname_code_scanning %} workflow](/assets/images/2021/10/help/repository/code-scanning-logging-analyze-action.png)
 
 1. Review the logging output from the actions in this workflow as they run.
 
@@ -74,9 +74,9 @@ After setting up {% data variables.product.prodname_code_scanning %} for your re
 **Note:** If you raised a pull request to add the {% data variables.product.prodname_code_scanning %} workflow to the repository, alerts from that pull request aren't displayed directly on the {% data variables.product.prodname_code_scanning_capc %} page until the pull request is merged. If any alerts were found you can view these, before the pull request is merged, by clicking the **_n_ alerts found** link in the banner on the {% data variables.product.prodname_code_scanning_capc %} page.
 
 {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
-  ![Click the "n alerts found" link](/assets/images/help/repository/code-scanning-alerts-found-link.png)
+  ![Click the "n alerts found" link](/assets/images/2021/10/help/repository/code-scanning-alerts-found-link.png)
 {% else %}
-  ![Click the "n alerts found" link](/assets/images/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
+  ![Click the "n alerts found" link](/assets/images/2021/10/enterprise/3.1/help/repository/code-scanning-alerts-found-link.png)
 {% endif %}
 
 {% endnote %}

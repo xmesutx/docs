@@ -1,1 +1,1 @@
-1. No canto superior esquerdo de qualquer página, clique em <span aria-label="the Octocat icon" class="octicon octicon-mark-github"></span>. ![Ícone do Octocat](/assets/images/enterprise/navigation/octocat-icon.png)
+1. No canto superior esquerdo de qualquer página, clique em <span aria-label="the Octocat icon" class="octicon octicon-mark-github"></span>. ![Ícone do Octocat](/assets/images/2021/10/enterprise/navigation/octocat-icon.png)

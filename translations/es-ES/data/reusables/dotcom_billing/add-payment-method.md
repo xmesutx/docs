@@ -1,1 +1,1 @@
-1. Dentro de "Información de facturación", haz clic en **Add a payment method (Añadir un método de pago)**. ![Enlace para agregar un método de pago](/assets/images/help/billing/add-payment-method.png)
+1. Dentro de "Información de facturación", haz clic en **Add a payment method (Añadir un método de pago)**. ![Enlace para agregar un método de pago](/assets/images/2021/10/help/billing/add-payment-method.png)

@@ -22,7 +22,7 @@ shortTitle: 比较分支
 
 {% endnote %}
 
-You can view proposed changes in a pull request in the Files changed tab. ![拉取请求文件已更改选项卡](/assets/images/help/pull_requests/pull-request-tabs-changed-files.png)
+You can view proposed changes in a pull request in the Files changed tab. ![拉取请求文件已更改选项卡](/assets/images/2021/10/help/pull_requests/pull-request-tabs-changed-files.png)
 
 无需查看提交本身，您可以查看提议的更改，因为它们在拉取请求合并后就会出现在文件中。 这些文件在 Files changed（更改的文件）选项卡中按字母数字顺序显示。 添加的文件以绿色显示，前缀 `+` 号，而删除的内容以红色显示，前缀 `-` 号。
 
@@ -42,11 +42,11 @@ You can view proposed changes in a pull request in the Files changed tab. ![拉�
 
 您也可以选择忽略空格更改以获取拉取请求中实质性更改的更准确视图。
 
-![差异查看选项菜单](/assets/images/help/pull_requests/diff-settings-menu.png)
+![差异查看选项菜单](/assets/images/2021/10/help/pull_requests/diff-settings-menu.png)
 
 为简化审查大型拉取请求中的更改，您可以过滤差异，只显示所选的文件类型、显示您是其代码所有者的文件、隐藏您查看过的文件或隐藏已删除的文件。 更多信息请参阅“[按文件类型过滤拉取请求中的文件](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/filtering-files-in-a-pull-request)”。
 
-  ![文件过滤器下拉菜单](/assets/images/help/pull_requests/file-filter-menu.png)
+  ![文件过滤器下拉菜单](/assets/images/2021/10/help/pull_requests/file-filter-menu.png)
 
 ## 三点和两点 Git 差异比较
 

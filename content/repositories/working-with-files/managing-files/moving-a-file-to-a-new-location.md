@@ -33,9 +33,9 @@ In addition to changing the file location, you can also [update the contents of 
 
 1. In your repository, browse to the file you want to move.
 2. In the upper right corner of the file view, click {% octicon "pencil" aria-label="The edit icon" %} to open the file editor.
-![Edit file icon](/assets/images/help/repository/move-file-edit-file-icon.png)
+![Edit file icon](/assets/images/2021/10/help/repository/move-file-edit-file-icon.png)
 3. In the filename field, change the name of the file using these guidelines:
-  ![Editing a file name](/assets/images/help/repository/moving_files.gif)
+  ![Editing a file name](/assets/images/2021/10/help/repository/moving_files.gif)
     - To move the file **into a subfolder**, type the name of the folder you want, followed by `/`. Your new folder name becomes a new item in the navigation breadcrumbs.
     - To move the file into a directory **above the file's current location**, place your cursor at the beginning of the filename field, then either type `../` to jump up one full directory level, or type the `backspace` key to edit the parent folder's name.
 {% data reusables.files.write_commit_message %}

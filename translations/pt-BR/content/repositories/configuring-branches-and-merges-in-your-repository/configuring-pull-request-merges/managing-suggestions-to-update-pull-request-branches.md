@@ -20,4 +20,4 @@ Se você habilitar a configuração para sempre sugerir a atualização de branc
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Em "Pull Requests", selecione ou desmarque **Sempre sugerir a atualização dos branches de pull request**. ![A caixa de seleção para habilitar ou desabilitar sempre sugere a atualização do branch](/assets/images/help/repository/always-suggest-updating-branches.png)
+3. Em "Pull Requests", selecione ou desmarque **Sempre sugerir a atualização dos branches de pull request**. ![A caixa de seleção para habilitar ou desabilitar sempre sugere a atualização do branch](/assets/images/2022/02/help/repository/always-suggest-updating-branches.png)

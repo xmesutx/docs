@@ -41,9 +41,9 @@ You can search and browse actions directly in your repository's workflow editor.
 
 1. In your repository, browse to the workflow file you want to edit.
 1. In the upper right corner of the file view, to open the workflow editor, click {% octicon "pencil" aria-label="The edit icon" %}.
-   ![Edit workflow file button](/assets/images/help/repository/actions-edit-workflow-file.png)
+   ![Edit workflow file button](/assets/images/2021/10/help/repository/actions-edit-workflow-file.png)
 1. To the right of the editor, use the {% data variables.product.prodname_marketplace %} sidebar to browse actions. Actions with the {% octicon "verified" aria-label="The verified badge" %} badge indicate {% data variables.product.prodname_dotcom %} has verified the creator of the action as a partner organization.
-   ![Marketplace workflow sidebar](/assets/images/help/repository/actions-marketplace-sidebar.png)
+   ![Marketplace workflow sidebar](/assets/images/2021/10/help/repository/actions-marketplace-sidebar.png)
 
 ## Adding an action to your workflow
 
@@ -67,7 +67,7 @@ An action's listing page includes the action's version and the workflow syntax r
 
 1. Navigate to the action you want to use in your workflow.
 1. Under "Installation", click {% octicon "clippy" aria-label="The edit icon" %} to copy the workflow syntax.
-   ![View action listing](/assets/images/help/repository/actions-sidebar-detailed-view.png)
+   ![View action listing](/assets/images/2021/10/help/repository/actions-sidebar-detailed-view.png)
 1. Paste the syntax as a new step in your workflow. For more information, see "[Workflow syntax for {% data variables.product.prodname_actions %}](/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idsteps)."
 1. If the action requires you to provide inputs, set them in your workflow. For information on inputs an action might require, see "[Using inputs and outputs with an action](/actions/learn-github-actions/finding-and-customizing-actions#using-inputs-and-outputs-with-an-action)."
 

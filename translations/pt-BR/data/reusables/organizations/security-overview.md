@@ -1,1 +1,1 @@
-1. No nome da sua organização, clique em {% octicon "shield" aria-label="The Security shield" %} **Segurança**. ![Botão de segurança da organização](/assets/images/help/organizations/organization-security-tab.png)
+1. No nome da sua organização, clique em {% octicon "shield" aria-label="The Security shield" %} **Segurança**. ![Botão de segurança da organização](/assets/images/2021/10/help/organizations/organization-security-tab.png)

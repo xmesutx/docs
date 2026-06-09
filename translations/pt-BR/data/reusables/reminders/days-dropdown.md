@@ -1,1 +1,1 @@
-1. Em "Dias", clique em **Dias da semana** {% octicon "triangle-down" aria-label="The down triangle icon" %} para selecionar um ou mais dias em que você gostaria de receber lembretes agendados. ![Menu suspenso de dias](/assets/images/help/settings/scheduled-reminders-days.png)
+1. Em "Dias", clique em **Dias da semana** {% octicon "triangle-down" aria-label="The down triangle icon" %} para selecionar um ou mais dias em que você gostaria de receber lembretes agendados. ![Menu suspenso de dias](/assets/images/2021/10/help/settings/scheduled-reminders-days.png)

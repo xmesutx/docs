@@ -60,7 +60,7 @@ Você pode encontrar e visualizar um pacote localizado nos repositórios de uma 
 Você pode encontrar e visualizar qualquer pacote que você publicou em todas as organizações e repositórios.
 
 {% data reusables.profile.access_profile %}
-2. No topo da página de perfil, na navegação principal, clique em **Pacotes**. ![Aba Project (Projeto)](/assets/images/help/package-registry/user-packages-tab.png)
+2. No topo da página de perfil, na navegação principal, clique em **Pacotes**. ![Aba Project (Projeto)](/assets/images/2021/10/help/package-registry/user-packages-tab.png)
 {% data reusables.package_registry.navigate-to-packages %}
 
 ## Leia mais

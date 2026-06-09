@@ -29,7 +29,7 @@ En la sección "Recent activity" (Actividad reciente) de tus noticias, rápidame
 
 En la barra lateral izquierda de tu tablero, puedes acceder a los principales repositorios de tu organización en los que estás activo.
 
-![Listado delos repositorios en los que eres más activo de tu organización](/assets/images/help/dashboard/repositories-from-organization-dashboard.png)
+![Listado delos repositorios en los que eres más activo de tu organización](/assets/images/2021/10/help/dashboard/repositories-from-organization-dashboard.png)
 
 ## Estar actualizado con la actividad desde tu organización
 

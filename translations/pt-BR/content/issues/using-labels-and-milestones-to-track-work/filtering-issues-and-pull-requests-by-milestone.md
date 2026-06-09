@@ -27,7 +27,7 @@ shortTitle: Filtrar por marco
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. Selecione **Milestones** (Marcos) para visualizar uma lista de todos os marcos disponíveis para o repositório. ![Botão Milestones (Marcos)](/assets/images/help/issues/issues_milestone_button.png)
+3. Selecione **Milestones** (Marcos) para visualizar uma lista de todos os marcos disponíveis para o repositório. ![Botão Milestones (Marcos)](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. Selecione o marco desejado na lista. Na página milestone (marcos), é possível visualizar as informações relevantes, inclusive todos os problemas e pull requests associados a ele. Para obter mais informações, consulte "[Sobre marcos](/articles/about-milestones)".
 
 ## Leia mais

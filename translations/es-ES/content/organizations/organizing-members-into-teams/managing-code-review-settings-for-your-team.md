@@ -61,10 +61,10 @@ Any team members that have set their status to "Busy" will not be selected for r
 1. In the left sidebar, click **{% octicon "code-review" aria-label="The code-review icon" %} Code review**.
 {% else %}
 1. In the left sidebar, click **Code review**
-![Code review button](/assets/images/help/teams/review-button.png)
+![Code review button](/assets/images/2021/11/help/teams/review-button.png)
 {% endif %}
 1. Select **Only notify requested team members.**
-![Code review team notifications](/assets/images/help/teams/review-assignment-notifications.png)
+![Code review team notifications](/assets/images/2021/10/help/teams/review-assignment-notifications.png)
 1. Click **Save changes**.
 {% endif %}
 
@@ -77,16 +77,16 @@ Any team members that have set their status to "Busy" will not be selected for r
 1. In the left sidebar, click **{% octicon "code-review" aria-label="The code-review icon" %} Code review**.
 {% else %}
 1. In the left sidebar, click **Code review**
-![Code review button](/assets/images/help/teams/review-button.png)
+![Code review button](/assets/images/2021/11/help/teams/review-button.png)
 {% endif %}
 1. Select **Enable auto assignment**.
-![Auto-assignment button](/assets/images/help/teams/review-assignment-enable.png)
+![Auto-assignment button](/assets/images/2021/10/help/teams/review-assignment-enable.png)
 1. Under "How many team members should be assigned to review?", use the drop-down menu and choose a number of reviewers to be assigned to each pull request.
-![Number of reviewers dropdown](/assets/images/help/teams/review-assignment-number.png)
+![Number of reviewers dropdown](/assets/images/2021/10/help/teams/review-assignment-number.png)
 1. Under "Routing algorithm", use the drop-down menu and choose which algorithm you'd like to use. For more information, see "[Routing algorithms](#routing-algorithms)."
-![Routing algorithm dropdown](/assets/images/help/teams/review-assignment-algorithm.png)
+![Routing algorithm dropdown](/assets/images/2021/10/help/teams/review-assignment-algorithm.png)
 1. Optionally, to always skip certain members of the team, select **Never assign certain team members**. Then, select one or more team members you'd like to always skip.
-![Never assign certain team members checkbox and dropdown](/assets/images/help/teams/review-assignment-skip-members.png)
+![Never assign certain team members checkbox and dropdown](/assets/images/2021/10/help/teams/review-assignment-skip-members.png)
 {% ifversion ghes < 3.4 %}
 1. Optionally, to only notify the team members chosen by code review assignment for each pull review request, under "Notifications" select **If assigning team members, don't notify the entire team.**
 {%- endif %}
@@ -103,5 +103,5 @@ Any team members that have set their status to "Busy" will not be selected for r
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 1. Select **Enable auto assignment** to remove the checkmark.
-![Code review assignment button](/assets/images/help/teams/review-assignment-enable.png)
+![Code review assignment button](/assets/images/2021/10/help/teams/review-assignment-enable.png)
 1. Click **Save changes**.

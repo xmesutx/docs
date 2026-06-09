@@ -25,11 +25,11 @@ To run a workflow manually, the workflow must be configured to run on the `workf
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
 1. In the left sidebar, click the workflow you want to run.
-![actions select workflow](/assets/images/actions-select-workflow.png)
+![actions select workflow](/assets/images/2021/10/actions-select-workflow.png)
 1. Above the list of workflow runs, select **Run workflow**.
-![actions workflow dispatch](/assets/images/actions-workflow-dispatch.png)
+![actions workflow dispatch](/assets/images/2021/10/actions-workflow-dispatch.png)
 1. Use the **Branch** dropdown to select the workflow's branch, and type the input parameters. Click **Run workflow**.
-![actions manually run workflow](/assets/images/actions-manually-run-workflow.png)
+![actions manually run workflow](/assets/images/2021/10/actions-manually-run-workflow.png)
 
 {% endwebui %}
 

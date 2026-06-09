@@ -28,7 +28,7 @@ The people you choose as code owners must have read permissions for the reposito
 
 ファイルにコードオーナーがいる場合、プルリクエストをオープンする前にコードオーナーを確認できます。 リポジトリで、ファイルを参照して {% octicon "shield-lock" aria-label="The edit icon" %} にカーソルを合わせることができます。
 
-![リポジトリ内のファイルのコードオーナー](/assets/images/help/repository/code-owner-for-a-file.png)
+![リポジトリ内のファイルのコードオーナー](/assets/images/2021/10/help/repository/code-owner-for-a-file.png)
 
 ## CODEOWNERSファイルの場所
 

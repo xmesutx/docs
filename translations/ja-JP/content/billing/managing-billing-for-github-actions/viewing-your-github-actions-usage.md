@@ -50,6 +50,6 @@ Enterprise アカウントについては、Enterprise オーナーと支払い�
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. [{% data variables.product.prodname_actions %}] で、Enterprise アカウントの Organization ごとにデータ転送の使用状況の詳細を表示します。 ![利用時間 (分) の詳細](/assets/images/help/billing/actions-minutes-enterprise.png)
+1. [{% data variables.product.prodname_actions %}] で、Enterprise アカウントの Organization ごとにデータ転送の使用状況の詳細を表示します。 ![利用時間 (分) の詳細](/assets/images/2021/10/help/billing/actions-minutes-enterprise.png)
 {% data reusables.dotcom_billing.actions-packages-storage-enterprise-account %}
 {% data reusables.enterprise-accounts.actions-packages-report-download-enterprise-accounts %}

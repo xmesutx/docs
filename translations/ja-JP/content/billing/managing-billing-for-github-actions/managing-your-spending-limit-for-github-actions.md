@@ -59,7 +59,7 @@ Enterprise アカウントの {% data variables.product.prodname_actions %} の�
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. ""[{% data variables.product.prodname_actions %} and Packages monthly usage]"の上で、[**Spending Limit（利用上限）**]をクリックしてください。 ![利用上限タブ](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. ""[{% data variables.product.prodname_actions %} and Packages monthly usage]"の上で、[**Spending Limit（利用上限）**]をクリックしてください。 ![利用上限タブ](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 

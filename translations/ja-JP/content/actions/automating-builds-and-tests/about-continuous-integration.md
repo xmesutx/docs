@@ -41,7 +41,7 @@ CIワークフローは、{% data variables.product.prodname_dotcom %}イベン�
 
 リポジトリに CI を設定する際には、{% data variables.product.product_name %} がリポジトリ内のコードを分析し、リポジトリ内の言語とフレームワークに基づいて CI ワークフローを推奨します。 For example, if you use [Node.js](https://nodejs.org/en/), {% data variables.product.product_name %} will suggest a starter workflow that installs your Node.js packages and runs your tests. You can use the CI starter workflow suggested by {% data variables.product.product_name %}, customize the suggested starter workflow, or create your own custom workflow file to run your CI tests.
 
-![Screenshot of suggested continuous integration starter workflows](/assets/images/help/repository/ci-with-actions-template-picker.png)
+![Screenshot of suggested continuous integration starter workflows](/assets/images/2021/10/help/repository/ci-with-actions-template-picker.png)
 
 プロジェクトの CI ワークフローの設定だけでなく、{% data variables.product.prodname_actions %} を使用してソフトウェア開発のライフサイクル全体に渡るワークフローを作成することもできます。 たとえば、Actionを使用してプロジェクトをデプロイ、パッケージ、またはリリースすることが可能です。 詳しい情報については、「[{% data variables.product.prodname_actions %} について](/articles/about-github-actions)」を参照してください。
 

@@ -45,7 +45,7 @@ Enterprise アカウントの {% data variables.product.prodname_codespaces %} �
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-1. Above "{% data variables.product.prodname_codespaces %} monthly usage", click **Spending Limit**. ![利用上限タブ](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+1. Above "{% data variables.product.prodname_codespaces %} monthly usage", click **Spending Limit**. ![利用上限タブ](/assets/images/2021/10/help/settings/spending-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 
@@ -58,7 +58,7 @@ Email notifications are sent to account owners and billing managers when spendin
 
 You can disable these notifications anytime by navigating to the bottom of the **Spending Limit** page.
 
-![Screenshot of the billing email notification settings](/assets/images/help/billing/codespaces-spending-limit-notifications.png)
+![Screenshot of the billing email notification settings](/assets/images/2022/02/help/billing/codespaces-spending-limit-notifications.png)
 
 ## 参考リンク
 

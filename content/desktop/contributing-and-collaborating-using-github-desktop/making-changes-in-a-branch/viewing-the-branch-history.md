@@ -17,9 +17,9 @@ Each commit shows:
 
 {% data reusables.desktop.history-tab %}
 2. On the **History** tab, click the commit you'd like to review.
-![A commit on the History tab](/assets/images/help/desktop/branch-history-commit.png)
+![A commit on the History tab](/assets/images/2021/10/help/desktop/branch-history-commit.png)
 3. If there are multiple files in the commit, click on an individual file to see the changes made to that file in that commit.
-![A file in the commit](/assets/images/help/desktop/branch-history-file.png)
+![A file in the commit](/assets/images/2021/10/help/desktop/branch-history-file.png)
 
 ## Further reading
 

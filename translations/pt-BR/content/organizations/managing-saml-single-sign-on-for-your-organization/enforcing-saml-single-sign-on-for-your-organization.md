@@ -16,7 +16,7 @@ shortTitle: Aplicar logon único SAML
 
 Ao habilitar o SAML SSO, {% data variables.product.prodname_dotcom %} solicitará que os integrantes que visitam os recursos da organização em {% data variables.product.prodname_dotcom_the_website %} efetuem a autenticação no seu IdP, que vincula a conta de usuário do integrante a uma identidade no IdP. Os integrantes ainda podem acessar os recursos da organização antes da autenticação com seu IdP.
 
-![Banner com solicitação para efetuar a autenticação por meio do SAML SSO para acessar a organização](/assets/images/help/saml/sso-has-been-enabled.png)
+![Banner com solicitação para efetuar a autenticação por meio do SAML SSO para acessar a organização](/assets/images/2021/10/help/saml/sso-has-been-enabled.png)
 
 Você também pode aplicar SAML SSO para a sua organização. {% data reusables.saml.when-you-enforce %} Aplicação remove todos os integrantes e administradores que não tenham efetuado a autenticação por meio do seu IdP da organização. {% data variables.product.company_short %} envia uma notificação de email para cada usuário removido.
 
@@ -39,8 +39,8 @@ Se a sua organização pertencer a uma conta corporativa que exigir o SAML para 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-1. Em "logon único SAML", selecione **Exige augenticação SAML SSO para todos os integrantes da _ORGANIZAÇÃO_ organização**. ![Caixa de seleção "Exigir autenticação SAML SSO"](/assets/images/help/saml/require-saml-sso-authentication.png)
-1. Se algum integrante da organização não tiver efetuado a autenticação por eio do seu IdP, {% data variables.product.company_short %} irá exibir os integrantes. Se você aplicar o SAML SSO, {% data variables.product.company_short %} removerá os integrantes da organização. Revise o aviso e clique em **Remover os integrantes e exigir o logon único SAML**. ![Diálogo "Confirmar a aplicação do SAML SSO" com a lista de integrantes a serem removidos da organização](/assets/images/help/saml/confirm-saml-sso-enforcement.png)
+1. Em "logon único SAML", selecione **Exige augenticação SAML SSO para todos os integrantes da _ORGANIZAÇÃO_ organização**. ![Caixa de seleção "Exigir autenticação SAML SSO"](/assets/images/2021/10/help/saml/require-saml-sso-authentication.png)
+1. Se algum integrante da organização não tiver efetuado a autenticação por eio do seu IdP, {% data variables.product.company_short %} irá exibir os integrantes. Se você aplicar o SAML SSO, {% data variables.product.company_short %} removerá os integrantes da organização. Revise o aviso e clique em **Remover os integrantes e exigir o logon único SAML**. ![Diálogo "Confirmar a aplicação do SAML SSO" com a lista de integrantes a serem removidos da organização](/assets/images/2021/10/help/saml/confirm-saml-sso-enforcement.png)
 1. Em "Códigos de recuperação do logon único", revise seus códigos de recuperação. Armazene os códigos de recuperação em um local seguro, como um gerenciador de senhas.
 
 ## Leia mais

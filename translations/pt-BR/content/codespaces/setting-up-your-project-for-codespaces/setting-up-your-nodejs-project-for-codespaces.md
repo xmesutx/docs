@@ -33,7 +33,7 @@ Este guia mostra como configurar seu projeto JavaScript, Node.js ou TypeScript e
 
 1. No nome do repositório, use o menu suspenso **Código de {% octicon "code" aria-label="The code icon" %}** e na aba **Codespaces** de código, clique em {% octicon "plus" aria-label="The plus icon" %} **Novo codespace**.
 
-  ![Botão de codespace novo](/assets/images/help/codespaces/new-codespace-button.png)
+  ![Botão de codespace novo](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   Se você não vir esta opção, significa que {% data variables.product.prodname_codespaces %} não está disponível para o seu projeto. Consulte [Acesso a {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) para mais informações.
 
@@ -51,8 +51,8 @@ O contêiner de codespaces padrão será compatível com a execução de projeto
 Para configurar seu projeto com um contêiner personalizado, você deverá usar um arquivo `devcontainer.json` para definir o ambiente. Em {% data variables.product.prodname_codespaces %}, você pode adicionar isto a partir de um modelo ou você pode criar o seu próprio. Para obter mais informações sobre contêineres de desenvolvimento, consulte "[Introdução a contêineres de desenvolvimento](/codespaces/setting-up-your-codespace/configuring-codespaces-for-your-project)".
 
 {% data reusables.codespaces.command-palette-container %}
-3. Para este exemplo, clique em **Node.js**.  Se você precisar de funcionalidades adicionais, você poderá selecionar qualquer contêiner específico para o Node ou uma combinação de ferramentas como Node e MongoDB. ![Selecione a opção Node na lista](/assets/images/help/codespaces/add-node-prebuilt-container.png)
-4. Clique na versão recomendada do Node.js. ![Seleção de versão do Node.js](/assets/images/help/codespaces/add-node-version.png)
+3. Para este exemplo, clique em **Node.js**.  Se você precisar de funcionalidades adicionais, você poderá selecionar qualquer contêiner específico para o Node ou uma combinação de ferramentas como Node e MongoDB. ![Selecione a opção Node na lista](/assets/images/2021/10/help/codespaces/add-node-prebuilt-container.png)
+4. Clique na versão recomendada do Node.js. ![Seleção de versão do Node.js](/assets/images/2021/10/help/codespaces/add-node-version.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### Anatomia do seu contêiner de desenvolvimento
@@ -138,7 +138,7 @@ Com o seu contêiner de desenvolvimento adicionado e um entendimento básico do 
 
 1. No Explorer, selecione o arquivo `devcontainer.json` a partir da árvore para abri-lo. Você pode ter que expandir a pasta `.devcontainer` para vê-la.
 
-  ![Arquivo devcontainer.json no Explorador](/assets/images/help/codespaces/devcontainers-options.png)
+  ![Arquivo devcontainer.json no Explorador](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. Adicione as seguintes linhas ao seu arquivo `devcontainer.json` após as `extensões`:
 
@@ -160,11 +160,11 @@ Na seção anterior, você usou o `postCreateCommand` para instalar um conjunto 
 
 1. Execute seu comando inicial no terminal com`npm start`.
 
-  ![início do npm no terminal](/assets/images/help/codespaces/codespaces-npmstart.png)
+  ![início do npm no terminal](/assets/images/2021/10/help/codespaces/codespaces-npmstart.png)
 
 2. Quando o seu projeto for iniciado, você deverá ver um alerta no canto inferior direito com uma instrução para conectar-se à porta que seu projeto usa.
 
-  ![Notificação de encaminhamento de porta](/assets/images/help/codespaces/codespaces-port-toast.png)
+  ![Notificação de encaminhamento de porta](/assets/images/2021/10/help/codespaces/codespaces-port-toast.png)
 
 ## Etapa 5: Faça commit das suas alterações
 

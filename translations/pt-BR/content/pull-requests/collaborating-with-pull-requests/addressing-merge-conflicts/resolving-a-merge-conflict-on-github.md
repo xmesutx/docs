@@ -31,7 +31,7 @@ Se um administrador do site desabilitar o editor de conflitos de merge para pull
 
 {% data reusables.repositories.sidebar-pr %}
 1. Na lista "Pull Requests", clique na pull request que tem um conflito de merge que você deseja resolver.
-1. Próximo à parte inferior da pull request, clique em **Resolve conflicts** (Resolver conflitos). ![Botão de resolução de conflitos de merge](/assets/images/help/pull_requests/resolve-merge-conflicts-button.png)
+1. Próximo à parte inferior da pull request, clique em **Resolve conflicts** (Resolver conflitos). ![Botão de resolução de conflitos de merge](/assets/images/2021/10/help/pull_requests/resolve-merge-conflicts-button.png)
 
  {% tip %}
 
@@ -39,14 +39,14 @@ Se um administrador do site desabilitar o editor de conflitos de merge para pull
 
  {% endtip %}
 {% data reusables.pull_requests.decide-how-to-resolve-competing-line-change-merge-conflict %}
- ![Exemplo de exibição de conflito de merge com marcadores de conflito](/assets/images/help/pull_requests/view-merge-conflict-with-markers.png)
+ ![Exemplo de exibição de conflito de merge com marcadores de conflito](/assets/images/2021/10/help/pull_requests/view-merge-conflict-with-markers.png)
 1. Se houver mais de um conflito de merge no arquivo, role para baixo até o próximo conjunto de marcadores de conflito e repita as etapas quatro e cinco para resolver o conflito de merge.
-1. Depois de resolver todos os conflitos do arquivo, clique em **Mark as resolved** (Marcar como resolvido). ![Clique no botão marcar como resolvido](/assets/images/help/pull_requests/mark-as-resolved-button.png)
-1. Se você tiver mais de um arquivo com um conflito, selecione o próximo arquivo que deseja editar no lado esquerdo da página abaixo de "conflicting files" (arquivos conflitantes) e repita as etapas de quatro a sete até resolver todos os conflitos de merge da pull request. ![Selecione o próximo arquivo conflitante, se aplicável](/assets/images/help/pull_requests/resolve-merge-conflict-select-conflicting-file.png)
-1. Depois de resolver todos os conflitos de merge, clique em **Commit merge** (Fazer commit do merge). Isso incorpora todo o branch base ao branch head. ![Botão de resolução de conflitos de merge](/assets/images/help/pull_requests/merge-conflict-commit-changes.png)
+1. Depois de resolver todos os conflitos do arquivo, clique em **Mark as resolved** (Marcar como resolvido). ![Clique no botão marcar como resolvido](/assets/images/2021/10/help/pull_requests/mark-as-resolved-button.png)
+1. Se você tiver mais de um arquivo com um conflito, selecione o próximo arquivo que deseja editar no lado esquerdo da página abaixo de "conflicting files" (arquivos conflitantes) e repita as etapas de quatro a sete até resolver todos os conflitos de merge da pull request. ![Selecione o próximo arquivo conflitante, se aplicável](/assets/images/2021/10/help/pull_requests/resolve-merge-conflict-select-conflicting-file.png)
+1. Depois de resolver todos os conflitos de merge, clique em **Commit merge** (Fazer commit do merge). Isso incorpora todo o branch base ao branch head. ![Botão de resolução de conflitos de merge](/assets/images/2021/10/help/pull_requests/merge-conflict-commit-changes.png)
 1. Se solicitado, revise o branch presente no commit.
 
-   Se o branch head for o branch padrão do repositório, você pode escolher atualizar este branch com as mudanças que você fez para resolver o conflito, ou criar um novo branch e usar isso como o branch head da pull request. ![Solicitar a revisão do branch que será atualizado](/assets/images/help/pull_requests/conflict-resolution-merge-dialog-box.png)
+   Se o branch head for o branch padrão do repositório, você pode escolher atualizar este branch com as mudanças que você fez para resolver o conflito, ou criar um novo branch e usar isso como o branch head da pull request. ![Solicitar a revisão do branch que será atualizado](/assets/images/2021/10/help/pull_requests/conflict-resolution-merge-dialog-box.png)
 
    Se você escolher criar um novo branch, digite um nome para o branch.
 

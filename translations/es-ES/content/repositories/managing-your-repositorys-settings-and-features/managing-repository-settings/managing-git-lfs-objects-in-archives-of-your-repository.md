@@ -25,4 +25,4 @@ Si utilizas un servidor LFS externo (configurado en tu `.lfsconfig`), estos arch
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. Debajo de "Archivos", sleecciona o deselecciona **Incluir los objetos de {% data variables.large_files.product_name_short %} en los archivos**. ![Casilla para incluir los objetos de {% data variables.large_files.product_name_short %} en los archivos](/assets/images/help/repository/include-git-lfs-objects-checkbox.png)
+3. Debajo de "Archivos", sleecciona o deselecciona **Incluir los objetos de {% data variables.large_files.product_name_short %} en los archivos**. ![Casilla para incluir los objetos de {% data variables.large_files.product_name_short %} en los archivos](/assets/images/2021/10/help/repository/include-git-lfs-objects-checkbox.png)

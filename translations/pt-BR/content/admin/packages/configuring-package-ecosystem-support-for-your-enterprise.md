@@ -24,8 +24,8 @@ Para evitar que novos pacotes sejam carregados, você pode definir um ecossistem
 {% data reusables.enterprise_site_admin_settings.packages-tab %}
 1. Em "Alternância de ecossistema", para cada tipo de pacote, selecione **habilitado**, **somente leitura** ou **Desabilitado**.
 {% ifversion ghes > 3.1 %}
-  ![Alternância de ecossistemas](/assets/images/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
-![Ecosystem toggles](/assets/images/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
+  ![Alternância de ecossistemas](/assets/images/2021/10/enterprise/site-admin-settings/ecosystem-toggles.png){% else %}
+![Ecosystem toggles](/assets/images/2022/01/enterprise/3.1/site-admin-settings/ecosystem-toggles.png){% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% ifversion ghes %}

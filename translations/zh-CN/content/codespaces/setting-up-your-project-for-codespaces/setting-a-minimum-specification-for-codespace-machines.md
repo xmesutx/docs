@@ -46,7 +46,7 @@ If your project needs a certain level of compute power, you can configure {% dat
 
    Now when you create a codespace for that branch of the repository you will only be able to select machine types that match or exceed the resources you've specified.
 
-   ![Dialog box showing a limited choice of machine types](/assets/images/help/codespaces/machine-types-limited-choice.png)
+   ![Dialog box showing a limited choice of machine types](/assets/images/2022/01/help/codespaces/machine-types-limited-choice.png)
 
 ## 延伸阅读
 

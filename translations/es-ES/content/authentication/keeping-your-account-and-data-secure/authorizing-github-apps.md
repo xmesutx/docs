@@ -30,7 +30,7 @@ Por ejemplo, un ambiente de desarrollo integrado (IDE) podría utilizar una {% d
 
 Cuando una {% data variables.product.prodname_github_app %} actúa en tu nombre de esta forma, esto lo identifica GitHub a través de un icono especial que muestra un avatar pequeño de la {% data variables.product.prodname_github_app %} sobre tu propio avatar, similar al que se muestra a continuación.
 
-![Una propuesta que creó una solicitud de "usuario a servidor" desde una {% data variables.product.prodname_github_app %}](/assets/images/help/apps/github-apps-new-issue.png)
+![Una propuesta que creó una solicitud de "usuario a servidor" desde una {% data variables.product.prodname_github_app %}](/assets/images/2021/10/help/apps/github-apps-new-issue.png)
 
 ## ¿Hasta qué punto puede una {% data variables.product.prodname_github_app %} saber a qué recursos puedes acceder y actuar en tu nombre?
 

@@ -17,7 +17,7 @@ shortTitle: Show an overview
 
 {% data reusables.profile.activity-overview-summary %} 詳細は「[プロフィールでコントリビューションを表示する](/articles/viewing-contributions-on-your-profile)」を参照してください。
 
-![プロフィール上のアクティビティオーバービューセクション](/assets/images/help/profile/activity-overview-section.png)
+![プロフィール上のアクティビティオーバービューセクション](/assets/images/2021/10/help/profile/activity-overview-section.png)
 
 {% data reusables.profile.access_profile %}
-2. コントリビューショングラフの上で、[**Contribution settings**] ドロップダウンメニューを使い、[**Activity overview**] を選択または選択解除します。 ![コントリビューション設定ドロップダウンメニューからのアクティビティオーバービューの有効化](/assets/images/help/profile/activity-overview.png)
+2. コントリビューショングラフの上で、[**Contribution settings**] ドロップダウンメニューを使い、[**Activity overview**] を選択または選択解除します。 ![コントリビューション設定ドロップダウンメニューからのアクティビティオーバービューの有効化](/assets/images/2021/10/help/profile/activity-overview.png)

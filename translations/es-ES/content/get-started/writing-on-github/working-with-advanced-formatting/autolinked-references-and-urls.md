@@ -19,7 +19,7 @@ shortTitle: Referencias auto-enlazadas
 
 `Visita https://github.com`
 
-![URL autovinculada presentada](/assets/images/help/writing/url-autolink-rendered.png)
+![URL autovinculada presentada](/assets/images/2021/10/help/writing/url-autolink-rendered.png)
 
 Para obtener información sobre cómo crear vínculos, consulta "[Sintaxis de escritura y formato básicos](/articles/basic-writing-and-formatting-syntax/#links)".
 

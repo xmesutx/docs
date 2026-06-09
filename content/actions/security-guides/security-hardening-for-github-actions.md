@@ -89,11 +89,11 @@ This example is vulnerable to script injection because the `run` command execute
 
 To inject commands into this workflow, the attacker could create a pull request with a title of  `a"; ls $GITHUB_WORKSPACE"`:
 
-![Example of script injection in PR title](/assets/images/help/images/example-script-injection-pr-title.png)
+![Example of script injection in PR title](/assets/images/2021/10/help/images/example-script-injection-pr-title.png)
 
 In this example, the `"` character is used to interrupt the {% raw %}`title="${{ github.event.pull_request.title }}"`{% endraw %} statement, allowing the `ls` command to be executed on the runner. You can see the output of the `ls` command in the log:
 
-![Example result of script injection](/assets/images/help/images/example-script-injection-result.png)
+![Example result of script injection](/assets/images/2021/10/help/images/example-script-injection-result.png)
 
 ## Good practices for mitigating script injection attacks
 
@@ -135,7 +135,7 @@ The following example uses Bash to process the `github.event.pull_request.title`
 
 In this example, the attempted script injection is unsuccessful:
 
-![Example of mitigated script injection](/assets/images/help/images/example-script-injection-mitigated.png)
+![Example of mitigated script injection](/assets/images/2021/10/help/images/example-script-injection-mitigated.png)
 
 With this approach, the value of the {% raw %}`${{ github.event.issue.title }}`{% endraw %} expression is stored in memory and used as a variable, and doesn't interact with the script generation process. In addition, consider using double quote shell variables to avoid [word splitting](https://github.com/koalaman/shellcheck/wiki/SC2086), but this is [one of many](https://mywiki.wooledge.org/BashPitfalls) general recommendations for writing shell scripts, and is not specific to {% data variables.product.prodname_actions %}.
 
@@ -297,7 +297,7 @@ If you are using {% data variables.product.prodname_actions %} to deploy to a cl
 You can use the audit log to monitor administrative tasks in an organization. The audit log records the type of action, when it was run, and which user account performed the action.
 
 For example, you can use the audit log to track the `org.update_actions_secret` event, which tracks changes to organization secrets:
-  ![Audit log entries](/assets/images/help/repository/audit-log-entries.png)
+  ![Audit log entries](/assets/images/2021/10/help/repository/audit-log-entries.png)
 
 The following tables describe the {% data variables.product.prodname_actions %} events that you can find in the audit log. For more information on using the audit log, see
 "[Reviewing the audit log for your organization](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#searching-the-audit-log)."

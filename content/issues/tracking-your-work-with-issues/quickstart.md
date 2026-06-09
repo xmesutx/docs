@@ -31,7 +31,7 @@ First, create an issue. There are multiple ways to create an issue; you can choo
 {% data reusables.repositories.new_issue %}
 1. In this example, we will start with a blank issue. Your repository may use issue templates{% ifversion fpt or ghec %} and issue forms{% endif %} to encourage contributors to provide specific information. If your repository uses issue templates, {% ifversion fpt or ghes or ghec %}click **Open a blank issue**{% else %}click **Open a regular issue.**{% endif %}.
 
-![blank issue](/assets/images/help/issues/blank-issue.png)
+![blank issue](/assets/images/2021/10/help/issues/blank-issue.png)
 
 ## Filling in information
 
@@ -41,13 +41,13 @@ Add a description that explains the purpose of the issue, including any details 
 
 You can use markdown to add formatting, links, emojis, and more. For more information, see "[Writing on GitHub](/github/writing-on-github)."
 
-![issue title and body](/assets/images/help/issues/issue-title-body.png)
+![issue title and body](/assets/images/2021/10/help/issues/issue-title-body.png)
 
 ## Adding a task list
 
 It can be helpful to break large issues into smaller tasks, or to track multiple related issues in a single larger issue. Add a task list to your issue by prefacing list items with `[ ]`. Reference existing issues by issue number or URL. You can use plain text to track tasks that don't have a corresponding issue and convert them to issues later. For more information, see "[About task lists](/issues/tracking-your-work-with-issues/about-task-lists)."
 
-![issue with task list](/assets/images/help/issues/issue-task-list-raw.png)
+![issue with task list](/assets/images/2021/10/help/issues/issue-task-list-raw.png)
 
 ## Adding labels
 
@@ -55,25 +55,25 @@ Add a label to categorize your issue. For example, you might use a `bug` label a
 
 You can use the default labels, or you can create a new label. For more information, see "[Managing labels](/issues/using-labels-and-milestones-to-track-work/managing-labels)."
 
-![issue with labels](/assets/images/help/issues/issue-with-label.png)
+![issue with labels](/assets/images/2021/10/help/issues/issue-with-label.png)
 
 ## Adding milestones
 
 You can add a milestone to track the issue as part of a date based target. A milestone will show the progress of the issues as the target date approaches. For more information, see "[About milestones](/issues/using-labels-and-milestones-to-track-work/about-milestones)."
 
-![issue with milestone](/assets/images/help/issues/issue-milestone.png)
+![issue with milestone](/assets/images/2021/10/help/issues/issue-milestone.png)
 
 ## Assigning the issue
 
 To communicate responsibility, you can assign the issue to a member of your organization. For more information, see "[Assigning issues and pull requests to other GitHub users](/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)."
 
-![issue with assignees](/assets/images/help/issues/issue-assignees.png)
+![issue with assignees](/assets/images/2021/10/help/issues/issue-assignees.png)
 
 ## Adding the issue to a project
 
 You can add the issue to an existing project. {% ifversion fpt or ghec %}If you are using projects (beta), you can also populate metadata for the project. {% endif %} For more information about projects, see {% ifversion fpt or ghec %}"[About projects (beta)](/issues/trying-out-the-new-projects-experience/about-projects)" and {% endif %}"[Organizing your work with project boards](/issues/organizing-your-work-with-project-boards)".
 
-![issue with projects](/assets/images/help/issues/issue-project.png)
+![issue with projects](/assets/images/2021/10/help/issues/issue-project.png)
 
 ## Submitting your issue
 
@@ -83,7 +83,7 @@ Click **Submit new issue** to create your issue. You can edit any of the above f
 
 After your issue is created, continue the conversation by adding comments to the issue. You can @mention collaborators or teams to draw their attention to a comment. To link related issues in the same repository, you can type `#` followed by part of the issue title and then clicking the issue that you want to link. For more information, see "[Writing on GitHub](/github/writing-on-github)."
 
-![issue comment](/assets/images/help/issues/issue-comment.png)
+![issue comment](/assets/images/2021/10/help/issues/issue-comment.png)
 
 ## Next steps
 

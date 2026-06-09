@@ -40,8 +40,8 @@ Você pode dar a uma equipe inteira o mesmo nível de permissão em um quadro de
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
 8. Na barra lateral esquerda, clique em **Teams** (Equipes).
-9. Para adicionar uma equipe, clique em **Add a team: Select team** (Adicionar uma equipe: Selecionar equipe). Depois, escolha uma equipe no menu suspenso ou pesquise a equipe que você deseja adicionar. ![Menu suspenso Add a team (Adicionar uma equipe) com lista de equipes na organização](/assets/images/help/projects/add-a-team.png)
-10. Ao lado do nome da equipe, use o menu suspenso para selecionar o nível de permissão desejado: **Read** (Leitura), **Write** (Gravação) ou **Admin** (Administrador). ![Menu suspenso Team permissions (Permissões de equipe) com opções read, write e admin (leitura, gravação e administrador)](/assets/images/help/projects/org-project-team-choose-permissions.png)
+9. Para adicionar uma equipe, clique em **Add a team: Select team** (Adicionar uma equipe: Selecionar equipe). Depois, escolha uma equipe no menu suspenso ou pesquise a equipe que você deseja adicionar. ![Menu suspenso Add a team (Adicionar uma equipe) com lista de equipes na organização](/assets/images/2021/10/help/projects/add-a-team.png)
+10. Ao lado do nome da equipe, use o menu suspenso para selecionar o nível de permissão desejado: **Read** (Leitura), **Write** (Gravação) ou **Admin** (Administrador). ![Menu suspenso Team permissions (Permissões de equipe) com opções read, write e admin (leitura, gravação e administrador)](/assets/images/2021/10/help/projects/org-project-team-choose-permissions.png)
 
 ## Configurar o acesso de uma equipe a um quadro de projeto
 
@@ -50,5 +50,5 @@ Se o acesso de uma equipe a um quadro de projeto for herdado de uma equipe princ
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-4. Acima das conversas da equipe, clique em {% octicon "project" aria-label="The Projects icon" %} **Projects** (Projetos). ![Aba repositórios da equipe](/assets/images/help/organizations/team-project-board-button.png)
-5. Para alterar os níveis de permissão, à direita do quadro de projetos que deseja atualizar, use o menu suspenso. Para remover um quadro de projeto, clique em **{% octicon "trash" aria-label="The trash icon" %}**. ![Botão Trash (Lixeira) Remove a project board from your team (Remover um quadro de projeto de sua equipe)](/assets/images/help/organizations/trash-button.png)
+4. Acima das conversas da equipe, clique em {% octicon "project" aria-label="The Projects icon" %} **Projects** (Projetos). ![Aba repositórios da equipe](/assets/images/2021/10/help/organizations/team-project-board-button.png)
+5. Para alterar os níveis de permissão, à direita do quadro de projetos que deseja atualizar, use o menu suspenso. Para remover um quadro de projeto, clique em **{% octicon "trash" aria-label="The trash icon" %}**. ![Botão Trash (Lixeira) Remove a project board from your team (Remover um quadro de projeto de sua equipe)](/assets/images/2021/10/help/organizations/trash-button.png)

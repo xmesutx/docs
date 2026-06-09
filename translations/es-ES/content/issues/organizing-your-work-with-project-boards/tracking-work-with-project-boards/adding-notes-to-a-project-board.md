@@ -29,13 +29,13 @@ shortTitle: Agregar notas al tablero
 
 Cuando agregas una URL para una propuesta, solicitud de extracción u otro tablero de proyecto para una nota, verás la vista previa en una tarjeta de resumen debajo de tu texto.
 
-![Tarjetas de tableros de proyecto mostrando una vista previa de una propuesta y otro tablero de proyecto](/assets/images/help/projects/note-with-summary-card.png)
+![Tarjetas de tableros de proyecto mostrando una vista previa de una propuesta y otro tablero de proyecto](/assets/images/2021/10/help/projects/note-with-summary-card.png)
 
 ## Agregar notas a tu tablero de proyecto
 
 1. Desplázate hasta el tablero de proyecto donde quieres agregar notas.
-2. En la columna en la que deseas agregar una nota, haz clic en {% octicon "plus" aria-label="The plus icon" %}. ![Icono de adición en el encabezado de la columna](/assets/images/help/projects/add-note-button.png)
-3. Escribe tu nota, luego haz clic en **Add** (Agregar). ![Campo para escribir una nota y botón Add card (Agregar tarjeta)](/assets/images/help/projects/create-and-add-note-button.png)
+2. En la columna en la que deseas agregar una nota, haz clic en {% octicon "plus" aria-label="The plus icon" %}. ![Icono de adición en el encabezado de la columna](/assets/images/2021/10/help/projects/add-note-button.png)
+3. Escribe tu nota, luego haz clic en **Add** (Agregar). ![Campo para escribir una nota y botón Add card (Agregar tarjeta)](/assets/images/2021/10/help/projects/create-and-add-note-button.png)
 
   {% tip %}
 
@@ -57,9 +57,9 @@ Cuando conviertes una nota en una propuesta, la propuesta se crea automáticamen
 
 1. Desplázate hasta la nota que deseas convertir en propuesta.
 {% data reusables.project-management.project-note-more-options %}
-3. Haz clic en **Convert to issue** (Convertir en propuesta). ![Botón para convertir en propuesta](/assets/images/help/projects/convert-to-issue.png)
-4. Si la tarjeta está en un tablero de proyecto en toda la organización, en el menú desplegable, elige el repositorio en el que deseas agregar la propuesta. ![Menú desplegable enumerando los repositorios donde puedes crear la propuesta](/assets/images/help/projects/convert-note-choose-repository.png)
-5. Opcionalmente, edita el título de la propuesta completada previamente, y escribe el cuerpo de la propuesta. ![Campos para título y cuerpo de la propuesta](/assets/images/help/projects/convert-note-issue-title-body.png)
+3. Haz clic en **Convert to issue** (Convertir en propuesta). ![Botón para convertir en propuesta](/assets/images/2021/10/help/projects/convert-to-issue.png)
+4. Si la tarjeta está en un tablero de proyecto en toda la organización, en el menú desplegable, elige el repositorio en el que deseas agregar la propuesta. ![Menú desplegable enumerando los repositorios donde puedes crear la propuesta](/assets/images/2021/10/help/projects/convert-note-choose-repository.png)
+5. Opcionalmente, edita el título de la propuesta completada previamente, y escribe el cuerpo de la propuesta. ![Campos para título y cuerpo de la propuesta](/assets/images/2021/10/help/projects/convert-note-issue-title-body.png)
 6. Haz clic en **Convert to issue** (Convertir en propuesta).
 7. La nota se convertirá automáticamente en una propuesta. En el tablero de proyecto, la nueva tarjeta de propuesta estará en la misma ubicación que la nota anterior.
 
@@ -67,8 +67,8 @@ Cuando conviertes una nota en una propuesta, la propuesta se crea automáticamen
 
 1. Desplázate hasta la nota que deseas editar o eliminar.
 {% data reusables.project-management.project-note-more-options %}
-3. Para editar los contenidos de la nota, haz clic en **Edit note** (Editar nota). ![Botón para editar notas](/assets/images/help/projects/edit-note.png)
-4. Para eliminar los contenidos de las notas, haz clic en **Delete note** (Eliminar nota). ![Botón para eliminar notas](/assets/images/help/projects/delete-note.png)
+3. Para editar los contenidos de la nota, haz clic en **Edit note** (Editar nota). ![Botón para editar notas](/assets/images/2021/10/help/projects/edit-note.png)
+4. Para eliminar los contenidos de las notas, haz clic en **Delete note** (Eliminar nota). ![Botón para eliminar notas](/assets/images/2021/10/help/projects/delete-note.png)
 
 ## Leer más
 

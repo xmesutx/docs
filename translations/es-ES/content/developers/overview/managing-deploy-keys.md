@@ -79,11 +79,11 @@ Consulta [nuestra guía para crear tokens de acceso personal](/authentication/ke
 #### Configuración
 
 1. [Ejecuta el procedimiento `ssh-keygen`][generating-ssh-keys] en tu servidor y recuerda dónde guardaste l par de llaves pública y privada de RSA generado.
-2. En la esquina superior derecha de cualquier página de {% data variables.product.product_name %}, da clic en tu foto de perfil y luego da clic en **Tu perfil**. ![Navegación al perfil](/assets/images/profile-page.png)
-3. En tu página de perfil, da clic en **Repositorios** y luego en el nombre de tu repositorio. ![Enlace de los repositorios](/assets/images/repos.png)
-4. Desde tu repositorio, da clic en **Configuración**. ![Configuración del repositorio](/assets/images/repo-settings.png)
-5. En la barra lateral, da clic en **Desplegar llaves** y luego en **Agregar llave de despliegue**. ![Enlace para agregar llaves de despliegue](/assets/images/add-deploy-key.png)
-6. Proporciona un título, pégalo en tu llave pública.  ![Página de la llave de despliegue](/assets/images/deploy-key.png)
+2. En la esquina superior derecha de cualquier página de {% data variables.product.product_name %}, da clic en tu foto de perfil y luego da clic en **Tu perfil**. ![Navegación al perfil](/assets/images/2021/10/profile-page.png)
+3. En tu página de perfil, da clic en **Repositorios** y luego en el nombre de tu repositorio. ![Enlace de los repositorios](/assets/images/2021/10/repos.png)
+4. Desde tu repositorio, da clic en **Configuración**. ![Configuración del repositorio](/assets/images/2021/10/repo-settings.png)
+5. En la barra lateral, da clic en **Desplegar llaves** y luego en **Agregar llave de despliegue**. ![Enlace para agregar llaves de despliegue](/assets/images/2021/10/add-deploy-key.png)
+6. Proporciona un título, pégalo en tu llave pública.  ![Página de la llave de despliegue](/assets/images/2021/10/deploy-key.png)
 7. Selecciona **Permitir acceso de escritura** si quieres que esta llave tenga acceso de escritura en el repositorio. Una llave de despliegue con acceso de escritura permite que un despliegue cargue información al repositorio.
 8. Da clic en **Agregar llave**.
 

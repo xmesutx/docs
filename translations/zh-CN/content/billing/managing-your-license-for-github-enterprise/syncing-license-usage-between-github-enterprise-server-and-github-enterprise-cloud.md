@@ -36,13 +36,13 @@ You can download a JSON file from {% data variables.product.prodname_ghe_server 
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
 5. Under "Quick links", to download a file containing your current license usage on {% data variables.product.prodname_ghe_server %}, click **Export license usage**.
-  ![Export license usage link](/assets/images/enterprise/business-accounts/export-license-usage-link.png)
+  ![Export license usage link](/assets/images/2021/10/enterprise/business-accounts/export-license-usage-link.png)
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 8. In the left sidebar, click **Enterprise licensing**.
-  !["Enterprise licensing" tab in the enterprise account settings sidebar](/assets/images/help/enterprises/enterprise-licensing-tab.png)
+  !["Enterprise licensing" tab in the enterprise account settings sidebar](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
 {% data reusables.enterprise-accounts.license-tab %}
 10. Under "Enterprise Server Instances", click **Add server usage**.
-  ![Upload GitHub Enterprise Servers usage link](/assets/images/help/business-accounts/upload-ghe-server-usage-link.png)
+  ![Upload GitHub Enterprise Servers usage link](/assets/images/2021/10/help/business-accounts/upload-ghe-server-usage-link.png)
 11. Upload the JSON file you downloaded from {% data variables.product.prodname_ghe_server %}.
-  ![Drag and drop or select a file to upload](/assets/images/help/business-accounts/upload-ghe-server-usage-file.png)
+  ![Drag and drop or select a file to upload](/assets/images/2021/10/help/business-accounts/upload-ghe-server-usage-file.png)

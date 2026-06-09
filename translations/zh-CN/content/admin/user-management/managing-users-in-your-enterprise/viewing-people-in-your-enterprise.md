@@ -23,7 +23,7 @@ shortTitle: 查看企业中的人员
 {% data reusables.enterprise-accounts.people-tab %}
 {% data reusables.enterprise-accounts.administrators-tab %}
 {% ifversion ghec %}1. （可选）要查看待处理邀请列表，请单击 **_NUMBER_ pending（待处理）**。
-  ![搜索和过滤选项右侧的 "NUMBER 待处理" 按钮](/assets/images/help/enterprises/administrators-pending.png){% endif %}
+  ![搜索和过滤选项右侧的 "NUMBER 待处理" 按钮](/assets/images/2021/10/help/enterprises/administrators-pending.png){% endif %}
 
 ## 查看成员和外部协作者
 
@@ -33,9 +33,9 @@ shortTitle: 查看企业中的人员
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. （可选）要查看外部协作者列表而不是成员列表，请单击 **Outside collaborators（外部协作者）**。 ![组织成员页面上的外部协作者选项卡](/assets/images/help/business-accounts/outside-collaborators-tab.png)
+1. （可选）要查看外部协作者列表而不是成员列表，请单击 **Outside collaborators（外部协作者）**。 ![组织成员页面上的外部协作者选项卡](/assets/images/2021/10/help/business-accounts/outside-collaborators-tab.png)
 {% ifversion ghec %}1. （可选）要查看待处理邀请列表，请单击 **_NUMBER_ pending（待处理）**。
-  ![搜索和过滤选项右侧的 "NUMBER 待处理" 按钮](/assets/images/help/enterprises/members-pending.png){% endif %}
+  ![搜索和过滤选项右侧的 "NUMBER 待处理" 按钮](/assets/images/2021/10/help/enterprises/members-pending.png){% endif %}
 
 {% ifversion ghec %}
 
@@ -45,7 +45,7 @@ If your enterprise uses {% data variables.product.prodname_emus %}, you can also
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.people-tab %}
-1. To view a list of suspended members, above the list of active members, click **Suspended**. ![Screenshot showing "Suspended" option](/assets/images/help/enterprises/view-suspended-members.png)
+1. To view a list of suspended members, above the list of active members, click **Suspended**. ![Screenshot showing "Suspended" option](/assets/images/2022/01/help/enterprises/view-suspended-members.png)
 
 {% endif %}
 

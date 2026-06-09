@@ -9,4 +9,4 @@
 
   {% endnote %}
   {% endif %}
-  ![この Enterprise アカウントについてアクションを無効化、無効化、または制限](/assets/images/help/organizations/enterprise-actions-policy.png)
+  ![この Enterprise アカウントについてアクションを無効化、無効化、または制限](/assets/images/2021/10/help/organizations/enterprise-actions-policy.png)

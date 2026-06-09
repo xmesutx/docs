@@ -18,10 +18,10 @@ shortTitle: Visualizar o progresso do marco
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. No canto superior direito, clique em **Milestones** (Marcos). ![Botão Milestones (Marcos) de problemas](/assets/images/help/issues/issues_milestone_button.png)
+3. No canto superior direito, clique em **Milestones** (Marcos). ![Botão Milestones (Marcos) de problemas](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. Selecione o marco sobre o qual deseja ver mais informações.
 
-![Visão geral de Milestones (Marcos) de problemas](/assets/images/help/issues/issues_milestone_overview.png)
+![Visão geral de Milestones (Marcos) de problemas](/assets/images/2021/10/help/issues/issues_milestone_overview.png)
 
 Para gerenciar melhor seu projeto, você pode priorizar problemas ou pull request em um marco. Para obter mais informações, consulte "[Sobre marcos](/articles/about-milestones#prioritizing-issues-and-pull-requests-in-milestones)".
 

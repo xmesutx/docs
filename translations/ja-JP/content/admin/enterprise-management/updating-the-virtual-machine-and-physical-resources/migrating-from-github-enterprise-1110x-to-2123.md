@@ -50,10 +50,10 @@ shortTitle: Migrate from 11.10.x to 2.1.23
 1. 新しい{% data variables.product.prodname_enterprise %}2.1インスタンスをプロビジョニングしてください。 詳しい情報については、ターゲットのプラットフォームの"[プロビジョニングとインストール](/enterprise/2.1/admin/guides/installation/provisioning-and-installation/)"ガイドを参照してください。
 2. ブラウザで新しいレプリカアプライアンスのIPアドレスにアクセスして、所有する{% data variables.product.prodname_enterprise %}のライセンスをアップロードしてください。
 3. 管理者パスワードを設定してください。
-5. **Migrate（移行）**をクリックしてください。 ![インストールタイプの選択](/assets/images/enterprise/migration/migration-choose-install-type.png)
-6. バックアップホストへのアクセス用のSSHキーを"Add new SSH key（新しいSSHキーの追加）"に貼り付けてください。 ![バックアップの認証](/assets/images/enterprise/migration/migration-authorize-backup-host.png)
+5. **Migrate（移行）**をクリックしてください。 ![インストールタイプの選択](/assets/images/2021/10/enterprise/migration/migration-choose-install-type.png)
+6. バックアップホストへのアクセス用のSSHキーを"Add new SSH key（新しいSSHキーの追加）"に貼り付けてください。 ![バックアップの認証](/assets/images/2021/10/enterprise/migration/migration-authorize-backup-host.png)
 7. [**Add key**] をクリックしてから、[**Continue**] をクリックします。
-8. 新しいインスタンスへデータを移行するためにバックアップホストで実行する`ghe-restore`コマンドをコピーしてください。 ![移行の開始](/assets/images/enterprise/migration/migration-restore-start.png)
+8. 新しいインスタンスへデータを移行するためにバックアップホストで実行する`ghe-restore`コマンドをコピーしてください。 ![移行の開始](/assets/images/2021/10/enterprise/migration/migration-restore-start.png)
 9. 古いインスタンスでメンテナンスモードを有効化し、すべてのアクティブなプロセスが完了するのを待ってください。 詳しい情報については"[メンテナンスモードの有効化とスケジューリング](/enterprise/{{ currentVersion }}/admin/guides/installation/enabling-and-scheduling-maintenance-mode)"を参照してください。
 
   {% note %}
@@ -84,8 +84,8 @@ shortTitle: Migrate from 11.10.x to 2.1.23
   Visit https://169.254.1.1/setup/settings to review appliance configuration.
   ```
 
-12. 新しいインスタンスの復元ステータス画面に戻って、復元が完了したことを確認します。![復元完了画面](/assets/images/enterprise/migration/migration-status-complete.png)
-13. [**Continue to settings**] をクリックして、前のインスタンスからインポートされた設定情報を確認して調整します。 ![インポートされた設定をレビュー](/assets/images/enterprise/migration/migration-status-complete.png)
+12. 新しいインスタンスの復元ステータス画面に戻って、復元が完了したことを確認します。![復元完了画面](/assets/images/2021/10/enterprise/migration/migration-status-complete.png)
+13. [**Continue to settings**] をクリックして、前のインスタンスからインポートされた設定情報を確認して調整します。 ![インポートされた設定をレビュー](/assets/images/2021/10/enterprise/migration/migration-status-complete.png)
 14. **Save settings（設定の保存）**をクリックしてください。
 
   {% note %}

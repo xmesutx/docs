@@ -20,8 +20,8 @@ type: how_to
 
 Tus tableros de propuestas y solicitudes de extracción están disponibles en la parte superior de cualquier página. En cada tablero, puedes filtrar la lista para encontrar propuestas y solicitudes de extracción que creaste, que están asignadas a ti o en las cuales estás mencionado. También puedes encontrar solicitudes de extracción que te han pedido que revises.
 
-1. En la partes superior de cualquier página, haz clic en **Pull requests (Solicitudes de extracción)** o **Issues (Propuestas)**. ![Tableros de solicitudes de extracción o propuestas globales](/assets/images/help/overview/issues_and_pr_dashboard.png)
-2. Como alternativa, elige un filtro o [utiliza la barra de búsqueda para filtrar resultados más específicos](/articles/using-search-to-filter-issues-and-pull-requests). ![Lista de solicitudes de extracción con el filtro "Created" (Creado) seleccionado](/assets/images/help/overview/pr_dashboard_created.png)
+1. En la partes superior de cualquier página, haz clic en **Pull requests (Solicitudes de extracción)** o **Issues (Propuestas)**. ![Tableros de solicitudes de extracción o propuestas globales](/assets/images/2021/10/help/overview/issues_and_pr_dashboard.png)
+2. Como alternativa, elige un filtro o [utiliza la barra de búsqueda para filtrar resultados más específicos](/articles/using-search-to-filter-issues-and-pull-requests). ![Lista de solicitudes de extracción con el filtro "Created" (Creado) seleccionado](/assets/images/2021/10/help/overview/pr_dashboard_created.png)
 
 ## Leer más
 

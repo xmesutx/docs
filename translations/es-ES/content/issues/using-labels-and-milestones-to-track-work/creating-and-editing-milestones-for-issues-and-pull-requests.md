@@ -23,8 +23,8 @@ type: how_to
 {% data reusables.repositories.sidebar-issue-pr %}
 {% data reusables.project-management.milestones %}
 4. Elige una de las siguientes opciones:
-    - Para crear un nuevo hito, haz clic en **Nuevo hito**. ![Botón Nuevo hito](/assets/images/help/repository/new-milestone.png)
-    - Para editar un hito, haz clic en **Editar** junto al hito que deseas editar. ![Opción Editar hito](/assets/images/help/repository/edit-milestone.png)
+    - Para crear un nuevo hito, haz clic en **Nuevo hito**. ![Botón Nuevo hito](/assets/images/2021/10/help/repository/new-milestone.png)
+    - Para editar un hito, haz clic en **Editar** junto al hito que deseas editar. ![Opción Editar hito](/assets/images/2021/10/help/repository/edit-milestone.png)
 5. Escribe el título, la descripción y los demás cambios del hito, y luego haz clic en **Create milestone** (Crear hito) o **Save changes** (Guardar cambios). Los hitos interpretarán la sintaxis del lenguaje de marcado. Para obtener más información sobre la sintaxis de marcado, consulta la sección "[Sintaxis de marcado y formateado básica](/github/writing-on-github/basic-writing-and-formatting-syntax)".
 
 ## Eliminar hitos
@@ -34,7 +34,7 @@ Cuando eliminas hitos, las propuestas y las solicitudes de extracción no se ven
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 {% data reusables.project-management.milestones %}
-4. Junto al hito que deseas eliminar, haz clic en **Eliminar**. ![Opción Eliminar hito](/assets/images/help/repository/delete-milestone.png)
+4. Junto al hito que deseas eliminar, haz clic en **Eliminar**. ![Opción Eliminar hito](/assets/images/2021/10/help/repository/delete-milestone.png)
 
 ## Leer más
 

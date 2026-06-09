@@ -35,7 +35,7 @@ shortTitle: View releases & tags
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
 2. At the top of the Releases page, click **Tags**.
-![Tags page](/assets/images/help/releases/tags-list.png)
+![Tags page](/assets/images/2021/10/help/releases/tags-list.png)
 
 ## Further reading
 

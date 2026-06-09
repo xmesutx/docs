@@ -64,7 +64,7 @@ shortTitle: 从复刻提交到 PR 分支
   ```shell
   $ cd <em>FORK-OF-THE-REPOSITORY</em>
   ```
-7. 将分支切换到进行原始更改的拉取请求的比较分支。 如果您导航到原始拉取请求，您将在拉取请求的顶部看到比较分支。 ![比较分支示例](/assets/images/help/pull_requests/compare-branch-example.png) 在此例中，比较分支为 `test-branch`：
+7. 将分支切换到进行原始更改的拉取请求的比较分支。 如果您导航到原始拉取请求，您将在拉取请求的顶部看到比较分支。 ![比较分支示例](/assets/images/2021/10/help/pull_requests/compare-branch-example.png) 在此例中，比较分支为 `test-branch`：
   ```shell
   $ git checkout <em>test-branch</em>
   ```

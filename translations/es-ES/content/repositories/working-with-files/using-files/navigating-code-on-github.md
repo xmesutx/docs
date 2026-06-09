@@ -18,7 +18,7 @@ topics:
 
 La navegación de código te ayuda a leer, navegar y entender el código al mostrarte y enlazar las definiciones de una entidad nombrada que corresponda a la referencia de la misma, así como mostrando referencias que corresponden a la definición de dicha entidad.
 
-![Pantalla de navegación de código](/assets/images/help/repository/code-navigation-popover.png)
+![Pantalla de navegación de código](/assets/images/2021/12/help/repository/code-navigation-popover.png)
 
 La navegación de código utiliza la librería de código abierto [`tree-sitter`](https://github.com/tree-sitter/tree-sitter). Los siguientes lenguajes y estrategias de navegación son compatibles:
 
@@ -49,13 +49,13 @@ Los lanzamientos de características agregarán *navegación de código precisa*
 
 Puedes saltar a una definición de función o de método dentro del mismo repositorio si das clic en la llamada a dicha función o método dentro de un archivo.
 
-![Pestaña Jump-to-definition](/assets/images/help/repository/jump-to-definition-tab.png)
+![Pestaña Jump-to-definition](/assets/images/2021/10/help/repository/jump-to-definition-tab.png)
 
 ## Buscar todas las referencias de una función o método
 
 Puedes encontrar todas las referencias para una función o método dentro del mismo repositorio si das clic en el llamado a dicha función o método en un archivo y posteriormente das clic en la pestaña de **Referencias**.
 
-![Pestaña Find all references (Buscar todas las referencias)](/assets/images/help/repository/find-all-references-tab.png)
+![Pestaña Find all references (Buscar todas las referencias)](/assets/images/2021/10/help/repository/find-all-references-tab.png)
 
 ## Navegación precisa y basada en búsqueda
 
@@ -63,7 +63,7 @@ Alugnos lenguajes que son compatibles con {% data variables.product.prodname_dot
 
 Si no ves los resultados que esperas de una consulta de navegación de código precisa, puedes hacer clic en el enlace de "basada en búsqueda" en el mensaje emergente que se muestra para realizar una navegación basada en búsqueda.
 
-![Enlace de navegación de código basada en búsqueda](/assets/images/help/repository/search-based-code-navigation-link.png)
+![Enlace de navegación de código basada en búsqueda](/assets/images/2021/12/help/repository/search-based-code-navigation-link.png)
 
 Si tus resultados precisos te parecen inexactos, puedes enviar una solicitud de soporte.
 

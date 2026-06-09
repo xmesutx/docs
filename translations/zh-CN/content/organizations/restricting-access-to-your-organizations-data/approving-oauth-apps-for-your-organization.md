@@ -19,8 +19,8 @@ shortTitle: 批准 OAuth 应用程序
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.oauth_app_access %}
-5. 在要批准的应用程序的旁边，单击 **Review（审查）**。 ![审查申请链接](/assets/images/help/settings/settings-third-party-approve-review.png)
-6. 在审查申请的应用程序相关信息后，单击 **Grant access（授予访问）**。 ![授予访问按钮](/assets/images/help/settings/settings-third-party-approve-grant.png)
+5. 在要批准的应用程序的旁边，单击 **Review（审查）**。 ![审查申请链接](/assets/images/2021/10/help/settings/settings-third-party-approve-review.png)
+6. 在审查申请的应用程序相关信息后，单击 **Grant access（授予访问）**。 ![授予访问按钮](/assets/images/2021/10/help/settings/settings-third-party-approve-grant.png)
 
 ## 延伸阅读
 

@@ -27,5 +27,5 @@ shortTitle: Renovar organização paga
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. Em "Método de pagamento, clique em **Novo cartão**. ![Botão de Cobrança de novo cartão](/assets/images/help/billing/billing-new-card-button.png)
+1. Em "Método de pagamento, clique em **Novo cartão**. ![Botão de Cobrança de novo cartão](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

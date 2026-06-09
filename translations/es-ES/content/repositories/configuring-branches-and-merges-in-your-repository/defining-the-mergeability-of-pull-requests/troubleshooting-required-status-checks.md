@@ -43,7 +43,7 @@ remote: error: Required status check "ci-build" is failing
 
 Algunas veces, los resultados de las verificaciones de estado para la confirmación de la prueba de fusión y de la confirmación principal entrarán en conflicto. Si la confirmación de fusión de prueba tiene un estado, ésta pasará. De otra manera, el estado de la confirmación principal deberá pasar antes de que puedas fusionar la rama. Para obtener más información sobre las confirmaciones de fusiones de prueba, consulta la sección "[Extracciones](/rest/reference/pulls#get-a-pull-request)".
 
-![Ramas con conflictos en las confirmaciones de fusión](/assets/images/help/repository/req-status-check-conflicting-merge-commits.png)
+![Ramas con conflictos en las confirmaciones de fusión](/assets/images/2021/10/help/repository/req-status-check-conflicting-merge-commits.png)
 {% endif %}
 
 ## Se salta el manejo pero se requieren las verificaciones
@@ -83,7 +83,7 @@ jobs:
 
 Si alguien emite una solicitud de cambios que cambie un archivo de lenguaje de marcado en la raíz del repositorio, entonces el flujo de trabajo anterior no se ejecutará para nada debido al filtrado de ruta. Como resultado, no podrás fusionar la solicitud de cambios. Verías el siguiente estado en la solicitud de cambios:
 
-![Verificación requerida omitida, pero mostrada como pendiente](/assets/images/help/repository/PR-required-check-skipped.png)
+![Verificación requerida omitida, pero mostrada como pendiente](/assets/images/2021/11/help/repository/PR-required-check-skipped.png)
 
 Puedes arreglar esto creando un flujo de trabajo genérico con el mismo nombre, el cual devolverá "true" en cualquier caso similar al flujo de trabajo siguiente:
 
@@ -102,7 +102,7 @@ jobs:
 ```
 Ahora las verificaciones siempre pasarán cuando alguien envíe una solicitud de cambios que no cambie los archivos que se listan bajo `paths` en el primer flujo de trabajo.
 
-![Verificar omitidos pero que pasan debido a un flujo de trabajo genérico](/assets/images/help/repository/PR-required-check-passed-using-generic.png)
+![Verificar omitidos pero que pasan debido a un flujo de trabajo genérico](/assets/images/2021/11/help/repository/PR-required-check-passed-using-generic.png)
 
 {% note %}
 

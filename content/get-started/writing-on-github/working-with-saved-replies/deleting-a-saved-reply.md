@@ -14,4 +14,4 @@ versions:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.saved_replies %}
 3. Under "Saved replies", next to the saved reply you want to delete, click {% octicon "x" aria-label="The X" %}.  
-![Delete saved reply](/assets/images/help/settings/saved-replies-delete-existing.png)
+![Delete saved reply](/assets/images/2021/10/help/settings/saved-replies-delete-existing.png)

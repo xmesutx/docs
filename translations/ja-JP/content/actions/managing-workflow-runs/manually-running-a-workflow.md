@@ -24,9 +24,9 @@ shortTitle: Manually run a workflow
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. 左側のサイドバーで、実行するワークフローをクリックします。 ![アクション選択ワークフロー](/assets/images/actions-select-workflow.png)
-1. ワークフロー実行の一覧の上にある**Run workflow（ワークフローの実行）**を選択します。 ![アクション ワークフローのディスパッチ](/assets/images/actions-workflow-dispatch.png)
-1. Use the **Branch** dropdown to select the workflow's branch, and type the input parameters. **Run workflow（ワークフローの実行）**をクリックします。 ![アクションはワークフローを手動で実行します](/assets/images/actions-manually-run-workflow.png)
+1. 左側のサイドバーで、実行するワークフローをクリックします。 ![アクション選択ワークフロー](/assets/images/2021/10/actions-select-workflow.png)
+1. ワークフロー実行の一覧の上にある**Run workflow（ワークフローの実行）**を選択します。 ![アクション ワークフローのディスパッチ](/assets/images/2021/10/actions-workflow-dispatch.png)
+1. Use the **Branch** dropdown to select the workflow's branch, and type the input parameters. **Run workflow（ワークフローの実行）**をクリックします。 ![アクションはワークフローを手動で実行します](/assets/images/2021/10/actions-manually-run-workflow.png)
 
 {% endwebui %}
 

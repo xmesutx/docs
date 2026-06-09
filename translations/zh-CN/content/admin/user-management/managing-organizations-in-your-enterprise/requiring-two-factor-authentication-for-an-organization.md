@@ -51,7 +51,7 @@ shortTitle: 需要 2FA
 {% data reusables.audit_log.octicon_icon %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.audit_log.audit_log_sidebar_for_site_admins %}
-4. 使用 `reason:two_factor_requirement_non_compliance` 输入您的搜索查询。 ![显示因双重身份验证不合规而被移除的用户的员工工具审核日志事件](/assets/images/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) 要缩小以下对象的搜索范围，请执行相应地操作：
+4. 使用 `reason:two_factor_requirement_non_compliance` 输入您的搜索查询。 ![显示因双重身份验证不合规而被移除的用户的员工工具审核日志事件](/assets/images/2021/10/help/2fa/2fa_noncompliance_stafftools_audit_log_search.png) 要缩小以下对象的搜索范围，请执行相应地操作：
     - 对于移除的组织成员，请输入 `action:org.remove_member AND reason:two_factor_requirement_non_compliance`
     - 对于移除的外部协作者，请输入 `action:org.remove_outside_collaborator AND reason:two_factor_requirement_non_compliance`
 

@@ -18,7 +18,7 @@ Los minutos de ejecución facturables para un job solo se muestran en aquellos j
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
-1. Debajo del resumen del job, puedes ver el tiempo de ejecución del mismo. Para ver los detalles sobre el tiempo facturable de la ejecución de jobs, da clic en el tiempo que se muestra debajo de **tiempo facturable**. ![Enlace para los detalles de tiempo facturable y de ejecución](/assets/images/help/repository/view-run-billable-time.png)
+1. Debajo del resumen del job, puedes ver el tiempo de ejecución del mismo. Para ver los detalles sobre el tiempo facturable de la ejecución de jobs, da clic en el tiempo que se muestra debajo de **tiempo facturable**. ![Enlace para los detalles de tiempo facturable y de ejecución](/assets/images/2021/10/help/repository/view-run-billable-time.png)
 
    {% note %}
 

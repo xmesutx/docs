@@ -30,4 +30,4 @@ Para obtener más información, consulta "[Transferir la propiedad de la organiz
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.organizations %}
-3. En "Organizations" (Organizaciones), busca la organización de la que quieres eliminarte, luego haz clic en **Leave** (Abandonar). ![Botón Leave organization (Abandonar organización) con roles exhibidos](/assets/images/help/organizations/context-leave-organization-with-roles-shown.png)
+3. En "Organizations" (Organizaciones), busca la organización de la que quieres eliminarte, luego haz clic en **Leave** (Abandonar). ![Botón Leave organization (Abandonar organización) con roles exhibidos](/assets/images/2021/10/help/organizations/context-leave-organization-with-roles-shown.png)

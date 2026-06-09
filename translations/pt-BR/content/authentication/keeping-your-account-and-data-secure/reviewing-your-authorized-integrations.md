@@ -27,8 +27,8 @@ shortTitle: Integrações autorizadas
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.access_applications %}
-3. Clique na aba **{% data variables.product.prodname_github_apps %} autorizado**. ![Aba {% data variables.product.prodname_github_apps %} autorizado](/assets/images/help/settings/settings-authorized-github-apps-tab.png)
-3. Revise o {% data variables.product.prodname_github_apps %} que tem acesso à sua conta. Para os aplicativos não reconhecidos ou desatualizados, clique em **Revoke** (Revogar). Para revogar todos os {% data variables.product.prodname_github_apps %}, clique em **Revogar todos**. ![Lista de {% data variables.product.prodname_github_app %} autorizado](/assets/images/help/settings/revoke-github-app.png)
+3. Clique na aba **{% data variables.product.prodname_github_apps %} autorizado**. ![Aba {% data variables.product.prodname_github_apps %} autorizado](/assets/images/2021/10/help/settings/settings-authorized-github-apps-tab.png)
+3. Revise o {% data variables.product.prodname_github_apps %} que tem acesso à sua conta. Para os aplicativos não reconhecidos ou desatualizados, clique em **Revoke** (Revogar). Para revogar todos os {% data variables.product.prodname_github_apps %}, clique em **Revogar todos**. ![Lista de {% data variables.product.prodname_github_app %} autorizado](/assets/images/2021/10/help/settings/revoke-github-app.png)
 
 ## Leia mais
 {% ifversion fpt or ghec %}

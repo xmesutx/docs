@@ -25,7 +25,7 @@ Você pode criar tabelas com barras verticais `|` e hifens `-`. Os hifens são u
 |  Célula de conteúdo |  Célula de conteúdo |
 ```
 
-![Tabela construída](/assets/images/help/writing/table-basic-rendered.png)
+![Tabela construída](/assets/images/2021/10/help/writing/table-basic-rendered.png)
 
 As barras verticais em cada extremo da tabela são opcionais.
 
@@ -38,7 +38,7 @@ As células podem ter largura variada e não precisam estar alinhadas perfeitame
 | git diff | Mostra as diferenças do arquivo que não foram preparadas |
 ```
 
-![Tabela construída com largura de célula variada](/assets/images/help/writing/table-varied-columns-rendered.png)
+![Tabela construída com largura de célula variada](/assets/images/2021/10/help/writing/table-varied-columns-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -53,7 +53,7 @@ Você pode usar [formatação](/articles/basic-writing-and-formatting-syntax), c
 | `git diff` | Mostra as diferenças do arquivo que **não foram** preparadas |
 ```
 
-![Tabela construída com texto formatado](/assets/images/help/writing/table-inline-formatting-rendered.png)
+![Tabela construída com texto formatado](/assets/images/2021/10/help/writing/table-inline-formatting-rendered.png)
 
 Você pode alinhar o texto à esquerda, direita ou centralizar uma coluna incluindo dois pontos `:` à esquerda, direita ou nos dois lados dos hifens que estão dentro da linha de cabeçalho.
 
@@ -64,7 +64,7 @@ Você pode alinhar o texto à esquerda, direita ou centralizar uma coluna inclui
 | git diff     | git diff       | git diff      |
 ```
 
-![Tabela construída com alinhamento de texto à esquerda, centralizado e à direita](/assets/images/help/writing/table-aligned-text-rendered.png)
+![Tabela construída com alinhamento de texto à esquerda, centralizado e à direita](/assets/images/2021/10/help/writing/table-aligned-text-rendered.png)
 
 Para incluir uma barra vertical `|` como conteúdo dentro de sua célula, use `\` antes da barra vertical:
 
@@ -75,7 +75,7 @@ Para incluir uma barra vertical `|` como conteúdo dentro de sua célula, use `\
 | Barra  | \|        |
 ```
 
-![Tabela construída com barra vertical solta](/assets/images/help/writing/table-escaped-character-rendered.png)
+![Tabela construída com barra vertical solta](/assets/images/2021/10/help/writing/table-escaped-character-rendered.png)
 
 ## Leia mais
 

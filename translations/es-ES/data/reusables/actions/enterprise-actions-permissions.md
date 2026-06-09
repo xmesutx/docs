@@ -9,4 +9,4 @@
 
   {% endnote %}
   {% endif %}
-  ![Habilita, inhabilita o limita las acciones para esta cuenta empresarial](/assets/images/help/organizations/enterprise-actions-policy.png)
+  ![Habilita, inhabilita o limita las acciones para esta cuenta empresarial](/assets/images/2021/10/help/organizations/enterprise-actions-policy.png)

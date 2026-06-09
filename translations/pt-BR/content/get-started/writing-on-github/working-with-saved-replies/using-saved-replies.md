@@ -15,8 +15,8 @@ versions:
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 2. Clique na pull request ou no problema desejado.
-3. Para adicionar uma resposta salva, clique em {% octicon "reply" aria-label="The mail reply" %} no campo de comentários. ![Botão Saved replies (Respostas salvas)](/assets/images/help/writing/saved-replies-button.png)
-4. Na lista, selecione a resposta salva à qual deseja adicionar seu comentário. ![Respostas salvas](/assets/images/help/settings/saved-replies.png)
+3. Para adicionar uma resposta salva, clique em {% octicon "reply" aria-label="The mail reply" %} no campo de comentários. ![Botão Saved replies (Respostas salvas)](/assets/images/2021/10/help/writing/saved-replies-button.png)
+4. Na lista, selecione a resposta salva à qual deseja adicionar seu comentário. ![Respostas salvas](/assets/images/2021/10/help/settings/saved-replies.png)
 
 {% tip %}
 

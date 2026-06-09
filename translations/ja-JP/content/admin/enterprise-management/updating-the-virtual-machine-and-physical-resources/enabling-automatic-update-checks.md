@@ -27,13 +27,13 @@ shortTitle: Enable automatic update checks
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.updates-tab %}
-4. **Yes, automatically check for updates（はい、アップデートを自動的にチェックする）**をクリックしてください。 ![自動更新を有効化するためのボタン](/assets/images/enterprise/management-console/enable_updates_button.png)
+4. **Yes, automatically check for updates（はい、アップデートを自動的にチェックする）**をクリックしてください。 ![自動更新を有効化するためのボタン](/assets/images/2021/10/enterprise/management-console/enable_updates_button.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 インスタンスが最新の状態になっているかを知るには、Updatesタブのバナーを調べてください。
 
-![GitHub Enterprise Server のリリースを示すバナー](/assets/images/enterprise/management-console/up-to-date-banner.png)
+![GitHub Enterprise Server のリリースを示すバナー](/assets/images/2021/10/enterprise/management-console/up-to-date-banner.png)
 
 **Logs（ログ）**の下で、最も直近のアップデートチェックのステータスを確認できます。
 
-![アップデートのログ](/assets/images/enterprise/management-console/update-log.png)
+![アップデートのログ](/assets/images/2021/10/enterprise/management-console/update-log.png)

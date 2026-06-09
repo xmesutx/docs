@@ -28,9 +28,9 @@ shortTitle: 将协作者转换为成员
 {% data reusables.organizations.people %}
 {% data reusables.organizations.people_tab_outside_collaborators %}
 {% ifversion fpt or ghec %}
-5. 在您希望其成为成员的外部协作者姓名右侧，使用 {% octicon "gear" aria-label="The gear icon" %} 下拉菜单，然后单击 **Invite to organization（邀请加入组织）**。![邀请外部协作者加入组织](/assets/images/help/organizations/invite_outside_collaborator_to_organization.png)
+5. 在您希望其成为成员的外部协作者姓名右侧，使用 {% octicon "gear" aria-label="The gear icon" %} 下拉菜单，然后单击 **Invite to organization（邀请加入组织）**。![邀请外部协作者加入组织](/assets/images/2021/10/help/organizations/invite_outside_collaborator_to_organization.png)
 {% else %}
-5. 在您希望其成为成员的外部协作者姓名右侧，单击 **Invite to organization（邀请加入组织）**。![邀请外部协作者加入组织](/assets/images/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
+5. 在您希望其成为成员的外部协作者姓名右侧，单击 **Invite to organization（邀请加入组织）**。![邀请外部协作者加入组织](/assets/images/2021/10/enterprise/orgs-and-teams/invite_outside_collabs_to_org.png)
 {% endif %}
 {% data reusables.organizations.choose-to-restore-privileges %}
 {% data reusables.organizations.choose-user-role-send-invitation %}

@@ -1,1 +1,1 @@
-1. Debajo de "{% octicon "law" aria-label="The law icon" %} Políticas", da clic en **Páginas**. ![Pestaña de páginas en la barra lateral de la empresa](/assets/images/enterprise/business-accounts/pages-tab.png)
+1. Debajo de "{% octicon "law" aria-label="The law icon" %} Políticas", da clic en **Páginas**. ![Pestaña de páginas en la barra lateral de la empresa](/assets/images/2021/10/enterprise/business-accounts/pages-tab.png)

@@ -25,7 +25,7 @@ shortTitle: 查看分支
 
 4. （可选）使用右上角的搜索字段。 它在分支名称上提供简单、不区分大小写的子字符串搜索。 它不支持任何其他查询语法。
 
-![Atom 仓库的分支页面](/assets/images/help/branches/branches-overview-atom.png)
+![Atom 仓库的分支页面](/assets/images/2021/10/help/branches/branches-overview-atom.png)
 
 ## 延伸阅读
 

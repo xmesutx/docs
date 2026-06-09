@@ -25,7 +25,7 @@ If collaborators on your repository don't have {% data variables.large_files.pro
 
 {% data variables.product.product_name %} does not render {% data variables.large_files.product_name_short %} objects in pull requests. Only the pointer file is shown:
 
-![Sample PR for large files](/assets/images/help/large_files/large_files_pr.png)
+![Sample PR for large files](/assets/images/2021/10/help/large_files/large_files_pr.png)
 
 For more information about pointer files, see "[About {% data variables.large_files.product_name_long %}](/github/managing-large-files/about-git-large-file-storage#pointer-file-format)."
 

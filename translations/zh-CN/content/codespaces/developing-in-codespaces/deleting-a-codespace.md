@@ -33,7 +33,7 @@ shortTitle: Delete a codespace
 
 2. 在要删除的代码空间的右侧，单击 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}，然后单击 **{% octicon "trash" aria-label="The trash icon" %} Delete（删除）**
 
-   ![删除按钮](/assets/images/help/codespaces/delete-codespace.png)
+   ![删除按钮](/assets/images/2021/10/help/codespaces/delete-codespace.png)
 
 {% endwebui %}
 

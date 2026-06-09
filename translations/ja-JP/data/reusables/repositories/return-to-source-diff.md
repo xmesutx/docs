@@ -2,4 +2,4 @@
 
    ソースdiffのビューに戻るには、**{% octicon "code" aria-label="The source diff icon" %}**ボタンをクリックしてください。
 
-   ![ソース diff ボタン](/assets/images/help/pull_requests/dependency-review-source-diff.png)
+   ![ソース diff ボタン](/assets/images/2021/10/help/pull_requests/dependency-review-source-diff.png)

@@ -20,17 +20,17 @@ shortTitle: 服务挂钩疑难解答
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. 浏览到您要调查的仓库。
-3. 单击导航侧栏中的 **Hooks** 链接。 ![挂钩侧边栏](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
-4. 单击有问题的服务挂钩下的 **Latest Delivery** 链接。 ![挂钩详情](/assets/images/enterprise/settings/Enterprise-Hooks-Details.png)
+3. 单击导航侧栏中的 **Hooks** 链接。 ![挂钩侧边栏](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+4. 单击有问题的服务挂钩下的 **Latest Delivery** 链接。 ![挂钩详情](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Details.png)
 5. 在 **Remote Calls** 下，您将看到发布到远程服务器时使用的标头以及远程服务器发送回安装的响应。
 
 ## 查看有效负载
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. 浏览到您要调查的仓库。
-3. 单击导航侧栏中的 **Hooks** 链接。 ![挂钩侧边栏](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+3. 单击导航侧栏中的 **Hooks** 链接。 ![挂钩侧边栏](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
 4. 单击有问题的服务挂钩下的 **Latest Delivery** 链接。
-5. 单击 **Delivery（交付）**。 ![查看有效负载](/assets/images/enterprise/settings/Enterprise-Hooks-Payload.png)
+5. 单击 **Delivery（交付）**。 ![查看有效负载](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Payload.png)
 
 ## 查看过去的交付
 
@@ -38,6 +38,6 @@ shortTitle: 服务挂钩疑难解答
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. 浏览到您要调查的仓库。
-3. 单击导航侧栏中的 **Hooks** 链接。 ![挂钩侧边栏](/assets/images/enterprise/settings/Enterprise-Hooks-Sidebar.png)
+3. 单击导航侧栏中的 **Hooks** 链接。 ![挂钩侧边栏](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-Sidebar.png)
 4. 单击有问题的服务挂钩下的 **Latest Delivery** 链接。
-5. 要查看针对该特定挂钩的其他交付，请单击 **More for this Hook ID**： ![查看更多交付](/assets/images/enterprise/settings/Enterprise-Hooks-More-Deliveries.png)
+5. 要查看针对该特定挂钩的其他交付，请单击 **More for this Hook ID**： ![查看更多交付](/assets/images/2021/10/enterprise/settings/Enterprise-Hooks-More-Deliveries.png)

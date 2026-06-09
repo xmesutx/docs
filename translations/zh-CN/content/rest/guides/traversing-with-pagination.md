@@ -148,7 +148,7 @@ end
 
 一般来说，使用分页时，您的目标不是要抓住所有可能的结果，而是要产生一组导航，如下所示：
 
-![分页链接示例](/assets/images/pagination_sample.png)
+![分页链接示例](/assets/images/2021/10/pagination_sample.png)
 
 让我们勾勒出一个可能需要做什么的微观版本。
 

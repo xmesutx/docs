@@ -80,7 +80,7 @@ Em seguida, em _views/index.erb_, cole este conteúdo:
 
 Observe também que a URL usa o parâmetro da consulta do `escopo` para definir os [escopos][oauth scopes] solicitados pelo aplicativo. Para o nosso aplicativo, estamos solicitando o escopo `user:email` para ler endereços de e-mail privados.
 
-Acesse, a partir do seu navegador, `http://localhost:4567`. Depois de clicar no link, você será direcionado para {% data variables.product.product_name %} e visualizará uma caixa de diálogo que se parece com isso: ![Diálogo do GitHub's OAuth](/assets/images/oauth_prompt.png)
+Acesse, a partir do seu navegador, `http://localhost:4567`. Depois de clicar no link, você será direcionado para {% data variables.product.product_name %} e visualizará uma caixa de diálogo que se parece com isso: ![Diálogo do GitHub's OAuth](/assets/images/2021/10/oauth_prompt.png)
 
 Se você confiar em você, clique em **Autorizar aplicativo**. Ah ha! O Sinatra envia um erro `404`. O que está acontecendo?!
 

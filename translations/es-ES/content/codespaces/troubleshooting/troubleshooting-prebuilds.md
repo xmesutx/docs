@@ -20,7 +20,7 @@ For more information about {% data variables.product.prodname_codespaces %} preb
 
 If multiple machine types are available when you create a codespace then a dialog box is displayed giving you a choice of machine types. This will display the "{% octicon "zap" aria-label="The zap icon" %} Prebuild ready" label beside machine types for which prebuilds are available.
 
-![The dialog box for choosing a machine type](/assets/images/help/codespaces/choose-custom-machine-type.png)
+![The dialog box for choosing a machine type](/assets/images/2021/10/help/codespaces/choose-custom-machine-type.png)
 
 If you have your {% data variables.product.prodname_codespaces %} editor preference set to "Visual Studio Code for Web" then the "Setting up your codespace" page will show the message "Prebuilt codespace found" if a prebuild is being used. Similarly, if your editor preference is "Visual Studio Code" then the integrated terminal will contain the message "You are on a prebuilt codespace defined by the prebuild configuration for your repository" when you create a new codespace. For more information, see "[Setting your default editor for Codespaces](/codespaces/customizing-your-codespace/setting-your-default-editor-for-codespaces)."
 

@@ -23,7 +23,7 @@ shortTitle: 审计用户
 
 审核日志仪表板让您能够直观地看到企业中的审计数据。
 
-![实例级审核日志仪表板](/assets/images/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
+![实例级审核日志仪表板](/assets/images/2021/10/enterprise/site-admin-settings/audit-log-dashboard-admin-center.png)
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}

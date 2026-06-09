@@ -27,7 +27,7 @@ El reutilizar flujos de trabajo evita la duplicación. Esto hace que los flujos 
 
 El siguiente diagrama muestra tres jobs de compilación en la parte izquierda del mismo. Después de que cada uno de estos jobs se complete con éxito, se ejecutará un job dependiente llamado "Deploy". Este job crea un flujo de trabajo reutilizable que contiene tres jobs: "Staging", "Review" y "Production". El job de despliegue "Production" solo se ejecuta después de que el job "Staging" se haya completado con éxito. El utilizar un flujo de trabajo reutilizable para ejecutar jobs de despliegue te permite ejecutarlos para cada compilación sin duplicar el código en los flujos de trabajo.
 
-![Diagrama de un flujo de trabajo reutilizable para despliegue](/assets/images/help/images/reusable-workflows-ci-cd.png)
+![Diagrama de un flujo de trabajo reutilizable para despliegue](/assets/images/2021/11/help/images/reusable-workflows-ci-cd.png)
 
 A un flujo de trabajo que utiliza otro flujo de trabajo se le llama flujo de trabajo "llamante". El flujo de trabajo reutilizable es un flujo "llamado". Un flujo de trabajo llamante puede utilizar varios flujos de trabajo llamados. Cada flujo de trabajo llamado se referencia en una línea simple. El resultado es que el archivo de flujo de trabajo llamante podrá contener solo unas cuantas líneas de YAML, pero podría realizar una cantidad grande de tareas cuando se ejecute. Cuando reutilizas un flujo de trabajo, se utiliza todo el flujo de trabajo llamado justo como si fuera parte del flujo de trabajo llamante.
 

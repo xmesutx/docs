@@ -83,9 +83,9 @@ When you connect an IdP group to a {% data variables.product.product_name %} tea
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
 6. Under "Identity Provider Groups", use the drop-down menu, and select up to 5 identity provider groups.
-    ![Drop-down menu to choose identity provider groups](/assets/images/help/teams/choose-an-idp-group.png){% elsif ghae %}
+    ![Drop-down menu to choose identity provider groups](/assets/images/2021/10/help/teams/choose-an-idp-group.png){% elsif ghae %}
 6. Under "Identity Provider Group", use the drop-down menu, and select an identity provider group from the list.
-    ![Drop-down menu to choose identity provider group](/assets/images/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
+    ![Drop-down menu to choose identity provider group](/assets/images/2021/10/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
 7. Click **Save changes**.
 
 ## Disconnecting an IdP group from a team
@@ -98,7 +98,7 @@ If you disconnect an IdP group from a {% data variables.product.prodname_dotcom 
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
 6. Under "Identity Provider Groups", to the right of the IdP group you want to disconnect, click {% octicon "x" aria-label="X symbol" %}. 
-    ![Unselect a connected IdP group from the GitHub team](/assets/images/help/teams/unselect-idp-group.png){% elsif ghae %}
+    ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/help/teams/unselect-idp-group.png){% elsif ghae %}
 6. Under "Identity Provider Group", to the right of the IdP group you want to disconnect, click {% octicon "x" aria-label="X symbol" %}. 
-    ![Unselect a connected IdP group from the GitHub team](/assets/images/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
+    ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
 7. Click **Save changes**.

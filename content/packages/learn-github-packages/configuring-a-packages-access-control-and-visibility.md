@@ -29,9 +29,9 @@ If your package is private or internal and owned by an organization, then you ca
 
 {% data reusables.package_registry.package-settings-from-user-level %}
 1. On the package settings page, click **Invite teams or people** and enter the name, username, or email of the person you want to give access. Teams cannot be given access to a container image owned by a user account.
-  ![Container access invite button](/assets/images/help/package-registry/container-access-invite.png)
+  ![Container access invite button](/assets/images/2021/10/help/package-registry/container-access-invite.png)
 1. Next to the username or team name, use the "Role" drop-down menu to select a desired permission level.
-  ![Container access options](/assets/images/help/package-registry/container-access-control-options.png)
+  ![Container access options](/assets/images/2021/10/help/package-registry/container-access-control-options.png)
 
 The selected users will automatically be given access and don't need to accept an invitation first.
 
@@ -43,9 +43,9 @@ If your package is private or internal and owned by an organization, then you ca
 
 {% data reusables.package_registry.package-settings-from-org-level %}
 1. On the package settings page, click **Invite teams or people** and enter the name, username, or email of the person you want to give access. You can also enter a team name from the organization to give all team members access.
-  ![Container access invite button](/assets/images/help/package-registry/container-access-invite.png)
+  ![Container access invite button](/assets/images/2021/10/help/package-registry/container-access-invite.png)
 1. Next to the username or team name, use the "Role" drop-down menu to select a desired permission level.
-  ![Container access options](/assets/images/help/package-registry/container-access-control-options.png)
+  ![Container access options](/assets/images/2021/10/help/package-registry/container-access-control-options.png)
 
 The selected users or teams will automatically be given access and don't need to accept an invitation first.
 
@@ -59,7 +59,7 @@ Once a repository is synced, you can't access the package's granular access sett
 
 {% data reusables.package_registry.package-settings-from-org-level %}
 2. Under "Repository source", select **Inherit access from repository (recommended)**.
-  ![Inherit repo access checkbox](/assets/images/help/package-registry/inherit-repo-access-for-package.png)
+  ![Inherit repo access checkbox](/assets/images/2021/10/help/package-registry/inherit-repo-access-for-package.png)
 
 ## Ensuring workflow access to your package
 
@@ -77,11 +77,11 @@ The specified repository does not need to be the repository where the source cod
 
 {% data reusables.package_registry.package-settings-from-user-level %}
 1. In the left sidebar, click **Actions access**.
-  !["Actions access" option in left menu](/assets/images/help/package-registry/organization-repo-access-for-a-package.png)
+  !["Actions access" option in left menu](/assets/images/2021/10/help/package-registry/organization-repo-access-for-a-package.png)
 2. To ensure your workflow has access to your container package, you must add the repository where the workflow is stored. Click **Add repository** and search for the repository you want to add.
-   !["Add repository" button](/assets/images/help/package-registry/add-repository-button.png)
+   !["Add repository" button](/assets/images/2021/10/help/package-registry/add-repository-button.png)
 3. Using the "role" drop-down menu, select the default access level that you'd like the repository to have to your container image.
-  ![Permission access levels to give to repositories](/assets/images/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
+  ![Permission access levels to give to repositories](/assets/images/2021/10/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
 
 To further customize access to your container image, see "[Configuring access to container images for your personal account](#configuring-access-to-container-images-for-your-personal-account)."
 
@@ -89,11 +89,11 @@ To further customize access to your container image, see "[Configuring access to
 
 {% data reusables.package_registry.package-settings-from-org-level %}
 1. In the left sidebar, click **Actions access**.
-  !["Actions access" option in left menu](/assets/images/help/package-registry/organization-repo-access-for-a-package.png)
+  !["Actions access" option in left menu](/assets/images/2021/10/help/package-registry/organization-repo-access-for-a-package.png)
 2. Click **Add repository** and search for the repository you want to add.
-   !["Add repository" button](/assets/images/help/package-registry/add-repository-button.png)
+   !["Add repository" button](/assets/images/2021/10/help/package-registry/add-repository-button.png)
 3. Using the "role" drop-down menu, select the default access level that you'd like repository members to have to your container image. Outside collaborators will not be included.
-  ![Permission access levels to give to repositories](/assets/images/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
+  ![Permission access levels to give to repositories](/assets/images/2021/10/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
 
 To further customize access to your container image, see "[Configuring access to container images for an organization](#configuring-access-to-container-images-for-an-organization)."
 
@@ -109,21 +109,21 @@ Once you've selected the package you're interested in sharing with codespaces in
 
 1. In the right sidebar, click **Package settings**.
 
-   !["Package settings" option in right menu](/assets/images/help/package-registry/package-settings.png)
+   !["Package settings" option in right menu](/assets/images/2021/11/help/package-registry/package-settings.png)
    
 2. Under "Manage Codespaces access", click **Add repository**.
 
-   !["Add repository" button](/assets/images/help/package-registry/manage-codespaces-access-blank.png)
+   !["Add repository" button](/assets/images/2021/11/help/package-registry/manage-codespaces-access-blank.png)
 
 3. Search for the repository you want to add.
 
-   !["Add repository" button](/assets/images/help/package-registry/manage-codespaces-access-search.png)
+   !["Add repository" button](/assets/images/2021/11/help/package-registry/manage-codespaces-access-search.png)
    
 4. Repeat for any additional repositories you would like to allow access.
 
 5. If the codespaces for a repository no longer need access to an image, you can remove access.
 
-   !["Remove repository" button](/assets/images/help/package-registry/manage-codespaces-access-item.png)
+   !["Remove repository" button](/assets/images/2021/11/help/package-registry/manage-codespaces-access-item.png)
 
 ## Configuring visibility of container images for your personal account
 
@@ -140,7 +140,7 @@ A public package can be accessed anonymously without authentication. Once you ma
 
     {% endwarning %}
     - To make the container image visible to a custom selection of people, click **Make private**.
-  ![Container visibility options](/assets/images/help/package-registry/container-visibility-option.png)
+  ![Container visibility options](/assets/images/2021/10/help/package-registry/container-visibility-option.png)
 
 ## Container creation visibility for organization members
 
@@ -153,7 +153,7 @@ You can choose the visibility of containers that organization members can publis
     - To enable organization members to create public container images, click **Public**.
     - To enable organization members to create private container images that are only visible to other organization members, click **Private**. You can further customize the visibility of private container images.
     - To enable organization members to create internal container images that are visible to all organization members, click **Internal**. If the organization belongs to an enterprise, the container images will be visible to all enterprise members.
-    ![Visibility options for container images published by organization members](/assets/images/help/package-registry/container-creation-org-settings.png)
+    ![Visibility options for container images published by organization members](/assets/images/2021/10/help/package-registry/container-creation-org-settings.png)
 
 ## Configuring visibility of container images for an organization
 
@@ -170,4 +170,4 @@ A public package can be accessed anonymously without authentication. Once you ma
 
     {% endwarning %}
     - To make the container image visible to a custom selection of people, click **Make private**.
-  ![Container visibility options](/assets/images/help/package-registry/container-visibility-option.png)
+  ![Container visibility options](/assets/images/2021/10/help/package-registry/container-visibility-option.png)

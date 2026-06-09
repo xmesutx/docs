@@ -72,8 +72,8 @@ Você deve ter acesso administrativo no seu IdP para configurar o aplicativo par
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. Em "Provisionamento do Usuário do SCIM", selecione **Exigir o provisionamento do usuário do SCIM**. ![Caixa de seleção para "Exigir o provisionamento do usuário do SCIM" nas configurações de segurança das empresas](/assets/images/help/enterprises/settings-require-scim-user-provisioning.png)
-1. Clique em **Salvar**. ![Salvar botão em "Exigir o provisionamento do usuário SCIM" nas configurações de segurança da empresa](/assets/images/help/enterprises/settings-scim-save.png)
+1. Em "Provisionamento do Usuário do SCIM", selecione **Exigir o provisionamento do usuário do SCIM**. ![Caixa de seleção para "Exigir o provisionamento do usuário do SCIM" nas configurações de segurança das empresas](/assets/images/2021/10/help/enterprises/settings-require-scim-user-provisioning.png)
+1. Clique em **Salvar**. ![Salvar botão em "Exigir o provisionamento do usuário SCIM" nas configurações de segurança da empresa](/assets/images/2021/10/help/enterprises/settings-scim-save.png)
 1. Configurar provisionamento de usuário no aplicativo para {% data variables.product.product_name %} no seu IdP.
 
   Os seguintes IdPs fornecem documentação sobre configuração de provisionamento para {% data variables.product.product_name %}. Se seu IdP não estiver listado, entre em contato com seu IdP para solicitar suporte para {% data variables.product.product_name %}.

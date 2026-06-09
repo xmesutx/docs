@@ -26,9 +26,9 @@ Las personas con permisos administrativos en una asesoría de seguridad pueden e
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. En el listado de "Asesorías de Seguridad", da clic sobre aquella en la que quieras eliminar a algún colaborador. ![Asesoría de seguridad en la lista](/assets/images/help/security/security-advisory-in-list.png)
-5. En el lado derecho de la página, debajo de "Colaboradores", encuentra el nombre del usuario o equipo al que quieres eliminar de la asesoría de seguridad. ![Colaborador de la asesoría de seguridad](/assets/images/help/security/security-advisory-collaborator.png)
-6. Al lado del colaborador que deseas eliminar, haz clic en el icono **X**. ![Icono X para eliminar al colaborador de la asesoría de seguridad](/assets/images/help/security/security-advisory-remove-collaborator-x.png)
+4. En el listado de "Asesorías de Seguridad", da clic sobre aquella en la que quieras eliminar a algún colaborador. ![Asesoría de seguridad en la lista](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. En el lado derecho de la página, debajo de "Colaboradores", encuentra el nombre del usuario o equipo al que quieres eliminar de la asesoría de seguridad. ![Colaborador de la asesoría de seguridad](/assets/images/2021/10/help/security/security-advisory-collaborator.png)
+6. Al lado del colaborador que deseas eliminar, haz clic en el icono **X**. ![Icono X para eliminar al colaborador de la asesoría de seguridad](/assets/images/2021/10/help/security/security-advisory-remove-collaborator-x.png)
 
 ## Leer más
 

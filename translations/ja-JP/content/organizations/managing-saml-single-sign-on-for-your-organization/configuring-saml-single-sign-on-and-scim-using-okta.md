@@ -44,7 +44,7 @@ SCIM を有効にすると、Okta で {% data variables.product.prodname_ghe_clo
 1. [**Authenticate with Github Enterprise Cloud - Organization**] をクリックします。
 1. Organization 名の右にある [**Grant**] をクリックします。
 
-  ![Organization にアクセスできるよう Okta SCIM インテグレーションを認証する [Grant] ボタン](/assets/images/help/saml/okta-scim-integration-grant-organization-access.png)
+  ![Organization にアクセスできるよう Okta SCIM インテグレーションを認証する [Grant] ボタン](/assets/images/2021/10/help/saml/okta-scim-integration-grant-organization-access.png)
 
   {% note %}
 

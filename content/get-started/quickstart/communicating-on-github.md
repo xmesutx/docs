@@ -69,7 +69,7 @@ You can create and participate in issues, pull requests and team discussions, de
 
 This example illustrates how a {% data variables.product.prodname_dotcom %} user created an issue in our documentation open source repository to make us aware of a bug, and discuss a fix. 
 
-![Example of issue](/assets/images/help/issues/issue-example.png)
+![Example of issue](/assets/images/2021/10/help/issues/issue-example.png)
 
 - A user noticed that the blue color of the banner at the top of the page in the Chinese version of the {% data variables.product.prodname_dotcom %} Docs makes the text in the banner unreadable. 
 - The user created an issue in the repository, stating the problem and suggesting a fix (which is, use a different background color for the banner).
@@ -89,11 +89,11 @@ This example illustrates how a {% data variables.product.prodname_dotcom %} user
 
 In the **Conversation** tab of the pull request, the author explains why they created the pull request.
 
-![Example of pull request - Conversation tab](/assets/images/help/pull_requests/pr-conversation-example.png)
+![Example of pull request - Conversation tab](/assets/images/2021/10/help/pull_requests/pr-conversation-example.png)
 
 The **Files changed** tab of the pull request shows the implemented fix.
 
-![Example of pull request - Files changed tab](/assets/images/help/pull_requests/pr-files-changed-example.png)
+![Example of pull request - Files changed tab](/assets/images/2021/10/help/pull_requests/pr-files-changed-example.png)
 
 - This contributor notices a typo in the repository.
 - The user creates a pull request with the fix.
@@ -111,7 +111,7 @@ The **Files changed** tab of the pull request shows the implemented fix.
 
 This example shows the {% data variables.product.prodname_discussions %} welcome post for the {% data variables.product.prodname_dotcom %} Docs open source repository, and illustrates how the team wants to collaborate with their community.
 
-![Example of {% data variables.product.prodname_discussions %}](/assets/images/help/discussions/github-discussions-example.png)
+![Example of {% data variables.product.prodname_discussions %}](/assets/images/2021/10/help/discussions/github-discussions-example.png)
 
 This community maintainer started a discussion to welcome the community, and to ask members to introduce themselves. This post fosters an inviting atmosphere for visitors and contributors. The post also clarifies that the team's happy to help with contributions to the repository.
 
@@ -132,7 +132,7 @@ As you can see, team discussions are very similar to {% data variables.product.p
 
 This example shows a team post for the `octo-team` team.
 
-![Example of team discussion](/assets/images/help/projects/team-discussions-example.png)
+![Example of team discussion](/assets/images/2021/10/help/projects/team-discussions-example.png)
 
 The `octocat` team member posted a team discussion, informing the team of various things:
 - A team member called Mona started remote game events.

@@ -12,7 +12,7 @@ versions:
   ghec: '*'
 ---
 
-![返信テンプレート](/assets/images/help/settings/saved-replies.png)
+![返信テンプレート](/assets/images/2021/10/help/settings/saved-replies.png)
 
 返信テンプレートを使うと、Issue やプルリクエストへの再利用可能な返信を作成できます。 頻繁に使う返信用に返信テンプレートを作成して、時間を節約してください。
 

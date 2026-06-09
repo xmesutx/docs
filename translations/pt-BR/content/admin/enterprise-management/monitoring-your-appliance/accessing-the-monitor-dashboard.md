@@ -21,7 +21,7 @@ shortTitle: Acessar o painel do monitor
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. Na parte superior da página, clique em **Monitor** (Monitorar). ![Link para o Painel de monitoramento ](/assets/images/enterprise/management-console/monitor-dash-link.png)
+2. Na parte superior da página, clique em **Monitor** (Monitorar). ![Link para o Painel de monitoramento ](/assets/images/2021/10/enterprise/management-console/monitor-dash-link.png)
 
 ## Resolver problemas comuns de alocação de recursos no appliance
 

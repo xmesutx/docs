@@ -65,7 +65,7 @@ Si un propietario de empresa deja de permitir que los miembros de ésta creen ci
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-1. Debajo de "Default repository visibility" (visibilidad predeterminada del repositorio), utiliza el menú desplegable y selecciona un tipo de visibilidad predeterminado. ![Menú desplegable para elegir la visibilidad predeterminada de los repositorios para tu empresa](/assets/images/enterprise/site-admin-settings/default-repository-visibility-settings.png)
+1. Debajo de "Default repository visibility" (visibilidad predeterminada del repositorio), utiliza el menú desplegable y selecciona un tipo de visibilidad predeterminado. ![Menú desplegable para elegir la visibilidad predeterminada de los repositorios para tu empresa](/assets/images/2021/10/enterprise/site-admin-settings/default-repository-visibility-settings.png)
 
 {% data reusables.enterprise_installation.image-urls-viewable-warning %}
 
@@ -81,9 +81,9 @@ En todas las organizaciones que pertenezcan a tu empresa, puedes configurar un n
 4. Debajo de "permisos {% ifversion ghec or ghes > 3.1 or ghae %}base{% else %}predeterminados{% endif %}", revisa la información sobre cómo cambiar el ajuste. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 5. Debajo de "Permisos{% ifversion ghec or ghes > 3.1 or ghae %}base{% else %}predeterminados{% endif %}", utiliza el menú desplegable y elige una política.
   {% ifversion ghec or ghes > 3.1 or ghae %}
-  ![Menú desplegable con opciones de políticas de permisos de repositorios](/assets/images/help/business-accounts/repository-permissions-policy-drop-down.png)
+  ![Menú desplegable con opciones de políticas de permisos de repositorios](/assets/images/2021/10/help/business-accounts/repository-permissions-policy-drop-down.png)
   {% else %}
-  ![Menú desplegable con opciones de políticas de permisos de repositorios](/assets/images/enterprise/business-accounts/repository-permissions-policy-drop-down.png)
+  ![Menú desplegable con opciones de políticas de permisos de repositorios](/assets/images/2021/10/enterprise/business-accounts/repository-permissions-policy-drop-down.png)
   {% endif %}
 
 ## Requerir una política para la creación de repositorios
@@ -100,7 +100,7 @@ En todas las organizaciones que le pertenecen a tu empresa, puedes permitir que 
 {% data reusables.enterprise-accounts.repo-creation-policy %}
 {% data reusables.enterprise-accounts.repo-creation-types %}
 {% else %}
-6. En "Creación de repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con políticas para creación de repositorio](/assets/images/enterprise/site-admin-settings/repository-creation-drop-down.png)
+6. En "Creación de repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con políticas para creación de repositorio](/assets/images/2021/10/enterprise/site-admin-settings/repository-creation-drop-down.png)
 {% endif %}
 
 ## Requerir una política para bifurcar repositorios privados o internos
@@ -111,7 +111,7 @@ En todas las organizaciones que pertenezcan a tu empresa, puedes permitir o proh
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.repositories-tab %}
 3. Debajo de "Bifurcación de repositorios", revisa la información sobre cómo cambiar el ajuste. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-4. En "Bifurcación de repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de bifurcación de repositorios](/assets/images/help/business-accounts/repository-forking-policy-drop-down.png)
+4. En "Bifurcación de repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de bifurcación de repositorios](/assets/images/2021/10/help/business-accounts/repository-forking-policy-drop-down.png)
 
 ## Requerir una política para invitar colaboradores{% ifversion ghec %} externos{% endif %} a los repositorios
 
@@ -123,9 +123,9 @@ En todas las organizaciones que pertenezcan a tu empresa, puedes permitir que lo
 3. Debajo de "{% ifversion ghec %}Colaboradores externos{% elsif ghes or ghae %}Invitaciones{% endif %} de repositorio", revisa la información sobre cómo cambiar el ajuste. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 4. Debajo de "{% ifversion ghec %}Colaboradores externos{% elsif ghes or ghae %}Invitaciones{% endif %} de repositorio", utiliza el menú desplegable y elige una política.
   {% ifversion ghec %}
-  ![Menú desplegable con opciones de políticas de invitación de colaboradores externos](/assets/images/help/business-accounts/repository-invitation-policy-drop-down.png)
+  ![Menú desplegable con opciones de políticas de invitación de colaboradores externos](/assets/images/2021/10/help/business-accounts/repository-invitation-policy-drop-down.png)
   {% elsif ghes or ghae %}
-  ![Menú desplegable con opciones de política de invitación](/assets/images/enterprise/business-accounts/repository-invitation-policy-drop-down.png)
+  ![Menú desplegable con opciones de política de invitación](/assets/images/2021/10/enterprise/business-accounts/repository-invitation-policy-drop-down.png)
   {% endif %}
 
 {% ifversion ghec or ghes or ghae %}
@@ -136,9 +136,9 @@ Puedes configurar el nombre de rama predeterminada para cualquier repositorio mi
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. En la pestaña de **Políticas de los repositorios**, debajo de "Nombre de la rama predeterminada", ingresa el nombre de rama predeterminada que deberán utilizar los repositorios nuevos. ![Caja de texto para ingresar un nombre de rama predeterminado](/assets/images/help/business-accounts/default-branch-name-text.png)
-4. Opcionalmente, para requerir el nombre de rama predeterminado para todas las organizaciones en la empresa, selecciona **Requerir en toda la empresa**. ![Casilla de requerir](/assets/images/help/business-accounts/default-branch-name-enforce.png)
-5. Da clic en **Actualizar**. ![Botón de actualizar](/assets/images/help/business-accounts/default-branch-name-update.png)
+3. En la pestaña de **Políticas de los repositorios**, debajo de "Nombre de la rama predeterminada", ingresa el nombre de rama predeterminada que deberán utilizar los repositorios nuevos. ![Caja de texto para ingresar un nombre de rama predeterminado](/assets/images/2021/10/help/business-accounts/default-branch-name-text.png)
+4. Opcionalmente, para requerir el nombre de rama predeterminado para todas las organizaciones en la empresa, selecciona **Requerir en toda la empresa**. ![Casilla de requerir](/assets/images/2021/10/help/business-accounts/default-branch-name-enforce.png)
+5. Da clic en **Actualizar**. ![Botón de actualizar](/assets/images/2021/10/help/business-accounts/default-branch-name-update.png)
 
 {% endif %}
 
@@ -173,7 +173,7 @@ En todas las organizaciones que pertenezcan a tu empresa, puedes permitir que lo
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 3. En la pestaña **Políticas de repositorios**, en "Eliminación de propuestas en los repositorios", revisa la información acerca de los cambios en la configuración. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-4. En "Eliminación de propuestas en los repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de eliminación de propuestas](/assets/images/help/business-accounts/repository-issue-deletion-policy-drop-down.png)
+4. En "Eliminación de propuestas en los repositorios", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de eliminación de propuestas](/assets/images/2021/10/help/business-accounts/repository-issue-deletion-policy-drop-down.png)
 
 {% ifversion ghes or ghae %}
 
@@ -186,8 +186,8 @@ Cuando impones límites de carga a los repositorios, la configuración predeterm
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. Dentro de "Repository upload limit (Límite de subida del repositorio)", utiliza el menú desplegable y haz clic en un tamaño máximo de objeto. ![Menú desplegable con opciones de tamaño máximo de objeto](/assets/images/enterprise/site-admin-settings/repo-upload-limit-dropdown.png)
-5. Opcionalmente, para requerir un límite de carga máximo para todos los repositorios en tu empresa, selecciona **Requerir en todos los repositorios** ![Opción para imponer tamaño máximo de objetos en todos los repositorios](/assets/images/enterprise/site-admin-settings/all-repo-upload-limit-option.png)
+4. Dentro de "Repository upload limit (Límite de subida del repositorio)", utiliza el menú desplegable y haz clic en un tamaño máximo de objeto. ![Menú desplegable con opciones de tamaño máximo de objeto](/assets/images/2021/10/enterprise/site-admin-settings/repo-upload-limit-dropdown.png)
+5. Opcionalmente, para requerir un límite de carga máximo para todos los repositorios en tu empresa, selecciona **Requerir en todos los repositorios** ![Opción para imponer tamaño máximo de objetos en todos los repositorios](/assets/images/2021/10/enterprise/site-admin-settings/all-repo-upload-limit-option.png)
 
 ## Configurar el editor de fusión de conflictos para solicitudes de extracción entre repositorios
 
@@ -200,7 +200,7 @@ Solicitarles a los usuarios que resuelvan los conflictos de fusión en forma loc
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-1. En "Editor de conflicto para las solicitudes de extracción entre repositorios", usa el menú desplegable y haz clic en **Disabled** (Inhabilitado). ![Menú desplegable con opción para inhabilitar el editor de conflicto de fusión](/assets/images/enterprise/settings/conflict-editor-settings.png)
+1. En "Editor de conflicto para las solicitudes de extracción entre repositorios", usa el menú desplegable y haz clic en **Disabled** (Inhabilitado). ![Menú desplegable con opción para inhabilitar el editor de conflicto de fusión](/assets/images/2021/10/enterprise/settings/conflict-editor-settings.png)
 
 ## Configurar las cargas forzadas
 
@@ -211,7 +211,7 @@ Cada repositorio hereda un ajuste de subida forzada predeterminado desde los aju
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. Debajo de "Force pushes" (Empujes forzados), usa el menú desplegable y haz clic en **Allow** (Permitir), **Block** (Bloquear) o **Block to the default branch** (Bloquear en la rama predeterminada). ![Forzar empujes desplegables](/assets/images/enterprise/site-admin-settings/force-pushes-dropdown.png)
+4. Debajo de "Force pushes" (Empujes forzados), usa el menú desplegable y haz clic en **Allow** (Permitir), **Block** (Bloquear) o **Block to the default branch** (Bloquear en la rama predeterminada). ![Forzar empujes desplegables](/assets/images/2021/10/enterprise/site-admin-settings/force-pushes-dropdown.png)
 5. Opcionalmente, selecciona **Enforce on all repositories** (Implementar en todos los repositorios) que sobrescribirán las configuraciones a nivel de la organización y del repositorio para los empujes forzados.
 
 ### Bloquear las cargas forzadas para un repositorio específico
@@ -224,7 +224,7 @@ Cada repositorio hereda un ajuste de subida forzada predeterminado desde los aju
 {% data reusables.enterprise_site_admin_settings.click-repo %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-4. Selecciona **Block** (Bloquear) o **Block to the default branch** (Bloquear en la rama predeterminada) debajo de **Push and Pull** (Subir y extraer). ![Bloquear empujes forzados](/assets/images/enterprise/site-admin-settings/repo/repo-block-force-pushes.png)
+4. Selecciona **Block** (Bloquear) o **Block to the default branch** (Bloquear en la rama predeterminada) debajo de **Push and Pull** (Subir y extraer). ![Bloquear empujes forzados](/assets/images/2021/10/enterprise/site-admin-settings/repo/repo-block-force-pushes.png)
 
 ### Bloquear empujes forzados a los repositorios que posee una cuenta de usuario u organización
 
@@ -240,8 +240,8 @@ Puedes sustituir los parámetros predeterminados heredados al configurar los par
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
 5. En "Parámetros predeterminados del repositorio" en la sección "Empujes forzados", selecciona
     - **Block** (Bloquear) para bloquear los empujes forzados en todas las ramas.
-    - **Block to the default branch** (Bloquear en la rama por defecto) para bloquear solo los empujes forzados en la rama por defecto. ![Bloquear empujes forzados](/assets/images/enterprise/site-admin-settings/user/user-block-force-pushes.png)
-6. Opcionalmente, selecciona **Enforce on all repositories** (Implementar en todos los repositorios) para sustituir los parámetros específicos del repositorio. Nota que esto **no** anulará alguna política válida en toda la empresa. ![Bloquear empujes forzados](/assets/images/enterprise/site-admin-settings/user/user-block-all-force-pushes.png)
+    - **Block to the default branch** (Bloquear en la rama por defecto) para bloquear solo los empujes forzados en la rama por defecto. ![Bloquear empujes forzados](/assets/images/2021/10/enterprise/site-admin-settings/user/user-block-force-pushes.png)
+6. Opcionalmente, selecciona **Enforce on all repositories** (Implementar en todos los repositorios) para sustituir los parámetros específicos del repositorio. Nota que esto **no** anulará alguna política válida en toda la empresa. ![Bloquear empujes forzados](/assets/images/2021/10/enterprise/site-admin-settings/user/user-block-all-force-pushes.png)
 
 {% endif %}
 
@@ -270,8 +270,8 @@ De ser necesario, puedes prevenir que los administradores de repositorio cambien
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. En "Acceso de lectura Git anónimo", usa el menú desplegable y haz clic en **Activado**. ![Menú desplegable de acceso de lectura Git anónimo que muestra las opciones de menú "Habilitado" e "Inhabilitado"](/assets/images/enterprise/site-admin-settings/enable-anonymous-git-read-access.png)
-3. Opcionalmente, para prevenir que los administradores de repositorio cambien la configuración del acceso de lectura anónimo de Git en todos los repositorios de tu empresa, selecciona **Prevenir que los administradores de los repositorios cambien el acceso de lectura anónimo de Git**. ![Casilla de verificación seleccionada para prevenir que los administradores de los repositorios cambien la configuración de acceso de lectura anónimo de Git para todos los repositorios de tu empresa](/assets/images/enterprise/site-admin-settings/globally-lock-repos-from-changing-anonymous-git-read-access.png)
+4. En "Acceso de lectura Git anónimo", usa el menú desplegable y haz clic en **Activado**. ![Menú desplegable de acceso de lectura Git anónimo que muestra las opciones de menú "Habilitado" e "Inhabilitado"](/assets/images/2021/10/enterprise/site-admin-settings/enable-anonymous-git-read-access.png)
+3. Opcionalmente, para prevenir que los administradores de repositorio cambien la configuración del acceso de lectura anónimo de Git en todos los repositorios de tu empresa, selecciona **Prevenir que los administradores de los repositorios cambien el acceso de lectura anónimo de Git**. ![Casilla de verificación seleccionada para prevenir que los administradores de los repositorios cambien la configuración de acceso de lectura anónimo de Git para todos los repositorios de tu empresa](/assets/images/2021/10/enterprise/site-admin-settings/globally-lock-repos-from-changing-anonymous-git-read-access.png)
 
 ### Configurar el acceso de lectura anónimo de Git para un repositorio específico
 
@@ -280,8 +280,8 @@ De ser necesario, puedes prevenir que los administradores de repositorio cambien
 {% data reusables.enterprise_site_admin_settings.click-repo %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-6. En "Zona de peligro", al lado de "Activar el acceso de lectura Git anónimo", haz clic en **Activar**. ![Botón "Activado" en "Activar el acceso de lectura Git anónimo" en la zona de peligro de los parámetros de administración del sitio de un repositorio ](/assets/images/enterprise/site-admin-settings/site-admin-enable-anonymous-git-read-access.png)
-7. Revisa los cambios. Para confirmar, haz clic en **Sí, habilitar el acceso de lectura Git anónimo.** ![Confirma la configuración de acceso de lectura Git anónimo en la ventana emergente](/assets/images/enterprise/site-admin-settings/confirm-anonymous-git-read-access-for-specific-repo-as-site-admin.png)
-8. Opcionalmente, para impedir que los administradores de repositorio modifiquen estos parámetros para este repositorio, selecciona **Impedir que los administradores de repositorio modifiquen el acceso de lectura Git anónimo**. ![Selecciona la casilla de verificación para evitar que los administradores del repositorio cambien el acceso de lectura Git anónimo para este repositorio](/assets/images/enterprise/site-admin-settings/lock_anonymous_git_access_for_specific_repo.png)
+6. En "Zona de peligro", al lado de "Activar el acceso de lectura Git anónimo", haz clic en **Activar**. ![Botón "Activado" en "Activar el acceso de lectura Git anónimo" en la zona de peligro de los parámetros de administración del sitio de un repositorio ](/assets/images/2021/10/enterprise/site-admin-settings/site-admin-enable-anonymous-git-read-access.png)
+7. Revisa los cambios. Para confirmar, haz clic en **Sí, habilitar el acceso de lectura Git anónimo.** ![Confirma la configuración de acceso de lectura Git anónimo en la ventana emergente](/assets/images/2021/10/enterprise/site-admin-settings/confirm-anonymous-git-read-access-for-specific-repo-as-site-admin.png)
+8. Opcionalmente, para impedir que los administradores de repositorio modifiquen estos parámetros para este repositorio, selecciona **Impedir que los administradores de repositorio modifiquen el acceso de lectura Git anónimo**. ![Selecciona la casilla de verificación para evitar que los administradores del repositorio cambien el acceso de lectura Git anónimo para este repositorio](/assets/images/2021/10/enterprise/site-admin-settings/lock_anonymous_git_access_for_specific_repo.png)
 
 {% endif %}

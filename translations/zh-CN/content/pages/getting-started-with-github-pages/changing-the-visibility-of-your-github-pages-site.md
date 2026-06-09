@@ -33,8 +33,8 @@ shortTitle: 更改站点可见性
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. 在 "{% data variables.product.prodname_pages %}" 下，选择 **{% data variables.product.prodname_pages %} visibility（可见性）**下拉菜单，然后单击可见性。 ![选择站点可见性的下拉菜单](/assets/images/help/pages/public-or-private-visibility.png)
-4. 要查看您已发布的站点，请在“{% data variables.product.prodname_pages %}”下点击您的站点 URL。 ![私下发布站点的 URL](/assets/images/help/pages/click-private-pages-url-to-preview.png)
+3. 在 "{% data variables.product.prodname_pages %}" 下，选择 **{% data variables.product.prodname_pages %} visibility（可见性）**下拉菜单，然后单击可见性。 ![选择站点可见性的下拉菜单](/assets/images/2021/10/help/pages/public-or-private-visibility.png)
+4. 要查看您已发布的站点，请在“{% data variables.product.prodname_pages %}”下点击您的站点 URL。 ![私下发布站点的 URL](/assets/images/2021/10/help/pages/click-private-pages-url-to-preview.png)
 
   {% note %}
 

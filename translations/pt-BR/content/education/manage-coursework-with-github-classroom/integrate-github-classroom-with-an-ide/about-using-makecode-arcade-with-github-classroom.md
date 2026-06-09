@@ -25,7 +25,7 @@ O MakeCode Arcade não é compatível com a edição de multijogador para ativid
 
 Por padrão, o MakeCode Arcade está configurado para realizar push no repositório de atividade em {% data variables.product.product_location %}. Após fazer progresso em uma atividade com MakeCode Arcade, os alunos devem fazer push das alterações para {% data variables.product.product_location %} usando o botão {% octicon "mark-github" aria-label="The GitHub mark" %}{% octicon "arrow-up" aria-label="The up arrow icon" %} na parte inferior da tela.
 
-![Funcionalidade de controle de versão MakeCode Arcade](/assets/images/help/classroom/ide-makecode-arcade-version-control-button.png)
+![Funcionalidade de controle de versão MakeCode Arcade](/assets/images/2021/10/help/classroom/ide-makecode-arcade-version-control-button.png)
 
 ## Leia mais
 

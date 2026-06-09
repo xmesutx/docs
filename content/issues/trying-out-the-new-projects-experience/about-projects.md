@@ -35,15 +35,15 @@ You can use custom fields to add metadata to your tasks. For example, you can tr
 
 You can view your project as a high density table layout:
 
-![Project table](/assets/images/help/issues/projects_table.png)
+![Project table](/assets/images/2021/10/help/issues/projects_table.png)
 
 Or as a board:
 
-![Project board](/assets/images/help/issues/projects_board.png)
+![Project board](/assets/images/2021/10/help/issues/projects_board.png)
 
 To help you focus on specific aspects of your project, you can group, sort, or filter items:
 
-![Project view](/assets/images/help/issues/project_view.png)
+![Project view](/assets/images/2021/10/help/issues/project_view.png)
 
 For more information, see "[Customizing your project views](/issues/trying-out-the-new-projects-experience/customizing-your-project-views)."
 

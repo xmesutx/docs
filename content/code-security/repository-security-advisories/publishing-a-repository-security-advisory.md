@@ -72,9 +72,9 @@ Publishing a security advisory deletes the temporary private fork for the securi
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. In the "Security Advisories" list, click the security advisory you'd like to publish.
-  ![Security advisory in list](/assets/images/help/security/security-advisory-in-list.png)
+  ![Security advisory in list](/assets/images/2021/10/help/security/security-advisory-in-list.png)
 5. At the bottom of the page, click **Publish advisory**.
-  ![Publish advisory button](/assets/images/help/security/publish-advisory-button.png)
+  ![Publish advisory button](/assets/images/2021/10/help/security/publish-advisory-button.png)
   
 ## {% data variables.product.prodname_dependabot_alerts %} for published security advisories
 
@@ -88,11 +88,11 @@ Publishing a security advisory deletes the temporary private fork for the securi
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. In the "Security Advisories" list, click the security advisory you'd like to request a CVE identification number for.
-  ![Security advisory in list](/assets/images/help/security/security-advisory-in-list.png)
+  ![Security advisory in list](/assets/images/2021/10/help/security/security-advisory-in-list.png)
 5. Use the **Publish advisory** drop-down menu, and click **Request CVE**.
-  ![Request CVE in drop-down](/assets/images/help/security/security-advisory-drop-down-request-cve.png)
+  ![Request CVE in drop-down](/assets/images/2021/10/help/security/security-advisory-drop-down-request-cve.png)
 6. Click **Request CVE**.
-  ![Request CVE button](/assets/images/help/security/security-advisory-request-cve-button.png)
+  ![Request CVE button](/assets/images/2021/10/help/security/security-advisory-request-cve-button.png)
 
 ## Further reading
 

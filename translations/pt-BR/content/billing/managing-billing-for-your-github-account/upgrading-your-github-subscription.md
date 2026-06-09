@@ -44,7 +44,7 @@ Você pode atualizar sua conta pessoal de {% data variables.product.prodname_fre
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
-1. Ao lado de "Plano atual", clique em **Atualizar**. ![Botão Upgrade (Atualizar)](/assets/images/help/billing/settings_billing_user_upgrade.png)
+1. Ao lado de "Plano atual", clique em **Atualizar**. ![Botão Upgrade (Atualizar)](/assets/images/2021/10/help/billing/settings_billing_user_upgrade.png)
 2. Em "Pro" na página "Comparar planos", clique em **Fazer atualização para Pro**.
 {% data reusables.dotcom_billing.choose-monthly-or-yearly-billing %}
 {% data reusables.dotcom_billing.show-plan-details %}
@@ -91,8 +91,8 @@ Se você quiser que outros usuários tenham acesso aos repositórios privados da
 {% data reusables.dotcom_billing.switch-legacy-billing %} Para obter mais informações, consulte "[Sobre preços por usuário](/articles/about-per-user-pricing)".
 
 {% data reusables.organizations.billing-settings %}
-5. À direita do nome do seu plano, use o menu suspenso **Editar** e selecione **Editar plano**. ![Menu suspenso de editar](/assets/images/help/billing/per-user-upgrade-button.png)
-6. À direita das "Ferramentas avançadas para equipes", clique em **Atualizar agora**. ![Botão Atualizar agora](/assets/images/help/billing/per-user-upgrade-now-button.png)
+5. À direita do nome do seu plano, use o menu suspenso **Editar** e selecione **Editar plano**. ![Menu suspenso de editar](/assets/images/2021/10/help/billing/per-user-upgrade-button.png)
+6. À direita das "Ferramentas avançadas para equipes", clique em **Atualizar agora**. ![Botão Atualizar agora](/assets/images/2021/10/help/billing/per-user-upgrade-now-button.png)
 {% data reusables.dotcom_billing.choose_org_plan %}
 {% data reusables.dotcom_billing.choose-monthly-or-yearly-billing %}
 {% data reusables.dotcom_billing.owned_by_business %}

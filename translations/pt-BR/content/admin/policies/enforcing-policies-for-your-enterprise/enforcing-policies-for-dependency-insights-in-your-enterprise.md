@@ -29,6 +29,6 @@ Em todas as organizações pertencentes à sua empresa, é possível controlar s
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. Na barra lateral esquerda, clique em **Organizações**. ![Aba Organizações na barra lateral da empresa](/assets/images/help/business-accounts/settings-policies-org-tab.png)
+3. Na barra lateral esquerda, clique em **Organizações**. ![Aba Organizações na barra lateral da empresa](/assets/images/2021/10/help/business-accounts/settings-policies-org-tab.png)
 4. Em "Organization policies" (Políticas da organização), revise as informações sobre como alterar a configuração. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. Em "Organization policies" (Políticas da organização), use o menu suspenso e escolha uma política. ![Menu suspenso com opções de políticas da organização](/assets/images/help/business-accounts/organization-policy-drop-down.png)
+5. Em "Organization policies" (Políticas da organização), use o menu suspenso e escolha uma política. ![Menu suspenso com opções de políticas da organização](/assets/images/2021/10/help/business-accounts/organization-policy-drop-down.png)

@@ -32,10 +32,10 @@ shortTitle: Request a PR review
 {% data reusables.repositories.sidebar-pr %}
 1. Pull Request のリストで、特定の人または Team にレビューを依頼したい Pull Request をクリックします。
 2. 右側のサイドバーで [**Reviewers**] に移動します。
-3. [**Reviewers**] で推奨された人にレビューをリクエストするには、 そのユーザ名の横にある [**Request**] をクリックします。 ![右サイドバーのレビュー担当者リクエストアイコン](/assets/images/help/pull_requests/request-suggested-review.png)
-5. 必要に応じて、推奨された個人以外にレビューをリクエストするには、[**Reviewers**] をクリックし、続いてドロップダウンメニューで名前をクリックします。 ![右サイドバーでのレビュー担当者連動アイコン](/assets/images/help/pull_requests/request-a-review-not-suggested.png)
-6. 必要に応じて、レビューを依頼したい人または Team の名前がわかっている場合は、[**Reviewers**] をクリックしたら、変更のレビューを依頼する人のユーザー名または Team の名前を入力します。 Team 名またはユーザー名をクリックしてレビューをリクエストします。 ![レビュー担当者のユーザ名を入力するフィールドおよびレビュー担当者の名前を含むドロップダウン](/assets/images/help/pull_requests/choose-pull-request-reviewer.png)
-7. Pull Request がレビューされ、必要な変更を行ったら、レビュー担当者に Pull Request を再びレビューするように依頼できます。 右側のサイドバーで [**Reviewers**] に移動し、レビューを依頼するレビュー担当者の名前の横にある {% octicon "sync" aria-label="The sync icon" %} をクリックします。 ![右サイドバーの再レビュー同期アイコン](/assets/images/help/pull_requests/request-re-review.png)
+3. [**Reviewers**] で推奨された人にレビューをリクエストするには、 そのユーザ名の横にある [**Request**] をクリックします。 ![右サイドバーのレビュー担当者リクエストアイコン](/assets/images/2021/10/help/pull_requests/request-suggested-review.png)
+5. 必要に応じて、推奨された個人以外にレビューをリクエストするには、[**Reviewers**] をクリックし、続いてドロップダウンメニューで名前をクリックします。 ![右サイドバーでのレビュー担当者連動アイコン](/assets/images/2021/10/help/pull_requests/request-a-review-not-suggested.png)
+6. 必要に応じて、レビューを依頼したい人または Team の名前がわかっている場合は、[**Reviewers**] をクリックしたら、変更のレビューを依頼する人のユーザー名または Team の名前を入力します。 Team 名またはユーザー名をクリックしてレビューをリクエストします。 ![レビュー担当者のユーザ名を入力するフィールドおよびレビュー担当者の名前を含むドロップダウン](/assets/images/2021/10/help/pull_requests/choose-pull-request-reviewer.png)
+7. Pull Request がレビューされ、必要な変更を行ったら、レビュー担当者に Pull Request を再びレビューするように依頼できます。 右側のサイドバーで [**Reviewers**] に移動し、レビューを依頼するレビュー担当者の名前の横にある {% octicon "sync" aria-label="The sync icon" %} をクリックします。 ![右サイドバーの再レビュー同期アイコン](/assets/images/2021/10/help/pull_requests/request-re-review.png)
 
 ## 参考リンク
 

@@ -49,8 +49,8 @@ Os segredos são limitados a 64 kB.
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. À direita dos "Segredos dos codespaces", clique em **Novo segredo**. ![Botão "Novo segredo"](/assets/images/help/settings/codespaces-new-secret-button.png)
-1. Em "Nome", digite um nome para seu segredo. ![Caixa de texto "Nome"](/assets/images/help/settings/codespaces-secret-name-field.png)
+1. À direita dos "Segredos dos codespaces", clique em **Novo segredo**. ![Botão "Novo segredo"](/assets/images/2021/10/help/settings/codespaces-new-secret-button.png)
+1. Em "Nome", digite um nome para seu segredo. ![Caixa de texto "Nome"](/assets/images/2021/10/help/settings/codespaces-secret-name-field.png)
 {% data reusables.user-settings.codespaces-secret-value %}
 {% data reusables.user-settings.codespaces-secret-repository-access %}
 1. Clique em **Add secret** (Adicionar segredo).
@@ -61,19 +61,19 @@ Você pode atualizar o valor de um segredo existente, bem como alterar quais rep
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. Em "Segredos do codespace", à direita do segredo que você deseja editar, clique em **Atualizar**. ![Botão "Atualizar"](/assets/images/help/settings/codespaces-secret-update-button.png)
-1. Em "Valor", clique em **Inserir um novo valor**. ![Link "Inserir um novo valor"](/assets/images/help/settings/codespaces-secret-update-value-text.png)
+1. Em "Segredos do codespace", à direita do segredo que você deseja editar, clique em **Atualizar**. ![Botão "Atualizar"](/assets/images/2021/10/help/settings/codespaces-secret-update-button.png)
+1. Em "Valor", clique em **Inserir um novo valor**. ![Link "Inserir um novo valor"](/assets/images/2021/10/help/settings/codespaces-secret-update-value-text.png)
 {% data reusables.user-settings.codespaces-secret-value %}
 {% data reusables.user-settings.codespaces-secret-repository-access %}
-1. Opcionalmente, para remover o acesso do segredo a um repositório, desmarque o repositório. ![Caixas de seleção para remover acesso aos repositórios](/assets/images/help/settings/codespaces-secret-repository-checkboxes.png)
+1. Opcionalmente, para remover o acesso do segredo a um repositório, desmarque o repositório. ![Caixas de seleção para remover acesso aos repositórios](/assets/images/2021/10/help/settings/codespaces-secret-repository-checkboxes.png)
 1. Clique em **Save changes** (Salvar alterações).
 
 ## Excluir um segredo
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. Em "Segredos dos codespaces", à direita do segredo que você deseja excluir, clique em **Excluir**. ![Botão "Excluir"](/assets/images/help/settings/codespaces-secret-delete-button.png)
-1. Leia o alerta e clique em **OK**. ![Confirmação para excluir um segredo](/assets/images/help/settings/codespaces-secret-delete-warning.png)
+1. Em "Segredos dos codespaces", à direita do segredo que você deseja excluir, clique em **Excluir**. ![Botão "Excluir"](/assets/images/2021/10/help/settings/codespaces-secret-delete-button.png)
+1. Leia o alerta e clique em **OK**. ![Confirmação para excluir um segredo](/assets/images/2021/10/help/settings/codespaces-secret-delete-warning.png)
 
 ## Leia mais
 

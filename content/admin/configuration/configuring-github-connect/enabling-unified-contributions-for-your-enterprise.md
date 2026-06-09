@@ -47,7 +47,7 @@ Before enabling {% data variables.product.prodname_unified_contributions %} on {
 1. Sign in to {% data variables.product.product_location %} and {% data variables.product.prodname_dotcom_the_website %}.
 {% data reusables.enterprise-accounts.access-enterprise %}{% data reusables.enterprise-accounts.github-connect-tab %}{% endif %}
 1. Under "Users can share contribution counts to {% data variables.product.prodname_dotcom_the_website %}", click **Request access**.
-  ![Request access to unified contributions option](/assets/images/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
+  ![Request access to unified contributions option](/assets/images/2021/10/enterprise/site-admin-settings/dotcom-ghe-connection-request-access.png){% ifversion ghes %}
 2. [Sign in](https://enterprise.github.com/login) to the {% data variables.product.prodname_ghe_server %} site to receive further instructions.
 
 When you request access, we may redirect you to the {% data variables.product.prodname_ghe_server %} site to check your current terms of service.

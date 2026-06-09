@@ -23,26 +23,26 @@ For more information about viewing the subscription and usage for your enterpris
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. Under "Current Invoice", click **View invoice**. ![[View invoice] リンク](/assets/images/help/business-accounts/view-invoice-link.png)
+4. Under "Current Invoice", click **View invoice**. ![[View invoice] リンク](/assets/images/2021/10/help/business-accounts/view-invoice-link.png)
 
 ## 現在の請求書の支払い
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. Under "Payment Due", click **Pay invoice**. ![[Pay invoice] リンク](/assets/images/help/business-accounts/pay-invoice-link.png)
-5. [Pay invoice] の下で、安全なフォームにクレジットカード情報を入力し、[**Pay Invoice**] をクリックします。 ![確認して請求書で支払う](/assets/images/help/business-accounts/pay-invoice.png)
+4. Under "Payment Due", click **Pay invoice**. ![[Pay invoice] リンク](/assets/images/2021/10/help/business-accounts/pay-invoice-link.png)
+5. [Pay invoice] の下で、安全なフォームにクレジットカード情報を入力し、[**Pay Invoice**] をクリックします。 ![確認して請求書で支払う](/assets/images/2021/10/help/business-accounts/pay-invoice.png)
 
 ## 現在の請求書をダウンロードする
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. [Quick Actions] の下で [**Download current invoice**] をクリックします。 ![[Download current invoice] リンク](/assets/images/help/business-accounts/download-current-invoice.png)
+4. [Quick Actions] の下で [**Download current invoice**] をクリックします。 ![[Download current invoice] リンク](/assets/images/2021/10/help/business-accounts/download-current-invoice.png)
 
 ## 支払い履歴を表示する
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
-4. To see a summary of your past billing activity, under "Billing", click the **Past Invoices** tab. ![[View payment history] タブ](/assets/images/help/business-accounts/view-payment-history.png)
+4. To see a summary of your past billing activity, under "Billing", click the **Past Invoices** tab. ![[View payment history] タブ](/assets/images/2021/10/help/business-accounts/view-payment-history.png)

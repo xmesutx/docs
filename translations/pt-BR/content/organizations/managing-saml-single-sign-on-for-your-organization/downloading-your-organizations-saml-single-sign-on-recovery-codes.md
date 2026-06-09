@@ -18,8 +18,8 @@ Os códigos de recuperação não devem ser compartilhados ou distribuídos. Rec
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
-5. Em "SAML single sign-on" (Logon único de SAML), na observação sobre código de recuperação, clique em **Save your recovery codes** (Salvar os códigos de recuperação). ![Link para exibir e salvar os códigos de recuperação](/assets/images/help/saml/saml_recovery_codes.png)
-6. Salve seus códigos de recuperação clicando em **Download** (Baixar), **Print** (Imprimir) ou **Copy** (Copiar). ![Botões para baixar, imprimir ou copiar os códigos de recuperação](/assets/images/help/saml/saml_recovery_code_options.png)
+5. Em "SAML single sign-on" (Logon único de SAML), na observação sobre código de recuperação, clique em **Save your recovery codes** (Salvar os códigos de recuperação). ![Link para exibir e salvar os códigos de recuperação](/assets/images/2021/10/help/saml/saml_recovery_codes.png)
+6. Salve seus códigos de recuperação clicando em **Download** (Baixar), **Print** (Imprimir) ou **Copy** (Copiar). ![Botões para baixar, imprimir ou copiar os códigos de recuperação](/assets/images/2021/10/help/saml/saml_recovery_code_options.png)
 
   {% note %}
 

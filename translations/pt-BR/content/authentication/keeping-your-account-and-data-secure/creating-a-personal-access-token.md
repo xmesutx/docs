@@ -41,21 +41,21 @@ Um token com nenhum escopo atribuído só pode acessar informações públicas. 
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.personal_access_tokens %}
 {% data reusables.user-settings.generate_new_token %}
-5. Dê ao seu token um nome descritivo. ![Token description field](/assets/images/help/settings/token_description.png){% ifversion fpt or ghes > 3.2 or ghae-issue-4374 or ghec %}
-6. Para dar ao seu token uma data de vencimento, selecione o menu suspenso **Vencimento** e, em seguida, clique em um padrão ou use o seletor de calendário. ![Token expiration field](/assets/images/help/settings/token_expiration.png){% endif %}
+5. Dê ao seu token um nome descritivo. ![Token description field](/assets/images/2021/10/help/settings/token_description.png){% ifversion fpt or ghes > 3.2 or ghae-issue-4374 or ghec %}
+6. Para dar ao seu token uma data de vencimento, selecione o menu suspenso **Vencimento** e, em seguida, clique em um padrão ou use o seletor de calendário. ![Token expiration field](/assets/images/2021/10/help/settings/token_expiration.png){% endif %}
 7. Selecione os escopos, ou as permissões, aos quais deseja conceder esse token. Para usar seu token para acessar repositórios da linha de comando, selecione **repo**.
    {% ifversion fpt or ghes or ghec %}
-   ![Selecionar escopos do token](/assets/images/help/settings/token_scopes.gif)
+   ![Selecionar escopos do token](/assets/images/2021/10/help/settings/token_scopes.gif)
    {% elsif ghae %}
-   ![Selecionar escopos do token](/assets/images/enterprise/github-ae/settings/access-token-scopes-for-ghae.png)
+   ![Selecionar escopos do token](/assets/images/2021/10/enterprise/github-ae/settings/access-token-scopes-for-ghae.png)
    {% endif %}
-8. Clique em **Generate token** (Gerar token). ![Botão Generate token (Gerar token)](/assets/images/help/settings/generate_token.png)
+8. Clique em **Generate token** (Gerar token). ![Botão Generate token (Gerar token)](/assets/images/2021/10/help/settings/generate_token.png)
    {% ifversion fpt or ghec %}
-   ![Token recém-criado](/assets/images/help/settings/personal_access_tokens.png)
+   ![Token recém-criado](/assets/images/2021/10/help/settings/personal_access_tokens.png)
    {% elsif ghes > 3.1 or ghae %}
-   ![Token recém-criado](/assets/images/help/settings/personal_access_tokens_ghe.png)
+   ![Token recém-criado](/assets/images/2021/10/help/settings/personal_access_tokens_ghe.png)
    {% else %}
-   ![Token recém-criado](/assets/images/help/settings/personal_access_tokens_ghe_legacy.png)
+   ![Token recém-criado](/assets/images/2021/10/help/settings/personal_access_tokens_ghe_legacy.png)
    {% endif %}
    {% warning %}
 

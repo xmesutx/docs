@@ -31,7 +31,7 @@ shortTitle: メンバーのアクセスの管理
 {% data reusables.project-management.select-project %}
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
-8. [Organization member permission] で、Organization のすべてのメンバーに対する標準の権限レベルを、[**Read**]、[**Write**]、[**Admin**]、[**None**] の中から選択します。 ![Organization のすべてのメンバーのプロジェクトボードに対する標準の権限](/assets/images/help/projects/baseline-project-permissions-for-organization-members.png)
+8. [Organization member permission] で、Organization のすべてのメンバーに対する標準の権限レベルを、[**Read**]、[**Write**]、[**Admin**]、[**None**] の中から選択します。 ![Organization のすべてのメンバーのプロジェクトボードに対する標準の権限](/assets/images/2021/10/help/projects/baseline-project-permissions-for-organization-members.png)
 9. [**Save**] をクリックします。
 
 ## 参考リンク

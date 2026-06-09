@@ -43,7 +43,7 @@ A página de Insights exibe essas métricas de desempenho para o período de tem
 * **Visitantes únicos para a página de checkout:** Número de pessoas que visualizaram uma das páginas de checkout do seu aplicativo GitHub.
 * **Página de checkout para novas assinaturas:** Número total de assinaturas pagas, testes grátis e assinaturas grátis. Veja o detalhamento de assinaturas totais para obter para o número específico de cada tipo de assinatura.
 
-![Perspectivas do Marketplace](/assets/images/marketplace/marketplace_insights.png)
+![Perspectivas do Marketplace](/assets/images/2021/10/marketplace/marketplace_insights.png)
 
 Para acessar as perspectivas do {% data variables.product.prodname_marketplace %}:
 
@@ -53,4 +53,4 @@ Para acessar as perspectivas do {% data variables.product.prodname_marketplace %
 4. Selecione o {% data variables.product.prodname_github_app %} para o qual você gostaria de ver perspectivas.
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. Clique na aba **Perspectivas**.
-7. Opcionalmente, selecione um período de tempo diferente, clicando no menu suspenso Período, no canto superior direito da página de Insights. ![Período de tempo do Marketplace](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. Opcionalmente, selecione um período de tempo diferente, clicando no menu suspenso Período, no canto superior direito da página de Insights. ![Período de tempo do Marketplace](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

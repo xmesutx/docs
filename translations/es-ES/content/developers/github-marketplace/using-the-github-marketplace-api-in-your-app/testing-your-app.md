@@ -35,7 +35,7 @@ No hagas compras de prueba con las apps que están activas en {% data variables.
 
 Tus escenarios de prueba podrían requerir que configures los planes de los listados que ofrecen periodos de prueba gratuitos y que cambies entre las suscripciones de pago y gratuitas. Ya que los decrementos y las cancelaciones no toman efecto sino hasta el siguiente ciclo de facturación, GitHub proporciona una característica exclusiva para desarrolladores para "Aplicar el Cambio Pendiente", la cual fuerza las acciones de `changed` y `cancelled` para que tomen efecto inmediatamente. Puedes acceder a la opción de **Aplicar Cambios Pendientes** para las apps con listados de Marketplace en estado de _borrador_ en https://github.com/settings/billing#pending-cycle:
 
-![Aplicar el cambio pendiente](/assets/images/github-apps/github-apps-apply-pending-changes.png)
+![Aplicar el cambio pendiente](/assets/images/2021/10/github-apps/github-apps-apply-pending-changes.png)
 
 ## Probar las API
 

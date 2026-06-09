@@ -35,9 +35,9 @@ shortTitle: 管理付款方式
 
 {% data reusables.user-settings.billing_plans %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. 如果您的帐户包含要更新的现有帐单信息，请单击 **Edit（编辑）**。 ![计费新卡按钮](/assets/images/help/billing/billing-information-edit-button.png)
+1. 如果您的帐户包含要更新的现有帐单信息，请单击 **Edit（编辑）**。 ![计费新卡按钮](/assets/images/2021/10/help/billing/billing-information-edit-button.png)
 {% data reusables.dotcom_billing.enter-billing-info %}
-1. 如果您的帐户具有要更新的现有付款方式，请单击 **Edit（编辑）**。 ![计费新卡按钮](/assets/images/help/billing/billing-payment-method-edit-button.png)
+1. 如果您的帐户具有要更新的现有付款方式，请单击 **Edit（编辑）**。 ![计费新卡按钮](/assets/images/2021/10/help/billing/billing-payment-method-edit-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}
 
 ## 更新组织的付款方式
@@ -48,5 +48,5 @@ shortTitle: 管理付款方式
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. 如果您的帐户存在要更新的现有信用卡，请单击 **New Card（新卡）**。 ![计费新卡按钮](/assets/images/help/billing/billing-new-card-button.png)
+1. 如果您的帐户存在要更新的现有信用卡，请单击 **New Card（新卡）**。 ![计费新卡按钮](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

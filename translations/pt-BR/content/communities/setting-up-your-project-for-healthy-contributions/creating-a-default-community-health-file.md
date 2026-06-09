@@ -45,9 +45,9 @@ Você não pode criar um arquivo de licença padrão. Os arquivos de licença de
 ## Criar um repositório para arquivos padrão
 
 {% data reusables.repositories.create_new %}
-2. Use o menu suspenso **Proprietário** e selecione a organização{% ifversion fpt or ghes or ghec %} ou conta de usuário{% endif %} para as quais você deseja criar arquivo padrão. ![Menu suspenso Owner (Proprietário)](/assets/images/help/repository/create-repository-owner.png)
-3. Digite **.github** como o nome para seu repositório e uma descrição opcional. ![Campo Create repository (Criar repositório)](/assets/images/help/repository/default-file-repository-name.png)
-4. Certifique-se de que o status do repositório está definido como **Público** (um repositório-padrão para arquivos não pode ser privado). ![Botões de opção para selecionar status privado ou público](/assets/images/help/repository/create-repository-public-private.png)
+2. Use o menu suspenso **Proprietário** e selecione a organização{% ifversion fpt or ghes or ghec %} ou conta de usuário{% endif %} para as quais você deseja criar arquivo padrão. ![Menu suspenso Owner (Proprietário)](/assets/images/2021/10/help/repository/create-repository-owner.png)
+3. Digite **.github** como o nome para seu repositório e uma descrição opcional. ![Campo Create repository (Criar repositório)](/assets/images/2021/10/help/repository/default-file-repository-name.png)
+4. Certifique-se de que o status do repositório está definido como **Público** (um repositório-padrão para arquivos não pode ser privado). ![Botões de opção para selecionar status privado ou público](/assets/images/2021/10/help/repository/create-repository-public-private.png)
 {% data reusables.repositories.initialize-with-readme %}
 {% data reusables.repositories.create-repo %}
 7. No repositório, crie um dos arquivos compatíveis de integridade da comunidade. Modelos de problema{% ifversion fpt or ghes or ghec %} e seu arquivo de configuração{% endif %} devem estar em uma pasta chamada `.github/ISSUE_TEMPLATE`. Todos os outros arquivos compatíveis podem estar na raiz do repositório, na pasta `.github` ou na pasta `docs`. Para obter mais informações, consulte "[Criar arquivos](/articles/creating-new-files/)".

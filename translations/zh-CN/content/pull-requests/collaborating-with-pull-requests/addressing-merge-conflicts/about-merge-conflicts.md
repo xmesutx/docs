@@ -20,7 +20,7 @@ Git 通常可以自动解决分支之间的冲突并合并它们。 通常，更
 
 您必须解决所有合并冲突后，才能合并 {% data variables.product.product_name %} 上的拉取请求。 如果在拉取请求中的比较分支与基本分支之间存在合并冲突，您可以在 **Merge pull request（合并拉取请求）**按钮上方查看包含冲突的更改的文件列表。 **Merge pull request（合并拉取请求）**按钮在您解决比较分支与基本分支之间的所有冲突之前会一直禁用。
 
-![合并冲突错误消息](/assets/images/help/pull_requests/merge_conflict_error_on_github.png)
+![合并冲突错误消息](/assets/images/2021/10/help/pull_requests/merge_conflict_error_on_github.png)
 
 ## 解决合并冲突
 

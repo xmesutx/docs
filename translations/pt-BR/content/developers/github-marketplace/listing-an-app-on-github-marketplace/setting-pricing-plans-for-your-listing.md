@@ -30,7 +30,7 @@ Para oferecer um plano pago para seu aplicativo, este deve ser pertencente a uma
 
 Se seu aplicativo já foi publicado com um plano pago e você é um editor verificado, você poderá publicar um novo plano pago a partir da página "Editar um plano de preços" nas configurações da listagem do seu aplicativo do Marketplace.
 
-![Botão Publicar este plano](/assets/images/marketplace/publish-this-plan-button.png)
+![Botão Publicar este plano](/assets/images/2021/10/marketplace/publish-this-plan-button.png)
 
 Se seu aplicativo já foi publicado com um plano pago, mas você não é um editor verificado, você não poderá publicar um novo plano pago até que um editor seja verificado. Para obter mais informações sobre como se tornar um editor verificado, consulte "[Candidatar-se à verificação de publicador para a sua organização](/developers/github-marketplace/applying-for-publisher-verification-for-your-organization)".
 
@@ -69,7 +69,7 @@ Ao clicar em **Novo rascunho do plano**, você verá um formulário que permite 
 
 Se um plano de preços para o seu anúncio de {% data variables.product.prodname_marketplace %} não for mais necessário, ou se você precisar ajustar os detalhes de preços, você poderá removê-lo.
 
-![Botão para remover o seu plano de preços](/assets/images/marketplace/marketplace_remove_this_plan.png)
+![Botão para remover o seu plano de preços](/assets/images/2021/10/marketplace/marketplace_remove_this_plan.png)
 
 Depois de publicar um plano de preços para um aplicativo que já está listado em {% data variables.product.prodname_marketplace %}, você não poderá fazer alterações no plano. Em vez disso, você precisará remover o plano de preços e criar um novo plano. Os clientes que já compraram o plano de preços removido continuarão a usá-lo até que optem por sair o plano e passar para um novo plano de preços. Para obter mais informações sobre os planos de preços, consulte[ planos de preços do {% data variables.product.prodname_marketplace %}](/marketplace/selling-your-app/github-marketplace-pricing-plans/)".
 

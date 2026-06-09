@@ -37,7 +37,7 @@ Se uma organização aplivar o logon único do SAML (SSO), você não poderá us
 {% data reusables.enterprise-accounts.access-enterprise %}
 1. Na guia **Organizações**, à direita da organização em que você deseja gerenciar sua função, selecione o menu suspenso {% octicon "gear" aria-label="The gear icon" %} e clique na ação que você deseja assumir.
 
-   ![Captura de tela do menu suspenso para o ícone de engrenagem de uma organização](/assets/images/help/business-accounts/change-role-in-org.png)
+   ![Captura de tela do menu suspenso para o ícone de engrenagem de uma organização](/assets/images/2022/03/help/business-accounts/change-role-in-org.png)
 
 ## Entrando para uma organização que apliva o SAML SSO
 

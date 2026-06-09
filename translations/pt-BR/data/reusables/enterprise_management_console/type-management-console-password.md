@@ -1,1 +1,1 @@
-1. Se solicitado, digite sua senha do {% data variables.enterprise.management_console %}. ![{% data variables.enterprise.management_console %} desbloquear tela](/assets/images/enterprise/management-console/unlock-password.png)
+1. Se solicitado, digite sua senha do {% data variables.enterprise.management_console %}. ![{% data variables.enterprise.management_console %} desbloquear tela](/assets/images/2021/10/enterprise/management-console/unlock-password.png)

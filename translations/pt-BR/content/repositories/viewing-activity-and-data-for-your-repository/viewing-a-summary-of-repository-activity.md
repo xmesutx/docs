@@ -31,4 +31,4 @@ Os coautores de commit serão incluídos no resumo da atividade de commit caso t
 
 Por padrão, o Pulse mostra os últimos sete dias de atividade do repositório. Para escolher um período diferente, clique no menu suspenso **Period** (Período) no canto superior esquerdo da visão geral do Pulse.
 
-![Filtrar atividade do Pulse por hora](/assets/images/help/pulse/pulse_time_filter_dropdown.png)
+![Filtrar atividade do Pulse por hora](/assets/images/2021/10/help/pulse/pulse_time_filter_dropdown.png)

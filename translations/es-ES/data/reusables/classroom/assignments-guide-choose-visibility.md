@@ -5,5 +5,5 @@ También puedes decidir si quieres otorgar a los alumnos permisos administrativo
 Selecciona una visibilidad debajo de "Visibilidad del repositorio". Opcionalmente, selecciona **Otorgar a los alumnos acceso administrativo para el repositorio**.
 
 <div class="procedural-image-wrapper">
-  <img alt="Opciones de visibilidad para los repositorios de tareas" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-choose-repository-visibility.png">
+  <img alt="Opciones de visibilidad para los repositorios de tareas" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-choose-repository-visibility.png">
 </div>

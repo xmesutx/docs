@@ -16,7 +16,7 @@ topics:
 
 Utiliza el menú Sort (Clasificar) para clasificar resultados por relevancia, cantidad de estrellas, cantidad de bifurcaciones y qué tan recientemente se actualizaron los elementos.
 
-  ![Menú con opciones para clasificar resultados de búsqueda](/assets/images/help/search/repo-search-sort.png)
+  ![Menú con opciones para clasificar resultados de búsqueda](/assets/images/2021/10/help/search/repo-search-sort.png)
 
 Para clasificar por interacciones, reacciones, fecha de autor, fecha de persona que confirma el cambio, o qué tan recientemente se actualizaron los elementos, puedes agregar un calificador `sort` a tu consulta de búsqueda.
 

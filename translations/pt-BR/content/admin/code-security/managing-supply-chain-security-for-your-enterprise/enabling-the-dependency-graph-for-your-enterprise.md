@@ -29,7 +29,7 @@ Se o seu {% data variables.product.product_location %} usar clustering, você n�
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.advanced-security-tab %}
-1. Em "Segurança", clique em **Gráfico de dependência**. ![Caixa de seleção para habilitar ou desabilitar o gráfico de dependências](/assets/images/enterprise/3.2/management-console/enable-dependency-graph-checkbox.png)
+1. Em "Segurança", clique em **Gráfico de dependência**. ![Caixa de seleção para habilitar ou desabilitar o gráfico de dependências](/assets/images/2021/10/enterprise/3.2/management-console/enable-dependency-graph-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 1. Clique **Visit your instance** (Visite sua instância).
 

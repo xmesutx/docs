@@ -39,8 +39,8 @@ Se você fizer o downgrade da sua conta de usuário de {% data variables.product
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
-1. Em "Plano atual", use o menu suspenso **Editar** e clique em **Fazer downgrade para grátis**. ![Botão Downgrade to free (Fazer downgrade para o Free)](/assets/images/help/billing/downgrade-to-free.png)
-5. Leia as informações sobre os recursos aos quais sua organização deixará de ter acesso na próxima data de sua cobrança e clique em **Eu compreendi. Continue com o downgrade**. ![Continuar com o botão de downgrade](/assets/images/help/billing/continue-with-downgrade.png)
+1. Em "Plano atual", use o menu suspenso **Editar** e clique em **Fazer downgrade para grátis**. ![Botão Downgrade to free (Fazer downgrade para o Free)](/assets/images/2021/10/help/billing/downgrade-to-free.png)
+5. Leia as informações sobre os recursos aos quais sua organização deixará de ter acesso na próxima data de sua cobrança e clique em **Eu compreendi. Continue com o downgrade**. ![Continuar com o botão de downgrade](/assets/images/2021/10/help/billing/continue-with-downgrade.png)
 
 Se você tiver publicado um site do {% data variables.product.prodname_pages %} em um repositório privado e adicionado um domínio personalizado, remova ou atualize seus registros DNS antes de fazer downgrade do {% data variables.product.prodname_pro %} para {% data variables.product.prodname_free_user %}, a fim de evitar o risco de uma aquisição de domínio. Para obter mais informações, consulte "[Gerenciar um domínio personalizado para seu site do {% data variables.product.prodname_pages %}](/articles/managing-a-custom-domain-for-your-github-pages-site)".
 
@@ -60,7 +60,7 @@ Se você fizer o downgrade da sua organização de {% data variables.product.pro
 {% endnote %}
 
 {% data reusables.organizations.billing-settings %}
-1. Em "Plano atual", use o menu suspenso **Editar** e clique na opção de downgrade que você deseja. ![Botão Downgrade (Fazer downgrade)](/assets/images/help/billing/downgrade-option-button.png)
+1. Em "Plano atual", use o menu suspenso **Editar** e clique na opção de downgrade que você deseja. ![Botão Downgrade (Fazer downgrade)](/assets/images/2021/10/help/billing/downgrade-option-button.png)
 {% data reusables.dotcom_billing.confirm_cancel_org_plan %}
 
 ## Fazer downgrade da assinatura de uma organização com o preço antigo por repositório
@@ -70,9 +70,9 @@ Se você fizer o downgrade da sua organização de {% data variables.product.pro
 {% data reusables.dotcom_billing.switch-legacy-billing %} Para obter mais informações, consulte "[Mudar sua organização de um preço por repositório para um preço por usuário](/billing/managing-billing-for-your-github-account/upgrading-your-github-subscription#switching-your-organization-from-per-repository-to-per-user-pricing)".
 
 {% data reusables.organizations.billing-settings %}
-5. Em "Assinaturas", selecione o menu suspenso "Editar" e clique em **Editar plano**. ![Menu suspenso Editar plano](/assets/images/help/billing/edit-plan-dropdown.png)
-1. Em "Billing/Plans" (Cobrança/Planos), ao lado do plano que deseja alterar, clique em **Downgrade**. ![Botão Downgrade (Fazer downgrade)](/assets/images/help/billing/downgrade-plan-option-button.png)
-1. Insira o motivo pelo qual você está fazendo o downgrade da sua conta e clique em **Fazer downgrade do plano**. ![Caixa de texto para motivo de downgrade e botão de downgrade](/assets/images/help/billing/downgrade-plan-button.png)
+5. Em "Assinaturas", selecione o menu suspenso "Editar" e clique em **Editar plano**. ![Menu suspenso Editar plano](/assets/images/2021/10/help/billing/edit-plan-dropdown.png)
+1. Em "Billing/Plans" (Cobrança/Planos), ao lado do plano que deseja alterar, clique em **Downgrade**. ![Botão Downgrade (Fazer downgrade)](/assets/images/2021/10/help/billing/downgrade-plan-option-button.png)
+1. Insira o motivo pelo qual você está fazendo o downgrade da sua conta e clique em **Fazer downgrade do plano**. ![Caixa de texto para motivo de downgrade e botão de downgrade](/assets/images/2021/10/help/billing/downgrade-plan-button.png)
 
 ## Remover estações pagas da sua organização
 
@@ -82,9 +82,9 @@ Para reduzir o número de estações pagas usadas pela sua organização, remova
 - "[Gerenciar o acesso de um indivíduo a um repositório da organização](/articles/managing-an-individual-s-access-to-an-organization-repository)"
 
 {% data reusables.organizations.billing-settings %}
-1. Em "Plano atual", use o menu suspenso **Editar** e clique em **Remover estações**. ![menu suspenso para remover estações](/assets/images/help/billing/remove-seats-dropdown.png)
-1. Em "Remove seats" (Remover estações), selecione o número de estações em que você deseja fazer downgrade. ![opção de remover estações](/assets/images/help/billing/remove-seats-amount.png)
-1. Revise as informações sobre seu novo pagamento na sua próxima data de cobrança e clique em **Remove seats** (Remover estações). ![botão de remover estações](/assets/images/help/billing/remove-seats-button.png)
+1. Em "Plano atual", use o menu suspenso **Editar** e clique em **Remover estações**. ![menu suspenso para remover estações](/assets/images/2021/10/help/billing/remove-seats-dropdown.png)
+1. Em "Remove seats" (Remover estações), selecione o número de estações em que você deseja fazer downgrade. ![opção de remover estações](/assets/images/2021/10/help/billing/remove-seats-amount.png)
+1. Revise as informações sobre seu novo pagamento na sua próxima data de cobrança e clique em **Remove seats** (Remover estações). ![botão de remover estações](/assets/images/2021/10/help/billing/remove-seats-button.png)
 
 ## Leia mais
 

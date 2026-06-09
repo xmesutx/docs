@@ -21,9 +21,9 @@ You can find apps and actions on {% data variables.product.prodname_marketplace 
 ## Searching in {% data variables.product.prodname_marketplace %}
 
 1. At the top of any page, click **Marketplace**.
-  ![Marketplace link](/assets/images/help/search/marketplace-link.png)
+  ![Marketplace link](/assets/images/2021/10/help/search/marketplace-link.png)
 2. Type any keywords and press **Enter**.
-  ![Search for linter on {% data variables.product.prodname_marketplace %}](/assets/images/help/search/marketplace-apps-and-actions-search-field.png)
+  ![Search for linter on {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/help/search/marketplace-apps-and-actions-search-field.png)
 3. Optionally, filter your results by clicking one or more options in the left sidebar.
 
 ## Searching across {% data variables.product.prodname_dotcom_the_website %}
@@ -32,9 +32,9 @@ Anytime you search across all of {% data variables.product.prodname_dotcom_the_w
 
 1. Navigate to https://github.com/search.
 2. Type any keywords and press **Enter**.
-  ![search field](/assets/images/help/search/search-field.png)
+  ![search field](/assets/images/2021/10/help/search/search-field.png)
 3. In the left sidebar, click **Marketplace**.
-  ![Search results for linter with Marketplace side-menu option highlighted](/assets/images/help/search/marketplace-left-side-navigation.png)
+  ![Search results for linter with Marketplace side-menu option highlighted](/assets/images/2021/10/help/search/marketplace-left-side-navigation.png)
 
 ## Further reading
 

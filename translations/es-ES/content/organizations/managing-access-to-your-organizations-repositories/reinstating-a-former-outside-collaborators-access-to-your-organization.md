@@ -53,7 +53,7 @@ Cuando reinstalas un colaborador externo antiguo, puedes restaurar lo siguiente:
 
   {% endwarning %}
 
-  ![Decide si quieres restaurar los parámetros o no](/assets/images/help/organizations/choose_whether_to_restore_org_member_info.png)
+  ![Decide si quieres restaurar los parámetros o no](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info.png)
 {% else %}
 6. Decide si quieres restaurar los privilegios antiguos del colaborador externo en la organización haciendo clic en **Add and reinstate** (Agregar y reinstalar) o decide eliminar los privilegios antiguos y establecer nuevos permisos de acceso haciendo clic en **Add and start fresh** (Agregar e iniciar de nuevo).
 
@@ -63,12 +63,12 @@ Cuando reinstalas un colaborador externo antiguo, puedes restaurar lo siguiente:
 
   {% endwarning %}
 
-  ![Decide si quieres restaurar los parámetros o no](/assets/images/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
+  ![Decide si quieres restaurar los parámetros o no](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
 {% endif %}
 {% ifversion fpt or ghec %}
-7. Si eliminaste los privilegios anteriores de un colaborador externo antiguo, elige un rol para el usuario y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Send invitation** (Enviar invitación). ![Opciones de rol y equipo y botón para enviar invitación](/assets/images/help/organizations/add-role-send-invitation.png)
+7. Si eliminaste los privilegios anteriores de un colaborador externo antiguo, elige un rol para el usuario y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Send invitation** (Enviar invitación). ![Opciones de rol y equipo y botón para enviar invitación](/assets/images/2021/10/help/organizations/add-role-send-invitation.png)
 {% else %}
-7. Si eliminaste los privilegios anteriores de un colaborador externo antiguo, elige un rol para el usuario y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Add member** (Agregar miembro). ![Opciones de rol y equipo y botón para agregar miembros](/assets/images/help/organizations/add-role-add-member.png)
+7. Si eliminaste los privilegios anteriores de un colaborador externo antiguo, elige un rol para el usuario y, de manera opcional, agrégalo a algunos equipos, luego haz clic en **Add member** (Agregar miembro). ![Opciones de rol y equipo y botón para agregar miembros](/assets/images/2021/10/help/organizations/add-role-add-member.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 8. La persona invitada recibirá un correo electrónico invitándola a la organización. Tendrá que aceptar la invitación antes de convertirse en colaborador externo de la organización. {% data reusables.organizations.cancel_org_invite %}

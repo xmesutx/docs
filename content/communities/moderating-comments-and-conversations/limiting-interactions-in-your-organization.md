@@ -35,7 +35,7 @@ Organization owners can also block users for a specific amount of time. After th
 {% data reusables.profile.org_settings %}
 1. In the "Access" section of the sidebar, select **{% octicon "report" aria-label="The report icon" %} Moderation**, then click **Interaction limits**.
 {% data reusables.community.set-interaction-limit %}
-  ![Temporary interaction limit options](/assets/images/help/organizations/organization-temporary-interaction-limits-options.png)
+  ![Temporary interaction limit options](/assets/images/2021/10/help/organizations/organization-temporary-interaction-limits-options.png)
 
 ## Further reading
 - "[Reporting abuse or spam](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"

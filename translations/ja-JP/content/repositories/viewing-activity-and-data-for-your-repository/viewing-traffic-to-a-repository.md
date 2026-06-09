@@ -24,10 +24,10 @@ shortTitle: View repository traffic
 
 {% endtip %}
 
-![ツールチップを使用したリポジトリトラフィックグラフ](/assets/images/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
+![ツールチップを使用したリポジトリトラフィックグラフ](/assets/images/2021/10/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
 
 ## トラフィックグラフにアクセスする
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. 左側のサイドバーで、[**Traffic**] をクリックします。 ![[Traffic] タブ](/assets/images/help/graphs/traffic_tab.png)
+3. 左側のサイドバーで、[**Traffic**] をクリックします。 ![[Traffic] タブ](/assets/images/2021/10/help/graphs/traffic_tab.png)

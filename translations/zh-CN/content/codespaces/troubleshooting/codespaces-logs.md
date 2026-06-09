@@ -102,4 +102,4 @@ gh codespace logs -c <CODESPACE-NAME> > /path/to/logs.txt
 
 1. 在要调试的代码空间的浏览器窗口中，打开开发人员工具窗口。
 1. 显示“Console（控制台）”选项卡，然后单击左侧栏中的 **errors（错误）**以仅显示错误。
-1. 在右侧的日志区域中，右键单击并选择 **Save as（另存为）**将错误的副本保存到本地计算机。 ![保存错误](/assets/images/help/codespaces/browser-console-log-save.png)
+1. 在右侧的日志区域中，右键单击并选择 **Save as（另存为）**将错误的副本保存到本地计算机。 ![保存错误](/assets/images/2021/10/help/codespaces/browser-console-log-save.png)

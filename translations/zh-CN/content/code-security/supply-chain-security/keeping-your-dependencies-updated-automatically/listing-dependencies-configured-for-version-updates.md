@@ -28,11 +28,11 @@ shortTitle: 列出已配置的依赖项
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.click-dependency-graph %}
 {% data reusables.dependabot.click-dependabot-tab %}
-1. 或者，要查看为包管理器监视的文件，请单击关联的 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![受监视的依赖项文件](/assets/images/help/dependabot/monitored-dependency-files.png)
+1. 或者，要查看为包管理器监视的文件，请单击关联的 {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}。 ![受监视的依赖项文件](/assets/images/2021/10/help/dependabot/monitored-dependency-files.png)
 
 如果缺少任何依赖项，请检查日志文件是否有错误。 如果缺少任何包管理器，请审查配置文件。
 
 ## 查看 {% data variables.product.prodname_dependabot %} 日志文件
 
-1. 在 **{% data variables.product.prodname_dependabot %}** 选项卡上，单击 **Last checked *TIME* ago**（上次检查时间以前），查看 {% data variables.product.prodname_dependabot %} 在上次检查版本更新时生成的日志文件。 ![查看日志文件](/assets/images/help/dependabot/last-checked-link.png)
-2. 或者，要返回版本检查，请单击 **Check for updates（检查更新）**。 ![检查更新](/assets/images/help/dependabot/check-for-updates.png)
+1. 在 **{% data variables.product.prodname_dependabot %}** 选项卡上，单击 **Last checked *TIME* ago**（上次检查时间以前），查看 {% data variables.product.prodname_dependabot %} 在上次检查版本更新时生成的日志文件。 ![查看日志文件](/assets/images/2021/10/help/dependabot/last-checked-link.png)
+2. 或者，要返回版本检查，请单击 **Check for updates（检查更新）**。 ![检查更新](/assets/images/2021/10/help/dependabot/check-for-updates.png)

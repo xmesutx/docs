@@ -2,12 +2,12 @@
 
   {% mac %}
 
-  ![克隆仓库菜单中的 Location（位置）选项卡](/assets/images/help/desktop/choose-repository-location-mac.png)
+  ![克隆仓库菜单中的 Location（位置）选项卡](/assets/images/2021/10/help/desktop/choose-repository-location-mac.png)
 
   {% endmac %}
 
   {% windows %}
 
-  ![克隆仓库菜单中的 Location（位置）选项卡](/assets/images/help/desktop/choose-repository-location-win.png)
+  ![克隆仓库菜单中的 Location（位置）选项卡](/assets/images/2021/10/help/desktop/choose-repository-location-win.png)
 
   {% endwindows %}

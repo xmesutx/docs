@@ -41,5 +41,5 @@ Al cambiar la duración de tu ciclo de facturación, tu suscripción a {% data v
 ### Cambiar la duración de un plan heredado por repositorio
 
 {% data reusables.organizations.billing-settings %}
-4. En "Billing overview" (Resumen de facturación), haz clic en **Change plan** (Cambiar plan). ![Botón para cambiar el plan del resumen de facturación](/assets/images/help/billing/billing_overview_change_plan.png)
-5. En el ángulo superior derecho, haz clic en **Switch to monthly billing** (Cambiar a facturación mensual)</strong> o **Switch to yearly billing** (Cambiar a facturación mensual). ![Sección de información de facturación](/assets/images/help/billing/settings_billing_organization_plans_switch_to_yearly.png)
+4. En "Billing overview" (Resumen de facturación), haz clic en **Change plan** (Cambiar plan). ![Botón para cambiar el plan del resumen de facturación](/assets/images/2021/10/help/billing/billing_overview_change_plan.png)
+5. En el ángulo superior derecho, haz clic en **Switch to monthly billing** (Cambiar a facturación mensual)</strong> o **Switch to yearly billing** (Cambiar a facturación mensual). ![Sección de información de facturación](/assets/images/2021/10/help/billing/settings_billing_organization_plans_switch_to_yearly.png)

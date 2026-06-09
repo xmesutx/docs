@@ -13,7 +13,7 @@ This website, {% data variables.product.prodname_docs %}, provides documentation
 
 At the top of a page on {% data variables.product.prodname_docs %}, select the dropdown menu and click a product. If your browser window is not wide enough to display the full navigation bar, you may need to click {% octicon "three-bars" aria-label="The three bars icon" %} first.
 
-![Screenshot of the dropdown menu for picking a version of {% data variables.product.prodname_docs %} to view](/assets/images/help/docs/version-picker.png)
+![Screenshot of the dropdown menu for picking a version of {% data variables.product.prodname_docs %} to view](/assets/images/2021/12/help/docs/version-picker.png)
 
 {% note %}
 
@@ -33,7 +33,7 @@ If you access {% data variables.product.prodname_dotcom %} at https://github.com
 
 In a wide browser window, there is no text that immediately follows the {% data variables.product.company_short %} logo on the left side of the header.
 
-![Screenshot of the address bar and the {% data variables.product.prodname_dotcom_the_website %} header in a browser](/assets/images/help/docs/header-dotcom.png)
+![Screenshot of the address bar and the {% data variables.product.prodname_dotcom_the_website %} header in a browser](/assets/images/2021/12/help/docs/header-dotcom.png)
 
 On {% data variables.product.prodname_dotcom_the_website %}, each account has its own plan. Each personal account has an associated plan that provides access to certain features, and each organization has a different associated plan. Si tu cuenta personal es miembro de una organización de {% data variables.product.prodname_dotcom_the_website %}, puedes tener acceso a características diferentes cuando utilizas recursos que le pertenezcan a esa organización y cuando utilizas los que le pertenecen a tu cuenta personal. Para obtener más información, consulta la sección "[Tipos de cuentas de {% data variables.product.prodname_dotcom %}](/get-started/learning-about-github/types-of-github-accounts)".
 
@@ -45,7 +45,7 @@ Si accedes a {% data variables.product.prodname_dotcom %} mediante una URL difer
 
 In a wide browser window, the word "Enterprise" immediately follows the {% data variables.product.company_short %} logo on the left side of the header.
 
-![Screenshot of address bar and {% data variables.product.prodname_ghe_server %} header in a browser](/assets/images/help/docs/header-ghes.png)
+![Screenshot of address bar and {% data variables.product.prodname_ghe_server %} header in a browser](/assets/images/2021/12/help/docs/header-ghes.png)
 
 ### {% data variables.product.prodname_ghe_managed %}
 
@@ -53,4 +53,4 @@ Si accedes a {% data variables.product.prodname_dotcom %} a través de `https://
 
 In a wide browser window, the words "{% data variables.product.prodname_ghe_managed %}" immediately follow the {% data variables.product.company_short %} logo in the header.
 
-![Address bar and {% data variables.product.prodname_ghe_managed %} header in a browser](/assets/images/help/docs/header-ghae.png)
+![Address bar and {% data variables.product.prodname_ghe_managed %} header in a browser](/assets/images/2021/12/help/docs/header-ghae.png)

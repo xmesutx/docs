@@ -24,7 +24,7 @@ Um codespace irá parar de funcionar após um período de inatividade. Você pod
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. Em "Tempo de inatividade", digite o tempo que você deseja e, em seguida, clique em **Salvar**. O tempo deve ser entre 5 minutos e 240 minutos (4 horas). ![Selecionando o tempo limite](/assets/images/help/codespaces/setting-default-timeout.png)
+1. Em "Tempo de inatividade", digite o tempo que você deseja e, em seguida, clique em **Salvar**. O tempo deve ser entre 5 minutos e 240 minutos (4 horas). ![Selecionando o tempo limite](/assets/images/2021/12/help/codespaces/setting-default-timeout.png)
 
 {% endwebui %}
 

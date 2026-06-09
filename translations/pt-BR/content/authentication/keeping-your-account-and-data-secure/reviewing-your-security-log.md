@@ -25,7 +25,7 @@ O log de segurança lista todas as ações realizadas nos últimos 90 dias.
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-5658 %}
 1. Na seção "Arquivos" da barra lateral, clique em **Registro de segurança de {% octicon "log" aria-label="The log icon" %}**.
 {% else %}
-1. Na barra lateral de configurações do usuário, clique em **log de segurança**. ![Aba do log de segurança](/assets/images/help/settings/audit-log-tab.png)
+1. Na barra lateral de configurações do usuário, clique em **log de segurança**. ![Aba do log de segurança](/assets/images/2021/10/help/settings/audit-log-tab.png)
 {% endif %}
 
 {% ifversion fpt or ghae or ghes or ghec %}

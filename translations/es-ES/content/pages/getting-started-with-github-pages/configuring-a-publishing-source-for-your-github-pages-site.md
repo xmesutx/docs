@@ -26,9 +26,9 @@ Antes de configurar una fuente de publicación, asegúrate de que la rama que qu
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-3. Debajo de "{% data variables.product.prodname_pages %}", utiliza el menú desplegable de **Ninguno** o de **Rama** y selecciona una fuente de publicación. ![Menú desplegable para seleccionar una fuente de publicación](/assets/images/help/pages/publishing-source-drop-down.png)
-4. Opcionalmente, utiliza el menú desplegable para seleccionar una carpeta para tu fuente de publicación. ![Menú desplegable para seleccionar una carpeta para una fuente de publicación](/assets/images/help/pages/publishing-source-folder-drop-down.png)
-5. Haz clic en **Save ** (guardar). ![Botón para guardar los cambios en la configuración de la fuente de publicación](/assets/images/help/pages/publishing-source-save.png)
+3. Debajo de "{% data variables.product.prodname_pages %}", utiliza el menú desplegable de **Ninguno** o de **Rama** y selecciona una fuente de publicación. ![Menú desplegable para seleccionar una fuente de publicación](/assets/images/2021/10/help/pages/publishing-source-drop-down.png)
+4. Opcionalmente, utiliza el menú desplegable para seleccionar una carpeta para tu fuente de publicación. ![Menú desplegable para seleccionar una carpeta para una fuente de publicación](/assets/images/2021/10/help/pages/publishing-source-folder-drop-down.png)
+5. Haz clic en **Save ** (guardar). ![Botón para guardar los cambios en la configuración de la fuente de publicación](/assets/images/2021/10/help/pages/publishing-source-save.png)
 
 ## Solución de problemas de publicación con tu sitio de {% data variables.product.prodname_pages %}
 

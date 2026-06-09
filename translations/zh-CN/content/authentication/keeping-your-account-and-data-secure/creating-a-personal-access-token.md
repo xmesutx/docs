@@ -41,21 +41,21 @@ shortTitle: 创建 PAT
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.personal_access_tokens %}
 {% data reusables.user-settings.generate_new_token %}
-5. 给令牌一个描述性名称。 ![Token description field](/assets/images/help/settings/token_description.png){% ifversion fpt or ghes > 3.2 or ghae-issue-4374 or ghec %}
-6. 要使令牌过期，请选择 **Expiration（到期）**下拉菜单，然后单击默认值或使用日历选择器。 ![Token expiration field](/assets/images/help/settings/token_expiration.png){% endif %}
+5. 给令牌一个描述性名称。 ![Token description field](/assets/images/2021/10/help/settings/token_description.png){% ifversion fpt or ghes > 3.2 or ghae-issue-4374 or ghec %}
+6. 要使令牌过期，请选择 **Expiration（到期）**下拉菜单，然后单击默认值或使用日历选择器。 ![Token expiration field](/assets/images/2021/10/help/settings/token_expiration.png){% endif %}
 7. 选择要授予此令牌的作用域或权限。 要使用令牌从命令行访问仓库，请选择 **repo（仓库）**。
    {% ifversion fpt or ghes or ghec %}
-   ![选择令牌作用域](/assets/images/help/settings/token_scopes.gif)
+   ![选择令牌作用域](/assets/images/2021/10/help/settings/token_scopes.gif)
    {% elsif ghae %}
-   ![选择令牌作用域](/assets/images/enterprise/github-ae/settings/access-token-scopes-for-ghae.png)
+   ![选择令牌作用域](/assets/images/2021/10/enterprise/github-ae/settings/access-token-scopes-for-ghae.png)
    {% endif %}
-8. 单击 **Generate token（生成令牌）**。 ![生成令牌按钮](/assets/images/help/settings/generate_token.png)
+8. 单击 **Generate token（生成令牌）**。 ![生成令牌按钮](/assets/images/2021/10/help/settings/generate_token.png)
    {% ifversion fpt or ghec %}
-   ![新建的令牌](/assets/images/help/settings/personal_access_tokens.png)
+   ![新建的令牌](/assets/images/2021/10/help/settings/personal_access_tokens.png)
    {% elsif ghes > 3.1 or ghae %}
-   ![新建的令牌](/assets/images/help/settings/personal_access_tokens_ghe.png)
+   ![新建的令牌](/assets/images/2021/10/help/settings/personal_access_tokens_ghe.png)
    {% else %}
-   ![新建的令牌](/assets/images/help/settings/personal_access_tokens_ghe_legacy.png)
+   ![新建的令牌](/assets/images/2021/10/help/settings/personal_access_tokens_ghe_legacy.png)
    {% endif %}
    {% warning %}
 

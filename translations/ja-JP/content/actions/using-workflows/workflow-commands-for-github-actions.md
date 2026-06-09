@@ -183,7 +183,7 @@ echo "Inside group"
 echo "::endgroup::"
 ```
 
-![ワークフローの実行ログ中の折りたたみ可能なグループ](/assets/images/actions-log-group.png)
+![ワークフローの実行ログ中の折りたたみ可能なグループ](/assets/images/2021/10/actions-log-group.png)
 
 ## ログ中での値のマスク
 

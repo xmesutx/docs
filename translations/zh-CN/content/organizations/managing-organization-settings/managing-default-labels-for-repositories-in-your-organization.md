@@ -25,7 +25,7 @@ shortTitle: 管理默认标签
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.repository-defaults %}
 
-5. 在“Repository labels（仓库标签）”下，单击 **New label（新标签）**。 ![新标签按钮](/assets/images/help/organizations/new-label-button.png)
+5. 在“Repository labels（仓库标签）”下，单击 **New label（新标签）**。 ![新标签按钮](/assets/images/2021/10/help/organizations/new-label-button.png)
 {% data reusables.project-management.name-label %}
 {% data reusables.project-management.label-description %}
 {% data reusables.project-management.label-color-randomizer %}

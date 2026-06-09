@@ -33,7 +33,7 @@ En la sección "Recent activity" (Actividad reciente) de tus noticias, rápidame
 
 En la barra lateral izquierda de tu tablero, puedes acceder a los equipos y los repositorios principales que usas.
 
-![listado de repositorios y equipos de diferentes organizaciones](/assets/images/help/dashboard/repositories-and-teams-from-personal-dashboard.png)
+![listado de repositorios y equipos de diferentes organizaciones](/assets/images/2021/10/help/dashboard/repositories-and-teams-from-personal-dashboard.png)
 
 La lista de repositorios principales se genera automáticamente y puede incluir cualquier repositorio con el que hayas interactuado, ya sea que pertenezca directamente a tu cuenta o no. Las interacciones incluyen el realizar confirmaciones y abrir o comentar en propuestas y solicitudes de cambios. La lista de repositorios principales no puede editarse, pero los repositorios saldrán de la lista en 4 meses después de la última interacción que hayas tenido con ellos.
 

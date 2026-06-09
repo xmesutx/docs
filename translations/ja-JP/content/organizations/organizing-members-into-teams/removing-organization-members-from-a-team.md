@@ -21,5 +21,5 @@ shortTitle: メンバーの削除
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
-4. 削除する個人を選択します。 ![Organization メンバーの横のチェックボックス](/assets/images/help/teams/team-member-check-box.png)
-5. Team メンバーのリストの上のドロップダウンメニューで、[**Remove from team**] をクリックします。 ![ロールを変更するオプションのあるドロップダウンメニュー](/assets/images/help/teams/bulk-edit-drop-down.png)
+4. 削除する個人を選択します。 ![Organization メンバーの横のチェックボックス](/assets/images/2021/10/help/teams/team-member-check-box.png)
+5. Team メンバーのリストの上のドロップダウンメニューで、[**Remove from team**] をクリックします。 ![ロールを変更するオプションのあるドロップダウンメニュー](/assets/images/2021/10/help/teams/bulk-edit-drop-down.png)

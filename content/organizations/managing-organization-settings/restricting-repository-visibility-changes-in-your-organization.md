@@ -28,7 +28,7 @@ You can restrict the ability to change repository visibility to organization own
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
 5. Under "Repository visibility change", deselect **Allow members to change repository visibilities for this organization**.
-![Checkbox to allow members to change repository visibility](/assets/images/help/organizations/disallow-members-to-change-repo-visibility.png)
+![Checkbox to allow members to change repository visibility](/assets/images/2021/10/help/organizations/disallow-members-to-change-repo-visibility.png)
 6. Click **Save**.
 
 ## Further reading

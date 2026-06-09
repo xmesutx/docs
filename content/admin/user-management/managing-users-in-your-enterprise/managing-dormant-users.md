@@ -26,9 +26,9 @@ topics:
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 3. In the left sidebar, click **Dormant users**.
-![Dormant users tab](/assets/images/enterprise/site-admin-settings/dormant-users-tab.png){% ifversion ghes %}
+![Dormant users tab](/assets/images/2021/10/enterprise/site-admin-settings/dormant-users-tab.png){% ifversion ghes %}
 4. To suspend all the dormant users in this list, at the top of the page, click **Suspend all**.
-![Suspend all button](/assets/images/enterprise/site-admin-settings/suspend-all.png){% endif %}
+![Suspend all button](/assets/images/2021/10/enterprise/site-admin-settings/suspend-all.png){% endif %}
 
 ## Determining whether a user account is dormant
 
@@ -36,8 +36,8 @@ topics:
 {% data reusables.enterprise_site_admin_settings.search-user %}
 {% data reusables.enterprise_site_admin_settings.click-user %}
 5. In the **User info** section, a red dot with the word "Dormant" indicates the user account is dormant, and a green dot with the word "Active" indicates the user account is active.
-![Dormant user account](/assets/images/enterprise/stafftools/dormant-user.png)
-![Active user account](/assets/images/enterprise/stafftools/active-user.png)
+![Dormant user account](/assets/images/2021/10/enterprise/stafftools/dormant-user.png)
+![Active user account](/assets/images/2021/10/enterprise/stafftools/active-user.png)
 
 ## Configuring the dormancy threshold
 
@@ -48,7 +48,7 @@ topics:
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
 4. Under "Dormancy threshold", use the drop-down menu, and click the desired dormancy threshold.
-![The Dormancy threshold drop-down menu](/assets/images/enterprise/site-admin-settings/dormancy-threshold-menu.png)
+![The Dormancy threshold drop-down menu](/assets/images/2021/10/enterprise/site-admin-settings/dormancy-threshold-menu.png)
 
 {% endif %}
 
@@ -61,6 +61,6 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.enterprise-accounts-compliance-tab %}
 1. To download your Dormant Users (beta) report as a CSV file, under "Other", click {% octicon "download" aria-label="The Download icon" %} **Download**.
-  ![Download button under "Other" on the Compliance page](/assets/images/help/business-accounts/dormant-users-download-button.png)
+  ![Download button under "Other" on the Compliance page](/assets/images/2021/11/help/business-accounts/dormant-users-download-button.png)
 
 {% endif %}

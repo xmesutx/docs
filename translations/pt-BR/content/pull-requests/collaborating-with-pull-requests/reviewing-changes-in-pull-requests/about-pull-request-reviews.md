@@ -28,20 +28,20 @@ As revisões permitem discussão das alterações propostas e ajudam a garantir 
 
 {% ifversion fpt or ghec %}Você pode agendar lembretes para pull requests que precisam ser revisadas. Para obter mais informações, consulte "[Gerenciando os lembretes agendados para pull request](/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests)."{% endif %}
 
-![Header de revisão solicitando alterações com comentários em linha](/assets/images/help/pull_requests/review-header-with-line-comment.png)
+![Header de revisão solicitando alterações com comentários em linha](/assets/images/2021/10/help/pull_requests/review-header-with-line-comment.png)
 
 Uma revisão tem três status possíveis:
 - **Comment** (Comentar): envie feedback genérico sem aprovar explicitamente as alterações nem solicitar alterações adicionais.
 - **Approve** (Aprovar): envie feedback e aprove o merge das alterações propostas na pull request.
 - **Request changes** (Solicitar alterações): envie feedback que deve ser cumprido para que a pull request possa sofrer merge.
 
-![Imagem de status de revisão](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+![Imagem de status de revisão](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
 {% data reusables.repositories.request-changes-tips %}
 
 Você pode exibir todas as revisões que uma pull request recebeu na linha do tempo Conversation (Conversa), assim como pode ver revisões por proprietários e colaboradores de repositório na caixa de merge da pull request.
 
-![Imagem de revisões em uma caixa de merge](/assets/images/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
+![Imagem de revisões em uma caixa de merge](/assets/images/2021/10/help/pull_requests/merge_box/pr-reviews-in-merge-box.png)
 
 {% data reusables.search.requested_reviews_search_tip %}
 

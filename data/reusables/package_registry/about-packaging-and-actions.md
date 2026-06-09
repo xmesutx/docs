@@ -8,7 +8,7 @@ For example, a continuous integration workflow for a Java project may run `mvn p
 
 Now, when reviewing a pull request, you'll be able to look at the workflow run and download the artifact that was produced.
 
-![Download artifact drop-down menu](/assets/images/help/repository/artifact-drop-down-updated.png)
+![Download artifact drop-down menu](/assets/images/2021/10/help/repository/artifact-drop-down-updated.png)
 
 This will let you run the code in the pull request on your machine, which can help with debugging or testing the pull request.
 

@@ -26,7 +26,7 @@ SNMP とは、ネットワーク経由でデバイスを監視するための一
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.access-monitoring %}
 {% data reusables.enterprise_management_console.enable-snmp %}
-4. **Community string** の欄では、新しいコミュニティ文字列を入力する。 空白のままだと、`public`という設定になります。 ![コミュニティ文字列型を追加するためのフィールド](/assets/images/enterprise/management-console/community-string.png)
+4. **Community string** の欄では、新しいコミュニティ文字列を入力する。 空白のままだと、`public`という設定になります。 ![コミュニティ文字列型を追加するためのフィールド](/assets/images/2021/10/enterprise/management-console/community-string.png)
 {% data reusables.enterprise_management_console.save-settings %}
 5. SNMP に対応している別のワークステーションで次のコマンドを実行して、SNMP のコンフィグレーションをテストする。
   ```shell
@@ -50,18 +50,18 @@ SNMP v3 を有効にすると、ユーザセキュリティモデル (USM) に�
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.access-monitoring %}
 {% data reusables.enterprise_management_console.enable-snmp %}
-4. [**SNMP v3**] を選択します。 ![SNMP v3 を有効化するボタン](/assets/images/enterprise/management-console/enable-snmpv3.png)
-5. [Username] に、SNMP v3 ユーザの固有なユーザ名を入力します。 ![SNMP v3 ユーザ名を入力するためのフィールド](/assets/images/enterprise/management-console/snmpv3-username.png)
-6. [**Security Level**] ドロップダウンメニューで、SNMP v3 ユーザ ー用のセキュリティレベルをクリックします。 ![SNMP v3 ユーザのセキュリティレベルを指定するためのドロップダウンメニュー](/assets/images/enterprise/management-console/snmpv3-securitylevel.png)
-7. セキュリティレベルが `authnopriv` である SNMP v3 ユーザの場合: ![セキュリティレベル authnopriv の設定](/assets/images/enterprise/management-console/snmpv3-authnopriv.png)
+4. [**SNMP v3**] を選択します。 ![SNMP v3 を有効化するボタン](/assets/images/2021/10/enterprise/management-console/enable-snmpv3.png)
+5. [Username] に、SNMP v3 ユーザの固有なユーザ名を入力します。 ![SNMP v3 ユーザ名を入力するためのフィールド](/assets/images/2021/10/enterprise/management-console/snmpv3-username.png)
+6. [**Security Level**] ドロップダウンメニューで、SNMP v3 ユーザ ー用のセキュリティレベルをクリックします。 ![SNMP v3 ユーザのセキュリティレベルを指定するためのドロップダウンメニュー](/assets/images/2021/10/enterprise/management-console/snmpv3-securitylevel.png)
+7. セキュリティレベルが `authnopriv` である SNMP v3 ユーザの場合: ![セキュリティレベル authnopriv の設定](/assets/images/2021/10/enterprise/management-console/snmpv3-authnopriv.png)
     - {% data reusables.enterprise_management_console.authentication-password %}
     - {% data reusables.enterprise_management_console.authentication-protocol %}
-8. セキュリティレベルが `authpriv` である SNMP v3 ユーザの場合: ![セキュリティレベル authpriv の設定](/assets/images/enterprise/management-console/snmpv3-authpriv.png)
+8. セキュリティレベルが `authpriv` である SNMP v3 ユーザの場合: ![セキュリティレベル authpriv の設定](/assets/images/2021/10/enterprise/management-console/snmpv3-authpriv.png)
     - {% data reusables.enterprise_management_console.authentication-password %}
     - {% data reusables.enterprise_management_console.authentication-protocol %}
     - 任意で、[Privacy password] にプライバシーパスワードを入力します。
     - [Privacy password] の右側にある [**Protocol**] ドロップダウンメニューで、使用するプライバシープロトコル方式をクリックします。
-9. [**Add user**] をクリックします。 ![SNMP v3 ユーザを追加するボタン](/assets/images/enterprise/management-console/snmpv3-adduser.png)
+9. [**Add user**] をクリックします。 ![SNMP v3 ユーザを追加するボタン](/assets/images/2021/10/enterprise/management-console/snmpv3-adduser.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 #### SNMP データの照会

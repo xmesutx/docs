@@ -46,7 +46,7 @@ versions:
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 {% data reusables.repositories.navigate-to-job %}
-1. ログ出力の右上隅にある [**Search logs（ログの検索）**] 検索ボックスに、検索クエリを入力します。 ![ログを検索するための検索ボックス](/assets/images/help/repository/search-log-box-updated-2.png)
+1. ログ出力の右上隅にある [**Search logs（ログの検索）**] 検索ボックスに、検索クエリを入力します。 ![ログを検索するための検索ボックス](/assets/images/2021/10/help/repository/search-log-box-updated-2.png)
 
 ## ログのダウンロード
 
@@ -59,7 +59,7 @@ versions:
 {% data reusables.repositories.navigate-to-job %}
 1. 右上隅にある {% octicon "gear" aria-label="The gear icon" %} をクリックし、[**Download log archive**] を選択します。
 
-  ![[Download logs] ドロップダウンメニュー](/assets/images/help/repository/download-logs-drop-down-updated-2.png)
+  ![[Download logs] ドロップダウンメニュー](/assets/images/2021/10/help/repository/download-logs-drop-down-updated-2.png)
 
 
 ## ログの削除
@@ -72,11 +72,11 @@ versions:
 {% data reusables.repositories.view-run %}
 1. In the upper right corner, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
 
-    ![水平ケバブアイコン](/assets/images/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
+    ![水平ケバブアイコン](/assets/images/2021/10/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
 
 2. ログファイルを削除するには、**Delete all logs（すべてのログを削除）**ボタンをクリックして、確認の要求を見てください 。
 
-  ![すべてのログを削除](/assets/images/help/repository/delete-all-logs-updated-2.png)
+  ![すべてのログを削除](/assets/images/2021/10/help/repository/delete-all-logs-updated-2.png)
 
 ログを削除すると、**Delete all logs（すべてのログを削除）**ボタンは消え、ワークフローの実行にログファイルが残っていないことを示します。
 

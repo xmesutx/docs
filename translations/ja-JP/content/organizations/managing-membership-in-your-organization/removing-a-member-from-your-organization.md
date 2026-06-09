@@ -56,9 +56,9 @@ Organization から削除する個人の移行と、その個人による機密�
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Organization から削除するメンバーを選択します。 ![2 人のメンバーを選択した状態のメンバーリスト](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. メンバーのリストの上のドロップダウンメニューで、[**Remove from organization**] をクリックします。 ![メンバーを削除するオプションのあるドロップダウンメニュー](/assets/images/help/teams/user-bulk-management-options.png)
-6. Organization から削除されるメンバーをレビューしてから、[**Remove members**] をクリックします。 ![削除されるメンバーのリストおよび [Remove members] ボタン](/assets/images/help/teams/confirm-remove-members-bulk.png)
+4. Organization から削除するメンバーを選択します。 ![2 人のメンバーを選択した状態のメンバーリスト](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. メンバーのリストの上のドロップダウンメニューで、[**Remove from organization**] をクリックします。 ![メンバーを削除するオプションのあるドロップダウンメニュー](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. Organization から削除されるメンバーをレビューしてから、[**Remove members**] をクリックします。 ![削除されるメンバーのリストおよび [Remove members] ボタン](/assets/images/2021/10/help/teams/confirm-remove-members-bulk.png)
 
 ## 参考リンク
 

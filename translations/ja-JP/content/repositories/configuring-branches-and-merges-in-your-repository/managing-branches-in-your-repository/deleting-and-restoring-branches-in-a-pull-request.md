@@ -26,7 +26,7 @@ shortTitle: Delete & restore branches
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.list-closed-pull-requests %}
 4. プルリクエストのリストで、削除対象のブランチに関連付けられているプルリクエストをクリックします。
-5. プルリクエストの下の方にある [**Delete branch**] をクリックします。 ![[Delete branch] ボタン](/assets/images/help/pull_requests/delete_branch_button.png)
+5. プルリクエストの下の方にある [**Delete branch**] をクリックします。 ![[Delete branch] ボタン](/assets/images/2021/10/help/pull_requests/delete_branch_button.png)
 
    現時点でこのブランチにオープンなプルリクエストがある場合、このボタンは表示されません。
 
@@ -38,7 +38,7 @@ shortTitle: Delete & restore branches
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.list-closed-pull-requests %}
 4. プルリクエストのリストで、復元対象のブランチに関連付けられているプルリクエストをクリックします。
-5. プルリクエストの下の方にある [**Restore branch**] をクリックします。 ![削除されたブランチの復元ボタン](/assets/images/help/branches/branches-restore-deleted.png)
+5. プルリクエストの下の方にある [**Restore branch**] をクリックします。 ![削除されたブランチの復元ボタン](/assets/images/2021/10/help/branches/branches-restore-deleted.png)
 
 ## 参考リンク
 

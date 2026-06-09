@@ -1,1 +1,1 @@
-1. Debajo de "Sincronización de equipo", da clic en **Habilitar para Azure AD**. ![Botón para habilitar la sincronización de equipo en la página de configuraciones de seguridad](/assets/images/help/teams/enable-team-synchronization.png)
+1. Debajo de "Sincronización de equipo", da clic en **Habilitar para Azure AD**. ![Botón para habilitar la sincronización de equipo en la página de configuraciones de seguridad](/assets/images/2021/10/help/teams/enable-team-synchronization.png)

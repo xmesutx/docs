@@ -85,10 +85,10 @@ Las definiciones predefinidas de contenedores incluyen una configuración común
 Utilizar una configuración predefinida es una gran idea si necesitas extensibilidad adicional. También puedes iniciar con una configuración predefinida y modificarla conforme lo requieras de acuerdo con los ajustes de tu proyecto.
 
 {% data reusables.codespaces.command-palette-container %}
-1. Haz clic en la definición que quieras utilizar. ![Lista de definiciones de contenedores predefinidas](/assets/images/help/codespaces/predefined-container-definitions-list.png)
+1. Haz clic en la definición que quieras utilizar. ![Lista de definiciones de contenedores predefinidas](/assets/images/2021/10/help/codespaces/predefined-container-definitions-list.png)
 1. Sigue los mensajes para personalizar tu definición. Para obtener más información sobre las opciones para personalizar tu definición, consulta la sección "[Agregar características adicionales a tu archivo `devcontainer.json`](#adding-additional-features-to-your-devcontainerjson-file)".
-1. Haz clic en **OK** (aceptar). ![Botón de OK](/assets/images/help/codespaces/prebuilt-container-ok-button.png)
-1. Para aplicar los cambios, en la esquina inferior derecha de la pantalla, haz clic en **Reconstruir ahora**. Para obtener más información sbre reconstruir tu contenedor, consulta la sección "[Acplicar los cambios a tu configuración](#applying-changes-to-your-configuration)". !["Codespaces: Reconstruir contenedor" en la {% data variables.product.prodname_vscode_command_palette %}](/assets/images/help/codespaces/rebuild-prompt.png)
+1. Haz clic en **OK** (aceptar). ![Botón de OK](/assets/images/2021/10/help/codespaces/prebuilt-container-ok-button.png)
+1. Para aplicar los cambios, en la esquina inferior derecha de la pantalla, haz clic en **Reconstruir ahora**. Para obtener más información sbre reconstruir tu contenedor, consulta la sección "[Acplicar los cambios a tu configuración](#applying-changes-to-your-configuration)". !["Codespaces: Reconstruir contenedor" en la {% data variables.product.prodname_vscode_command_palette %}](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 ### Agregar características adicionales a tu archivo de `devcontainer.json`
 
@@ -102,12 +102,12 @@ Puedes agregar características a tu configuración de contenedor predefinido pa
 
 Puedes agregar algunas de las características más comunes seleccionándolas cuando configures tu contenedor predefinido. Para obtener más información sobre las características disponibles, consulta la [librería de scripts](https://github.com/microsoft/vscode-dev-containers/tree/main/script-library#scripts) en el repositorio `vscode-dev-containers`.
 
-![El menú de selección de características adicionales durante la configuración del contenedor.](/assets/images/help/codespaces/select-additional-features.png)
+![El menú de selección de características adicionales durante la configuración del contenedor.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
 
 También puedes agregar o eliminar características fuera del flujo de trabajo de **Agregar archivos de configuración del contenedor de desarrollo**.
-1. Accede a la paleta de comandos (`Shift + Command + P` / `Ctrl + Shift + P`) y luego comienza a teclear "configurar". Selecciona **Codespaces: configurar las características del devcontainer**. ![El comando de configurar características del devcontainer en la paleta de comandos](/assets/images/help/codespaces/codespaces-configure-features.png)
-2. Actualiza tus selecciones de características y luego haz clic en **OK**. ![El menú de selección de características adicionales durante la configuración del contenedor.](/assets/images/help/codespaces/select-additional-features.png)
-1. Para aplicar los cambios, en la esquina inferior derecha de la pantalla, haz clic en **Reconstruir ahora**. Para obtener más información sbre reconstruir tu contenedor, consulta la sección "[Acplicar los cambios a tu configuración](#applying-changes-to-your-configuration)". !["Codespaces: Reconstruir contenedor" en la paleta de comandos](/assets/images/help/codespaces/rebuild-prompt.png)
+1. Accede a la paleta de comandos (`Shift + Command + P` / `Ctrl + Shift + P`) y luego comienza a teclear "configurar". Selecciona **Codespaces: configurar las características del devcontainer**. ![El comando de configurar características del devcontainer en la paleta de comandos](/assets/images/2021/10/help/codespaces/codespaces-configure-features.png)
+2. Actualiza tus selecciones de características y luego haz clic en **OK**. ![El menú de selección de características adicionales durante la configuración del contenedor.](/assets/images/2021/10/help/codespaces/select-additional-features.png)
+1. Para aplicar los cambios, en la esquina inferior derecha de la pantalla, haz clic en **Reconstruir ahora**. Para obtener más información sbre reconstruir tu contenedor, consulta la sección "[Acplicar los cambios a tu configuración](#applying-changes-to-your-configuration)". !["Codespaces: Reconstruir contenedor" en la paleta de comandos](/assets/images/2021/10/help/codespaces/rebuild-prompt.png)
 
 
 ## Crear una configuración personalizada para un codespace
@@ -161,7 +161,7 @@ For more information about the available settings for `devcontainer.json`, see [
 {% data reusables.codespaces.apply-devcontainer-changes %}
 
 {% data reusables.codespaces.rebuild-command %}
-1. {% data reusables.codespaces.recovery-mode %} Arreglar los errores en la configuración. ![Mensaje de error sobre el modo de recuperación](/assets/images/help/codespaces/recovery-mode-error-message.png)
+1. {% data reusables.codespaces.recovery-mode %} Arreglar los errores en la configuración. ![Mensaje de error sobre el modo de recuperación](/assets/images/2021/10/help/codespaces/recovery-mode-error-message.png)
    - Para diagnosticar el error revisando la bitácora de creación, haz clic en **Ver bitácora de creación**.
    - Para arreglar los errores que se identificaron en las bitácoras, actualiza tu archivo `devcontainer.json`.
    - Para aplicar los cambios, vuelve a crear tu contenedor.

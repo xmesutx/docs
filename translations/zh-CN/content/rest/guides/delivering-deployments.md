@@ -50,7 +50,7 @@ end
 
 为了使此服务器正常工作，我们需要使用 web 挂钩来设置一个仓库。 Web 挂钩应配置为在创建或合并拉取请求时触发。 继续创建一个您可以自由支配的仓库。 我们可以推荐 [@octocat 的 Spoon/Knife 仓库](https://github.com/octocat/Spoon-Knife)吗？ 之后，您将在自己的仓库中创建新的 web 挂钩，向其馈送 ngrok 给您的 URL，并选择 `application/x-www-form-urlencoded` 作为内容类型：
 
-![新的 ngrok URL](/assets/images/webhook_sample_url.png)
+![新的 ngrok URL](/assets/images/2021/10/webhook_sample_url.png)
 
 单击 **Update webhook**。 您应该会看到正文为 `Well, it worked!` 的响应。 太好了！ 单击 **Let me select individual events（让我选择单个事件）**，然后选择以下项：
 

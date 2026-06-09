@@ -24,10 +24,10 @@ Os sites de referência e o conteúdo popular são ordenados por exibições e v
 
 {% endtip %}
 
-![Gráficos de tráfego do repositório com dica de ferramenta](/assets/images/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
+![Gráficos de tráfego do repositório com dica de ferramenta](/assets/images/2021/10/help/graphs/repo_traffic_graphs_tooltip_dotcom.png)
 
 ## Acessar o gráfico de tráfego
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
-3. Na barra lateral esquerda, clique em **Tráfego**. ![Guia Traffic (Tráfego)](/assets/images/help/graphs/traffic_tab.png)
+3. Na barra lateral esquerda, clique em **Tráfego**. ![Guia Traffic (Tráfego)](/assets/images/2021/10/help/graphs/traffic_tab.png)

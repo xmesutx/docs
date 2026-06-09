@@ -1,1 +1,1 @@
-1. En la página de la aplicación, debajo de "Configuración y precios", da clic en el plan de precios que quieres utilizar. ![Lista de aplicaciones disponibles en los planes de precios](/assets/images/help/marketplace/marketplace-choose-plan.png)
+1. En la página de la aplicación, debajo de "Configuración y precios", da clic en el plan de precios que quieres utilizar. ![Lista de aplicaciones disponibles en los planes de precios](/assets/images/2021/10/help/marketplace/marketplace-choose-plan.png)

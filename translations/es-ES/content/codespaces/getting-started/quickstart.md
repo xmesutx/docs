@@ -29,7 +29,7 @@ Para obtener más información sobre cómo funcionan los {% data variables.produ
 
 3. Navega a la página principal del repositorio recientemente creado. Debajo del nombre de repositorio, utiliza el menú desplegable de **Código {% octicon "code" aria-label="The code icon" %}** y, en la pestaña de **Codespaces**, haz clic en {% octicon "plus" aria-label="The plus icon" %} **Codespace nuevo**.
 
-  ![Botón de codespace nuevo](/assets/images/help/codespaces/new-codespace-button.png)
+  ![Botón de codespace nuevo](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
 ## Ejecutar la aplicación
 
@@ -37,13 +37,13 @@ Una vez que se cree tu codespace, tu repositorio se clonará automáticamente en
 
 1. Ya que este ejemplo utiliza un proyecto en Node.js, inicia la aplicación ingresando `npm run dev` en la terminal. Este comando ejecuta el script `dev` en el archivo package.json e inicia la aplicación web que se define en el repositorio de muestra.
 
-   ![npm run dev en la temrinal](/assets/images/help/codespaces/codespaces-npm-run-dev.png)
+   ![npm run dev en la temrinal](/assets/images/2021/10/help/codespaces/codespaces-npm-run-dev.png)
 
     Si estás siguiendo la guía con un tipo de aplicación diferente, ingresa el comando de incio correspondiente para este.
 
 2. Cuando tu aplicación inicie, el codespace reconocerá el puerto en el cual está ejecutándose y mostrará un mensaje para reenviar este puerto para que te puedas conectar a él.
 
-  ![Notificación de reenvío de puertos](/assets/images/help/codespaces/quickstart-port-toast.png)
+  ![Notificación de reenvío de puertos](/assets/images/2021/10/help/codespaces/quickstart-port-toast.png)
 
 3. Haz clic en **Abrir en el buscador** para ver tu aplicación que se está ejecutando en una pestaña nueva.
 
@@ -56,18 +56,18 @@ Una vez que se cree tu codespace, tu repositorio se clonará automáticamente en
 3. Regresa a la pestaña de la aplicación en ejecución dentro de tu buscador y actualiza para ver los cambios.
 
   {% octicon "light-bulb" aria-label="The lightbulb icon" %} Si cerraste la pestaña, abre el panel de Puertos y haz clic en el icono de **Abrir en el buscador** para el puerto en ejecución.
-  ![Panel de reenvío de puertos](/assets/images/help/codespaces/quickstart-forward-port.png)
+  ![Panel de reenvío de puertos](/assets/images/2021/10/help/codespaces/quickstart-forward-port.png)
 
 ## Confirmar y subir tus cambios
 
 Ahora que hiciste algunos cambios, puedes utilizar la terminal integrada o la vista de código fuente para confirmar y subir los cambios al remoto.
 
 {% data reusables.codespaces.source-control-display-dark %}
-1. Para probar tus cambios, haz clic en **+** junto al archivo que cambiaste o junto a **Cambios** si cambiaste archivos múltiples y quieres probarlos todos. ![Barra lateral de control de código fuente con el botón de preparación resaltado](/assets/images/help/codespaces/codespaces-commit-stage.png)
-1. Teclea un mensaje de confirmación que describa el cambio que hiciste. ![Barra de control de código fuente con un mensaje de confirmación](/assets/images/help/codespaces/codespaces-commit-commit-message.png)
-1. Para confirmar tus cambios planeados, haz clic en la marca de verificación en la parte superior de la barra lateral del control de código fuente. ![Click the check mark icon](/assets/images/help/codespaces/codespaces-commit-checkmark-icon.png)  
+1. Para probar tus cambios, haz clic en **+** junto al archivo que cambiaste o junto a **Cambios** si cambiaste archivos múltiples y quieres probarlos todos. ![Barra lateral de control de código fuente con el botón de preparación resaltado](/assets/images/2021/10/help/codespaces/codespaces-commit-stage.png)
+1. Teclea un mensaje de confirmación que describa el cambio que hiciste. ![Barra de control de código fuente con un mensaje de confirmación](/assets/images/2021/10/help/codespaces/codespaces-commit-commit-message.png)
+1. Para confirmar tus cambios planeados, haz clic en la marca de verificación en la parte superior de la barra lateral del control de código fuente. ![Click the check mark icon](/assets/images/2021/10/help/codespaces/codespaces-commit-checkmark-icon.png)  
    Puedes subir los cambios que hiciste. Esto aplica a aquellos de la rama ascendente en el repositorio remoto. Puede que necesites hacer eso si aún no estás listo para crear una solicitud de cambios o si prefieres crearla en {% data variables.product.prodname_dotcom %}.
-1. En la parte superior de la barra lateral, haz clic en los puntos suspensivos (**...**). ![Botón de puntos suspensivos para las acciones de "más" y "ver"](/assets/images/help/codespaces/source-control-ellipsis-button-nochanges.png)
+1. En la parte superior de la barra lateral, haz clic en los puntos suspensivos (**...**). ![Botón de puntos suspensivos para las acciones de "más" y "ver"](/assets/images/2021/10/help/codespaces/source-control-ellipsis-button-nochanges.png)
 1. En el menú desplegable, haz clic en **Subir**.
 
 ## Personalizar con una extensión
@@ -78,11 +78,11 @@ Dentro de un codespace, tienes acceso al Visual Studio Code Marketplace. Para es
 
 2.  En la barra de búsqueda, ingresa `fairyfloss` e instala la extensión de fairyfloss.
 
-  ![Agregar una extensión](/assets/images/help/codespaces/add-extension.png)
+  ![Agregar una extensión](/assets/images/2021/10/help/codespaces/add-extension.png)
 
 3. Selecciona el tema `fairyfloss` seleccionándolo de la lista.
 
-  ![Seleccionar el tema de fairyfloss](/assets/images/help/codespaces/fairyfloss.png)
+  ![Seleccionar el tema de fairyfloss](/assets/images/2021/10/help/codespaces/fairyfloss.png)
 
 4. Los cambios que hagas en la configuración de tu editor en el codespace actual, tales como el tema y las uniones de teclado, se sincronizarán automáticamente a través de [la Syncronización de ajustes](https://code.visualstudio.com/docs/editor/settings-sync) en cualquier otro codespace que abras y en cualquier instancia de Visual Studio Code que se firmen en tu cuenta de GitHub.
 

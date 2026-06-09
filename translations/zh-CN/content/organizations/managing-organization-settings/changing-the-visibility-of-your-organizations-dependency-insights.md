@@ -23,5 +23,5 @@ shortTitle: 更改洞察可见性
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. 在“Member organization permissions（成员组织权限）”下，选中或取消选中 **Allow members to view dependency insights（允许成员查看依赖项洞察图）**。 ![允许成员查看洞察图的复选框](/assets/images/help/organizations/allow-members-to-view-insights.png)
+5. 在“Member organization permissions（成员组织权限）”下，选中或取消选中 **Allow members to view dependency insights（允许成员查看依赖项洞察图）**。 ![允许成员查看洞察图的复选框](/assets/images/2021/10/help/organizations/allow-members-to-view-insights.png)
 6. 单击 **Save（保存）**。

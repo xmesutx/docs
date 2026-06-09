@@ -2,5 +2,5 @@
 1. In the "Code, planning, and automation" section of the sidebar, select **{% octicon "repo" aria-label="The repo icon" %} Repository**, then click **Repository defaults**.
 {% else %}
 1. In the left sidebar, click **Repository defaults**.
-  ![Repository defaults tab](/assets/images/help/organizations/repo-defaults-tab.png)
+  ![Repository defaults tab](/assets/images/2021/10/help/organizations/repo-defaults-tab.png)
 {% endif %}

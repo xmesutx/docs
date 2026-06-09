@@ -42,7 +42,7 @@ On your profile page, certain actions count as contributions:
 
 This section displays your repositories with the most watchers. {% ifversion fpt or ghes or ghec %}Once you [pin repositories to your profile](/articles/pinning-repositories-to-your-profile), this section will change to "Pinned repositories."{% endif %}
 
-![Popular repositories](/assets/images/help/profile/profile_popular_repositories.png)
+![Popular repositories](/assets/images/2021/10/help/profile/profile_popular_repositories.png)
 
 {% ifversion fpt or ghes or ghec %}
 
@@ -50,7 +50,7 @@ This section displays your repositories with the most watchers. {% ifversion fpt
 
 This section displays up to six public repositories and can include your repositories as well as repositories you've contributed to. To easily see important details about the repositories you've chosen to feature, each repository in this section includes a summary of the work being done, the number of [stars](/articles/saving-repositories-with-stars/) the repository has received, and the main programming language used in the repository. For more information, see "[Pinning repositories to your profile](/articles/pinning-repositories-to-your-profile)."
 
-![Pinned repositories](/assets/images/help/profile/profile_pinned_repositories.png)
+![Pinned repositories](/assets/images/2021/10/help/profile/profile_pinned_repositories.png)
 
 {% endif %}
 
@@ -69,7 +69,7 @@ Your contributions calendar shows your contribution activity.
 
 {% endnote %}
 
-![Your contributions graph](/assets/images/help/profile/contributions_graph.png)
+![Your contributions graph](/assets/images/2021/10/help/profile/contributions_graph.png)
 
 ### How contribution event times are calculated
 
@@ -81,7 +81,7 @@ Timestamps are calculated differently for commits and pull requests:
 
 {% data reusables.profile.activity-overview-summary %} For more information, see "[Showing an overview of your activity on your profile](/articles/showing-an-overview-of-your-activity-on-your-profile)."
 
-![Activity overview section on profile](/assets/images/help/profile/activity-overview-section.png)
+![Activity overview section on profile](/assets/images/2021/10/help/profile/activity-overview-section.png)
 
 The organizations featured in the activity overview are prioritized according to how active you are in the organization. If you @mention an organization in your profile bio, and you’re an organization member, then that organization is prioritized first in the activity overview. For more information, see "[Mentioning people and teams](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams)" or "[Adding a bio to your profile](/articles/adding-a-bio-to-your-profile/)."
 
@@ -89,7 +89,7 @@ The organizations featured in the activity overview are prioritized according to
 
 The contribution activity section includes a detailed timeline of your work, including commits you've made or co-authored, pull requests you've proposed, and issues you've opened. You can see your contributions over time by either clicking **Show more activity** at the bottom of your contribution activity or by clicking the year you're interested in viewing on the right side of the page. Important moments, like the date you joined an organization, proposed your first pull request, or opened a high-profile issue, are highlighted in your contribution activity. If you can't see certain events in your timeline, check to make sure you still have access to the organization or repository where the event happened.
 
-![Contribution activity time filter](/assets/images/help/profile/contributions_activity_time_filter.png)
+![Contribution activity time filter](/assets/images/2021/10/help/profile/contributions_activity_time_filter.png)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 

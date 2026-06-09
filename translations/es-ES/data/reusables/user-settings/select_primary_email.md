@@ -1,1 +1,1 @@
-1. En la lista de "Dirección de correo electrónico principal", selecciona la dirección que quieres asociar con tus operaciones de Git basadas en web. ![Selección de dirección de correo electrónico principal](/assets/images/help/settings/email_primary.png)
+1. En la lista de "Dirección de correo electrónico principal", selecciona la dirección que quieres asociar con tus operaciones de Git basadas en web. ![Selección de dirección de correo electrónico principal](/assets/images/2021/10/help/settings/email_primary.png)

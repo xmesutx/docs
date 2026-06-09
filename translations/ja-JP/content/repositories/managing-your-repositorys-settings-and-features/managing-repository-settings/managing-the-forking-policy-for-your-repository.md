@@ -21,7 +21,7 @@ Organization のオーナーは、特定のリポジトリのフォークを許�
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Features] の下で [**Allow forking**] (フォークを許可) を選択します。 ![プライベートリポジトリのフォークの許可あるいは禁止のチェックボックス](/assets/images/help/repository/allow-forking-specific-org-repo.png)
+3. [Features] の下で [**Allow forking**] (フォークを許可) を選択します。 ![プライベートリポジトリのフォークの許可あるいは禁止のチェックボックス](/assets/images/2021/10/help/repository/allow-forking-specific-org-repo.png)
 
 ## 参考リンク
 

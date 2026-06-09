@@ -53,7 +53,7 @@ shortTitle: 恢复协作者
 
   {% endwarning %}
 
-  ![选择是否恢复设置](/assets/images/help/organizations/choose_whether_to_restore_org_member_info.png)
+  ![选择是否恢复设置](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info.png)
 {% else %}
 6. 通过单击 **Add and reinstate（添加并恢复）**选择恢复外部协作者在组织中以前的权限，或通过单击 **Add and start fresh（添加并重新开始）**选择清除其以前的权限并设置新的访问权限。
 
@@ -63,12 +63,12 @@ shortTitle: 恢复协作者
 
   {% endwarning %}
 
-  ![选择是否恢复设置](/assets/images/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
+  ![选择是否恢复设置](/assets/images/2021/10/help/organizations/choose_whether_to_restore_org_member_info_ghe.png)
 {% endif %}
 {% ifversion fpt or ghec %}
-7. 如果已清除前外部协作者以前的权限，请为该用户选择一个角色，并（可选）将其添加到某些团队，然后单击 **Send invitation（发送邀请）**。 ![角色和团队选项及发送邀请按钮](/assets/images/help/organizations/add-role-send-invitation.png)
+7. 如果已清除前外部协作者以前的权限，请为该用户选择一个角色，并（可选）将其添加到某些团队，然后单击 **Send invitation（发送邀请）**。 ![角色和团队选项及发送邀请按钮](/assets/images/2021/10/help/organizations/add-role-send-invitation.png)
 {% else %}
-7. 如果已清除前外部协作者以前的权限，请为该用户选择一个角色，并（可选）将其添加到某些团队，然后单击 **Add member（添加成员）**。 ![角色和团队选项及添加成员按钮](/assets/images/help/organizations/add-role-add-member.png)
+7. 如果已清除前外部协作者以前的权限，请为该用户选择一个角色，并（可选）将其添加到某些团队，然后单击 **Add member（添加成员）**。 ![角色和团队选项及添加成员按钮](/assets/images/2021/10/help/organizations/add-role-add-member.png)
 {% endif %}
 {% ifversion fpt or ghec %}
 8. 被邀请的人员将收到邀请其加入组织的电子邮件。 它们需要接受邀请，然后才能成为组织中的外部协作者。 {% data reusables.organizations.cancel_org_invite %}

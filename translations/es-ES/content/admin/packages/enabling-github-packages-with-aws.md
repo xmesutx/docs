@@ -52,7 +52,7 @@ Asegúrate de que la ID de tu clave y secreto de acceso de AWS tengan los siguie
 
       Para obtener más información sobre cómo administrar las claves de acceso de AWS, consulta la "[Documentación para la Administración de Accesos e Identidad de AWS](https://docs.aws.amazon.com/iam/index.html)".
 
-    ![Cajas de entrada para los detalles de tu bucket de AWS S3](/assets/images/help/package-registry/s3-aws-storage-bucket-details.png)
+    ![Cajas de entrada para los detalles de tu bucket de AWS S3](/assets/images/2021/10/help/package-registry/s3-aws-storage-bucket-details.png)
 {% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 

@@ -35,9 +35,9 @@ topics:
 {% endif %}
 
 {% data reusables.repositories.create_new %}
-2. また、既存のリポジトリのディレクトリ構造とファイルを持つリポジトリを作成するには、[**Choose a template**] ドロップダウンでテンプレートリポジトリを選択します。 あなたが所有するテンプレートリポジトリ、あなたがメンバーとして属する Organization が所有するテンプレートリポジトリ、使ったことがあるテンプレートリポジトリが表示されます。 詳細は「[テンプレートからリポジトリを作成する](/articles/creating-a-repository-from-a-template)」を参照してください。 ![Template drop-down menu](/assets/images/help/repository/template-drop-down.png){% ifversion fpt or ghae or ghes or ghec %}
-3. 必要に応じて、テンプレートを使用する場合、デフォルトのブランチだけでなく、テンプレートのすべてのブランチからのディレクトリ構造とファイルを含めるには、[**Include all branches**] を選択します。 ![Include all branches checkbox](/assets/images/help/repository/include-all-branches.png){% endif %}
-3. [Owner] ドロップダウンで、リポジトリを作成するアカウントを選択します。 ![[Owner] ドロップダウンメニュー](/assets/images/help/repository/create-repository-owner.png)
+2. また、既存のリポジトリのディレクトリ構造とファイルを持つリポジトリを作成するには、[**Choose a template**] ドロップダウンでテンプレートリポジトリを選択します。 あなたが所有するテンプレートリポジトリ、あなたがメンバーとして属する Organization が所有するテンプレートリポジトリ、使ったことがあるテンプレートリポジトリが表示されます。 詳細は「[テンプレートからリポジトリを作成する](/articles/creating-a-repository-from-a-template)」を参照してください。 ![Template drop-down menu](/assets/images/2021/10/help/repository/template-drop-down.png){% ifversion fpt or ghae or ghes or ghec %}
+3. 必要に応じて、テンプレートを使用する場合、デフォルトのブランチだけでなく、テンプレートのすべてのブランチからのディレクトリ構造とファイルを含めるには、[**Include all branches**] を選択します。 ![Include all branches checkbox](/assets/images/2021/10/help/repository/include-all-branches.png){% endif %}
+3. [Owner] ドロップダウンで、リポジトリを作成するアカウントを選択します。 ![[Owner] ドロップダウンメニュー](/assets/images/2021/10/help/repository/create-repository-owner.png)
 {% data reusables.repositories.repo-name %}
 {% data reusables.repositories.choose-repo-visibility %}
 6. テンプレートを使用していない場合は、リポジトリに自動入力できるオプションアイテムがいくつかあります。 既存のリポジトリを {% data variables.product.product_name %}にインポートする場合は、このようなオプションはどれも選択しないでください。マージコンフリクトが起きる可能性があります。 ユーザインターフェースを使用して新しいファイルを追加または作成する、またはコマンドラインを使用して後で新しいファイルを追加することができます。 For more information, see "[Importing a Git repository using the command line](/articles/importing-a-git-repository-using-the-command-line/)," "[Adding a file to a repository](/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line)," and "[Addressing merge conflicts](/articles/addressing-merge-conflicts/)."

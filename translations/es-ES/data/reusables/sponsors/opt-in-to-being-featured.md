@@ -1,1 +1,1 @@
-1. Opcionalmente, selecciona **Ingresar para ser candidato potencial de github.com/sponsors**. ![Casilla para ingresar para ser considerado](/assets/images/help/sponsors/opt-in-to-being-featured.png)
+1. Opcionalmente, selecciona **Ingresar para ser candidato potencial de github.com/sponsors**. ![Casilla para ingresar para ser considerado](/assets/images/2021/10/help/sponsors/opt-in-to-being-featured.png)

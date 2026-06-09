@@ -74,15 +74,15 @@ If you would like to create a codespace for a repository owned by your personal 
 {% data reusables.repositories.navigate-to-repo %}
 2. Under the repository name, use the "Branch" drop-down menu, and select the branch you want to create a codespace for.
 
-   ![Branch drop-down menu](/assets/images/help/codespaces/branch-drop-down.png)
+   ![Branch drop-down menu](/assets/images/2021/10/help/codespaces/branch-drop-down.png)
 
 3. Under the repository name, use the **{% octicon "code" aria-label="The code icon" %} Code** drop-down menu, and in the **Codespaces** tab, click {% octicon "plus" aria-label="The plus icon" %} **New codespace**.
 
-   ![New codespace button](/assets/images/help/codespaces/new-codespace-button.png)
+   ![New codespace button](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
    If you are a member of an organization and are creating a codespace on a repository owned by that organization, you can select the option of a different machine type. From the dialog box, choose a machine type and then click **Create codespace**.
 
-   ![Machine type choice](/assets/images/help/codespaces/choose-custom-machine-type.png)
+   ![Machine type choice](/assets/images/2021/10/help/codespaces/choose-custom-machine-type.png)
 
    {% data reusables.codespaces.codespaces-machine-type-availability %}
 

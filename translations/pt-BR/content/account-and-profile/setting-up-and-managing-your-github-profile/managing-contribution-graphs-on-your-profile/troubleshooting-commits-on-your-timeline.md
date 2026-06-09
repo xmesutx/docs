@@ -19,15 +19,15 @@ shortTitle: Solucionar problemas de commits
 
 Na linha do tempo da sua página de perfil, você pode clicar no número de commits ao lado de um determinado repositório para ver mais detalhes sobre os commits nesse período de tempo, inclusive um diff de alterações específicas feitas em um repositório.
 
-![Link de commit na linha do tempo do perfil](/assets/images/help/profile/commit-link-on-profile-timeline.png)
+![Link de commit na linha do tempo do perfil](/assets/images/2021/10/help/profile/commit-link-on-profile-timeline.png)
 
-![Detalhes do commit](/assets/images/help/commits/commit-details.png)
+![Detalhes do commit](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## Detalhes do commit ausentes em commits na linha do tempo
 
 Se você clicar em um link de commit na sua página de perfil e não vir todos os commits esperados na página de commits do repositório, talvez o histórico de commits no Git tenha sido reescrito e a data de criação do commit e a data do commit sejam diferentes.
 
-![Página do repositório com mensagem informando que "nenhum commit foi encontrado para octocat"](/assets/images/help/repository/no-commits-found.png)
+![Página do repositório com mensagem informando que "nenhum commit foi encontrado para octocat"](/assets/images/2021/10/help/repository/no-commits-found.png)
 
 ## Como o GitHub usa a data do commit e a data de criação do Git
 
@@ -62,7 +62,7 @@ Por exemplo:
 
 Quando você abrir a URL com a data do commit modificada, poderá ver os detalhes do commit.
 
-![Detalhes do commit](/assets/images/help/commits/commit-details.png)
+![Detalhes do commit](/assets/images/2021/10/help/commits/commit-details.png)
 
 ## Commits esperados ausentes na linha do tempo
 

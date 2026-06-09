@@ -27,7 +27,7 @@ shortTitle: 按里程碑过滤
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. 选择 **Milestones（里程碑）**以查看仓库的所有可用里程碑列表。 ![里程碑按钮](/assets/images/help/issues/issues_milestone_button.png)
+3. 选择 **Milestones（里程碑）**以查看仓库的所有可用里程碑列表。 ![里程碑按钮](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. 从列表中选择您感兴趣的里程碑。 您可以从里程碑页面查看该里程碑的相关信息，包括与之关联的所有议题和拉取请求。 更多信息请参阅“[关于里程碑](/articles/about-milestones)”。
 
 ## 延伸阅读

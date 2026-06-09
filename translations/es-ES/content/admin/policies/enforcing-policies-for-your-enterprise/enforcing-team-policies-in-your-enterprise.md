@@ -31,6 +31,6 @@ En todas las organizaciones que le pertenezcan a tu empresa, puedes habilitar o 
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. En la barra lateral izquierda, haz clic en **Teams (Equipos)**. ![La pestaña de equipos en la barra lateral de la empresa](/assets/images/help/business-accounts/settings-teams-tab.png)
+3. En la barra lateral izquierda, haz clic en **Teams (Equipos)**. ![La pestaña de equipos en la barra lateral de la empresa](/assets/images/2021/10/help/business-accounts/settings-teams-tab.png)
 4. En "Debates de equipo", revisa la información sobre cómo modificar los parámetros. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. En "Debates de equipo", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de debate de equipo](/assets/images/help/business-accounts/team-discussion-policy-drop-down.png)
+5. En "Debates de equipo", usa el menú desplegable y elige una política. ![Menú desplegable con opciones de políticas de debate de equipo](/assets/images/2021/10/help/business-accounts/team-discussion-policy-drop-down.png)

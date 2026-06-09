@@ -30,7 +30,7 @@ Across all organizations owned by your enterprise, you can control whether organ
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 3. In the left sidebar, click **Organizations**.
-  ![Organizations tab in the enterprise sidebar](/assets/images/help/business-accounts/settings-policies-org-tab.png)
+  ![Organizations tab in the enterprise sidebar](/assets/images/2021/10/help/business-accounts/settings-policies-org-tab.png)
 4. Under "Organization policies", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 5. Under "Organization policies", use the drop-down menu and choose a policy.
-  ![Drop-down menu with organization policies options](/assets/images/help/business-accounts/organization-policy-drop-down.png)
+  ![Drop-down menu with organization policies options](/assets/images/2021/10/help/business-accounts/organization-policy-drop-down.png)

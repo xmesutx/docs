@@ -56,11 +56,11 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 ローカルのマシンをインターネットに公開することなく、GitHubがwebhookを送信するのを支援するために、Smeeというツールが利用できます。 まず https://smee.io にアクセスして、**Start a new channel**をクリックしてください。 If you're already comfortable with other tools that expose your local machine to the internet like [`ngrok`](https://dashboard.ngrok.com/get-started) or [`localtunnel`](https://localtunnel.github.io/www/), feel free to use those.
 
-![Smeeの新規チャンネルボタン](/assets/images/smee-new-channel.png)
+![Smeeの新規チャンネルボタン](/assets/images/2021/10/smee-new-channel.png)
 
 新しいSmeeのチャンネルを起動すると、GitHubがwebhookペイロードを送信できるユニークなドメインが作成されます。 次のステップで必要なので、このドメインを知っておく必要があります。 ユニークなドメインの例は`https://smee.io/qrfeVRbFbffd6vD`といったものです。
 
-![Smeeのユニークなチャンネル](/assets/images/smee-unique-domain.png)
+![Smeeのユニークなチャンネル](/assets/images/2021/10/smee-unique-domain.png)
 
 次に、ターミナルに戻って以下のステップに従い、Smeeのコマンドラインインターフェース（CLI）クライアントを実行してください。
 
@@ -97,7 +97,7 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 まだGitHubのアカウントを持っていないなら、ここが[参加する時です](https://github.com/join)。 続行する前にメールを確認するのを忘れないようにしてください! 新しいアプリケーションを登録するには、自分のGitHubのプロフィール内の[アプリケーション設定ペー委](https://github.com/settings/apps)にアクセスし、**New GitHub App**をクリックしてください。
 
-![**New App**を表示しているGitHubのWebサイト](/assets/images/new-app.png)
+![**New App**を表示しているGitHubのWebサイト](/assets/images/2021/10/new-app.png)
 
 表示されるフォームで、アプリケーションの詳細を入力できます。 このページのフィールドに関する一般的な情報については「[GitHub Appの作成](/apps/building-github-apps/creating-a-github-app/)」を参照してください。 このガイドについては、いくつかのフィールドに特定のデータを入力する必要があります。
 
@@ -109,21 +109,21 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 * "Homepage URL（ホームページのURL）"には、Smeeが発行したドメインを使用してください。 例:
 
-    ![ホームページURLにSmeeのドメインが入力されたフォーム](/assets/images/homepage-url.png)
+    ![ホームページURLにSmeeのドメインが入力されたフォーム](/assets/images/2021/10/homepage-url.png)
 
 * "Webhook URL（webhookのURL）"には、やはりSmeeが発行したドメインを使ってください。 例:
 
-    ![webhookURLにSmeeのドメインが入力されたフォーム](/assets/images/webhook-url.png)
+    ![webhookURLにSmeeのドメインが入力されたフォーム](/assets/images/2021/10/webhook-url.png)
 
 * "Webhook secret（webhookのシークレット）"には、webhookのエンドポイントを保護するパスワードを作成してください。 これは、あなた（そしてこのフォームを介してGitHub）だけが知っているものにするべきです。 パブリックなインターネットから受信したペイロードで、webhookの送信者を検証するのに使われるので、このシークレットは重要です。 GitHub Appの設定ではこのwebhookのシークレットはオプションとなっており、これはほとんどの場合正しいですが、このテンプレートのアプリケーションコードを動作させるためには、webhookのシークレットは設定しなければなりません。
 
-    ![webhookのシークレットが入力されたフォーム](/assets/images/webhook-secret.png)
+    ![webhookのシークレットが入力されたフォーム](/assets/images/2021/10/webhook-secret.png)
 
 * Permissions & Webhooks（権限とwebhook）ページでは、アプリケーションの権限セットを指定できます。これによって、アプリケーションがどれだけのデータにアクセスできるかが決まります。 [Repository permissions] セクションで、[Metadata] までスクロールして、[`Access: Read-only`] を選択します。 このテンプレートアプリケーションを拡張することにしたら、後でこれらの権限を更新できます。
 
 * Permissions & Webhooks（権限とwebhook）ページの下部で、これがプライベートのアプリケーションなのか、パブリックのアプリケーションなのかを指定してください。 これは、アプリケーションを誰がインストールできるのか、すなわちあなただけなのか、誰でもできるのかを指します。 この時点では、**Only on this account（このアカウントのみ）**を選択して、アプリケーションをプライベートのままにしておいてください。
 
-    ![GitHub Appのプライバシー](/assets/images/create_app.png)
+    ![GitHub Appのプライバシー](/assets/images/2021/10/create_app.png)
 
 **Create GitHub App（GitHub Appの作成）**をクリックして、アプリケーションを作成してください!
 
@@ -133,11 +133,11 @@ $ git clone https://github.com/github-developer/github-app-template.git
 
 * **アプリケーションの秘密鍵の生成。**これは後でアプリケーションを認証するために必要です。 ページをスクロールダウンして、**Generate a private key（秘密鍵の生成）**をクリックしてください。 Save the resulting `PEM` file (called something like  _`app-name`_-_`date`_-`private-key.pem`) in a directory where you can find it again.
 
-    ![秘密鍵の生成ダイアログ](/assets/images/private_key.png)
+    ![秘密鍵の生成ダイアログ](/assets/images/2021/10/private_key.png)
 
 * **GitHubがアプリケーションに割り当てたApp IDを記録してください。**これは、ランタイム環境を準備するのに必要になります。
 
-    <img src="/assets/images/app_id.png" alt="アプリケーションのID番号" width="200px" />
+    <img src="/assets/images/2021/10/app_id.png" alt="アプリケーションのID番号" width="200px" />
 
 ## ステップ 4. ランタイム環境の準備
 
@@ -353,7 +353,7 @@ $ ruby template_server.rb
 
 サーバーが動作したら、ブラウザで`http://localhost:3000`にアクセスしてテストしてください。 アプリケーションが期待どおりに動作していれば、役に立つエラーページが表示されます。
 
-<img src="/assets/images/sinatra-404.png" alt="Sinatraの404エラーページ" width="500px" />
+<img src="/assets/images/2021/10/sinatra-404.png" alt="Sinatraの404エラーページ" width="500px" />
 
 うまくいっています! これはエラーページではありますが、_Sinatra_のエラーページであり、期待どおりにアプリケーションがサーバーに接続されているということです。 このメッセージが表示されているのは、他に表示するものを何もアプリケーションに加えていないからです。
 
@@ -365,7 +365,7 @@ $ ruby template_server.rb
 
 アプリケーションをすべてのリポジトリにインストールするか、選択したリポジトリにインストールするかを尋ねられます。 アプリケーションを自分の_すべての_リポジトリにインストールしたいなら、それで問題ありません! テスト用にサンドボックスリポジトリを作成し、そこにアプリケーションをインストールしても良いでしょう。
 
-<img src="/assets/images/install_permissions.png" alt="アプリケーションのインストール権限" width="500px" />
+<img src="/assets/images/2021/10/install_permissions.png" alt="アプリケーションのインストール権限" width="500px" />
 
 **Install（インストール）**をクリックして、ターミナルの出力を見てみてください。 以下のように出力されているでしょう。
 

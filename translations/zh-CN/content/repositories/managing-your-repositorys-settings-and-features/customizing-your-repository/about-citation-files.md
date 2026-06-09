@@ -65,7 +65,7 @@ Lisa, M., & Bot, H. (2017). My Research Software (Version 2.0.4) [Computer softw
 
 当您将 `CITATION.cff` 文件添加到存储库的默认分支时，该文件会自动从存储库登录页面链接。 这使得其他用户可以使用您提供的信息轻松引用您的软件项目。
 
-![存储库登录页上的引文链接](/assets/images/help/repository/citation-link.png)
+![存储库登录页上的引文链接](/assets/images/2021/10/help/repository/citation-link.png)
 
 ## 引用软件以外的内容
 

@@ -69,7 +69,7 @@ redirect_from:
 
 {% endtip %}
 
-![グループ課題に参加するチームのパラメータ](/assets/images/help/classroom/assignments-define-teams.png)
+![グループ課題に参加するチームのパラメータ](/assets/images/2021/10/help/classroom/assignments-define-teams.png)
 
 ### 課題リポジトリの可視性を選択する
 
@@ -124,7 +124,7 @@ redirect_from:
 課題の [**Teams**] タブで、課題に取り組んでいるTeamや課題を提出したTeamを表示できます。 {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="グループ課題" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-group-hero.png">
+  <img alt="グループ課題" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-group-hero.png">
 </div>
 
 ## Monitoring students' progress

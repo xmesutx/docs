@@ -31,5 +31,5 @@ topics:
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-4. 选择 **Private mode**。 ![启用私有模式的复选框](/assets/images/enterprise/management-console/private-mode-checkbox.png)
+4. 选择 **Private mode**。 ![启用私有模式的复选框](/assets/images/2021/10/enterprise/management-console/private-mode-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}

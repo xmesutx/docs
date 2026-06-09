@@ -68,7 +68,7 @@ If you've already created a group assignment for the classroom, you can reuse a 
 
 {% endtip %}
 
-![Parameters for the teams participating in a group assignment](/assets/images/help/classroom/assignments-define-teams.png)
+![Parameters for the teams participating in a group assignment](/assets/images/2021/10/help/classroom/assignments-define-teams.png)
 
 ### Choosing a visibility for assignment repositories
 
@@ -123,7 +123,7 @@ Optionally, you can automatically grade assignments and create a space for discu
 You can see the teams that are working on or have submitted an assignment in the **Teams** tab for the assignment. {% data reusables.classroom.assignments-to-prevent-submission %}
 
 <div class="procedural-image-wrapper">
-  <img alt="Group assignment" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignment-group-hero.png">
+  <img alt="Group assignment" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignment-group-hero.png">
 </div>
 
 ## Monitoring students' progress

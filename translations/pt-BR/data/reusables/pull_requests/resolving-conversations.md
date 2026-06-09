@@ -4,11 +4,11 @@
 
 Para indicar que uma conversa na aba **Arquivos alterados** está completa, clique em **Resolver conversa**.
 
-![Conversa de pull request com o botão de Resolver conversa](/assets/images/help/pull_requests/conversation-with-resolve-button.png)
+![Conversa de pull request com o botão de Resolver conversa](/assets/images/2021/10/help/pull_requests/conversation-with-resolve-button.png)
 
 Toda a conversa será colapsada e marcada como resolvida, tornando mais fácil encontrar conversas que ainda precisam ser consideradas.
 
-![Conversa resolvida](/assets/images/help/pull_requests/resolved-conversation.png)
+![Conversa resolvida](/assets/images/2021/10/help/pull_requests/resolved-conversation.png)
 
 Se a sugestão em um comentário estiver fora do escopo do seu pull request, você pode abrir um novo problema que rastreia os comentários e relaciona o comentário original. Para obter mais informações, consulte "[Abrir um problema a partir de um comentário](/github/managing-your-work-on-github/opening-an-issue-from-a-comment)".
 
@@ -19,5 +19,5 @@ Você pode descobrir e navegar até todas as conversas no seu pull request usand
 
 Nesta visualização, você pode ver quais conversas não foram resolvidas, quais foram resolvidas e desatualizadas. Isso facilita a descoberta e a resolução de conversas.
 
-![Mostrando o menu de conversas](/assets/images/help/pull_requests/conversations-menu.png)
+![Mostrando o menu de conversas](/assets/images/2021/10/help/pull_requests/conversations-menu.png)
 {% endif %}

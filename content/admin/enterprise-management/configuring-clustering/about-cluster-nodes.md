@@ -71,4 +71,4 @@ Clustering allows services that make up {% data variables.product.prodname_ghe_s
 
 {% endnote %}
 
-<img src="/assets/images/enterprise/cluster/cluster-diagram.png" alt="Example Cluster" style="width: 800px;border:0"/>
+<img src="/assets/images/2021/10/enterprise/cluster/cluster-diagram.png" alt="Example Cluster" style="width: 800px;border:0"/>

@@ -35,9 +35,9 @@ For more information, see "[Repository roles for an organization](/organizations
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.teams_sidebar %}
 1. Review your organization's legacy admin teams, then click **Migrate all teams**.
-  ![Migrate all teams button](/assets/images/help/teams/migrate-all-legacy-admin-teams.png)
+  ![Migrate all teams button](/assets/images/2021/10/help/teams/migrate-all-legacy-admin-teams.png)
 1. Read the information about possible permissions changes for members of these teams, then click **Migrate all teams.**
-  ![Confirm migration button](/assets/images/help/teams/confirm-migrate-all-legacy-admin-teams.png)
+  ![Confirm migration button](/assets/images/2021/10/help/teams/confirm-migrate-all-legacy-admin-teams.png)
 
 ## Migrating a single admin team
 
@@ -45,4 +45,4 @@ For more information, see "[Repository roles for an organization](/organizations
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 1. In the team description box, click **Migrate team**.
-  ![Migrate team button](/assets/images/help/teams/migrate-a-legacy-admin-team.png)
+  ![Migrate team button](/assets/images/2021/10/help/teams/migrate-a-legacy-admin-team.png)

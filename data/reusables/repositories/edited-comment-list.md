@@ -7,4 +7,4 @@
       {% endnote %}
 
 3. To view the details of a specific change, select it from the list of edits.
-  ![View edit details for comment](/assets/images/help/repository/choose-comment-edit-to-expand.png)
+  ![View edit details for comment](/assets/images/2021/10/help/repository/choose-comment-edit-to-expand.png)

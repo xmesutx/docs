@@ -23,9 +23,9 @@ type: how_to
 {% data reusables.project-management.milestones %}
 4. Choose one of these options:
     - To create a new milestone, click **New Milestone**.
-  ![New milestone button](/assets/images/help/repository/new-milestone.png)
+  ![New milestone button](/assets/images/2021/10/help/repository/new-milestone.png)
     - To edit a milestone, next to the milestone you want to edit, click **Edit**.
-  ![Edit milestone option](/assets/images/help/repository/edit-milestone.png)
+  ![Edit milestone option](/assets/images/2021/10/help/repository/edit-milestone.png)
 5. Type the milestone's title, description, or other changes, and click **Create milestone** or **Save changes**. Milestones will render Markdown syntax. For more information about Markdown syntax, see "[Basic writing and formatting syntax](/github/writing-on-github/basic-writing-and-formatting-syntax)."
 
 ## Deleting milestones
@@ -36,7 +36,7 @@ When you delete milestones, issues and pull requests are not affected.
 {% data reusables.repositories.sidebar-issue-pr %}
 {% data reusables.project-management.milestones %}
 4. Next to the milestone you want to delete, click **Delete**.
-![Delete milestone option](/assets/images/help/repository/delete-milestone.png)
+![Delete milestone option](/assets/images/2021/10/help/repository/delete-milestone.png)
 
 ## Further reading
 

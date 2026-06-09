@@ -29,7 +29,7 @@ If your {% data variables.product.product_location %} uses clustering, you canno
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.advanced-security-tab %}
-1. 在“Security（安全）”下，单击 **Dependency graph（依赖关系图）**。 ![启用或禁用依赖关系图的复选框](/assets/images/enterprise/3.2/management-console/enable-dependency-graph-checkbox.png)
+1. 在“Security（安全）”下，单击 **Dependency graph（依赖关系图）**。 ![启用或禁用依赖关系图的复选框](/assets/images/2021/10/enterprise/3.2/management-console/enable-dependency-graph-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 1. 单击 **Visit your instance（访问您的实例）**。
 

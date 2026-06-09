@@ -21,7 +21,7 @@ shortTitle: Acceder al tablero del monitor
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. En la parte superior de la página, haga clic en **Monitor**. ![Enlace al Tablero del monitor](/assets/images/enterprise/management-console/monitor-dash-link.png)
+2. En la parte superior de la página, haga clic en **Monitor**. ![Enlace al Tablero del monitor](/assets/images/2021/10/enterprise/management-console/monitor-dash-link.png)
 
 ## Solucionar problemas de la asignación de los recursos comunes en su aparato
 

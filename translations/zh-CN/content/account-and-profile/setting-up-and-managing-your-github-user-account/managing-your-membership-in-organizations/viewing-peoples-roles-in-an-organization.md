@@ -22,7 +22,7 @@ shortTitle: 查看组织中的人员
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. 您将看到组织中人员的列表。 要按角色过滤列表，请单击 **Role（角色）**并选择您搜索的角色。 ![单击角色](/assets/images/help/organizations/view-list-of-people-in-org-by-role.png)
+4. 您将看到组织中人员的列表。 要按角色过滤列表，请单击 **Role（角色）**并选择您搜索的角色。 ![单击角色](/assets/images/2021/10/help/organizations/view-list-of-people-in-org-by-role.png)
 
 {% ifversion fpt %}
 
@@ -56,9 +56,9 @@ For more information about the enterprise owner role, see "[Roles in an enterpri
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. In the left sidebar, under "Enterprise permissions", click **Enterprise owners**. ![Screenshot of "Enterprise owners" option in sidebar menu](/assets/images/help/organizations/enterprise-owners-sidebar.png)
+4. In the left sidebar, under "Enterprise permissions", click **Enterprise owners**. ![Screenshot of "Enterprise owners" option in sidebar menu](/assets/images/2022/01/help/organizations/enterprise-owners-sidebar.png)
 5. View the list of the enterprise owners for your enterprise. If the enterprise owner is also a member of your organization, you can see their role in the organization.
 
-  ![Screenshot of list of Enterprise owners and their role in the organization](/assets/images/help/organizations/enterprise-owners-list-on-org-page.png)
+  ![Screenshot of list of Enterprise owners and their role in the organization](/assets/images/2022/01/help/organizations/enterprise-owners-list-on-org-page.png)
 
 {% endif %}

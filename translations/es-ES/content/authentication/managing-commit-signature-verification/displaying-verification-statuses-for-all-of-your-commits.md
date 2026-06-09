@@ -23,7 +23,7 @@ Predeterminadamente, las confirmaciones y etiquetas se marcan como "Verificadas"
 
 Sin embargo, puedes proporcionar aún más confianza a otros usuarios sobre la identidad que se atribuye a tus confirmaciones y etiquetas si habilitas el modo vigilanten en tu configuración de {% data variables.product.prodname_dotcom %}. Cuando tienes habilitado el modo vigilante, todas tus confirmaciones y etiquetas se marcan con uno de tres estados de verificación.
 
-![Estados de verificación de firma](/assets/images/help/commits/signature-verification-statuses.png)
+![Estados de verificación de firma](/assets/images/2021/10/help/commits/signature-verification-statuses.png)
 
 {% data reusables.identity-and-permissions.vigilant-mode-verification-statuses %}
 
@@ -37,4 +37,4 @@ Deberías habilitar el modo vigilante únicamente si firmas todas tus confirmaci
 {% data reusables.user-settings.ssh %}
 3. En la página de configuración SSH, debajo de "Modo vigilante", selecciona **Marcar las confirmaciones sin firmar como no verificadas**.
 
-   ![Casilla de verificación para marcar las confirmaciones no firmadas como sin verificar](/assets/images/help/commits/vigilant-mode-checkbox.png)
+   ![Casilla de verificación para marcar las confirmaciones no firmadas como sin verificar](/assets/images/2021/10/help/commits/vigilant-mode-checkbox.png)

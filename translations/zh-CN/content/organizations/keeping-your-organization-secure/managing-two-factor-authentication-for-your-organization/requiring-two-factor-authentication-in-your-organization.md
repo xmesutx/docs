@@ -58,7 +58,7 @@ shortTitle: 需要 2FA
 
 要查看在您要求双重身份验证时因为不合规而被从组织中自动删除的人员，您可以对从组织中删除的人员[搜索组织的审核日志](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#accessing-the-audit-log)。 审核日志事件将显示是否因为 2FA 不合规而删除该人员。
 
-![显示因 2FA 不合规而删除的用户的审核日志事件](/assets/images/help/2fa/2fa_noncompliance_audit_log_search.png)
+![显示因 2FA 不合规而删除的用户的审核日志事件](/assets/images/2021/10/help/2fa/2fa_noncompliance_audit_log_search.png)
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}

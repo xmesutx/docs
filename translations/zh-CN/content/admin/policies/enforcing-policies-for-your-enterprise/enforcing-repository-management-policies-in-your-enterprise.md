@@ -65,7 +65,7 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-1. 在“默认仓库可见性”下，使用下拉菜单并选择默认可见性。 ![用于选择企业的默认仓库可见性的下拉菜单](/assets/images/enterprise/site-admin-settings/default-repository-visibility-settings.png)
+1. 在“默认仓库可见性”下，使用下拉菜单并选择默认可见性。 ![用于选择企业的默认仓库可见性的下拉菜单](/assets/images/2021/10/enterprise/site-admin-settings/default-repository-visibility-settings.png)
 
 {% data reusables.enterprise_installation.image-urls-viewable-warning %}
 
@@ -81,9 +81,9 @@ shortTitle: 仓库管理策略
 4. 在“{% ifversion ghec or ghes > 3.1 or ghae %}基础{% else %}默认{% endif %} 权限”下，查看有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 5. 在“{% ifversion ghec or ghes > 3.1 or ghae %}基础{% else %}默认{% endif %} 权限”下，使用下拉菜单并选择策略。
   {% ifversion ghec or ghes > 3.1 or ghae %}
-  ![带有仓库权限策略选项的下拉菜单](/assets/images/help/business-accounts/repository-permissions-policy-drop-down.png)
+  ![带有仓库权限策略选项的下拉菜单](/assets/images/2021/10/help/business-accounts/repository-permissions-policy-drop-down.png)
   {% else %}
-  ![带有仓库权限策略选项的下拉菜单](/assets/images/enterprise/business-accounts/repository-permissions-policy-drop-down.png)
+  ![带有仓库权限策略选项的下拉菜单](/assets/images/2021/10/enterprise/business-accounts/repository-permissions-policy-drop-down.png)
   {% endif %}
 
 ## 执行仓库创建策略
@@ -100,7 +100,7 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.repo-creation-policy %}
 {% data reusables.enterprise-accounts.repo-creation-types %}
 {% else %}
-6. 在“Repository creation（仓库创建）”下，使用下拉菜单并选择策略。 ![包含仓库创建策略的下拉菜单](/assets/images/enterprise/site-admin-settings/repository-creation-drop-down.png)
+6. 在“Repository creation（仓库创建）”下，使用下拉菜单并选择策略。 ![包含仓库创建策略的下拉菜单](/assets/images/2021/10/enterprise/site-admin-settings/repository-creation-drop-down.png)
 {% endif %}
 
 ## 实施有关复刻私有或内部仓库的策略
@@ -111,7 +111,7 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.repositories-tab %}
 3. 在“Repository forking”（仓库复刻）下，审查有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-4. 在“Repository forking（仓库复刻）”下，使用下拉菜单并选择策略。 ![带有仓库复刻策略选项的下拉菜单](/assets/images/help/business-accounts/repository-forking-policy-drop-down.png)
+4. 在“Repository forking（仓库复刻）”下，使用下拉菜单并选择策略。 ![带有仓库复刻策略选项的下拉菜单](/assets/images/2021/10/help/business-accounts/repository-forking-policy-drop-down.png)
 
 ## 执行邀请{% ifversion ghec %} 外部{% endif %} 协作者参与仓库的策略
 
@@ -123,9 +123,9 @@ shortTitle: 仓库管理策略
 3. 在“仓库 {% ifversion ghec %}外部协作者{% elsif ghes or ghae %}邀请{% endif %}”下，请查看有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 4. 在“仓库 {% ifversion ghec %}外部协作者{% elsif ghes or ghae %}邀请{% endif %}”下，使用下拉菜单并选择策略。
   {% ifversion ghec %}
-  ![带有外部协作者邀请策略选项的下拉菜单](/assets/images/help/business-accounts/repository-invitation-policy-drop-down.png)
+  ![带有外部协作者邀请策略选项的下拉菜单](/assets/images/2021/10/help/business-accounts/repository-invitation-policy-drop-down.png)
   {% elsif ghes or ghae %}
-  ![带邀请策略选项的下拉菜单](/assets/images/enterprise/business-accounts/repository-invitation-policy-drop-down.png)
+  ![带邀请策略选项的下拉菜单](/assets/images/2021/10/enterprise/business-accounts/repository-invitation-policy-drop-down.png)
   {% endif %}
 
 {% ifversion ghec or ghes or ghae %}
@@ -136,9 +136,9 @@ shortTitle: 仓库管理策略
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
-3. 在 **Repository policies（仓库策略）**选项卡的“Default branch name（默认分支名称）”下，输入新仓库应使用的默认分支名称。 ![输入默认分支名称的文本框](/assets/images/help/business-accounts/default-branch-name-text.png)
-4. （可选）要对企业中的所有组织强制实施默认分支名称，请选择 **Enforce across this enterprise（在整个企业中实施）**。 ![强制实施复选框](/assets/images/help/business-accounts/default-branch-name-enforce.png)
-5. 单击 **Update（更新）**。 ![更新按钮](/assets/images/help/business-accounts/default-branch-name-update.png)
+3. 在 **Repository policies（仓库策略）**选项卡的“Default branch name（默认分支名称）”下，输入新仓库应使用的默认分支名称。 ![输入默认分支名称的文本框](/assets/images/2021/10/help/business-accounts/default-branch-name-text.png)
+4. （可选）要对企业中的所有组织强制实施默认分支名称，请选择 **Enforce across this enterprise（在整个企业中实施）**。 ![强制实施复选框](/assets/images/2021/10/help/business-accounts/default-branch-name-enforce.png)
+5. 单击 **Update（更新）**。 ![更新按钮](/assets/images/2021/10/help/business-accounts/default-branch-name-update.png)
 
 {% endif %}
 
@@ -173,7 +173,7 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 3. 在 **Repository policies（仓库策略）**选项卡中的“Repository issue deletion（仓库议题删除）”下，审查有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-4. 在“Repository issue deletion（仓库议题删除）”下，使用下拉菜单并选择策略。 ![带有议题删除策略选项的下拉菜单](/assets/images/help/business-accounts/repository-issue-deletion-policy-drop-down.png)
+4. 在“Repository issue deletion（仓库议题删除）”下，使用下拉菜单并选择策略。 ![带有议题删除策略选项的下拉菜单](/assets/images/2021/10/help/business-accounts/repository-issue-deletion-policy-drop-down.png)
 
 {% ifversion ghes or ghae %}
 
@@ -186,8 +186,8 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. 在“Repository upload limit”下，使用下拉菜单，然后单击最大对象大小。 ![包含最大对象大小选项的下拉菜单](/assets/images/enterprise/site-admin-settings/repo-upload-limit-dropdown.png)
-5. （可选）要对企业中的所有仓库实施最大上传限制，请选择 **Enforce on all repositories（对所有仓库强制执行）** ![对所有仓库选项强制执行最大对象限制](/assets/images/enterprise/site-admin-settings/all-repo-upload-limit-option.png)
+4. 在“Repository upload limit”下，使用下拉菜单，然后单击最大对象大小。 ![包含最大对象大小选项的下拉菜单](/assets/images/2021/10/enterprise/site-admin-settings/repo-upload-limit-dropdown.png)
+5. （可选）要对企业中的所有仓库实施最大上传限制，请选择 **Enforce on all repositories（对所有仓库强制执行）** ![对所有仓库选项强制执行最大对象限制](/assets/images/2021/10/enterprise/site-admin-settings/all-repo-upload-limit-option.png)
 
 ## 为仓库之间的拉取请求配置合并冲突编辑器
 
@@ -200,7 +200,7 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-1. 在“Conflict editor for pull requests between repositories”下，使用下拉菜单，然后单击 **Disabled**。 ![包含用于禁用合并冲突编辑器的选项的下拉菜单](/assets/images/enterprise/settings/conflict-editor-settings.png)
+1. 在“Conflict editor for pull requests between repositories”下，使用下拉菜单，然后单击 **Disabled**。 ![包含用于禁用合并冲突编辑器的选项的下拉菜单](/assets/images/2021/10/enterprise/settings/conflict-editor-settings.png)
 
 ## 配置强制推送
 
@@ -211,7 +211,7 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. 在“Force pushes（强制推送）”下，使用下拉菜单，然后单击 **Allow（允许）**、**Block（阻止）**或 **Block to the default branch（阻止到默认分支）**。 ![强制推送下拉菜单](/assets/images/enterprise/site-admin-settings/force-pushes-dropdown.png)
+4. 在“Force pushes（强制推送）”下，使用下拉菜单，然后单击 **Allow（允许）**、**Block（阻止）**或 **Block to the default branch（阻止到默认分支）**。 ![强制推送下拉菜单](/assets/images/2021/10/enterprise/site-admin-settings/force-pushes-dropdown.png)
 5. 可以视情况选择 **Enforce on all repositories**，这将覆盖强制推送的组织和仓库级别设置。
 
 ### 阻止特定仓库的强制推送
@@ -224,7 +224,7 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise_site_admin_settings.click-repo %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-4. 在 **Push and Pull（推送和拉取）**下，选择 **Block（阻止）**或 **Block to the default branch（阻止到默认分支）**。 ![阻止强制推送](/assets/images/enterprise/site-admin-settings/repo/repo-block-force-pushes.png)
+4. 在 **Push and Pull（推送和拉取）**下，选择 **Block（阻止）**或 **Block to the default branch（阻止到默认分支）**。 ![阻止强制推送](/assets/images/2021/10/enterprise/site-admin-settings/repo/repo-block-force-pushes.png)
 
 ### 阻止对用户帐户或组织拥有的仓库进行强制推送
 
@@ -240,8 +240,8 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
 5. 在“Force pushes”部分的“Repository default settings”下，选择
     - **Block** 来阻止对所有分支进行强制推送。
-    - **Block to the default branch** 来仅阻止对默认分支进行强制推送。 ![阻止强制推送](/assets/images/enterprise/site-admin-settings/user/user-block-force-pushes.png)
-6. 可以视情况选择 **Enforce on all repositories** 来覆盖仓库特定的设置。 注意，这**不**会覆盖企业范围的策略。 ![阻止强制推送](/assets/images/enterprise/site-admin-settings/user/user-block-all-force-pushes.png)
+    - **Block to the default branch** 来仅阻止对默认分支进行强制推送。 ![阻止强制推送](/assets/images/2021/10/enterprise/site-admin-settings/user/user-block-force-pushes.png)
+6. 可以视情况选择 **Enforce on all repositories** 来覆盖仓库特定的设置。 注意，这**不**会覆盖企业范围的策略。 ![阻止强制推送](/assets/images/2021/10/enterprise/site-admin-settings/user/user-block-all-force-pushes.png)
 
 {% endif %}
 
@@ -270,8 +270,8 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise-accounts.settings-tab %}
 {% endif %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. 在“Anonymous Git read access”下，使用下列菜单并单击 **Enabled**。 ![匿名 Git 读取权限下拉菜单显示菜单选项"Enabled（已启用）"和"Disabled（已禁用）"](/assets/images/enterprise/site-admin-settings/enable-anonymous-git-read-access.png)
-3. 或者，如果要阻止仓库管理员为企业上的所有仓库更改匿名 Git 读取权限设置，请选择 **Prevent repository admins from changing anonymous Git read access**。 ![选中复选框可阻止仓库管理员更改企业上所有仓库的匿名 Git 读取权限设置。](/assets/images/enterprise/site-admin-settings/globally-lock-repos-from-changing-anonymous-git-read-access.png)
+4. 在“Anonymous Git read access”下，使用下列菜单并单击 **Enabled**。 ![匿名 Git 读取权限下拉菜单显示菜单选项"Enabled（已启用）"和"Disabled（已禁用）"](/assets/images/2021/10/enterprise/site-admin-settings/enable-anonymous-git-read-access.png)
+3. 或者，如果要阻止仓库管理员为企业上的所有仓库更改匿名 Git 读取权限设置，请选择 **Prevent repository admins from changing anonymous Git read access**。 ![选中复选框可阻止仓库管理员更改企业上所有仓库的匿名 Git 读取权限设置。](/assets/images/2021/10/enterprise/site-admin-settings/globally-lock-repos-from-changing-anonymous-git-read-access.png)
 
 ### 设置特定仓库的匿名 Git 读取访问
 
@@ -280,8 +280,8 @@ shortTitle: 仓库管理策略
 {% data reusables.enterprise_site_admin_settings.click-repo %}
 {% data reusables.enterprise_site_admin_settings.admin-top-tab %}
 {% data reusables.enterprise_site_admin_settings.admin-tab %}
-6. 在“Danger Zone”下的“Enable Anonymous Git read access”旁，请单击 **Enable**。 ![仓库站点管理员设置的危险区域中“Enable anonymous Git read access”下的“Enabled”按钮 ](/assets/images/enterprise/site-admin-settings/site-admin-enable-anonymous-git-read-access.png)
-7. 审查更改。 要确认，请单击 **Yes, enable anonymous Git read access（是，启用匿名 Git 读取权限）**。 ![在弹出窗口中确认匿名 Git 读取权限设置](/assets/images/enterprise/site-admin-settings/confirm-anonymous-git-read-access-for-specific-repo-as-site-admin.png)
-8. 或者，如果要阻止仓库管理员为此仓库更改设置，请选择 **Prevent repository admins from changing anonymous Git read access**。 ![选中复选框可阻止仓库管理员更改此仓库的匿名 Git 读取权限。](/assets/images/enterprise/site-admin-settings/lock_anonymous_git_access_for_specific_repo.png)
+6. 在“Danger Zone”下的“Enable Anonymous Git read access”旁，请单击 **Enable**。 ![仓库站点管理员设置的危险区域中“Enable anonymous Git read access”下的“Enabled”按钮 ](/assets/images/2021/10/enterprise/site-admin-settings/site-admin-enable-anonymous-git-read-access.png)
+7. 审查更改。 要确认，请单击 **Yes, enable anonymous Git read access（是，启用匿名 Git 读取权限）**。 ![在弹出窗口中确认匿名 Git 读取权限设置](/assets/images/2021/10/enterprise/site-admin-settings/confirm-anonymous-git-read-access-for-specific-repo-as-site-admin.png)
+8. 或者，如果要阻止仓库管理员为此仓库更改设置，请选择 **Prevent repository admins from changing anonymous Git read access**。 ![选中复选框可阻止仓库管理员更改此仓库的匿名 Git 读取权限。](/assets/images/2021/10/enterprise/site-admin-settings/lock_anonymous_git_access_for_specific_repo.png)
 
 {% endif %}

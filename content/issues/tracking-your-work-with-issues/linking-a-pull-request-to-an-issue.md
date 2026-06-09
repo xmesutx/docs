@@ -75,10 +75,10 @@ You can manually link up to ten issues to each pull request. The issue and pull 
 4. In the right sidebar, in the "Development" section click {% octicon "gear" aria-label="The Gear icon" %}.
 {% else %}
 4. In the right sidebar, click **Linked issues**.
-  ![Linked issues in the right sidebar](/assets/images/help/pull_requests/linked-issues.png)
+  ![Linked issues in the right sidebar](/assets/images/2021/10/help/pull_requests/linked-issues.png)
 {% endif %}
 5. Click the issue you want to link to the pull request.
-  ![Drop down to link issue](/assets/images/help/pull_requests/link-issue-drop-down.png)
+  ![Drop down to link issue](/assets/images/2021/10/help/pull_requests/link-issue-drop-down.png)
 {% endif %}
 
 ## Further reading

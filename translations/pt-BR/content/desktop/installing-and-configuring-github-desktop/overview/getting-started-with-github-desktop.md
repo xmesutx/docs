@@ -33,7 +33,7 @@ Depois de ter instalado o {% data variables.product.prodname_desktop %}, você p
 
 1. Antes de poder efetuar a autenticação em {% data variables.product.prodname_dotcom %} ou em {% data variables.product.prodname_enterprise %}, você precisará de uma conta. Para obter mais informações sobre criar uma conta, consulte "[Inscrever-se em uma nova conta do {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/signing-up-for-a-new-github-account)" ou entre em contato com o administrador de seu site {% data variables.product.prodname_enterprise %}.
 
-2. No menu suspenso {% data variables.product.prodname_desktop %}, clique em **Preferências**. Na janela de preferências, clique em **Contas** e siga os passos para fazer o login. Para obter mais informações sobre a autenticação, consulte "[Efetuar a autenticação no {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![Botão Sign In (Entrar) do GitHub](/assets/images/help/desktop/mac-sign-in-github.png)
+2. No menu suspenso {% data variables.product.prodname_desktop %}, clique em **Preferências**. Na janela de preferências, clique em **Contas** e siga os passos para fazer o login. Para obter mais informações sobre a autenticação, consulte "[Efetuar a autenticação no {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![Botão Sign In (Entrar) do GitHub](/assets/images/2021/10/help/desktop/mac-sign-in-github.png)
 
 {% endmac %}
 
@@ -41,7 +41,7 @@ Depois de ter instalado o {% data variables.product.prodname_desktop %}, você p
 
 1. Antes de poder efetuar a autenticação em {% data variables.product.prodname_dotcom %} ou em {% data variables.product.prodname_enterprise %}, você precisará de uma conta. Para obter mais informações sobre criar uma conta, consulte "[Inscrever-se em uma nova conta do {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/signing-up-for-a-new-github-account)" ou entre em contato com o administrador de seu site {% data variables.product.prodname_enterprise %}.
 
-2. No menu suspenso do arquivo, clique em **Opções**. Na janela de opções, clique em **Contas** e siga as etapas para fazer o login. Para obter mais informações sobre a autenticação, consulte "[Efetuar a autenticação no {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![Botão Sign In (Entrar) do GitHub](/assets/images/help/desktop/windows-sign-in-github.png)
+2. No menu suspenso do arquivo, clique em **Opções**. Na janela de opções, clique em **Contas** e siga as etapas para fazer o login. Para obter mais informações sobre a autenticação, consulte "[Efetuar a autenticação no {% data variables.product.prodname_dotcom %}](/desktop/getting-started-with-github-desktop/authenticating-to-github)". ![Botão Sign In (Entrar) do GitHub](/assets/images/2021/10/help/desktop/windows-sign-in-github.png)
 
 {% endwindows %}
 
@@ -52,7 +52,7 @@ Depois de instalar o {% data variables.product.prodname_desktop %}, você pode c
 
 Você pode conectar ou remover contas no {% data variables.product.prodname_dotcom %} ou no {% data variables.product.prodname_enterprise %}, escolher um editor de texto padrão ou shell, editar a sua configuração do Git, alterar a aparência de {% data variables.product.prodname_desktop %}, personalizar caixas de diálogo do sistema e configurar preferências de privacidade na janela Preferências do {% data variables.product.prodname_desktop %}. Para obter mais informações, consulte "[Definindo as configurações básicas](/desktop/getting-started-with-github-desktop/configuring-basic-settings)".
 
-  ![As configurações básicas na janela de Preferências](/assets/images/help/desktop/mac-appearance-tab-themes.png)
+  ![As configurações básicas na janela de Preferências](/assets/images/2021/10/help/desktop/mac-appearance-tab-themes.png)
 
 {% endmac %}
 
@@ -60,7 +60,7 @@ Você pode conectar ou remover contas no {% data variables.product.prodname_dotc
 
 Você pode conectar ou remover contas no {% data variables.product.prodname_dotcom %} ou no {% data variables.product.prodname_enterprise %}, escolher um editor de texto padrão ou shell, editar a sua configuração do Git, alterar a aparência de {% data variables.product.prodname_desktop %}, personalizar as caixas de diálogo do sistema e configurar preferências de privacidade na janela de Opções do {% data variables.product.prodname_desktop %}. Para obter mais informações, consulte "[Definindo as configurações básicas](/desktop/getting-started-with-github-desktop/configuring-basic-settings)".
 
-  ![As configurações básicas na janela de Opções](/assets/images/help/desktop/windows-appearance-tab-themes.png)
+  ![As configurações básicas na janela de Opções](/assets/images/2021/10/help/desktop/windows-appearance-tab-themes.png)
 
 {% endwindows %}
 
@@ -76,24 +76,24 @@ Você pode clonar um repositório a partir do {% data variables.product.prodname
 
 {% mac %}
 
-  ![Opções do menu Arquivo para criar, adicionar e clonar repositórios](/assets/images/help/desktop/mac-file-menu.png)
+  ![Opções do menu Arquivo para criar, adicionar e clonar repositórios](/assets/images/2021/10/help/desktop/mac-file-menu.png)
 
 {% endmac %}
 
 {% windows %}
 
-  ![Opções do menu Arquivo para criar, adicionar e clonar repositórios](/assets/images/help/desktop/windows-file-menu.png)
+  ![Opções do menu Arquivo para criar, adicionar e clonar repositórios](/assets/images/2021/10/help/desktop/windows-file-menu.png)
 
 {% endwindows %}
 
 ### Fazer alterações em um branch
 Você pode usar {% data variables.product.prodname_desktop %} para criar um branch de um projeto. Os branches isolam o seu trabalho de desenvolvimento de outros branches no repositório, para que você possa experimentar com segurança as alterações. Para obter mais informações, consulte "[Gerenciar branches](/desktop/contributing-and-collaborating-using-github-desktop/managing-branches)".
 
-  ![O botão do Novo Branch](/assets/images/help/desktop/new-branch-button-mac.png)
+  ![O botão do Novo Branch](/assets/images/2021/10/help/desktop/new-branch-button-mac.png)
 
 Após fazer alterações em um branch, você poderá revisá-las em {% data variables.product.prodname_desktop %} e fazer um commit para acompanhar suas alterações. Para obter mais informações, consulte "[Fazer o commit e revisar as alterações no seu projeto](/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project)".
 
-  ![Visualizar e fazer commits](/assets/images/help/desktop/commit-button.png)
+  ![Visualizar e fazer commits](/assets/images/2021/10/help/desktop/commit-button.png)
 
 Se você desejar acessar as suas alterações remotamente ou compartilhá-las com outras pessoas, você poderá fazer push dos seus commits para o {% data variables.product.prodname_dotcom %}. Para obter mais informações, consulte "[Enviar alterações para o {% data variables.product.prodname_dotcom %}](/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github)".
 

@@ -36,7 +36,7 @@ Se algo impedir o {% data variables.product.prodname_dependabot %} de criar um p
 
 Quando {% data variables.product.prodname_dependabot %} está impedido de criar um pull request para corrigir um alerta de {% data variables.product.prodname_dependabot %}, ele publica a mensagem de erro no alerta. A exibição do {% data variables.product.prodname_dependabot_alerts %} mostra uma lista de todos os alertas que ainda não foram resolvidos. Para acessar a vista de alertas, clique em **{% data variables.product.prodname_dependabot_alerts %}** na aba **Segurança** para o repositório. Quando um pull request que corrigirá a dependência vulnerável foi gerado, o alerta inclui um link para esse pull request.
 
-![Vista de {% data variables.product.prodname_dependabot_alerts %} que mostra um link do pull request](/assets/images/help/dependabot/dependabot-alert-pr-link.png)
+![Vista de {% data variables.product.prodname_dependabot_alerts %} que mostra um link do pull request](/assets/images/2021/10/help/dependabot/dependabot-alert-pr-link.png)
 
 Há três razões pelas quais um alerta pode não ter link de um pull request:
 
@@ -50,19 +50,19 @@ Se um erro impediu que {% data variables.product.prodname_dependabot %} criasse 
 
 Quando {% data variables.product.prodname_dependabot %} está impedido de criar um pull request para atualizar uma dependência em um ecossistema, ele posta o ícone de erro no arquivo de manifesto. Os arquivos de manifesto gerenciados por {% data variables.product.prodname_dependabot %} estão listados na aba {% data variables.product.prodname_dependabot %}. Para acessar essa aba, na aba **Insights** para o repositório, clique no **Gráfico de Dependências**, e, em seguida, clique na aba **{% data variables.product.prodname_dependabot %}**.
 
-![vista de {% data variables.product.prodname_dependabot %} que mostra um erro](/assets/images/help/dependabot/dependabot-tab-view-error.png)
+![vista de {% data variables.product.prodname_dependabot %} que mostra um erro](/assets/images/2021/11/help/dependabot/dependabot-tab-view-error.png)
 
 {% ifversion fpt or ghec %}
 
 Para visualizar o arquivo de registro para qualquer arquivo de manifesto, clique no link **HORA da última verificação**. Ao exibir o arquivo de registro para um manifesto mostrado com um símbolo de erro (por exemplo, Maven, na captura de tela acima), todos os erros também serão exibidos.
 
-![Erro e registro de uma atualização de versão de {% data variables.product.prodname_dependabot %} ](/assets/images/help/dependabot/dependabot-version-update-error.png)
+![Erro e registro de uma atualização de versão de {% data variables.product.prodname_dependabot %} ](/assets/images/2021/11/help/dependabot/dependabot-version-update-error.png)
 
 {% else %}
 
 Para ver os logs para qualquer arquivo de manifesto, clique no link **Última verificação de TIME** e, em seguida, clique em **Visualizar registros**.
 
-![Erro e registro de uma atualização de versão de {% data variables.product.prodname_dependabot %} ](/assets/images/enterprise/3.3/dependabot/dependabot-version-update-error.png)
+![Erro e registro de uma atualização de versão de {% data variables.product.prodname_dependabot %} ](/assets/images/2021/11/enterprise/3.3/dependabot/dependabot-version-update-error.png)
 
 {% endif %}
 

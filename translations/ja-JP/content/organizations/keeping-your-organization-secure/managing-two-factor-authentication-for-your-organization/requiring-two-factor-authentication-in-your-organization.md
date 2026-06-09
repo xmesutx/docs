@@ -58,7 +58,7 @@ Enterprise で Organization の 2 要素認証を必須にすることもでき�
 
 2 要素認証義務に従っていないために Organization から自動的に削除された人々を表示するには、Organization から削除された人々を対象に、[Organization の Audit log を検索する](/organizations/keeping-your-organization-secure/reviewing-the-audit-log-for-your-organization#accessing-the-audit-log)ことができます。 Audit log イベントでは、削除された理由が 2 要素認証義務に従わなかったことなのかどうかが示されます。
 
-![2 要素認証の違反により削除されたユーザーを示す Audit log イベント](/assets/images/help/2fa/2fa_noncompliance_audit_log_search.png)
+![2 要素認証の違反により削除されたユーザーを示す Audit log イベント](/assets/images/2021/10/help/2fa/2fa_noncompliance_audit_log_search.png)
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}

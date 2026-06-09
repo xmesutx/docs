@@ -35,7 +35,7 @@ describe('static assets', () => {
   })
 
   it('should serve /assets/ with optimal headers', async () => {
-    const res = await get('/assets/images/site/logo.png')
+    const res = await get('/assets/images/2021/10/site/logo.png')
     expect(res.statusCode).toBe(200)
     checkCachingHeaders(res, true)
   })
@@ -109,7 +109,7 @@ describe('archived enterprise static assets', () => {
         'content-type': 'text/plain',
       })
     nock('https://github.github.com')
-      .get('/help-docs-archived-enterprise-versions/2.3/assets/images/site/logo.png')
+      .get('/help-docs-archived-enterprise-versions/2.3/assets/images/2021/10/site/logo.png')
       .reply(404, 'Not found', {
         'content-type': 'text/plain',
       })
@@ -155,7 +155,7 @@ describe('archived enterprise static assets', () => {
   })
 
   it('404 on the proxy but actually present here', async () => {
-    const res = await get('/assets/images/site/logo.png', {
+    const res = await get('/assets/images/2021/10/site/logo.png', {
       headers: {
         Referrer: '/en/enterprise-server@2.3/some/page',
       },

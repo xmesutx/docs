@@ -26,7 +26,7 @@ Your codespace can be ephemeral if you need to test something or you can return 
 
 Once you've selected the option to create a new codespace, and chosen a machine type for your codespace, some steps happen in the background before the codespace is available to you.
 
-![[Open with Codespaces] ボタン](/assets/images/help/codespaces/new-codespace-button.png)
+![[Open with Codespaces] ボタン](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
 ### Step 1: VM and storage are assigned to your codespace
 
@@ -83,7 +83,7 @@ When you close or stop your codespace, all uncommitted changes are preserved unt
 
 Port forwarding determines which ports are made accessible to you from the remote machine. Even if you do not forward a port, that port is still accessible to other processes running inside the codespace itself.
 
-![Diagram showing how port forwarding works in a codespace](/assets/images/help/codespaces/port-forwarding.png)
+![Diagram showing how port forwarding works in a codespace](/assets/images/2021/10/help/codespaces/port-forwarding.png)
 
 When an application running inside {% data variables.product.prodname_codespaces %} outputs a port to the console, {% data variables.product.prodname_codespaces %} detects the localhost URL pattern and automatically forwards the port. You can click on the URL in the terminal or in the toast message to open the port in a browser. By default, {% data variables.product.prodname_codespaces %} forwards the port using HTTP. For more information on port forwarding, see "[Forwarding ports in your codespace](/codespaces/developing-in-codespaces/forwarding-ports-in-your-codespace)."
 
@@ -95,7 +95,7 @@ Running your application when you first land in your codespace can make for a fa
 
 Git is available by default in your codespace and so you can rely on your existing Git workflow. You can work with Git in your codespace either via the Terminal or by using [Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol)'s source control UI. For more information, see "[Using source control in your codespace](/codespaces/developing-in-codespaces/using-source-control-in-your-codespace)"
 
-![Running git status in Codespaces Terminal](/assets/images/help/codespaces/git-status.png)
+![Running git status in Codespaces Terminal](/assets/images/2021/10/help/codespaces/git-status.png)
 
 You can create a codespace from any branch, commit, or pull request in your project, or you can switch to a new or existing branch from within your active codespace. Because {% data variables.product.prodname_codespaces %} is designed to be ephemeral, you can use it as an isolated environment to experiment, check a teammate's pull request, or fix merge conflicts. リポジトリごと、さらにはブランチごとに1つ以上のcodespaceを作成できます。 However, each user account has a limit of 10 codespaces. この制限に達した場合に新しいcodespaceを作成したいなら、まずcodespaceを削除しなければなりません。
 

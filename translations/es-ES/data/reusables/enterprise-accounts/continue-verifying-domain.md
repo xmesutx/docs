@@ -1,2 +1,2 @@
-9. A la derecha del dominio pendiente de verificar, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Seguir verificando**. ![Botón para continuar verificando](/assets/images/help/enterprises/continue-verifying-domain-enterprise.png)
-10. Da clic en **Verificar**. ![Botón de verificar](/assets/images/help/organizations/verify-domain-final-button.png)
+9. A la derecha del dominio pendiente de verificar, da clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} y luego en **Seguir verificando**. ![Botón para continuar verificando](/assets/images/2021/10/help/enterprises/continue-verifying-domain-enterprise.png)
+10. Da clic en **Verificar**. ![Botón de verificar](/assets/images/2021/10/help/organizations/verify-domain-final-button.png)

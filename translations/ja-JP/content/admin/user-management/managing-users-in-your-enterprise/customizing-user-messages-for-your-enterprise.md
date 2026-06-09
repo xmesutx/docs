@@ -37,12 +37,12 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-5. {% ifversion ghes %}[Sign in page] の右側{% else %}下{% endif %}にある [**Add message**] または [**Edit message**] をクリックします。 ![{% ifversion ghes %}[Add]{% else %}[Edit]{% endif %} メッセージボタン](/assets/images/enterprise/site-admin-settings/edit-message.png)
-6. [**Sign in message**] の下に、ユーザに見せたいメッセージを入力します。 ![Sign in message](/assets/images/enterprise/site-admin-settings/sign-in-message.png){% ifversion ghes %}
+5. {% ifversion ghes %}[Sign in page] の右側{% else %}下{% endif %}にある [**Add message**] または [**Edit message**] をクリックします。 ![{% ifversion ghes %}[Add]{% else %}[Edit]{% endif %} メッセージボタン](/assets/images/2021/10/enterprise/site-admin-settings/edit-message.png)
+6. [**Sign in message**] の下に、ユーザに見せたいメッセージを入力します。 ![Sign in message](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message.png){% ifversion ghes %}
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}{% else %}
 {% data reusables.enterprise_site_admin_settings.click-preview %}
-  ![プレビューボタン](/assets/images/enterprise/site-admin-settings/sign-in-message-preview-button.png)
-8. 表示されたメッセージを確認します。 ![サインインメッセージの表示](/assets/images/enterprise/site-admin-settings/sign-in-message-rendered.png)
+  ![プレビューボタン](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message-preview-button.png)
+8. 表示されたメッセージを確認します。 ![サインインメッセージの表示](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message-rendered.png)
 {% data reusables.enterprise_site_admin_settings.save-changes %}{% endif %}
 {% endif %}
 
@@ -51,12 +51,12 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-5. {% ifversion ghes or ghae %}[Sign in page] の右側{% else %}下{% endif %}にある [**Add message**] または [**Edit message**] をクリックします。 ![[Add message] ボタン](/assets/images/enterprise/site-admin-settings/sign-out-add-message-button.png)
-6. [**Sign out message**] の下に、ユーザに見せたいメッセージを入力します。 ![Sign two_factor_auth_header message](/assets/images/enterprise/site-admin-settings/sign-out-message.png){% ifversion ghes or ghae %}
+5. {% ifversion ghes or ghae %}[Sign in page] の右側{% else %}下{% endif %}にある [**Add message**] または [**Edit message**] をクリックします。 ![[Add message] ボタン](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-add-message-button.png)
+6. [**Sign out message**] の下に、ユーザに見せたいメッセージを入力します。 ![Sign two_factor_auth_header message](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message.png){% ifversion ghes or ghae %}
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}{% else %}
 {% data reusables.enterprise_site_admin_settings.click-preview %}
-  ![プレビューボタン](/assets/images/enterprise/site-admin-settings/sign-out-message-preview-button.png)
-8. 表示されたメッセージを確認します。 ![サインアウトメッセージの表示](/assets/images/enterprise/site-admin-settings/sign-out-message-rendered.png)
+  ![プレビューボタン](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message-preview-button.png)
+8. 表示されたメッセージを確認します。 ![サインアウトメッセージの表示](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message-rendered.png)
 {% data reusables.enterprise_site_admin_settings.save-changes %}{% endif %}
 
 {% ifversion ghes or ghae %}
@@ -83,8 +83,8 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-1. [Mandatory message] の右側にある [**Add message**] をクリックします。 ![Add mandatory message button](/assets/images/enterprise/site-admin-settings/add-mandatory-message-button.png)
-1. [Mandatory message] の下のテキストボックスに、メッセージを入力します。 ![Mandatory message text box](/assets/images/enterprise/site-admin-settings/mandatory-message-text-box.png)
+1. [Mandatory message] の右側にある [**Add message**] をクリックします。 ![Add mandatory message button](/assets/images/2021/10/enterprise/site-admin-settings/add-mandatory-message-button.png)
+1. [Mandatory message] の下のテキストボックスに、メッセージを入力します。 ![Mandatory message text box](/assets/images/2021/10/enterprise/site-admin-settings/mandatory-message-text-box.png)
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}
 
 {% endif %}
@@ -105,8 +105,8 @@ You can also set an announcement banner{% ifversion ghes %} in the administrativ
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-1. {% ifversion ghes or ghae %}[Announcement] の右側{% else %}下{% endif %}にある [**Add announcement**] をクリックします。 ![[Add message] ボタン](/assets/images/enterprise/site-admin-settings/add-announcement-button.png)
-1. [Announcement] のテキストフィールドに、バナーに表示するお知らせを入力します。 ![アナウンスを入力するテキストフィールド](/assets/images/enterprise/site-admin-settings/announcement-text-field.png)
-1. 必要に応じて、[Expires on] でカレンダーのドロップダウンメニューを選択し、有効期限をクリックします。 ![有効期限を選択するためのカレンダードロップダウンメニュー](/assets/images/enterprise/site-admin-settings/expiration-drop-down.png)
+1. {% ifversion ghes or ghae %}[Announcement] の右側{% else %}下{% endif %}にある [**Add announcement**] をクリックします。 ![[Add message] ボタン](/assets/images/2021/10/enterprise/site-admin-settings/add-announcement-button.png)
+1. [Announcement] のテキストフィールドに、バナーに表示するお知らせを入力します。 ![アナウンスを入力するテキストフィールド](/assets/images/2021/10/enterprise/site-admin-settings/announcement-text-field.png)
+1. 必要に応じて、[Expires on] でカレンダーのドロップダウンメニューを選択し、有効期限をクリックします。 ![有効期限を選択するためのカレンダードロップダウンメニュー](/assets/images/2021/10/enterprise/site-admin-settings/expiration-drop-down.png)
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}
 {% endif %}

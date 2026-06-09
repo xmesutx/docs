@@ -84,12 +84,12 @@ Los siguientes pasos utilizarán Insomnia.
 
 2. Para autenticarte, abre el menú de opciones de autenticación y selecciona **Token titular**. A continuación, agrega tu token de acceso personal, el cual habías copiado.
 
- ![Opciones de permisos para el token de acceso personal](/assets/images/developer/graphql/insomnia-base-url-and-pat.png)
+ ![Opciones de permisos para el token de acceso personal](/assets/images/2021/10/developer/graphql/insomnia-base-url-and-pat.png)
 
- ![Opciones de permisos para el token de acceso personal](/assets/images/developer/graphql/insomnia-bearer-token-option.png)
+ ![Opciones de permisos para el token de acceso personal](/assets/images/2021/10/developer/graphql/insomnia-bearer-token-option.png)
 
 3. Incluye la información del encabezado.
-   - Agrega `Content-Type` como el encabezado y `application/json` como el valor. ![Encabezado estándar](/assets/images/developer/graphql/json-content-type-header.png) ![Encabezado con valor de vista previa para la API de Bitácoras de Auditoría](/assets/images/developer/graphql/preview-header-for-2.18.png)
+   - Agrega `Content-Type` como el encabezado y `application/json` como el valor. ![Encabezado estándar](/assets/images/2021/10/developer/graphql/json-content-type-header.png) ![Encabezado con valor de vista previa para la API de Bitácoras de Auditoría](/assets/images/2021/10/developer/graphql/preview-header-for-2.18.png)
 
 Ahora estás listo para comenzar a hacer consultas.
 

@@ -24,10 +24,10 @@ shortTitle: ボードへのリポジトリのリンク
 1. リポジトリのリンク先にするプロジェクトボードに移動します。
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
-4. 左サイドバーで [**Linked repositories**] をクリックします。 ![左サイドバーの [Linked repositories] メニュー オプション](/assets/images/help/projects/project-board-linked-repositories-setting.png)
-5. [**Link a repository**] をクリックします。 ![[Linked repositories] タブにある [Link a repository] ボタン](/assets/images/help/projects/link-repository-button.png)
-6. リンクしたいリポジトリを検索します。 ![[Link a repository] ウィンドウの [Search] フィールド](/assets/images/help/projects/search-to-link-repository.png)
-7. [**Link**] をクリックします。 リンクを解除するには、[**Unlink**] をクリックします。 ![[Link] ボタン](/assets/images/help/projects/link-button.png)
+4. 左サイドバーで [**Linked repositories**] をクリックします。 ![左サイドバーの [Linked repositories] メニュー オプション](/assets/images/2021/10/help/projects/project-board-linked-repositories-setting.png)
+5. [**Link a repository**] をクリックします。 ![[Linked repositories] タブにある [Link a repository] ボタン](/assets/images/2021/10/help/projects/link-repository-button.png)
+6. リンクしたいリポジトリを検索します。 ![[Link a repository] ウィンドウの [Search] フィールド](/assets/images/2021/10/help/projects/search-to-link-repository.png)
+7. [**Link**] をクリックします。 リンクを解除するには、[**Unlink**] をクリックします。 ![[Link] ボタン](/assets/images/2021/10/help/projects/link-button.png)
 
 {% note %}
 

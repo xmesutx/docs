@@ -1289,7 +1289,7 @@ jobs:
 
 Se você executar este fluxo de trabalho em um navegador, você deverá inserir valores para as entradas necessárias manualmente antes de o fluxo de trabalho ser executado.
 
-![Inserindo entradas para um fluxo de trabalho](/assets/images/help/images/workflow-dispatch-inputs.png)
+![Inserindo entradas para um fluxo de trabalho](/assets/images/2022/01/help/images/workflow-dispatch-inputs.png)
 
 Você também pode passar entradas quando executar um fluxo de trabalho a partir de um script ou usando {% data variables.product.prodname_cli %}. Por exemplo:
 

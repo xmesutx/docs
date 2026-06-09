@@ -16,11 +16,11 @@ shortTitle: 招待のキャンセルあるいは編集
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. [People] タブで、[**Pending invitation**] をクリックします。 ![招待の保留リンク](/assets/images/help/organizations/pending-invitation-link.png)
-5. 編集またはキャンセルしたい人の、ユーザ名またはメールアドレスの隣にある [**Edit invitation**] をクリックします。 ![招待の編集ボタン](/assets/images/help/organizations/edit-invitation-button.png)
+4. [People] タブで、[**Pending invitation**] をクリックします。 ![招待の保留リンク](/assets/images/2021/10/help/organizations/pending-invitation-link.png)
+5. 編集またはキャンセルしたい人の、ユーザ名またはメールアドレスの隣にある [**Edit invitation**] をクリックします。 ![招待の編集ボタン](/assets/images/2021/10/help/organizations/edit-invitation-button.png)
 
  探している人が見つからない場合、ウインドウの下部にある [**View all invitations**] をクリックしてください。
-6. ユーザの Organization への招待を編集するかキャンセルするかを決めます。 ![[Update invitation] ボタンと [Cancel invitation] ボタン](/assets/images/help/organizations/update-cancel-invitation-buttons-for-dotcom-and-2.8.png)
+6. ユーザの Organization への招待を編集するかキャンセルするかを決めます。 ![[Update invitation] ボタンと [Cancel invitation] ボタン](/assets/images/2021/10/help/organizations/update-cancel-invitation-buttons-for-dotcom-and-2.8.png)
     - ユーザの招待を編集するには、別のロールまたは Team を選択して、[**Update invitation**] をクリックします。
     - ユーザの Organization への招待をキャンセルするには、[**Cancel invitation**] をクリックします。
 

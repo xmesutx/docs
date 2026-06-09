@@ -26,8 +26,8 @@ Este error puede ocurrir cuando {% data variables.product.prodname_desktop %} no
 Para solucionar este error, sigue estos pasos.
 
 1. Abre la app de "Acceso a la cadena de llaves".
-2. Da clic derecho en **inicio de sesión** y luego da clic en **Bloquear el "inicio de sesión" de la cadena de llaves**. ![La opción de "Bloquear el "inicio de sesión" en la cadena de llaves](/assets/images/help/desktop/mac-lock-keychain.png)
-3. Da clic derecho en **inicio de sesión** y luego da clic en **Desbloquear el "inicio de sesión" de la cadena de llaves**. Sigue las instrucciones en la pantalla para terminar de desbloquear el "inicio de sesión" de la cadena de llaves ![La opción de "Desbloquear el inicio de sesión en la "cadena de llaves"](/assets/images/help/desktop/mac-unlock-keychain.png)
+2. Da clic derecho en **inicio de sesión** y luego da clic en **Bloquear el "inicio de sesión" de la cadena de llaves**. ![La opción de "Bloquear el "inicio de sesión" en la cadena de llaves](/assets/images/2021/10/help/desktop/mac-lock-keychain.png)
+3. Da clic derecho en **inicio de sesión** y luego da clic en **Desbloquear el "inicio de sesión" de la cadena de llaves**. Sigue las instrucciones en la pantalla para terminar de desbloquear el "inicio de sesión" de la cadena de llaves ![La opción de "Desbloquear el inicio de sesión en la "cadena de llaves"](/assets/images/2021/10/help/desktop/mac-unlock-keychain.png)
 4. Vuelve a autenticarte en tu cuenta en {% data variables.product.prodname_dotcom %} o en {% data variables.product.prodname_enterprise %}.
 
 ### El error de `Could not create temporary directory: Permission denied` se muestra después de verificar si hay actualizaciones
@@ -40,7 +40,7 @@ Para solucionar este error, sigue estos pasos.
 2. Abre el "Buscador" y navega hasta `~/Library/Caches/`.
 3. Da clic derecho en `com.github.GitHubClient.ShipIt` y luego da clic en **Obtener Información**.
 4. Da clic en la flecha a la izquierda de "Compartir & Permisos."
-5. Si el privilegio a la derecha de tu cuenta de usuario no dice "Lectura & Escritura", da clic en el texto y luego en **Lectura & Escritura**. ![Las opciones de "Compartir & Permisos"](/assets/images/help/desktop/mac-adjust-permissions.png)
+5. Si el privilegio a la derecha de tu cuenta de usuario no dice "Lectura & Escritura", da clic en el texto y luego en **Lectura & Escritura**. ![Las opciones de "Compartir & Permisos"](/assets/images/2021/10/help/desktop/mac-adjust-permissions.png)
 6. Abre {% data variables.product.prodname_desktop %} y verifica si hay actualizaciones.
 
 ## Solución de problemas en Windows

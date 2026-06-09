@@ -27,7 +27,7 @@ Cuando una organización tiene una lista de direcciones permitidas, se negará e
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
 {% data reusables.user-settings.modify_github_app %}
-1. Desplázate hacia abajo para encontrar la sección de "lista de direcciones IP permitidas". ![Sección de información básica para tu GitHub App](/assets/images/github-apps/github-apps-allow-list-empty.png)
+1. Desplázate hacia abajo para encontrar la sección de "lista de direcciones IP permitidas". ![Sección de información básica para tu GitHub App](/assets/images/2021/10/github-apps/github-apps-allow-list-empty.png)
 {% data reusables.identity-and-permissions.ip-allow-lists-add-ip %}
 {% data reusables.identity-and-permissions.ip-allow-lists-add-description %}
   La descripción es para tu referencia y no se utiliza en la lista de direcciones permitidas de las organizaciones en donde está instalada la {% data variables.product.prodname_github_app %}. En vez de esto, las listas de direcciones permitidas de la organización incluirán "Managed by the NAME GitHub App" como descripción.

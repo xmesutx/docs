@@ -61,14 +61,14 @@ En los repositorios que te pertenecen, los usuarios bloqueados tampoco podrán:
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. En "Block a user" (Bloquear a un usuario), escribe el nombre de usuario del usuario que deseas bloquear, luego haz clic en **Block user** (Bloquear usuario). ![Campo Username (Nombre de usuario) y botón Block (Bloquear)](/assets/images/help/settings/user-settings-block-user.png)
-4. Opcionalmente, para mostrar una advertencia al visitar un repositorio donde un usuario bloqueado es un colaborador, selecciona **Warn me when blocked user is a prior contributor to a repository** (Advertirme cuando un usuario bloqueado es un colaborador anterior del repositorio). ![Opción para advertir sobre usuarios bloqueados](/assets/images/help/settings/warn-block-user.png)
+3. En "Block a user" (Bloquear a un usuario), escribe el nombre de usuario del usuario que deseas bloquear, luego haz clic en **Block user** (Bloquear usuario). ![Campo Username (Nombre de usuario) y botón Block (Bloquear)](/assets/images/2021/10/help/settings/user-settings-block-user.png)
+4. Opcionalmente, para mostrar una advertencia al visitar un repositorio donde un usuario bloqueado es un colaborador, selecciona **Warn me when blocked user is a prior contributor to a repository** (Advertirme cuando un usuario bloqueado es un colaborador anterior del repositorio). ![Opción para advertir sobre usuarios bloqueados](/assets/images/2021/10/help/settings/warn-block-user.png)
 
 ## Bloquear a un usuario desde su página de perfil
 
 {% data reusables.profile.user_profile_page_navigation %}
 {% data reusables.profile.user_profile_page_block_or_report %}
-3. Haz clic en **Block user** (Bloquear usuario). ![Cuadro de modo con opciones para bloquear a un usuario o reportar abusos](/assets/images/help/profile/profile-blockuser.png)
+3. Haz clic en **Block user** (Bloquear usuario). ![Cuadro de modo con opciones para bloquear a un usuario o reportar abusos](/assets/images/2021/10/help/profile/profile-blockuser.png)
 
 {% note %}
 

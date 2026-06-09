@@ -22,11 +22,11 @@ This changes the status of the review to a review comment. When you dismiss a re
 
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.choose-pr-review %}
-3. On the "Conversation" tab, scroll to the review you'd like to dismiss, then click {% octicon "chevron-down" aria-label="The down button" %}. ![Chevron icon in the merge box](/assets/images/help/pull_requests/merge_box/pull-request-open-menu.png)
+3. On the "Conversation" tab, scroll to the review you'd like to dismiss, then click {% octicon "chevron-down" aria-label="The down button" %}. ![Chevron icon in the merge box](/assets/images/2021/10/help/pull_requests/merge_box/pull-request-open-menu.png)
 4. Click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, then click **Dismiss review**.
-![Kebab icon in merge box](/assets/images/help/pull_requests/merge_box/pull-request-dismiss-review.png)
+![Kebab icon in merge box](/assets/images/2021/10/help/pull_requests/merge_box/pull-request-dismiss-review.png)
 5. Type your reason for dismissing the review, then click **Dismiss review**.
-  ![Dismiss review button](/assets/images/help/pull_requests/merge_box/pull-request-dismiss-review-button.png)
+  ![Dismiss review button](/assets/images/2021/10/help/pull_requests/merge_box/pull-request-dismiss-review-button.png)
 
 ## Further reading
 

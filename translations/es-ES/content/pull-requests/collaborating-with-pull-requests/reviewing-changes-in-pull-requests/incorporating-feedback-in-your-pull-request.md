@@ -27,13 +27,13 @@ Each person who suggested a change included in the commit will be a co-author of
 2. In the list of pull requests, click the pull request you'd like to apply a suggested change to.
 3. Navigate to the first suggested change you'd like to apply.
     - To apply the change in its own commit, click **Commit suggestion**.
-  ![Commit suggestion button](/assets/images/help/pull_requests/commit-suggestion-button.png)
+  ![Commit suggestion button](/assets/images/2021/10/help/pull_requests/commit-suggestion-button.png)
     - To add the suggestion to a batch of changes, click **Add suggestion to batch**. Continue to add the suggested changes you want to include in a single commit. When you've finished adding suggested changes, click **Commit suggestions**.
-  ![Add suggestion to batch button](/assets/images/help/pull_requests/add-suggestion-to-batch.png)
+  ![Add suggestion to batch button](/assets/images/2021/10/help/pull_requests/add-suggestion-to-batch.png)
 4. In the commit message field, type a short, meaningful commit message that describes the change you made to the file or files.
-![Commit message field](/assets/images/help/pull_requests/suggested-change-commit-message-field.png)
+![Commit message field](/assets/images/2021/10/help/pull_requests/suggested-change-commit-message-field.png)
 5. Click **Commit changes.**
-![Commit changes button](/assets/images/help/pull_requests/commit-changes-button.png)
+![Commit changes button](/assets/images/2021/10/help/pull_requests/commit-changes-button.png)
 
 ## Re-requesting a review
 

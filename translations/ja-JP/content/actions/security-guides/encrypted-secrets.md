@@ -202,7 +202,7 @@ Organization内のシークレットに適用されているアクセス ポリ�
 {% data reusables.organizations.navigate-to-org %}
 {% data reusables.organizations.org_settings %}
 {% data reusables.actions.sidebar-secret %}
-1. シークレットのリストには、設定済みのアクセス許可とポリシーが含まれます。 例: ![シークレットリスト](/assets/images/help/settings/actions-org-secrets-list.png)
+1. シークレットのリストには、設定済みのアクセス許可とポリシーが含まれます。 例: ![シークレットリスト](/assets/images/2021/10/help/settings/actions-org-secrets-list.png)
 1. 各シークレットに設定されているアクセス許可の詳細については、[**Update（更新）**] をクリックしてください。
 
 ## 暗号化されたシークレットのワークフロー内での利用

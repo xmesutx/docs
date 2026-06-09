@@ -12,7 +12,7 @@ shortTitle: Configure basic settings
 {% mac %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
-3. 設定の表示、または変更をするには、次のペイン間を切り替えます。 ![Preferencesメニューのナビゲーション](/assets/images/help/desktop/mac-select-accounts-pane.png)
+3. 設定の表示、または変更をするには、次のペイン間を切り替えます。 ![Preferencesメニューのナビゲーション](/assets/images/2021/10/help/desktop/mac-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endmac %}
@@ -20,7 +20,7 @@ shortTitle: Configure basic settings
 {% windows %}
 
 {% data reusables.desktop.windows-choose-options %}
-2. 設定の表示、または変更をするには、次のペイン間を切り替えます。 ![Optionsメニューのナビゲーション](/assets/images/help/desktop/windows-select-accounts-pane.png)
+2. 設定の表示、または変更をするには、次のペイン間を切り替えます。 ![Optionsメニューのナビゲーション](/assets/images/2021/10/help/desktop/windows-select-accounts-pane.png)
 {% data reusables.desktop.preferences-options-tabs %}
 
 {% endwindows %}

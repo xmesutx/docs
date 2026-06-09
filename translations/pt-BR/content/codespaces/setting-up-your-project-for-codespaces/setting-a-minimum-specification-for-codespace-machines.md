@@ -46,7 +46,7 @@ Se o seu projeto precisar de um certo nível de poder de computação, você pod
 
    Agora, quando você criar um codespace para esse branch do repositório, você só será capaz de selecionar os tipos de máquina que correspondem ou excedem os recursos que você especificou.
 
-   ![Caixa de diálogo que mostra uma escolha limitada de tipos de máquina](/assets/images/help/codespaces/machine-types-limited-choice.png)
+   ![Caixa de diálogo que mostra uma escolha limitada de tipos de máquina](/assets/images/2022/01/help/codespaces/machine-types-limited-choice.png)
 
 ## Leia mais
 

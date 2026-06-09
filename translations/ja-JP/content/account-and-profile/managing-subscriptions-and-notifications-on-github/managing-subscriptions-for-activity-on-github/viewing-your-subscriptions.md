@@ -34,7 +34,7 @@ shortTitle: View subscriptions
 
 インボックスの通知が多すぎて管理できない場合は、サブスクリプションが多すぎないか確認したり、通知設定を変更して、サブスクリプションと受信する通知の種類を減らしたりすることを検討してください。 たとえば、設定を無効にして、チームまたはリポジトリに参加するたびにすべてのリポジトリとすべての Team ディスカッションを自動的に監視することを検討できます。
 
-![自動 Watch](/assets/images/help/notifications-v2/automatic-watching-example.png)
+![自動 Watch](/assets/images/2021/10/help/notifications-v2/automatic-watching-example.png)
 
 詳しい情報については、「[通知を設定する](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#automatic-watching)」を参照してください。
 
@@ -50,11 +50,11 @@ shortTitle: View subscriptions
 ## サブスクリプションのリストを確認する
 
 {% data reusables.notifications.access_notifications %}
-1. 左側のサイドバーの、通知元のリポジトリリストの下にある [Manage notifications] ドロップダウンを使用して、[**Subscriptions**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/help/notifications-v2/manage-notifications-options.png)
+1. 左側のサイドバーの、通知元のリポジトリリストの下にある [Manage notifications] ドロップダウンを使用して、[**Subscriptions**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
 2. フィルタとソートを使用して、サブスクリプションのリストを絞り込み、通知の受信を希望しない会話のサブスクリプションを解除します。
 
-  ![サブスクリプションページ](/assets/images/help/notifications-v2/all-subscriptions.png)
+  ![サブスクリプションページ](/assets/images/2021/10/help/notifications-v2/all-subscriptions.png)
 
 {% tip %}
 
@@ -67,8 +67,8 @@ shortTitle: View subscriptions
 
 ## Watch しているリポジトリを確認する
 
-1. 左側のサイドバーの、リポジトリリストの下にある [Manage notifications] ドロップダウンメニューを使用して、[**Watched repositories**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/help/notifications-v2/manage-notifications-options.png)
-2. Watch しているリポジトリを評価し、それらの更新がまだ関連していて有用であるかどうかを判断します。 リポジトリを Watch すると、そのリポジトリのすべての会話が通知されます。 ![Watch対象の通知ページ](/assets/images/help/notifications-v2/watched-notifications-custom.png)
+1. 左側のサイドバーの、リポジトリリストの下にある [Manage notifications] ドロップダウンメニューを使用して、[**Watched repositories**] をクリックします。 ![[Manage notifications] ドロップダウンメニューオプション](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
+2. Watch しているリポジトリを評価し、それらの更新がまだ関連していて有用であるかどうかを判断します。 リポジトリを Watch すると、そのリポジトリのすべての会話が通知されます。 ![Watch対象の通知ページ](/assets/images/2021/10/help/notifications-v2/watched-notifications-custom.png)
 
   {% tip %}
 

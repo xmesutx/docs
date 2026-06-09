@@ -12,7 +12,7 @@ versions:
   ghec: '*'
 ---
 
-![Respuestas guardadas](/assets/images/help/settings/saved-replies.png)
+![Respuestas guardadas](/assets/images/2021/10/help/settings/saved-replies.png)
 
 Las respuestas guardadas te permiten crear una respuesta reusable para las propuestas y las solicitudes de extracción. Ahorra tiempo creando una respuesta guardada para las respuestas que usas con mayor frecuencia.
 

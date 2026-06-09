@@ -31,4 +31,4 @@ Pulse を使ってリポジトリアクティビティの概要を表示する�
 
 デフォルトでは、Pulse は過去 7 日間のリポジトリアクティビティを表示します。 別の期間を選択するには、Pulse 概要の右上隅にある [**Period**] ドロップダウンをクリックします。
 
-![時間による Pulse アクティビティのフィルタリング](/assets/images/help/pulse/pulse_time_filter_dropdown.png)
+![時間による Pulse アクティビティのフィルタリング](/assets/images/2021/10/help/pulse/pulse_time_filter_dropdown.png)

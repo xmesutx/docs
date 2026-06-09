@@ -11,5 +11,5 @@ Para habilitar la adición automática de direcciones IP para las {% data variab
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-1. Debajo de "Lista de direcciones IP permitidas", selecciona **Habilitar la configuración de la lista de direcciones IP permitidas para las GitHub Apps instaladas**. ![Casilla de verificación para permitir las direcciones IP de las GitHub Apps](/assets/images/help/security/enable-ip-allowlist-githubapps-checkbox.png)
+1. Debajo de "Lista de direcciones IP permitidas", selecciona **Habilitar la configuración de la lista de direcciones IP permitidas para las GitHub Apps instaladas**. ![Casilla de verificación para permitir las direcciones IP de las GitHub Apps](/assets/images/2021/10/help/security/enable-ip-allowlist-githubapps-checkbox.png)
 1. Haz clic en **Save ** (guardar).

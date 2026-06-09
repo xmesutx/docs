@@ -15,8 +15,8 @@ El Importador GitHub busca los usuarios de GitHub cuyas direcciones de correo el
 
 ## Actualizar autores de la confirmación
 
-1. Después de que hayas importado tu repositorio, en la página de estado de importación, haz clic en **Match authors** (Hacer coincidir autores). ![Botón Match authors (Hacer coincidir autores)](/assets/images/help/importer/match-authors-button.png)
-2. Al lado del autor cuya información quieres actualizar, haz clic en **Connect** (Conectar). ![Lista de autores de la confirmación](/assets/images/help/importer/connect-commit-author.png)
+1. Después de que hayas importado tu repositorio, en la página de estado de importación, haz clic en **Match authors** (Hacer coincidir autores). ![Botón Match authors (Hacer coincidir autores)](/assets/images/2021/10/help/importer/match-authors-button.png)
+2. Al lado del autor cuya información quieres actualizar, haz clic en **Connect** (Conectar). ![Lista de autores de la confirmación](/assets/images/2021/10/help/importer/connect-commit-author.png)
 3. Escribe la dirección de correo electrónico o el nombre de usuario de GitHub del autor, luego presiona **Enter**.
 
 ## Atribuir confirmaciones a un usuario de GitHub con una dirección de correo electrónico pública

@@ -34,7 +34,7 @@ You can also use the "Filter cards" search bar at the top of each project board 
 
 1. Navigate to the project board that contains the cards you want to filter.
 2. Above the project card columns, click into the "Filter cards" search bar and type a search query to filter the cards.
-![Filter card search bar](/assets/images/help/projects/filter-card-search-bar.png)
+![Filter card search bar](/assets/images/2021/10/help/projects/filter-card-search-bar.png)
 
 {% tip %}
 

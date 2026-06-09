@@ -41,5 +41,5 @@ shortTitle: 支払いサイクル
 ### 過去のリポジトリ単位プランの期間の変更
 
 {% data reusables.organizations.billing-settings %}
-4. [Billing overview] で、[**Change plan**] をクリックします。 ![[Billing overview] の [Change plan] ボタン](/assets/images/help/billing/billing_overview_change_plan.png)
-5. ページの右上で [**Switch to monthly billing**] または [**Switch to yearly billing**] をクリックします。 ![支払い情報セクション](/assets/images/help/billing/settings_billing_organization_plans_switch_to_yearly.png)
+4. [Billing overview] で、[**Change plan**] をクリックします。 ![[Billing overview] の [Change plan] ボタン](/assets/images/2021/10/help/billing/billing_overview_change_plan.png)
+5. ページの右上で [**Switch to monthly billing**] または [**Switch to yearly billing**] をクリックします。 ![支払い情報セクション](/assets/images/2021/10/help/billing/settings_billing_organization_plans_switch_to_yearly.png)

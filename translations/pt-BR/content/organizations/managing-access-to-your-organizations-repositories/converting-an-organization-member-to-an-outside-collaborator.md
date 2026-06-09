@@ -35,9 +35,9 @@ Na conversão de um integrante da organização em um colaborador externo, os pr
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. Selecione a(s) pessoa(s) que deseja converter em colaborador(es) externo(s). ![Lista de integrantes com dois integrantes selecionados](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. Acima da lista de integrantes, use o menu suspenso e clique em **Convert to outside collaborator** (Converter em colaborador externo). ![Menu suspenso com opção para converter integrantes em colaboradores externos](/assets/images/help/teams/user-bulk-management-options.png)
-6. Leia as informações sobre como converter integrantes em colaboradores externos e clique em **Convert to outside collaborator** (Converter em colaborador externo). ![Informações sobre permissões de colaboradores externos e botão Convert to outside collaborators (Converter em colaboradores externos)](/assets/images/help/teams/confirm-outside-collaborator-bulk.png)
+4. Selecione a(s) pessoa(s) que deseja converter em colaborador(es) externo(s). ![Lista de integrantes com dois integrantes selecionados](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. Acima da lista de integrantes, use o menu suspenso e clique em **Convert to outside collaborator** (Converter em colaborador externo). ![Menu suspenso com opção para converter integrantes em colaboradores externos](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. Leia as informações sobre como converter integrantes em colaboradores externos e clique em **Convert to outside collaborator** (Converter em colaborador externo). ![Informações sobre permissões de colaboradores externos e botão Convert to outside collaborators (Converter em colaboradores externos)](/assets/images/2021/10/help/teams/confirm-outside-collaborator-bulk.png)
 
 ## Leia mais
 

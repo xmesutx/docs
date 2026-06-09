@@ -20,8 +20,8 @@ shortTitle: 管理团队讨论
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-discussions-tab %}
 6. 单击要编辑或删除的团队讨论旁边的 {% octicon "kebab-horizontal" aria-label="The edit icon" %}。
-7. 单击 **Edit（编辑）**。 可选择单击 **Delete（删除）**。 ![编辑团队讨论按钮](/assets/images/help/projects/edit-team-discussions-button.png)
-8. 根据需要修改团队讨论标题和评论，然后单击 **Update comment（更新评论）**。 ![更新评论按钮](/assets/images/help/projects/update-comment-button.png)
+7. 单击 **Edit（编辑）**。 可选择单击 **Delete（删除）**。 ![编辑团队讨论按钮](/assets/images/2021/10/help/projects/edit-team-discussions-button.png)
+8. 根据需要修改团队讨论标题和评论，然后单击 **Update comment（更新评论）**。 ![更新评论按钮](/assets/images/2021/10/help/projects/update-comment-button.png)
 
 ## 延伸阅读
 

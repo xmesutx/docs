@@ -20,6 +20,6 @@ shortTitle: 禁用项目板
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. 在“Features”（功能）下，取消选择 **Projects（项目）**复选框。 ![删除项目复选框](/assets/images/help/projects/disable-projects-checkbox.png)
+3. 在“Features”（功能）下，取消选择 **Projects（项目）**复选框。 ![删除项目复选框](/assets/images/2021/10/help/projects/disable-projects-checkbox.png)
 
 禁用项目板后，将无法通过其先前的 URL 访问现有项目板。 {% data reusables.organizations.disable_project_board_results %}

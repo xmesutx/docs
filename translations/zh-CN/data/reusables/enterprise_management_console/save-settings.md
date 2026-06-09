@@ -1,6 +1,6 @@
 1. 在左侧边栏下，单击 **Save settings（保存设置）**。
 
-   ![Screenshot of the save settings button in the {% data variables.enterprise.management_console %}](/assets/images/enterprise/management-console/save-settings.png)
+   ![Screenshot of the save settings button in the {% data variables.enterprise.management_console %}](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 
    {% note %}
 

@@ -64,7 +64,7 @@ const queryString = 'q=' + encodeURIComponent('GitHub Octocat in:readme user:def
 
 在 GitHub 上，您可以使用搜索结果中的代码段和高亮显示提供的上下文。 搜索 API 提供额外的元数据，允许您在显示搜索结果时高亮显示匹配搜索词。
 
-![代码片段高亮显示](/assets/images/text-match-search-api.png)
+![代码片段高亮显示](/assets/images/2021/10/text-match-search-api.png)
 
 请求可以选择在响应中接收这些文本片段，并且每个片段都附带数字偏移，以标识每个匹配搜索词的确切位置。
 

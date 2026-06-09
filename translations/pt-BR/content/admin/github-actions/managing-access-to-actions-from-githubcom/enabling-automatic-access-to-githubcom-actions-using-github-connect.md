@@ -37,7 +37,7 @@ Antes de permitir o acesso a todas as ações de {% data variables.product.prodn
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.github-connect-tab %}
-1. Em "Os usuários podem usar as ações do GitHub.com em execuções do fluxo de trabalho", use o menu suspenso e selecione **Habilitado**. ![Menu suspenso para ações do GitHub.com em execuções do fluxos de trabalho](/assets/images/enterprise/site-admin-settings/enable-marketplace-actions-drop-down-ae.png)
+1. Em "Os usuários podem usar as ações do GitHub.com em execuções do fluxo de trabalho", use o menu suspenso e selecione **Habilitado**. ![Menu suspenso para ações do GitHub.com em execuções do fluxos de trabalho](/assets/images/2021/10/enterprise/site-admin-settings/enable-marketplace-actions-drop-down-ae.png)
 1. {% data reusables.actions.enterprise-limit-actions-use %}
 
 {% ifversion ghes > 3.2 or ghae-issue-4815 %}
@@ -52,7 +52,7 @@ Depois de usar uma ação de {% data variables.product.prodname_dotcom_the_websi
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 2. Na barra lateral esquerda, em **administrador do site** clique em **namespaces desativados**.
-3. Localize o namespace que você quer usar em {% data variables.product.product_location %} e clique em **Cancelar desativação**. ![Cancelar desativação do namespace](/assets/images/enterprise/site-admin-settings/unretire-namespace.png)
+3. Localize o namespace que você quer usar em {% data variables.product.product_location %} e clique em **Cancelar desativação**. ![Cancelar desativação do namespace](/assets/images/2021/11/enterprise/site-admin-settings/unretire-namespace.png)
 4. Acesse a organização relevante e crie um novo repositório.
 
    {% tip %}

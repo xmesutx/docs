@@ -44,7 +44,7 @@ You can also configure allowed IP addresses for the organizations in an enterpri
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
 1. Under "IP allow list", select **Enable IP allow list**.
-  ![Checkbox to allow IP addresses](/assets/images/help/security/enable-ip-allowlist-organization-checkbox.png)
+  ![Checkbox to allow IP addresses](/assets/images/2021/10/help/security/enable-ip-allowlist-organization-checkbox.png)
 1. Click **Save**.
 
 ## Allowing access by {% data variables.product.prodname_github_apps %}
@@ -61,7 +61,7 @@ For more information about how to create an allow list for a {% data variables.p
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security %}
 1. Under "IP allow list", select **Enable IP allow list configuration for installed GitHub Apps**.
-  ![Checkbox to allow GitHub App IP addresses](/assets/images/help/security/enable-ip-allowlist-githubapps-checkbox.png)
+  ![Checkbox to allow GitHub App IP addresses](/assets/images/2021/10/help/security/enable-ip-allowlist-githubapps-checkbox.png)
 1. Click **Save**.
 
 ## Editing an allowed IP address

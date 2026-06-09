@@ -24,7 +24,7 @@ Puedes crear mensajes personalizados que los usuarios verán en las páginas de 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-4. Selecciona **Autenticación integrada**. ![Seleccionar la opción autenticación integrada](/assets/images/enterprise/management-console/built-in-auth-select.png)
+4. Selecciona **Autenticación integrada**. ![Seleccionar la opción autenticación integrada](/assets/images/2021/10/enterprise/management-console/built-in-auth-select.png)
 
 {% data reusables.enterprise_user_management.two_factor_auth_header %}
 {% data reusables.enterprise_user_management.2fa_is_available %}
@@ -33,7 +33,7 @@ Puedes crear mensajes personalizados que los usuarios verán en las páginas de 
 
 Una vez que se ha creado tu instancia, necesitarás crear tu propia cuenta de administrador.
 
-1. En la página "Crear cuenta de administrador " en `http(s)://[hostname]/join`, elige tu nombre de usuario, contraseña y dirección de correo electrónico, luego haz clic en **Crear una cuenta**. ![Crear cuenta de administrador](/assets/images/enterprise/site-admin-settings/create-first-admin-acct.png)
+1. En la página "Crear cuenta de administrador " en `http(s)://[hostname]/join`, elige tu nombre de usuario, contraseña y dirección de correo electrónico, luego haz clic en **Crear una cuenta**. ![Crear cuenta de administrador](/assets/images/2021/10/enterprise/site-admin-settings/create-first-admin-acct.png)
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 
 ## Invitar usuarios

@@ -48,7 +48,7 @@ Si tienes múltiples llaves o estás intentando firmar confirmaciones o etiqueta
   ```
 4. En {% data variables.product.product_name %}, desplázate hasta la solicitud de extracción.
 {% data reusables.repositories.review-pr-commits %}
-5. Para ver información más detallada acerca de la firma verificada, haz clic en Verified (Verificada). ![Confirmación firmada](/assets/images/help/commits/gpg-signed-commit-verified-without-details.png)
+5. Para ver información más detallada acerca de la firma verificada, haz clic en Verified (Verificada). ![Confirmación firmada](/assets/images/2021/10/help/commits/gpg-signed-commit-verified-without-details.png)
 
 ## Leer más
 

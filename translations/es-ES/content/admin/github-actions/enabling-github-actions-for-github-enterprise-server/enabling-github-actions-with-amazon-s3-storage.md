@@ -41,7 +41,7 @@ Antes de que habilites las {% data variables.product.prodname_actions %}, asegú
    * **AWS S3 Bucket**: El nombre de tu bucket de S3.
    * **Clave de acceso de AWS S3** y **Clave secreta de AWS S3**: La ID de clave de acceso y clave secreta para tu bucket. Para obtener más información sobre cómo administrar las claves de acceso de AWS, consulta la "[Documentación para la Administración de Accesos e Identidad de AWS](https://docs.aws.amazon.com/iam/index.html)".
 
-   ![Botón radial para seleccionar el almacenamiento de Amazon S3 y los campos para la configuración de S3](/assets/images/enterprise/management-console/actions-aws-s3-storage.png)
+   ![Botón radial para seleccionar el almacenamiento de Amazon S3 y los campos para la configuración de S3](/assets/images/2021/10/enterprise/management-console/actions-aws-s3-storage.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.actions.enterprise-postinstall-nextsteps %}

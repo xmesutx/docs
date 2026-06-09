@@ -21,5 +21,5 @@ shortTitle: リポジトリ管理ポリシーの設定
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. [Repository deletion and transfer] の下で、[**Allow members to delete or transfer repositories for this organization**] を選択または選択解除します。 ![リポジトリの削除をメンバーに許可するためのチェックボックス](/assets/images/help/organizations/disallow-members-to-delete-repositories.png)
+5. [Repository deletion and transfer] の下で、[**Allow members to delete or transfer repositories for this organization**] を選択または選択解除します。 ![リポジトリの削除をメンバーに許可するためのチェックボックス](/assets/images/2021/10/help/organizations/disallow-members-to-delete-repositories.png)
 6. [**Save**] をクリックします。

@@ -60,7 +60,7 @@ Organization が所有するプロジェクトボードに、あなたが表示�
 
 プロジェクトボードのための自動化に関する詳しい情報については、「[プロジェクトボードの自動化について](/articles/about-automation-for-project-boards)」を参照してください。
 
-![basic kanban テンプレートでのプロジェクトボード](/assets/images/help/projects/project-board-basic-kanban-template.png)
+![basic kanban テンプレートでのプロジェクトボード](/assets/images/2021/10/help/projects/project-board-basic-kanban-template.png)
 
 {% data reusables.project-management.copy-project-boards %}
 

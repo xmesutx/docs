@@ -25,7 +25,7 @@ Organization からユーザのブロックを解除すると、そのユーザ�
 ## コメントでユーザのブロックを解除する
 
 1. 作者のブロックを解除したいコメントに移動します。
-2. コメントの右上にある、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックし、次に [**Unblock user**] をクリックします。 ![ユーザブロックの解除オプションを表示する水平のケバブアイコンとコメント調整メニュー](/assets/images/help/repository/comment-menu-unblock-user.png)
+2. コメントの右上にある、{% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックし、次に [**Unblock user**] をクリックします。 ![ユーザブロックの解除オプションを表示する水平のケバブアイコンとコメント調整メニュー](/assets/images/2021/10/help/repository/comment-menu-unblock-user.png)
 3. ユーザのブロック解除を確定するために [**Okay**] をクリックします。
 
 ## Organization 設定でユーザのブロックを解除する
@@ -34,7 +34,7 @@ Organization からユーザのブロックを解除すると、そのユーザ�
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.moderation-settings %}, then click **Blocked users**.
-5. [Blocked users] の下で、ブロックを解除したいユーザの横にある [**Unblock**] をクリックします。 ![ユーザブロックの解除ボタン](/assets/images/help/organizations/org-unblock-user-button.png)
+5. [Blocked users] の下で、ブロックを解除したいユーザの横にある [**Unblock**] をクリックします。 ![ユーザブロックの解除ボタン](/assets/images/2021/10/help/organizations/org-unblock-user-button.png)
 
 ## 参考リンク
 

@@ -57,11 +57,11 @@ To help the person you're removing from your organization transition and help en
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
 4. Select the member or members you'd like to remove from the organization.
-  ![List of members with two members selected](/assets/images/help/teams/list-of-members-selected-bulk.png)
+  ![List of members with two members selected](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
 5. Above the list of members, use the drop-down menu, and click **Remove from organization**.
-  ![Drop-down menu with option to remove members](/assets/images/help/teams/user-bulk-management-options.png)
+  ![Drop-down menu with option to remove members](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
 6. Review the member or members who will be removed from the organization, then click **Remove members**.
-  ![List of members who will be removed and Remove members button](/assets/images/help/teams/confirm-remove-members-bulk.png)
+  ![List of members who will be removed and Remove members button](/assets/images/2021/10/help/teams/confirm-remove-members-bulk.png)
 
 ## Further reading
 

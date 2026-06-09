@@ -21,10 +21,10 @@ shortTitle: Recover SSH key passphrase
 
 [macOS キーチェーンを使用して SSH パスフレーズを設定](/articles/working-with-ssh-key-passphrases#saving-your-passphrase-in-the-keychain)した場合、リカバリできる可能性があります。
 
-1. [Finder] で、**Keychain Access** アプリケーションを検索します。 ![スポットライト検索バー](/assets/images/help/setup/keychain-access.png)
+1. [Finder] で、**Keychain Access** アプリケーションを検索します。 ![スポットライト検索バー](/assets/images/2021/10/help/setup/keychain-access.png)
 2. [Keychain Access] で、**SSH** を検索します。
 3. SSH キーのエントリをダブルクリックして、新しいダイアログボックスを開きます。
-4. 左下隅で、[**Show password**] を選択します。 ![キーチェーンアクセスダイアログ](/assets/images/help/setup/keychain_show_password_dialog.png)
+4. 左下隅で、[**Show password**] を選択します。 ![キーチェーンアクセスダイアログ](/assets/images/2021/10/help/setup/keychain_show_password_dialog.png)
 5. 管理者パスワードを入力するようプロンプトが表示されます。 [Keychain Access] ダイアログボックスに入力します。
 6. パスワードのマスクが解除されます。
 

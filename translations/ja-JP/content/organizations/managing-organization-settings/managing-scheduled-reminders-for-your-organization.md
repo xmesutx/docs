@@ -30,7 +30,7 @@ Organization のオーナーは、Team がレビューをリクエストされ�
 {% data reusables.reminders.days-dropdown %}
 {% data reusables.reminders.times-dropdowns %}
 {% data reusables.reminders.tracked-repos %}
-1.  [Filter by team assigned to review code] で、[**Add a team**] ドロップダウンをクリックし、1 つ以上の Team を選択します。 最大 100 チームまで追加できます。 選択した Team が、上で選択する [Tracked repositories] にアクセスできない場合は、スケジュールされたリマインダーは作成できません。 ![[Add a team] ドロップダウン](/assets/images/help/organizations/scheduled-reminders-add-teams.png)
+1.  [Filter by team assigned to review code] で、[**Add a team**] ドロップダウンをクリックし、1 つ以上の Team を選択します。 最大 100 チームまで追加できます。 選択した Team が、上で選択する [Tracked repositories] にアクセスできない場合は、スケジュールされたリマインダーは作成できません。 ![[Add a team] ドロップダウン](/assets/images/2021/10/help/organizations/scheduled-reminders-add-teams.png)
 {% data reusables.reminders.ignore-drafts %}
 {% data reusables.reminders.no-review-requests %}
 {% data reusables.reminders.author-reviews %}

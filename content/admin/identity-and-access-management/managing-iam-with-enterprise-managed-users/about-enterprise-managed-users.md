@@ -82,10 +82,10 @@ The setup user's username is your enterprise's shortcode suffixed with `_admin`.
 
 1. Navigate to [https://github.com/login](https://github.com/login).
 1. In the "Username or email address" text box, enter your username including the underscore and short code.
-  ![Screenshot showing login form](/assets/images/help/enterprises/emu-login-username.png)
+  ![Screenshot showing login form](/assets/images/2022/01/help/enterprises/emu-login-username.png)
   When the form recognizes your username, the form will update. You do not need to enter your password on this form.
 1. To continue to your identity provider, click **Sign in with your identity provider**.
-  ![Screenshot showing "Sign in with your identity provider" button](/assets/images/help/enterprises/emu-login-submit.png)
+  ![Screenshot showing "Sign in with your identity provider" button](/assets/images/2022/01/help/enterprises/emu-login-submit.png)
 
 ## Usernames and profile information
 

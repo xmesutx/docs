@@ -14,7 +14,7 @@ topics:
   - Teams
 ---
 
-![List of teams in an organization](/assets/images/help/teams/org-list-of-teams.png)
+![List of teams in an organization](/assets/images/2021/10/help/teams/org-list-of-teams.png)
 
 Organization owners and team maintainers can give teams admin, read, or write access to organization repositories. Organization members can send a notification to an entire team by mentioning the team's name. Organization members can also send a notification to an entire team by requesting a review from that team. Organization members can request reviews from specific teams with read access to the repository where the pull request is opened. Teams can be designated as owners of certain types or areas of code in a CODEOWNERS file.
 
@@ -23,7 +23,7 @@ For more information, see:
 - "[Mentioning people and teams](/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams)"
 - "[About code owners](/articles/about-code-owners/)"
 
-![Image of a team mention](/assets/images/help/teams/team-mention.png)
+![Image of a team mention](/assets/images/2021/10/help/teams/team-mention.png)
 
 {% ifversion ghes %}
 
@@ -45,7 +45,7 @@ Each team has its own page within an organization. On a team's page, you can vie
 
 Organization members can create and participate in discussions with the team. For more information, see "[About team discussions](/organizations/collaborating-with-your-team/about-team-discussions)."
 
-![Team page listing team members and discussions](/assets/images/help/organizations/team-page-discussions-tab.png)
+![Team page listing team members and discussions](/assets/images/2021/10/help/organizations/team-page-discussions-tab.png)
 
 ## Nested teams
 
@@ -55,11 +55,11 @@ Child teams inherit the parent's access permissions, simplifying permissions man
 
 For example, if your team structure is Employees > Engineering > Application Engineering > Identity, granting Engineering write access to a repository means Application Engineering and Identity also get that access. If you @mention the Identity Team or any team at the bottom of the organization hierarchy, they're the only ones who will receive a notification.
 
-![Teams page with a parent team and child teams](/assets/images/help/teams/nested-teams-eng-example.png)
+![Teams page with a parent team and child teams](/assets/images/2021/10/help/teams/nested-teams-eng-example.png)
 
 To easily understand who shares a parent team's permissions and mentions, you can see all of the members of a parent team's child teams on the Members tab of the parent team's page. Members of a child team are not direct members of the parent team.
 
-![Parent team page with all members of child teams](/assets/images/help/teams/team-and-subteam-members.png)
+![Parent team page with all members of child teams](/assets/images/2021/10/help/teams/team-and-subteam-members.png)
 
 You can choose a parent when you create the team, or you can move a team in your organization's hierarchy later. For more information see, "[Moving a team in your organization’s hierarchy](/articles/moving-a-team-in-your-organization-s-hierarchy)."
 

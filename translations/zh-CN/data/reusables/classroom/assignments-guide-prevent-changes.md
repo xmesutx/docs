@@ -3,5 +3,5 @@
 在“Protected file paths（受保护的文件路径）”下，键入仓库内的相对路径以进行保护。
 
 <div class="procedural-image-wrapper">
-  <img alt="用于键入受保护文件路径的文本字段" class="procedural-image-wrapper" src="/assets/images/help/classroom/assignments-type-protected-file-paths.png">
+  <img alt="用于键入受保护文件路径的文本字段" class="procedural-image-wrapper" src="/assets/images/2021/10/help/classroom/assignments-type-protected-file-paths.png">
 </div>

@@ -22,7 +22,7 @@ When you view a full review, you'll see the same version of the pull request as 
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.choose-pr-review %}
 3. On the "Conversation" tab, scroll to the review you'd like to see, then click **View changes**.
-  ![Review header with link to full review](/assets/images/help/pull_requests/view-full-review-view-changes.png)
+  ![Review header with link to full review](/assets/images/2021/10/help/pull_requests/view-full-review-view-changes.png)
 
 ## Further reading
 

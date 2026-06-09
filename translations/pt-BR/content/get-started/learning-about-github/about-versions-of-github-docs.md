@@ -13,7 +13,7 @@ Este site, {% data variables.product.prodname_docs %}, fornece documentação pa
 
 Na parte superior de uma página em {% data variables.product.prodname_docs %}, selecione o menu suspenso e clique em um produto. Se a janela do seu navegador não for grande o suficiente para exibir a barra de navegação inteira, talvez você precise clicar primeiro em {% octicon "three-bars" aria-label="The three bars icon" %}.
 
-![Captura de tela do menu suspenso para escolher uma versão de {% data variables.product.prodname_docs %} para ver](/assets/images/help/docs/version-picker.png)
+![Captura de tela do menu suspenso para escolher uma versão de {% data variables.product.prodname_docs %} para ver](/assets/images/2021/12/help/docs/version-picker.png)
 
 {% note %}
 
@@ -33,7 +33,7 @@ Se você acessar {% data variables.product.prodname_dotcom %} em https://github.
 
 Na janela ampla de um navegador, não há texto que siga imediatamente o logotipo de {% data variables.product.company_short %} no lado esquerdo do cabeçalho.
 
-![Captura de tela da barra de endereços e o header de {% data variables.product.prodname_dotcom_the_website %} em um navegador](/assets/images/help/docs/header-dotcom.png)
+![Captura de tela da barra de endereços e o header de {% data variables.product.prodname_dotcom_the_website %} em um navegador](/assets/images/2021/12/help/docs/header-dotcom.png)
 
 Em {% data variables.product.prodname_dotcom_the_website %}, cada conta tem seu próprio plano. Cada conta pessoal tem um plano associado que oferece acesso a determinadas funcionalidades, e cada organização tem um plano associado diferente. Se a sua conta pessoal for integrante de uma organização em {% data variables.product.prodname_dotcom_the_website %}, você poderá ter acesso a diferentes funcionalidades quando usar recursos pertencentes a essa organização do que quando você usa recursos pertencentes à sua conta pessoal. Para obter mais informações, consulte "[Tipos de contas de {% data variables.product.prodname_dotcom %}](/get-started/learning-about-github/types-of-github-accounts)".
 
@@ -45,7 +45,7 @@ Se você acessar {% data variables.product.prodname_dotcom %} em um URL diferent
 
 Em uma janela ampla do navegador, a palavra "Enterprise" segue imediatamente o logotipo {% data variables.product.company_short %} no lado esquerdo do header.
 
-![Captura de tela da barra de endereços e header {% data variables.product.prodname_ghe_server %} em um navegador](/assets/images/help/docs/header-ghes.png)
+![Captura de tela da barra de endereços e header {% data variables.product.prodname_ghe_server %} em um navegador](/assets/images/2021/12/help/docs/header-ghes.png)
 
 ### {% data variables.product.prodname_ghe_managed %}
 
@@ -53,4 +53,4 @@ Se você acessar {% data variables.product.prodname_dotcom %} em `https://*.gith
 
 Na janela ampla de um navegador, as palavras "{% data variables.product.prodname_ghe_managed %}" seguem imediatamente o logotipo de {% data variables.product.company_short %} no header.
 
-![Barra de endereços e header de {% data variables.product.prodname_ghe_managed %} em um navegador](/assets/images/help/docs/header-ghae.png)
+![Barra de endereços e header de {% data variables.product.prodname_ghe_managed %} em um navegador](/assets/images/2021/12/help/docs/header-ghae.png)

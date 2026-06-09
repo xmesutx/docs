@@ -20,7 +20,7 @@ shortTitle: Enlaces permanentes al código
 
 Este tipo de enlace permanente se presentará como un fragmento de código únicamente en el repositorio en el que se originó. En los demás repositorios, el fragmento de código de enlace permanente se presentará como una URL.
 
-![Fragmento de código que se presenta en un comentario](/assets/images/help/repository/rendered-code-snippet.png)
+![Fragmento de código que se presenta en un comentario](/assets/images/2021/10/help/repository/rendered-code-snippet.png)
 
 {% tip %}
 
@@ -33,9 +33,9 @@ Este tipo de enlace permanente se presentará como un fragmento de código únic
     - Para enlazar el código desde un archivo, dirígete hacia ese archivo.
     - Para enlazar el código desde una solicitud de extracción, dirígete a la solicitud de extracción y haz clic en {% octicon "diff" aria-label="The file diff icon" %}**Archivos con cambios**. Luego, desplázate hasta el archivo que contiene el código que deseas incluir en tu comentario y haz clic en **Ver**.
 {% data reusables.repositories.choose-line-or-range %}
-4. A la izquierda de la línea o del rango de líneas, haz clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}. En el menú desplegable, haz clic en **Copiar enlace permanente**. ![Menú kebab con la opción de copiar un enlace permanente desde una línea seleccionada](/assets/images/help/repository/copy-permalink-specific-line.png)
+4. A la izquierda de la línea o del rango de líneas, haz clic en {% octicon "kebab-horizontal" aria-label="The horizontal kebab octicon" %}. En el menú desplegable, haz clic en **Copiar enlace permanente**. ![Menú kebab con la opción de copiar un enlace permanente desde una línea seleccionada](/assets/images/2021/10/help/repository/copy-permalink-specific-line.png)
 5. Dirígete a la conversación en la que deseas enlazar el fragmento de código.
-6. Pega tu enlace permanente en un comentario y haz clic en **Comentar**. ![Enlace permanente pegado en un comentario en el mismo repositorio](/assets/images/help/repository/code-snippet-permalink-in-comment.png)
+6. Pega tu enlace permanente en un comentario y haz clic en **Comentar**. ![Enlace permanente pegado en un comentario en el mismo repositorio](/assets/images/2021/10/help/repository/code-snippet-permalink-in-comment.png)
 
 ## Vincular al lenguaje de marcado
 

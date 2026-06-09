@@ -70,12 +70,12 @@ Organizationプロジェクトもしくはユーザプロジェクトを作成�
 3. **Create new field**を選択してください。
 4. 表示されるポップアップで、テキストボックスに`Priority`と入力してください。
 5. ドロップダウンで**Single select（単一選択）**を選択してください。
-6. `High`、`Medium`、`Low`という選択肢を追加してください。 選択肢には絵文字を含めることもできます。 ![新しい単一選択フィールドの例](/assets/images/help/projects/new-single-select-field.png)
+6. `High`、`Medium`、`Low`という選択肢を追加してください。 選択肢には絵文字を含めることもできます。 ![新しい単一選択フィールドの例](/assets/images/2021/10/help/projects/new-single-select-field.png)
 7. [**Save**] をクリックします。
 
 プロジェクト中のすべてのIssueに優先度を指定してください。
 
-![優先度の例](/assets/images/help/projects/priority_example.png)
+![優先度の例](/assets/images/2021/10/help/projects/priority_example.png)
 
 ## 優先度によるIssueのグループ化
 
@@ -90,7 +90,7 @@ Organizationプロジェクトもしくはユーザプロジェクトを作成�
 1. Issueを選択してください。
 2. Issueを様々な優先度のグループにドラッグアンドドロップしてください。 こうすると、Issueの優先度は新しいグループの優先度に変更されます。
 
-![グループ間でのIssueの移動](/assets/images/help/projects/move_between_group.gif)
+![グループ間でのIssueの移動](/assets/images/2021/10/help/projects/move_between_group.gif)
 
 ## 優先度ビューの保存
 
@@ -114,7 +114,7 @@ Organizationプロジェクトもしくはユーザプロジェクトを作成�
 
 ボードレイアウトはstatusフィールドに基づくので、プロジェクト中の各Issueのステータスを指定してください。
 
-![ステータスの例](/assets/images/help/projects/status_example.png)
+![ステータスの例](/assets/images/2021/10/help/projects/status_example.png)
 
 続いて、新しいビューを作成してください。
 
@@ -124,7 +124,7 @@ Organizationプロジェクトもしくはユーザプロジェクトを作成�
 
 1. {% data reusables.projects.open-command-palette %}
 2. "Switch layout: Board"のどこかを入力し始めてください。
-3. **Switch layout: Board**を選択してください。 ![優先度の例](/assets/images/help/projects/example_board.png)
+3. **Switch layout: Board**を選択してください。 ![優先度の例](/assets/images/2021/10/help/projects/example_board.png)
 
 レイアウトを変更すると、プロジェクトはそのビューが変更されたことを示すインジケーターを表示します。 このビューを保存して、あなたやコラボレータが将来簡単にアクセスできるようにしてください。
 
@@ -136,7 +136,7 @@ Organizationプロジェクトもしくはユーザプロジェクトを作成�
 1. 現在のビュー名の**View 2**にカーソルを置いてください。
 2. 既存のテキストを、新しい名前の`Progress`で置き換えてください。
 
-![優先度の例](/assets/images/help/projects/project-view-switch.gif)
+![優先度の例](/assets/images/2021/10/help/projects/project-view-switch.gif)
 
 ## 組み込みの自動化の設定
 

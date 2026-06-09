@@ -29,7 +29,7 @@ Quando você exclui informações confidenciais do histórico de edição do com
 
 1. Navegue até o comentário em que você deseja excluir informações confidenciais do histórico de edição.
 {% data reusables.repositories.edited-comment-list %}
-3. Na parte superior da janela do histórico de edição, clique em **Options** (Opções). Em seguida, clique em **Delete revision from history** (Excluir revisão do histórico) para excluir o diff que mostra o conteúdo que está sendo adicionado. ![Excluir detalhes de edição do comentário](/assets/images/help/repository/delete-comment-edit-details.png)
+3. Na parte superior da janela do histórico de edição, clique em **Options** (Opções). Em seguida, clique em **Delete revision from history** (Excluir revisão do histórico) para excluir o diff que mostra o conteúdo que está sendo adicionado. ![Excluir detalhes de edição do comentário](/assets/images/2021/10/help/repository/delete-comment-edit-details.png)
 4. Para confirmar a exclusão, clique em **OK**.
 
 ## Leia mais

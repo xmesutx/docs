@@ -30,9 +30,9 @@ Con la información sobre la actividad de la organización puedes ver semanal, m
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
-3. Dentro del nombre de tu organización, haz clic en {% octicon "graph" aria-label="The bar graph icon" %} **Insights (Información)**. ![Haz clic en la pestaña de información de la organización](/assets/images/help/organizations/org-nav-insights-tab.png)
-4. Como alternativa, en el ángulo superior derecho de la página, elige ver los datos del/de la último/a **semana**, **mes** o **año**. ![Elige un período de tiempo para ver la información de la organización](/assets/images/help/organizations/org-insights-time-period.png)
-5. Alternativamente, en el ángulo superior derecho de la página, elige ver hasta tres repositorios y haz clic en **Apply (Aplicar)**. ![Elige repositorios para ver la información de la organización](/assets/images/help/organizations/org-insights-repos.png)
+3. Dentro del nombre de tu organización, haz clic en {% octicon "graph" aria-label="The bar graph icon" %} **Insights (Información)**. ![Haz clic en la pestaña de información de la organización](/assets/images/2021/10/help/organizations/org-nav-insights-tab.png)
+4. Como alternativa, en el ángulo superior derecho de la página, elige ver los datos del/de la último/a **semana**, **mes** o **año**. ![Elige un período de tiempo para ver la información de la organización](/assets/images/2021/10/help/organizations/org-insights-time-period.png)
+5. Alternativamente, en el ángulo superior derecho de la página, elige ver hasta tres repositorios y haz clic en **Apply (Aplicar)**. ![Elige repositorios para ver la información de la organización](/assets/images/2021/10/help/organizations/org-insights-repos.png)
 
 ## Ver la información de las dependencias de la organización
 
@@ -46,11 +46,11 @@ Con la información sobre las dependencias puedes ver vulnerabilidades, licencia
 
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
-3. Dentro del nombre de tu organización, haz clic en {% octicon "graph" aria-label="The bar graph icon" %} **Insights (Información)**. ![Pestaña de información en la barra de navegación principal de la organización](/assets/images/help/organizations/org-nav-insights-tab.png)
-4. Para ver las dependencias de esta organización, haz clic en **Dependencies (Dependencias)**. ![Pestaña de dependencias debajo de la barra de navegación principal de la organización](/assets/images/help/organizations/org-insights-dependencies-tab.png)
-5. Para ver la información de las dependencias de todas tus organizaciones {% data variables.product.prodname_ghe_cloud %}, haz clic en **My organizations (Mis organizaciones)**. ![Botón Mi organización dentro de la pestaña de dependencias](/assets/images/help/organizations/org-insights-dependencies-my-orgs-button.png)
-6. Puedes hacer clic en los resultados de los gráficos **Open security advisories** (Avisos de seguridad abiertos) y **Licenses** (Licencias) para filtrar por estado de vulnerabilidad, por licencia o por una combinación de ambos. ![Gráficas de "las vulnerabilidades de mis organizaciones" y de licencias](/assets/images/help/organizations/org-insights-dependencies-graphs.png)
-7. Puedes hacer clic en {% octicon "package" aria-label="The package icon" %} **dependents (dependientes)** al lado de cada vulnerabilidad para ver qué dependiente en tu organización está usando cada biblioteca. ![Dependientes vulnerables de mis organizaciones](/assets/images/help/organizations/org-insights-dependencies-vulnerable-item.png)
+3. Dentro del nombre de tu organización, haz clic en {% octicon "graph" aria-label="The bar graph icon" %} **Insights (Información)**. ![Pestaña de información en la barra de navegación principal de la organización](/assets/images/2021/10/help/organizations/org-nav-insights-tab.png)
+4. Para ver las dependencias de esta organización, haz clic en **Dependencies (Dependencias)**. ![Pestaña de dependencias debajo de la barra de navegación principal de la organización](/assets/images/2021/10/help/organizations/org-insights-dependencies-tab.png)
+5. Para ver la información de las dependencias de todas tus organizaciones {% data variables.product.prodname_ghe_cloud %}, haz clic en **My organizations (Mis organizaciones)**. ![Botón Mi organización dentro de la pestaña de dependencias](/assets/images/2021/10/help/organizations/org-insights-dependencies-my-orgs-button.png)
+6. Puedes hacer clic en los resultados de los gráficos **Open security advisories** (Avisos de seguridad abiertos) y **Licenses** (Licencias) para filtrar por estado de vulnerabilidad, por licencia o por una combinación de ambos. ![Gráficas de "las vulnerabilidades de mis organizaciones" y de licencias](/assets/images/2021/10/help/organizations/org-insights-dependencies-graphs.png)
+7. Puedes hacer clic en {% octicon "package" aria-label="The package icon" %} **dependents (dependientes)** al lado de cada vulnerabilidad para ver qué dependiente en tu organización está usando cada biblioteca. ![Dependientes vulnerables de mis organizaciones](/assets/images/2021/10/help/organizations/org-insights-dependencies-vulnerable-item.png)
 
 ## Leer más
  - "[Acerca de las organizaciones](/organizations/collaborating-with-groups-in-organizations/about-organizations)"

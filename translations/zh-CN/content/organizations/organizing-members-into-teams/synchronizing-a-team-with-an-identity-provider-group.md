@@ -81,8 +81,8 @@ shortTitle: 与 IdP 同步
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
-6. 在“Identity Provider Groups（身份提供程序组）”下，使用下拉菜单，选择最多 5 个身份提供程序组。 ![Drop-down menu to choose identity provider groups](/assets/images/help/teams/choose-an-idp-group.png){% elsif ghae %}
-6. 在“Identity Provider Groups（身份提供程序组）”下，使用下拉菜单从列表中选择身份提供程序组。 ![Drop-down menu to choose identity provider group](/assets/images/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
+6. 在“Identity Provider Groups（身份提供程序组）”下，使用下拉菜单，选择最多 5 个身份提供程序组。 ![Drop-down menu to choose identity provider groups](/assets/images/2021/10/help/teams/choose-an-idp-group.png){% elsif ghae %}
+6. 在“Identity Provider Groups（身份提供程序组）”下，使用下拉菜单从列表中选择身份提供程序组。 ![Drop-down menu to choose identity provider group](/assets/images/2021/10/enterprise/github-ae/teams/choose-an-idp-group.png){% endif %}
 7. 单击 **Save changes（保存更改）**。
 
 ## 断开 IdP 组与团队的连接
@@ -94,6 +94,6 @@ shortTitle: 与 IdP 同步
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
 {% ifversion ghec %}
-6. 在“Identity Provider Groups（身份提供程序组）”下，单击要断开连接的 IdP 组右侧的 {% octicon "x" aria-label="X symbol" %}。 ![Unselect a connected IdP group from the GitHub team](/assets/images/help/teams/unselect-idp-group.png){% elsif ghae %}
-6. 在“Identity Provider Group（身份提供程序组）”下，单击要断开连接的 IdP 组右侧的 {% octicon "x" aria-label="X symbol" %}。 ![Unselect a connected IdP group from the GitHub team](/assets/images/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
+6. 在“Identity Provider Groups（身份提供程序组）”下，单击要断开连接的 IdP 组右侧的 {% octicon "x" aria-label="X symbol" %}。 ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/help/teams/unselect-idp-group.png){% elsif ghae %}
+6. 在“Identity Provider Group（身份提供程序组）”下，单击要断开连接的 IdP 组右侧的 {% octicon "x" aria-label="X symbol" %}。 ![Unselect a connected IdP group from the GitHub team](/assets/images/2021/10/enterprise/github-ae/teams/unselect-idp-group.png){% endif %}
 7. 单击 **Save changes（保存更改）**。

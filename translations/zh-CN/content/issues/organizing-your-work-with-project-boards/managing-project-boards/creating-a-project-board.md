@@ -36,7 +36,7 @@ type: how_to
 ## 创建用户拥有的项目板
 
 {% data reusables.profile.access_profile %}
-2. 在个人资料页面顶部的主导航栏中，单击 {% octicon "project" aria-label="The project board icon" %} **Projects（项目）**。 ![项目选项卡](/assets/images/help/projects/user-projects-tab.png)
+2. 在个人资料页面顶部的主导航栏中，单击 {% octicon "project" aria-label="The project board icon" %} **Projects（项目）**。 ![项目选项卡](/assets/images/2021/10/help/projects/user-projects-tab.png)
 {% data reusables.project-management.click-new-project %}
 {% data reusables.project-management.create-project-name-description %}
 {% data reusables.project-management.choose-template %}
@@ -75,7 +75,7 @@ type: how_to
 ## 创建仓库项目板
 
 {% data reusables.repositories.navigate-to-repo %}
-2. 在仓库名称下，单击 {% octicon "project" aria-label="The project board icon" %} **Projects（项目）**。 ![项目选项卡](/assets/images/help/projects/repo-tabs-projects.png)
+2. 在仓库名称下，单击 {% octicon "project" aria-label="The project board icon" %} **Projects（项目）**。 ![项目选项卡](/assets/images/2021/10/help/projects/repo-tabs-projects.png)
 {% data reusables.project-management.click-new-project %}
 {% data reusables.project-management.create-project-name-description %}
 {% data reusables.project-management.choose-template %}

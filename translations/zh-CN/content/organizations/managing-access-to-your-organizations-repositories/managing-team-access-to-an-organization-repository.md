@@ -35,9 +35,9 @@ shortTitle: 管理团队访问
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-repositories-tab %}
-5. 在仓库列表上方，单击 **Add repository（添加仓库）**。 ![添加仓库按钮](/assets/images/help/organizations/add-repositories-button.png)
-6. 输入仓库的名称，然后单击 **Add repository to team（添加仓库到团队）**。 ![仓库搜索字段](/assets/images/help/organizations/team-repositories-add.png)
-7. 也可选择在仓库名称右侧使用下拉菜单，为团队选择不同的权限级别。 ![仓库访问权限下拉菜单](/assets/images/help/organizations/team-repositories-change-permission-level.png)
+5. 在仓库列表上方，单击 **Add repository（添加仓库）**。 ![添加仓库按钮](/assets/images/2021/10/help/organizations/add-repositories-button.png)
+6. 输入仓库的名称，然后单击 **Add repository to team（添加仓库到团队）**。 ![仓库搜索字段](/assets/images/2021/10/help/organizations/team-repositories-add.png)
+7. 也可选择在仓库名称右侧使用下拉菜单，为团队选择不同的权限级别。 ![仓库访问权限下拉菜单](/assets/images/2021/10/help/organizations/team-repositories-change-permission-level.png)
 {% endif %}
 ## 删除团队对仓库的访问权限
 
@@ -58,9 +58,9 @@ shortTitle: 管理团队访问
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team-repositories-tab %}
-5. 选择要从团队删除的仓库。 ![某些仓库的勾选框已选中的团队仓库列表](/assets/images/help/teams/select-team-repositories-bulk.png)
-6. 在仓库列表上方，使用下拉菜单，然后单击 **Remove from team（从团队删除）**。 ![包含从团队删除仓库的选项的下拉菜单](/assets/images/help/teams/remove-team-repo-dropdown.png)
-7. 检查要从团队删除的仓库，然后单击 **Remove repositories（删除仓库）**。 ![包含团队无法再访问的仓库列表的模态框](/assets/images/help/teams/confirm-remove-team-repos.png)
+5. 选择要从团队删除的仓库。 ![某些仓库的勾选框已选中的团队仓库列表](/assets/images/2021/10/help/teams/select-team-repositories-bulk.png)
+6. 在仓库列表上方，使用下拉菜单，然后单击 **Remove from team（从团队删除）**。 ![包含从团队删除仓库的选项的下拉菜单](/assets/images/2021/10/help/teams/remove-team-repo-dropdown.png)
+7. 检查要从团队删除的仓库，然后单击 **Remove repositories（删除仓库）**。 ![包含团队无法再访问的仓库列表的模态框](/assets/images/2021/10/help/teams/confirm-remove-team-repos.png)
 {% endif %}
 ## 延伸阅读
 

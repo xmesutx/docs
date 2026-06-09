@@ -17,6 +17,6 @@ shortTitle: Gerenciar organizações que não pertencem a você
 ---
 
 {% data reusables.enterprise-accounts.access-enterprise %}
-2. À direita do campo de pesquisa, clique **X sem proprietário**. ![Botão para visualizar organizações sem proprietários](/assets/images/help/business-accounts/unowned-organizations-button.png)
-3. À direita da organização da qual você deseja assumir a propriedade, clique em **Tornar-se proprietário**. ![Botão para tornar-se proprietário](/assets/images/help/business-accounts/become-an-owner-button.png)
-4. Leia o alerta e clique em **Tornar-se proprietário**. ![Botão para tornar-se proprietário](/assets/images/help/business-accounts/become-an-owner-confirmation.png)
+2. À direita do campo de pesquisa, clique **X sem proprietário**. ![Botão para visualizar organizações sem proprietários](/assets/images/2021/10/help/business-accounts/unowned-organizations-button.png)
+3. À direita da organização da qual você deseja assumir a propriedade, clique em **Tornar-se proprietário**. ![Botão para tornar-se proprietário](/assets/images/2021/10/help/business-accounts/become-an-owner-button.png)
+4. Leia o alerta e clique em **Tornar-se proprietário**. ![Botão para tornar-se proprietário](/assets/images/2021/10/help/business-accounts/become-an-owner-confirmation.png)

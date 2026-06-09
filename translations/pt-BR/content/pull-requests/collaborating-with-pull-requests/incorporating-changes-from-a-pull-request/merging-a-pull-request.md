@@ -46,9 +46,9 @@ Se decidir que não quer que as alterações em um branch de tópico sofram merg
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista "Pull Requests", clique na pull request da qual deseja fazer merge.
 3. Dependendo das opções de merge habilitadas em seu repositório, é possível:
-    - [Fazer merge de todos os commits no branch de base](/articles/about-pull-request-merges/) ao clicar em **Merge pull request** (Fazer merge de pull request). Se a opção **Merge pull request** (Fazer merge da pull request) não está visível, clique no menu suspenso merge e selecione **Create a merge commit** (Criar um commit de merge). ![botão-merge-pull-request](/assets/images/help/pull_requests/pullrequest-mergebutton.png)
-    - [Combinar por squash os commits em um único commit](/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits) ao clicar no menu suspenso merge, selecionar **Squash and merge** (Combinar por squash e fazer merge) e clicar no botão **Squash and merge** (Combinar por squash e fazer merge). ![botão-clicar-squash-e-merge](/assets/images/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
-    - [Fazer rebase dos commits individualmente no branch de base](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits) ao clicar no menu suspenso merge, selecionar **Rebase and merge** (Fazer rebase e merge) e clicar no botão **Rebase and merge** (Fazer rebase e merge). ![selecionar-rebase-e-merge-no-menu-suspenso](/assets/images/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
+    - [Fazer merge de todos os commits no branch de base](/articles/about-pull-request-merges/) ao clicar em **Merge pull request** (Fazer merge de pull request). Se a opção **Merge pull request** (Fazer merge da pull request) não está visível, clique no menu suspenso merge e selecione **Create a merge commit** (Criar um commit de merge). ![botão-merge-pull-request](/assets/images/2021/10/help/pull_requests/pullrequest-mergebutton.png)
+    - [Combinar por squash os commits em um único commit](/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits) ao clicar no menu suspenso merge, selecionar **Squash and merge** (Combinar por squash e fazer merge) e clicar no botão **Squash and merge** (Combinar por squash e fazer merge). ![botão-clicar-squash-e-merge](/assets/images/2021/10/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
+    - [Fazer rebase dos commits individualmente no branch de base](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits) ao clicar no menu suspenso merge, selecionar **Rebase and merge** (Fazer rebase e merge) e clicar no botão **Rebase and merge** (Fazer rebase e merge). ![selecionar-rebase-e-merge-no-menu-suspenso](/assets/images/2021/10/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
 
     {% note %}
 
@@ -58,7 +58,7 @@ Se decidir que não quer que as alterações em um branch de tópico sofram merg
 4. Se solicitado, digite uma mensagem do commit ou aceite a mensagem padrão.
 
    {% data reusables.pull_requests.default-commit-message-squash-merge %}
-   ![Campo Commit message (Mensagem do commit)](/assets/images/help/pull_requests/merge_box/pullrequest-commitmessage.png)
+   ![Campo Commit message (Mensagem do commit)](/assets/images/2021/10/help/pull_requests/merge_box/pullrequest-commitmessage.png)
 
 {% data reusables.files.choose-commit-email %}
 

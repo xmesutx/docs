@@ -33,7 +33,7 @@ shortTitle: Review proposed changes
 
    You can change the format of the diff view in this tab by clicking {% octicon "gear" aria-label="The Settings gear" %} and choosing the unified or split view. The choice you make will apply when you view the diff for other pull requests.
 
-   ![Diff view settings](/assets/images/help/pull_requests/diff-view-settings.png)
+   ![Diff view settings](/assets/images/2021/11/help/pull_requests/diff-view-settings.png)
 
    You can also choose to hide whitespace differences. The choice you make only applies to this pull request and will be remembered the next time you visit this page.
 {% endif %}
@@ -43,11 +43,11 @@ shortTitle: Review proposed changes
 {% data reusables.repositories.suggest-changes %}
 1. 完了したら、[**Start a review**] をクリックします。 レビューがすでに開始していた場合は、[**Add review comment**] (レビューコメントを追加) をクリックします。
 
-   ![[Start a review] ボタン](/assets/images/help/pull_requests/start-a-review-button.png)
+   ![[Start a review] ボタン](/assets/images/2021/10/help/pull_requests/start-a-review-button.png)
 
 レビューを提出する前は、行のコメントは_保留中_であり、自分にしか見えません。 レビューを提出する前ならばいつでも、保留中のコメントを編集できます。 その保留中のコメントのすべてを含めて、保留中のレビューをキャンセルするには、[Conversation] タブでタイムラインの最後まで下にスクロールし、[**Cancel review**] をクリックします。
 
-![[Cancel review] ボタン](/assets/images/help/pull_requests/cancel-review-button.png)
+![[Cancel review] ボタン](/assets/images/2021/10/help/pull_requests/cancel-review-button.png)
 {% endwebui %}
 
 {% ifversion fpt or ghec %}
@@ -74,7 +74,7 @@ For more information on reviewing pull requests in {% data variables.product.pro
 
 1. マニフェストまたはロックファイルのヘッダの右側で、**リッチ{% octicon "file" aria-label="The rich diff icon" %}** diff ボタンをクリックして依存関係のレビューを表示します。
 
-   ![リッチ diff ボタン](/assets/images/help/pull_requests/dependency-review-rich-diff.png)
+   ![リッチ diff ボタン](/assets/images/2021/10/help/pull_requests/dependency-review-rich-diff.png)
 
 {% data reusables.repositories.return-to-source-diff %}
 {% endif %}
@@ -86,7 +86,7 @@ For more information on reviewing pull requests in {% data variables.product.pro
 {% data reusables.repositories.changed-files %}
 2. レビューを完了したファイルの、ヘッダの右側にある [**Viewed**] を選択します。
 
-   ![[Viewed] チェックボックス](/assets/images/help/pull_requests/viewed-checkbox.png)
+   ![[Viewed] チェックボックス](/assets/images/2021/10/help/pull_requests/viewed-checkbox.png)
 
 ## レビューを提出する
 
@@ -97,7 +97,7 @@ For more information on reviewing pull requests in {% data variables.product.pro
 {% data reusables.repositories.review-summary-comment %}
 4. 残しておくレビューの種類を選択します:
 
-   ![レビュー オプションを選択するラジオ ボタン](/assets/images/help/pull_requests/pull-request-review-statuses.png)
+   ![レビュー オプションを選択するラジオ ボタン](/assets/images/2021/10/help/pull_requests/pull-request-review-statuses.png)
 
     - 変更を明確には承認せず、さらなる変更をリクエストすることもなく、おおまかなフィードバックだけを残したい場合は、[**Comment**] を選択します。
     - フィードバックを提出して、Pull Request で提案された変更をマージすることを承認するには、[**Approve**] を選択します。

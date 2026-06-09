@@ -28,7 +28,7 @@ miniTocMaxHeadingLevel: 3
 
 Cada ejecución de flujo de trabajo genera una gráfica en tiempo real que ilustra el progreso de la misma. Puedes utilizar esta gráfica para monitorear y depurar los flujos de trabajo. Por ejemplo:
 
-   ![Gráfica del flujo de trabajo](/assets/images/help/images/workflow-graph.png)
+   ![Gráfica del flujo de trabajo](/assets/images/2021/10/help/images/workflow-graph.png)
 
 Para obtener más información, consulta la sección "[Utilizar el gráfico de visualización](/actions/monitoring-and-troubleshooting-workflows/using-the-visualization-graph)".
 
@@ -45,7 +45,7 @@ Para obtener más información, consulta la sección "[Agregar una insignia de e
 
 Para identificar qué tanto tomará un job en ejecutarse, puedes ver su tiempo de ejecución. Por ejemplo:
 
-   ![Enlace para los detalles de tiempo facturable y de ejecución](/assets/images/help/repository/view-run-billable-time.png)
+   ![Enlace para los detalles de tiempo facturable y de ejecución](/assets/images/2021/10/help/repository/view-run-billable-time.png)
 
 Para obtener más información, consulta la sección "[Visualizar el tiempo de ejecución del job](/actions/monitoring-and-troubleshooting-workflows/viewing-job-execution-time)".
 {% endif %}
@@ -54,7 +54,7 @@ Para obtener más información, consulta la sección "[Visualizar el tiempo de e
 
 Puedes ver el estado de cada job y paso en un flujo de trabajo. Por ejemplo:
 
-   ![Nombre de la ejecución de flujo de trabajo](/assets/images/help/repository/run-name.png)
+   ![Nombre de la ejecución de flujo de trabajo](/assets/images/2021/10/help/repository/run-name.png)
 
 Para obtener más información, consulta la sección "[Visualizar el historial de ejecuciones de un flujo de trabajo](/actions/monitoring-and-troubleshooting-workflows/viewing-workflow-run-history)".
 
@@ -64,7 +64,7 @@ Para obtener más información, consulta la sección "[Visualizar el historial d
 
 Cada ejecución de flujo de trabajo genera bitácoras de actividad que puedes ver, buscar y descargar. Por ejemplo:
 
-   ![Resultados del flujo de trabajo de Super linter](/assets/images/help/repository/super-linter-workflow-results-updated-2.png)
+   ![Resultados del flujo de trabajo de Super linter](/assets/images/2021/10/help/repository/super-linter-workflow-results-updated-2.png)
 
 Para obtener más información, consulta la sección "[Utilizar bitácoras de ejecución de flujos de trabajo](/actions/monitoring-and-troubleshooting-workflows/using-workflow-run-logs)".
 

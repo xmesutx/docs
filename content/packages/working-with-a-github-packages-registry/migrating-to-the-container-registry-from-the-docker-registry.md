@@ -23,7 +23,7 @@ After your Docker images have been migrated to the {% data variables.product.pro
 * The icon is now the {% data variables.product.prodname_container_registry %} logo, previously it was a Docker logo.
 * The domain in the pull URL is now `ghcr.io`, previously it was `docker.pkg.github.com`.
 
-![{% data variables.product.prodname_container_registry %} details page](/assets/images/help/package-registry/container-registry-details-page.png)
+![{% data variables.product.prodname_container_registry %} details page](/assets/images/2021/10/help/package-registry/container-registry-details-page.png)
 
 ## Key differences between the {% data variables.product.prodname_container_registry %} and the Docker registry
 

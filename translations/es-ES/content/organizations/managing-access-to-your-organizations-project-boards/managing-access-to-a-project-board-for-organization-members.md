@@ -31,7 +31,7 @@ Por defecto, los miembros de una organización tienen acceso de escritura a sus 
 {% data reusables.project-management.select-project %}
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
-8. Debajo de "Organization member permission" (Permiso para miembro de la organización), elige un nivel base de permiso para todos los miembros de la organización: **Read** (Lectura), **Write** (Escritura), **Administrar** o **None** (Ninguno). ![Opciones de permiso base a un tablero de proyecto para todos los miembros de una organización](/assets/images/help/projects/baseline-project-permissions-for-organization-members.png)
+8. Debajo de "Organization member permission" (Permiso para miembro de la organización), elige un nivel base de permiso para todos los miembros de la organización: **Read** (Lectura), **Write** (Escritura), **Administrar** o **None** (Ninguno). ![Opciones de permiso base a un tablero de proyecto para todos los miembros de una organización](/assets/images/2021/10/help/projects/baseline-project-permissions-for-organization-members.png)
 9. Haz clic en **Save ** (guardar).
 
 ## Leer más

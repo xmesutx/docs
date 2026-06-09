@@ -24,9 +24,9 @@ O painel Atividade gera gráficos semanais, mensais e anuais informando o númer
 - Novas organizações;
 - Novas equipes.
 
-![Painel Atividade](/assets/images/enterprise/activity/activity-dashboard-yearly.png)
+![Painel Atividade](/assets/images/2021/10/enterprise/activity/activity-dashboard-yearly.png)
 
 ## Acessar o painel Atividade
 
-1. Na parte superior da página, clique em **Explore** (Explorar). ![Guia Explore (Explorar)](/assets/images/enterprise/settings/ent-new-explore.png)
-2. No canto superior direito da página, clique em **Activity** (Atividade). ![Botão Activity (Atividade)](/assets/images/enterprise/activity/activity-button.png)
+1. Na parte superior da página, clique em **Explore** (Explorar). ![Guia Explore (Explorar)](/assets/images/2021/10/enterprise/settings/ent-new-explore.png)
+2. No canto superior direito da página, clique em **Activity** (Atividade). ![Botão Activity (Atividade)](/assets/images/2021/10/enterprise/activity/activity-button.png)

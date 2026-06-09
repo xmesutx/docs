@@ -32,7 +32,7 @@ Puedes encontrar funcionalidades adicionales disponibles, incluyendo un resumen 
 
 Si un equipo tiene el rol de administrador de seguridad, las personas con acceso administrativo al equipo y a un repositorio específico pueden cambiar el nivel de acceso de dicho equipo al repositorio pero no pueden eliminar el acceso. Para obtener más información, consulta las secciones "[Administrar el acceso de los equipos aun repositorio organizacional](/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository){% ifversion ghes %}".{% else %} y "[Administrar a los equipos y personas con acceso a tu repositorio](/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)".{% endif %}
 
-  ![Administrar la IU de acceso al repositorio con administradores de seguridad](/assets/images/help/organizations/repo-access-security-managers.png)
+  ![Administrar la IU de acceso al repositorio con administradores de seguridad](/assets/images/2021/10/help/organizations/repo-access-security-managers.png)
 
 ## Asignar el rol de administrador de seguridad a un equipo en tu organización
 Puedes asignar el rol de administrador de seguridad a un máximo de 10 equipos en tu organización.
@@ -40,7 +40,7 @@ Puedes asignar el rol de administrador de seguridad a un máximo de 10 equipos e
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security-and-analysis %}
-1. Debajo de **administradores de seguridad**, busca y selecciona el equipo al cual otorgarle el rol. Cada equipo que selecciones aparecerá en una lista debajo de la barra de búsqueda. ![Agregar a un administrador de seguridad](/assets/images/help/organizations/add-security-managers.png)
+1. Debajo de **administradores de seguridad**, busca y selecciona el equipo al cual otorgarle el rol. Cada equipo que selecciones aparecerá en una lista debajo de la barra de búsqueda. ![Agregar a un administrador de seguridad](/assets/images/2021/10/help/organizations/add-security-managers.png)
 ## Eliminar el rol de administrador de seguridad de un equipo de tu organización
 
 {% warning %}
@@ -52,4 +52,4 @@ Puedes asignar el rol de administrador de seguridad a un máximo de 10 equipos e
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.security-and-analysis %}
-1. Debajo de **Administradores de seguridad**, a la derecha del equipo que quieras eliminar como administrador de seguridad, haz clic en {% octicon "x" aria-label="The X icon" %}. ![Eliminar a un administrador de seguridad](/assets/images/help/organizations/remove-security-managers.png)
+1. Debajo de **Administradores de seguridad**, a la derecha del equipo que quieras eliminar como administrador de seguridad, haz clic en {% octicon "x" aria-label="The X icon" %}. ![Eliminar a un administrador de seguridad](/assets/images/2021/10/help/organizations/remove-security-managers.png)

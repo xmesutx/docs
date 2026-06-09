@@ -1,1 +1,1 @@
-1. Teamメンバーのリストの上で、{% octicon "repo" aria-label="The Repository icon" %} **Repositories（リポジトリ）**をクリックしてください。 ![チームの [Repositories] タブ](/assets/images/help/organizations/team-repositories-button.png)
+1. Teamメンバーのリストの上で、{% octicon "repo" aria-label="The Repository icon" %} **Repositories（リポジトリ）**をクリックしてください。 ![チームの [Repositories] タブ](/assets/images/2021/10/help/organizations/team-repositories-button.png)

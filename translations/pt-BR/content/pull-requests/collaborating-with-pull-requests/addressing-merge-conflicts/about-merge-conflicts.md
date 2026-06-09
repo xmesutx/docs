@@ -20,7 +20,7 @@ Muitas vezes, o Git pode resolver diferenças entre branches e fazer merge deles
 
 Você deve resolver todos os conflitos de merge para poder fazer merge de uma pull request no {% data variables.product.product_name %}. Se tiver um conflito de merge entre o branch de comparação e o branch base em sua pull request você poderá exibir uma lista dos arquivos com alteração conflitantes acima do botão **Merge pull request** (Fazer merge da pull request). O botão **Merge pull request** (Fazer merge da pull request) permanecerá desativado até que você resolva todos os conflitos entre o branch de comparação e o branch base.
 
-![mensagem de erro de conflito de merge](/assets/images/help/pull_requests/merge_conflict_error_on_github.png)
+![mensagem de erro de conflito de merge](/assets/images/2021/10/help/pull_requests/merge_conflict_error_on_github.png)
 
 ## Resolver conflitos de merge
 

@@ -36,12 +36,12 @@ If you manually added a Jekyll theme to your repository in the past, those files
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
 3. Under "{% data variables.product.prodname_pages %}," click **Choose a theme** or **Change theme**.
-  ![Choose a theme button](/assets/images/help/pages/choose-a-theme.png)
+  ![Choose a theme button](/assets/images/2021/10/help/pages/choose-a-theme.png)
 4. On the top of the page, click the theme you want, then click **Select theme**.
-  ![Theme options and Select theme button](/assets/images/help/pages/select-theme.png)
+  ![Theme options and Select theme button](/assets/images/2021/10/help/pages/select-theme.png)
 5. You may be prompted to edit your site's *README.md* file.
    - To edit the file later, click **Cancel**.
-   ![Cancel link when editing a file](/assets/images/help/pages/cancel-edit.png)
+   ![Cancel link when editing a file](/assets/images/2021/10/help/pages/cancel-edit.png)
    - To edit the file now, see "[Editing files](/repositories/working-with-files/managing-files/editing-files)."
 
 Your chosen theme will automatically apply to markdown files in your repository. To apply your theme to HTML files in your repository, you need to add YAML front matter that specifies a layout to each file. For more information, see "[Front Matter](https://jekyllrb.com/docs/front-matter/)" on the Jekyll site.

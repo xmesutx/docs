@@ -61,7 +61,7 @@ La {% data variables.product.prodname_advisory_database %} utiliza los niveles d
 ## Acceder a una asesoría en la {% data variables.product.prodname_advisory_database %}
 
 1. Navega hasta https://github.com/advisories.
-2. Opcionalmente, para filtrar la lista, utiliza cualquiera de los menúes desplegables. ![Filtros desplegables](/assets/images/help/security/advisory-database-dropdown-filters.png)
+2. Opcionalmente, para filtrar la lista, utiliza cualquiera de los menúes desplegables. ![Filtros desplegables](/assets/images/2021/10/help/security/advisory-database-dropdown-filters.png)
    {% tip %}
 
    **Tip:** Puedes utilizar la barra lateral a la izquierda para explorar las asesorías que revisa {% data variables.product.company_short %} y aquellas sin revisar, por separado.
@@ -111,8 +111,8 @@ Para cualquier asesoría que revise {% data variables.product.company_short %} e
 
 1. Navega hasta https://github.com/advisories.
 2. Haz clic en una asesoría.
-3. En la parte superior de la página de la asesoría, haz clic en **Alertas del dependabot**. ![Las alertas del dependabot](/assets/images/help/security/advisory-database-dependabot-alerts.png)
-4. Opcionalmente, para filtrar la lista, utiliza la barra de búsqueda o los menús desplegables. El menú desplegable de "Organización" te permite filtrar las {% data variables.product.prodname_dependabot_alerts %} por propietario (organización o usuario). ![Barra de búsqueda y menús desplegables para filtrar alertas](/assets/images/help/security/advisory-database-dependabot-alerts-filters.png)
+3. En la parte superior de la página de la asesoría, haz clic en **Alertas del dependabot**. ![Las alertas del dependabot](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts.png)
+4. Opcionalmente, para filtrar la lista, utiliza la barra de búsqueda o los menús desplegables. El menú desplegable de "Organización" te permite filtrar las {% data variables.product.prodname_dependabot_alerts %} por propietario (organización o usuario). ![Barra de búsqueda y menús desplegables para filtrar alertas](/assets/images/2021/10/help/security/advisory-database-dependabot-alerts-filters.png)
 5. Para obtener más detalles de la vulnerabilidad y para encontrar consejos sobre cómo arreglar el repositorio vulnerable, da clic en el nombre del repositorio.
 
 ## Leer más

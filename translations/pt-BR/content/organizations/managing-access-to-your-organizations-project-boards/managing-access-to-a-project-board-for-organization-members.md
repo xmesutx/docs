@@ -31,7 +31,7 @@ Por padrão, os integrantes de uma organização têm acesso de gravação nos q
 {% data reusables.project-management.select-project %}
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
-8. Em "Organization member permission" (Permissão de integrante da organização), escolha um nível referencial de permissão para todos os integrantes da organização: **Read** (Leitura), **Write** (Gravação), **Admin** (Administrador) ou **None** (Nenhuma). ![Opções de permissões a quadro de projeto para todos os integrantes da organização](/assets/images/help/projects/baseline-project-permissions-for-organization-members.png)
+8. Em "Organization member permission" (Permissão de integrante da organização), escolha um nível referencial de permissão para todos os integrantes da organização: **Read** (Leitura), **Write** (Gravação), **Admin** (Administrador) ou **None** (Nenhuma). ![Opções de permissões a quadro de projeto para todos os integrantes da organização](/assets/images/2021/10/help/projects/baseline-project-permissions-for-organization-members.png)
 9. Clique em **Salvar**.
 
 ## Leia mais

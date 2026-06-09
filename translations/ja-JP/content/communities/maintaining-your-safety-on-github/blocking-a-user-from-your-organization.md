@@ -43,11 +43,11 @@ Organization の設定内、もしくはユーザが作成した特定のコメ�
 ## コメントでユーザをブロックする
 
 1. ブロックしたい作者のコメントへ移動します。
-2. コメントの右上で {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックし、次に [**Block user**] をクリックします。 ![ユーザブロックのオプションを表示する水平の kebab アイコンとコメント調整メニュー](/assets/images/help/repository/comment-menu-block-user.png)
-3. ブロックに期限を設定したい場合には、[Block user] ドロップダウンメニューを使い、ユーザをブロックしたい期間を選択します。 ![ユーザのブロックドロップダウンメニュー内のブロック期間制限](/assets/images/help/organizations/org-block-options-menu-from-comment.png)
-4. Organization 内でそのユーザが書いたすべてのコメントを隠したい場合は、[**Hide this user's comments**] (このユーザのコメントを隠す) を選択し、理由を選びます。 ![ユーザのブロックドロップダウンメニュー内の通知の送信](/assets/images/help/organizations/org-block-options-menu-hide-user-comments.png)
-5. ブロックする理由をユーザに通知したい場合は、[** Send a notification to this user**] (このユーザに通知を送信) を選択します。 ![ユーザのブロックドロップダウンメニュー内の通知の送信](/assets/images/help/organizations/org-block-options-menu-send-notification.png)
-6. ユーザをブロックするには、[**Block user from organization**] (Organization からユーザをブロック) または [**Block user from organization and send message**] (Organization からユーザをブロックしてメッセージを送信) をクリックします。 ![[Block user] ボタン](/assets/images/help/organizations/org-block-user-button-in-comment.png)
+2. コメントの右上で {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} をクリックし、次に [**Block user**] をクリックします。 ![ユーザブロックのオプションを表示する水平の kebab アイコンとコメント調整メニュー](/assets/images/2021/10/help/repository/comment-menu-block-user.png)
+3. ブロックに期限を設定したい場合には、[Block user] ドロップダウンメニューを使い、ユーザをブロックしたい期間を選択します。 ![ユーザのブロックドロップダウンメニュー内のブロック期間制限](/assets/images/2021/10/help/organizations/org-block-options-menu-from-comment.png)
+4. Organization 内でそのユーザが書いたすべてのコメントを隠したい場合は、[**Hide this user's comments**] (このユーザのコメントを隠す) を選択し、理由を選びます。 ![ユーザのブロックドロップダウンメニュー内の通知の送信](/assets/images/2021/10/help/organizations/org-block-options-menu-hide-user-comments.png)
+5. ブロックする理由をユーザに通知したい場合は、[** Send a notification to this user**] (このユーザに通知を送信) を選択します。 ![ユーザのブロックドロップダウンメニュー内の通知の送信](/assets/images/2021/10/help/organizations/org-block-options-menu-send-notification.png)
+6. ユーザをブロックするには、[**Block user from organization**] (Organization からユーザをブロック) または [**Block user from organization and send message**] (Organization からユーザをブロックしてメッセージを送信) をクリックします。 ![[Block user] ボタン](/assets/images/2021/10/help/organizations/org-block-user-button-in-comment.png)
 
 ## Organization 設定でユーザをブロックする
 
@@ -56,9 +56,9 @@ Organization の設定内、もしくはユーザが作成した特定のコメ�
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.block_users %}
-6. [Block a user] の下で、ブロックしたいユーザ名を入力します。 ![ユーザ名フィールド](/assets/images/help/organizations/org-block-username-field.png)
-7. ブロックに期限を設定したい場合には、[Block option] ドロップダウンメニューを使い、ユーザをブロックする期間を選択します。 ![ブロックオプションのドロップダウンメニュー](/assets/images/help/organizations/org-block-options-menu.png)
-8. [**Block user**] (ユーザをブロック) をクリックします。 ![ブロックボタン](/assets/images/help/organizations/org-block-user-button.png)
+6. [Block a user] の下で、ブロックしたいユーザ名を入力します。 ![ユーザ名フィールド](/assets/images/2021/10/help/organizations/org-block-username-field.png)
+7. ブロックに期限を設定したい場合には、[Block option] ドロップダウンメニューを使い、ユーザをブロックする期間を選択します。 ![ブロックオプションのドロップダウンメニュー](/assets/images/2021/10/help/organizations/org-block-options-menu.png)
+8. [**Block user**] (ユーザをブロック) をクリックします。 ![ブロックボタン](/assets/images/2021/10/help/organizations/org-block-user-button.png)
 
 ## 参考リンク
 

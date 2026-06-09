@@ -28,43 +28,43 @@ Os proprietários das empresas podem configurar e-mails para notificações.
 {% ifversion ghes %}
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
-2. Na parte superior da página, clique em **Settings** (Configurações). ![Guia Settings (Configurações)](/assets/images/enterprise/management-console/settings-tab.png)
-3. Na barra lateral esquerda, clique em **Email**. ![Guia E-mail](/assets/images/enterprise/management-console/email-sidebar.png)
-4. Selecione **Enable email** (Habilitar e-mail). Fazer isso vai habilitar os e-mails enviados (saída) e recebidos (entrada). No entanto, para que o recebimento de e-mails funcione, você terá que definir suas configurações de DNS conforme descrito em "[Configurar o DNS e o firewall para o recebimento de e-mails](#configuring-dns-and-firewall-settings-to-allow-incoming-emails)". ![Habilitar e-mail de saída](/assets/images/enterprise/management-console/enable-outbound-email.png)
+2. Na parte superior da página, clique em **Settings** (Configurações). ![Guia Settings (Configurações)](/assets/images/2021/10/enterprise/management-console/settings-tab.png)
+3. Na barra lateral esquerda, clique em **Email**. ![Guia E-mail](/assets/images/2021/10/enterprise/management-console/email-sidebar.png)
+4. Selecione **Enable email** (Habilitar e-mail). Fazer isso vai habilitar os e-mails enviados (saída) e recebidos (entrada). No entanto, para que o recebimento de e-mails funcione, você terá que definir suas configurações de DNS conforme descrito em "[Configurar o DNS e o firewall para o recebimento de e-mails](#configuring-dns-and-firewall-settings-to-allow-incoming-emails)". ![Habilitar e-mail de saída](/assets/images/2021/10/enterprise/management-console/enable-outbound-email.png)
 5. Digite as configurações para o seu servidor SMTP.
       - No campo **Server address** (Endereço do servidor), digite o endereço do seu servidor SMTP.
       - No campo **Port** (Porta), digite a porta que o servidor SMTP usa para enviar e-mails.
       - No campo **Domain** (Domínio), digite o nome do domínio que o servidor SMTP enviará com resposta HELO, se houver.
       - Selecione o menu suspenso **Autenticação** e escolha o tipo de criptografia usado pelo seu servidor SMTP.
       - No campo **No-reply email address** (Endereço de e-mail no-reply), digite o endereço de e-mail para usar nos campos De e Para em todos os e-mails de notificação.
-6. Se você quiser descartar todos os e-mails recebidos destinados ao endereço no-reply, selecione **Discard email addressed to the no-reply email address** (Descartar e-mails recebidos no endereço no-reply). ![Caixa de seleção para descartar e-mails destinados ao endereço no-reply](/assets/images/enterprise/management-console/discard-noreply-emails.png)
+6. Se você quiser descartar todos os e-mails recebidos destinados ao endereço no-reply, selecione **Discard email addressed to the no-reply email address** (Descartar e-mails recebidos no endereço no-reply). ![Caixa de seleção para descartar e-mails destinados ao endereço no-reply](/assets/images/2021/10/enterprise/management-console/discard-noreply-emails.png)
 7. Em **Support** (Suporte), escolha um tipo de link para dar suporte adicional aos usuários.
     - **Email:** endereço de e-mail interno.
-    - **URL:** link para um site interno de suporte. Você deve incluir `http://` ou `https://`. ![E-mail ou URL de suporte](/assets/images/enterprise/management-console/support-email-url.png)
+    - **URL:** link para um site interno de suporte. Você deve incluir `http://` ou `https://`. ![E-mail ou URL de suporte](/assets/images/2021/10/enterprise/management-console/support-email-url.png)
 8. [Teste a entrega de e-mails](#testing-email-delivery).
 {% elsif ghae %}
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.email-tab %}
-2. Selecione **Enable email** (Habilitar e-mail). ![Caixa de seleção "Habilitar" para configurações de e-mail](/assets/images/enterprise/configuration/ae-enable-email-configure.png)
+2. Selecione **Enable email** (Habilitar e-mail). ![Caixa de seleção "Habilitar" para configurações de e-mail](/assets/images/2021/10/enterprise/configuration/ae-enable-email-configure.png)
 3. Digite as configurações para o seu servidor de e-mail.
     - No campo **Server address** (Endereço do servidor), digite o endereço do seu servidor SMTP.
     - No campo **Port** (Porta), digite a porta que o servidor SMTP usa para enviar e-mails.
     - No campo **Domain** (Domínio), digite o nome do domínio que o servidor SMTP enviará com resposta HELO, se houver.
     - Selecione o menu suspenso **Autenticação** e escolha o tipo de criptografia usado pelo seu servidor SMTP.
     - No campo **No-reply email address** (Endereço de e-mail no-reply), digite o endereço de e-mail para usar nos campos De e Para em todos os e-mails de notificação.
-4. Se você quiser descartar todos os e-mails recebidos destinados ao endereço no-reply, selecione **Discard email addressed to the no-reply email address** (Descartar e-mails recebidos no endereço no-reply). ![Caixa de seleção "Descartar" para configurações de e-mail](/assets/images/enterprise/configuration/ae-discard-email.png)
-5. Clique em **Configurações de e-mail de teste**. ![Botão "Configurações de e-mail de teste" para configurações de e-mail](/assets/images/enterprise/configuration/ae-test-email.png)
-6. Em "Enviar e-mail de teste para", digite o endereço de e-mail em que você deseja enviar um e-mail de teste e, em seguida, clique em **Enviar e-mail de teste**. ![Botão "Enviar e-mail de teste" para definição de configurações de e-mail](/assets/images/enterprise/configuration/ae-send-test-email.png)
-7. Clique em **Salvar**. ![Botão "Salvar" para configuração de contato de suporte do Enterprise](/assets/images/enterprise/configuration/ae-save.png)
+4. Se você quiser descartar todos os e-mails recebidos destinados ao endereço no-reply, selecione **Discard email addressed to the no-reply email address** (Descartar e-mails recebidos no endereço no-reply). ![Caixa de seleção "Descartar" para configurações de e-mail](/assets/images/2021/10/enterprise/configuration/ae-discard-email.png)
+5. Clique em **Configurações de e-mail de teste**. ![Botão "Configurações de e-mail de teste" para configurações de e-mail](/assets/images/2021/10/enterprise/configuration/ae-test-email.png)
+6. Em "Enviar e-mail de teste para", digite o endereço de e-mail em que você deseja enviar um e-mail de teste e, em seguida, clique em **Enviar e-mail de teste**. ![Botão "Enviar e-mail de teste" para definição de configurações de e-mail](/assets/images/2021/10/enterprise/configuration/ae-send-test-email.png)
+7. Clique em **Salvar**. ![Botão "Salvar" para configuração de contato de suporte do Enterprise](/assets/images/2021/10/enterprise/configuration/ae-save.png)
 {% endif %}
 
 {% ifversion ghes %}
 ## Testar a entrega de e-mails
 
-1. Na parte superior da seção **Email**, clique em **Test email settings** (Testar configurações de e-mail). ![Configurações de e-mail de teste](/assets/images/enterprise/management-console/test-email.png)
-2. No campo **Send test email to** (Enviar e-mail de teste para), digite um endereço que receberá o e-mail de teste. ![Endereço de e-mail de teste](/assets/images/enterprise/management-console/test-email-address.png)
-3. Clique em **Send test email** (Enviar e-mail de teste). ![Enviar e-mail de teste](/assets/images/enterprise/management-console/test-email-address-send.png)
+1. Na parte superior da seção **Email**, clique em **Test email settings** (Testar configurações de e-mail). ![Configurações de e-mail de teste](/assets/images/2021/10/enterprise/management-console/test-email.png)
+2. No campo **Send test email to** (Enviar e-mail de teste para), digite um endereço que receberá o e-mail de teste. ![Endereço de e-mail de teste](/assets/images/2021/10/enterprise/management-console/test-email-address.png)
+3. Clique em **Send test email** (Enviar e-mail de teste). ![Enviar e-mail de teste](/assets/images/2021/10/enterprise/management-console/test-email-address-send.png)
 
   {% tip %}
 
@@ -73,7 +73,7 @@ Os proprietários das empresas podem configurar e-mails para notificações.
   {% endtip %}
 
 4. Se houver falha no teste, consulte a [solução de problemas das suas configurações de e-mail](#troubleshooting-email-delivery).
-5. Quando o teste for concluído com êxito, clique em **Save settings** (Salvar configurações) na parte inferior da página. ![Botão Save settings (Salvar configurações)](/assets/images/enterprise/management-console/save-settings.png)
+5. Quando o teste for concluído com êxito, clique em **Save settings** (Salvar configurações) na parte inferior da página. ![Botão Save settings (Salvar configurações)](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 {% data reusables.enterprise_site_admin_settings.wait-for-configuration-run %}
 
 ## Configurar DNS e firewall para o recebimento de e-mails

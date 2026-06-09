@@ -61,5 +61,5 @@ Antes de que habilites el aislamiento de subdominio, debes configurar tus ajuste
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.hostname-menu-item %}
-4. Selecciona **Subdomain isolation (recommended)** (Aislamiento de subdominio [recomendado]). ![Casilla de verificación para habilitar el aislamiento de subdominio](/assets/images/enterprise/management-console/subdomain-isolation.png)
+4. Selecciona **Subdomain isolation (recommended)** (Aislamiento de subdominio [recomendado]). ![Casilla de verificación para habilitar el aislamiento de subdominio](/assets/images/2021/10/enterprise/management-console/subdomain-isolation.png)
 {% data reusables.enterprise_management_console.save-settings %}

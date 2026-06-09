@@ -31,9 +31,9 @@ versions:
 
   {% endnote %}
 
-  ![履歴でタグを表示する](/assets/images/help/desktop/viewing-tags-in-history.png)
+  ![履歴でタグを表示する](/assets/images/2021/10/help/desktop/viewing-tags-in-history.png)
 
-3. コミットに関連付けられているすべてのタグは、そのコミットのメタデータに表示されます。 ![コミットでタグを表示する](/assets/images/help/desktop/viewing-tags-in-commit.png)
+3. コミットに関連付けられているすべてのタグは、そのコミットのメタデータに表示されます。 ![コミットでタグを表示する](/assets/images/2021/10/help/desktop/viewing-tags-in-commit.png)
 
 ## タグを削除する
 

@@ -51,8 +51,8 @@ Before you can require 2FA for all organizations owned by your enterprise, you m
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
 4. 在“Two-factor authentication（双重身份验证）”下，审查有关更改设置的信息。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. 在“Two-factor authentication（双重身份验证）”下，选择 **Require two-factor authentication for all organizations in your business（对您企业中的所有组织要求双重身份验证）**，然后单击 **Save（保存）**。 ![要求双重身份验证的复选框](/assets/images/help/business-accounts/require-2fa-checkbox.png)
-6. If prompted, read the information about members and outside collaborators who will be removed from the organizations owned by your enterprise. To confirm the change, type your enterprise's name, then click **Remove members & require two-factor authentication**. ![确认双重实施框](/assets/images/help/business-accounts/confirm-require-2fa.png)
+5. 在“Two-factor authentication（双重身份验证）”下，选择 **Require two-factor authentication for all organizations in your business（对您企业中的所有组织要求双重身份验证）**，然后单击 **Save（保存）**。 ![要求双重身份验证的复选框](/assets/images/2021/10/help/business-accounts/require-2fa-checkbox.png)
+6. If prompted, read the information about members and outside collaborators who will be removed from the organizations owned by your enterprise. To confirm the change, type your enterprise's name, then click **Remove members & require two-factor authentication**. ![确认双重实施框](/assets/images/2021/10/help/business-accounts/confirm-require-2fa.png)
 7. Optionally, if any members or outside collaborators are removed from the organizations owned by your enterprise, we recommend sending them an invitation to reinstate their former privileges and access to your organization. 每个人都必须启用双重身份验证，然后才能接受您的邀请。
 
 {% endif %}
@@ -93,7 +93,7 @@ Enterprise owners can restrict access to assets owned by organizations in an ent
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.security-tab %}
-3. 在“IP allow list（IP 允许列表）”下，选择 **Enable IP allow list（启用 IP 允许列表）**。 ![允许 IP 地址的复选框](/assets/images/help/security/enable-ip-allowlist-enterprise-checkbox.png)
+3. 在“IP allow list（IP 允许列表）”下，选择 **Enable IP allow list（启用 IP 允许列表）**。 ![允许 IP 地址的复选框](/assets/images/2021/10/help/security/enable-ip-allowlist-enterprise-checkbox.png)
 4. 单击 **Save（保存）**。
 
 ### 编辑允许的 IP 地址

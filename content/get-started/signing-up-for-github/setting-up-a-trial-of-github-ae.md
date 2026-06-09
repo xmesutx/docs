@@ -27,10 +27,10 @@ Contact {% data variables.contact.contact_enterprise_sales %} to check your elig
 The {% data variables.actions.azure_portal %} allows you to deploy the {% data variables.product.prodname_ghe_managed %} account in your Azure resource group.
 
 1. On the {% data variables.actions.azure_portal %}, type `GitHub AE` in the search field. Then, under _Services_, click {% data variables.product.prodname_ghe_managed %}.
-    ![{% data variables.actions.azure_portal %} search result](/assets/images/azure/github-ae-azure-portal-search.png)
+    ![{% data variables.actions.azure_portal %} search result](/assets/images/2021/12/azure/github-ae-azure-portal-search.png)
 1. To begin the process of adding a new {% data variables.product.prodname_ghe_managed %} account, click **Create GitHub AE account**.
 1. Complete the "Project details" and "Instance details" fields.
-    ![{% data variables.actions.azure_portal %} search result](/assets/images/azure/github-ae-azure-portal-form.png)
+    ![{% data variables.actions.azure_portal %} search result](/assets/images/2021/12/azure/github-ae-azure-portal-form.png)
     - **Account name:** The hostname for your enterprise
     - **Administrator username:** A username for the initial enterprise owner that will be created in {% data variables.product.prodname_ghe_managed %}
     - **Administrator email:** The email address that will receive the login information
@@ -51,7 +51,7 @@ You can use the {% data variables.actions.azure_portal %} to navigate to your {%
 
 1. On the {% data variables.actions.azure_portal %}, in the left panel, click **All resources**.
 1. From the available filters, click **All types**, then deselect **Select all** and select **GitHub AE**:
-    ![{% data variables.actions.azure_portal %} search result](/assets/images/azure/github-ae-azure-portal-type-filter.png)
+    ![{% data variables.actions.azure_portal %} search result](/assets/images/2021/12/azure/github-ae-azure-portal-type-filter.png)
 
 ## Next steps
 

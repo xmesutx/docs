@@ -2,4 +2,4 @@
 
    要返回到源差异视图，请单击 **{% octicon "code" aria-label="The source diff icon" %}** 按钮。
 
-   ![源差异按钮](/assets/images/help/pull_requests/dependency-review-source-diff.png)
+   ![源差异按钮](/assets/images/2021/10/help/pull_requests/dependency-review-source-diff.png)

@@ -14,9 +14,9 @@ shortTitle: Sessões de SAML ativas
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. Em "Sessões", você pode ver suas sessões ativas do SAML. ![Lista de sessões SAML ativas](/assets/images/help/settings/saml-active-sessions.png)
-4. Para ver as informações da sessão, clique em **Ver mais**. ![Botão para abrir as informações da sessão do SAML](/assets/images/help/settings/saml-expand-session-details.png)
-5. Para revogar uma sessão, clique em **Revogar SAML**. ![Botão para revogar uma sessão SAML](/assets/images/help/settings/saml-revoke-session.png)
+3. Em "Sessões", você pode ver suas sessões ativas do SAML. ![Lista de sessões SAML ativas](/assets/images/2021/10/help/settings/saml-active-sessions.png)
+4. Para ver as informações da sessão, clique em **Ver mais**. ![Botão para abrir as informações da sessão do SAML](/assets/images/2021/10/help/settings/saml-expand-session-details.png)
+5. Para revogar uma sessão, clique em **Revogar SAML**. ![Botão para revogar uma sessão SAML](/assets/images/2021/10/help/settings/saml-revoke-session.png)
 
   {% note %}
 

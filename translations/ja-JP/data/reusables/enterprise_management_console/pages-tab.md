@@ -1,1 +1,1 @@
-1. 左のサイドバーで**Pages（ページ）**をクリックしてください。 ![ページサイドバー](/assets/images/enterprise/management-console/sidebar-pages.png)
+1. 左のサイドバーで**Pages（ページ）**をクリックしてください。 ![ページサイドバー](/assets/images/2021/10/enterprise/management-console/sidebar-pages.png)

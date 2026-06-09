@@ -26,15 +26,15 @@ topics:
 {% data reusables.enterprise-accounts.viewing-dormant-users %}
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-3. 在左侧边栏中，单击 **Dormant users**。 ![Dormant users tab](/assets/images/enterprise/site-admin-settings/dormant-users-tab.png){% ifversion ghes %}
-4. 要挂起此列表中的所有休眠用户，请在页面顶部单击 **Suspend all**。 ![Suspend all button](/assets/images/enterprise/site-admin-settings/suspend-all.png){% endif %}
+3. 在左侧边栏中，单击 **Dormant users**。 ![Dormant users tab](/assets/images/2021/10/enterprise/site-admin-settings/dormant-users-tab.png){% ifversion ghes %}
+4. 要挂起此列表中的所有休眠用户，请在页面顶部单击 **Suspend all**。 ![Suspend all button](/assets/images/2021/10/enterprise/site-admin-settings/suspend-all.png){% endif %}
 
 ## 确定用户帐户是否休眠
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.search-user %}
 {% data reusables.enterprise_site_admin_settings.click-user %}
-5. 在 **User info** 部分中，后面为“Dormant”的红点表示该用户帐户为休眠状态，后面为“Active”的绿点表示该用户帐户处于活跃状态。 ![Dormant 用户帐户](/assets/images/enterprise/stafftools/dormant-user.png) ![Active 用户帐户](/assets/images/enterprise/stafftools/active-user.png)
+5. 在 **User info** 部分中，后面为“Dormant”的红点表示该用户帐户为休眠状态，后面为“Active”的绿点表示该用户帐户处于活跃状态。 ![Dormant 用户帐户](/assets/images/2021/10/enterprise/stafftools/dormant-user.png) ![Active 用户帐户](/assets/images/2021/10/enterprise/stafftools/active-user.png)
 
 ## 配置休眠阈值
 
@@ -44,7 +44,7 @@ topics:
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.options-tab %}
-4. 在“Dormancy threshold”，使用下拉菜单，然后单击所需的休眠阈值。 ![Dormancy threshold 下拉菜单](/assets/images/enterprise/site-admin-settings/dormancy-threshold-menu.png)
+4. 在“Dormancy threshold”，使用下拉菜单，然后单击所需的休眠阈值。 ![Dormancy threshold 下拉菜单](/assets/images/2021/10/enterprise/site-admin-settings/dormancy-threshold-menu.png)
 
 {% endif %}
 
@@ -56,6 +56,6 @@ topics:
 
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.enterprise-accounts-compliance-tab %}
-1. 要将休眠用户（测试版）报告下载为 CSV 文件，请在“Other（其他）”下点击 {% octicon "download" aria-label="The Download icon" %} **Download（下载）**。 ![Compliance（合规）页面上"Other（其他）"下的 Download（下载）按钮](/assets/images/help/business-accounts/dormant-users-download-button.png)
+1. 要将休眠用户（测试版）报告下载为 CSV 文件，请在“Other（其他）”下点击 {% octicon "download" aria-label="The Download icon" %} **Download（下载）**。 ![Compliance（合规）页面上"Other（其他）"下的 Download（下载）按钮](/assets/images/2021/11/help/business-accounts/dormant-users-download-button.png)
 
 {% endif %}

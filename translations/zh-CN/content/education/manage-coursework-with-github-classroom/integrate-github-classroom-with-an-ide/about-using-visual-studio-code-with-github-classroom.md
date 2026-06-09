@@ -35,7 +35,7 @@ GitHub 课堂扩展有两个主要组件：“课堂”视图和“活动的作�
 
 当学生首次启动扩展时，他们将自动导航到 Visual Studio Code 中的 Explorer 选项卡，在其中可以看到“活动的作业”视图以及存储库中文件的树视图。
 
-![GitHub 课堂活动作业视图](/assets/images/help/classroom/vs-code-active-assignment.png)
+![GitHub 课堂活动作业视图](/assets/images/2021/10/help/classroom/vs-code-active-assignment.png)
 
 学生可以通过单击 **sync changes（同步更改）**按钮（将鼠标悬停在“活动的作业”行上时显示）将其提交推送到最新版本的远程。 这去掉了 Git 的源代码控制，允许教师按照自己的节奏教授 Git。 如果教师已为其作业配置自动评分，同步更改还会触发“测试”运行。
 

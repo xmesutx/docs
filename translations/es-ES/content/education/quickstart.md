@@ -58,8 +58,8 @@ A continuación, te registrarás para obtener descuentos en los servicios de {% 
 Con tu cuenta de usuario y cuenta de organización, ya estás listo para iniciar con {% data variables.product.prodname_classroom %}. {% data variables.product.prodname_classroom %} es de uso gratuito. Puedes rastrear y administrar las tareas, calificar los trabajos automáticamente y proporcionar retroalimentación a tus alumnos.
 
 {% data reusables.classroom.sign-into-github-classroom %}
-1. Para autorizar a {% data variables.product.prodname_classroom %} para que acceda a tu cuenta de usuario en {% data variables.product.prodname_dotcom %}, revisa la información y luego da clic en **Autorizar a {% data variables.product.prodname_classroom %}**. ![Botón de "Autorizar {% data variables.product.prodname_classroom %}" para una cuenta de usuario](/assets/images/help/classroom/setup-click-authorize-github-classroom.png)
-1. Revisa la información. Para autorizar a {% data variables.product.prodname_classroom %} para que acceda a tu cuenta de organización en {% data variables.product.prodname_dotcom %}, da clic en **Otorgar**. ![Botón de "Otorgar" para una organización](/assets/images/help/classroom/setup-click-grant.png)
+1. Para autorizar a {% data variables.product.prodname_classroom %} para que acceda a tu cuenta de usuario en {% data variables.product.prodname_dotcom %}, revisa la información y luego da clic en **Autorizar a {% data variables.product.prodname_classroom %}**. ![Botón de "Autorizar {% data variables.product.prodname_classroom %}" para una cuenta de usuario](/assets/images/2021/10/help/classroom/setup-click-authorize-github-classroom.png)
+1. Revisa la información. Para autorizar a {% data variables.product.prodname_classroom %} para que acceda a tu cuenta de organización en {% data variables.product.prodname_dotcom %}, da clic en **Otorgar**. ![Botón de "Otorgar" para una organización](/assets/images/2021/10/help/classroom/setup-click-grant.png)
 
   {% tip %}
 
@@ -67,7 +67,7 @@ Con tu cuenta de usuario y cuenta de organización, ya estás listo para iniciar
 
   {% endtip %}
 
-1. Da clic en **Autorizar github**. ![Clic en el botón "Autorizar" para una organización](/assets/images/help/classroom/setup-click-authorize-github.png)
+1. Da clic en **Autorizar github**. ![Clic en el botón "Autorizar" para una organización](/assets/images/2021/10/help/classroom/setup-click-authorize-github.png)
 
 ## Crea tu aula
 

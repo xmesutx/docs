@@ -34,5 +34,5 @@ topics:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
 {% data reusables.sponsors.billing-switcher %}
-3. [{% data variables.product.prodname_sponsors %}] の、スポンサードオープンソースコントリビューターの右で、あなたがスポンサーした額の隣にある{% octicon "triangle-down" aria-label="The down triangle octicon" %}をクリックし、[**Cancel sponsorship**] をクリックします。 ![[Cancel sponsorship] ボタン](/assets/images/help/billing/edit-sponsor-billing.png)
-4. スポンサーシップのキャンセルに関する情報を確認してから、[**OK**] をクリックします。 ![キャンセルの確認ボックス](/assets/images/help/billing/confirm-sponsorship-cancellation.png)
+3. [{% data variables.product.prodname_sponsors %}] の、スポンサードオープンソースコントリビューターの右で、あなたがスポンサーした額の隣にある{% octicon "triangle-down" aria-label="The down triangle octicon" %}をクリックし、[**Cancel sponsorship**] をクリックします。 ![[Cancel sponsorship] ボタン](/assets/images/2021/10/help/billing/edit-sponsor-billing.png)
+4. スポンサーシップのキャンセルに関する情報を確認してから、[**OK**] をクリックします。 ![キャンセルの確認ボックス](/assets/images/2021/10/help/billing/confirm-sponsorship-cancellation.png)

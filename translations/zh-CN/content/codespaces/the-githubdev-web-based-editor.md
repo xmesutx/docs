@@ -57,7 +57,7 @@ You can start your workflow in the {% data variables.product.prodname_serverless
 
 To continue your work in a codespace, click **Continue Working on…** and select **Create New Codespace** to create a codespace on your current branch. Before you choose this option, you must commit any changes.
 
-![A screenshot that shows the "Continue Working on" button in the UI](/assets/images/help/codespaces/codespaces-continue-working.png)
+![A screenshot that shows the "Continue Working on" button in the UI](/assets/images/2021/10/help/codespaces/codespaces-continue-working.png)
 
 ## Using source control
 

@@ -28,7 +28,7 @@ shortTitle: Install app organization
 {% data reusables.marketplace.confirm-install-account-org %}
 {% data reusables.marketplace.add-payment-method-org %}
 {% data reusables.marketplace.complete-order-begin-installation %}
-8. アプリケーションでリポジトリにアクセスする必要がある場合は、すべてのリポジトリへのアクセスを許可するか、特定のリポジトリへのアクセスのみを許可するかに応じて、[**All repositories**] または [**Only select repositories**] を選択します。 ![すべてのリポジトリまたは特定のリポジトリにアプリをインストールするオプションを備えたラジオボタン](/assets/images/help/marketplace/marketplace-choose-repo-install-option.png)
+8. アプリケーションでリポジトリにアクセスする必要がある場合は、すべてのリポジトリへのアクセスを許可するか、特定のリポジトリへのアクセスのみを許可するかに応じて、[**All repositories**] または [**Only select repositories**] を選択します。 ![すべてのリポジトリまたは特定のリポジトリにアプリをインストールするオプションを備えたラジオボタン](/assets/images/2021/10/help/marketplace/marketplace-choose-repo-install-option.png)
 {% data reusables.marketplace.select-installation-repos %}
 {% data reusables.marketplace.review-app-perms-install %}
 

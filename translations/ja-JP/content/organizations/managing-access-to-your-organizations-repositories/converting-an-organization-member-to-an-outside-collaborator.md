@@ -35,9 +35,9 @@ Organization のメンバーを外部コラボレーターに変換する際、O
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
-4. 外部コラボレーターに変換したい人を選択します。 ![2 人のメンバーを選択した状態のメンバーリスト](/assets/images/help/teams/list-of-members-selected-bulk.png)
-5. メンバーのリストの上のドロップダウンメニューで、[**Convert to outside collaborator**] をクリックします。 ![メンバーを外部コラボレーターに変換するオプションのあるドロップダウンメニュー](/assets/images/help/teams/user-bulk-management-options.png)
-6. メンバーの外部コラボレーターへの変換に関する情報を読み、[**Convert to outside collaborator**] をクリックします。 ![外部コラボレーターの権限に関する情報および [Convert to outside collaborator] ボタン](/assets/images/help/teams/confirm-outside-collaborator-bulk.png)
+4. 外部コラボレーターに変換したい人を選択します。 ![2 人のメンバーを選択した状態のメンバーリスト](/assets/images/2021/10/help/teams/list-of-members-selected-bulk.png)
+5. メンバーのリストの上のドロップダウンメニューで、[**Convert to outside collaborator**] をクリックします。 ![メンバーを外部コラボレーターに変換するオプションのあるドロップダウンメニュー](/assets/images/2021/10/help/teams/user-bulk-management-options.png)
+6. メンバーの外部コラボレーターへの変換に関する情報を読み、[**Convert to outside collaborator**] をクリックします。 ![外部コラボレーターの権限に関する情報および [Convert to outside collaborator] ボタン](/assets/images/2021/10/help/teams/confirm-outside-collaborator-bulk.png)
 
 ## 参考リンク
 

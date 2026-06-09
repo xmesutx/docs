@@ -47,7 +47,7 @@ Puedes configurar los ajustes de notificaciones para ti mismo o para tu organiza
 {% data reusables.notifications.vulnerable-dependency-notification-delivery-method-customization2 %}
 {% data reusables.notifications.vulnerable-dependency-notification-options %}
 
-  ![Opciones de las {% data variables.product.prodname_dependabot_alerts %}](/assets/images/help/notifications-v2/dependabot-alerts-options.png)
+  ![Opciones de las {% data variables.product.prodname_dependabot_alerts %}](/assets/images/2021/10/help/notifications-v2/dependabot-alerts-options.png)
 
 {% note %}
 

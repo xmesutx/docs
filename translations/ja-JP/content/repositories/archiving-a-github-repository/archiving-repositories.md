@@ -49,7 +49,7 @@ When a repository is archived, its issues, pull requests, code, labels, mileston
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. "Danger Zone" の下で [** Archive this repository**] (このリポジトリをアーカイブ) または [** Unarchive this repository**] (このリポジトリをアーカイブ解除) をクリックします。 ![[Archive this repository] ボタン](/assets/images/help/repository/archive-repository.png)
+3. "Danger Zone" の下で [** Archive this repository**] (このリポジトリをアーカイブ) または [** Unarchive this repository**] (このリポジトリをアーカイブ解除) をクリックします。 ![[Archive this repository] ボタン](/assets/images/2021/10/help/repository/archive-repository.png)
 4. 警告を読んでください。
-5. アーカイブあるいはアーカイブを解除したいリポジトリの名前を入力してください。 ![リポジトリのアーカイブの警告](/assets/images/help/repository/archive-repository-warnings.png)
+5. アーカイブあるいはアーカイブを解除したいリポジトリの名前を入力してください。 ![リポジトリのアーカイブの警告](/assets/images/2021/10/help/repository/archive-repository-warnings.png)
 6. [**I understand the consequences, archive this repository**] (結果を承知した上で、このリポジトリをアーカイブ) をクリックします。

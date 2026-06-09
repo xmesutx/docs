@@ -27,5 +27,5 @@ shortTitle: Renovar una organización de pago
 
 {% data reusables.organizations.billing-settings %}
 {% data reusables.dotcom_billing.update_payment_method %}
-1. Debajo de "método de pago", haz clic en **Tarjeta nueva**. ![Botón de facturar con tarjeta nueva](/assets/images/help/billing/billing-new-card-button.png)
+1. Debajo de "método de pago", haz clic en **Tarjeta nueva**. ![Botón de facturar con tarjeta nueva](/assets/images/2021/10/help/billing/billing-new-card-button.png)
 {% data reusables.dotcom_billing.enter-payment-info %}

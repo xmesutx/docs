@@ -101,13 +101,13 @@ To specify more than one value for an attribute, use multiple `<saml2:AttributeV
 {% data reusables.enterprise_management_console.authentication %}
 1. 选择 **SAML**。
 
-   ![Screenshot of option to enable SAML authentication in management console](/assets/images/enterprise/management-console/auth-select-saml.png)
+   ![Screenshot of option to enable SAML authentication in management console](/assets/images/2021/10/enterprise/management-console/auth-select-saml.png)
 1. {% data reusables.enterprise_user_management.built-in-authentication-option %}
 
-   ![Screenshot of option to enable built-in authentication outside of SAML IdP](/assets/images/enterprise/management-console/saml-built-in-authentication.png)
+   ![Screenshot of option to enable built-in authentication outside of SAML IdP](/assets/images/2021/10/enterprise/management-console/saml-built-in-authentication.png)
 1. 或者，要启用非请求响应 SSO，请选择 **IdP initiated SSO**。 默认情况下，{% data variables.product.prodname_ghe_server %} 将向 IdP 发回 `AuthnRequest`，回复非请求身份提供程序 (IdP) 发起的请求。
 
-   ![Screenshot of option to enable IdP-initiated unsolicited response](/assets/images/enterprise/management-console/saml-idp-sso.png)
+   ![Screenshot of option to enable IdP-initiated unsolicited response](/assets/images/2021/10/enterprise/management-console/saml-idp-sso.png)
 
    {% tip %}
 
@@ -117,10 +117,10 @@ To specify more than one value for an attribute, use multiple `<saml2:AttributeV
 
 1. 如果您**不**希望 SAML 提供程序为 {% data variables.product.product_location %} 上的用户确定管理员权限，请选择 **Disable administrator demotion/promotion（禁用管理员降级/升级）**。
 
-   ![Screenshot of option to enable option to respect the "administrator" attribute from the IdP to enable or disable administrative rights](/assets/images/enterprise/management-console/disable-admin-demotion-promotion.png)
+   ![Screenshot of option to enable option to respect the "administrator" attribute from the IdP to enable or disable administrative rights](/assets/images/2021/10/enterprise/management-console/disable-admin-demotion-promotion.png)
 1. Optionally, to allow {% data variables.product.product_location %} to send and receive encrypted assertions to and from your SAML IdP, select **Require encrypted assertions**. For more information, see "[Enabling encrypted assertions](#enabling-encrypted-assertions)."
 
-   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/help/saml/management-console-enable-encrypted-assertions.png)
+   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/2022/02/help/saml/management-console-enable-encrypted-assertions.png)
 
    {% warning %}
 
@@ -133,19 +133,19 @@ To specify more than one value for an attribute, use multiple `<saml2:AttributeV
    {% endwarning %}
 1. In the **Single sign-on URL** field, type the HTTP or HTTPS endpoint on your IdP for single sign-on requests. 此值由您的 IdP 配置提供。 If the host is only available from your internal network, you may need to [configure {% data variables.product.product_location %} to use internal nameservers](/enterprise/{{ currentVersion }}/admin/guides/installation/configuring-dns-nameservers/).
 
-   ![Screenshot of text field for single sign-on URL](/assets/images/enterprise/management-console/saml-single-sign-url.png)
+   ![Screenshot of text field for single sign-on URL](/assets/images/2021/10/enterprise/management-console/saml-single-sign-url.png)
 1. Optionally, in the **Issuer** field, type your SAML issuer's name. This verifies the authenticity of messages sent to {% data variables.product.product_location %}.
 
-   ![Screenshot of text field for SAML issuer URL](/assets/images/enterprise/management-console/saml-issuer.png)
+   ![Screenshot of text field for SAML issuer URL](/assets/images/2021/10/enterprise/management-console/saml-issuer.png)
 1. In the **Signature Method** and **Digest Method** drop-down menus, choose the hashing algorithm used by your SAML issuer to verify the integrity of the requests from {% data variables.product.product_location %}. Specify the format with the **Name Identifier Format** drop-down menu.
 
-   ![Screenshot of drop-down menus to select signature and digest method](/assets/images/enterprise/management-console/saml-method.png)
+   ![Screenshot of drop-down menus to select signature and digest method](/assets/images/2021/10/enterprise/management-console/saml-method.png)
 1. 在 **Verification certificate（验证证书）**下，单击 **Choose File（选择文件）**并选择用于验证 IdP 的 SAML 响应的证书。
 
-   ![Screenshot of button for uploading validation certificate from IdP](/assets/images/enterprise/management-console/saml-verification-cert.png)
+   ![Screenshot of button for uploading validation certificate from IdP](/assets/images/2021/10/enterprise/management-console/saml-verification-cert.png)
 1. Modify the SAML attribute names to match your IdP if needed, or accept the default names.
 
-   ![Screenshot of fields for entering additional SAML attributes](/assets/images/enterprise/management-console/saml-attributes.png)
+   ![Screenshot of fields for entering additional SAML attributes](/assets/images/2021/10/enterprise/management-console/saml-attributes.png)
 
 {% ifversion ghes > 3.3 %}
 
@@ -174,13 +174,13 @@ To enable encrypted assertions, your SAML IdP must also support encrypted assert
 {% data reusables.enterprise_management_console.authentication %}
 1. Select **Require encrypted assertions**.
 
-   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/help/saml/management-console-enable-encrypted-assertions.png)
+   ![Screenshot of "Enable encrypted assertions" checkbox within management console's "Authentication" section](/assets/images/2022/02/help/saml/management-console-enable-encrypted-assertions.png)
 1. To the right of "Encryption Method", select the encryption method for your IdP from step 5.
 
-   ![Screenshot of "Encryption Method" for encrypted assertions](/assets/images/help/saml/management-console-encrypted-assertions-encryption-method.png)
+   ![Screenshot of "Encryption Method" for encrypted assertions](/assets/images/2022/02/help/saml/management-console-encrypted-assertions-encryption-method.png)
 1. To the right of "Key Transport Method", select the key transport method for your IdP from step 5.
 
-   ![Screenshot of "Key Transport Method" for encrypted assertions](/assets/images/help/saml/management-console-encrypted-assertions-key-transport-method.png)
+   ![Screenshot of "Key Transport Method" for encrypted assertions](/assets/images/2022/02/help/saml/management-console-encrypted-assertions-key-transport-method.png)
 1. 单击 **Save settings（保存设置）**。
 {% data reusables.enterprise_site_admin_settings.wait-for-configuration-run %}
 
@@ -189,12 +189,12 @@ To enable encrypted assertions, your SAML IdP must also support encrypted assert
 ## Updating a user's SAML `NameID`
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-2. 选择 **SAML**。 ![网站管理员设置中的"All users（所有用户）"侧边栏项目](/assets/images/enterprise/site-admin-settings/all-users.png)
-3. 在用户列表中，点击您想要更新其 `NameID` 映射的用户名。 ![实例用户帐户列表中的用户名](/assets/images/enterprise/site-admin-settings/all-users-click-username.png)
+2. 选择 **SAML**。 ![网站管理员设置中的"All users（所有用户）"侧边栏项目](/assets/images/2021/10/enterprise/site-admin-settings/all-users.png)
+3. 在用户列表中，点击您想要更新其 `NameID` 映射的用户名。 ![实例用户帐户列表中的用户名](/assets/images/2021/10/enterprise/site-admin-settings/all-users-click-username.png)
 {% data reusables.enterprise_site_admin_settings.security-tab %}
-5. 在“Update SAML NameID（更新 SAML 名称 ID）”右侧，单击 **Edit（编辑）**。 ![SAML 身份验证](/assets/images/enterprise/site-admin-settings/update-saml-nameid-edit.png)
-6. 在“NameID（名称 ID）”字段中，为用户键入新的 `NameID`。 ![键入了名称 ID 的模态对话框中的"名称 ID"字段](/assets/images/enterprise/site-admin-settings/update-saml-nameid-field-in-modal.png)
-7. 单击 **Update NameID（更新名称 ID）**。 ![模态中更新的名称 ID 下的"Update NameID（更新名称 ID）"按钮](/assets/images/enterprise/site-admin-settings/update-saml-nameid-update.png)
+5. 在“Update SAML NameID（更新 SAML 名称 ID）”右侧，单击 **Edit（编辑）**。 ![SAML 身份验证](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-edit.png)
+6. 在“NameID（名称 ID）”字段中，为用户键入新的 `NameID`。 ![键入了名称 ID 的模态对话框中的"名称 ID"字段](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-field-in-modal.png)
+7. 单击 **Update NameID（更新名称 ID）**。 ![模态中更新的名称 ID 下的"Update NameID（更新名称 ID）"按钮](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-update.png)
 
 ## 撤销 {% data variables.product.product_location %} 的权限
 

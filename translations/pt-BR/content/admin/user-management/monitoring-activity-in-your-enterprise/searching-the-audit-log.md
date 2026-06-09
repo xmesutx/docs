@@ -48,4 +48,4 @@ Para obter uma lista completa de ações, consulte "[Ações auditadas](/admin/u
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
-4. Digite uma consulta de pesquisa.![Consulta de pesquisa](/assets/images/enterprise/site-admin-settings/search-query.png)
+4. Digite uma consulta de pesquisa.![Consulta de pesquisa](/assets/images/2021/10/enterprise/site-admin-settings/search-query.png)

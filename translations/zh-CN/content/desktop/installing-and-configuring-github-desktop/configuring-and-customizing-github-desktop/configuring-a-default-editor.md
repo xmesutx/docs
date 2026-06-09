@@ -60,8 +60,8 @@ shortTitle: 配置默认编辑器
 {% mac %}
 
 {% data reusables.desktop.mac-select-desktop-menu %}
-3. 在 Preferences（首选项）窗口中，选择 **Integrations（集成）**。 ![“首选项”窗口中的“集成”窗格](/assets/images/help/desktop/mac-select-integrations-pane.png)
-4. 使用“External Editor（外部编辑器）”下拉菜单，选择要设为默认的编辑器。 ![“首选项”菜单栏中的“外部编辑器”菜单](/assets/images/help/desktop/mac-editor-menu.png)
+3. 在 Preferences（首选项）窗口中，选择 **Integrations（集成）**。 ![“首选项”窗口中的“集成”窗格](/assets/images/2021/10/help/desktop/mac-select-integrations-pane.png)
+4. 使用“External Editor（外部编辑器）”下拉菜单，选择要设为默认的编辑器。 ![“首选项”菜单栏中的“外部编辑器”菜单](/assets/images/2021/10/help/desktop/mac-editor-menu.png)
 5. 单击 **Save（保存）**。
 
 {% endmac %}
@@ -69,8 +69,8 @@ shortTitle: 配置默认编辑器
 {% windows %}
 
 {% data reusables.desktop.windows-choose-options %}
-3. 在 Options（选项）窗口中，选择 **Integrations（集成）**。 ![“选项”窗口中的“集成”窗格](/assets/images/help/desktop/windows-select-integrations-pane.png)
-4. 使用“External Editor（外部编辑器）”下拉菜单，选择要设为默认的编辑器。 ![“选项”菜单栏中的“外部编辑器”菜单](/assets/images/help/desktop/windows-editor-menu.png)
+3. 在 Options（选项）窗口中，选择 **Integrations（集成）**。 ![“选项”窗口中的“集成”窗格](/assets/images/2021/10/help/desktop/windows-select-integrations-pane.png)
+4. 使用“External Editor（外部编辑器）”下拉菜单，选择要设为默认的编辑器。 ![“选项”菜单栏中的“外部编辑器”菜单](/assets/images/2021/10/help/desktop/windows-editor-menu.png)
 5. 单击 **Save（保存）**。
 
 {% endwindows %}

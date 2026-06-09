@@ -46,7 +46,7 @@ versions:
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 {% data reusables.repositories.navigate-to-job %}
-1. 在日志输出的右上角，在 **Search logs（搜索日志）**搜索框中输入搜索查询。 ![搜索日志的搜索框](/assets/images/help/repository/search-log-box-updated-2.png)
+1. 在日志输出的右上角，在 **Search logs（搜索日志）**搜索框中输入搜索查询。 ![搜索日志的搜索框](/assets/images/2021/10/help/repository/search-log-box-updated-2.png)
 
 ## 下载日志
 
@@ -59,7 +59,7 @@ versions:
 {% data reusables.repositories.navigate-to-job %}
 1. In the upper right corner, click {% octicon "gear" aria-label="The gear icon" %} and select **Download log archive**.
 
-  ![下载日志下拉菜单](/assets/images/help/repository/download-logs-drop-down-updated-2.png)
+  ![下载日志下拉菜单](/assets/images/2021/10/help/repository/download-logs-drop-down-updated-2.png)
 
 
 ## 删除日志
@@ -72,11 +72,11 @@ versions:
 {% data reusables.repositories.view-run %}
 1. In the upper right corner, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
 
-    ![烤肉串水平图标](/assets/images/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
+    ![烤肉串水平图标](/assets/images/2021/10/help/repository/workflow-run-kebab-horizontal-icon-updated-2.png)
 
 2. 要删除日志文件，单击 **Delete all logs（删除所有日志）**按钮并审查确认提示。
 
-  ![删除所有日志](/assets/images/help/repository/delete-all-logs-updated-2.png)
+  ![删除所有日志](/assets/images/2021/10/help/repository/delete-all-logs-updated-2.png)
 
 删除日志后，**Delete all logs（删除所有日志）** 按钮将会移除，以表示在工作流程运行中没有日志文件。
 

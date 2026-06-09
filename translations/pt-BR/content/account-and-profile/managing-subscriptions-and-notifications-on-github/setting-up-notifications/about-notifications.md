@@ -72,11 +72,11 @@ Sua caixa de entrada está configurada com filtros-padrão, que representam as r
 
 Sua caixa de entrada mostra as `razões` de você estar recebendo notificações como uma etiqueta.
 
-![Etiquetas de razões na caixa de entrada](/assets/images/help/notifications-v2/reasons-as-labels-in-inbox.png)
+![Etiquetas de razões na caixa de entrada](/assets/images/2021/10/help/notifications-v2/reasons-as-labels-in-inbox.png)
 
 Você pode filtrar sua caixa de entrada pelo motivo pelo qual está inscrito nas notificações. Por exemplo, para ver apenas pull requests em que alguém solicitou sua revisão, você pode usar o filtro de consulta `review-requested`.
 
-![Filtrar notificações por revisão da razão solicitada](/assets/images/help/notifications-v2/review-requested-reason.png)
+![Filtrar notificações por revisão da razão solicitada](/assets/images/2021/10/help/notifications-v2/review-requested-reason.png)
 
 Se você configurou as notificações para serem enviadas por e-mail e acredita que está recebendo notificações que não pertencem a você, considere a resolução de problemas com cabeçalhos de e-mail, que mostram o destinatário pretendido. Para obter mais informações, consulte “[Configurando notificações](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications)".
 

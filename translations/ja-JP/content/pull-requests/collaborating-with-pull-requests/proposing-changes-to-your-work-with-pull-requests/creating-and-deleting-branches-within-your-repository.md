@@ -20,9 +20,9 @@ shortTitle: Create & delete branches
 
 {% data reusables.repositories.navigate-to-repo %}
 
-1. 必要に応じて、リポジトリのデフォルトブランチ以外のブランチから新しいブランチを作成する場合は、[{% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> branches**] をクリックし、別のブランチを選択します。 ![概要ページのブランチリンク](/assets/images/help/branches/branches-link.png)
-1. ブランチセレクタメニューをクリックします。 ![ブランチセレクタメニュー](/assets/images/help/branch/branch-selection-dropdown.png)
-1. 新しいブランチに、一意の名前を入力して、[**Create branch**] を選択します。 ![ブランチ作成のテキストボックス](/assets/images/help/branch/branch-creation-text-box.png)
+1. 必要に応じて、リポジトリのデフォルトブランチ以外のブランチから新しいブランチを作成する場合は、[{% octicon "git-branch" aria-label="The branch icon" %} **<em>NUMBER</em> branches**] をクリックし、別のブランチを選択します。 ![概要ページのブランチリンク](/assets/images/2021/10/help/branches/branches-link.png)
+1. ブランチセレクタメニューをクリックします。 ![ブランチセレクタメニュー](/assets/images/2021/10/help/branch/branch-selection-dropdown.png)
+1. 新しいブランチに、一意の名前を入力して、[**Create branch**] を選択します。 ![ブランチ作成のテキストボックス](/assets/images/2021/10/help/branch/branch-creation-text-box.png)
 
 ## ブランチの削除
 
@@ -38,7 +38,7 @@ shortTitle: Create & delete branches
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.navigate-to-branches %}
-1. 削除するブランチまでスクロールし、{% octicon "trash" aria-label="The trash icon to delete the branch" %} をクリックします。 ![ブランチを削除する](/assets/images/help/branches/branches-delete.png)
+1. 削除するブランチまでスクロールし、{% octicon "trash" aria-label="The trash icon to delete the branch" %} をクリックします。 ![ブランチを削除する](/assets/images/2021/10/help/branches/branches-delete.png)
 
 {% data reusables.pull_requests.retargeted-on-branch-deletion %}
 詳細は「[ブランチについて](/github/collaborating-with-issues-and-pull-requests/about-branches#working-with-branches)」を参照してください。

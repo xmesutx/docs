@@ -21,6 +21,6 @@ Para cada colaborador pendente, você pode cancelar todos os convites para junta
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.people %}
 {% data reusables.organizations.people_tab_outside_collaborators %}
-5. Clique em **X colaboradores pendentes**. ![Botão "Colaboradores pendentes"](/assets/images/help/organizations/pending-collaborator-list.png)
-6. Clique em **Cancelar convites** à direita da pessoa para quem você deseja cancelar os convites. ![Botão "Cancelar convite"](/assets/images/help/organizations/cancel-pending-collaborators.png)
-7. Clique em **Cancelar convites para colaboradores pendentes**. ![Botão para confirmar o cancelamento](/assets/images/help/organizations/confirm-cancelation-of-pending-collaborators.png)
+5. Clique em **X colaboradores pendentes**. ![Botão "Colaboradores pendentes"](/assets/images/2021/10/help/organizations/pending-collaborator-list.png)
+6. Clique em **Cancelar convites** à direita da pessoa para quem você deseja cancelar os convites. ![Botão "Cancelar convite"](/assets/images/2021/10/help/organizations/cancel-pending-collaborators.png)
+7. Clique em **Cancelar convites para colaboradores pendentes**. ![Botão para confirmar o cancelamento](/assets/images/2021/10/help/organizations/confirm-cancelation-of-pending-collaborators.png)

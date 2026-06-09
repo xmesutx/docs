@@ -30,7 +30,7 @@ Antes de que puedas habilitar y configurar el {% data variables.product.prodname
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_site_admin_settings.packages-tab %}
 {% data reusables.package_registry.enable-enterprise-github-packages %}
-1. Debajo de "Almacenamiento de Packages", selecciona **Azure Blob Storage** e ingresa el nombre de tu contenedor de Azure para tu bucket de almacenamiento de paquetes y secuencia de conexión. ![Cajas para el nombre del contenedor de Azure Blob Storage y secuencia de conexión](/assets/images/help/package-registry/azure-blob-storage-settings.png)
+1. Debajo de "Almacenamiento de Packages", selecciona **Azure Blob Storage** e ingresa el nombre de tu contenedor de Azure para tu bucket de almacenamiento de paquetes y secuencia de conexión. ![Cajas para el nombre del contenedor de Azure Blob Storage y secuencia de conexión](/assets/images/2021/10/help/package-registry/azure-blob-storage-settings.png)
 
 {% data reusables.enterprise_management_console.save-settings %}
 

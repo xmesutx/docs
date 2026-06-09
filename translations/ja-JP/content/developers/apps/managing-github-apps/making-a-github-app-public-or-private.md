@@ -35,7 +35,7 @@ GitHub Appをインストールできるユーザを変更するには以下の�
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-3. インストールオプションを変更したいGitHub Appを選択してください。 ![アプリケーションの選択](/assets/images/github-apps/github_apps_select-app.png)
+3. インストールオプションを変更したいGitHub Appを選択してください。 ![アプリケーションの選択](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.github_apps_advanced %}
-5. GitHub Appのインストールオプションに応じて、**Make public**もしくは**Make {% ifversion fpt or ghes > 3.1 or ghae or ghec %}private{% else %}internal{% endif %}**をクリックしてください。 ![GitHub Appのインストールオプションを変更するボタン](/assets/images/github-apps/github_apps_make_public.png)
-6. GitHub Appのインストールオプションに応じて、**Yes, make this GitHub App public**または**Yes, make this GitHub App {% ifversion fpt or ghes < 3.2 or ghec %}private{% else %}internal{% endif %}**をクリックしてください。 ![インストールオプションの変更の確認ボタン](/assets/images/github-apps/github_apps_confirm_installation_option.png)
+5. GitHub Appのインストールオプションに応じて、**Make public**もしくは**Make {% ifversion fpt or ghes > 3.1 or ghae or ghec %}private{% else %}internal{% endif %}**をクリックしてください。 ![GitHub Appのインストールオプションを変更するボタン](/assets/images/2021/10/github-apps/github_apps_make_public.png)
+6. GitHub Appのインストールオプションに応じて、**Yes, make this GitHub App public**または**Yes, make this GitHub App {% ifversion fpt or ghes < 3.2 or ghec %}private{% else %}internal{% endif %}**をクリックしてください。 ![インストールオプションの変更の確認ボタン](/assets/images/2021/10/github-apps/github_apps_confirm_installation_option.png)

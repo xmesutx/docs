@@ -26,7 +26,7 @@ Se os colaboradores no seu repositório não tiverem o {% data variables.large_f
 
 O {% data variables.product.product_name %} não renderiza objetos do {% data variables.large_files.product_name_short %} em pull requests. Apenas o arquivo de ponteiro é mostrado:
 
-![Amostra de PR para arquivos grandes](/assets/images/help/large_files/large_files_pr.png)
+![Amostra de PR para arquivos grandes](/assets/images/2021/10/help/large_files/large_files_pr.png)
 
 Para obter mais informações sobre arquivos de ponteiro, consulte "[Sobre o {% data variables.large_files.product_name_long %}](/github/managing-large-files/about-git-large-file-storage#pointer-file-format)".
 

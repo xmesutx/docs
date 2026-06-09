@@ -22,7 +22,7 @@ Você pode adicionar informações pessoais sobre si mesmo na bio, como locais e
 
 {% data reusables.profile.profile-readme %}
 
-![Arquivo README do perfil exibido no perfil](/assets/images/help/repository/profile-with-readme.png)
+![Arquivo README do perfil exibido no perfil](/assets/images/2021/10/help/repository/profile-with-readme.png)
 
 {% endif %}
 

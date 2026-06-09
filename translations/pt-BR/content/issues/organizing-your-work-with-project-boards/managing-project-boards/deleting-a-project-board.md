@@ -26,7 +26,7 @@ topics:
 1. Navegue até o quadro de projeto que deseja excluir.
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.click-edit-sidebar-menu-project-board %}
-4. Clique em **Delete project** (Excluir projeto). ![Botão Delete project (Excluir projeto)](/assets/images/help/projects/delete-project-button.png)
+4. Clique em **Delete project** (Excluir projeto). ![Botão Delete project (Excluir projeto)](/assets/images/2021/10/help/projects/delete-project-button.png)
 5. Para confirmar que você deseja excluir o quadro de projeto, clique em **OK**.
 
 ## Leia mais

@@ -21,8 +21,8 @@ Alguns fluxos de trabalho exigem ou beneficiam-se da rebase em vez de merge. Ao 
 ## Puxar para o seu branch local a partir do remoto
 
 1. Em {% data variables.product.prodname_desktop %}, use o menu suspenso {% octicon "git-branch" aria-label="The branch icon" %} **Branch atual** e selecione o branch local que deseja atualizar.
-2.  Para verificar se há commits no branch remoto, clique em **Buscar origem** ![Botão Fetch origin (Fetch de origem)](/assets/images/help/desktop/fetch-button.png)
-3. Para extrair quaisquer commits do branch remoto, clique em **Extrair origem** ou **Extrair origem com rebase**. ![Botão Pull origin (Origem do pull)](/assets/images/help/desktop/pull-button.png)
+2.  Para verificar se há commits no branch remoto, clique em **Buscar origem** ![Botão Fetch origin (Fetch de origem)](/assets/images/2021/10/help/desktop/fetch-button.png)
+3. Para extrair quaisquer commits do branch remoto, clique em **Extrair origem** ou **Extrair origem com rebase**. ![Botão Pull origin (Origem do pull)](/assets/images/2021/10/help/desktop/pull-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
 
 ## Fazer merge de outro branch no branch do projeto
@@ -37,35 +37,35 @@ Alguns fluxos de trabalho exigem ou beneficiam-se da rebase em vez de merge. Ao 
 
    {% endnote %}
 
-   ![Botão Merge](/assets/images/help/desktop/merge-branch-button.png)
+   ![Botão Merge](/assets/images/2021/10/help/desktop/merge-branch-button.png)
 {% data reusables.desktop.push-origin %}
 
 ## Fazer rebase entre o branch do projeto e outro branch
 
 {% mac %}
 
-1. Na barra de menu, use o menu suspenso **Branch** e clique em **Fazer rebase do branch atual**. ![Rebase do branch atual na lista suspensa de branches](/assets/images/help/desktop/mac-rebase-current-branch.png)
-2. Clique no branch desejado para fazer rebase com o branch atual. Em seguida, clique em **Start rebase** (Iniciar rebase). ![Botão Start rebase (Iniciar rebase)](/assets/images/help/desktop/start-rebase-button.png)
-3. Se tiver certeza da operação de rebase, clique em **Begin rebase** (Começar rebase). ![Botão Begin rebase (Começar rebase)](/assets/images/help/desktop/begin-rebase-button.png)
+1. Na barra de menu, use o menu suspenso **Branch** e clique em **Fazer rebase do branch atual**. ![Rebase do branch atual na lista suspensa de branches](/assets/images/2021/10/help/desktop/mac-rebase-current-branch.png)
+2. Clique no branch desejado para fazer rebase com o branch atual. Em seguida, clique em **Start rebase** (Iniciar rebase). ![Botão Start rebase (Iniciar rebase)](/assets/images/2021/10/help/desktop/start-rebase-button.png)
+3. Se tiver certeza da operação de rebase, clique em **Begin rebase** (Começar rebase). ![Botão Begin rebase (Começar rebase)](/assets/images/2021/10/help/desktop/begin-rebase-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
-4. Para fazer push das alterações locais, clique em **Origem do push forçado**. ![Force push origin (Forçar push de origem)](/assets/images/help/desktop/force-push-origin.png)
+4. Para fazer push das alterações locais, clique em **Origem do push forçado**. ![Force push origin (Forçar push de origem)](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. Use o menu suspenso **Branch** e clique em **Rebase Current Branch** (Fazer rebase do branch atual). ![Rebase do branch atual na lista suspensa de branches](/assets/images/help/desktop/windows-rebase-current-branch.png)
-2. Clique no branch desejado para fazer rebase com o branch atual. Em seguida, clique em **Start rebase** (Iniciar rebase). ![Botão Start rebase (Iniciar rebase)](/assets/images/help/desktop/start-rebase-button.png)
-3. Se tiver certeza da operação de rebase, clique em **Begin rebase** (Começar rebase). ![Botão Begin rebase (Começar rebase)](/assets/images/help/desktop/begin-rebase-button.png)
+1. Use o menu suspenso **Branch** e clique em **Rebase Current Branch** (Fazer rebase do branch atual). ![Rebase do branch atual na lista suspensa de branches](/assets/images/2021/10/help/desktop/windows-rebase-current-branch.png)
+2. Clique no branch desejado para fazer rebase com o branch atual. Em seguida, clique em **Start rebase** (Iniciar rebase). ![Botão Start rebase (Iniciar rebase)](/assets/images/2021/10/help/desktop/start-rebase-button.png)
+3. Se tiver certeza da operação de rebase, clique em **Begin rebase** (Começar rebase). ![Botão Begin rebase (Começar rebase)](/assets/images/2021/10/help/desktop/begin-rebase-button.png)
 {% data reusables.desktop.resolve-merge-conflicts %}
-4. Para fazer push das alterações locais, clique em **Force push origin** (Forçar push da origem). ![Force push origin (Forçar push de origem)](/assets/images/help/desktop/force-push-origin.png)
+4. Para fazer push das alterações locais, clique em **Force push origin** (Forçar push da origem). ![Force push origin (Forçar push de origem)](/assets/images/2021/10/help/desktop/force-push-origin.png)
 
 {% endwindows %}
 
 ## Fazer combinação por squash e merge de outro branch no branch do seu projeto
 
-1. Use o menu suspenso **Branch** e clique em **Squash e Merge no Branch atual**. ![Combinação por squash e merge no menu suspenso do branch](/assets/images/help/desktop/squash-and-merge-menu.png)
-2. Clique no branch que deseja fazer merge no branch atual e clique em **Combinação por squash e merge**. ![Botão de combinação por squash e merge](/assets/images/help/desktop/squash-and-merge-selection.png)
+1. Use o menu suspenso **Branch** e clique em **Squash e Merge no Branch atual**. ![Combinação por squash e merge no menu suspenso do branch](/assets/images/2021/10/help/desktop/squash-and-merge-menu.png)
+2. Clique no branch que deseja fazer merge no branch atual e clique em **Combinação por squash e merge**. ![Botão de combinação por squash e merge](/assets/images/2021/10/help/desktop/squash-and-merge-selection.png)
    {% note %}
 
    **Observação:** Se houver conflitos de merge, {% data variables.product.prodname_desktop %} avisará você acima do botão **Combinação por squash e merge**. Você não poderá fazer combinação por squash e merge do branch até resolver todos os conflitos.

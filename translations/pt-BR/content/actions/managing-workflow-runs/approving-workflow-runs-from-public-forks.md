@@ -25,4 +25,4 @@ Os mantenedores com acesso de gravação a um repositório podem usar o seguinte
 1. Inspecione as alterações propostas no pull request e certifique-se de que você esteja confortável em executar seus fluxos de trabalho no branch do pull request. Você deve estar especialmente alerta para qualquer mudança proposta no diretório `.github/workflows/` que afete os arquivos do fluxo de trabalho.
 1. Se você estiver confortável em executar fluxos de trabalho no branch do pull request, retorne para a aba {% octicon "comment-discussion" aria-label="The discussion icon" %} **Conversation** e, em "Fluxo de trabalho(s) aguardando aprovação", clique em **Aprovar e executar**.
 
-   ![Aprovar e executar fluxos de trabalho](/assets/images/help/pull_requests/actions-approve-and-run-workflows-from-fork.png)
+   ![Aprovar e executar fluxos de trabalho](/assets/images/2021/10/help/pull_requests/actions-approve-and-run-workflows-from-fork.png)

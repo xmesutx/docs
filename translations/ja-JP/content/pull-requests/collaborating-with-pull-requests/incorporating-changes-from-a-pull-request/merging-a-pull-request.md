@@ -47,9 +47,9 @@ topics:
 {% data reusables.repositories.sidebar-pr %}
 2. [Pull Requests] リストで、マージしたいプルリクエストをクリックします。
 3. リポジトリで有効なマージオプションに応じて、以下の操作が可能です:
-    - [**Merge pull request**] をクリックして、すべてのコミットを[ベース ブランチにマージ](/articles/about-pull-request-merges/)します。 [**Merge pull request**] オプションが表示されない場合は、マージのドロップダウン メニューをクリックして [**Create a merge commit**] をクリックします。 ![[Merge pull request] ボタン](/assets/images/help/pull_requests/pullrequest-mergebutton.png)
-    - [複数のコミットを 1 つのコミットに squash する](/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits)には、マージのドロップダウン メニューをクリックして [**Squash and merge**] を選択し、[**Squash and merge**] ボタンをクリックします。 ![[Squash and merge] ボタンをクリック](/assets/images/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
-    - [コミットを個々にベース ブランチにリベースする](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits)には、マージのドロップダウンをクリックして [**Rebase and merge**] を選択し、[**Rebase and merge**] ボタンをクリックします。 ![ドロップダウン メニューから [Rebase and merge] を選択](/assets/images/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
+    - [**Merge pull request**] をクリックして、すべてのコミットを[ベース ブランチにマージ](/articles/about-pull-request-merges/)します。 [**Merge pull request**] オプションが表示されない場合は、マージのドロップダウン メニューをクリックして [**Create a merge commit**] をクリックします。 ![[Merge pull request] ボタン](/assets/images/2021/10/help/pull_requests/pullrequest-mergebutton.png)
+    - [複数のコミットを 1 つのコミットに squash する](/articles/about-pull-request-merges/#squash-and-merge-your-pull-request-commits)には、マージのドロップダウン メニューをクリックして [**Squash and merge**] を選択し、[**Squash and merge**] ボタンをクリックします。 ![[Squash and merge] ボタンをクリック](/assets/images/2021/10/help/pull_requests/select-squash-and-merge-from-drop-down-menu.png)
+    - [コミットを個々にベース ブランチにリベースする](/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits)には、マージのドロップダウンをクリックして [**Rebase and merge**] を選択し、[**Rebase and merge**] ボタンをクリックします。 ![ドロップダウン メニューから [Rebase and merge] を選択](/assets/images/2021/10/help/pull_requests/select-rebase-and-merge-from-drop-down-menu.png)
 
     {% note %}
 
@@ -59,7 +59,7 @@ topics:
 4. 要求されたら、コミットメッセージを入力するか、デフォルトのメッセージのままにします。
 
    {% data reusables.pull_requests.default-commit-message-squash-merge %}
-   ![Commit messageフィールド](/assets/images/help/pull_requests/merge_box/pullrequest-commitmessage.png)
+   ![Commit messageフィールド](/assets/images/2021/10/help/pull_requests/merge_box/pullrequest-commitmessage.png)
 
 {% data reusables.files.choose-commit-email %}
 

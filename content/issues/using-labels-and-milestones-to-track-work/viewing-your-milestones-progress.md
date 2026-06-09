@@ -18,10 +18,10 @@ shortTitle: View progress to milestone
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 3. In the upper-left corner, click **Milestones**.
-  ![Issues Milestone button](/assets/images/help/issues/issues_milestone_button.png)
+  ![Issues Milestone button](/assets/images/2021/10/help/issues/issues_milestone_button.png)
 4. Select the milestone you wish to see more information about.
 
-![Issues Milestone overview](/assets/images/help/issues/issues_milestone_overview.png)
+![Issues Milestone overview](/assets/images/2021/10/help/issues/issues_milestone_overview.png)
 
 To better manage your project, you can prioritize issues or pull requests within a milestone. For more information, see "[About milestones](/articles/about-milestones#prioritizing-issues-and-pull-requests-in-milestones)."
 

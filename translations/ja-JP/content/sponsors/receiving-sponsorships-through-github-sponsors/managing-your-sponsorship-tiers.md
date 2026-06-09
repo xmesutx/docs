@@ -27,8 +27,8 @@ shortTitle: Manage payment tiers
 {% data reusables.sponsors.navigate-to-sponsor-tiers-tab %}
 1. 初めて層を設定する場合は、提案された層の例を確認して、他のオープンソースコントリビューターが {% data variables.product.prodname_sponsors %} をどのように設定しているかを確認することをお勧めします。 層エディタでカスタマイズ可能な、提案されたドラフト層から始めるかどうかを決めます。
    - 提案された層を使用するには、ドラフト層に含める謝礼を選択します。 次に [**Continue to tier editor**] をクリックします。
-   - ドラフトの提案を使用せずに層を作成するには、[**Skip this step**] をクリックします。 ![[Skip this step] オプションと [Continue to tier editor] ボタン](/assets/images/help/sponsors/tier-editor-button.png)
-1. 必要に応じて、ドラフト層を編集するには、ドラフト層を見つけて [**Edit**] をクリックします。 ![ドラフト層の横にある編集ボタン](/assets/images/help/sponsors/draft-tier-edit.png)
+   - ドラフトの提案を使用せずに層を作成するには、[**Skip this step**] をクリックします。 ![[Skip this step] オプションと [Continue to tier editor] ボタン](/assets/images/2021/10/help/sponsors/tier-editor-button.png)
+1. 必要に応じて、ドラフト層を編集するには、ドラフト層を見つけて [**Edit**] をクリックします。 ![ドラフト層の横にある編集ボタン](/assets/images/2021/10/help/sponsors/draft-tier-edit.png)
 {% data reusables.sponsors.click-add-tier %}
 {% data reusables.sponsors.tier-price-description %}
 {% data reusables.sponsors.add-welcome-message %}
@@ -78,11 +78,11 @@ If you transfer a repository that has been added to a sponsorship tier, sponsors
 {% data reusables.sponsors.edit-tier %}
 1. Select **Grant sponsors access to a private repository**.
 
-   ![Screenshot of checkbox to grant sponsors access to a private repository](/assets/images/help/sponsors/grant-sponsors-access-to-repo-checkbox.png)
+   ![Screenshot of checkbox to grant sponsors access to a private repository](/assets/images/2022/02/help/sponsors/grant-sponsors-access-to-repo-checkbox.png)
 
 1. Select the dropdown menu and click the repository you want to add.
 
-   ![Screenshot of dropdown menu to choose the repository to grant sponsors access to](/assets/images/help/sponsors/grant-sponsors-access-to-repo-dropdown.png)
+   ![Screenshot of dropdown menu to choose the repository to grant sponsors access to](/assets/images/2022/02/help/sponsors/grant-sponsors-access-to-repo-dropdown.png)
 
 {% data reusables.sponsors.tier-update %}
 

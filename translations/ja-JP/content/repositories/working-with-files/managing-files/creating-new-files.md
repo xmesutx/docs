@@ -24,9 +24,9 @@ topics:
 {% data reusables.repositories.navigate-to-repo %}
 2. 自分のリポジトリで、ファイルを作成するフォルダへ移動します。
 {% data reusables.files.add-file %}
-4. ファイル名フィールドにファイル名と拡張子を入力します。 サブディレクトリを作成するには、ディレクトリの区切り文字 `/` を入力します。 ![新しいファイルの名前](/assets/images/help/repository/new-file-name.png)
-5. [**Edit new file**] タブで、ファイルにコンテンツを追加します。 ![新しいファイルのコンテンツ](/assets/images/help/repository/new-file-content.png)
-6. 新しいコンテンツを見直すには、[**Preview**] をクリックします。 ![[New file preview] ボタン](/assets/images/help/repository/new-file-preview.png)
+4. ファイル名フィールドにファイル名と拡張子を入力します。 サブディレクトリを作成するには、ディレクトリの区切り文字 `/` を入力します。 ![新しいファイルの名前](/assets/images/2021/10/help/repository/new-file-name.png)
+5. [**Edit new file**] タブで、ファイルにコンテンツを追加します。 ![新しいファイルのコンテンツ](/assets/images/2021/10/help/repository/new-file-content.png)
+6. 新しいコンテンツを見直すには、[**Preview**] をクリックします。 ![[New file preview] ボタン](/assets/images/2021/10/help/repository/new-file-preview.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}

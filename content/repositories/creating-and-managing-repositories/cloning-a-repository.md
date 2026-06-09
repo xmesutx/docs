@@ -69,10 +69,10 @@ An empty repository contains no files. It's often made if you don't initialize t
 
 {% data reusables.repositories.navigate-to-repo %}
 2. To clone your repository using the command line using HTTPS, under "Quick setup", click {% octicon "clippy" aria-label="The clipboard icon" %}. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click **SSH**, then click {% octicon "clippy" aria-label="The clipboard icon" %}.
-   ![Empty repository clone URL button](/assets/images/help/repository/empty-https-url-clone-button.png)
+   ![Empty repository clone URL button](/assets/images/2021/10/help/repository/empty-https-url-clone-button.png)
 
    Alternatively, to clone your repository in Desktop, click {% octicon "desktop-download" aria-label="The desktop download button" %} **Set up in Desktop** and follow the prompts to complete the clone.
-   ![Empty repository clone desktop button](/assets/images/help/repository/empty-desktop-clone-button.png)
+   ![Empty repository clone desktop button](/assets/images/2021/10/help/repository/empty-desktop-clone-button.png)
 
 {% data reusables.command_line.open_the_multi_os_terminal %}
 {% data reusables.command_line.change-current-directory-clone %}

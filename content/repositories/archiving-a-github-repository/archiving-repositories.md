@@ -50,8 +50,8 @@ You can search for archived repositories. For more information, see "[Searching 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 3. Under "Danger Zone", click **Archive this repository** or **Unarchive this repository**.
-   ![Archive this repository button](/assets/images/help/repository/archive-repository.png)
+   ![Archive this repository button](/assets/images/2021/10/help/repository/archive-repository.png)
 4. Read the warnings.
 5. Type the name of the repository you want to archive or unarchive.
-  ![Archive repository warnings](/assets/images/help/repository/archive-repository-warnings.png)
+  ![Archive repository warnings](/assets/images/2021/10/help/repository/archive-repository-warnings.png)
 6. Click **I understand the consequences, archive this repository**.

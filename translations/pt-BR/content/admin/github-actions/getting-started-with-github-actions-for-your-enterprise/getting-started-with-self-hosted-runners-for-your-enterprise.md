@@ -55,10 +55,10 @@ Primeiro, habilite {% data variables.product.prodname_actions %} para todas as o
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Em "Políticas", selecione **Habilitar para todas as organizações**.
 
-   ![Captura de tela da política "Habilitar para todas as organizações" para {% data variables.product.prodname_actions %}](/assets/images/help/settings/actions-policy-enable-for-all-organizations.png)
+   ![Captura de tela da política "Habilitar para todas as organizações" para {% data variables.product.prodname_actions %}](/assets/images/2022/03/help/settings/actions-policy-enable-for-all-organizations.png)
 1. Selecione **Permitir ações** e **Permitir ações criadas pelo GitHub** para permitir ações e ações locais criadas por {% data variables.product.company_short %}.
 
-   ![Screenshot of "Allow select actions" and "Allow actions created by {% data variables.product.company_short %}" for {% data variables.product.prodname_actions %}](/assets/images/help/settings/actions-policy-allow-select-actions-and-actions-from-github.png)
+   ![Screenshot of "Allow select actions" and "Allow actions created by {% data variables.product.company_short %}" for {% data variables.product.prodname_actions %}](/assets/images/2022/03/help/settings/actions-policy-allow-select-actions-and-actions-from-github.png)
 1. Clique em **Salvar**.
 
 You can configure additional policies to restrict the actions available to {% ifversion ghec or ghae %}enterprise members{% elsif ghes %}users of {% data variables.product.product_location %}{% endif %}. Para obter mais informações, consulte "[Aplicar políticas para {% data variables.product.prodname_actions %} na sua empresa](/admin/policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-actions-in-your-enterprise#allowing-select-actions-to-run)".

@@ -16,11 +16,11 @@ shortTitle: QuickStart
 
 Se você estiver conectado, os resultados dos patrocinadores começarão com dependências públicas das quais seus repositórios dependem.
 
-![O projeto de código aberto Babel com texto destacado que diz "4 dos seus repositórios dependem disso"](/assets/images/help/sponsors/example-of-open-source-project-dependency.png)
+![O projeto de código aberto Babel com texto destacado que diz "4 dos seus repositórios dependem disso"](/assets/images/2021/10/help/sponsors/example-of-open-source-project-dependency.png)
 
 Você também pode alternar qual de suas contas deseja ver os resultados, bem como outros filtros ou pesquisas.
 
-![Opções de busca na página de busca da comunidade de patrocinadores](/assets/images/help/sponsors/sponsors-search-options.png)
+![Opções de busca na página de busca da comunidade de patrocinadores](/assets/images/2021/10/help/sponsors/sponsors-search-options.png)
 
 ## Explore quem as outras pessoas patrocinam
 

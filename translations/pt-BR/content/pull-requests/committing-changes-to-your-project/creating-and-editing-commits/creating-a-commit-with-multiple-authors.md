@@ -39,7 +39,7 @@ Para obter mais informações, consulte "[Setting your commit email address](/ar
 
 Você pode usar o {% data variables.product.prodname_desktop %} para criar um commit com um coautor. Para obter mais informações, consulte "[Escrever uma mensagem do commit e fazer push das alterações](/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project#4-write-a-commit-message-and-push-your-changes)" e [{% data variables.product.prodname_desktop %}](https://desktop.github.com).
 
-![Adicionar um coautor à mensagem do commit](/assets/images/help/desktop/co-authors-demo-hq.gif)
+![Adicionar um coautor à mensagem do commit](/assets/images/2021/10/help/desktop/co-authors-demo-hq.gif)
 
 ## Criar commits coautorados na linha de comando
 
@@ -75,10 +75,10 @@ O novo commit e a mensagem aparecerão no {% data variables.product.product_loca
 Depois que fizer alterações em um arquivo usando o editor web no {% data variables.product.product_name %}, você poderá criar um commit coautorado adicionando um trailer `Co-authored-by:` à mensagem do commit.
 
 {% data reusables.pull_requests.collect-co-author-commit-git-config-info %}
-2. Depois de fazer as alterações juntos, na parte inferior da página, digite uma mensagem de commit curta e significativa que descreve as alterações feitas. ![Mensagem do commit para sua alteração](/assets/images/help/repository/write-commit-message-quick-pull.png)
+2. Depois de fazer as alterações juntos, na parte inferior da página, digite uma mensagem de commit curta e significativa que descreve as alterações feitas. ![Mensagem do commit para sua alteração](/assets/images/2021/10/help/repository/write-commit-message-quick-pull.png)
 3. Na caixa de texto abaixo da mensagem do commit, adicione `Co-authored-by: name <name@example.com>` com informações específicas para cada coautor. Se estiver adicionando vários coautores, dê a cada um a própria linha e o trailer de commit `Co-authored-by:`.
 
-  ![Exemplo de trailer de coautor da mensagem do commit na segunda caixa de texto da mensagem do commit](/assets/images/help/repository/write-commit-message-co-author-trailer.png)
+  ![Exemplo de trailer de coautor da mensagem do commit na segunda caixa de texto da mensagem do commit](/assets/images/2021/10/help/repository/write-commit-message-co-author-trailer.png)
 4. Clique em **Commit changes** (Fazer commit de alterações) ou **Propose changes** (Propor alterações).
 
 O novo commit e a mensagem aparecerão no {% data variables.product.product_location %}.

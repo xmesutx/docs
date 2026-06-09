@@ -72,11 +72,11 @@ Tu bandeja de entrada se configura con filtros predeterminados que representan l
 
 Tu bandeja de entrada muestra las `reasons` (razones) para que recibas notificaciones a modo de etiqueta.
 
-![Etiquetas de razones en la bandeja de entrada](/assets/images/help/notifications-v2/reasons-as-labels-in-inbox.png)
+![Etiquetas de razones en la bandeja de entrada](/assets/images/2021/10/help/notifications-v2/reasons-as-labels-in-inbox.png)
 
 Puedes filtrar tu bandeja de entrada por razón por la cual estás suscrito a notificaciones. Por ejemplo, para ver únicamente solicitudes de extracción en donde alguien solicitó tu revisión, puedes utilizar el filtro de búsqueda `review-requested` (revisión solicitada).
 
-![Filtrar notificaciones por revisión de la razón solicitada](/assets/images/help/notifications-v2/review-requested-reason.png)
+![Filtrar notificaciones por revisión de la razón solicitada](/assets/images/2021/10/help/notifications-v2/review-requested-reason.png)
 
 Si configuraste las notificaciones para que se enviaran por correo electrónico y crees que estás recibiendo notificaciones que no te pertenecen, considera dar solución a los problemas especificando el tema en los encabezados de correo electrónico que muestren el receptor al que se pretende llegar. Para obtener más información, consulta la sección "[Configurar notificaciones](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications)".
 

@@ -37,8 +37,8 @@ A autenticação integrada para um IdP específico fica desabilitada por padrão
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
 4. Selecione seu provedor de identidade. ![Opção Select identity provider (Selecionar provedor de identidade)
-](/assets/images/enterprise/management-console/identity-provider-select.gif)
-5. Selecione **Allow creation of accounts with built-in authentication** (Permitir a criação de contas com autenticação integrada). ![Opção Select built-in authentication (Selecionar autenticação integrada)](/assets/images/enterprise/management-console/built-in-auth-identity-provider-select.png)
+](/assets/images/2021/10/enterprise/management-console/identity-provider-select.gif)
+5. Selecione **Allow creation of accounts with built-in authentication** (Permitir a criação de contas com autenticação integrada). ![Opção Select built-in authentication (Selecionar autenticação integrada)](/assets/images/2021/10/enterprise/management-console/built-in-auth-identity-provider-select.png)
 6. Leia o aviso e clique em **Ok**.
 
 {% data reusables.enterprise_user_management.two_factor_auth_header %}

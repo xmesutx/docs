@@ -19,7 +19,7 @@ O {% data variables.product.product_name %} cria links automaticamente de URLs p
 
 `Visite https://github.com`
 
-![URL vinculado automaticamente renderizado](/assets/images/help/writing/url-autolink-rendered.png)
+![URL vinculado automaticamente renderizado](/assets/images/2021/10/help/writing/url-autolink-rendered.png)
 
 Para obter mais informações sobre como criar links, consulte "[Sintaxe básica de gravação e formatação](/articles/basic-writing-and-formatting-syntax/#links)".
 

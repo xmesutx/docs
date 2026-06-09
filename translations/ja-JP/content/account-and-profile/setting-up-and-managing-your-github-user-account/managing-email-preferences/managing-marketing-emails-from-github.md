@@ -24,8 +24,8 @@ shortTitle: マーケティングメール
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
-3. [*Email preferences*] で、[**Only receive account related emails, and those I subscribe to**] を選択します。 ![マーケティング メールをオプトアウトする画面](/assets/images/help/notifications/email_preferences.png)
-4. [**Save email preferences**] をクリックします。 ![[Save email preferences] ボタン](/assets/images/help/notifications/save_email_preferences.png)
+3. [*Email preferences*] で、[**Only receive account related emails, and those I subscribe to**] を選択します。 ![マーケティング メールをオプトアウトする画面](/assets/images/2021/10/help/notifications/email_preferences.png)
+4. [**Save email preferences**] をクリックします。 ![[Save email preferences] ボタン](/assets/images/2021/10/help/notifications/save_email_preferences.png)
 
 ## 参考リンク
 

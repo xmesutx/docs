@@ -10,9 +10,9 @@ versions:
 {% mac %}
 
 1. In the **GitHub Desktop** menu, click **About GitHub Desktop**.
-![About GitHub Desktop menu option](/assets/images/help/desktop/desktop-menu-about-desktop-mac.png)
+![About GitHub Desktop menu option](/assets/images/2021/10/help/desktop/desktop-menu-about-desktop-mac.png)
 2. Click **Check for Updates**.
-![Check for Updates button](/assets/images/help/desktop/check-for-updates.png)
+![Check for Updates button](/assets/images/2021/10/help/desktop/check-for-updates.png)
 3. If an update is available, quit and relaunch {% data variables.product.prodname_desktop %} to install the update.
 
 {% endmac %}
@@ -20,9 +20,9 @@ versions:
 {% windows %}
 
 1. In the **Help** menu, click **About GitHub Desktop**.
-![About GitHub Desktop menu option](/assets/images/help/desktop/help-about-desktop-win.png)
+![About GitHub Desktop menu option](/assets/images/2021/10/help/desktop/help-about-desktop-win.png)
 2. Click **Check for Updates**.
-![Check for Updates button](/assets/images/help/desktop/check-for-updates.png)
+![Check for Updates button](/assets/images/2021/10/help/desktop/check-for-updates.png)
 3. If an update is available, quit and relaunch {% data variables.product.prodname_desktop %} to install the update.
 
 {% endwindows %}

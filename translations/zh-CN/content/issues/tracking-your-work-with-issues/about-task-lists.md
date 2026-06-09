@@ -43,7 +43,7 @@ topics:
 - 如果任务需要进一步跟踪或讨论，您可以通过在任务上方悬停并单击任务右上角的 {% octicon "issue-opened" aria-label="The issue opened icon" %} 将任务转换为议题。 要在创建议题之前添加更多详细信息，您可以使用键盘快捷方式打开新议题表单。 更多信息请参阅“[键盘快捷键](/github/getting-started-with-github/using-github/keyboard-shortcuts#issues-and-pull-requests)”。
 - 任务列表中提及的任何议题都将指定在引用议题中跟踪它们。
 
-![渲染的任务列表](/assets/images/help/writing/task-list-rendered.png)
+![渲染的任务列表](/assets/images/2021/10/help/writing/task-list-rendered.png)
 
 {% endif %}
 
@@ -61,8 +61,8 @@ topics:
 
 您可以单击任务左边的复选框并将任务拖放至新位置，对任务列表中的项目重新排序。 您可以在相同的评论中对不同列表中的任务重新排序，但是不能在不同的评论中重新排序任务。
 
-{% ifversion fpt %} ![重新排序的任务列表](/assets/images/help/writing/task-list-reordered.gif)
-{% else %} ![Reordered task list](/assets/images/enterprise/writing/task-lists-reorder.gif) {% endif %}
+{% ifversion fpt %} ![重新排序的任务列表](/assets/images/2021/10/help/writing/task-list-reordered.gif)
+{% else %} ![Reordered task list](/assets/images/2021/11/enterprise/writing/task-lists-reorder.gif) {% endif %}
 
 {% ifversion fpt %}
 
@@ -70,7 +70,7 @@ topics:
 
 任务列表中引用的任何议题都指定它们被包含任务列表的议题跟踪。 要从跟踪的议题导航到跟踪议题，请单击议题状态旁边的 **Tracked in（已跟踪）**中的跟踪议题编号。
 
-![跟踪示例](/assets/images/help/writing/task_list_tracked.png)
+![跟踪示例](/assets/images/2021/10/help/writing/task_list_tracked.png)
 
 {% endif %}
 

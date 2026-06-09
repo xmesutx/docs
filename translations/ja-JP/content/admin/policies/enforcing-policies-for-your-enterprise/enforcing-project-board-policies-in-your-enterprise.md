@@ -33,7 +33,7 @@ Across all organizations owned by your enterprise, you can enable or disable org
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. [Organization projects] で、設定変更についての情報を読みます。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. [Organization projects] で、ドロップダウンメニューを使用してポリシーを選択します。 ![Organization プロジェクトボード ポリシー オプションのドロップダウンメニュー](/assets/images/help/business-accounts/organization-projects-policy-drop-down.png)
+5. [Organization projects] で、ドロップダウンメニューを使用してポリシーを選択します。 ![Organization プロジェクトボード ポリシー オプションのドロップダウンメニュー](/assets/images/2021/10/help/business-accounts/organization-projects-policy-drop-down.png)
 
 ## リポジトリのプロジェクトボードでのポリシーを施行する
 
@@ -43,4 +43,4 @@ Across all organizations owned by your enterprise, you can enable or disable rep
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.projects-tab %}
 4. [Repository projects で、設定変更についての情報を確認します。 {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
-5. [Repository projects] で、ドロップダウンメニューを使用してポリシーを選択します。 ![リポジトリのプロジェクトボード ポリシー オプションのドロップダウンメニュー](/assets/images/help/business-accounts/repository-projects-policy-drop-down.png)
+5. [Repository projects] で、ドロップダウンメニューを使用してポリシーを選択します。 ![リポジトリのプロジェクトボード ポリシー オプションのドロップダウンメニュー](/assets/images/2021/10/help/business-accounts/repository-projects-policy-drop-down.png)

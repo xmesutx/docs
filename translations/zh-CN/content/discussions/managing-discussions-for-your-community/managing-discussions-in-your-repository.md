@@ -36,8 +36,8 @@ shortTitle: 管理讨论
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 在右侧边栏中“Category（类别）”的右侧，单击 {% octicon "gear" aria-label="The gear icon" %}。 ![带齿轮图标的"类别"](/assets/images/help/discussions/category-in-sidebar.png)
-1. 单击一个类别。 !["更改类别"下拉菜单](/assets/images/help/discussions/change-category-drop-down.png)
+1. 在右侧边栏中“Category（类别）”的右侧，单击 {% octicon "gear" aria-label="The gear icon" %}。 ![带齿轮图标的"类别"](/assets/images/2021/10/help/discussions/category-in-sidebar.png)
+1. 单击一个类别。 !["更改类别"下拉菜单](/assets/images/2021/10/help/discussions/change-category-drop-down.png)
 
 ## 固定讨论
 
@@ -46,9 +46,9 @@ shortTitle: 管理讨论
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 在右侧边栏中，单击 {% octicon "pin" aria-label="The pin icon" %} **Pin discussion（固定讨论）**。 ![讨论右侧边栏中的"固定讨论"](/assets/images/help/discussions/click-pin-discussion.png)
-1. （可选）自定义固定讨论的外观。 ![固定讨论的自定义选项](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. 单击 **Pin discussion（固定讨论）**。 ![固定的讨论自定义选项下的"固定讨论"按钮](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. 在右侧边栏中，单击 {% octicon "pin" aria-label="The pin icon" %} **Pin discussion（固定讨论）**。 ![讨论右侧边栏中的"固定讨论"](/assets/images/2021/10/help/discussions/click-pin-discussion.png)
+1. （可选）自定义固定讨论的外观。 ![固定讨论的自定义选项](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. 单击 **Pin discussion（固定讨论）**。 ![固定的讨论自定义选项下的"固定讨论"按钮](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## 编辑固定的讨论
 
@@ -57,17 +57,17 @@ shortTitle: 管理讨论
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 在右侧侧边栏中，单击 {% octicon "pencil" aria-label="The pencil icon" %} **Edit pinned discussion（编辑固定的讨论）**。 ![讨论右侧边栏中的"编辑固定的讨论"](/assets/images/help/discussions/click-edit-pinned-discussion.png)
-1. 自定义固定的讨论的外观。 ![固定讨论的自定义选项](/assets/images/help/discussions/customize-pinned-discussion.png)
-1. 单击 **Pin discussion（固定讨论）**。 ![固定的讨论自定义选项下的"固定讨论"按钮](/assets/images/help/discussions/click-pin-discussion-button.png)
+1. 在右侧侧边栏中，单击 {% octicon "pencil" aria-label="The pencil icon" %} **Edit pinned discussion（编辑固定的讨论）**。 ![讨论右侧边栏中的"编辑固定的讨论"](/assets/images/2021/10/help/discussions/click-edit-pinned-discussion.png)
+1. 自定义固定的讨论的外观。 ![固定讨论的自定义选项](/assets/images/2021/10/help/discussions/customize-pinned-discussion.png)
+1. 单击 **Pin discussion（固定讨论）**。 ![固定的讨论自定义选项下的"固定讨论"按钮](/assets/images/2021/10/help/discussions/click-pin-discussion-button.png)
 
 ## 取消固定讨论
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 在右侧边栏中，单击 {% octicon "pin" aria-label="The pin icon" %} **Unpin discussion（取消固定讨论）**。 ![讨论右侧边栏中的"取消固定讨论"](/assets/images/help/discussions/click-unpin-discussion.png)
-1. 阅读警告，然后单击 **Unpin discussion（取消固定讨论）**。 ![模式中警告下方的"取消固定讨论"按钮](/assets/images/help/discussions/click-unpin-discussion-button.png)
+1. 在右侧边栏中，单击 {% octicon "pin" aria-label="The pin icon" %} **Unpin discussion（取消固定讨论）**。 ![讨论右侧边栏中的"取消固定讨论"](/assets/images/2021/10/help/discussions/click-unpin-discussion.png)
+1. 阅读警告，然后单击 **Unpin discussion（取消固定讨论）**。 ![模式中警告下方的"取消固定讨论"按钮](/assets/images/2021/10/help/discussions/click-unpin-discussion-button.png)
 
 ## 转让讨论
 
@@ -76,17 +76,17 @@ shortTitle: 管理讨论
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 在右侧边栏中，单击 {% octicon "arrow-right" aria-label="The right arrow icon" %} **Transfer discussion（转让讨论）**。 ![讨论右侧边栏中的"转让讨论"](/assets/images/help/discussions/click-transfer-discussion.png)
-1. 选择 **Choose a repository（选择仓库）**下拉菜单，并单击讨论要转让到的仓库。 !["选择仓库"下拉列表、"查找仓库"搜索字段以及列表中的仓库](/assets/images/help/discussions/use-choose-a-repository-drop-down.png)
-1. 单击 **Transfer discussion（转让讨论）**。 !["转让讨论"按钮](/assets/images/help/discussions/click-transfer-discussion-button.png)
+1. 在右侧边栏中，单击 {% octicon "arrow-right" aria-label="The right arrow icon" %} **Transfer discussion（转让讨论）**。 ![讨论右侧边栏中的"转让讨论"](/assets/images/2021/10/help/discussions/click-transfer-discussion.png)
+1. 选择 **Choose a repository（选择仓库）**下拉菜单，并单击讨论要转让到的仓库。 !["选择仓库"下拉列表、"查找仓库"搜索字段以及列表中的仓库](/assets/images/2021/10/help/discussions/use-choose-a-repository-drop-down.png)
+1. 单击 **Transfer discussion（转让讨论）**。 !["转让讨论"按钮](/assets/images/2021/10/help/discussions/click-transfer-discussion-button.png)
 
 ## 删除讨论
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.discussions.discussions-tab %}
 {% data reusables.discussions.click-discussion-in-list %}
-1. 在右侧边栏中，单击 {% octicon "trash" aria-label="The trash arrow icon" %} **Delete discussion（删除讨论）**。 ![讨论右侧边栏中的"删除讨论"](/assets/images/help/discussions/click-delete-discussion.png)
-1. 阅读警告，然后单击 **Delete this discussion（删除此讨论）**。 ![模式中警告下方的"删除此讨论"按钮](/assets/images/help/discussions/click-delete-this-discussion-button.png)
+1. 在右侧边栏中，单击 {% octicon "trash" aria-label="The trash arrow icon" %} **Delete discussion（删除讨论）**。 ![讨论右侧边栏中的"删除讨论"](/assets/images/2021/10/help/discussions/click-delete-discussion.png)
+1. 阅读警告，然后单击 **Delete this discussion（删除此讨论）**。 ![模式中警告下方的"删除此讨论"按钮](/assets/images/2021/10/help/discussions/click-delete-this-discussion-button.png)
 
 ## 基于标签转换议题
 

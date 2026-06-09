@@ -39,7 +39,7 @@ Nota que, aún si tienes un job ejecutándose en segundo plano, GitHub sigue esp
 
 Cada webhook tiene su propia sección de "Entregas Recientes", la cual lista si los despliegues tuvieron éxito o no.
 
-![Vista de entregas recientes](/assets/images/webhooks_recent_deliveries.png)
+![Vista de entregas recientes](/assets/images/2021/10/webhooks_recent_deliveries.png)
 
 Deberías utilizar códigos de estado de HTTP adecuados para informar a los usuarios. Puedes utilizar códigos como el `201` o el `202` para reconocer la recepción de las cargas útiles que no se van a procesar (por ejemplo, una carga útil que entregue una rama que no sea la predeterminada). Reserva el código de error `500` para las fallas catastróficas.
 
@@ -47,7 +47,7 @@ Deberías utilizar códigos de estado de HTTP adecuados para informar a los usua
 
 Los usuarios pueden profundizar en las respuestas del servidor que envíes de vuelta a GitHub. Asegúrate de que tus mensajes son claros e informativos.
 
-![Visualizar la respuesta de una carga útil](/assets/images/payload_response_tab.png)
+![Visualizar la respuesta de una carga útil](/assets/images/2021/10/payload_response_tab.png)
 
 ## Sigue cualquier redireccionamiento que te envíe la API
 

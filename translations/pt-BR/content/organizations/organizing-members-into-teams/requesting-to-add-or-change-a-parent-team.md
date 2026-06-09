@@ -24,12 +24,12 @@ Se você for proprietário da organização ou tiver permissões de mantenedor d
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. Na lista de equipes, clique no nome da equipe que deseja aninhar abaixo de uma equipe principal. ![Lista das equipes da organização](/assets/images/help/teams/click-team-name.png)
+4. Na lista de equipes, clique no nome da equipe que deseja aninhar abaixo de uma equipe principal. ![Lista das equipes da organização](/assets/images/2021/10/help/teams/click-team-name.png)
 {% data reusables.organizations.team_settings %}
-6. Em "Parent team" (Equipe principal), use o menu suspenso "Select parent team" (Selecionar equipe principal) e clique no nome da nova equipe principal. ![Menu suspenso listando as equipes da organização](/assets/images/help/teams/choose-parent-team.png)
+6. Em "Parent team" (Equipe principal), use o menu suspenso "Select parent team" (Selecionar equipe principal) e clique no nome da nova equipe principal. ![Menu suspenso listando as equipes da organização](/assets/images/2021/10/help/teams/choose-parent-team.png)
 7. Clique em **Save changes** (Salvar alterações).
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. Clique em **Confirm changes** (Confirmar alterações) para enviar uma solicitação de adição ou alteração da equipe principal. ![Caixa de diálogo modal com informações sobre as alterações nas permissões de acesso ao repositório](/assets/images/help/teams/confirm-new-parent-team.png)
+9. Clique em **Confirm changes** (Confirmar alterações) para enviar uma solicitação de adição ou alteração da equipe principal. ![Caixa de diálogo modal com informações sobre as alterações nas permissões de acesso ao repositório](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## Leia mais
 

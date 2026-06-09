@@ -32,7 +32,7 @@ Across all organizations owned by your enterprise, you can enable or disable tea
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.policies-tab %}
 3. In the left sidebar, click **Teams**.
-  ![Teams tab in the enterprise sidebar](/assets/images/help/business-accounts/settings-teams-tab.png)
+  ![Teams tab in the enterprise sidebar](/assets/images/2021/10/help/business-accounts/settings-teams-tab.png)
 4. Under "Team discussions", review the information about changing the setting. {% data reusables.enterprise-accounts.view-current-policy-config-orgs %}
 5. Under "Team discussions", use the drop-down menu and choose a policy.
-  ![Drop-down menu with team discussion policy options](/assets/images/help/business-accounts/team-discussion-policy-drop-down.png)
+  ![Drop-down menu with team discussion policy options](/assets/images/2021/10/help/business-accounts/team-discussion-policy-drop-down.png)

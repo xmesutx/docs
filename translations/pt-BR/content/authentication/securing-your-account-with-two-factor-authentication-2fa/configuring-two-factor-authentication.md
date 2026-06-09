@@ -57,20 +57,20 @@ Um aplicativo de senhas avulsas por tempo limitado (TOTP, Time-based One-Time Pa
 5. Em "Autenticação de dois fatores", selecione **Configurar usando um aplicativo** e clique em **Continuar**.
 6. Em "Verificação de autenticação", siga um dos passos abaixo:
     - Faça a leitura do código QR com o app do dispositivo móvel. Após a leitura, o app exibirá um código de seis dígitos que pode ser inserido no {% data variables.product.product_name %}.
-    - Se você não puder ler o código QR, clique em **Insira este código de texto** para ver um código que você pode inserir manualmente no seu aplicativo TOTP. ![Clique para inserir este código](/assets/images/help/2fa/2fa_wizard_app_click_code.png)
-7. O aplicativo móvel TOTP salva a sua conta em {% data variables.product.product_location %} e gera um novo código de autenticação a cada poucos segundos. Em {% data variables.product.product_name %}, digite o código no campo em "Insira o código de seis dígitos no aplicativo". Se seus códigos de recuperação não forem exibidos automaticamente, clique em **Continuar**. ![TOTP inserir o campo do código](/assets/images/help/2fa/2fa_wizard_app_enter_code.png)
+    - Se você não puder ler o código QR, clique em **Insira este código de texto** para ver um código que você pode inserir manualmente no seu aplicativo TOTP. ![Clique para inserir este código](/assets/images/2021/10/help/2fa/2fa_wizard_app_click_code.png)
+7. O aplicativo móvel TOTP salva a sua conta em {% data variables.product.product_location %} e gera um novo código de autenticação a cada poucos segundos. Em {% data variables.product.product_name %}, digite o código no campo em "Insira o código de seis dígitos no aplicativo". Se seus códigos de recuperação não forem exibidos automaticamente, clique em **Continuar**. ![TOTP inserir o campo do código](/assets/images/2021/10/help/2fa/2fa_wizard_app_enter_code.png)
 {% data reusables.two_fa.save_your_recovery_codes_during_2fa_setup %}
 {%- else %}
 5. Na página de autenticação de dois fatores, clique em **Set up using an app** (Configurar usando um app).
 6. Salve os códigos de recuperação em um local seguro. Seus códigos de recuperação podem ajudar você a ter acesso novamente à sua conta no caso de perda do acesso.
     - Para salvar os códigos de recuperação no dispositivo, clique em **Download** (Baixar).
     - Para salvar uma cópia impressa dos códigos de recuperação, clique em **Print** (Imprimir).
-    - Para copiar os códigos de recuperação para armazenamento em um gerenciador de senhas, clique em **Copy** (Copiar). ![Lista de códigos de recuperação com opção para baixar, imprimir ou copiar os códigos](/assets/images/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
+    - Para copiar os códigos de recuperação para armazenamento em um gerenciador de senhas, clique em **Copy** (Copiar). ![Lista de códigos de recuperação com opção para baixar, imprimir ou copiar os códigos](/assets/images/2021/10/help/2fa/download-print-or-copy-recovery-codes-before-continuing.png)
 7. Depois de salvar os seus códigos de recuperação de dois fatores, clique em **Próximo**.
 8. Na página de autenticação de dois fatores, siga um destes procedimentos:
     - Faça a leitura do código QR com o app do dispositivo móvel. Após a leitura, o app exibirá um código de seis dígitos que pode ser inserido no {% data variables.product.product_name %}.
-    - Se não for possível ler o código QR, clique em **enter this text code** (digite este código de texto) para ver um código que pode ser copiado e inserido manualmente no {% data variables.product.product_name %}. ![Clique para inserir este código](/assets/images/help/2fa/totp-click-enter-code.png)
-9. O aplicativo móvel TOTP salva a sua conta em {% data variables.product.product_location %} e gera um novo código de autenticação a cada poucos segundos. Na página de 2FA do {% data variables.product.product_name %}, digite o código e clique em **Enable** (Habilitar). ![Campo para habilitar TOTP](/assets/images/help/2fa/totp-enter-code.png)
+    - Se não for possível ler o código QR, clique em **enter this text code** (digite este código de texto) para ver um código que pode ser copiado e inserido manualmente no {% data variables.product.product_name %}. ![Clique para inserir este código](/assets/images/2021/10/help/2fa/totp-click-enter-code.png)
+9. O aplicativo móvel TOTP salva a sua conta em {% data variables.product.product_location %} e gera um novo código de autenticação a cada poucos segundos. Na página de 2FA do {% data variables.product.product_name %}, digite o código e clique em **Enable** (Habilitar). ![Campo para habilitar TOTP](/assets/images/2021/10/help/2fa/totp-enter-code.png)
 {%- endif %}
 {% data reusables.two_fa.test_2fa_immediately %}
 
@@ -94,11 +94,11 @@ Antes de usar esse método, certifique-se de que é possível receber mensagens 
 4. Em "Autenticação de dois fatores", selecione **Configurar usando SMS** e clique em **Continuar**.
 5. Em "Verificação de autenticação", selecione o código do seu país e digite seu número de telefone celular, incluindo o código de área. Confirme se as informações estão corretas e clique em **Send authentication code** (Enviar código de autenticação).
 
-  ![Tela de SMS da 2FA](/assets/images/help/2fa/2fa_wizard_sms_send.png)
+  ![Tela de SMS da 2FA](/assets/images/2021/10/help/2fa/2fa_wizard_sms_send.png)
 
 6. Você receberá uma mensagem de texto com um código de segurança. Em {% data variables.product.product_name %}, digite o código no campo em "Insira o código de seis dígitos enviado para o seu telefone" e clique em **Continuar**.
 
-  ![Campo para continuação de SMS por 2FA](/assets/images/help/2fa/2fa_wizard_sms_enter_code.png)
+  ![Campo para continuação de SMS por 2FA](/assets/images/2021/10/help/2fa/2fa_wizard_sms_enter_code.png)
 {% data reusables.two_fa.save_your_recovery_codes_during_2fa_setup %}
 {% data reusables.two_fa.test_2fa_immediately %}
 
@@ -116,11 +116,11 @@ A autenticação com uma chave de segurança é *uma alternativa* à autenticaç
 2. Certifique-se de que você tem uma chave de segurança compatível com o WebAuthn inserido em seu computador.
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-5. Ao lado de "Security keys" (Chaves de segurança), clique em **Add** (Adicionar). ![Opção para adicionar chaves de segurança](/assets/images/help/2fa/add-security-keys-option.png)
-6. Em "Security keys" (Chaves de segurança), clique em **Register new security key** (Registrar nova chave de segurança). ![Registrar uma nova chave de segurança](/assets/images/help/2fa/security-key-register.png)
-7. Digite um apelido para a chave de segurança e clique em **Add** (Adicionar). ![Fornecer um apelido para uma chave de segurança](/assets/images/help/2fa/security-key-nickname.png)
-8. Ative a chave de segurança seguindo as orientações na documentação da sua chave de segurança. ![Solicitação de chave de segurança](/assets/images/help/2fa/security-key-prompt.png)
-9.  Verifique se você baixou e pode acessar os códigos de recuperação. Se ainda não os baixou ou se deseja gerar outro conjunto de códigos, baixe seus códigos e salve-os em um local seguro. Caso perca o acesso à sua conta, é possível usar os códigos de recuperação para voltar a ela. Para obter mais informações, consulte "[Recuperar sua conta se você perder as credenciais da 2FA](/articles/recovering-your-account-if-you-lose-your-2fa-credentials)". ![Botão para download de códigos de recuperação](/assets/images/help/2fa/2fa-recover-during-setup.png)
+5. Ao lado de "Security keys" (Chaves de segurança), clique em **Add** (Adicionar). ![Opção para adicionar chaves de segurança](/assets/images/2021/10/help/2fa/add-security-keys-option.png)
+6. Em "Security keys" (Chaves de segurança), clique em **Register new security key** (Registrar nova chave de segurança). ![Registrar uma nova chave de segurança](/assets/images/2021/10/help/2fa/security-key-register.png)
+7. Digite um apelido para a chave de segurança e clique em **Add** (Adicionar). ![Fornecer um apelido para uma chave de segurança](/assets/images/2021/10/help/2fa/security-key-nickname.png)
+8. Ative a chave de segurança seguindo as orientações na documentação da sua chave de segurança. ![Solicitação de chave de segurança](/assets/images/2021/10/help/2fa/security-key-prompt.png)
+9.  Verifique se você baixou e pode acessar os códigos de recuperação. Se ainda não os baixou ou se deseja gerar outro conjunto de códigos, baixe seus códigos e salve-os em um local seguro. Caso perca o acesso à sua conta, é possível usar os códigos de recuperação para voltar a ela. Para obter mais informações, consulte "[Recuperar sua conta se você perder as credenciais da 2FA](/articles/recovering-your-account-if-you-lose-your-2fa-credentials)". ![Botão para download de códigos de recuperação](/assets/images/2021/10/help/2fa/2fa-recover-during-setup.png)
 {% data reusables.two_fa.test_2fa_immediately %}
 
 {% ifversion fpt or ghec %}

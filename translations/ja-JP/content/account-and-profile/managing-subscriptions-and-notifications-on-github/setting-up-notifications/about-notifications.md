@@ -72,11 +72,11 @@ You can customize and schedule push notifications in the {% data variables.produ
 
 インボックスには、通知の受信 `reasons`（理由）がラベルとして表示されます。
 
-![インボックスの理由ラベル](/assets/images/help/notifications-v2/reasons-as-labels-in-inbox.png)
+![インボックスの理由ラベル](/assets/images/2021/10/help/notifications-v2/reasons-as-labels-in-inbox.png)
 
 通知をサブスクライブしている理由でインボックスをフィルタできます。 たとえば、レビューがリクエストされたプルリクエストのみを表示するには、`review-requested` クエリフィルタを使用できます。
 
-![レビューをリクエストした理由で通知をフィルタ](/assets/images/help/notifications-v2/review-requested-reason.png)
+![レビューをリクエストした理由で通知をフィルタ](/assets/images/2021/10/help/notifications-v2/review-requested-reason.png)
 
 通知をメール送信するように設定していて、自分宛ではない通知を受信していると思われる場合は、正しい受信者を示すメールヘッダを使用したトラブルシューティングを検討してください。 詳しい情報については、「[通知を設定する](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications)」を参照してください。
 

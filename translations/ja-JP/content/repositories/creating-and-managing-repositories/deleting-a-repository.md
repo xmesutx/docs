@@ -33,7 +33,7 @@ Some deleted repositories can be restored within 90 days of deletion. {% ifversi
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-2. [Danger Zone] の [**Delete this repository**] をクリックします。 ![リポジトリの削除ボタン](/assets/images/help/repository/repo-delete.png)
+2. [Danger Zone] の [**Delete this repository**] をクリックします。 ![リポジトリの削除ボタン](/assets/images/2021/10/help/repository/repo-delete.png)
 3. **警告を読みます**。
-4. 削除しようとしているリポジトリに間違いがないことを確認するために、削除対象のリポジトリ名を入力します。 ![削除ラベル](/assets/images/help/repository/repo-delete-confirmation.png)
+4. 削除しようとしているリポジトリに間違いがないことを確認するために、削除対象のリポジトリ名を入力します。 ![削除ラベル](/assets/images/2021/10/help/repository/repo-delete-confirmation.png)
 5. [**I understand the consequences, delete this repository**] をクリックします。

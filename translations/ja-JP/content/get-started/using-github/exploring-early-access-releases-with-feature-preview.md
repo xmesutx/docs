@@ -28,4 +28,4 @@ shortTitle: Feature preview
 ベータ版で利用可能な機能のリストと各機能の簡単な説明を確認することができます。 各機能には、フィードバックを提供するリンクが含まれています。
 
 {% data reusables.feature-preview.feature-preview-setting  %}
-2. 必要に応じて、機能の右側で、[**Enable**] または [**Disable**] をクリックします。 ![機能プレビューの [Enable] ボタン](/assets/images/help/settings/enable-feature-button.png)
+2. 必要に応じて、機能の右側で、[**Enable**] または [**Disable**] をクリックします。 ![機能プレビューの [Enable] ボタン](/assets/images/2021/10/help/settings/enable-feature-button.png)

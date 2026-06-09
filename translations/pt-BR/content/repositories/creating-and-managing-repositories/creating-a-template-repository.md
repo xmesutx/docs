@@ -28,4 +28,4 @@ Depois de fazer o seu repositório um modelo, qualquer pessoa com acesso ao repo
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-1. Selecione **Template repository** (Repositório de modelos). ![Caixa de seleção para transformar um repositório em modelo](/assets/images/help/repository/template-repository-checkbox.png)
+1. Selecione **Template repository** (Repositório de modelos). ![Caixa de seleção para transformar um repositório em modelo](/assets/images/2021/10/help/repository/template-repository-checkbox.png)

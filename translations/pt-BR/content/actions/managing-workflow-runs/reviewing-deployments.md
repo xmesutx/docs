@@ -19,8 +19,8 @@ Para obter mais informações sobre ambientes e aprovações necessárias, consu
 ## Aprovar ou rejeitar um trabalho
 
 1. Acesse a execução do fluxo de trabalho que requer revisão. Para obter mais informações sobre navegação até uma execução do fluxo de trabalho, consulte "[Visualizar histórico de execução de fluxo de trabalho](/actions/managing-workflow-runs/viewing-workflow-run-history)".
-2. Clique em **Revisar implantações**. ![Revisar implantações](/assets/images/actions-review-deployments.png)
-3. Selecione o(s) ambiente(s) de trabalho a serem aprovados ou rejeitados. Opcionalmente, deixe um comentário. ![Aprovar implantações](/assets/images/actions-approve-deployments.png)
+2. Clique em **Revisar implantações**. ![Revisar implantações](/assets/images/2021/10/actions-review-deployments.png)
+3. Selecione o(s) ambiente(s) de trabalho a serem aprovados ou rejeitados. Opcionalmente, deixe um comentário. ![Aprovar implantações](/assets/images/2021/10/actions-approve-deployments.png)
 4. Aprovar ou rejeitar:
    - Para aprovar o trabalho, clique em **Aprovar e implantar**. Assim que um trabalho for aprovado (e quaisquer outras regras de proteção do ambiente serem aprovadas), o trabalho prosseguirá. Nesta altura, o trabalho pode acessar quaisquer segredos armazenados no ambiente.
    - Para rejeitar o trabalho, clique em **Rejeitar**. Se um trabalho for rejeitado, o fluxo de trabalho falhará.

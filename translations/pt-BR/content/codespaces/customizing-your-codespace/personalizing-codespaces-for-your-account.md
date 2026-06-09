@@ -35,7 +35,7 @@ A sincronização de configurações permite que você compartilhe configuraçõ
 
 Para habilitar a sincronização de configurações, no canto inferior esquerdo da barra de atividades, selecione {% octicon "gear" aria-label="The gear icon" %} e clique **Habilitar as configurações de sincronização…**. Na caixa de diálogo, selecione as configurações que você deseja sincronizar.
 
-![Opção de configuração de sincronização no menu de gerenciamento](/assets/images/help/codespaces/codespaces-manage-settings-sync.png)
+![Opção de configuração de sincronização no menu de gerenciamento](/assets/images/2021/10/help/codespaces/codespaces-manage-settings-sync.png)
 
 Para obter mais informações, consulte o [Guia de sincronização de configurações](https://code.visualstudio.com/docs/editor/settings-sync) na documentação de {% data variables.product.prodname_vscode %}.
 
@@ -80,8 +80,8 @@ Você pode usar o repositório de Dotfiles selecionado para personalizar seu amb
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.codespaces-tab %}
-1. Em "Dotfiles", selecione **Instalar dotfiles automaticamente** para que {% data variables.product.prodname_codespaces %} instale automaticamente seus dotfiles em cada novo codespace que você criar. ![Instalando dotfiles](/assets/images/help/codespaces/install-custom-dotfiles.png)
-2. Escolha o repositório no qual você deseja instalar dotfiles. ![Selecionando um repositório de dotfiles](/assets/images/help/codespaces/select-dotfiles-repo.png)
+1. Em "Dotfiles", selecione **Instalar dotfiles automaticamente** para que {% data variables.product.prodname_codespaces %} instale automaticamente seus dotfiles em cada novo codespace que você criar. ![Instalando dotfiles](/assets/images/2021/12/help/codespaces/install-custom-dotfiles.png)
+2. Escolha o repositório no qual você deseja instalar dotfiles. ![Selecionando um repositório de dotfiles](/assets/images/2021/12/help/codespaces/select-dotfiles-repo.png)
 
 Você pode adicionar mais script, preferências e arquivos de configuração ao repositório de dotfiles ou editar arquivos existentes sempre que quiser. As alterações nas configurações só serão selecionadas por novos codespaces.
 

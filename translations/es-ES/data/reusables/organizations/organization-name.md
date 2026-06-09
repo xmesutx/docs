@@ -1,1 +1,1 @@
-1. Debajo de "Nombre de cuenta organizacional", teclea un nombre para tu cuenta de organización. ![Campo para teclear el nombre de organización](/assets/images/help/organizations/new-org-name.png)
+1. Debajo de "Nombre de cuenta organizacional", teclea un nombre para tu cuenta de organización. ![Campo para teclear el nombre de organización](/assets/images/2021/10/help/organizations/new-org-name.png)

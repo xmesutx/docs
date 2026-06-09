@@ -17,7 +17,7 @@ topics:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Features] の下で、[**Issues**] チェックボックスの選択を解除します。 ![[Issues] チェックボックスの解除](/assets/images/help/issues/issues_settings_remove_from_repo.png)
+3. [Features] の下で、[**Issues**] チェックボックスの選択を解除します。 ![[Issues] チェックボックスの解除](/assets/images/2021/10/help/issues/issues_settings_remove_from_repo.png)
 
 将来、再び Issue を有効化することにした場合、それまでに追加された Issue もすべて使用できるようになります。
 

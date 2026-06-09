@@ -39,7 +39,7 @@ GitHub 要求在收到 web 挂钩有效负载后 {% ifversion fpt or ghec %}10{%
 
 每个 web 挂钩都有自己的“最近交付”部分，其中列出了部署是否成功。
 
-![最近交付视图](/assets/images/webhooks_recent_deliveries.png)
+![最近交付视图](/assets/images/2021/10/webhooks_recent_deliveries.png)
 
 您应该使用适当的 HTTP 状态代码来通知用户。 您可以使用 `201` 或 `202` 等代码来确认收到了不会处理的有效负载（例如，非默认分支交付的有效负载）。 将 `500` 错误代码预留给灾难性故障。
 
@@ -47,7 +47,7 @@ GitHub 要求在收到 web 挂钩有效负载后 {% ifversion fpt or ghec %}10{%
 
 用户可能会深入研究您发回 GitHub 的服务器响应。 请确保您的信息清晰明了。
 
-![查看有效负载响应](/assets/images/payload_response_tab.png)
+![查看有效负载响应](/assets/images/2021/10/payload_response_tab.png)
 
 ## 遵循 API 发送给您的任何重定向
 

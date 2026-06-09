@@ -179,8 +179,8 @@ To learn more about {% data variables.product.prodname_dotcom %}-hosted runner l
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.actions-tab %}
-1. リポジトリに既存のワークフローが既に存在する場合: 左上隅にある [**New workflow（新しいワークフロー）**] をクリックします。 ![新規ワークフローの選択](/assets/images/help/repository/actions-new-workflow.png)
-1. Under the name of the starter workflow you'd like to use, click **Set up this workflow**. ![このワークフローを設定します](/assets/images/help/settings/actions-create-starter-workflow.png)
+1. リポジトリに既存のワークフローが既に存在する場合: 左上隅にある [**New workflow（新しいワークフロー）**] をクリックします。 ![新規ワークフローの選択](/assets/images/2021/10/help/repository/actions-new-workflow.png)
+1. Under the name of the starter workflow you'd like to use, click **Set up this workflow**. ![このワークフローを設定します](/assets/images/2021/10/help/settings/actions-create-starter-workflow.png)
 
 ## 次のステップ
 

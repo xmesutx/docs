@@ -62,7 +62,7 @@ Se você estiver acessando um contêiner a partir de um registro que não é reg
 
 Se você estiver definindo os segredos no nível do usuário ou da organização. certifique-se de atribuir esses segredos para o repositório no qual você irá criar o codespace, escolhendo uma política de acesso na lista suspensa.
 
-![Exemplo de segredo do registro de imagem](/assets/images/help/codespaces/secret-repository-access.png)
+![Exemplo de segredo do registro de imagem](/assets/images/2021/10/help/codespaces/secret-repository-access.png)
 
 ### Exemplos de segredos
 
@@ -76,7 +76,7 @@ ACR_CONTAINER_REGISTRY_PASSWORD = <PAT>
 
 Para obter informações sobre registros de imagens comuns, consulte "[Servidores de registro de imagens comuns](#common-image-registry-servers)". Observe que acessar o AWS Elastic Container Registry (ECR) é diferente.
 
-![Exemplo de segredo do registro de imagem](/assets/images/help/settings/codespaces-image-registry-secret-example.png)
+![Exemplo de segredo do registro de imagem](/assets/images/2021/10/help/settings/codespaces-image-registry-secret-example.png)
 
 Após adicionar os segredos, pode ser que você precise parar e, em seguida, iniciar o processo de codespace para que as novas variáveis de ambiente sejam passadas para o contêiner. Para obter mais informações, consulte "[Suspender ou interromper um codespace](/codespaces/codespaces-reference/using-the-command-palette-in-codespaces#suspending-or-stopping-a-codespace)".
 

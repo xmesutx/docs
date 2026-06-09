@@ -34,5 +34,5 @@ Cuando bajas de categoría o cancelas un patrocinio, el cambio entra en vigencia
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.billing_plans %}
 {% data reusables.sponsors.billing-switcher %}
-3. Debajo de "{% data variables.product.prodname_sponsors %}", a la derecha del contribuyente de código abierto, da clic en {% octicon "triangle-down" aria-label="The down triangle octicon" %} a un costado de tu cantidad patrocinada. Posteriormente, da clic en **Cancelar patrocinio**. ![Botón Cancelar patrocinio](/assets/images/help/billing/edit-sponsor-billing.png)
-4. Revisa la información acerca de la cancelación de tu patrocinio y luego haz clic en **Aceptar**. ![Casilla de confirmación de cancelación](/assets/images/help/billing/confirm-sponsorship-cancellation.png)
+3. Debajo de "{% data variables.product.prodname_sponsors %}", a la derecha del contribuyente de código abierto, da clic en {% octicon "triangle-down" aria-label="The down triangle octicon" %} a un costado de tu cantidad patrocinada. Posteriormente, da clic en **Cancelar patrocinio**. ![Botón Cancelar patrocinio](/assets/images/2021/10/help/billing/edit-sponsor-billing.png)
+4. Revisa la información acerca de la cancelación de tu patrocinio y luego haz clic en **Aceptar**. ![Casilla de confirmación de cancelación](/assets/images/2021/10/help/billing/confirm-sponsorship-cancellation.png)

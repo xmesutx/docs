@@ -26,10 +26,10 @@ El volver a ejecutar un flujo de trabajo utiliza el mismo `GITHUB_SHA` (SHA de c
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
 {% ifversion fpt or ghes > 3.2 or ghae-issue-4721 or ghec %}
-1. En la esquina superior derecha del flujo de trabajo, utiliza el menú desplegable **Volver a ejecutar jobs** y selecciona **Volver a ejecutar todos los jobs** ![Menú desplegable de verificaciones de re-ejecución](/assets/images/help/repository/rerun-checks-drop-down.png)
+1. En la esquina superior derecha del flujo de trabajo, utiliza el menú desplegable **Volver a ejecutar jobs** y selecciona **Volver a ejecutar todos los jobs** ![Menú desplegable de verificaciones de re-ejecución](/assets/images/2021/10/help/repository/rerun-checks-drop-down.png)
 {% endif %}
 {% ifversion ghes < 3.3 or ghae %}
-1. En la esquina superior derecha del flujo de trabajo, utiliza el menú desplegable **Volver a ejecutar jobs** y selecciona **Volver a ejecutar todos los jobs**. ![Volver a ejecutar el menú desplegable de verificaciones](/assets/images/help/repository/rerun-checks-drop-down-updated.png)
+1. En la esquina superior derecha del flujo de trabajo, utiliza el menú desplegable **Volver a ejecutar jobs** y selecciona **Volver a ejecutar todos los jobs**. ![Volver a ejecutar el menú desplegable de verificaciones](/assets/images/2021/10/help/repository/rerun-checks-drop-down-updated.png)
 {% endif %}
 
 {% endwebui %}
@@ -61,7 +61,7 @@ Puedes ver los resultados desde tus intentos anteriores para ejecutar un flujo d
 {% data reusables.repositories.actions-tab %}
 {% data reusables.repositories.navigate-to-workflow %}
 {% data reusables.repositories.view-run %}
-1. Cualquier intento de ejecución anterior se muestra en el panel izquierdo. ![Volver a ejecutar un flujo de trabajo](/assets/images/help/settings/actions-review-workflow-rerun.png)
+1. Cualquier intento de ejecución anterior se muestra en el panel izquierdo. ![Volver a ejecutar un flujo de trabajo](/assets/images/2021/10/help/settings/actions-review-workflow-rerun.png)
 1. Haz clic en una entrada para ver sus resultados.
 
 {% endif %}

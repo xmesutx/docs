@@ -22,7 +22,7 @@ By default commits and tags are marked "Verified" if they are signed with a GPG 
 
 However, you can give other users increased confidence in the identity attributed to your commits and tags by enabling vigilant mode in your {% data variables.product.prodname_dotcom %} settings. With vigilant mode enabled, all of your commits and tags are marked with one of three verification statuses.
 
-![Signature verification statuses](/assets/images/help/commits/signature-verification-statuses.png)
+![Signature verification statuses](/assets/images/2021/10/help/commits/signature-verification-statuses.png)
 
 {% data reusables.identity-and-permissions.vigilant-mode-verification-statuses %}
 
@@ -36,4 +36,4 @@ You should only enable vigilant mode if you sign all of your commits and tags an
 {% data reusables.user-settings.ssh %}
 3. On the SSH Settings page, under "Vigilant mode," select **Flag unsigned commits as unverified**.
 
-   ![Flag unsigned commits as unverified checkbox](/assets/images/help/commits/vigilant-mode-checkbox.png)
+   ![Flag unsigned commits as unverified checkbox](/assets/images/2021/10/help/commits/vigilant-mode-checkbox.png)

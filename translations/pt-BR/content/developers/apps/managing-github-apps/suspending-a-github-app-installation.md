@@ -25,6 +25,6 @@ Se uma instalação foi suspensa pelo proprietário de {% data variables.product
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.github_apps %}
-1. Selecione o {% data variables.product.prodname_github_app %} que você deseja suspender. ![Seleção de aplicativo](/assets/images/github-apps/github_apps_select-app.png)
+1. Selecione o {% data variables.product.prodname_github_app %} que você deseja suspender. ![Seleção de aplicativo](/assets/images/2021/10/github-apps/github_apps_select-app.png)
 {% data reusables.user-settings.github_apps_advanced %}
-6. Ao lado das configurações de suspensão para a instalação, clique em **Suspender** ou **Cancelar a suspensão**. ![Suspender um aplicativo GitHub](/assets/images/github-apps/suspend-a-github-app.png)
+6. Ao lado das configurações de suspensão para a instalação, clique em **Suspender** ou **Cancelar a suspensão**. ![Suspender um aplicativo GitHub](/assets/images/2021/10/github-apps/suspend-a-github-app.png)

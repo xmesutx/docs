@@ -24,6 +24,6 @@ Un colaborador externo es una persona que no es explícitamente un miembro de tu
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.access-collaboration-settings %}
 {% data reusables.project-management.collaborator-option %}
-9. Debajo de "Search by username, full name or email address" (Buscar por nombre de usuario, nombre completo o dirección de correo electrónico), escribe el nombre, nombre de usuario o correo electrónico del colaborador externo {% data variables.product.prodname_dotcom %}. ![La sección Collaborators (Colaboradores) con el nombre de usuario de Octocat ingresado en el campo de búsqueda](/assets/images/help/projects/org-project-collaborators-find-name.png)
+9. Debajo de "Search by username, full name or email address" (Buscar por nombre de usuario, nombre completo o dirección de correo electrónico), escribe el nombre, nombre de usuario o correo electrónico del colaborador externo {% data variables.product.prodname_dotcom %}. ![La sección Collaborators (Colaboradores) con el nombre de usuario de Octocat ingresado en el campo de búsqueda](/assets/images/2021/10/help/projects/org-project-collaborators-find-name.png)
 {% data reusables.project-management.add-collaborator %}
 {% data reusables.project-management.collaborator-permissions %}

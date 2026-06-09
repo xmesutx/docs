@@ -31,7 +31,7 @@ O gráfico de dependências mostra as dependências{% ifversion fpt or ghec %} e
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 {% data reusables.repositories.click-dependency-graph %}{% ifversion fpt or ghec %}
-4. Opcionalmente, em "Gráfico de dependência", clique em **Dependentes**. ![Dependents tab on the dependency graph page](/assets/images/help/graphs/dependency-graph-dependents-tab.png){% endif %}
+4. Opcionalmente, em "Gráfico de dependência", clique em **Dependentes**. ![Dependents tab on the dependency graph page](/assets/images/2021/10/help/graphs/dependency-graph-dependents-tab.png){% endif %}
 
 {% ifversion ghes or ghae-issue-4864 %}
 Os proprietários das empresas podem configurar o gráfico de dependências a nível da empresa. Para obter mais informações, consulte "[Habilitando o gráfico de dependências para sua empresa](/admin/code-security/managing-supply-chain-security-for-your-enterprise/enabling-the-dependency-graph-for-your-enterprise)".
@@ -44,14 +44,14 @@ As dependências são agrupadas por ecossistema. Você pode expandir sua depend�
 
 Se foram detectadas vulnerabilidades no repositório, estas são exibidas na parte superior da visualização para usuários com acesso ao {% data variables.product.prodname_dependabot_alerts %}.
 
-![Gráfico de dependências](/assets/images/help/graphs/dependencies_graph.png)
+![Gráfico de dependências](/assets/images/2021/10/help/graphs/dependencies_graph.png)
 
 {% endif %}
 
 {% ifversion ghes or ghae %}
 Todas as dependências diretas e indiretas especificadas no manifesto do repositório ou arquivos de bloqueio são listadas e agrupadas pelo ecossistema. Se foram detectadas vulnerabilidades no repositório, estas são exibidas na parte superior da visualização para usuários com acesso ao {% data variables.product.prodname_dependabot_alerts %}.
 
-![Gráfico de dependências](/assets/images/help/graphs/dependencies_graph_server.png)
+![Gráfico de dependências](/assets/images/2021/10/help/graphs/dependencies_graph_server.png)
 
 {% note %}
 
@@ -66,7 +66,7 @@ Todas as dependências diretas e indiretas especificadas no manifesto do reposit
 
 Para repositórios públicos, a vista de dependentes mostra como o repositório é usado por outros repositórios. Para exibir apenas os repositórios que contêm uma biblioteca em um gerente de pacotes, clique em **QUANTIDADE de pacotes** imediatamente acima da lista de repositórios dependentes. A quantidade de dependentes é aproximada e pode nem sempre corresponder aos dependentes listados.
 
-![gráfico de dependentes](/assets/images/help/graphs/dependents_graph.png)
+![gráfico de dependentes](/assets/images/2021/10/help/graphs/dependents_graph.png)
 
 ## Habilitar e desabilitar o gráfico de dependências para um repositório privado
 
@@ -77,7 +77,7 @@ Você também pode habilitar ou desabilitar o gráfico de dependências para tod
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
-4. Leia a mensagem sobre a concessão de acesso somente leitura pelo {% data variables.product.product_name %} aos dados do repositório para habilitar o gráfico de dependências e, em seguida, ao lado de "Gráfico de Dependência", clique em **Habilitar**. ![Botão "Habilitar" para o gráfico de dependência](/assets/images/help/repository/dependency-graph-enable-button.png)
+4. Leia a mensagem sobre a concessão de acesso somente leitura pelo {% data variables.product.product_name %} aos dados do repositório para habilitar o gráfico de dependências e, em seguida, ao lado de "Gráfico de Dependência", clique em **Habilitar**. ![Botão "Habilitar" para o gráfico de dependência](/assets/images/2021/10/help/repository/dependency-graph-enable-button.png)
 
 Você pode desabilitar o gráfico de dependências a qualquer momento clicando em **Desabilitar** ao lado de "Gráfico de dependência" na aba de análise & de Segurança &.
 
@@ -87,7 +87,7 @@ Se o gráfico de dependências estiver habilitado e o seu repositório contiver 
 
 A seção "Usado por" mostra o número de referências públicas ao pacote que foi encontrado, e exibe os avatares de alguns dos proprietários dos projetos dependentes.
 
-![Seção da barra lateral "Usado por"](/assets/images/help/repository/used-by-section.png)
+![Seção da barra lateral "Usado por"](/assets/images/2021/10/help/repository/used-by-section.png)
 
 Clicar em qualquer item desta seção irá levar você para a aba **Dependentes** do gráfico de dependências.
 
@@ -96,7 +96,7 @@ A seção "Usado por" representa um único pacote do repositório. Se você tive
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.navigate-to-security-and-analysis %}
-4. Under "Code security and analysis", click the drop-down menu in the "Used by counter" section and choose a package. ![Escolha um pacote "Usado por"](/assets/images/help/repository/choose-used-by-package.png)
+4. Under "Code security and analysis", click the drop-down menu in the "Used by counter" section and choose a package. ![Escolha um pacote "Usado por"](/assets/images/2021/10/help/repository/choose-used-by-package.png)
 
 {% endif %}
 

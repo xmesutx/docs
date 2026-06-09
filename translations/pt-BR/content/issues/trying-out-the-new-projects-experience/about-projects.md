@@ -35,15 +35,15 @@ Você pode usar campos personalizados para adicionar metadados às suas tarefas.
 
 Você pode ver seu projeto como um layout de tabela de alta densidade:
 
-![Tabela de projeto](/assets/images/help/issues/projects_table.png)
+![Tabela de projeto](/assets/images/2021/10/help/issues/projects_table.png)
 
 Ou como um quadro:
 
-![Quadro de projeto](/assets/images/help/issues/projects_board.png)
+![Quadro de projeto](/assets/images/2021/10/help/issues/projects_board.png)
 
 Para ajudar você a concentrar-se em aspectos específicos do seu projeto, você pode agrupar, ordenar ou filtrar itens:
 
-![Visualização do projeto](/assets/images/help/issues/project_view.png)
+![Visualização do projeto](/assets/images/2021/10/help/issues/project_view.png)
 
 Para obter mais informações, consulte "[Personalizar as visualizações do seu projeto](/issues/trying-out-the-new-projects-experience/customizing-your-project-views)".
 

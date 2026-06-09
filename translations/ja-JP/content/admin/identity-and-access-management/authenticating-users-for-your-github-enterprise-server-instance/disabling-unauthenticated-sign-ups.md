@@ -20,5 +20,5 @@ shortTitle: Block account creation
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. **Enable sign-up（サインアップの有効化）**の選択を外してください。 ![[Enable sign-up] チェックボックス](/assets/images/enterprise/management-console/enable-sign-up.png)
+3. **Enable sign-up（サインアップの有効化）**の選択を外してください。 ![[Enable sign-up] チェックボックス](/assets/images/2021/10/enterprise/management-console/enable-sign-up.png)
 {% data reusables.enterprise_management_console.save-settings %}

@@ -28,7 +28,7 @@ shortTitle: Connections between repositories
 
 The network graph displays the branch history of the entire repository network, including branches of the root repository and branches of forks that contain commits unique to the network.
 
-![Repository network graph](/assets/images/help/graphs/repo_network_graph.png)
+![Repository network graph](/assets/images/2021/10/help/graphs/repo_network_graph.png)
 
 {% tip %}
 
@@ -41,7 +41,7 @@ The network graph displays the branch history of the entire repository network, 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 3. In the left sidebar, click **Network**.
-![Network tab](/assets/images/help/graphs/network_tab.png)
+![Network tab](/assets/images/2021/10/help/graphs/network_tab.png)
 
 ## Listing the forks of a repository
 
@@ -51,11 +51,11 @@ Forks are listed alphabetically by the username of the person who forked the rep
 
 {% ifversion fpt or ghec %}
 
-![Repository members graph](/assets/images/help/graphs/repo_forks_graph_dotcom.png)
+![Repository members graph](/assets/images/2021/10/help/graphs/repo_forks_graph_dotcom.png)
 
 {% else %}
 
-![Repository members graph](/assets/images/help/graphs/repo_members_graph.png)
+![Repository members graph](/assets/images/2021/10/help/graphs/repo_members_graph.png)
 
 {% endif %}
 
@@ -64,7 +64,7 @@ Forks are listed alphabetically by the username of the person who forked the rep
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.accessing-repository-graphs %}
 3. In the left sidebar, click **Forks**.
-![Forks tab](/assets/images/help/graphs/graphs-sidebar-forks-tab.png)
+![Forks tab](/assets/images/2021/10/help/graphs/graphs-sidebar-forks-tab.png)
 
 {% ifversion fpt or ghes or ghae-issue-4864 or ghec %}
 ## Viewing the dependencies of a repository

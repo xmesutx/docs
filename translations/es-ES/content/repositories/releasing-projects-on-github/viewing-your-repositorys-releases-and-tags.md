@@ -35,7 +35,7 @@ shortTitle: Visualizar lanzamientos & etiquetas
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-2. En la parte superior de la página de lanzamiento, haz clic en **Tags** (Etiqueta). ![Página de etiquetas](/assets/images/help/releases/tags-list.png)
+2. En la parte superior de la página de lanzamiento, haz clic en **Tags** (Etiqueta). ![Página de etiquetas](/assets/images/2021/10/help/releases/tags-list.png)
 
 ## Leer más
 

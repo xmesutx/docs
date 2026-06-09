@@ -26,7 +26,7 @@ Você pode criar problemas padrão e modelos de pull request para a sua organiza
 
 Quando você cria modelos de problemas para seu repositório usando o criador de modelos de problema{% ifversion fpt or ghec %} ou com formulários de problema{% endif %}, os colaboradores podem selecionar o modelo apropriado ao abrirem novos problemas no repositório.
 
-![Página de novo problema mostrando opções do modelo de problema](/assets/images/help/issues/new-issue-page-with-multiple-templates.png)
+![Página de novo problema mostrando opções do modelo de problema](/assets/images/2021/10/help/issues/new-issue-page-with-multiple-templates.png)
 
 Os modelos de problemas são úteis quando você deseja fornecer orientações para a abertura de problemas, permitindo que os contribuidores especifiquem o conteúdo do seus problemas. {% ifversion fpt or ghec %} Se você deseja que os colaboradores forneçam informações específicas e estruturadas ao abrirem problemas, o formulário de problemas ajuda a garantir que você irá receber as informações desejadas.{% endif %}
 
@@ -50,7 +50,7 @@ Os modelos de problema são armazenados no branch padrão do repositório, em um
 
 Quando você adicionar um modelo de pull request ao repositório, os contribuidores do projeto verão automaticamente o conteúdo do modelo no texto da pull request.
 
-![Exemplo de modelo de pull request](/assets/images/help/pull_requests/pr-template-sample.png)
+![Exemplo de modelo de pull request](/assets/images/2021/10/help/pull_requests/pr-template-sample.png)
 
 É preciso criar modelos no branch padrão do repositório. Os modelos criados em outros branches não são disponibilizados para uso dos colaboradores. Você pode armazenar o modelo de pull request no diretório raiz visível do repositório, na pasta `docs` ou no diretório `.github` oculto. Os nomes de arquivo do modelo de pull request não diferenciam maiúsculas de minúsculas e podem ter uma extensão *.md* ou *.txt*.
 

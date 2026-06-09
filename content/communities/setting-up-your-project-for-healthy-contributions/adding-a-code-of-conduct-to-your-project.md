@@ -31,12 +31,12 @@ You can create a default code of conduct for your organization or user account. 
 {% data reusables.files.add-file %}
 3. In the file name field, type *CODE_OF_CONDUCT.md*.
 4. Click **Choose a code of conduct template**.
-  ![Button to choose a code of conduct template](/assets/images/help/repository/code-of-conduct-tool.png)
+  ![Button to choose a code of conduct template](/assets/images/2021/10/help/repository/code-of-conduct-tool.png)
 5. On the left side of the page, select a code of conduct to preview and add to your project.
-  ![Selection of a code of conduct template](/assets/images/help/repository/code-of-conduct-tool-picker.png)
+  ![Selection of a code of conduct template](/assets/images/2021/10/help/repository/code-of-conduct-tool-picker.png)
 6. On the right side of the page, complete the fields to populate the selected code of conduct with the appropriate information.
 7. Click **Review and submit**.
-  ![Review and submit code of conduct to project](/assets/images/help/repository/code-of-conduct-tool-review.png)
+  ![Review and submit code of conduct to project](/assets/images/2021/10/help/repository/code-of-conduct-tool-review.png)
 8. Review the contents of the code of conduct that's in the text area.
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
@@ -49,7 +49,7 @@ If the code of conduct you want to use isn't available in the provided templates
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
 3. In the file name field, type the name and extension for the file.
-  ![New code of conduct file name](/assets/images/help/repository/new-code-of-conduct-file-name.png)
+  ![New code of conduct file name](/assets/images/2021/10/help/repository/new-code-of-conduct-file-name.png)
     - To make your code of conduct visible in the repository's root directory, type *CODE_OF_CONDUCT* in the file name field.
     - To make your code of conduct visible in the repository's `docs` directory, type *docs/CODE_OF_CONDUCT*.
     - To make your code of conduct visible in the repository's `.github` directory, type *.github/CODE_OF_CONDUCT*.

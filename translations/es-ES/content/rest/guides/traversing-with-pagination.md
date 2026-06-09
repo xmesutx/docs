@@ -148,7 +148,7 @@ end
 
 Habitualmente, con la paginación, tu meta no es concentrar todos los resultados posibles, sino más bien producir un conjunto de navegación, como éste:
 
-![Muestra de los enlaces de paginación](/assets/images/pagination_sample.png)
+![Muestra de los enlaces de paginación](/assets/images/2021/10/pagination_sample.png)
 
 Vamos a modelar una micro versión de lo que esto podría implicar.
 

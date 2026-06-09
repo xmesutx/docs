@@ -34,7 +34,7 @@ You can view or download the transaction data to keep track of your subscription
 * **region:** The name of the region present in billing address.
 * **postal_code:** The postal code value present in billing address.
 
-![Marketplace insights](/assets/images/marketplace/marketplace_transactions.png)
+![Marketplace insights](/assets/images/2021/10/marketplace/marketplace_transactions.png)
 
 ## Accessing {% data variables.product.prodname_marketplace %} transactions
 
@@ -47,4 +47,4 @@ To access {% data variables.product.prodname_marketplace %} transactions:
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. Click the **Transactions** tab.
 7. Optionally, select a different time period by clicking the Period dropdown in the upper-right corner of the Transactions page.
-![Marketplace time period](/assets/images/marketplace/marketplace_insights_time_period.png)
+![Marketplace time period](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

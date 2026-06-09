@@ -101,13 +101,13 @@ Para especificar más de un valor para un atributo, utiliza elementos múltiples
 {% data reusables.enterprise_management_console.authentication %}
 1. Selecciona **SAML**.
 
-   ![Screenshot of option to enable SAML authentication in management console](/assets/images/enterprise/management-console/auth-select-saml.png)
+   ![Screenshot of option to enable SAML authentication in management console](/assets/images/2021/10/enterprise/management-console/auth-select-saml.png)
 1. {% data reusables.enterprise_user_management.built-in-authentication-option %}
 
-   ![Screenshot of option to enable built-in authentication outside of SAML IdP](/assets/images/enterprise/management-console/saml-built-in-authentication.png)
+   ![Screenshot of option to enable built-in authentication outside of SAML IdP](/assets/images/2021/10/enterprise/management-console/saml-built-in-authentication.png)
 1. Opcionalmente, para activar el SSO de respuesta no solicitada, selecciona **IdP initiated SSO**. Por defecto, {% data variables.product.prodname_ghe_server %} responderá a una solicitud iniciada por un proveedor de identidad (IdP) no solicitada con una `AuthnRequest` de vuelta al IdP.
 
-   ![Screenshot of option to enable IdP-initiated unsolicited response](/assets/images/enterprise/management-console/saml-idp-sso.png)
+   ![Screenshot of option to enable IdP-initiated unsolicited response](/assets/images/2021/10/enterprise/management-console/saml-idp-sso.png)
 
    {% tip %}
 
@@ -117,10 +117,10 @@ Para especificar más de un valor para un atributo, utiliza elementos múltiples
 
 1. Selecciona **Disable administrator demotion/promotion (Desactivar la degradación/promoción del administrador)** si **no** quieres que tu proveedor de SAML determine los derechos del administrador para los usuarios en {% data variables.product.product_location %}.
 
-   ![Screenshot of option to enable option to respect the "administrator" attribute from the IdP to enable or disable administrative rights](/assets/images/enterprise/management-console/disable-admin-demotion-promotion.png)
+   ![Screenshot of option to enable option to respect the "administrator" attribute from the IdP to enable or disable administrative rights](/assets/images/2021/10/enterprise/management-console/disable-admin-demotion-promotion.png)
 1. Optionally, to allow {% data variables.product.product_location %} to send and receive encrypted assertions to and from your SAML IdP, select **Require encrypted assertions**. Para obtener más información, consulta la sección "[Habilitar las aserciones cifradas](#enabling-encrypted-assertions)".
 
-   ![Captura de pantalla de la casilla de verificación "Habilitar aserciones cifradas" dentro de la sección de "Autenticación"de la consola de administración](/assets/images/help/saml/management-console-enable-encrypted-assertions.png)
+   ![Captura de pantalla de la casilla de verificación "Habilitar aserciones cifradas" dentro de la sección de "Autenticación"de la consola de administración](/assets/images/2022/02/help/saml/management-console-enable-encrypted-assertions.png)
 
    {% warning %}
 
@@ -133,19 +133,19 @@ Para especificar más de un valor para un atributo, utiliza elementos múltiples
    {% endwarning %}
 1. In the **Single sign-on URL** field, type the HTTP or HTTPS endpoint on your IdP for single sign-on requests. Este valor lo provee la configuración de tu IdP. If the host is only available from your internal network, you may need to [configure {% data variables.product.product_location %} to use internal nameservers](/enterprise/{{ currentVersion }}/admin/guides/installation/configuring-dns-nameservers/).
 
-   ![Screenshot of text field for single sign-on URL](/assets/images/enterprise/management-console/saml-single-sign-url.png)
+   ![Screenshot of text field for single sign-on URL](/assets/images/2021/10/enterprise/management-console/saml-single-sign-url.png)
 1. Optionally, in the **Issuer** field, type your SAML issuer's name. This verifies the authenticity of messages sent to {% data variables.product.product_location %}.
 
-   ![Screenshot of text field for SAML issuer URL](/assets/images/enterprise/management-console/saml-issuer.png)
+   ![Screenshot of text field for SAML issuer URL](/assets/images/2021/10/enterprise/management-console/saml-issuer.png)
 1. In the **Signature Method** and **Digest Method** drop-down menus, choose the hashing algorithm used by your SAML issuer to verify the integrity of the requests from {% data variables.product.product_location %}. Specify the format with the **Name Identifier Format** drop-down menu.
 
-   ![Screenshot of drop-down menus to select signature and digest method](/assets/images/enterprise/management-console/saml-method.png)
+   ![Screenshot of drop-down menus to select signature and digest method](/assets/images/2021/10/enterprise/management-console/saml-method.png)
 1. Dentro de **Verification certificate (Certificado de comprobación)**, haz clic en **Choose File (Elegir archivo)** y elige un certificado para validar las respuestas SAML desde el IdP.
 
-   ![Screenshot of button for uploading validation certificate from IdP](/assets/images/enterprise/management-console/saml-verification-cert.png)
+   ![Screenshot of button for uploading validation certificate from IdP](/assets/images/2021/10/enterprise/management-console/saml-verification-cert.png)
 1. Modify the SAML attribute names to match your IdP if needed, or accept the default names.
 
-   ![Screenshot of fields for entering additional SAML attributes](/assets/images/enterprise/management-console/saml-attributes.png)
+   ![Screenshot of fields for entering additional SAML attributes](/assets/images/2021/10/enterprise/management-console/saml-attributes.png)
 
 {% ifversion ghes > 3.3 %}
 
@@ -174,13 +174,13 @@ To enable encrypted assertions, your SAML IdP must also support encrypted assert
 {% data reusables.enterprise_management_console.authentication %}
 1. Select **Require encrypted assertions**.
 
-   ![Captura de pantalla de la casilla de verificación "Habilitar aserciones cifradas" dentro de la sección de "Autenticación"de la consola de administración](/assets/images/help/saml/management-console-enable-encrypted-assertions.png)
+   ![Captura de pantalla de la casilla de verificación "Habilitar aserciones cifradas" dentro de la sección de "Autenticación"de la consola de administración](/assets/images/2022/02/help/saml/management-console-enable-encrypted-assertions.png)
 1. To the right of "Encryption Method", select the encryption method for your IdP from step 5.
 
-   ![Screenshot of "Encryption Method" for encrypted assertions](/assets/images/help/saml/management-console-encrypted-assertions-encryption-method.png)
+   ![Screenshot of "Encryption Method" for encrypted assertions](/assets/images/2022/02/help/saml/management-console-encrypted-assertions-encryption-method.png)
 1. To the right of "Key Transport Method", select the key transport method for your IdP from step 5.
 
-   ![Screenshot of "Key Transport Method" for encrypted assertions](/assets/images/help/saml/management-console-encrypted-assertions-key-transport-method.png)
+   ![Screenshot of "Key Transport Method" for encrypted assertions](/assets/images/2022/02/help/saml/management-console-encrypted-assertions-key-transport-method.png)
 1. Haz clic en **Guardar parámetros**.
 {% data reusables.enterprise_site_admin_settings.wait-for-configuration-run %}
 
@@ -189,12 +189,12 @@ To enable encrypted assertions, your SAML IdP must also support encrypted assert
 ## Updating a user's SAML `NameID`
 
 {% data reusables.enterprise_site_admin_settings.access-settings %}
-2. Selecciona **SAML**. ![Elemento de "Todos los usuarios" en la barra lateral en la configuración de administrador de sitio](/assets/images/enterprise/site-admin-settings/all-users.png)
-3. En la lista de usuarios, da clic en el nombre de usuario del cual te gustaría actualizar el mapeo de la `NameID`. ![Nombre de usuario en la lista de cuentas de usuario de la instancia](/assets/images/enterprise/site-admin-settings/all-users-click-username.png)
+2. Selecciona **SAML**. ![Elemento de "Todos los usuarios" en la barra lateral en la configuración de administrador de sitio](/assets/images/2021/10/enterprise/site-admin-settings/all-users.png)
+3. En la lista de usuarios, da clic en el nombre de usuario del cual te gustaría actualizar el mapeo de la `NameID`. ![Nombre de usuario en la lista de cuentas de usuario de la instancia](/assets/images/2021/10/enterprise/site-admin-settings/all-users-click-username.png)
 {% data reusables.enterprise_site_admin_settings.security-tab %}
-5. To the right of "Update SAML NameID", click **Edit** . ![Botón de "Editar" debajo de "Autenticación de SAML" y a la derecha de "Actualizar la NameID de SAML"](/assets/images/enterprise/site-admin-settings/update-saml-nameid-edit.png)
-6. En el campo de "NameID", teclea la `NameID` nueva para el usuario. ![Campo de "NameID" en diálogo modal con el valor de NameID ingresado](/assets/images/enterprise/site-admin-settings/update-saml-nameid-field-in-modal.png)
-7. Da clic en **Actualizar NameID**. ![Botón de "Actualizar NameID" debajo del valor actualizado de la NameID dentro del modal](/assets/images/enterprise/site-admin-settings/update-saml-nameid-update.png)
+5. To the right of "Update SAML NameID", click **Edit** . ![Botón de "Editar" debajo de "Autenticación de SAML" y a la derecha de "Actualizar la NameID de SAML"](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-edit.png)
+6. En el campo de "NameID", teclea la `NameID` nueva para el usuario. ![Campo de "NameID" en diálogo modal con el valor de NameID ingresado](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-field-in-modal.png)
+7. Da clic en **Actualizar NameID**. ![Botón de "Actualizar NameID" debajo del valor actualizado de la NameID dentro del modal](/assets/images/2021/10/enterprise/site-admin-settings/update-saml-nameid-update.png)
 
 ## Revocar acceso a {% data variables.product.product_location %}
 

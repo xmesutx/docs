@@ -27,10 +27,10 @@ Cada pessoa que sugeriu uma alteração incluída no commit será uma coautora d
 {% data reusables.repositories.sidebar-pr %}
 2. Na lista de pull requests, clique naquela que você gostaria de aplicar a alteração sugerida.
 3. Navegue até a primeira alteração sugerida que você gostaria de aplicar.
-    - Para aplicar a alteração no próprio commit dela, clique em **Commit suggestion** (Fazer commit da sugestão). ![Botão Commit suggestion (Fazer commit de sugestão)](/assets/images/help/pull_requests/commit-suggestion-button.png)
-    - Para adicionar a sugestão a um lote de alterações, clique em **Add suggestion to batch** (Adicionar sugestão em um lote). Continue a adicionar as alterações sugeridas que quer incluir em um único commit. Quando terminar, clique em **Commit suggestions** (Fazer commit das sugestões). ![Botão Add suggestion to batch (Adicionar sugestão em um lote)](/assets/images/help/pull_requests/add-suggestion-to-batch.png)
-4. No campo de mensagem do commit, digite uma mensagem curta e relevante que descreva a alteração que você fez no arquivo ou arquivos. ![Campo Commit message (Mensagem do commit)](/assets/images/help/pull_requests/suggested-change-commit-message-field.png)
-5. Clique em **Commit changes** (Fazer commit das alterações). ![Botão Commit changes (Fazer commit de alterações)](/assets/images/help/pull_requests/commit-changes-button.png)
+    - Para aplicar a alteração no próprio commit dela, clique em **Commit suggestion** (Fazer commit da sugestão). ![Botão Commit suggestion (Fazer commit de sugestão)](/assets/images/2021/10/help/pull_requests/commit-suggestion-button.png)
+    - Para adicionar a sugestão a um lote de alterações, clique em **Add suggestion to batch** (Adicionar sugestão em um lote). Continue a adicionar as alterações sugeridas que quer incluir em um único commit. Quando terminar, clique em **Commit suggestions** (Fazer commit das sugestões). ![Botão Add suggestion to batch (Adicionar sugestão em um lote)](/assets/images/2021/10/help/pull_requests/add-suggestion-to-batch.png)
+4. No campo de mensagem do commit, digite uma mensagem curta e relevante que descreva a alteração que você fez no arquivo ou arquivos. ![Campo Commit message (Mensagem do commit)](/assets/images/2021/10/help/pull_requests/suggested-change-commit-message-field.png)
+5. Clique em **Commit changes** (Fazer commit das alterações). ![Botão Commit changes (Fazer commit de alterações)](/assets/images/2021/10/help/pull_requests/commit-changes-button.png)
 
 ## Ressolicitar uma revisão
 

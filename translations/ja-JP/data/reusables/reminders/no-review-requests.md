@@ -1,1 +1,1 @@
-1. あるいは、TeamあるいはTeamのメンバーから特にレビューがリクエストされたプルリクエストだけを含めるには、**Require review requests（レビューリクエストを必須とする）**を選択してください。 このオプションを選択しなかった場合、すべてのプルリクエストがスケジュールされたリマインダーに含まれます。 ![レビューリクエストのないプルリクエストの無視のチェックボックス](/assets/images/help/settings/scheduled-reminders-prs-without-requests.png)
+1. あるいは、TeamあるいはTeamのメンバーから特にレビューがリクエストされたプルリクエストだけを含めるには、**Require review requests（レビューリクエストを必須とする）**を選択してください。 このオプションを選択しなかった場合、すべてのプルリクエストがスケジュールされたリマインダーに含まれます。 ![レビューリクエストのないプルリクエストの無視のチェックボックス](/assets/images/2021/10/help/settings/scheduled-reminders-prs-without-requests.png)

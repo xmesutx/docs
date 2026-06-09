@@ -35,10 +35,10 @@ You can use {% data variables.product.prodname_github_connect %} to automaticall
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.license-tab %}
-5. [Quick links] で、{% data variables.product.prodname_ghe_server %}上の現在のライセンスを含むファイルをダウンロードするには、[**Export license usage**] をクリックします。 ![ライセンス使用状況リンクをエクスポートする](/assets/images/enterprise/business-accounts/export-license-usage-link.png)
+5. [Quick links] で、{% data variables.product.prodname_ghe_server %}上の現在のライセンスを含むファイルをダウンロードするには、[**Export license usage**] をクリックします。 ![ライセンス使用状況リンクをエクスポートする](/assets/images/2021/10/enterprise/business-accounts/export-license-usage-link.png)
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
-8. 左のサイドバーで、** Enterprise licensing（Enterpriseライセンス）**をクリックしてください。 ![[Enterprise account settings] サイトバーの "Enterprise licensing"](/assets/images/help/enterprises/enterprise-licensing-tab.png)
+8. 左のサイドバーで、** Enterprise licensing（Enterpriseライセンス）**をクリックしてください。 ![[Enterprise account settings] サイトバーの "Enterprise licensing"](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
 {% data reusables.enterprise-accounts.license-tab %}
-10. [Enterprise Server Instances] の下で、[**Add server usage**] をクリックします。 ![GitHub Enterprise Serversの使用状況リンクをアップロードする](/assets/images/help/business-accounts/upload-ghe-server-usage-link.png)
-11. {% data variables.product.prodname_ghe_server %}からダウンロードしたJSONファイルをアップロードします。 ![アップロードするファイルをドラッグアンドドロップまたは選択する](/assets/images/help/business-accounts/upload-ghe-server-usage-file.png)
+10. [Enterprise Server Instances] の下で、[**Add server usage**] をクリックします。 ![GitHub Enterprise Serversの使用状況リンクをアップロードする](/assets/images/2021/10/help/business-accounts/upload-ghe-server-usage-link.png)
+11. {% data variables.product.prodname_ghe_server %}からダウンロードしたJSONファイルをアップロードします。 ![アップロードするファイルをドラッグアンドドロップまたは選択する](/assets/images/2021/10/help/business-accounts/upload-ghe-server-usage-file.png)

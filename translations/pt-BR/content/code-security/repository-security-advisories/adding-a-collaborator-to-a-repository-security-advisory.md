@@ -35,8 +35,8 @@ Os colaboradores têm permissões de gravação para a consultoria de segurança
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
 4. Na lista "consultoria de segurança", clique na consultoria de segurança à qual deseja adicionar um colaborador.
-5. No lado direito da página, em "Colaboradores", digite o nome do usuário ou da equipe que você gostaria de adicionar à consultora de segurança. ![Campo para digitar nome de usuário ou equipe](/assets/images/help/security/add-collaborator-field.png)
-6. Clique em **Salvar**. ![Botão Add (Adicionar)](/assets/images/help/security/security-advisory-add-collaborator-button.png)
+5. No lado direito da página, em "Colaboradores", digite o nome do usuário ou da equipe que você gostaria de adicionar à consultora de segurança. ![Campo para digitar nome de usuário ou equipe](/assets/images/2021/10/help/security/add-collaborator-field.png)
+6. Clique em **Salvar**. ![Botão Add (Adicionar)](/assets/images/2021/10/help/security/security-advisory-add-collaborator-button.png)
 
 ## Leia mais
 

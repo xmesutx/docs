@@ -24,7 +24,7 @@ Somente proprietários e administradores de repositórios podem editar consultor
 
 1. Navegue até https://github.com/advisories.
 2. Selecione a consultoria de segurança com a qual você gostaria de contribuir.
-3. No lado direito da página, clique no link **Sugerir melhorias para esta vulnerabilidade**. ![Link para sugerir melhorias](/assets/images/help/security/suggest-improvements-to-advisory.png)
+3. No lado direito da página, clique no link **Sugerir melhorias para esta vulnerabilidade**. ![Link para sugerir melhorias](/assets/images/2022/02/help/security/suggest-improvements-to-advisory.png)
 4. Na forma de contribuição, faça as melhorias desejadas. Você pode editar ou adicionar qualquer detalhe.
 5. Quando terminar de editar a consultoria, clique em **Enviar melhorias**.
 6. Depois de enviar suas melhorias, um pull request que contém suas alterações será criado para revisão em [github/advisory-database](https://github.com/github/advisory-database) pela equipe de curadoria de {% data variables.product.prodname_security %}. Se a consultoria se originar de um repositório {% data variables.product.prodname_dotcom %}, também marcaremos o editor original para comentários opcionais. Você pode ver o pull request e receber notificações quando ele for atualizado ou fechado.

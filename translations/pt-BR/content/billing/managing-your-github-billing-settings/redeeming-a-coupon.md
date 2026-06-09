@@ -28,7 +28,7 @@ Não é possível aplicar cupons em planos pagos para apps {% data variables.pro
 ## Resgatar um cupom na conta pessoal
 
 {% data reusables.dotcom_billing.enter_coupon_code_on_redeem_page %}
-4. Em "Redeem your coupon" (Resgatar um cupom), clique em **Choose** (Escolher) ao lado do nome de usuário da sua conta *pessoal*. ![Botão Choose (Escolher)](/assets/images/help/settings/redeem-coupon-choose-button-for-personal-accounts.png)
+4. Em "Redeem your coupon" (Resgatar um cupom), clique em **Choose** (Escolher) ao lado do nome de usuário da sua conta *pessoal*. ![Botão Choose (Escolher)](/assets/images/2021/10/help/settings/redeem-coupon-choose-button-for-personal-accounts.png)
 {% data reusables.dotcom_billing.redeem_coupon %}
 
 ## Resgatar um cupom na organização
@@ -36,5 +36,5 @@ Não é possível aplicar cupons em planos pagos para apps {% data variables.pro
 {% data reusables.dotcom_billing.org-billing-perms %}
 
 {% data reusables.dotcom_billing.enter_coupon_code_on_redeem_page %}
-4. Em "Redeem your coupon" (Resgatar um cupom), clique em **Choose** (Escolher) ao lado da *organização* na qual deseja aplicar o cupom. Se quiser aplicar o cupom em uma organização que ainda não existe, clique em **Create a new organization** (Criar organização). ![Botão Choose (Escolher)](/assets/images/help/settings/redeem-coupon-choose-button.png)
+4. Em "Redeem your coupon" (Resgatar um cupom), clique em **Choose** (Escolher) ao lado da *organização* na qual deseja aplicar o cupom. Se quiser aplicar o cupom em uma organização que ainda não existe, clique em **Create a new organization** (Criar organização). ![Botão Choose (Escolher)](/assets/images/2021/10/help/settings/redeem-coupon-choose-button.png)
 {% data reusables.dotcom_billing.redeem_coupon %}

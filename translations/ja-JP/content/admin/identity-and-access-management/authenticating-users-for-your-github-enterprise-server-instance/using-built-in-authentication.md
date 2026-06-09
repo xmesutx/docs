@@ -24,7 +24,7 @@ shortTitle: Use built-in authentication
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
-4. **Built in authentication（ビルトイン認証）**を選択してください。 ![ビルトイン認証のオプションの選択](/assets/images/enterprise/management-console/built-in-auth-select.png)
+4. **Built in authentication（ビルトイン認証）**を選択してください。 ![ビルトイン認証のオプションの選択](/assets/images/2021/10/enterprise/management-console/built-in-auth-select.png)
 
 {% data reusables.enterprise_user_management.two_factor_auth_header %}
 {% data reusables.enterprise_user_management.2fa_is_available %}
@@ -33,7 +33,7 @@ shortTitle: Use built-in authentication
 
 Once your instance has been created, you'll need to create your own admin account.
 
-1. `http(s)://[hostname]/join`の"Create Admin Account（管理者アカウントの作成）"ページで、ユーザ名、パスワード、メールアドレスを選択し、**Create an account（アカウントの作成）**をクリックしてください。 ![[Create Admin Account]](/assets/images/enterprise/site-admin-settings/create-first-admin-acct.png)
+1. `http(s)://[hostname]/join`の"Create Admin Account（管理者アカウントの作成）"ページで、ユーザ名、パスワード、メールアドレスを選択し、**Create an account（アカウントの作成）**をクリックしてください。 ![[Create Admin Account]](/assets/images/2021/10/enterprise/site-admin-settings/create-first-admin-acct.png)
 {% data reusables.enterprise_site_admin_settings.sign-in %}
 
 ## Inviting users

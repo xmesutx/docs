@@ -38,19 +38,19 @@ When you sign up for an account, {% data variables.product.product_name %} provi
 
 {% data reusables.user-settings.access_settings %}
 2. Under **Profile Picture**, click {% octicon "pencil" aria-label="The edit icon" %} **Edit**.
-![Edit profile picture](/assets/images/help/profile/edit-profile-photo.png)
+![Edit profile picture](/assets/images/2021/10/help/profile/edit-profile-photo.png)
 3. Click **Upload a photo...**.
-![Update profile picture](/assets/images/help/profile/edit-profile-picture-options.png)
+![Update profile picture](/assets/images/2021/10/help/profile/edit-profile-picture-options.png)
 3. Crop your picture. When you're done, click **Set new profile picture**.
-	![Crop uploaded photo](/assets/images/help/profile/avatar_crop_and_save.png)
+	![Crop uploaded photo](/assets/images/2021/10/help/profile/avatar_crop_and_save.png)
 
 ### Resetting your profile picture to the identicon
 
 {% data reusables.user-settings.access_settings %}
 2. Under **Profile Picture**, click {% octicon "pencil" aria-label="The edit icon" %} **Edit**.
-![Edit profile picture](/assets/images/help/profile/edit-profile-photo.png)
+![Edit profile picture](/assets/images/2021/10/help/profile/edit-profile-photo.png)
 3. To revert to your identicon, click **Remove photo**. If your email address is associated with a [Gravatar](https://en.gravatar.com/), you cannot revert to your identicon. Click **Revert to Gravatar** instead.
-![Update profile picture](/assets/images/help/profile/edit-profile-picture-options.png)
+![Update profile picture](/assets/images/2021/10/help/profile/edit-profile-picture-options.png)
 
 ## Changing your profile name
 
@@ -66,7 +66,7 @@ You can change the name that is displayed on your profile. This name may also be
 
 {% data reusables.user-settings.access_settings %}
 2. Under "Name", type the name you want to be displayed on your profile.
-  ![Name field in profile settings](/assets/images/help/profile/name-field.png)
+  ![Name field in profile settings](/assets/images/2021/10/help/profile/name-field.png)
 
 ## Adding a bio to your profile
 
@@ -87,7 +87,7 @@ For a longer-form and more prominent way of displaying customized information ab
 
 {% data reusables.user-settings.access_settings %}
 2. Under **Bio**, add the content that you want displayed on your profile. The bio field is limited to 160 characters.
-	![Update bio on profile](/assets/images/help/profile/bio-field.png)
+	![Update bio on profile](/assets/images/2021/10/help/profile/bio-field.png)
 
   {% tip %}
 
@@ -96,7 +96,7 @@ For a longer-form and more prominent way of displaying customized information ab
   {% endtip %}
 
 3. Click **Update profile**.
-	![Update profile button](/assets/images/help/profile/update-profile-button.png)
+	![Update profile button](/assets/images/2021/10/help/profile/update-profile-button.png)
 
 ## Setting a status
 
@@ -108,26 +108,26 @@ You can set a status to display information about your current availability on {
 
 When you set your status, you can also let people know that you have limited availability on {% data variables.product.product_name %}.
 
-![At-mentioned username shows "busy" note next to username](/assets/images/help/profile/username-with-limited-availability-text.png)
+![At-mentioned username shows "busy" note next to username](/assets/images/2021/10/help/profile/username-with-limited-availability-text.png)
 
-![Requested reviewer shows "busy" note next to username](/assets/images/help/profile/request-a-review-limited-availability-status.png)
+![Requested reviewer shows "busy" note next to username](/assets/images/2021/10/help/profile/request-a-review-limited-availability-status.png)
 
 If you select the "Busy" option, when people @mention your username, assign you an issue or pull request, or request a pull request review from you, a note next to your username will show that you're busy. You will also be excluded from automatic review assignment for pull requests assigned to any teams you belong to. For more information, see "[Managing code review settings for your team](/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team)."
 
 1. In the top right corner of {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom_the_website %}{% else %}{% data variables.product.product_name %}{% endif %}, click your profile photo, then click **Set your status** or, if you already have a status set, click your current status.
-  ![Button on profile to set your status](/assets/images/help/profile/set-status-on-profile.png)
+  ![Button on profile to set your status](/assets/images/2021/10/help/profile/set-status-on-profile.png)
 2. To add custom text to your status, click in the text field and type a status message.
-  ![Field to type a status message](/assets/images/help/profile/type-a-status-message.png)
+  ![Field to type a status message](/assets/images/2021/10/help/profile/type-a-status-message.png)
 3. Optionally, to set an emoji status, click the smiley icon and select an emoji from the list.
-  ![Button to select an emoji status](/assets/images/help/profile/select-emoji-status.png)
+  ![Button to select an emoji status](/assets/images/2021/10/help/profile/select-emoji-status.png)
 4. Optionally, if you'd like to share that you have limited availability, select "Busy."
-  ![Busy option selected in Edit status options](/assets/images/help/profile/limited-availability-status.png)
+  ![Busy option selected in Edit status options](/assets/images/2021/10/help/profile/limited-availability-status.png)
 5. Use the **Clear status** drop-down menu, and select when you want your status to expire. If you don't select a status expiration, you will keep your status until you clear or edit your status.
-  ![Drop down menu to choose when your status expires](/assets/images/help/profile/status-expiration.png)
+  ![Drop down menu to choose when your status expires](/assets/images/2021/10/help/profile/status-expiration.png)
 6. Use the drop-down menu and click the organization you want your status visible to. If you don't select an organization, your status will be public.
-  ![Drop down menu to choose who your status is visible to](/assets/images/help/profile/status-visibility.png)
+  ![Drop down menu to choose who your status is visible to](/assets/images/2021/10/help/profile/status-visibility.png)
 7. Click **Set status**.
-  ![Button to set status](/assets/images/help/profile/set-status-button.png)
+  ![Button to set status](/assets/images/2021/10/help/profile/set-status-button.png)
 
 {% ifversion fpt or ghec %}
 ## Displaying badges on your profile
@@ -136,9 +136,9 @@ When you participate in certain programs, {% data variables.product.prodname_dot
 
 | Badge | Program | Description |
 | --- | --- | --- |
-| ![Mars 2020 Helicopter Contributor badge icon](/assets/images/help/profile/badge-mars-2020-small.png) | **Mars 2020 Helicopter Contributor**  | If you authored any commit(s) present in the commit history for the relevant tag of an open source library used in the Mars 2020 Helicopter Mission, you'll get a Mars 2020 Helicopter Contributor badge on your profile. Hovering over the badge shows you several of the repositories you contributed to that were used in the mission. For the full list of repositories that will qualify you for the badge, see "[List of qualifying repositories for Mars 2020 Helicopter Contributor badge](/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge)." |
-| ![Arctic Code Vault Contributor badge icon](/assets/images/help/profile/badge-arctic-code-vault-small.png) | **{% data variables.product.prodname_arctic_vault %} Contributor** | If you authored any commit(s) on the default branch of a repository that was archived in the 2020 Arctic Vault program, you'll get an {% data variables.product.prodname_arctic_vault %} Contributor badge on your profile. Hovering over the badge shows you several of the repositories you contributed to that were part of the program. For more information on the program, see [{% data variables.product.prodname_archive %}](https://archiveprogram.github.com). |
-| ![{% data variables.product.prodname_dotcom %} Sponsor badge icon](/assets/images/help/profile/badge-sponsors-small.png) | **{% data variables.product.prodname_dotcom %} Sponsor**  | If you sponsored an open source contributor through {% data variables.product.prodname_sponsors %} you'll get a {% data variables.product.prodname_dotcom %} Sponsor badge on your profile. Clicking the badge takes you to the **Sponsoring** tab of your profile. For more information, see "[Sponsoring open source contributors](/github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-contributors)." |
+| ![Mars 2020 Helicopter Contributor badge icon](/assets/images/2021/10/help/profile/badge-mars-2020-small.png) | **Mars 2020 Helicopter Contributor**  | If you authored any commit(s) present in the commit history for the relevant tag of an open source library used in the Mars 2020 Helicopter Mission, you'll get a Mars 2020 Helicopter Contributor badge on your profile. Hovering over the badge shows you several of the repositories you contributed to that were used in the mission. For the full list of repositories that will qualify you for the badge, see "[List of qualifying repositories for Mars 2020 Helicopter Contributor badge](/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge)." |
+| ![Arctic Code Vault Contributor badge icon](/assets/images/2021/10/help/profile/badge-arctic-code-vault-small.png) | **{% data variables.product.prodname_arctic_vault %} Contributor** | If you authored any commit(s) on the default branch of a repository that was archived in the 2020 Arctic Vault program, you'll get an {% data variables.product.prodname_arctic_vault %} Contributor badge on your profile. Hovering over the badge shows you several of the repositories you contributed to that were part of the program. For more information on the program, see [{% data variables.product.prodname_archive %}](https://archiveprogram.github.com). |
+| ![{% data variables.product.prodname_dotcom %} Sponsor badge icon](/assets/images/2021/10/help/profile/badge-sponsors-small.png) | **{% data variables.product.prodname_dotcom %} Sponsor**  | If you sponsored an open source contributor through {% data variables.product.prodname_sponsors %} you'll get a {% data variables.product.prodname_dotcom %} Sponsor badge on your profile. Clicking the badge takes you to the **Sponsoring** tab of your profile. For more information, see "[Sponsoring open source contributors](/github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-contributors)." |
 | {% octicon "cpu" aria-label="The Developer Program icon" %} | **Developer Program Member** | If you're a registered member of the {% data variables.product.prodname_dotcom %} Developer Program, building an app with the {% ifversion fpt or ghec %}{% data variables.product.prodname_dotcom %}{% else %}{% data variables.product.product_name %}{% endif %} API, you'll get a Developer Program Member badge on your profile. For more information on the {% data variables.product.prodname_dotcom %} Developer Program, see [GitHub Developer](/program/). |
 | {% octicon "star-fill" aria-label="The star icon" %} | **Pro** | If you use {% data variables.product.prodname_pro %} you'll get a PRO badge on your profile. For more information about {% data variables.product.prodname_pro %}, see "[{% data variables.product.prodname_dotcom %}'s products](/github/getting-started-with-github/githubs-products#github-pro)." |
 | {% octicon "lock" aria-label="The lock icon" %} | **Security Bug Bounty Hunter** | If you helped out hunting down security vulnerabilities, you'll get a Security Bug Bounty Hunter badge on your profile. For more information about the {% data variables.product.prodname_dotcom %} Security program, see [{% data variables.product.prodname_dotcom %} Security](https://bounty.github.com/). |
@@ -150,7 +150,7 @@ You can disable some of the badges for {% data variables.product.prodname_dotcom
 
 {% data reusables.user-settings.access_settings %}
 2. Under "Profile settings", deselect the badge you want you disable.
-  ![Checkbox to no longer display a badge on your profile](/assets/images/help/profile/profile-badge-settings.png)
+  ![Checkbox to no longer display a badge on your profile](/assets/images/2021/10/help/profile/profile-badge-settings.png)
 3. Click **Update preferences**.
 
 {% endif %}

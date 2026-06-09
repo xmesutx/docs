@@ -25,7 +25,7 @@ Las etiquetas predeterminadas se incluirán en todos los repositorios nuevos de 
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.repository-defaults %}
 
-5. Debajo de "Repository labels" (Etiquetas del repositorio), haz clic en **New label** (Etiqueta nueva). ![Botón New update (Actualización nueva)](/assets/images/help/organizations/new-label-button.png)
+5. Debajo de "Repository labels" (Etiquetas del repositorio), haz clic en **New label** (Etiqueta nueva). ![Botón New update (Actualización nueva)](/assets/images/2021/10/help/organizations/new-label-button.png)
 {% data reusables.project-management.name-label %}
 {% data reusables.project-management.label-description %}
 {% data reusables.project-management.label-color-randomizer %}

@@ -1,1 +1,1 @@
-1. Teclea un nombre y descripción para tu tablero de proyecto. ![Campos para nombre y descripción de proyecto y botón de crear proyecto](/assets/images/help/projects/name-description-create-button.png)
+1. Teclea un nombre y descripción para tu tablero de proyecto. ![Campos para nombre y descripción de proyecto y botón de crear proyecto](/assets/images/2021/10/help/projects/name-description-create-button.png)

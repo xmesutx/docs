@@ -35,7 +35,7 @@ Você pode visualizar ou fazer o download dos dados de transação para acompanh
 * **region:** O nome da região presente no endereço de cobrança.
 * **postal_code:** O código postal presente no endereço de cobrança.
 
-![Perspectivas do Marketplace](/assets/images/marketplace/marketplace_transactions.png)
+![Perspectivas do Marketplace](/assets/images/2021/10/marketplace/marketplace_transactions.png)
 
 ## Acessar as transações do {% data variables.product.prodname_marketplace %}
 
@@ -47,4 +47,4 @@ Para acessar as transações do {% data variables.product.prodname_marketplace %
 4. Selecione o {% data variables.product.prodname_github_app %} cujas transações você gostaria de ver.
 {% data reusables.user-settings.edit_marketplace_listing %}
 6. Clique na aba **Transações**.
-7. Opcionalmente, selecione um período de tempo diferente, clicando no período suspenso no canto superior direito da página de transações. ![Período de tempo do Marketplace](/assets/images/marketplace/marketplace_insights_time_period.png)
+7. Opcionalmente, selecione um período de tempo diferente, clicando no período suspenso no canto superior direito da página de transações. ![Período de tempo do Marketplace](/assets/images/2021/10/marketplace/marketplace_insights_time_period.png)

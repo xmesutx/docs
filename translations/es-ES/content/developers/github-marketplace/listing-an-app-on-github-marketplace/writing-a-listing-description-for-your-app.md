@@ -31,7 +31,7 @@ El nombre de tu listado aparecerá en la [página inicial de {% data variables.p
 
 La comunidad verá la descripción "muy corta" debajo del nombre de tu app en la [página principal de {% data variables.product.prodname_marketplace %}](https://github.com/marketplace).
 
-![Descripción corta de la app en {% data variables.product.prodname_marketplace %}](/assets/images/marketplace/marketplace_short_description.png)
+![Descripción corta de la app en {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/marketplace/marketplace_short_description.png)
 
 #### Longitud
 
@@ -103,11 +103,11 @@ Si tu app funciona únicamente con lenguajes específicos, selecciona hasta 10 l
 
 {% data variables.product.prodname_marketplace %} muestra todos los listados con un logo de imagen cuadrada dentro de una insignia circular para distinguir a las apps visualmente.
 
-![Imágenes de logo e insignia en GitHub marketplace](/assets/images/marketplace/marketplace-logo-and-badge.png)
+![Imágenes de logo e insignia en GitHub marketplace](/assets/images/2021/10/marketplace/marketplace-logo-and-badge.png)
 
 Una tarjeta de características consiste en el logo, nombre e imagen personalizada de fondo para tu app, la cual captura la personalidad de ésta. {% data variables.product.prodname_marketplace %} muestra esta tarjeta si tu app es una de las cuatro apps que se presentan aleatoriamente en la parte superior de la [página principal](https://github.com/marketplace). Cada descripción muy corta de las apps se muestra debajo de su tarjeta de características.
 
-![Tarjeta de características](/assets/images/marketplace/marketplace_feature_card.png)
+![Tarjeta de características](/assets/images/2021/10/marketplace/marketplace_feature_card.png)
 
 En medidad que subas imágenes y selecciones los colores, tu borrador de listado de {% data variables.product.prodname_marketplace %} mostrará una vista previa de tu logo y de tu tarjeta de características.
 
@@ -135,11 +135,11 @@ Para obtener la página de llegada de tu app, da clic en su nombre desde la pág
 
 Tu "Descripción de introducción" se muestra en la parte superior de la página de llegada de {% data variables.product.prodname_marketplace %} para tu app.
 
-![Descripción de introducción en {% data variables.product.prodname_marketplace %}](/assets/images/marketplace/marketplace_intro_description.png)
+![Descripción de introducción en {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/marketplace/marketplace_intro_description.png)
 
 El dar clic en **Leer más...** mostrará la "Descripción detallada".
 
-![Descripción detallada en {% data variables.product.prodname_marketplace %}](/assets/images/marketplace/marketplace_detailed_description.png)
+![Descripción detallada en {% data variables.product.prodname_marketplace %}](/assets/images/2021/10/marketplace/marketplace_detailed_description.png)
 
 Sigue estos lineamientos para escribir estas descripciones.
 
@@ -195,4 +195,4 @@ Puedes cargar hasta cinco impresiones de pantalla para tu app para que se muestr
 - GitHub muestra las impresiones de pantalla que cargues en una caja dentro de la página de llegada de tu app, así que no necesitas agregar cajas o márgenes al rededor de tus impresiones de pantalla.
 - Las capturas son más efectivas cuando son cortas y concisas.
 
-![Imagen de impresión de pantalla en GitHub Marketplace](/assets/images/marketplace/marketplace-screenshots.png)
+![Imagen de impresión de pantalla en GitHub Marketplace](/assets/images/2021/10/marketplace/marketplace-screenshots.png)

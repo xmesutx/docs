@@ -24,12 +24,12 @@ shortTitle: 子チームの追加
 {% data reusables.profile.access_org %}
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.teams %}
-4. Team のリストで、子チームを追加する先の Team の名前をクリックします。 ![Organization の Team のリスト](/assets/images/help/teams/click-team-name.png)
-5. Team ページの上部で、{% octicon "people" aria-label="The people icon" %} [**Teams**] をクリックします。 ![Team ページでの [Teams] タブ](/assets/images/help/teams/team-teams-tab.png)
-6. [**Add a team**] をクリックします。 ![Team ページでの [Add a team] ボタン](/assets/images/help/teams/add-a-team.png)
-7. 子チームとして追加する Team の名前を入力し、ドロップダウン リストからそれを選択します。 ![入力するテキストボックスと、子チームの名前を選択するドロップダウンメニュー](/assets/images/help/teams/type-child-team-name.png)
+4. Team のリストで、子チームを追加する先の Team の名前をクリックします。 ![Organization の Team のリスト](/assets/images/2021/10/help/teams/click-team-name.png)
+5. Team ページの上部で、{% octicon "people" aria-label="The people icon" %} [**Teams**] をクリックします。 ![Team ページでの [Teams] タブ](/assets/images/2021/10/help/teams/team-teams-tab.png)
+6. [**Add a team**] をクリックします。 ![Team ページでの [Add a team] ボタン](/assets/images/2021/10/help/teams/add-a-team.png)
+7. 子チームとして追加する Team の名前を入力し、ドロップダウン リストからそれを選択します。 ![入力するテキストボックスと、子チームの名前を選択するドロップダウンメニュー](/assets/images/2021/10/help/teams/type-child-team-name.png)
 {% data reusables.repositories.changed-repository-access-permissions %}
-9. [**Confirm changes**] をクリックして、子チームを追加するリクエストを送信します。 ![リポジトリアクセス権の変更に関する情報のモーダルボックス](/assets/images/help/teams/confirm-new-parent-team.png)
+9. [**Confirm changes**] をクリックして、子チームを追加するリクエストを送信します。 ![リポジトリアクセス権の変更に関する情報のモーダルボックス](/assets/images/2021/10/help/teams/confirm-new-parent-team.png)
 
 ## 参考リンク
 

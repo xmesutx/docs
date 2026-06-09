@@ -32,8 +32,8 @@ shortTitle: 设置基本权限
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
 {% data reusables.organizations.member-privileges %}
-5. 在“Base permissions（基本权限）”下，使用下拉菜单选择新的基本权限。 ![从基本权限下拉菜单中选择新的权限级别](/assets/images/help/organizations/base-permissions-drop-down.png)
-6. 审查更改。 要确认，请单击 **Change default permission to PERMISSION（将默认权限更改为所设权限）**。 ![审查并确认基本权限的更改](/assets/images/help/organizations/base-permissions-confirm.png)
+5. 在“Base permissions（基本权限）”下，使用下拉菜单选择新的基本权限。 ![从基本权限下拉菜单中选择新的权限级别](/assets/images/2021/10/help/organizations/base-permissions-drop-down.png)
+6. 审查更改。 要确认，请单击 **Change default permission to PERMISSION（将默认权限更改为所设权限）**。 ![审查并确认基本权限的更改](/assets/images/2021/10/help/organizations/base-permissions-confirm.png)
 
 ## 延伸阅读
 

@@ -494,16 +494,16 @@ Using the `GITHUB_TOKEN` instead of a PAT, which includes the `repo` scope, incr
 
 1. Navigate to your package landing page.
 1. In the left sidebar, click **Actions access**.
-  !["Actions access" option in left menu](/assets/images/help/package-registry/organization-repo-access-for-a-package.png)
+  !["Actions access" option in left menu](/assets/images/2021/10/help/package-registry/organization-repo-access-for-a-package.png)
 1. To ensure your container package has access to your workflow, you must add the repository where the workflow is stored to your container. Click **Add repository** and search for the repository you want to add.
-   !["Add repository" button](/assets/images/help/package-registry/add-repository-button.png)
+   !["Add repository" button](/assets/images/2021/10/help/package-registry/add-repository-button.png)
   {% note %}
 
   **Note:** Adding a repository to your container through the **Actions access** menu option is different than connecting your container to a repository. For more information, see "[Ensuring workflow access to your package](/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility#ensuring-workflow-access-to-your-package)" and "[Connecting a repository to a package](/packages/learn-github-packages/connecting-a-repository-to-a-package)."
 
   {% endnote %}
 1. Optionally, using the "role" drop-down menu, select the default access level that you'd like the repository to have to your container image.
-  ![Permission access levels to give to repositories](/assets/images/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
+  ![Permission access levels to give to repositories](/assets/images/2021/10/help/package-registry/repository-permission-options-for-package-access-through-actions.png)
 1. Open your workflow file. On the line where you log in to `ghcr.io`, replace your PAT with {% raw %}`${{ secrets.GITHUB_TOKEN }}`{% endraw %}.
 
 For example, this workflow publishes a Docker image using {% raw %}`${{ secrets.GITHUB_TOKEN }}`{% endraw %} to authenticate.

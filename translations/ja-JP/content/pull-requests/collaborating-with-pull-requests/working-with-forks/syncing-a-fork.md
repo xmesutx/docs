@@ -21,8 +21,8 @@ permissions: People with write access for a forked repository can sync the fork 
 ## Syncing a fork from the web UI
 
 1. On {% data variables.product.product_name %}, navigate to the main page of the forked repository that you want to sync with the upstream repository.
-2. Select the **Fetch upstream** drop-down. !["Fetch upstream" drop-down](/assets/images/help/repository/fetch-upstream-drop-down.png)
-3. Review the details about the commits from the upstream repository, then click **Fetch and merge**. !["Fetch and merge" button](/assets/images/help/repository/fetch-and-merge-button.png)
+2. Select the **Fetch upstream** drop-down. !["Fetch upstream" drop-down](/assets/images/2021/10/help/repository/fetch-upstream-drop-down.png)
+3. Review the details about the commits from the upstream repository, then click **Fetch and merge**. !["Fetch and merge" button](/assets/images/2021/10/help/repository/fetch-and-merge-button.png)
 
 If the changes from the upstream repository cause conflicts, {% data variables.product.company_short %} will prompt you to create a pull request to resolve the conflicts.
 

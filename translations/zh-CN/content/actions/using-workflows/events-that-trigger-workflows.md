@@ -1289,7 +1289,7 @@ jobs:
 
 If you run this workflow from a browser you must enter values for the required inputs manually before the workflow will run.
 
-![Entering inputs for a workflow](/assets/images/help/images/workflow-dispatch-inputs.png)
+![Entering inputs for a workflow](/assets/images/2022/01/help/images/workflow-dispatch-inputs.png)
 
 You can also pass inputs when you run a workflow from a script, or by using {% data variables.product.prodname_cli %}. 例如：
 

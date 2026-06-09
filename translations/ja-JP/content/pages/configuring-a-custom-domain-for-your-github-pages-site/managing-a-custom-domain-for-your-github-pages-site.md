@@ -45,7 +45,7 @@ DNS レコードの設定が正しいかどうかを検証するために利用�
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. "Custom domain（カスタムドメイン）" の下で、カスタムドメインを入力して**Save（保存）**をクリックします。 これで_CNAME_ファイルを公開ソースのルートに追加するコミットが作成されます。 ![カスタムドメインの保存ボタン](/assets/images/help/pages/save-custom-subdomain.png)
+4. "Custom domain（カスタムドメイン）" の下で、カスタムドメインを入力して**Save（保存）**をクリックします。 これで_CNAME_ファイルを公開ソースのルートに追加するコミットが作成されます。 ![カスタムドメインの保存ボタン](/assets/images/2021/10/help/pages/save-custom-subdomain.png)
 5. お使いの DNS プロバイダにアクセスし、サブドメインがサイトのデフォルトドメインを指す `CNAME` レコードを作成します。 たとえば、サイトで `www.example.com` というサブドメインを使いたい場合、`www.example.com` が `<user>.github.io` を指す`CNAME` レコードを作成します。 Organization サイトで `www.anotherexample.com` というサブドメインを使用する場合、`www.anotherexample.com` が `<organization>.github.io` を指す`CNAME` レコードを作成します。 `CNAME` レコードは、リポジトリ名を除いて、常に`<user>.github.io` または `<organization>.github.io` を指している必要があります。 {% data reusables.pages.contact-dns-provider %} {% data reusables.pages.default-domain-information %}
 
 {% indented_data_reference reusables.pages.wildcard-dns-warning spaces=3 %}
@@ -70,7 +70,7 @@ DNS レコードの設定が正しいかどうかを検証するために利用�
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. "Custom domain（カスタムドメイン）" の下で、カスタムドメインを入力して**Save（保存）**をクリックします。 これで_CNAME_ファイルを公開ソースのルートに追加するコミットが作成されます。 ![カスタムドメインの保存ボタン](/assets/images/help/pages/save-custom-apex-domain.png)
+4. "Custom domain（カスタムドメイン）" の下で、カスタムドメインを入力して**Save（保存）**をクリックします。 これで_CNAME_ファイルを公開ソースのルートに追加するコミットが作成されます。 ![カスタムドメインの保存ボタン](/assets/images/2021/10/help/pages/save-custom-apex-domain.png)
 5. DNS プロバイダに移動し、`ALIAS`、`ANAME`、または `A` レコードを作成します。 You can also create `AAAA` records for IPv6 support. {% data reusables.pages.contact-dns-provider %}
     - `ALIAS`または`ANAME`レコードを作成するには、Apexドメインをサイトのデフォルトドメインにポイントします。 {% data reusables.pages.default-domain-information %}
     - `A` レコードを作成するには、Apex ドメインが {% data variables.product.prodname_pages %} の IP アドレスを指すようにします。
@@ -132,7 +132,7 @@ Apexドメインを設定したら、DNSプロバイダでCNAMEレコードを�
 {% data reusables.pages.navigate-site-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.pages.sidebar-pages %}
-4. "Custom domain（カスタムドメイン）"の下で、**Remove（削除）**をクリックしてください。 ![カスタムドメインの保存ボタン](/assets/images/help/pages/remove-custom-domain.png)
+4. "Custom domain（カスタムドメイン）"の下で、**Remove（削除）**をクリックしてください。 ![カスタムドメインの保存ボタン](/assets/images/2021/10/help/pages/remove-custom-domain.png)
 
 ## Securing your custom domain
 

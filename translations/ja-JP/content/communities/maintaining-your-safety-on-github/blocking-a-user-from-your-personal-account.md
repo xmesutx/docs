@@ -61,14 +61,14 @@ shortTitle: アカウントからのブロック
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.blocked_users %}
-3. \[Block a user\] (ユーザをブロック) の下で、ブロックしたいユーザのユーザ名を入力し、[**Block user**] をクリックしてます。 ![ユーザ名フィールドとブロックボタン](/assets/images/help/settings/user-settings-block-user.png)
-4. ブロックされたユーザがコントリビュータになっているリポジトリにアクセスした際に警告を表示させることもできます。それには [**Warn me when a blocked user is a prior contributor to a repository**] を選択します。 ![ブロックされたユーザについての警告オプション](/assets/images/help/settings/warn-block-user.png)
+3. \[Block a user\] (ユーザをブロック) の下で、ブロックしたいユーザのユーザ名を入力し、[**Block user**] をクリックしてます。 ![ユーザ名フィールドとブロックボタン](/assets/images/2021/10/help/settings/user-settings-block-user.png)
+4. ブロックされたユーザがコントリビュータになっているリポジトリにアクセスした際に警告を表示させることもできます。それには [**Warn me when a blocked user is a prior contributor to a repository**] を選択します。 ![ブロックされたユーザについての警告オプション](/assets/images/2021/10/help/settings/warn-block-user.png)
 
 ## プロフィールページでのユーザのブロック
 
 {% data reusables.profile.user_profile_page_navigation %}
 {% data reusables.profile.user_profile_page_block_or_report %}
-3. [**Block user**] (ユーザをブロック) をクリックします。 ![ユーザのブロックあるいは悪用のレポートの選択肢を持つモーダルボックス](/assets/images/help/profile/profile-blockuser.png)
+3. [**Block user**] (ユーザをブロック) をクリックします。 ![ユーザのブロックあるいは悪用のレポートの選択肢を持つモーダルボックス](/assets/images/2021/10/help/profile/profile-blockuser.png)
 
 {% note %}
 

@@ -31,7 +31,7 @@ Um README, muitas vezes, é o primeiro item que um visitante verá ao visitar se
 
 Se você colocar o arquivo README na raiz do repositório, `docs`, ou no diretório `.github` oculto, o {% data variables.product.product_name %} reconhecerá e apresentará automaticamente o README aos visitantes do repositório.
 
-![Página principal do repositório github/scientist e seu arquivo README](/assets/images/help/repository/repo-with-readme.png)
+![Página principal do repositório github/scientist e seu arquivo README](/assets/images/2021/10/help/repository/repo-with-readme.png)
 
 {% ifversion fpt or ghes or ghec %}
 
@@ -39,7 +39,7 @@ Se você colocar o arquivo README na raiz do repositório, `docs`, ou no diretó
 
 {% endif %}
 
-![Arquivo README no nome de usuário/repositório do nome de usuário](/assets/images/help/repository/username-repo-with-readme.png)
+![Arquivo README no nome de usuário/repositório do nome de usuário](/assets/images/2021/10/help/repository/username-repo-with-readme.png)
 
 {% ifversion fpt or ghae or ghes > 3.1 or ghec %}
 
@@ -47,7 +47,7 @@ Se você colocar o arquivo README na raiz do repositório, `docs`, ou no diretó
 
 Para a visualização interpretada de qualquer arquivo Markdown em um repositório, incluindo arquivos README {% data variables.product.product_name %} irá gerar automaticamente um índice com base nos títulos da seção. Você pode visualizar o índice para um arquivo LEIAME, clicando no ícone de menu {% octicon "list-unordered" aria-label="The unordered list icon" %} no canto superior esquerdo da página interpretada.
 
-![README com TOC gerado automaticamente](/assets/images/help/repository/readme-automatic-toc.png)
+![README com TOC gerado automaticamente](/assets/images/2021/10/help/repository/readme-automatic-toc.png)
 
 {% endif %}
 

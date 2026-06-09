@@ -26,17 +26,17 @@ shortTitle: 分配议题和 PR
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
 3. 打开要分配给某人的议题或拉取请求。
-4. 如果没有人被分配到议题或拉取请求，单击 **assign yourself（分配自己）**以分配您自己。 ![分配您自己的项目](/assets/images/help/issues/assign_yourself.png)
-5. 在右侧菜单中，单击 **Assignees（受理人）**。 ![Assignees（受理人）菜单项](/assets/images/help/issues/assignee_menu.png)
-6. 要分配议题或拉取请求给某用户，先输入其用户名，然后单击显示的名称。 您可以选择并添加最多十个受理人到议题或拉取请求。 ![议题分配下拉菜单](/assets/images/help/issues/issues_assigning_dropdown.png)
+4. 如果没有人被分配到议题或拉取请求，单击 **assign yourself（分配自己）**以分配您自己。 ![分配您自己的项目](/assets/images/2021/10/help/issues/assign_yourself.png)
+5. 在右侧菜单中，单击 **Assignees（受理人）**。 ![Assignees（受理人）菜单项](/assets/images/2021/10/help/issues/assignee_menu.png)
+6. 要分配议题或拉取请求给某用户，先输入其用户名，然后单击显示的名称。 您可以选择并添加最多十个受理人到议题或拉取请求。 ![议题分配下拉菜单](/assets/images/2021/10/help/issues/issues_assigning_dropdown.png)
 
 ## 分配多个议题或拉取请求
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-issue-pr %}
-3. 选中要分配给某人的项目旁边的复选框。 ![议题元数据复选框](/assets/images/help/issues/issues_assign_checkbox.png)
+3. 选中要分配给某人的项目旁边的复选框。 ![议题元数据复选框](/assets/images/2021/10/help/issues/issues_assign_checkbox.png)
 4. 在右上角单击 **Assign（分配）**。
-5. 要分配项目给某用户，先输入其用户名，然后单击显示的名称。 您可以选择并添加最多十个受理人到议题或拉取请求。 ![议题分配下拉菜单](/assets/images/help/issues/issues_assigning_dropdown.png)
+5. 要分配项目给某用户，先输入其用户名，然后单击显示的名称。 您可以选择并添加最多十个受理人到议题或拉取请求。 ![议题分配下拉菜单](/assets/images/2021/10/help/issues/issues_assigning_dropdown.png)
 
 ## 延伸阅读
 

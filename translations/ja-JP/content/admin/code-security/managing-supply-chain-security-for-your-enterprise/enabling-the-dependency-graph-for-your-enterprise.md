@@ -29,7 +29,7 @@ If your {% data variables.product.product_location %} uses clustering, you canno
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.advanced-security-tab %}
-1. Under "Security," click **Dependency graph**. ![Checkbox to enable or disable the dependency graph](/assets/images/enterprise/3.2/management-console/enable-dependency-graph-checkbox.png)
+1. Under "Security," click **Dependency graph**. ![Checkbox to enable or disable the dependency graph](/assets/images/2021/10/enterprise/3.2/management-console/enable-dependency-graph-checkbox.png)
 {% data reusables.enterprise_management_console.save-settings %}
 1. **Visit your instance（インスタンスへのアクセス）**をクリックしてください。
 

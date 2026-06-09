@@ -45,7 +45,7 @@ Para obter mais informações, consulte o seguinte.
 {% elsif ghes or ghae %}
 
 1. Efetue o login em {% data variables.product.product_name %} e {% data variables.product.prodname_dotcom_the_website %}.
-1. No canto superior direito de qualquer página do {% data variables.product.product_name %}, clique na sua foto do perfil e em **Configurações**. ![Ícone Settings (Configurações) na barra de usuário](/assets/images/help/settings/userbar-account-settings.png)
+1. No canto superior direito de qualquer página do {% data variables.product.product_name %}, clique na sua foto do perfil e em **Configurações**. ![Ícone Settings (Configurações) na barra de usuário](/assets/images/2021/10/help/settings/userbar-account-settings.png)
 {% data reusables.github-connect.github-connect-tab-user-settings %}
 {% data reusables.github-connect.connect-dotcom-and-enterprise %}
 {% data reusables.github-connect.connect-dotcom-and-enterprise %}

@@ -26,7 +26,7 @@ topics:
 1. Dirígete al tablero de proyecto que deseas eliminar.
 {% data reusables.project-management.click-menu %}
 {% data reusables.project-management.click-edit-sidebar-menu-project-board %}
-4. Haz clic en **Eliminar proyecto**. ![Botón Eliminar proyecto](/assets/images/help/projects/delete-project-button.png)
+4. Haz clic en **Eliminar proyecto**. ![Botón Eliminar proyecto](/assets/images/2021/10/help/projects/delete-project-button.png)
 5. Para confirmar que deseas eliminar el tablero de proyecto, haz clic en **Aceptar**.
 
 ## Leer más

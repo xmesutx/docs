@@ -26,7 +26,7 @@ Una vez que creas una GitHub App privada, puedes instalarla en uno de tuos repos
 1. Selecciona tu app desde la [página de configuración de GitHub Apps](https://github.com/settings/apps).
 2. En la barra lateral izquierda, da clic en **Instalar App**.
 3. Da clic en **Instalar** junto a la cuenta de usuario o de organización que contiene el repositorio correcto.
-4. Instala al app en todos los repositorios o selecciona los repositorios por separado. ![Permisos de instalación de la aplicación](/assets/images/install_permissions.png)
+4. Instala al app en todos los repositorios o selecciona los repositorios por separado. ![Permisos de instalación de la aplicación](/assets/images/2021/10/install_permissions.png)
 5. Una vez instalada, verás las opciones de configuración para la app en tu cuenta seleccionada. Puedes hacer cambios aquí, o repetir los pasos anteriores para instalar la app en otra cuenta.
 
 {% ifversion fpt or ghec %}
@@ -49,8 +49,8 @@ Puedes habilitar a otras personas para que instalen tu app pública si les propo
 Estos pasos asumen que has [creado una {% data variables.product.prodname_github_app %}](/apps/building-github-apps/):
 
 1. Desde la [Página de configuración de GitHub Apps](https://github.com/settings/apps), selecciona la app pública que quieres configurar para que los demás la instalen.
-2. En "URL de la Página Principal", teclea la URL de la página principal de tu app y da clic en **Guardar cambios**. ![URL de la página de inicio](/assets/images/github-apps/github_apps_homepageURL.png)
-3. GitHub proporciona una página de llegada para tu app, la cual incluye un enlace a la "URL de la Página Principal" de la misma. Para visitar la página de llegada en GitHub, copia la URL de "Enlace público" y pégala en un buscador. ![Enlace público](/assets/images/github-apps/github_apps_public_link.png)
+2. En "URL de la Página Principal", teclea la URL de la página principal de tu app y da clic en **Guardar cambios**. ![URL de la página de inicio](/assets/images/2021/10/github-apps/github_apps_homepageURL.png)
+3. GitHub proporciona una página de llegada para tu app, la cual incluye un enlace a la "URL de la Página Principal" de la misma. Para visitar la página de llegada en GitHub, copia la URL de "Enlace público" y pégala en un buscador. ![Enlace público](/assets/images/2021/10/github-apps/github_apps_public_link.png)
 4. Crear una página principal para tu app que incluya la URL de instalación de la misma: `{% data variables.product.oauth_host_code %}/apps/<app name>/installations/new`.
 
 ## Autorizar a los usuarios durante la instalación

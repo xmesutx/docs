@@ -29,14 +29,14 @@ shortTitle: 設定
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-3. [Features] セクションの [Issues] の下で、[**Set up templates**] をクリックします。 ![[Start template setup] ボタン](/assets/images/help/repository/set-up-templates.png)
-4. [Add template] ドロップダウンメニューで、作成するテンプレートの種類をクリックします。 ![[Add template] ドロップダウンメニュー](/assets/images/help/repository/add-template-drop-down-menu.png)
-5. テンプレートをリポジトリにコミットする前にプレビューまたは編集するには、[**Preview and edit**] をクリックします。 ![[Preview and edit] ボタン](/assets/images/help/repository/preview-and-edit-button.png)
-6. テンプレートを編集するには、{% octicon "pencil" aria-label="The edit icon" %} をクリックし、フィールドに入力してコンテンツを編集します。 ![[Issue template edit] ボタン](/assets/images/help/repository/issue-template-edit-button.png)
-7. デフォルトの Issue タイトルを自動的に設定するには、リポジトリへの読み取りアクセスを持つ人に Issue を割り当てるか、ラベルを Issue テンプレートに適用し、こうした詳細な情報を [Optional additional information] の下に入力します。 このような詳細情報を Issue テンプレートに、`title`、`labels`、または `assignees` を YAML frontmatter フォーマットで使用して、追加することもできます。 ![Issue テンプレートの追加情報](/assets/images/help/repository/additional-issue-template-info.png)
-8. テンプレートの編集とプレビューが終了したら、ページ右上隅にある [**Propose changes**] をクリックします。 ![[Propose changes] ボタン](/assets/images/help/repository/propose-changes-button.png)
-9. 変更内容を説明するコミットメッセージを入力します。 ![Issue テンプレートコミットメッセージフィールド](/assets/images/help/repository/issue-template-commit-message-field.png)
-10. コミットメッセージフィールドの下で、テンプレートを直接デフォルトブランチにコミットするか、新しいブランチを作成してプルリクエストを開くか判断します。 プルリクエストに関する詳しい情報については「[プルリクエストについて](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)」を参照してください。 ![Issue テンプレートの main へのコミットかプルリクエストを開くかの選択](/assets/images/help/repository/issue-template-commit-to-master-or-open-pull-request.png)
+3. [Features] セクションの [Issues] の下で、[**Set up templates**] をクリックします。 ![[Start template setup] ボタン](/assets/images/2021/10/help/repository/set-up-templates.png)
+4. [Add template] ドロップダウンメニューで、作成するテンプレートの種類をクリックします。 ![[Add template] ドロップダウンメニュー](/assets/images/2021/10/help/repository/add-template-drop-down-menu.png)
+5. テンプレートをリポジトリにコミットする前にプレビューまたは編集するには、[**Preview and edit**] をクリックします。 ![[Preview and edit] ボタン](/assets/images/2021/10/help/repository/preview-and-edit-button.png)
+6. テンプレートを編集するには、{% octicon "pencil" aria-label="The edit icon" %} をクリックし、フィールドに入力してコンテンツを編集します。 ![[Issue template edit] ボタン](/assets/images/2021/10/help/repository/issue-template-edit-button.png)
+7. デフォルトの Issue タイトルを自動的に設定するには、リポジトリへの読み取りアクセスを持つ人に Issue を割り当てるか、ラベルを Issue テンプレートに適用し、こうした詳細な情報を [Optional additional information] の下に入力します。 このような詳細情報を Issue テンプレートに、`title`、`labels`、または `assignees` を YAML frontmatter フォーマットで使用して、追加することもできます。 ![Issue テンプレートの追加情報](/assets/images/2021/10/help/repository/additional-issue-template-info.png)
+8. テンプレートの編集とプレビューが終了したら、ページ右上隅にある [**Propose changes**] をクリックします。 ![[Propose changes] ボタン](/assets/images/2021/10/help/repository/propose-changes-button.png)
+9. 変更内容を説明するコミットメッセージを入力します。 ![Issue テンプレートコミットメッセージフィールド](/assets/images/2021/10/help/repository/issue-template-commit-message-field.png)
+10. コミットメッセージフィールドの下で、テンプレートを直接デフォルトブランチにコミットするか、新しいブランチを作成してプルリクエストを開くか判断します。 プルリクエストに関する詳しい情報については「[プルリクエストについて](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)」を参照してください。 ![Issue テンプレートの main へのコミットかプルリクエストを開くかの選択](/assets/images/2021/10/help/repository/issue-template-commit-to-master-or-open-pull-request.png)
 11. **[Commit changes]** をクリックしてください。 変更がデフォルトブランチにマージされると、コントリビューターがリポジトリで新しい Issue を開くときにテンプレートを使用できるようになります。
 
 {% ifversion fpt or ghec %}
@@ -53,7 +53,7 @@ Issue フォームの設定ファイルの例を次に示します。
 
 {% data reusables.community.issue-forms-sample %}
 
-Issueフォームのレンダリングバージョンは次のとおりです。  ![レンダリングされた Issue フォーム](/assets/images/help/repository/sample-issue-form.png)
+Issueフォームのレンダリングバージョンは次のとおりです。  ![レンダリングされた Issue フォーム](/assets/images/2021/10/help/repository/sample-issue-form.png)
 
 1. Issue フォームを作成するリポジトリを選択します。 書き込みアクセス権を持つ既存のリポジトリを利用することも、新しいリポジトリを作成することもできます。 リポジトリの作成に関する詳細は「[新しいリポジトリの作成](/articles/creating-a-new-repository)」を参照してください。
 2. リポジトリに `.github/ISSUE_TEMPLATE/FORM-NAME.yml` というファイルを作成し、`FORM-NAME` を Issue フォームの名前に置き換えます。 GitHub上での新しいファイルの作成に関する詳しい情報については「[新しいファイルの作成](/github/managing-files-in-a-repository/creating-new-files)」を参照してください。
@@ -94,8 +94,8 @@ contact_links:
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
-3. ファイル名フィールドに `.github/ISSUE_TEMPLATE/config.yml` と入力します。 ![ファイル名の設定](/assets/images/help/repository/template-config-file-name.png)
-4. 新しいファイルの本文に、設定ファイルのコンテンツを入力します。 ![ファイルコンテンツの設定](/assets/images/help/repository/template-config-file-content.png)
+3. ファイル名フィールドに `.github/ISSUE_TEMPLATE/config.yml` と入力します。 ![ファイル名の設定](/assets/images/2021/10/help/repository/template-config-file-name.png)
+4. 新しいファイルの本文に、設定ファイルのコンテンツを入力します。 ![ファイルコンテンツの設定](/assets/images/2021/10/help/repository/template-config-file-content.png)
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_new_file %}

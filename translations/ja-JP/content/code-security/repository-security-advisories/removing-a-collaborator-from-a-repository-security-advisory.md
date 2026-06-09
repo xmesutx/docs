@@ -26,9 +26,9 @@ shortTitle: コラボレータの削除
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-security %}
 {% data reusables.repositories.sidebar-advisories %}
-4. [Security Advisories] のリストから、コラボレータを削除するセキュリティアドバイザリをクリックします。 ![リスト内のセキュリティアドバイザリ](/assets/images/help/security/security-advisory-in-list.png)
-5. ページの右側にある、[Collaborators] の下で、セキュリティアドバイザリから削除するユーザまたは Team の名前を探します。 ![セキュリティアドバイザリのコラボレータ](/assets/images/help/security/security-advisory-collaborator.png)
-6. 削除するコラボレーターの横にある [**X**] アイコンをクリックします。 ![セキュリティアドバイザリからコラボレータを削除する [X] アイコン](/assets/images/help/security/security-advisory-remove-collaborator-x.png)
+4. [Security Advisories] のリストから、コラボレータを削除するセキュリティアドバイザリをクリックします。 ![リスト内のセキュリティアドバイザリ](/assets/images/2021/10/help/security/security-advisory-in-list.png)
+5. ページの右側にある、[Collaborators] の下で、セキュリティアドバイザリから削除するユーザまたは Team の名前を探します。 ![セキュリティアドバイザリのコラボレータ](/assets/images/2021/10/help/security/security-advisory-collaborator.png)
+6. 削除するコラボレーターの横にある [**X**] アイコンをクリックします。 ![セキュリティアドバイザリからコラボレータを削除する [X] アイコン](/assets/images/2021/10/help/security/security-advisory-remove-collaborator-x.png)
 
 ## 参考リンク
 

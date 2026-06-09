@@ -129,10 +129,10 @@ Você pode usar esses passos para criar e compartilhar um pacote de suporte se v
 
 {% data reusables.enterprise-accounts.access-enterprise-on-dotcom %}
 {% data reusables.enterprise-accounts.settings-tab %}
-3. Na barra lateral esquerda, clique em **Enterprise licensing** (Licenciamento Empresarial). ![Captura de tela que mostra o link do "licenciamento da empresa" na barra lateral de configurações da conta corporativa.](/assets/images/help/enterprises/enterprise-licensing-tab.png)
-4. Em "Ajuda de {% data variables.product.prodname_enterprise %}", clique em **Fazer upload de um pacote de suporte**. ![Captura de tela que mostra o "Link para fazer o upload de um pacote de suporte".](/assets/images/enterprise/support/upload-support-bundle.png)
-5. Em "Selecione uma conta corporativa", selecione a conta associada ao pacote de suporte no menu suspenso. ![Captura de tela que mostra o menu suspenso para selecionar a conta corporativa do pacote de suporte.](/assets/images/enterprise/support/support-bundle-account.png)
-6. Em "Fazer upload de um pacote de suporte para {% data variables.contact.enterprise_support %}", selecione seu pacote de suporte, clique **Escolher arquivo** ou arraste seu arquivo de pacote de suporte para **Escolher arquivo**. ![Captura de tela que mostra o botão o "Escolher arquivo" para fazer o upload de um arquivo de pacote.](/assets/images/enterprise/support/choose-support-bundle-file.png)
+3. Na barra lateral esquerda, clique em **Enterprise licensing** (Licenciamento Empresarial). ![Captura de tela que mostra o link do "licenciamento da empresa" na barra lateral de configurações da conta corporativa.](/assets/images/2021/10/help/enterprises/enterprise-licensing-tab.png)
+4. Em "Ajuda de {% data variables.product.prodname_enterprise %}", clique em **Fazer upload de um pacote de suporte**. ![Captura de tela que mostra o "Link para fazer o upload de um pacote de suporte".](/assets/images/2021/10/enterprise/support/upload-support-bundle.png)
+5. Em "Selecione uma conta corporativa", selecione a conta associada ao pacote de suporte no menu suspenso. ![Captura de tela que mostra o menu suspenso para selecionar a conta corporativa do pacote de suporte.](/assets/images/2021/10/enterprise/support/support-bundle-account.png)
+6. Em "Fazer upload de um pacote de suporte para {% data variables.contact.enterprise_support %}", selecione seu pacote de suporte, clique **Escolher arquivo** ou arraste seu arquivo de pacote de suporte para **Escolher arquivo**. ![Captura de tela que mostra o botão o "Escolher arquivo" para fazer o upload de um arquivo de pacote.](/assets/images/2021/10/enterprise/support/choose-support-bundle-file.png)
 7. Clique em **Fazer upload**.
 
 ### Fazer upload de um pacote de suporte usando SSH

@@ -15,9 +15,9 @@ versions:
 {% data reusables.repositories.sidebar-issue-pr %}
 2. Click the desired issue or pull request.
 3. To add a saved reply, in the comment field, click {% octicon "reply" aria-label="The mail reply" %}.
-   ![Saved replies button](/assets/images/help/writing/saved-replies-button.png)
+   ![Saved replies button](/assets/images/2021/10/help/writing/saved-replies-button.png)
 4. From the list, select the saved reply you'd like to add to your comment.
-   ![Saved replies](/assets/images/help/settings/saved-replies.png)
+   ![Saved replies](/assets/images/2021/10/help/settings/saved-replies.png)
 
 {% tip %}
 

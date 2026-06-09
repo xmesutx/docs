@@ -1,1 +1,1 @@
-1. A la derecha de la barra de búsqueda, selecciona el menú desplegable de Exportar y haz clic en el formato de exportación deseado. ![Captura de pantalla del botón de exportar.](/assets/images/help/organizations/people-tab-export.png)
+1. A la derecha de la barra de búsqueda, selecciona el menú desplegable de Exportar y haz clic en el formato de exportación deseado. ![Captura de pantalla del botón de exportar.](/assets/images/2021/11/help/organizations/people-tab-export.png)

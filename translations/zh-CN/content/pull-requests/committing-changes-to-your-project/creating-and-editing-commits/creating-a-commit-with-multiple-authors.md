@@ -37,7 +37,7 @@ shortTitle: 有多个作者
 
 可以使用 {% data variables.product.prodname_desktop %} 创建合作提交。 更多信息请参阅“[编写提交消息并推送更改](/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project#4-write-a-commit-message-and-push-your-changes)”和 [{% data variables.product.prodname_desktop %}](https://desktop.github.com)。
 
-![添加合作作者到提交消息](/assets/images/help/desktop/co-authors-demo-hq.gif)
+![添加合作作者到提交消息](/assets/images/2021/10/help/desktop/co-authors-demo-hq.gif)
 
 ## 在命令行上创建合作提交
 
@@ -73,10 +73,10 @@ shortTitle: 有多个作者
 在 {% data variables.product.product_name %} 上使用 web 编辑器对文件进行更改后，您可以通过在提交消息中添加 `Co-authored-by:` 尾行来创建合作提交。
 
 {% data reusables.pull_requests.collect-co-author-commit-git-config-info %}
-2. 合作进行更改后，在页面底部键入简短、有意义的提交消息，以描述你们所做的更改。 ![有关更改的提交消息](/assets/images/help/repository/write-commit-message-quick-pull.png)
+2. 合作进行更改后，在页面底部键入简短、有意义的提交消息，以描述你们所做的更改。 ![有关更改的提交消息](/assets/images/2021/10/help/repository/write-commit-message-quick-pull.png)
 3. 在提交消息下方的文本框中，根据每个合作作者的特定信息添加 `Co-authored-by: name <name@example.com>`。 如果要添加多个合作作者，请为每个合作作者键入一个 `Co-authored-by:` 提交尾行。
 
-  ![第二个提交消息文本框中的提交消息合作作者尾行示例](/assets/images/help/repository/write-commit-message-co-author-trailer.png)
+  ![第二个提交消息文本框中的提交消息合作作者尾行示例](/assets/images/2021/10/help/repository/write-commit-message-co-author-trailer.png)
 4. 单击 **Commit changes（提交更改）**或 **Propose changes（提议更改）**。
 
 新的提交和消息将显示在 {% data variables.product.product_location %} 上。

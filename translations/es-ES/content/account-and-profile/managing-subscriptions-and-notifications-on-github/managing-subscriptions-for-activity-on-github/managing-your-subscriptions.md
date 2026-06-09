@@ -46,14 +46,14 @@ Cuando te desuscribes de las notificaciones en tu bandeja de entrada, desaparece
 
 {% data reusables.notifications.access_notifications %}
 1. Desde la bandeja de notificaciones, selecciona aquellas de las cuales deseas darte de baja.
-2. Haz clic en **Desuscribirse.** ![Opción para darse de baja de una bandeja principal](/assets/images/help/notifications-v2/unsubscribe-from-main-inbox.png)
+2. Haz clic en **Desuscribirse.** ![Opción para darse de baja de una bandeja principal](/assets/images/2021/10/help/notifications-v2/unsubscribe-from-main-inbox.png)
 
 ## Darse de baja de las notificaciones en la página de suscripciones
 
 {% data reusables.notifications.access_notifications %}
-1. En la barra lateral izquierda, bajo la lista de repositorios, utiliza el menú desplegable de "Administrar notificaciones" para dar clic en **Suscripciones**. ![Opciones del menú desplegable de administrar notificaciones](/assets/images/help/notifications-v2/manage-notifications-options.png)
+1. En la barra lateral izquierda, bajo la lista de repositorios, utiliza el menú desplegable de "Administrar notificaciones" para dar clic en **Suscripciones**. ![Opciones del menú desplegable de administrar notificaciones](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
-2. Selecciona las notificaciones de las cuales quieres darte de baja. En la esquina superior derecha, da clic en **Darse de baja** ![Página de suscripciones](/assets/images/help/notifications-v2/unsubscribe-from-subscriptions-page.png)
+2. Selecciona las notificaciones de las cuales quieres darte de baja. En la esquina superior derecha, da clic en **Darse de baja** ![Página de suscripciones](/assets/images/2021/10/help/notifications-v2/unsubscribe-from-subscriptions-page.png)
 
 ## Dejar de observar los repositorios
 
@@ -62,7 +62,7 @@ Cuando dejas de observar un repositorio, de desuscribes de notificaciones futura
 {% data reusables.notifications.access_notifications %}
 1. En la barra lateral izquierda, bajo la lista de repositorios, utiliza el menú desplegable de "Administrar notificaciones" para dar clic en **Repositorios que sigues**.
 
-  ![Opciones del menú desplegable de administrar notificaciones](/assets/images/help/notifications-v2/manage-notifications-options.png)
+  ![Opciones del menú desplegable de administrar notificaciones](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
 2. En la página de repositorios que sigues, después de que hayas evaluado aquellos que estás siguiendo, decide si quieres:
 
@@ -73,10 +73,10 @@ Cuando dejas de observar un repositorio, de desuscribes de notificaciones futura
 {%- ifversion fpt or ghec or ghes > 3.3 or ghae-issue-5819 %}
 1. Opcionalmente, para desuscribirte de todos los repositorios que le pertenecen a algún usuario u organización, selecciona el menú desplegable de **Dejar de observar todos** y haz clic en la organización que tiene los repositorios de los cuales quieres desuscribirte. El botón para dejar de observar todos los repositorios solo se encuentra disponible si estás observando toda la actividad o notificaciones personalizadas en más de 10 repositorios.
 
-   ![Captura de pantalla del botón "Dejar de observar todos".](/assets/images/help/notifications-v2/unsubscribe-from-all-repos.png)
+   ![Captura de pantalla del botón "Dejar de observar todos".](/assets/images/2022/01/help/notifications-v2/unsubscribe-from-all-repos.png)
 
    - Haz clic en **Dejar de observar** para confirmar que quieres dejar de observar los repositorios que le pertenecen al usuario u organización seleccionado o haz clic en **Cancelar** para cancelar la acción.
 
-   ![Captura de pantalla del diálogo de confirmación para dejar de observar todos.](/assets/images/help/notifications-v2/unwatch-repo-dialog.png)
+   ![Captura de pantalla del diálogo de confirmación para dejar de observar todos.](/assets/images/2022/01/help/notifications-v2/unwatch-repo-dialog.png)
 
 {% endif %}

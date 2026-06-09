@@ -43,7 +43,7 @@ We strongly recommend enabling PROXY protocol support for both your appliance an
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
 3. Under **External load balancers**, select **Enable support for PROXY protocol**.
-![Checkbox to enable support for PROXY protocol](/assets/images/enterprise/management-console/enable-proxy.png)
+![Checkbox to enable support for PROXY protocol](/assets/images/2021/10/enterprise/management-console/enable-proxy.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.proxy_protocol_ports %}
@@ -56,7 +56,7 @@ We strongly recommend enabling PROXY protocol support for both your appliance an
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
 3. Under **External load balancers**, select **Allow HTTP X-Forwarded-For header**.
-![Checkbox to allow the HTTP X-Forwarded-For header](/assets/images/enterprise/management-console/allow-xff.png)
+![Checkbox to allow the HTTP X-Forwarded-For header](/assets/images/2021/10/enterprise/management-console/allow-xff.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.without_proxy_protocol_ports %}

@@ -25,7 +25,7 @@ shortTitle: 使用表格组织的数据
 | Content Cell  | Content Cell  |
 ```
 
-![呈现的表格](/assets/images/help/writing/table-basic-rendered.png)
+![呈现的表格](/assets/images/2021/10/help/writing/table-basic-rendered.png)
 
 表格末尾的竖线可选。
 
@@ -38,7 +38,7 @@ shortTitle: 使用表格组织的数据
 | git diff | Show file differences that haven't been staged |
 ```
 
-![呈现的单元格宽度不同的表格](/assets/images/help/writing/table-varied-columns-rendered.png)
+![呈现的单元格宽度不同的表格](/assets/images/2021/10/help/writing/table-varied-columns-rendered.png)
 
 {% data reusables.user-settings.enabling-fixed-width-fonts %}
 
@@ -53,7 +53,7 @@ shortTitle: 使用表格组织的数据
 | `git diff` | Show file differences that **haven't been** staged |
 ```
 
-![呈现的带格式化文本的表格](/assets/images/help/writing/table-inline-formatting-rendered.png)
+![呈现的带格式化文本的表格](/assets/images/2021/10/help/writing/table-inline-formatting-rendered.png)
 
 您可以在标头行中横线的左侧、右侧或两侧加入冒号 `:`，靠左、靠右或居中对齐列中的文本。
 
@@ -64,7 +64,7 @@ shortTitle: 使用表格组织的数据
 | git diff     | git diff       | git diff      |
 ```
 
-![呈现的文本靠左、居中和靠右对齐的表格](/assets/images/help/writing/table-aligned-text-rendered.png)
+![呈现的文本靠左、居中和靠右对齐的表格](/assets/images/2021/10/help/writing/table-aligned-text-rendered.png)
 
 要包含竖线 `|` 作为单元格中的内容，请在竖线前使用 `\`：
 
@@ -75,7 +75,7 @@ shortTitle: 使用表格组织的数据
 | Pipe     | \|        |
 ```
 
-![呈现的带逸出竖线字符的表格](/assets/images/help/writing/table-escaped-character-rendered.png)
+![呈现的带逸出竖线字符的表格](/assets/images/2021/10/help/writing/table-escaped-character-rendered.png)
 
 ## 延伸阅读
 

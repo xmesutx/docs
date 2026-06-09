@@ -27,7 +27,7 @@ When you follow someone on {% data variables.product.prodname_dotcom %}, you'll 
 
 Click **Follow** on a person's profile page to follow them.
 
-![Follow user button](/assets/images/help/profile/follow-user-button.png)
+![Follow user button](/assets/images/2021/10/help/profile/follow-user-button.png)
 
 ## Watching a repository
 
@@ -35,7 +35,7 @@ You can watch a repository to receive notifications for new pull requests and is
 
 Click **Watch** at the top of a repository to watch it.
 
-![Watch repository button](/assets/images/help/repository/repo-actions-watch.png)
+![Watch repository button](/assets/images/2021/10/help/repository/repo-actions-watch.png)
 
 ## Joining the conversation
 
@@ -51,19 +51,19 @@ Click **Watch** at the top of a repository to watch it.
 
  You may want to contribute to another person's project, whether to add features or to fix bugs. After making changes, let the original author know by sending a pull request. For more information, see "[About pull requests](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)."
 
- ![Pull request button](/assets/images/help/repository/repo-actions-pullrequest.png)
+ ![Pull request button](/assets/images/2021/10/help/repository/repo-actions-pullrequest.png)
 
 ### Using issues
 
 When collaborating on a repository, use issues to track ideas, enhancements, tasks, or bugs. For more information, see '[About issues](/articles/about-issues/)."
 
-![Issues button](/assets/images/help/repository/repo-tabs-issues.png)
+![Issues button](/assets/images/2021/10/help/repository/repo-tabs-issues.png)
 
 ### Participating in organizations
 
 Organizations are shared accounts where businesses and open-source projects can collaborate across many projects at once. Owners and administrators can establish teams with special permissions, have a public organization profile, and keep track of activity within the organization. For more information, see "[About organizations](/articles/about-organizations/)."
 
-![Switch account context dropdown](/assets/images/help/overview/dashboard-contextswitcher.png)
+![Switch account context dropdown](/assets/images/2021/10/help/overview/dashboard-contextswitcher.png)
 
 ### Exploring other projects on {% data variables.product.prodname_dotcom %}
 
@@ -72,7 +72,7 @@ Discover interesting projects using {% data variables.explore.explore_github %},
 ## Celebrate
 
 You're now connected to the {% data variables.product.product_name %} community. What do you want to do next?
-![Star a project](/assets/images/help/stars/star-a-project.png)
+![Star a project](/assets/images/2021/10/help/stars/star-a-project.png)
 
 
 - To synchronize your {% data variables.product.product_name %} projects with your computer, you can set up Git. For more information see "[Set up Git](/articles/set-up-git)."

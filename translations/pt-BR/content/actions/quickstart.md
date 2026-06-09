@@ -51,7 +51,7 @@ O exemplo a seguir mostra como os trabalhos de {% data variables.product.prodnam
 
     ```
     {% endraw %}
-3. Vá até o final da página e selecione **Criar um novo branch para este commit e iniciar um pull request**. Em seguida, para criar um pull request, clique em **Propor novo arquivo**. ![Arquivo do fluxo de trabalho do commit](/assets/images/help/repository/actions-quickstart-commit-new-file.png)
+3. Vá até o final da página e selecione **Criar um novo branch para este commit e iniciar um pull request**. Em seguida, para criar um pull request, clique em **Propor novo arquivo**. ![Arquivo do fluxo de trabalho do commit](/assets/images/2021/10/help/repository/actions-quickstart-commit-new-file.png)
 
 Fazer commit do arquivo de fluxo de trabalho para um branch em seu repositório aciona o evento `push` e executa seu fluxo de trabalho.
 
@@ -61,18 +61,18 @@ Fazer commit do arquivo de fluxo de trabalho para um branch em seu repositório 
 {% data reusables.repositories.actions-tab %}
 1. Na barra lateral esquerda, clique no fluxo de trabalho que deseja ver.
 
-   ![Lista de fluxo de trabalho na barra lateral esquerda](/assets/images/help/repository/actions-quickstart-workflow-sidebar.png)
+   ![Lista de fluxo de trabalho na barra lateral esquerda](/assets/images/2021/10/help/repository/actions-quickstart-workflow-sidebar.png)
 1. Na lista de execuções do fluxo de trabalho, clique no nome da execução que você deseja visualizar.
 
-   ![Nome da execução do fluxo de trabalho](/assets/images/help/repository/actions-quickstart-run-name.png)
+   ![Nome da execução do fluxo de trabalho](/assets/images/2021/10/help/repository/actions-quickstart-run-name.png)
 1. Em **Trabalhos**, clique no trabalho **Explore-GitHub-Actions**.
 
-   ![Localizar trabalho](/assets/images/help/repository/actions-quickstart-job.png)
+   ![Localizar trabalho](/assets/images/2021/10/help/repository/actions-quickstart-job.png)
 1. O registro mostra como cada uma das etapas foi processada. Expanda qualquer um dos passos para ver seus detalhes.
 
-   ![Exemplos de resultados do fluxo de trabalho](/assets/images/help/repository/actions-quickstart-logs.png)
+   ![Exemplos de resultados do fluxo de trabalho](/assets/images/2021/10/help/repository/actions-quickstart-logs.png)
 
-   Por exemplo, você pode ver a lista de arquivos no seu repositório: ![Exemplo do detalhe da ação](/assets/images/help/repository/actions-quickstart-log-detail.png)
+   Por exemplo, você pode ver a lista de arquivos no seu repositório: ![Exemplo do detalhe da ação](/assets/images/2021/10/help/repository/actions-quickstart-log-detail.png)
 
 ## Mais fluxos de trabalho iniciais
 

@@ -37,12 +37,12 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-5. {% ifversion ghes %}在“Sign in page（登录页面）”的右侧{% else %}下面{% endif %}，单击 **Add message（添加消息）**或 **Edit message（编辑消息）**。 ![{% ifversion ghes %}添加{% else %}编辑{% endif %}消息按钮](/assets/images/enterprise/site-admin-settings/edit-message.png)
-6. 在 **Sign in message** 下，输入您想要用户看到的消息。 ![Sign in message](/assets/images/enterprise/site-admin-settings/sign-in-message.png){% ifversion ghes %}
+5. {% ifversion ghes %}在“Sign in page（登录页面）”的右侧{% else %}下面{% endif %}，单击 **Add message（添加消息）**或 **Edit message（编辑消息）**。 ![{% ifversion ghes %}添加{% else %}编辑{% endif %}消息按钮](/assets/images/2021/10/enterprise/site-admin-settings/edit-message.png)
+6. 在 **Sign in message** 下，输入您想要用户看到的消息。 ![Sign in message](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message.png){% ifversion ghes %}
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}{% else %}
 {% data reusables.enterprise_site_admin_settings.click-preview %}
-  ![Preview 按钮](/assets/images/enterprise/site-admin-settings/sign-in-message-preview-button.png)
-8. 预览呈现的消息。 ![呈现的登录消息](/assets/images/enterprise/site-admin-settings/sign-in-message-rendered.png)
+  ![Preview 按钮](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message-preview-button.png)
+8. 预览呈现的消息。 ![呈现的登录消息](/assets/images/2021/10/enterprise/site-admin-settings/sign-in-message-rendered.png)
 {% data reusables.enterprise_site_admin_settings.save-changes %}{% endif %}
 {% endif %}
 
@@ -51,12 +51,12 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-5. {% ifversion ghes or ghae %}在“Sign out page（登出页面）”的右侧{% else %}下面{% endif %}，单击 **Add message（添加消息）**或 **Edit message（编辑消息）**。 ![Add message 按钮](/assets/images/enterprise/site-admin-settings/sign-out-add-message-button.png)
-6. 在 **Sign out message** 下，输入您想要用户看到的消息。 ![Sign two_factor_auth_header message](/assets/images/enterprise/site-admin-settings/sign-out-message.png){% ifversion ghes or ghae %}
+5. {% ifversion ghes or ghae %}在“Sign out page（登出页面）”的右侧{% else %}下面{% endif %}，单击 **Add message（添加消息）**或 **Edit message（编辑消息）**。 ![Add message 按钮](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-add-message-button.png)
+6. 在 **Sign out message** 下，输入您想要用户看到的消息。 ![Sign two_factor_auth_header message](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message.png){% ifversion ghes or ghae %}
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}{% else %}
 {% data reusables.enterprise_site_admin_settings.click-preview %}
-  ![Preview 按钮](/assets/images/enterprise/site-admin-settings/sign-out-message-preview-button.png)
-8. 预览呈现的消息。 ![呈现的注销消息](/assets/images/enterprise/site-admin-settings/sign-out-message-rendered.png)
+  ![Preview 按钮](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message-preview-button.png)
+8. 预览呈现的消息。 ![呈现的注销消息](/assets/images/2021/10/enterprise/site-admin-settings/sign-out-message-rendered.png)
 {% data reusables.enterprise_site_admin_settings.save-changes %}{% endif %}
 
 {% ifversion ghes or ghae %}
@@ -83,8 +83,8 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-1. 在“Mandatory message（必读消息）”的右侧，单击 **Add message（添加消息）**。 ![添加强制性消息按钮](/assets/images/enterprise/site-admin-settings/add-mandatory-message-button.png)
-1. 在“Mandatory message（必读消息）”下面的文本框中输入消息。 ![强制性消息文本框](/assets/images/enterprise/site-admin-settings/mandatory-message-text-box.png)
+1. 在“Mandatory message（必读消息）”的右侧，单击 **Add message（添加消息）**。 ![添加强制性消息按钮](/assets/images/2021/10/enterprise/site-admin-settings/add-mandatory-message-button.png)
+1. 在“Mandatory message（必读消息）”下面的文本框中输入消息。 ![强制性消息文本框](/assets/images/2021/10/enterprise/site-admin-settings/mandatory-message-text-box.png)
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}
 
 {% endif %}
@@ -105,8 +105,8 @@ topics:
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.messages-tab %}
-1. {% ifversion ghes or ghae %}在“Announcement（公告）”的右侧{% else %}下面{% endif %}，单击 **Add announcement（添加公告）**。 ![Add message 按钮](/assets/images/enterprise/site-admin-settings/add-announcement-button.png)
-1. 在“Announcement（公告）”下的在文本字段中键入要显示在横幅中的公告。 ![用于输入公告的文本字段](/assets/images/enterprise/site-admin-settings/announcement-text-field.png)
-1. （可选）在“Expires on（到期日）”下，选择日历下拉菜单并单击一个到期日。 ![用于选择到期日期的日历下拉菜单](/assets/images/enterprise/site-admin-settings/expiration-drop-down.png)
+1. {% ifversion ghes or ghae %}在“Announcement（公告）”的右侧{% else %}下面{% endif %}，单击 **Add announcement（添加公告）**。 ![Add message 按钮](/assets/images/2021/10/enterprise/site-admin-settings/add-announcement-button.png)
+1. 在“Announcement（公告）”下的在文本字段中键入要显示在横幅中的公告。 ![用于输入公告的文本字段](/assets/images/2021/10/enterprise/site-admin-settings/announcement-text-field.png)
+1. （可选）在“Expires on（到期日）”下，选择日历下拉菜单并单击一个到期日。 ![用于选择到期日期的日历下拉菜单](/assets/images/2021/10/enterprise/site-admin-settings/expiration-drop-down.png)
 {% data reusables.enterprise_site_admin_settings.message-preview-save %}
 {% endif %}

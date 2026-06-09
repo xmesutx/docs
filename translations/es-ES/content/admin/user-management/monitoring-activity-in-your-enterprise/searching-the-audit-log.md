@@ -48,4 +48,4 @@ Para encontrar una lista completa de acciones, consulta la sección "[Acciones a
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
-4. Escribe una consulta de búsqueda. ![Consulta de búsqueda](/assets/images/enterprise/site-admin-settings/search-query.png)
+4. Escribe una consulta de búsqueda. ![Consulta de búsqueda](/assets/images/2021/10/enterprise/site-admin-settings/search-query.png)

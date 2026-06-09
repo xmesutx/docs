@@ -49,7 +49,7 @@ Although MinIO does not currently appear in the user interface under "Package St
     - **AWS S3 Bucket:** The name of your S3-compatible MinIO bucket dedicated to {% data variables.product.prodname_registry %}.
     - **AWS S3 Access Key** and **AWS S3 Secret Key**: Enter the MinIO access key ID and secret key to access your bucket.
 
-    ![Entry boxes for your S3 AWS bucket's details](/assets/images/help/package-registry/s3-aws-storage-bucket-details.png)
+    ![Entry boxes for your S3 AWS bucket's details](/assets/images/2021/10/help/package-registry/s3-aws-storage-bucket-details.png)
 {% endif %}
 {% data reusables.enterprise_management_console.save-settings %}
 

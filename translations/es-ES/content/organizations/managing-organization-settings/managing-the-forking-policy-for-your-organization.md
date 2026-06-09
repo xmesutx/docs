@@ -27,9 +27,9 @@ If you allow forking of private{% ifversion ghes or ghec or ghae %} and internal
 1. Under "Repository forking", select **Allow forking of private {% ifversion ghec or ghes or ghae %}and internal {% endif %}repositories**.
 
    {%- ifversion fpt %}
-   ![Checkbox to allow or disallow forking in the organization](/assets/images/help/repository/allow-disable-forking-fpt.png)
+   ![Checkbox to allow or disallow forking in the organization](/assets/images/2021/12/help/repository/allow-disable-forking-fpt.png)
    {%- elsif ghes or ghec or ghae %}
-   ![Checkbox to allow or disallow forking in the organization](/assets/images/help/repository/allow-disable-forking-organization.png)
+   ![Checkbox to allow or disallow forking in the organization](/assets/images/2021/10/help/repository/allow-disable-forking-organization.png)
    {%- endif %}
 6. Click **Save**.
 

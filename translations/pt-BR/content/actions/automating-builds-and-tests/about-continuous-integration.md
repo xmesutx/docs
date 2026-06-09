@@ -41,7 +41,7 @@ Você pode configurar a execução do seu fluxo de trabalho de CI para ocorrer d
 
 Ao configurar o CI no seu repositório, {% data variables.product.product_name %} analisa o código no seu repositório e recomenda fluxos de trabalho CI baseados no idioma e na estrutura do seu repositório. Por exemplo, se você usar [Node.js](https://nodejs.org/en/), {% data variables.product.product_name %} irá sugerir um fluxo de trabalho inicial que instala seus pacotes Node.js e executa seus testes. Você pode usar o fluxo de trabalho inicial de CI sugerido por {% data variables.product.product_name %}, personalizar o fluxo de trabalho inicial sugerido ou criar o seu próprio arquivo de fluxo de trabalho personalizado para executar seus testes de CI.
 
-![Captura de tela de fluxos de trabalho iniciais de integração contínua sugeridos](/assets/images/help/repository/ci-with-actions-template-picker.png)
+![Captura de tela de fluxos de trabalho iniciais de integração contínua sugeridos](/assets/images/2021/10/help/repository/ci-with-actions-template-picker.png)
 
 Além de ajudá-lo a configurar fluxos de trabalho de CI para seu projeto, você pode usar {% data variables.product.prodname_actions %} para criar fluxos de trabalho ao longo de todo o ciclo de vida de desenvolvimento do software. Por exemplo, você pode usar ações para implantar, criar pacotes ou lançar uma versão do seu projeto. Para obter mais informações, consulte "[Sobre {% data variables.product.prodname_actions %}](/articles/about-github-actions)".
 

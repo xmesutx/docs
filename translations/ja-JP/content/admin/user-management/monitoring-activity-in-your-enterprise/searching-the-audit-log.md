@@ -48,4 +48,4 @@ AND/ORの論理演算子で区切られた値のペア:1つ以上のキーを使
 {% data reusables.enterprise-accounts.access-enterprise %}
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.audit-log-tab %}
-4. 検索クエリを入力します。![検索クエリ](/assets/images/enterprise/site-admin-settings/search-query.png)
+4. 検索クエリを入力します。![検索クエリ](/assets/images/2021/10/enterprise/site-admin-settings/search-query.png)

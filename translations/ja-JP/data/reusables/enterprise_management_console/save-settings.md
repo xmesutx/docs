@@ -1,6 +1,6 @@
 1. 左のサイドバーの下で**Save settings（設定の保存）**をクリックしてください。
 
-   ![Screenshot of the save settings button in the {% data variables.enterprise.management_console %}](/assets/images/enterprise/management-console/save-settings.png)
+   ![Screenshot of the save settings button in the {% data variables.enterprise.management_console %}](/assets/images/2021/10/enterprise/management-console/save-settings.png)
 
    {% note %}
 

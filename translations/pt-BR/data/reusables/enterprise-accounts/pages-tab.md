@@ -1,1 +1,1 @@
-1. Em "Políticas de {% octicon "law" aria-label="The law icon" %}", clique em **Páginas**. ![Aba de páginas na barra lateral da empresa](/assets/images/enterprise/business-accounts/pages-tab.png)
+1. Em "Políticas de {% octicon "law" aria-label="The law icon" %}", clique em **Páginas**. ![Aba de páginas na barra lateral da empresa](/assets/images/2021/10/enterprise/business-accounts/pages-tab.png)

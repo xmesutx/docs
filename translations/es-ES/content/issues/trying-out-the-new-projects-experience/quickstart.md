@@ -70,12 +70,12 @@ Ahora, crea un campo personalizado que se llame `Priority` para que contenga los
 3. Selecciona **Crear campo nuevo**.
 4. En la ventana emergente resultante, ingresa `Priority` en la caja de texto.
 5. En el menú desplegable, selecciona **Selección simple**.
-6. Agrega opciones para `High`, `Medium`, y `Low`. También puedes incluir emojis en tus opciones. ![Ejemplo de campo de seleccións sencilla nueva](/assets/images/help/projects/new-single-select-field.png)
+6. Agrega opciones para `High`, `Medium`, y `Low`. También puedes incluir emojis en tus opciones. ![Ejemplo de campo de seleccións sencilla nueva](/assets/images/2021/10/help/projects/new-single-select-field.png)
 7. Haz clic en **Save ** (guardar).
 
 Especificar una prioridad para todas las propuestas de tu proyecto.
 
-![Prioridades de ejemplo](/assets/images/help/projects/priority_example.png)
+![Prioridades de ejemplo](/assets/images/2021/10/help/projects/priority_example.png)
 
 ## Agrupar propuestas por rioridad
 
@@ -90,7 +90,7 @@ Ahora, mueve las propuestas entre los grupos para cambiar su prioridad.
 1. Elige una propuesta.
 2. Arrástrala y suéltala en un grupo de prioridad diferente. Cuando lo haces, la prioridad de esta propuesta cambiará para ser la prioridad de este grupo nuevo.
 
-![Mover la propuesta entre grupos](/assets/images/help/projects/move_between_group.gif)
+![Mover la propuesta entre grupos](/assets/images/2021/10/help/projects/move_between_group.gif)
 
 ## Guardar la vista de prioridades
 
@@ -114,7 +114,7 @@ Para ver el progreso de las propuestas de tu proyecto, puedes cambiar al diseño
 
 El diseño de tablero se basa en el campo de estado, así que especifica un estado para cada propuesta en tu proyecto.
 
-![Estado de ejemplo](/assets/images/help/projects/status_example.png)
+![Estado de ejemplo](/assets/images/2021/10/help/projects/status_example.png)
 
 Posteriormente, crea una vista nueva.
 
@@ -124,7 +124,7 @@ Ahora, cambia al diseño de tablero.
 
 1. {% data reusables.projects.open-command-palette %}
 2. Comienza a teclear cualquier parte de "Switch layout: Board".
-3. Selecciona **Switch layout: Board**. ![Prioridades de ejemplo](/assets/images/help/projects/example_board.png)
+3. Selecciona **Switch layout: Board**. ![Prioridades de ejemplo](/assets/images/2021/10/help/projects/example_board.png)
 
 Cuando cambiaste el diseño, tu proyecto mostró un indicador para mostrar que la vista se modificó. Guarda esta vista para que tanto tus colaboradores como tú puedan acceder fácilmente a ella en el futuro.
 
@@ -136,7 +136,7 @@ Para indicar la propuesta de la vista, dale un nombre descriptivo.
 1. Coloca tu cursor en el nombre de la vista acuta, **Vista 2**.
 2. Reemplaza el texto existente con el nombre nuevo, `Progress`.
 
-![Prioridades de ejemplo](/assets/images/help/projects/project-view-switch.gif)
+![Prioridades de ejemplo](/assets/images/2021/10/help/projects/project-view-switch.gif)
 
 ## Configurar la automatización integrada
 

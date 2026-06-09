@@ -29,7 +29,7 @@ Este guia mostra como configurar seu projeto Java em {% data variables.product.p
 
 1. No nome do repositório, use o menu suspenso **Código de {% octicon "code" aria-label="The code icon" %}** e na aba **Codespaces** de código, clique em {% octicon "plus" aria-label="The plus icon" %} **Novo codespace**.
 
-  ![Botão de codespace novo](/assets/images/help/codespaces/new-codespace-button.png)
+  ![Botão de codespace novo](/assets/images/2021/10/help/codespaces/new-codespace-button.png)
 
   Se você não vir esta opção, significa que {% data variables.product.prodname_codespaces %} não está disponível para o seu projeto. Consulte [Acesso a {% data variables.product.prodname_codespaces %}](/codespaces/developing-in-codespaces/creating-a-codespace#access-to-codespaces) para mais informações.
 
@@ -48,8 +48,8 @@ Para configurar seu projeto com um contêiner personalizado, você deverá usar 
 
 
 {% data reusables.codespaces.command-palette-container %}
-3. Para este exemplo, clique em **Java**. Na prática, você pode selecionar qualquer contêiner específico para Java ou uma combinação de ferramentas como Java e Azure Functions. ![Selecione a opção Java na lista](/assets/images/help/codespaces/add-java-prebuilt-container.png)
-4. Clique na versão recomendada do Java. ![Seleção da versão Java](/assets/images/help/codespaces/add-java-version.png)
+3. Para este exemplo, clique em **Java**. Na prática, você pode selecionar qualquer contêiner específico para Java ou uma combinação de ferramentas como Java e Azure Functions. ![Selecione a opção Java na lista](/assets/images/2021/10/help/codespaces/add-java-prebuilt-container.png)
+4. Clique na versão recomendada do Java. ![Seleção da versão Java](/assets/images/2021/10/help/codespaces/add-java-version.png)
 {% data reusables.codespaces.rebuild-command %}
 
 ### Anatomia do seu contêiner de desenvolvimento
@@ -153,7 +153,7 @@ Com o seu contêiner de desenvolvimento adicionado e um entendimento básico do 
 
 1. No Explorer, selecione o arquivo `devcontainer.json` a partir da árvore para abri-lo. Você pode ter que expandir a pasta `.devcontainer` para vê-la.
 
-  ![Arquivo devcontainer.json no Explorador](/assets/images/help/codespaces/devcontainers-options.png)
+  ![Arquivo devcontainer.json no Explorador](/assets/images/2021/10/help/codespaces/devcontainers-options.png)
 
 2. Adicione as seguintes linhas ao seu arquivo `devcontainer.json` após as `extensões`.
 
@@ -177,7 +177,7 @@ Na seção anterior, você usou o `postCreateCommand` para instalar um conjunto 
 
 2. Quando o seu projeto for iniciado, você deverá ver um alerta no canto inferior direito com uma instrução para conectar-se à porta que seu projeto usa.
 
-  ![Notificação de encaminhamento de porta](/assets/images/help/codespaces/codespaces-port-toast.png)
+  ![Notificação de encaminhamento de porta](/assets/images/2021/10/help/codespaces/codespaces-port-toast.png)
 
 ## Etapa 5: Faça commit das suas alterações
 

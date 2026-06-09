@@ -30,7 +30,7 @@ shortTitle: 禁用 2FA
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
-3. 单击 **Disable（禁用）**。 ![禁用双重身份验证](/assets/images/help/2fa/disable-two-factor-authentication.png)
+3. 单击 **Disable（禁用）**。 ![禁用双重身份验证](/assets/images/2021/10/help/2fa/disable-two-factor-authentication.png)
 
 ## 延伸阅读
 

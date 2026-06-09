@@ -23,7 +23,7 @@ shortTitle: 对 PR 的评论
 
 您可以在拉取请求的 **Conversation（对话）**选项卡上发表评论，以留下总评、疑问或提议。 您还可以提出拉取请求的作者可直接从您的注释中应用的更改。
 
-![拉取请求对话](/assets/images/help/pull_requests/conversation.png)
+![拉取请求对话](/assets/images/2021/10/help/pull_requests/conversation.png)
 
 也可以采用单独行注释的形式或者作为[拉取请求审查](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)的一部分，在拉取请求的 **Files changed（已更改文件）**选项卡上对文件的特定部分做出评论。 添加行注释是讨论有关实现的问题或向作者提供反馈的好方法。
 
@@ -53,7 +53,7 @@ shortTitle: 对 PR 的评论
 {% data reusables.repositories.start-line-comment %}
 {% data reusables.repositories.type-line-comment %}
 {% data reusables.repositories.suggest-changes %}
-5. 完成后，单击 **Add single comment（添加单个评论）**。 ![内联评论窗口](/assets/images/help/commits/inline-comment.png)
+5. 完成后，单击 **Add single comment（添加单个评论）**。 ![内联评论窗口](/assets/images/2021/10/help/commits/inline-comment.png)
 
 任何关注拉取请求或仓库的人都会收到有关您评论的通知。
 

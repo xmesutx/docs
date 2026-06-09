@@ -28,14 +28,14 @@ shortTitle: 管理报告的内容
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
-4. 在要查看的报告内容的右侧，单击 {% octicon "kebab-horizontal" aria-label="The edit icon" %}，然后单击 **View content（查看内容）**。 ![已报告内容的 Edit（编辑）菜单中的"View content（查看内容）"](/assets/images/help/repository/reported-content-report-view-content.png)
+4. 在要查看的报告内容的右侧，单击 {% octicon "kebab-horizontal" aria-label="The edit icon" %}，然后单击 **View content（查看内容）**。 ![已报告内容的 Edit（编辑）菜单中的"View content（查看内容）"](/assets/images/2021/10/help/repository/reported-content-report-view-content.png)
 
 ## 解决报告
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
-4. 在要解决的报告内容的右侧，单击 {% octicon "kebab-horizontal" aria-label="The edit icon" %}，然后单击 **Mark as resolved（标记为已解决）**。 ![已报告内容的 Edit（编辑）菜单中的"Mark as resolved（标记为已解决）"](/assets/images/help/repository/reported-content-mark-report-as-resolved.png)
+4. 在要解决的报告内容的右侧，单击 {% octicon "kebab-horizontal" aria-label="The edit icon" %}，然后单击 **Mark as resolved（标记为已解决）**。 ![已报告内容的 Edit（编辑）菜单中的"Mark as resolved（标记为已解决）"](/assets/images/2021/10/help/repository/reported-content-mark-report-as-resolved.png)
 
 ## 取消解决报告
 
@@ -43,7 +43,7 @@ shortTitle: 管理报告的内容
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.sidebar-moderation-reported-content %}
 {% data reusables.repositories.reported-content-resolved-tab %}
-5. 在要取消解决的报告内容的右侧，单击 {% octicon "kebab-horizontal" aria-label="The edit icon" %}，然后单击 **Mark as unresolved（标记为已取消解决）**。 ![已报告内容的 Edit（编辑）菜单中的"Mark as unresolved（标记为已取消解决）"](/assets/images/help/repository/reported-content-mark-report-as-unresolved.png)
+5. 在要取消解决的报告内容的右侧，单击 {% octicon "kebab-horizontal" aria-label="The edit icon" %}，然后单击 **Mark as unresolved（标记为已取消解决）**。 ![已报告内容的 Edit（编辑）菜单中的"Mark as unresolved（标记为已取消解决）"](/assets/images/2021/10/help/repository/reported-content-mark-report-as-unresolved.png)
 
 ## 延伸阅读
 

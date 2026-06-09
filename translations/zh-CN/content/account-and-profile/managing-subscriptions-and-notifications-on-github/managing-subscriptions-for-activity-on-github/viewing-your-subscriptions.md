@@ -34,7 +34,7 @@ shortTitle: 查看订阅
 
 当收件箱中要管理的通知过多时，请考虑您是否订阅过多，或者如何更改通知设置以减少订阅数量和接收的通知类型。 例如，您可以考虑禁用在加入团队或仓库时自动关注所有仓库和所有团队讨论的设置。
 
-![自动关注](/assets/images/help/notifications-v2/automatic-watching-example.png)
+![自动关注](/assets/images/2021/10/help/notifications-v2/automatic-watching-example.png)
 
 更多信息请参阅“[配置通知](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#automatic-watching)”。
 
@@ -50,11 +50,11 @@ To see an overview of your repository subscriptions, see "[Reviewing repositorie
 ## 查看所有订阅
 
 {% data reusables.notifications.access_notifications %}
-1. 在左侧边栏中您接收其通知的仓库列表下，使用“Manage notifications（管理通知）”下拉按钮单击 **Subscriptions（订阅）**。 ![管理通知下拉菜单选项](/assets/images/help/notifications-v2/manage-notifications-options.png)
+1. 在左侧边栏中您接收其通知的仓库列表下，使用“Manage notifications（管理通知）”下拉按钮单击 **Subscriptions（订阅）**。 ![管理通知下拉菜单选项](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
 
 2. 使用过滤器和排序来缩小订阅列表，并开始取消订阅您不想再接收其通知的对话。
 
-  ![订阅页面](/assets/images/help/notifications-v2/all-subscriptions.png)
+  ![订阅页面](/assets/images/2021/10/help/notifications-v2/all-subscriptions.png)
 
 {% tip %}
 
@@ -67,8 +67,8 @@ To see an overview of your repository subscriptions, see "[Reviewing repositorie
 
 ## 查看您目前关注的仓库
 
-1. 在左侧边栏中的仓库列表下，使用“Manage notifications（管理通知）”下拉菜单单击 **Watched repositories（已关注的仓库）**。 ![管理通知下拉菜单选项](/assets/images/help/notifications-v2/manage-notifications-options.png)
-2. 评估您正在关注的仓库，确定它们更新是否仍然相关和有用。 关注某仓库后，您将收到该仓库所有对话的通知。 ![已关注的通知页面](/assets/images/help/notifications-v2/watched-notifications-custom.png)
+1. 在左侧边栏中的仓库列表下，使用“Manage notifications（管理通知）”下拉菜单单击 **Watched repositories（已关注的仓库）**。 ![管理通知下拉菜单选项](/assets/images/2021/10/help/notifications-v2/manage-notifications-options.png)
+2. 评估您正在关注的仓库，确定它们更新是否仍然相关和有用。 关注某仓库后，您将收到该仓库所有对话的通知。 ![已关注的通知页面](/assets/images/2021/10/help/notifications-v2/watched-notifications-custom.png)
 
   {% tip %}
 

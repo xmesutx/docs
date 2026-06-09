@@ -21,7 +21,7 @@ Para obter um exemplo de como usar a API de verificação com um {% data variabl
 
 Quando alguém faz push de código em um repositório, o GitHub cria um conjunto de verificações para o último commit. Um conjunto de verificações é uma coleção de [execuções de verificação](/rest/reference/checks#check-runs) criadas por um único aplicativo GitHub para um commit específico. Os conjuntos de verificações resumem o estado e conclusão das execuções de verificação que um conjunto inclui.
 
-![Fluxo de trabalho dos conjuntos de verificações](/assets/images/check_suites.png)
+![Fluxo de trabalho dos conjuntos de verificações](/assets/images/2021/10/check_suites.png)
 
 O conjunto de verificações reporta `conclusão` da execução da verificação com a prioridade mais alta na `conclusão` do conjunto de verificações. Por exemplo, se três execuções de verificações tiverem conclusões `timed_out`, `success` e `neutral` a conclusão do conjunto de verificações será `timed_out`.
 
@@ -39,7 +39,7 @@ Para usar a API de conjuntos de verificações, o aplicativo GitHub deve ter a p
 
 Uma execução de verificação é um teste individual que faz parte de um conjunto de verificações. Cada execução inclui um status e uma conclusão.
 
-![Fluxo de trabalho das execuções de verificação](/assets/images/check_runs.png)
+![Fluxo de trabalho das execuções de verificação](/assets/images/2021/10/check_runs.png)
 
 {% ifversion fpt or ghes or ghae or ghec %}
 Se uma execução de verificação estiver em um estado incompleto por mais de 14 dias, a execução de verificação `conclusão` torna-se `obsoleta` e aparece em
@@ -48,7 +48,7 @@ Se uma execução de verificação estiver em um estado incompleto por mais de 1
 
 Assim que você receber o webhook de [`check_suite`](/webhooks/event-payloads/#check_suite), você poderá criar a execução de verificação, mesmo que a verificação não esteja completa. Você pode atualizar o `status` da execução de verificação, pois ele é completado com os valores de `queued`, `in_progress` ou `completed`, e você poderá atualizar a saída de `` conforme mais informações forem disponibilizadas. Uma verificação de execução pode conter registros de hora, um link para obter mais informações sobre o seu site externo, anotações detalhadas para linhas específicas de código, e informações sobre a análise realizada.
 
-![Anotação da execução de verificação](/assets/images/check_run_annotations.png)
+![Anotação da execução de verificação](/assets/images/2021/10/check_run_annotations.png)
 
 Uma verificação também pode ser reexecutada manualmente na interface do usuário do GitHub. Consulte "[Sobre verificações de status](/articles/about-status-checks#checks)para obter mais informações. Quando isso ocorre, o aplicativo GitHub que criou a execução de verificação receberá o webhook [`check_run`](/webhooks/event-payloads/#check_run), solicitando uma nova verificação de execução. Se você criar uma execução de verificação sem criar um conjunto de verificações, o GitHub criará automaticamente o conjunto de verificações para você.
 
@@ -72,7 +72,7 @@ Para criar um botão que possa solicitar ações adicionais do seu aplicativo, u
     }]
   ```
 
-  ![Botão de ação solicitada de execução de verificação](/assets/images/github-apps/github_apps_checks_fix_this_button.png)
+  ![Botão de ação solicitada de execução de verificação](/assets/images/2021/10/github-apps/github_apps_checks_fix_this_button.png)
 
 Quando um usuário clica no botão, {% data variables.product.prodname_dotcom %} envia o webhook [`check_run.requested_action`](/webhooks/event-payloads/#check_run) para seu aplicativo. Quando o seu aplicativo recebe um evento de webhook de `check_run.requested_action`, ele pode procurar a chave `requested_action.identifier` na carga do webhook para determinar qual botão se clicou para executar a tarefa solicitada.
 

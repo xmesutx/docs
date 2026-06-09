@@ -42,7 +42,7 @@ Recomendamos firmemente habilitar el soporte para protocolo de PROXY para tu apa
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. Dentro de **External load balancers (Balanceadores de carga externos)**, selecciona **Enable support for PROXY protocol (Habilitar soporte para el protocolo de PROXY)**. ![Casilla de verificación para habilitar el soporte para el protocolo PROXY](/assets/images/enterprise/management-console/enable-proxy.png)
+3. Dentro de **External load balancers (Balanceadores de carga externos)**, selecciona **Enable support for PROXY protocol (Habilitar soporte para el protocolo de PROXY)**. ![Casilla de verificación para habilitar el soporte para el protocolo PROXY](/assets/images/2021/10/enterprise/management-console/enable-proxy.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.proxy_protocol_ports %}
@@ -54,7 +54,7 @@ Recomendamos firmemente habilitar el soporte para protocolo de PROXY para tu apa
 {% data reusables.enterprise_site_admin_settings.access-settings %}
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.privacy %}
-3. Dentro de **External load balancers (Balanceadores de carga externos)**, selecciona **Allow HTTP X-Forwarded-For header (Permitir encabezados HTTP X-Forwarded-For)**. ![Casilla de verificación para permitir el encabezado de HTTP X-Forwarded-For](/assets/images/enterprise/management-console/allow-xff.png)
+3. Dentro de **External load balancers (Balanceadores de carga externos)**, selecciona **Allow HTTP X-Forwarded-For header (Permitir encabezados HTTP X-Forwarded-For)**. ![Casilla de verificación para permitir el encabezado de HTTP X-Forwarded-For](/assets/images/2021/10/enterprise/management-console/allow-xff.png)
 {% data reusables.enterprise_management_console.save-settings %}
 
 {% data reusables.enterprise_clustering.without_proxy_protocol_ports %}

@@ -2,5 +2,5 @@
 1. In the left sidebar, click **{% octicon "gear" aria-label="The gear icon" %} Account**.
 {% else %}
 1. In the left sidebar, click **Account**.
-![Account settings menu option](/assets/images/help/settings/settings-sidebar-account-settings.png)
+![Account settings menu option](/assets/images/2021/10/help/settings/settings-sidebar-account-settings.png)
 {% endif %}

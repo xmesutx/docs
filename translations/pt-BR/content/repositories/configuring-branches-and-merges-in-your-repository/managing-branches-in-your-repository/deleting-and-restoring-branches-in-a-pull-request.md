@@ -26,7 +26,7 @@ Você pode excluir um branch que esteja associado a uma pull request se a pull r
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.list-closed-pull-requests %}
 4. Na lista de pull requests, clique naquela associada ao branch que você deseja excluir.
-5. Próximo à parte inferior da pull request, clique em **Delete branch** (Excluir branch). ![Botão Delete branch (Excluir branch)](/assets/images/help/pull_requests/delete_branch_button.png)
+5. Próximo à parte inferior da pull request, clique em **Delete branch** (Excluir branch). ![Botão Delete branch (Excluir branch)](/assets/images/2021/10/help/pull_requests/delete_branch_button.png)
 
    Este botão não é exibido se houver atualmente uma pull request aberta para este branch.
 
@@ -38,7 +38,7 @@ Você pode excluir um branch que esteja associado a uma pull request se a pull r
 {% data reusables.repositories.sidebar-pr %}
 {% data reusables.repositories.list-closed-pull-requests %}
 4. Na lista de pull requests, clique naquela associada ao branch que você deseja restaurar.
-5. Próximo à parte inferior da pull request, clique em **Restore branch** (Restaurar branch). ![Botão Restore deleted branch (Restaurar branch excluído)](/assets/images/help/branches/branches-restore-deleted.png)
+5. Próximo à parte inferior da pull request, clique em **Restore branch** (Restaurar branch). ![Botão Restore deleted branch (Restaurar branch excluído)](/assets/images/2021/10/help/branches/branches-restore-deleted.png)
 
 ## Leia mais
 

@@ -30,10 +30,10 @@ shortTitle: 添加行为准则
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
 3. 在文件名字段中输入 *CODE_OF_CONDUCT.md*。
-4. 单击 **Choose a code of conduct template（选择行为准则模板）**。 ![用于选择行为准则模板的按钮](/assets/images/help/repository/code-of-conduct-tool.png)
-5. 在页面左边选择行为准则进行预览并添加到项目。 ![行为准则模板的选择](/assets/images/help/repository/code-of-conduct-tool-picker.png)
+4. 单击 **Choose a code of conduct template（选择行为准则模板）**。 ![用于选择行为准则模板的按钮](/assets/images/2021/10/help/repository/code-of-conduct-tool.png)
+5. 在页面左边选择行为准则进行预览并添加到项目。 ![行为准则模板的选择](/assets/images/2021/10/help/repository/code-of-conduct-tool-picker.png)
 6. 在页面右边完成字段，在所选的行为准则中填写适当的信息。
-7. 单击 **Review and submit（预览并提交）**。 ![审查行为准则并提交到项目](/assets/images/help/repository/code-of-conduct-tool-review.png)
+7. 单击 **Review and submit（预览并提交）**。 ![审查行为准则并提交到项目](/assets/images/2021/10/help/repository/code-of-conduct-tool-review.png)
 8. 检查文本区域中的行为准则内容。
 {% data reusables.files.write_commit_message %}
 {% data reusables.files.choose_commit_branch %}
@@ -45,7 +45,7 @@ shortTitle: 添加行为准则
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
-3. 在文件名字段中，键入文件的名称和扩展名。 ![新行为准则文件名](/assets/images/help/repository/new-code-of-conduct-file-name.png)
+3. 在文件名字段中，键入文件的名称和扩展名。 ![新行为准则文件名](/assets/images/2021/10/help/repository/new-code-of-conduct-file-name.png)
     - 要在仓库根目录中显示您的行为准则，请在文件名字段中键入 *CODE_OF_CONDUCT*。
     - 要在仓库的 `docs` 目录中显示您的行为准则，请键入 *docs/CODE_OF_CONDUCT*。
     - 要在仓库的 `.github` 目录中显示您的行为准则，请键入 *.github/CODE_OF_CONDUCT*。

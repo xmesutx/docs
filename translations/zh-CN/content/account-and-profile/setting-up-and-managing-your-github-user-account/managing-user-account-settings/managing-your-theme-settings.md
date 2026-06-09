@@ -33,14 +33,14 @@ shortTitle: 管理主题设置
 
 1. 在“Theme mode（主题模式）”下，选择下拉菜单，然后单击主题首选项。
 
-   !["主题模式"下的下拉菜单用于选择主题首选项](/assets/images/help/settings/theme-mode-drop-down-menu.png)
+   !["主题模式"下的下拉菜单用于选择主题首选项](/assets/images/2021/10/help/settings/theme-mode-drop-down-menu.png)
 1. 单击想要使用的主题。
     - 如果您选择单个主题，请单击一个主题。
 
-      {% ifversion fpt or ghes > 3.2 or ghae-issue-4618 or ghec %}![Radio buttons for the choice of a single theme](/assets/images/help/settings/theme-choose-a-single-theme-highcontrast.png){% else %}![Radio buttons for the choice of a single theme](/assets/images/help/settings/theme-choose-a-single-theme.png){% endif %}
+      {% ifversion fpt or ghes > 3.2 or ghae-issue-4618 or ghec %}![Radio buttons for the choice of a single theme](/assets/images/2021/10/help/settings/theme-choose-a-single-theme-highcontrast.png){% else %}![Radio buttons for the choice of a single theme](/assets/images/2021/10/help/settings/theme-choose-a-single-theme.png){% endif %}
     - 如果您选择遵循系统设置，请单击白天主题和夜间主题。
 
-      {% ifversion fpt or ghes > 3.2 or ghae-issue-4618 or ghec %}![Buttons for the choice of a theme to sync with the system setting](/assets/images/help/settings/theme-choose-a-day-and-night-theme-to-sync-highcontrast.png){% else %}![Buttons for the choice of a theme to sync with the system setting](/assets/images/help/settings/theme-choose-a-day-and-night-theme-to-sync.png){% endif %}
+      {% ifversion fpt or ghes > 3.2 or ghae-issue-4618 or ghec %}![Buttons for the choice of a theme to sync with the system setting](/assets/images/2021/10/help/settings/theme-choose-a-day-and-night-theme-to-sync-highcontrast.png){% else %}![Buttons for the choice of a theme to sync with the system setting](/assets/images/2021/10/help/settings/theme-choose-a-day-and-night-theme-to-sync.png){% endif %}
     {% ifversion fpt or ghae-issue-4619 or ghec %}
     - 如果您想选择当前处于公开测试阶段的主题，则首先需要通过功能预览启用它。 更多信息请参阅“[通过功能预览了解早期访问版本](/get-started/using-github/exploring-early-access-releases-with-feature-preview)”。{% endif %}
 

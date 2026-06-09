@@ -82,15 +82,15 @@ For more information about creating a chroot environment see "[Chroot](https://w
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.hooks-tab %}
 5. Click **Manage environments**.
-![Manage Environments](/assets/images/enterprise/site-admin-settings/manage-pre-receive-environments.png)
+![Manage Environments](/assets/images/2021/10/enterprise/site-admin-settings/manage-pre-receive-environments.png)
 6. Click **Add environment**.
-![Add Environment](/assets/images/enterprise/site-admin-settings/add-pre-receive-environment.png)
+![Add Environment](/assets/images/2021/10/enterprise/site-admin-settings/add-pre-receive-environment.png)
 7. Enter the desired name in the **Environment name** field.
-![Environment name](/assets/images/enterprise/site-admin-settings/pre-receive-environment-name.png)
+![Environment name](/assets/images/2021/10/enterprise/site-admin-settings/pre-receive-environment-name.png)
 8. Enter the URL of the `*.tar.gz` file that contains your environment.
-![Upload environment from a URL](/assets/images/enterprise/site-admin-settings/upload-environment-from-url.png)
+![Upload environment from a URL](/assets/images/2021/10/enterprise/site-admin-settings/upload-environment-from-url.png)
 9. Click **Add environment**.
-![Add environment button](/assets/images/enterprise/site-admin-settings/add-environment-button.png)
+![Add environment button](/assets/images/2021/10/enterprise/site-admin-settings/add-environment-button.png)
 
 ## Uploading a pre-receive hook environment via the administrative shell
 1. Upload a readable `*.tar.gz` file that contains your environment to a web host and copy the URL or transfer the file to the {% data variables.product.prodname_ghe_server %} appliance via `scp`. When using `scp`, you may need to adjust the `*.tar.gz` file permissions so that the file is world readable.

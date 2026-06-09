@@ -64,7 +64,7 @@ You need to successfully authenticate and have access to the repositories in you
 
 GitHub では、コードスニペットが提供するコンテキストとと、検索結果のハイライトが使用できます。 Search API では、検索結果を表示するときに、検索と一致した言葉をハイライトできる付加的なメタデータを用意しています。
 
-![code-snippet-highlighting](/assets/images/text-match-search-api.png)
+![code-snippet-highlighting](/assets/images/2021/10/text-match-search-api.png)
 
 リクエストでは、レスポンスに含まれるテキストフラグメントを受け取ることを選べます。各フラグメントには、一致した各検索用語の正確な場所を特定する数値オフセットが付属しています。
 

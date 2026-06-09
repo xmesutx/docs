@@ -21,7 +21,7 @@ Quando você faz push de commits usando a linha de comando, o endereço de e-mai
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.emails %}
 {% data reusables.user-settings.keeping_your_email_address_private %}
-4. Para manter seu endereço de e-mail privado em commits dos quais você faz push pela linha de comando, selecione **Block command line pushes that expose my email** (Bloquear pushes de linha de comando que mostrem meu e-mail). ![Opção para bloquear pushes de linha de comando que mostrem seus e-mails](/assets/images/help/settings/email_privacy_block_command_line_pushes.png)
+4. Para manter seu endereço de e-mail privado em commits dos quais você faz push pela linha de comando, selecione **Block command line pushes that expose my email** (Bloquear pushes de linha de comando que mostrem meu e-mail). ![Opção para bloquear pushes de linha de comando que mostrem seus e-mails](/assets/images/2021/10/help/settings/email_privacy_block_command_line_pushes.png)
 
 ## Leia mais
 
