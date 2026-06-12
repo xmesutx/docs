@@ -1,0 +1,197 @@
+# Home Assistant Konfiguration
+# Passend zum Dashboard Screenshot
+
+homeassistant:
+  name: Home
+  latitude: !secret home_latitude
+  longitude: !secret home_longitude
+  elevation: !secret home_elevation
+  unit_system: metric
+  currency: EUR
+  language: de
+  time_zone: Europe/Berlin
+  external_url: !secret external_url
+  internal_url: !secret internal_url
+
+# Lovelace Dashboard
+lovelace:
+  mode: yaml
+  resources:
+    - url: /hacsfiles/clock-weather-card/clock-weather-card.js
+      type: module
+    - url: /hacsfiles/mini-climate/mini-climate.js
+      type: module
+    - url: /hacsfiles/mini-humidifier/mini-humidifier.js
+      type: module
+    - url: /hacsfiles/card-mod/card-mod.js
+      type: module
+
+# Sensoren
+sensor:
+  - platform: template
+    sensors:
+      outside_temperature:
+        friendly_name: "Außentemperatur"
+        unit_of_measurement: "°C"
+        value_template: "{{ states('sensor.weather_temperature') }}"
+
+      humidity_indoor:
+        friendly_name: "Luftfeuchtigkeit Innen"
+        unit_of_measurement: "%"
+        value_template: "{{ states('sensor.indoor_humidity') }}"
+
+# Wetter
+weather:
+  - platform: met
+
+# Licht Entitäten (Demo)
+light:
+  - platform: demo
+
+# Klima
+climate:
+  - platform: demo
+
+# Medien Player
+media_player:
+  - platform: demo
+
+# Schlösser
+lock:
+  - platform: demo
+
+# Rollladen / Cover
+cover:
+  - platform: demo
+
+# Luftbefeuchter
+humidifier:
+  - platform: demo
+
+# Input Boolean für Anwesenheitserkennung
+input_boolean:
+  home_boy:
+    name: Home Boy
+    icon: mdi:home-account
+    initial: true
+
+# Alarm Panel
+alarm_control_panel:
+  - platform: manual
+    name: Security
+    code: !secret alarm_code
+    disarmed:
+      trigger_time: 0
+    armed_home:
+      pending_time: 30
+      delay_time: 20
+
+# Automatisierungen
+automation:
+  # Lichter automatisch einschalten bei Sonnenuntergang
+  - alias: "Lichter bei Sonnenuntergang"
+    trigger:
+      platform: sun
+      event: sunset
+      offset: "-00:30:00"
+    action:
+      service: light.turn_on
+      entity_id:
+        - light.living_room_rgb
+        - light.ceiling_lights
+      data:
+        brightness_pct: 60
+        color_temp: 3000
+
+  # Thermostat Eco-Modus nachts
+  - alias: "Heizung Eco Nacht"
+    trigger:
+      platform: time
+      at: "22:00:00"
+    action:
+      service: climate.set_preset_mode
+      entity_id: climate.heater
+      data:
+        preset_mode: eco
+
+  # Sicherheit aktivieren bei Abwesenheit
+  - alias: "Sicherheit bei Abwesenheit"
+    trigger:
+      platform: state
+      entity_id: person.bewohner
+      to: "not_home"
+    action:
+      service: alarm_control_panel.alarm_arm_away
+      entity_id: alarm_control_panel.security
+
+# Skripte
+script:
+  guten_morgen:
+    alias: "Guten Morgen Routine"
+    sequence:
+      - service: light.turn_on
+        entity_id: light.bed_light
+        data:
+          brightness_pct: 30
+          transition: 60
+      - delay: "00:05:00"
+      - service: climate.set_temperature
+        entity_id: climate.heater
+        data:
+          temperature: 21
+      - service: media_player.play_media
+        entity_id: media_player.walkman
+        data:
+          media_content_id: "https://radio-url-here"
+          media_content_type: music
+
+  gute_nacht:
+    alias: "Gute Nacht Routine"
+    sequence:
+      - service: light.turn_off
+        entity_id: all
+      - service: cover.close_cover
+        entity_id:
+          - cover.pergola_roof
+          - cover.living_room_window
+      - service: climate.set_preset_mode
+        entity_id: climate.heater
+        data:
+          preset_mode: sleep
+      - service: alarm_control_panel.alarm_arm_home
+        entity_id: alarm_control_panel.security
+
+# Themes
+frontend:
+  themes:
+    ios-dark-mode:
+      # iOS-ähnliches dunkles Theme (passend zum Screenshot)
+      primary-color: "#007AFF"
+      accent-color: "#5AC8FA"
+      primary-background-color: "#1C1C1E"
+      secondary-background-color: "#2C2C2E"
+      card-background-color: "rgba(44, 44, 46, 0.8)"
+      primary-text-color: "#FFFFFF"
+      secondary-text-color: "rgba(255, 255, 255, 0.6)"
+      disabled-text-color: "rgba(255, 255, 255, 0.3)"
+      divider-color: "rgba(255, 255, 255, 0.12)"
+      header-card-background-color: "rgba(28, 28, 30, 0.9)"
+      sidebar-background-color: "rgba(28, 28, 30, 0.95)"
+      sidebar-text-color: "#FFFFFF"
+      sidebar-icon-color: "rgba(255, 255, 255, 0.6)"
+      sidebar-selected-text-color: "#007AFF"
+      sidebar-selected-icon-color: "#007AFF"
+      paper-toggle-button-checked-ink-color: "#007AFF"
+      paper-toggle-button-checked-button-color: "#007AFF"
+      paper-toggle-button-checked-bar-color: "#007AFF"
+      mdc-theme-primary: "#007AFF"
+      mdc-theme-secondary: "#5AC8FA"
+      ha-card-border-radius: "16px"
+      ha-card-box-shadow: "0 4px 20px rgba(0, 0, 0, 0.3)"
+
+# HTTP
+http:
+  use_x_forwarded_for: true
+  trusted_proxies:
+    - 127.0.0.1
+    - ::1

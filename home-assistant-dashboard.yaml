@@ -1,0 +1,220 @@
+title: Home Assistant Dashboard
+views:
+  - title: Home
+    path: home
+    type: masonry
+    badges:
+      - entity: input_boolean.home_boy
+        name: Home Boy
+        icon: mdi:home-account
+      - entity: media_player.walkman
+        name: Walkman Playing
+        icon: mdi:music
+      - entity: alarm_control_panel.security
+        name: Security
+        icon: mdi:shield-check
+      - entity: sensor.humidity_indoor
+        name: Humidity
+        icon: mdi:water-percent
+      - entity: sensor.outside_temperature
+        name: Outside
+        icon: mdi:thermometer
+    cards:
+      # Zeit & Wetter Karte
+      - type: custom:clock-weather-card
+        entity: weather.home
+        title: ""
+        sun_entity: sun.sun
+        temperature_sensor: sensor.outside_temperature
+        weather_icon_type: fill
+        animated_icon: true
+        forecast_rows: 5
+        locale: de
+        time_format: 24
+        time_pattern: "H:mm a"
+        hide_forecast_section: false
+        hide_clock_section: false
+        hide_today_section: false
+        hourly_forecast: false
+        use_browser_time: true
+
+      # Media Player Karte
+      - type: media-player
+        entity: media_player.walkman
+        name: Walkman
+        show_volume_level: true
+        card_mod:
+          style: |
+            ha-card {
+              background: rgba(255, 255, 255, 0.1);
+              backdrop-filter: blur(10px);
+            }
+
+      # Licht Steuerung - Schlafzimmer
+      - type: grid
+        columns: 2
+        square: false
+        cards:
+          - type: button
+            entity: light.bed_light
+            name: Bed Light
+            show_state: false
+            tap_action:
+              action: toggle
+            icon: mdi:lightbulb
+            card_mod:
+              style: |
+                ha-card {
+                  background: rgba(255, 255, 255, 0.08);
+                  border-radius: 16px;
+                }
+
+          - type: button
+            entity: light.ceiling_lights
+            name: Ceiling Lights
+            show_state: false
+            tap_action:
+              action: toggle
+            icon: mdi:ceiling-light
+            card_mod:
+              style: |
+                ha-card {
+                  background: rgba(255, 255, 255, 0.08);
+                  border-radius: 16px;
+                }
+
+          - type: tile
+            entity: light.kitchen_lights
+            name: Kitchen Lights
+            show_entity_picture: false
+            features:
+              - type: light-brightness
+
+          - type: tile
+            entity: light.living_room_rgb
+            name: Living Room RGB
+            show_entity_picture: false
+            features:
+              - type: light-brightness
+
+      # Türschloss & Heizung
+      - type: grid
+        columns: 2
+        square: false
+        cards:
+          - type: tile
+            entity: lock.front_door
+            name: Poorly Installed Door
+            icon: mdi:door
+            features: []
+
+          - type: thermostat
+            entity: climate.heater
+            name: Heater
+
+      # Wärmepumpe
+      - type: custom:mini-climate
+        entity: climate.heat_pump
+        name: Heat Pump
+        show_current_as_primary: false
+        buttons:
+          power:
+            icon: mdi:power
+          fan_mode:
+            source:
+              auto: {}
+              low: {}
+              medium: {}
+              high: {}
+          swing_mode:
+            source:
+              both: {}
+              "off": {}
+        temperature:
+          step: 1
+          sources:
+            - entity: sensor.heat_pump_temperature
+        card_mod:
+          style: |
+            ha-card {
+              background: rgba(255, 120, 50, 0.15);
+              border-radius: 20px;
+            }
+
+      # Luftbefeuchter
+      - type: custom:mini-humidifier
+        entity: humidifier.main_humidifier
+        name: Humidifier
+        tap_action:
+          action: more-info
+        card_mod:
+          style: |
+            ha-card {
+              background: rgba(50, 150, 255, 0.15);
+              border-radius: 20px;
+            }
+
+      # Pergola & Fenster Steuerung
+      - type: grid
+        columns: 2
+        square: false
+        cards:
+          - type: cover
+            entity: cover.pergola_roof
+            name: Pergola Roof
+            show_position_control: true
+            show_buttons_control: true
+
+          - type: cover
+            entity: cover.living_room_window
+            name: Living Room Window
+            show_position_control: true
+            show_buttons_control: true
+
+  - title: Bedroom
+    path: bedroom
+    cards:
+      - type: entities
+        entities:
+          - entity: light.bed_light
+            name: Bett Licht
+          - entity: light.ceiling_lights
+            name: Deckenlampe
+          - entity: climate.bedroom_thermostat
+            name: Thermostat
+          - entity: media_player.bedroom_speaker
+            name: Lautsprecher
+          - entity: cover.bedroom_blinds
+            name: Jalousien
+
+  - title: Living Room
+    path: living-room
+    cards:
+      - type: entities
+        entities:
+          - entity: light.living_room_rgb
+            name: RGB Licht
+          - entity: media_player.tv
+            name: Fernseher
+          - entity: climate.living_room_ac
+            name: Klimaanlage
+          - entity: cover.living_room_window
+            name: Fenster
+          - entity: sensor.living_room_temperature
+            name: Temperatur
+          - entity: sensor.living_room_humidity
+            name: Luftfeuchtigkeit
+
+  - title: Kitchen
+    path: kitchen
+    cards:
+      - type: entities
+        entities:
+          - entity: light.kitchen_lights
+            name: Küchenlicht
+          - entity: switch.coffee_maker
+            name: Kaffeemaschine
+          - entity: switch.dishwasher
+            name: Geschirrspüler
+          - entity: sensor.kitchen_temperature
+            name: Temperatur
